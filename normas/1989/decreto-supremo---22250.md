@@ -1,0 +1,50 @@
+# Bolivia: Decreto Supremo Nº 22250, 14 de julio de 1989
+
+VICTOR PAZ ESTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+  
+DECRETA
+
+CONSIDERANDO:
+
+* Que por Ley de 23 de septiembre de 1983 se declaró de prioridad nacional la construcción del nuevo aeropuerto de Cochabamba; mediante [Decreto Supremo Nº 21597](https://www.lexivox.org//norms/BO-DS-21597.html) de 8 de mayo de 1987, se dispuso la ejecución del trabajo por etapas, y por [Decreto Supremo Nº 21634](https://www.lexivox.org//norms/BO-DS-21634.html) de 16 de junio de 1987, se autorizó al Ministerio de Aeronáutica la suscripción del contrato para la primera etapa de éste aeropuerto, con el Consorcio Federici Impresit ICE.
+* Que en el contrato de construcción suscrito el 17 de junio de 1987 y Convenio Complementario de 12 de septiembre de 1987, se otorgó al consorcio contratista opción para la construcción de las obras civiles, suministro y montaje de materiales y equipos y los trabajos de conclusión del nuevo aeropuerto de Cochabamba, previo cumplimiento de las condiciones y requisitos establecidos en esos instrumentos, entre ellos, la obtención de financiamiento blando de origen italiano y precios razonables a nivel internacional, certificados por un consultor independiente contratado por el Ministerio de Aeronáutica.
+* Que el 3 de agosto de 1988 el Gobierno de la República de Bolivia y el Gobierno de Italia suscribieron un protocolo, por el que se concede un crédito blando de ayuda de hasta $us.40.000.000.- por parte de Italia.
+* Que el Consejo Nacional de Economía y Planeamiento mediante resolución 64/89 de 26 de mayo de 1989, recomendó la construcción de las partes faltantes del nuevo aeropuerto de Cochabamba.
+
+EN CONSEJO DE MINISTROS,
+
+**Artículo 1°.-** Autorízase la construcción conjunto de las partes faltantes del nuevo aeropuerto de Cochabamba (2ª., 3ª. y 4ª. etapas), referidas a obras civiles, suministros y montaje de materiales y equipos necesarios para la conclusión total del proyecto, por un monto de hasta $us.50.000.000.-, con el siguiente financiamiento:
+
+| FUENTE | MONTO |
+| --- | --- |
+| Crédito República de Italia | $US.40.000.000.- |
+| Aporte local AASANA | $US.10.000.000.- |
+| TOTAL: | $US.50.000.000.- |
+
+**Artículo 2°.-** Autorízase al Ministro de Finanzas para que en nombre de la República de Bolivia, suscriba el contrato de préstamo con el Gobierno de Italia de acuerdo con las negociaciones realizadas por la Cancillería de la República, sujeto a las siguientes condiciones:
+
+|  |  |
+| --- | --- |
+| Monto | $us.40.000.000.- |
+| Plazo | 20 años (10 de gracia) |
+| Tasa de interés | 1.5% anual |
+
+**Artículo 3°.-** Se instruye a los Ministros de Relaciones Exteriores y Culto y de Aeronáutica, gestionar ante el Gobierno de la República de Italia, financiamiento adicional en términos concesionales destinados a cubrir la contraparte local del precio de las partes faltantes del nuevo aeropuerto de Cochabamba.
+
+**Artículo 4°.-** Autorízase al Ministro de Aeronáutica: a) Suscribir a través de la Administración de Aereopuertos y Servicios Auxiliares a la Navegación Aérea con el Consorcio Federici – Impresit – Ice, integrado por las empresas Ing. Fortunato Federici S. p. A., Imprese Italiane All Estero Impresit Costruzioni S. p. A. e ICE Ingenieros Bolivia Ltda., el contrato para la construcción de las obras civiles, sumistro y montaje de materiales y equipos faltantes para la conclusión del nuevo aeropuerto de Cochabamba (2a., 3ª. y 4ª. etapas) por un monto hasta $us.50.000.000.-; b) negociar con el contratista Consorcio Federici – Impresit – Ice el refinanciamiento del aporte local del precio del contrato de 17 de junio de 1987 y convenio complementario de 12 de septiembre de 1987, suscrito para la construcción de la primera etapa del nuevo aeropuerto de Cochabamba.
+
+**Artículo 5°.-** Autorízase al Ministero de Aeronáutica contratar una consultoría independiente de la Unidad Ejecutora del Preyecto, con sujeción a lo establecido por el capítulo III del [Decreto Supremo Nº 21660](https://www.lexivox.org//norms/BO-DS-21660.html) de 10 de junio de 1987, con objeto de verificar los precios contenidos en el proyecto de contrato para la construcción, equipamiento y montaje, incluyendo reajustes, del nuevo aeropuerto en las mejores condiciones bajo las cuales se resguarden los intereses del Estado en el contrato final a suscribirse.
+
+**Artículo 6°.-** Se autoriza al Banco Central de Bolivia conceder los avales requeridos por el crédito italiano, conforme a normas y reglamentos vigentes.
+
+**Artículo 7°.-** En cumplimiento a lo establecido por el [Decreto Supremo Nº 20837](https://www.lexivox.org//norms/BO-DS-20837.html) de 28 de mayo de 1985, se designa a la Administración de Aeropuertos y Servicios (Auxiliares a la Navegación Aérea, sujeto de crédito y ente responsable del proyecto, debiendo incluir en su presupuesto los recursos de contraparte necesarios para la conclusión de las obras y supervisión de las mismas.
+
+---
+
+Los señores Ministros de Estado en los despachos de Relaciones Exteriores y culto, Finanzas y Aeronáuticas quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de julio de mil novecientos ochenta y nueve años.
+  
+Fdo. VICTOR PAZ ESTENSSORO, Valentín Abecia Baldivieso, Eduardo Pérez Beltrán, Alfonso Revollo Thenier, Fernando Romero Moreno, Ramiro Cabezas Masses, Enrique Ipiña Melgar, Alfonso Balderrama Maldonado, Luís F. Palenque Cordero, Luís A. Peña Rueda, Joaquín Arce Lema, Jaime Villalobos Sanjinés, José G. Justiniano Sandoval, Fernando Illanes de la Riva, Roberto Roca Iriarte, Wálter Zuleta Roncal, Herman Antelo Lauglin, Jaime Zegada Hurtado.

@@ -1,0 +1,31 @@
+# Bolivia: Ley Nº 61, 20 de diciembre de 1960
+
+VÍCTOR PAZ ESTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+  
+POR TANTO: El Honorable Congreso Nacional ha sancionado la siguiente Ley:
+  
+EL CONGRESO NACIONAL,
+  
+DECRETA:
+
+**Artículo 1°.-** Créase la Segunda Sección Municipal de la provincia Sud Cinti del departamento de Chuquisaca, cuya capital será la población de Culpina.
+
+**Artículo 2°.-** La nueva Sección Municipal comprenderá los siguientes cantones: Salitre, La Cueva, Pilaya, La Ciénega, La Loma, San Francisco y el Palmar.
+
+**Artículo 3°.-** Los hitos delimitatorios serán fijados por el Instituto Geográfico Militar, de acuerdo al [Decreto Supremo de 5 de diciembre de 1950](https://www.lexivox.org//norms/BO-DS-2282.html).
+
+---
+
+Comuníquese al Poder Ejecutivo para los fines Constitucionales.
+  
+Sala de sesiones del H. Congreso Nacional.
+  
+La Paz, 13 de diciembre de 1960.
+  
+Fdo. Gualberto Olmos., Presidente del H. Senado Nacional; E. Ayala Mercado, Presidente de la Cámara de Diputados; F. Ayala Requena., Senador Secretario; Ciro Humboltd, Senador Secretario; Guillermo Muñoz de la Barra., Diputado Secretario; Armando Mollinedo Diputado Secretario.
+  
+POR TANTO: La promulgo para que se tenga y cumpla como Ley de la República.
+  
+Palacio de Gobierno en la ciudad de La Paz, a los veinte días del mes de diciembre de mil novecientos sesenta años

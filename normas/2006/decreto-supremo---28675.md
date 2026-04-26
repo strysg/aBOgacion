@@ -1,0 +1,49 @@
+# Bolivia: Decreto Supremo Nº 28675, 13 de abril de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante el Acuerdo de Cooperación Cuba -Bolivia suscrito entre el Gobierno Nacional y la República de Cuba, se acordó en el punto Séptimo que Cuba aportará a Bolivia la experiencia, el material didáctico y los medios técnicos necesarios para un programa de alfabetización que abarque la totalidad de la población apta, debiendo esforzarse ambos países por llevarlo a cabo en treinta (30) meses a partir de julio de 2006.
+* Que el Viceministro del ramo, con la finalidad de llevar adelante el Convenio de Cooperación Cuba - Bolivia para el Programa Nacional de Alfabetización “Yo si puedo”, requirió que la Máxima Autoridad Ejecutiva emita una Resolución Ministerial, para la flexibilización de los tramites que actualmente son normados por el Sistema de Administración de Bienes y Servicios, con la finalidad de atender oportunamente el requerimiento de compras, contrataciones, pasajes, viáticos y otros que se requiere.
+* Que según Informe Técnico de la Dirección General de Asuntos Administrativos del Ministerio de Educación y Culturas, en el Texto Ordenado del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html) de 31 de enero de 2004 - Procesos de Contratación de Bienes, Obras, Servicios Generales y de Consultorías, no se establece ningún mecanismo de flexibilización para los procedimientos de adquisición de bienes y servicios, pero la Máxima Autoridad Ejecutiva en base a la aplicación del Artículo 33 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) y el Artículo 63 del [Decreto Supremo Nº 23318](https://www.lexivox.org//norms/BO-DS-23318.html)-A, puede apartarse del cumplimiento de estas normas.
+* Que ante la consulta del Ministerio de Educación y Culturas, la Directora de Ejecución de Administración Gubernamental del Ministerio de Hacienda, señala que la aplicación del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html) son de aplicación obligatoria para todas las entidades públicas comprendidas, sin embargo, los Artículos 33 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) y Artículo 63 del [Decreto Supremo Nº 23318](https://www.lexivox.org//norms/BO-DS-23318.html)-A permiten a las entidades tomar decisiones apartándose de la normativa aplicable.
+* Que el Area de Desarrollo Organizacional y Recursos Humanos del Ministerio de Educación y Culturas, manifiesta que el Gobierno Boliviano ha establecido a la alfabetización como una prioridad nacional, ante las tasas e índices alarmantes de analfabetismo, habiendo firmado un acuerdo con el Gobierno Cubano para desarrollar un plan integral de alfabetización que estará vigente durante treinta (30) meses; por lo que para llevar adelante este plan es necesario implementar una unidad organizacional, programa o proyecto la cual deberá tener amplia capacidad técnica y administrativa para que los procesos sean ágiles, con la finalidad de cumplir con los compromisos asumidos en el desarrollo de la planificación establecida.
+* Que el Area de Presupuesto y el Jefe de Finanzas del Ministerio de Educación y Culturas, señalan que el Gobierno de Cuba manifestó su aceptación para brindar experiencia, material didáctico y los medios técnicos necesarios para el desarrollo de un Programa Nacional de Alfabetización con una cobertura superior a 700.000 personas, siendo necesario establecer aspectos técnicos, financieros y logísticos que permitan el adecuado funcionamiento del Programa, señalando que a objeto de facilitar los procesos administrativos se deberá tramitar la aprobación de un Decreto Supremo.
+* Que la Constitución Política del Estado prevé que la educación es la más alta función del Estado, la misma que es gratuita y se la imparte sobre la base de la escuela unificada y democrática, ya que la alfabetización es una necesidad social a la que deben contribuir todos los habitantes.
+* Que, el Artículo 8 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 9 de marzo de 2006 - Reglamento de la Ley de Organización del Poder Ejecutivo LOPE, se refiere a las excepciones para la organización, señalando que excepcionalmente, cuando un Ministerio tenga bajo su dependencia programas o proyectos específicos, para fines administrativos estos serán consideraciones como una Unidad Ejecutora y estarán a cargo de un Coordinador General con nivel equivalente a Jefe de Unidad del Ministerio correspondiente.
+* Que el Parágrafo IV, Articulo 88 del Reglamento de la LOPE, establece que la tramitación de Proyectos de decreto supremo Vía Rápida para temas que tengan carácter de urgencia, requieran una atención inmediata, debiendo el Ministro explicar personalmente al Presidente de la Republica, los motivos y justificaciones para efectuar tal procedimiento y obtener la autorización para su procesamiento.
+* Que el Ministro de Educación y Culturas, mediante Nota D. G. A. J.639/05, solicitó la aprobación del Proyecto de Decreto Supremo para crear el Programa Nacional de Alfabetización “Yo sí puedo”.
+* Que al existir la necesidad imperiosa de crear oficialmente el Programa Nacional de Alfabetización que se encargue de ejecutar el Acuerdo de Cooperación entre ambos países y mas aún cuando ha llegado a nuestro país un grupo de asesores cubanos, a quienes se debe asistir con recursos de contraparte, a fin de cumplir con los compromisos asumidos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El Presente Decreto Supremo tiene por objeto, establecer el Programa Nacional de Alfabetización “Yo sí puedo”.
+
+**Artículo 2°.- (Creacion)** 
+
+1. En mérito al Acuerdo de Cooperación Cuba - Bolivia, suscrito entre los primeros mandatarios de ambos países, se crea el Programa Nacional de Alfabetización “Yo sí puedo”, con el objeto de erradicar el analfabetismo en nuestro país con la asistencia y cooperación técnica de la República de Cuba, cuya vigencia está limitada al cumplimiento de sus objetivos.
+2. Para efectos de cumplimiento de lo previsto en el Parágrafo anterior, se dispone que todas las entidades públicas brinden su máxima cooperación a las autoridades nacionales y funcionarios bolivianos y cubanos expresamente autorizados para la implementación del mencionado Programa.
+
+**Artículo 3°.- (Ejecucion)** Para fines administrativos y operativos, el Programa Nacional de Alfabetización “Yo sí puedo”, será considerado como una Unidad Ejecutora y estará a cargo de un Coordinador General con nivel equivalente a Jefe de Unidad del Ministerio de Educación y Culturas, quien tendrá la responsabilidad de facilitar los procesos administrativos inmersos en el programa.
+
+**Artículo 4°.- (Contrataciones)** Por la naturaleza del Programa Nacional de Alfabetización “Yo sí puedo”, se dispone que las contrataciones de bienes y servicios que requiera realizar la ejecución del mismo, quedan exentas de la aplicación de las Normas de Administración de Bienes y Servicios y sus disposiciones complementarias y modificatorias; debiendo para tal efecto respaldar cada contratación o adquisición con un informe detallado del procedimiento realizado y toda la documentación que justifique la operación realizada, debiendo en forma semestral informar a la Contraloría General de la República de todas las contrataciones y adquisiciones realizadas, para fines posteriores de control
+
+**Artículo 5°.- (Gravamenes)** 
+
+1. De manera excepcional, por tratarse del tema de alfabetización y educación que se encuentra respaldado en la Constitución Política del Estado, durante el tiempo que tenga vigencia el programa, se autoriza al Ministerio de Hacienda emitir Notas de Crédito Fiscal, para cubrir los gastos de todos los gravámenes aduaneros, impuestos y tasas en general, para los equipos técnicos, audiovisuales y material didáctico donados por el Gobierno de Cuba consistentes en televisores a color, equipos VHS, transformadores, cartillas educativas, paneles solares y otros.
+2. Las Notas de Crédito Fiscal dispuestas en el Parágrafo anterior solamente podrán ser usadas para el tema específico de los equipos mencionados, el incumplimiento a lo dispuesto, será sancionado según corresponda con las responsabilidades del caso.
+
+**Artículo 6°.- (Vigencia de normas)** Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda y de Educación y Culturas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de abril del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

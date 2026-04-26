@@ -1,0 +1,40 @@
+# Bolivia: Decreto Supremo Nº 4592, 29 de septiembre de 2021
+
+[Decreto Supremo Nº 4592](https://www.lexivox.org//norms/BO-DS-N4592.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 103 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Estado asumirá como política la implementación de estrategias para incorporar el conocimiento y aplicación de nuevas tecnologías de información y comunicación.
+* Que los Parágrafos I y II del Artículo 348 del Texto Constitucional, establece que son recursos naturales los minerales en todos sus estados, los hidrocarburos, el agua, el aire, el suelo y el subsuelo, los bosques, la biodiversidad, el espectro electromagnético y todos aquellos elementos y fuerzas físicas susceptibles de aprovechamiento; y los recursos naturales son de carácter estratégico y de interés público para el desarrollo del país.
+* Que el Parágrafo I del Artículo 351 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), disponen que el Estado, asumirá el control y la dirección sobre la exploración, explotación, industrialización, transporte y comercialización de los recursos naturales estratégicos a través de entidades públicas, cooperativas o comunitarias, las que podrán a su vez contratar a empresas privadas y constituir empresas mixtas.
+* Que el Parágrafo I del Artículo 3 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, señala que el espectro electromagnético es un recurso natural, de carácter estratégico, limitado y de interés público, del cual es parte el espectro radioeléctrico, por lo que en todo momento el pueblo boliviano mantendrá la propiedad y el dominio sobre el mismo y el Estado lo administrará en su nivel central.
+* Que los Parágrafos I y II del Artículo 8 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), establece que el Plan Nacional de Frecuencias reglamentará el uso equitativo y eficiente del espectro radioeléctrico a nivel nacional, considerando, entre otros, los aspectos económicos, de seguridad, educativos, científicos, de interés público y técnicos conforme a políticas de Estado, intereses nacionales y compromisos internacionales aprobados, con el objeto de optimizar su uso y evitar interferencias perjudiciales; y la administración, asignación, autorización, control, fiscalización y supervisión del uso de las frecuencias electromagnéticas en redes de telecomunicaciones, radiodifusión y otras en el territorio nacional corresponde al nivel central del Estado a través de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, de acuerdo al Plan Nacional de Frecuencias.
+* Que el numeral 7 del Artículo 14 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), dispone que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, en lo que se refiere a telecomunicaciones, tecnología de información y comunicación y servicio postal, tiene entre otras la atribución de regular, autorizar, controlar, fiscalizar y coordinar el uso del espectro radioeléctrico y realizar la comprobación técnica de las emisiones electromagnéticas en el territorio del Estado Plurinacional.
+* Que el Artículo 76 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), señala que el Estado fijará los mecanismos y condiciones que las entidades públicas aplicarán para garantizar el máximo aprovechamiento de las tecnologías de la información y comunicación, que permitan lograr la prestación de servicios eficientes.
+* Que el Reglamento para el Desarrollo de Tecnologías de Información y Comunicación, aprobado por Artículo 1 del [Decreto Supremo Nº 1793](https://www.lexivox.org//norms/BO-DS-N1793.html), de 13 de noviembre de 2013, reglamenta el acceso, uso y desarrollo de las Tecnologías de Información y Comunicación - TIC, en el marco del Título IV de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), modificado por el [Decreto Supremo Nº 3527](https://www.lexivox.org//norms/BO-DS-N3527.html), de 11 de abril de 2018.
+* Que el [Decreto Supremo Nº 3251](https://www.lexivox.org//norms/BO-DS-N3251.html), de 12 de julio de 2017, tiene por objeto aprobar el Plan de Implementación de Gobierno Electrónico, el Plan de Implementación de Software Libre y Estándares Abiertos y establece aspectos complementarios para la implementación de ambos planes.
+* Que con el fin de hacer efectiva la gestión, control y uso eficiente del espectro electromagnético definido como recurso natural estratégico y al ser la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes la entidad encargada por Ley para regular, autorizar, controlar, fiscalizar y coordinar el uso del mismo, es necesaria la emisión del presente Decreto Supremo que permita la implementación de tecnologías con este propósito.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto, autorizar a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes el uso de Software privativo para la gestión, administración, monitoreo y control soberano del Espectro Electromagnético, para lo cual se modifica el [Decreto Supremo Nº 3251](https://www.lexivox.org//norms/BO-DS-N3251.html), de 12 de julio de 2017.
+
+**Artículo 2°.- (Modificaciones)** Se modifica el Parágrafo I de la Disposición Final Tercera del [Decreto Supremo Nº 3251](https://www.lexivox.org//norms/BO-DS-N3251.html), de 12 de julio de 2017, con el siguiente texto:
+> “ DISPOSICIÓN FINAL TERCERA.-
+>   
+> I. No requerirán sujetarse al Plan de Implementación de Software Libre y Estándares Abiertos, ni al Artículo 23 del Reglamento para el Desarrollo de Tecnologías de Información y Comunicación aprobado por [Decreto Supremo Nº 1793](https://www.lexivox.org//norms/BO-DS-N1793.html), de 13 de noviembre de 2013, los siguientes casos:
+>   
+> a) El software necesario e imprescindible para el funcionamiento y gestión de la maquinaria, que se encuentran bajo las partidas presupuestarias 43200 "Maquinaria y Equipo de Producción", 43300 "Equipo de Transporte, Tracción y Elevación", 43400 "Equipo Médico y de Laboratorio" y 43700 "Otra Maquinaria y Equipo"; b) Las soluciones tecnológicas para la gestión, administración, monitoreo y control soberano del Espectro Electromagnético, establecido en la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), como un recurso natural estratégico.”
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veinte y nueve días de mes de septiembre del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Adrian Ruben Quelca Tarqui, Remmy Ruben Gonzales Atila MINISTRO DE DESARROLLO RURAL Y TIERRAS E INTERINO DE MEDIO AMBIENTE Y AGUA, Sabina Orellana Cruz.

@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 26157, 12 de abril de 2001
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que es necesario concretar la política del gobierno de incentivar la producción destinado a las exportaciones mediante la apertura de nuevos mercados, por lo que es necesario concluir la construcción de las carreteras que conforman los corredores de Exportación.
+* Que para completar el asfaltado del Corredor de Exportación Norte - Sur (Carretera Panamericana) que une la ciudad de Bermejo (frontera con la República de Argentina) con la localidad del Desaguadero, esta última conectada al Puerto de Ilo en el Océano Pacífico (República del Perú), deben realizarse trabajos en los tramos: Melgarejo - Ventilla, Ventilla - Tarapaya; Cuchu Ingenio - Tomatitas y La Mamora - Km.19.
+* Que el Gobierno Nacional ha concretado a través de un crédito del Banco Interamericano de Desarrollo “BID” la construcción del tramo Ventilla - Tarapaya; está gestionando ante la Corporación Andina de Fomento “CAF” el financiamiento de la construcción del tramo Melgarejo - Ventilla y concluido el Estudio de Factibilidad Económica, Impacto Ambiental del proyecto y en realización el Estudio de Diseño final del Tramo Cuchu Ingenio - Tarija.
+* Que el Programa de Financiamiento a las Exportaciones de la República Federativa del Brasil PROEX en su cuarta reunión extraordinaria realizada el 2 de agosto del 2000, ha aprobado un crédito para financiar parte de los recursos destinados a la construcción del tramo La Mamora - Km.19, crédito que se canalizará a través del Banco Do Brasil, consignando como exportadora de los bienes y servicios a la Empresa Constructora Brasileña Queiroz Galvao, contratista de la obra.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Ministro de Hacienda a suscribir con el PROEX - Banco Do Brasil un crédito de hasta $us.58.377.644,53 (Cincuenta y ocho millones trescientos setenta y siete mil seiscientos cuarenta y cuatro dólares americanos estadounidenses con cincuenta y tres centavos) y a negociar y suscribir con la Corporación Andina de Fomento un crédito de hasta $us.16.000.000 (Dieciséis millones de dólares estadounidenses), bajo las condiciones establecidas al efecto. Dichos recursos estarán íntegramente destinados a financiar la construcción de la carretera La Mamora - Km.19.
+
+**Artículo 2°.-** Se autoriza al Servicio Nacional de Caminos proceder a la actualización de los contratos de obra y supervisión técnica, con base en el nuevo financiamiento, a objeto que puedan reiniciarse los trabajos.
+
+---
+
+Los señores Ministros de Estado en el Despacho de Hacienda y Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de abril del año dos mil uno.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Marcelo Pérez Monasterios, Guillermo Fortún Suárez, Oscar vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Carlos Saavedra Bruno, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

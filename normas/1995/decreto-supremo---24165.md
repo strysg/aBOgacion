@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 24165, 23 de noviembre de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Considerando:
+
+* Que la [Ley Nº 1544](https://www.lexivox.org//norms/BO-L-1544.html) de 21 de marzo de 1994 (Ley de Capitalización) en su artículo primero autoriza al Poder Ejecutivo la constitución de nuevas sociedades de economía mixta, con los activos y/o derechos de las empresas públicas y los apones de los trabajadores bolivianos de dichas empresas, basta el monto de sus beneficios sociales.
+* Que la Empresa Nacional de Ferrocarriles (ENFE) ha cursado a sus trabajadores la propuesta para la formación de dos sociedades de economía mixta, por la conversión de las unidades económicas Red Andina y Red Oriental.
+* Que la mencionada propuesta consiste en la suscripción y pago de una acción por cada trabajador que lo desee, para la formación de las sociedades de economía mixta, con un contrato de opción, en favor del mismo, para comprar acciones del Sector Publico de dichas sociedades, a su valor en libros, hasta el limite establecido en el artículo primero de la Ley de Capitalización.
+* Que dicha opción deberá ser ejercida dentro del plazo establecido en el contrato, una vez conocidas las propuestas económicas de los socios inversionistas para la capitalización, a ser seleccionados mediante licitación publica internacional, de conformidad a la Ley de Capitalización.
+* Que en fecha 22 de noviembre de 1995, se han suscrito los convenios de formación de las respectivas sociedades de economía mixta, entre el interés privado, constituido por los trabajadores de ENFE y el sector público, constituido por ENFE. aprobando los proyectos de escritura de constitución y estatutos.
+* Que el artículo segundo de la Ley de Capitalización autoriza y aprueba los acuerdos requeridos para la conversión en sociedades de economía mixta, de acuerdo a disposiciones en vigencia, de las empresas publicas, incluyendo a ENFE. que especifiquen como aportes del Estado el valor en libros del patrimonio de dichas empresas.
+* Que el inciso 3) del artículo 428 del Código de Comercio establece como requisito para la constitución de las sociedades de economía mixta la autorización de la formación y aprobación de los documentos constitutivos mediante decreto supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorizase la formación de la Empresa Ferroviaria Andina Sociedad de Economía Mixta (FCA S.A.M.), y apruébase su proyecto de contrato de constitución en sus 9 cláusulas y estatutos en sus 8 títulos y 96 artículos.
+
+**Artículo 2°.-** Dispónese la protocolización de sus documentos constitutivos ante notaría de fe publica del distrito correspondiente, como persona de derecho privado, de conformidad al artículo 425 del Código de Comercio.
+
+**Artículo 3°.-** Reconócese la personalidad jurídica de la Empresa Ferroviaria Andina Sociedad de Economía Mixta (FCA S.A.M.).
+
+**Artículo 4°.-** Apruébase el aporte del Sector Público constituido por ENFE. por el valor en libros del patrimonio que asciende a CIENTO TREINTA Y SIETE MILLONES CIENTO TREINTA Y UN MIL SETECIENTOS 00/100 BOLIVIANOS (Bs137.131.700). equivalente al noventa y nueve coma noventa y nueve por ciento (99,99%) del Capital social de la Empresa Ferroviaria Andina Sociedad de Economía Mixta (FCA S.A.M. ). de acuerdo al balance de apertura que forma parte de su escritura constitutiva.
+
+**Artículo 5°.-** Autorizase la transferencia de las acciones estatales emitidas por la Empresa Ferroviaria Andina Sociedad de Economía Mixta (FCAS.A.M.), en favor de los trabajadores de ENFE, al valor en libros, hasta el limite de sus beneficios sociales, de acuerdo a los contratos de opción suscritos.
+
+**Artículo 6°.-** Dispónese la transferencia, a titulo gratuito, de las acciones de propiedad de ENFE en la Empresa Ferroviaria Andina Sociedad de Economía Mixta (FCA S.A.M.), en favor del Ministerio sin Cartera Responsable de Capitalización.
+
+**Artículo 7°.-** Autorizase a la Empresa Ferroviaria Andina Sociedad de Economía Mixta (FCA S.A.M.) a prestar el servicio público de transporte ferroviario de pasajeros, equipaje y carga, hasta que el Superintendente de Transportes otorgue las concesiones y licencias correspondientes.
+
+**Artículo 8°.-** Procédase con los actos necesarios para la capitalización de la Empresa Ferroviaria Andina Sociedad de Economía Mixta (FCA S.A.M.). de conformidad con el [Decreto Supremo Nº 23985](https://www.lexivox.org//norms/BO-DS-23985.html) y resolución suprema 215485 de 30 de marzo de 1995.
+
+---
+
+El señor Ministro en el despacho sin Cartera Responsable de Capitalización queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los veintitrés días del mes de noviembre de mil novecientos noventa y cinco años
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga. Carlos Sánchez Berzain, Jorge Otasevic Toledo, Jose G. Justiniano Sandóval. René Oswaldo Blattmann Bauer. Fernando Candia Castillo. Freddy Teodovich Ortiz, Moisés Jarmúsz Levy, Reynaldo Peters Arzabe. Irving Alcaraz del Castillo, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

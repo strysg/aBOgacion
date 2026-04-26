@@ -1,0 +1,46 @@
+# Bolivia: Resolución Ministerial Nº 13-2013, 23 de enero de 2013
+
+RESOLUCIÓN MINISTERIAL Nº 013
+  
+La Paz, 14 de Enero de 2013
+
+CONSIDERANDO:
+
+* Que el numeral 22) del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html) de 07 de febrero de 2009, de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, señala que el Ministro de Obras Públicas, Servicios y Vivienda, en el marco de sus competencias, tiene la atribución de emitir Resoluciones Ministeriales.
+* Que el parágrafo I del artículo 20 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) señala que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+* Que en el artículo 1 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) de 08 de agosto de 2011, General de Telecomunicaciones y Tecnologías de la Información y Comunicación, se determina como objeto de dicha Ley el establecer el régimen general de telecomunicaciones y tecnologías de información y comunicación, del servicio postal y el sistema de regulación, en procura de vivir bien garantizando el derecho humano individual y colectivo a la comunicación, con respecto a la pluralidad económica, social, jurídica, política y cultural.
+* Que el parágrafo I del artículo 65 de la referida Ley crea el Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, dependiente del Ministerio de Obras Públicas, Servicios y Vivienda, destinado al financiamiento de programas y proyectos de telecomunicaciones y tecnologías de información y comunicación, que permita la expansión de redes de telecomunicaciones y desarrollo de contenidos y aplicaciones, para el logro del acceso universal en áreas rurales y de interés social.
+* Que el artículo 67 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) prevé que la ejecución del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS estará a cargo de la Unidad de Ejecución de Proyectos del PRONTIS. El Ministerio de Obras Públicas, Servicios y Vivienda suscribirá contratos para la ejecución de proyectos de telecomunicaciones de inclusión social con empresas de telecomunicaciones con participación estatal mayoritaria. Si estas empresas no pudiesen ejecutar los proyectos de telecomunicaciones de inclusión social, el Ministerio podrá licitar los proyectos entre los operadores de servicios establecidos en el país.
+* Que el parágrafo II de la Disposición Transitoria Tercera de la citada Ley dispone que las metas de expansión serán reemplazadas por el aporte obligatorio al Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, fijado en esa Ley, a partir del 01 de enero de 2012.
+* Que el parágrafo IV del artículo 191 del Reglamento General para el Sector de Telecomunicaciones, aprobado mediante [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) de 24 de octubre de 2012, señala que entre los programas y proyectos financiados se encuentran las siguientes modalidades: a) Contrato de financiamiento parcial o cofinanciamiento, mediante el otorgamiento de recursos no reembolsables a la inversión, para que empresas de telecomunicaciones con participación estatal mayoritaria ejecuten proyectos a través de un proceso de invitación directa; y b) Contrato de financiamiento parcial o cofinanciamiento, mediante licitación con adjudicación al menor cofinanciamiento solicitado entre los operadores de servicios de telecomunicaciones o empresas de desarrollo de contenidos y aplicaciones establecidas en el país.
+* Que el artículo 192 del Reglamento General a la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), prevé que el contenido del contrato, plazos, procedimiento y condiciones de cofinanciamiento se establecerán mediante Resolución Ministerial del Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que el parágrafo II del artículo 196 del referido Reglamento determina que el Ministerio de Obras Públicas, Servicios y Vivienda, mediante Resolución Ministerial establecerá la fórmula de cálculo de aportes al Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS.
+* Que el parágrafo I del artículo 198 del Reglamento de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) señala que el pago anual del aporte al PRONTIS se realizará en cuotas semestrales en base a los estados financieros de la gestión inmediata anterior, de acuerdo al procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+
+CONSIDERANDO:
+
+* Que el Informe VMTEL/DGTEL Nº 0236/2012 de 26 de noviembre de 2012, emitido por la Dirección General de Telecomunicaciones del Viceministerio de Telecomunicaciones, señaló que se realizó una revisión, estudio y análisis de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) de 08 de agosto de 2011, así como del [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) de 24 de octubre de 2012 para la sistematización de los aspectos sujetos a reglamentación a través de Resolución Ministerial. En ese sentido, el Viceministerio de Telecomunicaciones presentó el proyecto de Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS.
+* Que a través del Informe Jurídico MOPSV - DGAJ Nº 027/2013 de 10 de enero de 2013, la Dirección General de Asuntos Jurídicos de este Ministerio se pronunció por la procedencia de la emisión de la Resolución Ministerial que apruebe el Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, conforme a lo solicitado por el Viceministerio de Telecomunicaciones.
+* Que es necesario aprobar el Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, a fin de contar con un marco jurídico que permita establecer el contenido del contrato, plazos, procedimiento y condiciones de cofinanciamiento, la fórmula de aportes al Programa Nacional de Telecomunicaciones de Inclusión Social y el pago del aporte a dicho Programa, en el marco de las previsiones contenidas en la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) y el [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html).
+
+POR TANTO:
+
+El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones,
+
+RESUELVE:
+
+**Artículo 1°.-** Aprobar el Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+
+**Artículo 2°.-** Establecer que la presente Resolución Ministerial y su anexo entrarán en vigencia a partir de su publicación, conforme a normas legales vigentes.
+
+**Artículo 3°.-** Encargar el cumplimiento de la presente Resolución Ministerial y su anexo, así como su publicación a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT y al Viceministerio de Telecomunicaciones.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+Fdo. Vladimir Sánchez Escobar MINISTRO -- Min. Obras Públicas, Servicios y Vivienda
+
+# Anexo Anexo Resolución Ministerial Nº 013/2013
+
+[Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social](https://www.lexivox.org//norms/BO-RE-RM13-2013.html)

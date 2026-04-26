@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 3078, 8 de febrero de 2017
+
+[Decreto Supremo Nº 3078](https://www.lexivox.org//norms/BO-DS-N3078.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que es muy importante para el contexto social actual, el valor del Servicio Militar en Bolivia, desde su base constitucional, además de la importancia en la cultura de la población rural y citadina por el cumplimiento de este deber, para los jóvenes que concluyen en la mayoría de los casos la secundaria a los dieciséis (16) años de edad cumplidos.
+* Que la búsqueda de oportunidades en la vida de todo joven varón, se refleja en el aspecto político, laboral, socio cultural, en muchos casos, estos aspectos nacen con el cumplimiento del Servicio Militar Obligatorio, como deber y requisitos para optar a fuentes laborales o cargos dentro sus comunidades como parte de su cultura ya que este Servicio tiene sus orígenes antes de que Bolivia naciera como Estado Libre, Independiente y Soberano. Toda vez que el Imperio Incaico realizaba la selección de los jóvenes para conformar los Ejércitos de cada suyo, en esas épocas el Servicio Militar era considerado obligatorio.
+* Que la [Ley Nº 2827](https://www.lexivox.org//norms/BO-L-2827.html), de 3 de septiembre de 2004, ratifica el Protocolo Facultativo de la Convención de los Derechos del Niño, relativo a la Participación de Niños en Conflictos Armados, que en su Artículo 3, punto 3, establece: “Los Estados Partes que permitan el reclutamiento voluntario en sus fuerzas armadas nacionales de menores de 18 años establecerán medidas de salvaguarda que garanticen, como mínimo, que: a) Ese reclutamiento sea auténticamente voluntario; b) Ese reclutamiento se realice con el consentimiento informado de los padres o de quienes tengan la custodia legal; c) Esos menores estén plenamente informados de los deberes que supone ese servicio militar; d) Esos menores presenten pruebas fiables de su edad antes de ser aceptados en el servicio militar nacional”.
+* Que es necesario emitir una norma que permita reclutar a los jóvenes de diecisiete (17) años de edad, quienes solicitaron por medios de difusión el poder realizar el Servicio Militar Obligatorio, toda vez que, se habrían graduado de Secundaria la gestión 2016 y se verían perjudicados por un (1) año, ya que su formación los obliga cumplir con los deberes de Servir a su Patria.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza el ingreso al Servicio Militar Obligatorio de jóvenes de diecisiete (17) años de edad cumplidos al momento de su reclutamiento, debiendo durante la gestión de instrucción cumplir los dieciocho (18) años de edad, para poder licenciarse.
+     
+   Toda vez que, el reclutamiento, obedece estrictamente a la voluntad de presentación, se deberán establecer las medidas de salva guardia necesarias que garanticen que los jóvenes comprendidos en la edad de diecisiete (17) años al momento de su reclutamiento, determinen que su presentación es voluntaria, que se realiza con consentimiento de sus padres o tutores, que se encuentran plenamente informados de los deberes que implica el servicio militar y presenten documentación idónea al momento de su presentación.
+2. El Ministerio de Defensa de manera conjunta con el Comando en Jefe de las Fuerzas Armadas del Estado, reglamentará la presente disposición.
+
+---
+
+El señor Ministro de Estado en el Despacho de Defensa, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de febrero del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, Fernando Huanacuni Mamani, René Martínez Callahuanca, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Mariana Prado Noya, Luis Alberto Arce Catacora, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE HIDROCARBUROS, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Carlos Rene Ortuño Yañez, Wilma Alanoca Mamani MINISTRA DE CULTURAS Y TURISMO E INTERINA DE EDUCACIÓN, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 29076, 21 de marzo de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de 21 de diciembre de 1999, de Administración Presupuestaria, determina el marco normativo relacionado a la administración presupuestaria de entidades públicas; asimismo, el [Decreto Supremo Nº 27849](https://www.lexivox.org//norms/BO-DS-27849.html) de 12 de noviembre de 2004, reglamenta las modificaciones presupuestarias y sus instancias de aprobación.
+* Que el Ministerio de Hacienda, en el marco de sus competencias, viene implementando una política presupuestaria de gestión por resultados que permita una utilización eficiente y transparente de los recursos públicos.
+* Que el Servicio Nacional del Sistema de Reparto - SENASIR, ha suscrito en fecha 5 de febrero de 2007, la Adenda al Contrato de Gestión por la cual se establecen las metas anuales para la gestión 2007, en cumplimiento a la cláusula séptima del Contrato de Gestión suscrito el 16 de septiembre de 2005, entre el Ministerio de Hacienda y el SENASIR.
+* Que dentro de las metas de gestión comprometidas por el SENASIR, se encuentran la Lucha Contra el Fraude, Lucha Contra la Morosidad y Mejora en la Otorgación de los beneficios del Sistema de Reparto, a través de la implementación de los siguientes componentes: Operativos sorpresa en las administraciones u oficinas regionales, a objeto de implementar las recomendaciones de la auditoria al proceso de pagos; Suspensión por fallecimiento de rentistas; Programa de control de vivencias para rentistas, beneficiarios de listas pasivas y de aquellos rentistas que otorgaron poderes; 36.000 rentas por inconsistencia de edad, aportes y promedio salarial revisados; 12.000 casos con información incompleta en la planilla de rentistas validados; Obtención e identificación de la nómina de empresas afiliadas, aportantes deudoras al Seguro Social de Largo Plazo del Sistema de Reparto; 159 empresas fiscalizadas incluyendo a las 9 Prefecturas fiscalizadas; Cobranzas de cartera y recuperación efectiva de aportes devengados a la Seguridad Social a Largo Plazo del Sistema de Reparto; 31.944 casos de Certificaciones de Compensación de Cotizaciones emitidos por procedimiento manual y automático; y 1.956 recursos de reclamación resueltos.
+* Que para el cumplimiento de las metas anuales descritas, es necesario la asignación presupuestaria adicional al SENASIR por un monto de Bs6.452.577.- (SEIS MILLONES CUATROCIENTOS CINCUENTA Y DOS mil QUINIENTOS SETENTA Y siete 00/100 BOLIVIANOS) de los cuales Bs4.788.600.- (CUATRO MILLONES novecientos OCHENTA Y OCHO mil SEISCIENTOS 00/100 BOLIVIANOS) se destinan al refuerzo de la partida 25200 “Estudios e Investigaciones” y el saldo de Bs1.663.977.- (UN MILLÓN SEISCIENTOS SESENTA Y TRES mil novecientos SETENTA Y siete 00/100 BOLIVIANOS) para el resto de partidas de gasto, lo cual permitirá garantizar el cumplimiento de las metas fijadas en el Contrato de Gestión y consiguientemente el ahorro en el Costo de Pensiones.
+* Que el Artículo 3 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, dispone los principios fundamentales de la organización pública, reconociendo a la transparencia, eficiencia y austeridad como lineamientos del Gobierno Nacional para el sustento y manejo adecuado de la cosa pública.
+* Que el SENASIR, conducente con los objetivos de gestión asumidos, generará Bs51.493.629.- (CINCUENTA Y UN MILLONES CUATROCIENTOS NOVENTA Y TRES mil SEISCIENTOS veinte y nueve 00/100 BOLIVIANOS) como ahorro y recuperación de rentas a favor del Tesoro General de la Nación, mismos que serán evaluados por el Viceministerio de Pensiones y Servicios Financieros, dependiente del Ministerio de Hacienda.
+* Que el Artículo 3 del [Decreto Supremo Nº 28750](https://www.lexivox.org//norms/BO-DS-28750.html) de 20 de junio de 2006 determina que cualquier incremento de las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyecto de Inversión” y 46200 “Para Construcciones de Bienes de Dominio Público”, deberá ser aprobado mediante Decreto Supremo, excepto los financiados con recursos de donación externa.
+* Que los Informes Jurídico SENASIR al N° 90/07 y Técnico DAF/PRES 003/2007 de 5 de febrero de 2007, respectivamente, establecen el sustento legal y técnico de la solicitud del SENASIR, determinando que la misma no contradice ni vulnera ninguna disposición normativa vigente en la materia.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 19 de marzo de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Hacienda.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Servicio Nacional del Sistema de Reparto - SENASIR, efectuar la modificación presupuestaria incrementando la partida 25200 “Estudios e Investigaciones” por un total de Bs4.788.600.- (CUATRO MILLONES novecientos OCHENTA Y OCHO mil SEISCIENTOS 00/100 BOLIVIANOS), destinados a implementar los planes de “Lucha Contra el Fraude”, “Lucha Contra la Morosidad” y “Mejora en la Otorgación de los Beneficios del Sistema de Reparto”, que será financiada con el traspaso interinstitucional que efectuará el Ministerio de Hacienda, afectando la partida 71600 “Subsidios y Donaciones a Instituciones Privadas Sin Fines de Lucro” con fuente 10 “T. G. N.” y organismo financiador 111 “T. G. N.”, de acuerdo al Anexo adjunto y de conformidad al Artículo 3 del [Decreto Supremo Nº 28750](https://www.lexivox.org//norms/BO-DS-28750.html) de 20 de junio de 2006.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de marzo del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Celinda Sosa Lunda MINISTRA DE PRODUCCIÓN Y MICRO EMPRESA É INTERINA DE HACIENDA, Jerges Mercado Suárez, Susana Rivero Guzmán MINISTRA DE DESARROLLO RURAL, AGROPECUARIO Y MEDIO AMBIENTE É INTERINA DEL AGUA, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Walter Juvenal Delgadillo Terceros, Victor Cáceres Rodríguez, Nila Heredia Miranda.

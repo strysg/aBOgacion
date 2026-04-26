@@ -1,0 +1,34 @@
+# Bolivia: Decreto Supremo Nº 1100, 7 de diciembre de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 20 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+* Que el Parágrafo II del Artículo 20 del Texto Constitucional, dispone que es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias.
+* Que el Capítulo IV “Bolivia Productiva” del Plan Nacional de Desarrollo - PND, aprobado por [Decreto Supremo Nº 29272](https://www.lexivox.org//norms/BO-DS-29272.html), de 12 de septiembre de 2007, tiene como propuesta de cambio, garantizar el suministro eléctrico, asegurando el acceso universal a este servicio en forma sostenible y con equidad social. Para este fin, se establece como política y estrategia, desarrollar la infraestructura eléctrica para atender las necesidades internas y generar excedentes con la exportación de electricidad.
+* Que el Estado Plurinacional de Bolivia a través del Proyecto “Línea de Transmisión Eléctrica Cochabamba - La Paz”, tiene como objetivo general fortalecer el suministro de energía eléctrica en el área Norte del Sistema Integrado Nacional a través del Sistema Troncal de Interconexión y mejorar su confiabilidad.
+* Que el Estado Plurinacional de Bolivia ha gestionado ante el Banco Interamericano de Desarrollo - BID, el Contrato de Préstamo N° 2654/BL-BO por un monto de hasta $us78’000.000.- (SETENTA Y OCHO MILLONES 00/100 DÓLARES ESTADOUNIDENSES), destinado a financiar el Proyecto “Línea de Transmisión Eléctrica Cochabamba - La Paz”.
+* Que es necesario autorizar la suscripción del mencionado Contrato de Préstamo con el BID, a objeto de materializar este financiamiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza a la Ministra de Planificación del Desarrollo a suscribir con el Banco Interamericano de Desarrollo - BID, en nombre y representación del Estado Plurinacional de Bolivia, el Contrato de Préstamo N° 2654/BL-BO por un monto de hasta $us78’000.000.- (SETENTA Y OCHO MILLONES 00/100 DÓLARES ESTADOUNIDENSES), destinado a financiar el Proyecto “Línea de Transmisión Eléctrica Cochabamba - La Paz”.
+2. Suscrito el Contrato de Préstamo, deberá ser remitido a consideración y aprobación de la Asamblea Legislativa Plurinacional, en cumplimiento al numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+3. Se autoriza al Ministerio de Economía y Finanzas Públicas a solicitud del Ministerio de Planificación del Desarrollo, a través del Viceministerio de Inversión Pública y Financiamiento Externo, la suscripción del respectivo Convenio Subsidiario para la transferencia de recursos externos y ejecución del Contrato de Préstamo con la Empresa Nacional de Electricidad - ENDE en su condición de Organismo Ejecutor.
+4. ENDE debe asumir el repago de la deuda que sea contraída en la ejecución del Contrato de Préstamo N° 2654/BL-BO.
+5. ENDE se compromete a aportar oportunamente todos los recursos adicionales a los del Préstamo que se necesiten para la completa e ininterrumpida ejecución del Proyecto.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo, de Economía y Finanzas Públicas, y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los siete días del mes de diciembre del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, Carlos Romero Bonifaz MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Wilfredo Franz David Chávez Serrano MINISTRO DE GOBIERNO E INTERINO DE DEFENSA, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Daniel Santalla Torrez, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACIÓN E INTERINO DE SALUD Y DEPORTES, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Iván Jorge Canelas Alurralde MINISTRO DE COMUNICACIÓN E INTERINO DE CULTURAS.

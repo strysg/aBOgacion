@@ -1,0 +1,44 @@
+# Bolivia: Decreto Presidencial Nº 61, 1 de abril de 2009
+
+PRESIDENTE INTERINO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que de acuerdo a la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), es atribución del Órgano Ejecutivo determinar la política económica cuya ejecución deberá estar en concordancia con los objetivos y atribuciones del Banco Central de Bolivia - BCB.
+* Que el [Decreto Supremo Nº 29438](https://www.lexivox.org//norms/BO-DS-29438.html) de 12 de febrero de 2008, declara Situación de Desastre de carácter nacional, por la presencia de efectos hidrometereológicos y climáticos adversos provocados por el “Fenómeno de La Niña 2007 - 2008”, que han ocasionado daños graves en diferentes municipios del país, y autoriza a los Ministerios de Planificación del Desarrollo y de Hacienda a gestionar, negociar y promover el financiamiento de recursos para la atención del Desastre declarado, considerando las fuentes internas y externas de cooperación.
+* Que el [Decreto Supremo Nº 29453](https://www.lexivox.org//norms/BO-DS-29453.html) de 22 de febrero de 2008, crea el Fondo para la Reconstrucción, Seguridad Alimentaria y Apoyo Productivo - FONDO, con el objetivo de canalizar recursos públicos destinados a la solución de situaciones de encarecimiento de precios, desabastecimiento e inseguridad alimentaria emergentes de desastres, la reconstrucción de infraestructura productiva y social, así como la recuperación de los procesos productivos, en el marco de la [Ley Nº 2140](https://www.lexivox.org//norms/BO-L-2140.html) de 25 de octubre de 2000.
+* Que el Artículo 9 del [Decreto Supremo Nº 29453](https://www.lexivox.org//norms/BO-DS-29453.html) referido a la administración de los recursos del FONDO, autoriza al Ministerio de Hacienda a constituir fideicomisos de inversión productiva que posibiliten la recuperación de los distintos sectores productivos de la economía nacional, los mismos que deberán contemplar mecanismos de recuperación de los recursos.
+* Que en el marco de lo previsto por el inciso a) del Artículo 22 de la [Ley Nº 1670](https://www.lexivox.org//norms/BO-L-1670.html) de 31 de octubre de 1995 y el [Decreto Supremo Nº 29438](https://www.lexivox.org//norms/BO-DS-29438.html), mediante Contrato SANO Nº 043/2008 de 28 de marzo de 2008, el BCB otorgó un crédito de hasta $us600.000.000.- (SEISCIENTOS MILLONES 00/100 DÓLARES ESTADOUNIDENSES) a favor del Ministerio de Hacienda, para atender la situación de desastre de carácter nacional, por la presencia de efectos hidrometereológicos y climáticos adversos provocados por el “Fenómeno de La Niña 2007 - 2008”.
+* Que la Resolución de Directorio Nº 002/2008 contenida en el Acta de Reunión de Directorio del FONDO Nº 001/2008 de 3 de abril de 2008, aprueba la constitución de un fideicomiso de inversión productiva que efectuará el Ministerio de Hacienda, en calidad de fiduciario, destinado a programas de co-financiamiento a medianos y grandes productores de alimentos y otros productivos afectados por los desastres naturales.
+* Que el Artículo 5 de la [Ley Nº 3956](https://www.lexivox.org//norms/BO-L-3956.html) de 7 de noviembre de 2008, autoriza al Poder Ejecutivo a conformar fideicomisos a través de instituciones financieras mediante Decretos Supremos dentro de los límites financieros establecidos en el Presupuesto General de la Nación gestión 2008, con el objetivo de asistir y apoyar la reconstrucción del sector productivo nacional, el desarrollo y fomento de programas y proyectos destinados a disminuir la inseguridad alimentaria y pobreza.
+* Que el [Decreto Supremo Nº 29797](https://www.lexivox.org//norms/BO-DS-29797.html) de 19 de noviembre de 2008, autoriza la constitución de un fideicomiso por un monto de hasta $us100.000.000.- (CIEN MILLONES 00/100 DÓLARES ESTADOUNIDENSES), para la canalización de recursos financieros a programas de co-financiamiento con el sector Financiero Nacional destinado a financiar a medianos y grandes productores de alimentos y otros productivos afectados por los desastres naturales del fenómeno climatológico de la Niña 2007 - 2008.
+* Que el Artículo 2 del [Decreto Supremo Nº 29797](https://www.lexivox.org//norms/BO-DS-29797.html) establece como fuente de los recursos para la constitución del fideicomiso, el financiamiento contratado por el Ministerio de Hacienda al BCB, autorizado mediante [Decreto Supremo Nº 29453](https://www.lexivox.org//norms/BO-DS-29453.html).
+* Que el Artículo 34 del Presupuesto General de la Nación - Gestión 2009, autoriza al Poder Ejecutivo a constituir fideicomisos en instituciones financieras autorizadas, los cuales deben ser aprobados mediante Decreto Supremo.
+* Que el Parágrafo I del Artículo 38 del Presupuesto General de la Nación - Gestión 2009, autoriza al Poder Ejecutivo a utilizar los recursos de crédito interno otorgados por el BCB, para atender necesidades provocadas por efectos hidrometereológicos y climáticos, situaciones de encarecimiento de precios, desabastecimiento, inseguridad alimentaria, fomento a la producción, nuevos emprendimientos productivos, infraestructura caminera y de vivienda, así como la creación de empresas públicas, debiendo las entidades ejecutoras informar de estos hechos al Honorable Congreso Nacional después de cada semestre, a través del Ministerio de Hacienda.
+* Que el Parágrafo II del Artículo 38 del Presupuesto General de la Nación - Gestión 2009, establece que los Ministerios de Planificación del Desarrollo y de Hacienda podrán reprogramar el destino de estos recursos de acuerdo a las necesidades emergentes de la actual crisis financiera internacional.
+* Que en procura de atender oportunamente las necesidades emergentes de la actual crisis financiera internacional, en el marco del mencionado Artículo 38, el Gobierno Nacional ha determinado la necesidad de asumir medidas preventivas para enfrentar y minimizar los efectos de la misma, por lo que es necesario autorizar a los Ministerios de Hacienda, actual Ministerio de Economía y Finanzas Publicas, y de Planificación del Desarrollo a realizar las gestiones correspondientes para este fin.
+* Que el Artículo 62 del Presupuesto General de la Nación - Gestión 2009, dispone que el Poder Ejecutivo, mediante Decreto Supremo, reglamentará sus disposiciones en los casos que corresponda.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la reprogramación del destino de los recursos del fideicomiso autorizado por el [Decreto Supremo Nº 29797](https://www.lexivox.org//norms/BO-DS-29797.html) de 19 de noviembre de 2008.
+
+**Artículo 2°.- (Autorización)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a reprogramar el destino de los recursos del fideicomiso objeto del [Decreto Supremo Nº 29797](https://www.lexivox.org//norms/BO-DS-29797.html), ampliando el mismo hacia las necesidades de fomento a la producción y nuevos emprendimientos productivos conforme a lo dispuesto por el Artículo 38 de la Ley del Presupuesto General de la Nación - Gestión 2009.
+2. El Ministerio de Economía y Finanzas Públicas deberá suscribir con el Banco de Desarrollo Productivo S. A. M.- BDP S. A. M., el respectivo contrato modificatorio del Contrato de Constitución del Fideicomiso autorizado por el [Decreto Supremo Nº 29797](https://www.lexivox.org//norms/BO-DS-29797.html), así como el Reglamento Operativo del mismo.
+     
+
+   # Disposiciones finales
+
+**Artículo final Único.- (Addenda al contrato de crédito)** Con la finalidad de atender las necesidades emergentes de la actual crisis financiera internacional y en el marco de lo dispuesto por el Artículo 38 de la Ley del Presupuesto General de la Nación - Gestión 2009, se autoriza al Ministerio de Economía y Finanzas Públicas y al Banco Central de Bolivia - BCB ampliar el objeto y la finalidad del crédito del contrato SANO Nº 043/2008 de 28 de marzo de 2008.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de abril del año dos mil nueve.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Hector E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luis Alberto Arce Catacora, Oscar Coca Antezana, Patricia A. Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luis Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callizaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo César Groux Canedo.

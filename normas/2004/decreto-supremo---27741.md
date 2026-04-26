@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 27741, 23 de septiembre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Caja Nacional de Salud - CNS ha recibido por parte de la Cooperativa Popular “COPOSA”, ubicada en la población de Llallagua, la propuesta de Transferencia de su Hospital, en razón de haberse determinado la disolución de la referida Cooperativa.
+* Que la disolución debe estar enmarcada de acuerdo a los Estatutos y Reglamentos de la Cooperativa Popular “COPOSA”, los que establecen, entre las causas de disolución, que su Hospital no puede ser vendido sino transferido a una Institución que pueda continuar con la prestación de servicios en salud.
+* Que en este sentido, se propone la transferencia del Hospital de la Cooperativa Popular “COPOSA” a la CNS, a condición de que la misma, asuma las obligaciones pendientes de pago como beneficios sociales, cuentas por pagar, aportes a la propia CNS y, asimile a 9 trabajadores (personal médico, paramédico y administrativo).
+* Que las diferentes representaciones sindicales y civiles de Llallagua, Federación Nacional de Rentistas Mineros, Asociación de Rentistas Mineros de COMIBOL - Llallagua, Rentistas Mineros de Cooperativas de Llallagua, Sindicato Mixto de Trabajadores Municipales de Llallagua, Sector Laboral del Magisterio de Llallagua y los propios trabajadores de la Cooperativa Popular “COPOSA” vienen exigiendo a la CNS, se de curso a la propuesta de transferencia del Hospital de “COPOSA” o en su defecto se construya un nuevo Hospital.
+* Que las mencionadas representaciones señalan la obligación que tiene la CNS de prestar servicios de salud a los asegurados de Llallagua, en vista que el recurrir al Hospital de Uncía implica además del gasto de transporte, el cual se duplica en las atenciones de emergencia cuando estas se presentan de noche o en días feriados, la falta de atención oportuna sobre todo en los casos de emergencia.
+* Que la CNS con la voluntad de atender la solicitud de las diferentes representaciones de la población de Llallagua, ha efectuado el correspondiente análisis técnico para proceder a la transferencia del Hospital de la Cooperativa Popular “COPOSA”, a ser financiada con recursos propios; sin embargo, para ello es necesario viabilizar la correspondiente norma legal, que autorice a la CNS, cancelar las correspondientes cargas sociales.
+* Que en atención a todos los fundamentos expuestos, se hace necesario contar con una norma legal que permita viabilizar la Transferencia del Hospital de la Cooperativa Popular “COPOSA” a la CNS, con el fin de que ésta, otorgue servicios en salud a toda la población asegurada de Llallagua y, se eviten conflictos sociales.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza a la Caja Nacional de Salud - CNS aceptar la Transferencia del Hospital de la Cooperativa Popular “COPOSA”, la misma que incluye la infraestructura, equipo médico y mobiliario, previa verificación del derecho propietario del bien inmueble saneado y presentación de estados financieros, de acuerdo a la normativa legal vigente; determinándose que la CNS, con carácter excepcional, asumirá las obligaciones pendientes de pago del referido Hospital.
+2. Se autoriza a la CNS tramitar ante el Ministerio de Hacienda, las correspondientes modificaciones presupuestarias que permitan reforzar el gasto de la Transferencia, con financiamiento de la Partida de Incremento de Disponibilidades o en su defecto de la Partida Incremento de Cuentas y Documentos por Cobrar, para contar con los suficientes recursos financieros y asumir las obligaciones pendientes de pago del Hospital de la Cooperativa Popular “COPOSA”.
+3. Se autoriza a la CNS a incorporar a 9 trabajadores del Hospital de la Cooperativa Popular “COPOSA”, como funcionarios de la CNS, hasta que cuenten con todos los requisitos para acceder a su trámite de jubilación.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y, Salud y Deportes quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de septiembre del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Jorge Gumucio Granier Ministro Interino de RR. EE. y Culto, Carlos Alberto Agreda Lema Ministro Interino de la Presidencia, Saúl Lara Torrico, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Guillermo Torres Orias, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

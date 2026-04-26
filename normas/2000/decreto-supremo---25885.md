@@ -1,0 +1,46 @@
+# Bolivia: Decreto Supremo Nº 25885, 29 de agosto de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 24914](https://www.lexivox.org//norms/BO-DS-24914.html) de 5 de diciembre de 1997 ratificó el Reglamento sobre el Régimen de precios de los Productos del Petróleo, aprobado por el [Decreto Supremo Nº 24804](https://www.lexivox.org//norms/BO-DS-24804.html) de 4 de agosto de 1997.
+* Que mediante [Decreto Supremo Nº 25836](https://www.lexivox.org//norms/BO-DS-25836.html) de 7 de julio de 2000 se estabilizaron los precios de la gasolina especial y diesel mil en el mercado interno, a través de un acuerdo suscrito entre las empresas petroleras, Empresa Boliviana de Refinación S. A. y Yacimientos Petrolíferos Fiscales Bolivianos (YPFB).
+* Que el precio internacional del petróleo y sus productos derivados continúa elevándose, originando que el precio del diesel mil en países vecinos sea mayor al vigente en julio del presente año.
+* Que la [Ley Nº 2047](https://www.lexivox.org//norms/BO-L-2047.html) de 28 de enero de 2000 establece una tasa fija del impuesto Especial a los Hidrocarburos y sus derivados (IEHD), de Bs./litro 0.70 para el diesel mil importado, misma que podrá modificarse hasta más/menos Bs.01.12 respecto a la tasa anteriormente citada.
+* Que la tasa actual para el IEHD del diesel mil importado es de Bs./litro 0.58
+* Que debido a la fijación de precios en el mercado interno y al incremento de los precios internacionales del petróleo y sus derivados y que la tasa del IEHD para el diesel mil importado se fija por Ley, peligra el abastecimiento futuro de diesel mil en el mercado interno.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Notas de Crédito)** Se autoriza al Ministerio de Hacienda a emitir Notas de Crédito Fiscal Negociables, a todas aquellas empresas importadoras de diesel mil que cumplan lo establecido en el presente Decreto Supremo.
+
+**Artículo 2°.- (Vigencia de las Notas de Crédito)** Las Notas de Crédito mencionadas en el artículo precedente, servirán para pagar el IEHD del diesel mil importado y sólo podrán redimirse a partir del 1 de enero de 2001.
+
+**Artículo 3°.- (Emisión de Notas de Crédito)** Las Notas de Crédito mencionadas en el artículo 1 del presente decreto Supremo, sólo serán emitidas contra presentación de facturas de compra constatadas con las respectivas pólizas de importación de diesel oil.
+  
+La fecha de emisión de estas facturas de compra y pólizas de importación, deberá ser posterior a la fecha de aprobación de la presente norma legal y, además ambos documentos deberán demostrar que la tasa aplicada del IEHD fue de Bs.0.58.
+
+**Artículo 4°.- (Monto de las Notas de Crédito)** El monto de las Notas de Crédito mencionadas en el artículo 1 del presente Decreto Supremo será el resultado de aplicar la diferencia entre la tasa del IEHD de Bs 0.58 por litro y el monto resultante de la diferencia entre el precio calculado por la Superintendencia de Hidrocarburos, de acuerdo a lo establecido en los artículos 19 y 20 del Reglamento sobre el Régimen de Precios de los productos del petróleo y el precio final resultante de la aplicación del [Decreto Supremo Nº 25836](https://www.lexivox.org//norms/BO-DS-25836.html) de 7 de julio de 2000, a cualquier volumen importado a partir de la puesta en vigencia del presente Decreto Supremo, que cumpla con lo dispuesto en el artículo precedente.
+
+**Artículo 5°.- (Mantenimiento de Valor)** Dado que las Notas de Crédito mencionadas en el artículo 1 del presente Decreto Supremo, sólo serán redimibles a partir del 1 de enero del año 2001, durante los primeros cinco días del mes de enero de 2001 se emitirán Notas de Crédito por el monto equivalente, al mantenimiento de valor de las Notas de Crédito mencionadas en el artículo 3 de la presente norma legal.
+  
+Este mantenimiento de valor estará en función únicamente a variaciones en el tipo de cambio oficial para la conversión de Bolivianos corrientes a dólares estadounidenses, durante el periodo registrado entre la fecha de aprobación del presente Decreto Supremo y el 31 de diciembre del año 2000.
+
+**Artículo 6°.- (Pago del IEHD con Notas de Crédito)** Para cumplir con lo establecido en el artículo 2 del presente Decreto Supremo, las empresas importadoras, del monto de Notas de Crédito acumuladas al 31 de diciembre de 2000, podrán redimir durante enero de 2001 hasta el 30%, durante febrero de 2001 hasta el 30% y durante marzo de 2001 el resto del monto, de manera de agotar estas Notas de Crédito durante los primeros tres meses del año 2001.
+
+**Artículo 7°.- (Fiscalización de las Notas de Crédito)** El Servicio Nacional de Impuestos y el Viceministro de Energía e Hidrocarburos, deberán fiscalizar los volúmenes de importación de diesel mil sujetos a la presente norma legal.
+
+**Artículo 8°.- (Vigencia)** El presente Decreto Supremo tendrá vigencia hasta el 31 de diciembre del año 2000.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda, y de Desarrollo Económico, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte y nueve días del mes de agosto del año dosmil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, Ronald Mac Lean Abaroa, Juan Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vásquez Villamor, Oswaldo Antezana Vaca Diez, José Luis Carvajal Palma, Carlos Saavedra Bruno, Rubén Poma Rojas, Manfredo Kempff Suárez.

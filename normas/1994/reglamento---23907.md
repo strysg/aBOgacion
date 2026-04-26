@@ -1,0 +1,213 @@
+# Bolivia: Reglamento de la Ley de Derecho de Autor, 7 de diciembre de 1994
+
+REGLAMENTO DE LA LEY DE DERECHO DE AUTOR
+
+**Artículo 1°.-** El presente reglamento establece las disposiciones específicas sobre el régimen de protección del Derecho de Autor que consagra la [Ley Nº 1322](https://www.lexivox.org//norms/BO-L-1322.html) y los derechos conexos que la misma Ley determina.
+  
+El Derecho de Autor comprende los derechos morales que protegen la paternidad e integridad de la obra, y los derechos patrimoniales que protegen el aprovechamiento económico de la misma. De igual manera salvaguarda el Patrimonio Cultural de la Nación.
+
+**Artículo 2°.-** Entiéndese también como obra anónima, al tenor del inciso d) del Artículo 5 de la Ley de Derecho de Autor, aquella cuyo autor se desconoce y que se ha conservado en cualquier forma, sin posibilidad alguna y cierta de identificación del autor.
+  
+Con relación al inciso p) del mismo artículo, se entenderán como emisiones, transmisiones, o retransmisiones las efectuadas por cualquier medio conocido o que se conozca en el futuro.
+
+**Artículo 3°.-** Sin perjuicio del derecho moral del autor de oponerse a toda deformación, mutilación u otra modificación de la obra, previsto por el Art. 14 inc. b) de la Ley de Derecho de Autor; quien pretenda utilizar una obra que generare beneficio de cualquier naturaleza, debe tener autorización del autor o sus representantes, refrendada mediante contrato escrito, donde se estipulen los alcances y características de la utilización. Toda utilización completa o parcial de una obra, así como su transformación por cualquier método permitido por la Ley en la forma antes señalada, deberá hacer mención del autor original, el título de la obra, año de publicación o ejecución, nombre del editor o productor, si los hubiesen, todo crédito pertinente y cualquier otro dato que permita su identificación.
+  
+Cuando de las obras colectivas protegidas de cualquier naturaleza se obtuvieran obras derivadas tal como las define la Ley, u otras similares, permanecerá el derecho de autor de los creadores de las obras originales y será necesario obtener la previa autorización del o de los autores o sus representantes, siempre que tales obras se encuentren dentro del dominio privado.
+  
+Las obras individuales o colectivas creadas bajo un contrato laboral o de prestación de servicios o las creadas por empleados o funcionarios públicos en cumplimiento de las obligaciones inherentes a sus cargos, tendrán como titular a la entidad o a la persona jurídica por cuya cuenta y riesgo se realizan, salvo pacto en contrario.
+
+**Artículo 4°.-** Cuando se utilice una obra anónima, se estará a lo dispuesto por el artículo 60 de la Ley y al artículo 25 del presente reglamento y hasta tanto no exista posibilidad alguna de identificación fehaciente de autoría. Cuando la utilización este referida a una obra bajo seudónimo, iniciales, sigla o signo y no sea conocida la identidad del autor, el ejercicio del respectivo derecho corresponderá a la persona natural o jurídica que la divulgue, siempre que esta lo haga con consentimiento del autor mediante contrato escrito y hasta tanto el autor no revele su identidad.
+
+**Artículo 5°.-** En todos los casos de obras divisibles, cada uno de los autores podrá libremente publicar, reproducir y explotar por cualquier medio la parte que le corresponde.
+
+**Artículo 6°.-** Al tenor del artículo 13 de la Ley se considerarán cedidos los derechos de la explotación económica de la obra colectiva: a) obras literarias al editor, b) obras musicales y teatrales al empresario o productor en su caso, c) obras cinematográficas y de video al productor.
+  
+A falta de mención expresa se entenderá que los derechos quedan cedidos al responsable principal de la utilización de la obra.
+
+**Artículo 7°.-** En toda utilización de una obra incluso en aquellas en que no existe lucro, el responsable de dicha utilización tiene la obligación de mencionar al autor o autores o sus seudónimos, y el título de la misma.
+  
+En caso de las obras a que hace referencia el Capítulo II del Título V de la Ley, es obligatoria la mención del origen de las obras del Folklore Nacional con una referencia en lo posible clara de la comunidad de la que proceden. El Estado a través de la Secretaría Nacional de Cultura velará por la integridad de las obras del Folklore, incluso en las utilizaciones que se produzcan fuera del territorio nacional.
+  
+Toda violación de los derechos morales del autor podrá ser perseguida judicialmente por él, sus herederos o causahabientes, el estado, los municipios o cualquier persona natural o jurídica que cuente con los asideros legales que se lo permitan.
+
+**Artículo 8°.-** La duración de la protección de los derechos patrimoniales en casos especiales se sujetará a las siguientes disposiciones:
+
+1. La protección para todas las obras en colaboración, para las compilaciones, diccionarios, enciclopedias y otras obras colectivas será de 50 años contados a partir de su publicación y los derechos patrimoniales se reconocerán a favor de sus directores o en partes equivalentes a favor de los colaboradores, de acuerdo a convenio previo con 1os mismos.
+2. Cuando se trate de obras compuestas de varios volúmenes que no se publiquen simultáneamente, o de publicaciones en forma de fascículos o entregas periódicas, el plazo de protección empezará a contarse respecto de cada volumen, fascículo o entrega, desde la respectiva fecha de publicación.
+3. En el caso de obra seudónima que no deje dudas sobre la identidad del autor, la duración de la protección será la común.
+4. Las obras cinematográficas y las obras fotográficas, así como las obtenidas por procedimientos análogos a la cinematografía o la fotografía se entenderán publicadas desde la fecha de su primera exhibición al público
+5. En todos los casos en los que sea aplicable el término de protección a partir de la publicación se interpretará que dicho plazo termina el 31 de diciembre del año que corresponde.
+
+**Artículo 9°.-** El derecho de cita consagrado por el Artículo 24 de la [Ley Nº se](https://www.lexivox.org//norms/BO-L-se.html) aplica a la utilización de fragmentos de obras con fines lucrativos, en cuyo caso deberá mediar contrato con todas las partes titularse de derechos patrimoniales de autor y de derecho conexos.
+
+**Artículo 10°.-** Las cartas de personas fallecidas, hayan sido divulgadas o no, podrán publicarse dentro de los 50 años siguientes a su deceso solo con la autorización expresa de sus herederos o causahabientes.
+
+**Artículo 11°.-** En la comunidad ganancialicia, cada cónyuge es titular de las obras creadas por cada uno de ellos, sobre las que conservarán respectivamente su derecho moral y patrimonial conforme a lo establecido por el Artículo 107 del Código de Familia.
+
+**Artículo 12°.-** La cesión del negativo o del medio análogo de reproducción de una obra cinematográficas, fotográfica o análogas de parte de su autor, no presume la cesión de los derechos de reproducción, salvo pacto contrario.
+
+**Artículo 13°.-** Las distintas formas de utilización de la obra son independientes entre ellas; la autorización del autor para una forma de utilización no se extiende a las demás.
+  
+Los contratos establecidos en el Artículo 29 de la Ley deberán observar en su caso las siguientes salvedades:
+
+1. El cedente de un derecho de utilización de una obra, responderá ante el autor solidariamente con el cesionario por las obligaciones contraídas por aquél en el respectivo contrato, así como por la compensación por daños y perjuicios que el cesionario pueda causarle por el incumplimiento de algunas de esas obligaciones contractuales.
+2. El derecho de utilización de una obra, adquirido por medio de contrato, solo podrá cederse a un tercero con el consentimiento del autor. Dicho consentimiento se considerará otorgado cuando el autor no lo deniegue dentro del plazo de 15 días siguientes al recibo de la petición escrita del derecho-habiente o del presunto cesionario. Esta advertencia deberá constar expresamente en la petición.
+3. El pleno ejercicio del derecho de revocación se hará efectivo a los sesenta días de comunicado por el autor o sus causahabientes, sin necesidad de ninguna otra formalidad, salvo si el ejercicio del derecho de uso cedido resulte imposible para su titular o si dicho titular se negare a ejercerlo o si el mencionado plazo fuera en daño emergente o lucro cesante para el autor.
+4. La utilización del derecho de revocación no afecta los derechos y obligaciones de las partes derivadas del contrato, o de otras disposiciones legales que implicaren el pago de indemnizaciones por daños y perjuicios ocasionados por el incumplimiento de una de ellas.
+
+**Artículo 14°.-** A falta de estipulación del plazo de entrega del original de la obra, se entenderá que deberá hacerse dentro de los sesenta días posteriores a la firma del contrato. Si se tratara de una obra ya publicada, el original podrá ser entregado en un ejemplar impreso con las modificaciones, adiciones o supresiones debidamente indicadas.
+  
+Si el autor o editor retrasasen la publicación de la edición pactada sin causa plenamente justificada, deberán indemnizar a la otra parte por los perjuicios ocasionados. Durante la vigencia del Contrato de Edición, el editor tendrá derecho a iniciar y proseguir todas las acciones consagradas por la ley contra los actos de defraudación que perjudiquen su derecho, sin perjuicio del derecho que tienen el autor y sus causahabientes para adelantar las mismas acciones, lo que podrán hacerlo el autor y el editor en forma conjunta o separada.
+
+**Artículo 15°.-** La remuneración al autor podrá pactarse en una cantidad de ejemplares que será el 10% (diez por ciento) del tiraje o en una suma fija acordada contractualmente no inferior al 10% , o en pagos periódicos de acuerdo a las ventas.
+  
+Todo aumento o disminución en el precio de venta de una obra cuya remuneración para el autor debe pagarse en proporción a los ejemplares vendidos, deberá ser tomado en cuenta en cada liquidación.
+
+**Artículo 16°.-** En el Contrato de Edición deberán tomarse en cuenta las siguientes disposiciones reglamentarias:
+
+1. El impresor podrá imprimir una cantidad adicional de cada pliego no mayor del 5% (cinco por ciento) de la cantidad autorizada, para cubrir los riesgos de daño o pérdida en el proceso de impresión o encuadernación. Los ejemplares adicionales que resulten sobre la cantidad estipulada serán tenidos en cuenta en la remuneración del autor cuando ésta se hubiere pactado en relación con los ejemplares vendidos.
+2. Si la remuneración del autor equivale a una suma fija, independientemente de los resultados obtenidos por la venta de los ejemplares impresos y no se hubiere estipulado otra cosa, se presume que ella es exigible desde el momento en que la obra esté lista para su distribución o venta al público.
+3. Si la remuneración se hubiere pactado en proporción con los ejemplares vendidos, ella deberá ser pagada en liquidaciones semestrales o en plazos menores convenidos contractualmente entre las partes, a partir de la fecha de puesta en venta, mediante cuentas que deberán ser rendidas al autor por el editor, las que podrán ser verificadas por aquel en cualquier momento. Será nulo cualquier pacto que aumente el plazo máximo semestral y la falta de cumplimiento del pago de dicha obligación dará derecho al autor para rescindir el contrato, sin perjuicio del reconocimiento de los daños y perjuicios que se le hayan causado.
+4. El editor no podrá disponer el inicio de una nueva impresión o edición que hubiere sido autorizada en el contrato sin dar el correspondiente aviso al autor, quien tendrá derecho a efectuar las correcciones o adiciones que estime convenientes, con la obligación de reconocer los costos adicionales al editor.
+5. Salvo estipulación en contrario, cuando se trate de obras que por su carácter deben ser actualizadas, la preparación de los nuevos originales deberá ser hecha por el autor, pero si éste no pudiera o no quisiera hacerlo, el editor podrá contratar su elaboración con una persona idónea, indicándolo así en la nueva edición y destacando en tipo de diferente tamaño o estilo las partes que fueren adicionadas o modificadas, sin perjuicio de la remuneración pactada a favor del autor o sus causahabientes.
+6. El incumplimiento por parte del autor en cuanto a la fecha y forma de entrega de los originales dará al editor opción para rescindir el contrato o para devolver al autor los originales para que su presentación sea ajustada a los términos convenidos. En caso de devolución de los originales, el plazo o plazos que el editor tiene para la iniciación y terminación de la edición serán prorrogados por el término en que el autor demore la entrega de los mismos debidamente corregidos.
+7. El derecho de editar separadamente una o varias obras del mismo autor no confiere al editor el derecho para editarlas conjuntamente. Asimismo, el derecho de editar las obras conjuntas de un autor no confiere al editor la facultad de editarlas por separado.
+8. Si antes de terminar la elaboración y entrega de los originales de la obra, el autor muere o sin culpa se imposibilita para finalizarla, el editor podrá dar por terminado el contrato, sin perjuicio de los derechos que se hayan causado a favor del autor. Si optara por publicar la parte recibida del original, podrá reducir proporcionalmente la remuneración pactada.
+9. Si después de un año de hallarse la obra en venta al público no se hubiere vendido mas del 30% de los ejemplares que fueron impresos, el editor podrá dar por terminado el contrato y liquidar los ejemplares restantes a un precio inferior al pactado o inicialmente fijado por el editor, reduciendo la remuneración del autor proporcionalmente al nuevo precio si éste se hubiera pactado en proporción a los ejemplares vendidos. En este caso el autor tendrá derecho preferencial a comprar los ejemplares no vendidos al nuevo precio de venta fijado menos un treinta por ciento (30%) de descuento, para lo que tendrá un plazo de 60 días a partir de la fecha en que el editor le hubiere notificado su decisión de liquidar tales ejemplares. Si el autor hiciere uso de este derecho de compra, no podrá cobrar honorarios o regalías por tales ejemplares.
+     
+   Además de las señaladas en el Código de Comercio y la Ley de Derecho de Autor, el editor tendrá las siguientes obligaciones:
+   1. Suministrar al autor en forma gratuita y sin afectar las regalías, hasta un máximo del uno por ciento (1%) de los ejemplares impresos en cada edición salvo pacto en contrario. Los ejemplares recibidos por el autor de acuerdo a la presente norma quedarán fuera del comercio y no se considerarán como ejemplares vendidos para la liquidación de regalías.
+   2. Rendir oportunamente al autor las cuentas o informes y permitir la inspección por él o por sus representantes de los talleres y almacenes.
+   3. Dar cumplimiento a las obligaciones vigentes sobre Depósito Legal.
+   4. Sin perjuicio de otras disposiciones vigentes, el editor hará figurar en el reverso de la portada interior de cada uno de los ejemplares impresos la mención de reserva consistente en el símbolo "©" seguido del nombre del titular del Derecho de Autor, el nombre y dirección completa del editor original y, en su caso, precedido de un nuevo símbolo "©", el nombre y dirección del editor de la edición actual, el del traductor, si lo hubiere y el del editor de la traducción y su dirección completa.
+
+**Artículo 17°.-** El autor o sus representantes así como el productor de fonogramas podrán conjunta o separadamente perseguir ante la justicia la producción o utilización ilícita de los fonogramas o de los dispositivos o mecanismos sobre los cuales se haya fijado indebidamente la obra.
+  
+Las disposiciones señaladas en la Ley y el presente reglamento referentes al contrato de fonograbación se aplicarán por extensión a las obras literarias que sean utilizadas como texto de una obra musical o fijadas en el fonograma en forma declamada o como texto impreso adjunto al fonograma. El autor de la obra literaria deberá autorizar la utilización de dicho texto en la grabación o impresión mediante los mecanismos establecidos por la Ley y este reglamento.
+
+**Artículo 18°.-** En el contrato de fonograbación la remuneración al autor se hará únicamente en proporción a la cantidad de ejemplares vendidos y el productor de fonogramas deberá llevar un sistema de registro que permita la comprobación en cualquier tiempo de dicha cantidad. El autor o sus representantes podrán verificar la exactitud de la liquidación correspondiente mediante la inspección de los talleres, almacenes, depósitos y oficinas del productor. Cualquier cambio en el precio de venta al público de los fonogramas, deberá ser previamente notificada a los autores o a la sociedad que los representa.
+
+**Artículo 19°.-** Si no se hubiere establecido plazo para el contrato de representación o se determinare uno mayor que el previsto, se entenderá convenido el plazo de un año, sin perjuicio de la validez de otras obligaciones contractuales. Dicho plazo se computará desde el día en que la obra haya sido entregada por el autor al empresario. Si el empresario no pagare la participación correspondiente al autor, la autoridad competente, a solicitud del mismo, de sus causahabientes, o las sociedades que los representan, ordenará el embargó de las entradas y la suspensión de las representaciones, sin perjuicio de las demás acciones legales a que hubiere lugar en favor del autor.
+  
+En el caso de que la obra no fuera representada en el plazo establecido en el contrato, el empresario deberá restituir al autor el ejemplar o copia de la obra recibida por él e indemnizarle por los daños y perjuicios ocasionados por su incumplimiento. El reemplazo de los interpretes principales de la obra o los directores de orquesta o coro podrá hacerlo directamente el empresario sin consultar al autor, únicamente en caso de que se presente una emergencia fortuita que no admita demora.
+
+**Artículo 20°.-** El productor cinematográfico es la persona natural o jurídica, legal y económicamente responsable de los contratos con todas las personas y entidades que intervienen en la realización cinematográfica, el que tendrá los siguientes derechos exclusivos:
+
+1. Reproducir la obra cinematográfica para distribuirla y exhibirla por cualquier medio.
+2. Perseguir judicialmente cualquier reproducción o exhibición no autorizada de la obra cinematográfica.
+
+**Artículo 21°.-** Las autoridades administrativas competentes no autorizarán la realización de espectáculos o audiciones públicas de obras musicales sin que el responsable presente su programa acompañado de la autorización de los titulares de los derechos o de sus representantes.
+  
+Las autorizaciones de utilización de ejecución pública de obras musicales podrán ser otorgadas por las Sociedades Autorales y de Derechos Conexos que reconoce la Ley.
+
+**Artículo 22°.-** Toda ejecución pública efectuada de acuerdo a la Ley y al presente reglamento significará para el o los autores, y para los artistas intérpretes o ejecutantes y los productores fonográficos cuando la ejecución se la efectúe a partir de una fijación o reproducción o se transmita por cualquier medio, una percepción o regalía en favor de los mismos, que será fijada de acuerdo a lo establecido por los Artículos 55 y 56 de la Ley y el Artículo 27 numeral 5 del presente reglamento.
+
+**Artículo 23°.-** Al tenor de los artículos 53 y 54 de la Ley, se entiende que el derecho otorgado al productor fonográfico no podrá ir en menoscabo del derecho otorgado por el artículo 53 en favor de los artistas intérpretes o ejecutantes. Salvo estipulación en contrario se entenderá que:
+
+1. La autorización de la radiodifusión de una interpretación o ejecución no implica la autorización de permitir a otros organismos de radiodifusión que transmitan la interpretación o ejecución.
+2. La autorización de radiodifusión no implica la autorización de fijar la interpretación o ejecución.
+3. La autorización de radiodifusión y de fijar la interpretación o ejecución, no implica la autorización de reproducir la fijación.
+4. La autorización de fijar la interpretación o ejecución, y de reproducir esta fijación no implica la autorización de transmitir la interpretación o la ejecución a partir de la fijación o sus reproducciones.
+     
+   Desde el momento en que los artistas intérpretes o ejecutantes autoricen la incorporación de su interpretación o ejecución en una fijación de sonidos, de imágenes o de imágenes y sonidos no tendrán aplicación los incisos b) y c) precedentes.
+     
+   No deberá interpretarse ninguna de las disposiciones anteriores como limitativa de los derechos de los artistas intérpretes o ejecutantes de contratar en condiciones más favorables para ellos cualquier utilización de su interpretación o ejecución.
+
+**Artículo 24°.-** Los organismos de radiodifusión podrán realizar fijaciones efímeras de obras, interpretaciones y ejecuciones cuyos titulares hayan consentido con su transmisión, con el único fin de utilizarlas en sus propias emisiones por el número de veces estipulada, y están obligados a destruirlas o borrarlas inmediatamente después de la última transmisión autorizada.
+
+**Artículo 25°.-** Las cantidades que se recauden por concepto de la utilización de obras del Patrimonio Nacional y extranjeras del Dominio Público serán depositadas en la cuenta que al efecto abrirá la Secretaria Nacional de Cultura y serán destinadas a los programas de desarrollo y difusión cultural de dicho organismo. Las sociedades autorales podrán realizar esos cobros actuando en calidad de agentes de retención.
+  
+A los efectos de los Artículo 60 y 61 de la Ley, se establecen los siguientes porcentajes de percepción que se aplicarán a aquellos que correspondan a las obras de dominio privado por la utilización de obras del Patrimonio Nacional y del Dominio Público:
+
+1. Libros en general de literatura, arte y ciencias: 10%
+2. Venta de obras originales de las artes plásticas: 20%
+3. Representaciones teatrales, dramático-musicales, coreográficas y cinematográficas: 30%
+4. Ejecuciones musicales en locales públicos: 40%
+5. Emisiones radiales o de televisión con o sin hilos y grabaciones de obras musicales: 50%
+
+**Artículo 26°.-** El Registro Nacional de Derecho de Autor, dependiente de la Dirección General de Derecho de Autor se regirá por las siguientes disposiciones reglamentarias:
+
+1. En el Registro Nacional de Derecho de Autor deberán inscribirse:
+   1. Las obras que presenten sus autores para ser registradas y obtener así la mayor protección que otorga la Ley.
+   2. Los convenios o contratos que de cualquier forma confieran, transmitan, o extingan derechos patrimoniales de autor o por los que se autoricen modificaciones de una obra.
+   3. Los estatutos y reglamentos de las diversas sociedades de autores así como sus reformas, los de las sociedades de artistas intérpretes o ejecutantes y sus reformas.
+   4. Los convenios o pactos que celebren las sociedades de autores y de artistas intérpretes o ejecutantes con las sociedades extranjeras.
+   5. Los poderes otorgados a personas naturales o jurídicas para realizar gestiones ante la Dirección General de Derecho de Autor, cuando la representación conferida abarque todos los asuntos que el mandante haya de tramitar en la Dirección y no esté limitado a la gestión de un sólo asunto.
+   6. Los nombres propios de los autores que, utilizando seudónimo, deseen conservar su anonimato. Dicho depósito deberá hacerse en sobre lacrado.
+2. Para las obras anónimas entendidas conforme lo establecido en el artículo 4 del presente reglamento, la inscripción se hará con el nombre de la persona natural o jurídica responsable de la divulgación. Igual tratamiento se seguirá con las obras seudónimas, salvo el caso en que el seudónimo esté registrado.
+3. Las obras póstumas deberán ser registradas a nombre del autor. Dicho registro podrán hacerlo los herederos o legatarios o cualquier otra persona natural o jurídica.
+4. El registro de una obra podrá ser impugnado por cualquier persona natural o jurídica o por el Estado, si la autoría de quien la tiene registrada quedara en duda. En este caso, los efectos de la inscripción quedarán suspendidos en tanto se pronuncie resolución firme sobre la autoría por autoridad competente.
+5. Los requisitos de registro que deberán llenar las solicitudes, así como las obligaciones de los encargados del Registro, las normas, condiciones y demás formalidades para el funcionamiento del Registro Nacional de Derecho de Autor y de los Registros Departamentales, serán determinados en la Reglamentación que expedirá para el efecto la Secretaría Nacional de Cultura a través de la Dirección General de Derecho de Autor.
+6. La protección de reserva de uso y explotación exclusiva se adquiere mediante el correspondiente certificado que se obtendrá ante el Registro Nacional de Derecho de Autor y tendrá vigencia mientras el interesado está usando o explotando esa reserva. Deberá ser renovado cada dos años.
+
+**Artículo 27°.-** Las sociedades de autores y de artistas intérpretes o ejecutantes funcionarán de acuerdo a las siguientes normas generales:
+
+1. El reconocimiento de las sociedades de autores y de artistas intérpretes o ejecutantes, previo trámite de su personalidad jurídica por los canales correspondientes, será conferido mediante resolución de la Secretaría Nacional de Cultura a través de la Dirección General de Derecho de Autor. Solo podrá constituirse una sociedad en cada rama de creación literaria, artística, científica o de derechos conexos. Una misma persona podrá pertenecer a más de una sociedad pero no podrá ser parte integrante de más de un órgano de dirección.
+2. Sin perjuicio que nuevos géneros aparezcan en el futuro, se establecen los siguientes géneros de constitución de sociedades de derechos de autor:
+   1. Literatos, que incluyen a novelistas, ensayistas, historiadores, científicos, poetas, conferencistas y
+        
+      catedráticos;
+   2. Autores dramáticos, dramático-musicales y de obras pantomímicas;
+   3. Autores y compositores de música incluidos los letristas y los coreógrafos de obras de danza;
+   4. Artistas plásticos como ser, pintores, escultores, grabadores, arquitectos, dibujantes, escenógrafos, diseñadores gráficos y artesanos;
+   5. Cineastas, videastas y fotógrafos; productores, directores y guionistas;
+   6. Creadores de programas de ordenador o computadora (soporte lógico o software).
+        
+      Igualmente se establecen Sociedades de Derechos conexos para los artistas intérpretes o ejecutantes, sean estos:
+   7. músicos cantantes o instrumentistas;
+   8. actores, mimos, recitadores, y bailarines.
+3. Las sociedades de autores, de artistas intérpretes o ejecutantes mencionadas en el punto anterior, una vez reconocidas, serán las únicas con potestad para percibir y liquidar en todo el territorio de la república y en el exterior en virtud de convenios de reciprocidad, los derechos económicos derivados de la utilización por cualquier medio o modalidad de las obras por ellas protegidas. Las personas naturales o jurídicas, nacionales o extranjeras destinatarias finales de tales derechos económicos, deberán actuar necesariamente a través de la sociedad respectiva. Para el cumplimiento de lo establecido, las sociedades garantizarán las percepciones mencionadas en sus estatutos y reglamentos tanto para sus socios como para quienes no estuvieran afiliados. para:
+4. Las sociedades de autores, de artistas intérpretes o ejecutantes quedan facultadas
+   1. Establecer procedimientos de recaudación, administración y liquidación de derechos de autor y conexos, pudiendo coordinar con otras sociedades de distinto género, la forma de aplicarlos.
+   2. Determinar las condiciones a las que deberán ajustarse los contratos con los usuarios, siempre que no contravengan a la Ley y al presente reglamento, y conceder o negar las autorizaciones establecidas en los Artículos 29, 33, 36, 43, 47 y 53 de la Ley. Para el caso de las autorizaciones, las sociedades instrumentarán los medios para garantizar el cumplimiento de la voluntad del auto o intérprete.
+   3. Fijar los respectivos aranceles de cobranza periódica por cada modalidad de uso, percibiendo y liquidando los mismos de acuerdo a los estatutos de cada sociedad.
+   4. Firmar todo tipo de documentación relacionada con los derechos de autor o intérprete.
+   5. Exigir de los usuarios el pago en tiempo y en forma de los aranceles que se establezcan así como la presentación de declaraciones juradas, planillas de ejecución, en especial las señaladas en el artículo 49 de la Ley, programas, catálogos, listados de publicaciones y todo otro elemento de verificación que permita y garantice la correcta percepción y liquidación de los derechos.
+   6. Controlar y verificar la exactitud de las constancias presentadas por los usuarios, incluyendo la documentación respaldatoria de las liquidaciones denunciadas por los mismos.
+   7. Efectuar el control de ingreso de personas, de venta de obras y de taquillas o de otras formas de contribución; del uso correcto de las obras autorizadas y de todo otro valor resultante o modalidad aplicable, que se determine como base para la fijación de aranceles correspondientes al cobro del derecho de autor y de intérprete.
+   8. Retener, como establecen las normas y práctica internacionales un 30% de los ingresos totales, para gastos de administración y funcionamiento.
+   9. Interponer las acciones que crean convenientes ante autoridades administrativas, policiales y judiciales, para prohibir el uso de repertorio y de obras que no estuvieren debidamente autorizadas.
+   10. Llevar a cabo toda otra acción necesaria para lograr el respeto y cumplimiento de la Ley y su reglamentación y de las obligaciones señaladas en las mismas para las sociedades.
+5. Las remuneraciones establecidas en la Ley en favor del creador, el intérprete, artista o ejecutante de una obra, serán de concertación directa entre éste y el interesado que desee hacer usufructo de la misma, aunque las sociedades podrán constituirse, a pedido del autor o intérprete, en representantes para dicha concertación. Las regalías derivadas de la venta utilización por cualquier medio de tales obras, seran canalizadas a través de la sociedad respectiva, en forma exclusiva, tal como se establece en el numeral 3 del presente artículo.
+6. La demostración documental, por parte de cada sociedad, de que ha sido reconocida por el Estado como representante de su género, será suficiente para reclamar ante los usuarios o sus representantes el pago de las regalías y la defensa de los derechos mencionados en la ley y el presente reglamento.
+7. Son atribuciones de las sociedades:
+   1. Asumir la defensa del Derecho moral y patrimonial de Autor.
+   2. Representar a sus socios, a los demás autores o artistas de su género y a sus respectivos derecho-habientes, ante las autoridades administrativas y judiciales y ante terceros, en todos los asuntos de interés general y particular para los mismos y suscribir contratos en materia de derecho de autor y derechos conexos, en los términos y con las limitaciones impuestas por la ley, el presente reglamento y los respectivos estatutos.
+   3. Recaudar y liquidar en favor de los autores e intérpretes las percepciones pecuniarias provenientes de los derechos que les corresponden. Las sociedades serán mandatarias de los autores e intérpretes para todos los fines de esta materia, y para el caso de los asociados, además, por el acto de afiliación. Las liquidaciones pertinentes que correspondan a los autores o intérpretes no asociados, serán retenidas en favor de los mismos y para su pago, por un plazo a determinar en los estatutos que no podrá ser mayor a los 5 años. Vencido tal plazo, dichos fondos se destinarán a beneficios que otorguen en favor de socios ancianos o impedidos.
+   4. Recaudar y entregar a quien disponga la Ley y el presente Reglamento, las percepciones correspondientes a la utilización de obras del Patrimonio Nacional y del Dominio Público.
+   5. Celebrar convenios con las sociedades nacionales de distinto género mencionadas en este artículo y con otras extranjeras de la misma rama o afines, y titulares de derechos conexos, con base a la reciprocidad.
+   6. Representar en el país a las sociedades extranjeras y ser representada en el exterior, en virtud de mandato específico o de pacto de reciprocidad celebrado por las mismas sociedades.
+   7. Los demás actos que no contravengan lo establecido por la Ley, por el presente reglamento y por los propios estatutos.
+8. Los autores y los titulares de derechos conexos o las sociedades que los representan podrán celebrar contratos con los usuarios y con las organizaciones que los representan respecto a la utilización de sus obras. Las retribuciones concertadas en dichos contratos no podrán ser contrarías a lo que establecen la Ley y este reglamento.
+9. Los aranceles y/o remuneraciones de cobranza periódica de los derechos de representación o de ejecución pública consagrados en la Ley de Derecho de Autor y en el presente reglamento, serán convenidos y cobrados a los usuarios por un ente constituido por la sociedad autoral, la de artistas intérpretes y ejecutantes y la de productores de fonogramas o videogramas, el mismo que será una asociación civil con personería propia y cuyo régimen estatutario será determinado convencionalmente entre las organizaciones antes mencionadas.
+
+**Artículo 28°.-** Se considerarán ejemplares ilícitos de libros, fonogramas, obras cinematográficas o videogramas, obras plásticas y de artesanía, todas aquellas reproducciones que se hagan en contra de lo dispuesto por la Ley y el presente reglamento tales como:
+
+1. Ejemplares fraudulentos que conservan las características del original y que son reproducidos a partir de un ejemplar legítimo mediante cualquier tipo de procesos de reproducción.
+2. Ejemplares en los que las características exteriores pueden no ser las del original, pero que contienen la obra o parte importante de la misma.
+3. Ejemplares que se hayan obtenido por cualquier medio y que sean puestos a la venta o alquiler o se difundan por los diferentes medios sin la autorización de los titulares. Y en general toda reproducción de una obra literaria o artística que haya sido hecha burlando los derechos del autor, de los artistas intérpretes o ejecutantes y de los editores o productores.
+
+**Artículo 29°.-** Los ejemplares ilícitos de obras del patrimonio nacional y del dominio público que fueran secuestrados de acuerdo al Art. 70 de la Ley, serán subastados públicamente y el monto recaudado será destinado en favor de la Secretaria Nacional de Cultura al tenor del Art. 60 de la Ley y quienes los produjeren, imprimieren, distribuyeren o comercializaren serán pasibles a la sanción penal que señala el Art. 66 de la misma.
+
+**Artículo 30°.-** Conforme al artículo 71 de la Ley, se establece el procedimiento administrativo de conciliación y arbitraje bajo la competencia de la Dirección General de Derecho de Autor y al tenor siguiente:
+
+1. El procedimiento de conciliación podrá ser recurrido por cualquiera de las partes o por ambas de común acuerdo ante el Director General de Derecho de Autor, quien procederá de la siguiente manera:
+   1. Solicitada la conciliación, el Director General de Derecho de Autor convocará en un plazo no mayor a las 48 horas de recibida la petición a las partes para una audiencia pública donde se intentará la conciliación.
+   2. Fracasada la conciliación, se intentará el arbitraje en una segunda audiencia convocada en un plazo no mayor a los 15 días de concluida la audiencia de conciliación con la designación de tres árbitros, uno por parte del denunciante, otro por el denunciado y un representante del Director General de Derecho de Autor.
+2. El procedimiento de arbitraje se efectuará de la siguiente forma: instalada la nueva audiencia con presencia de las partes y árbitros, el Director General de Derecho de Autor dispondrá:
+   1. La lectura de los antecedentes, correrá traslado a la parte denunciada, exigirá la presentación de pruebas a las partes, las que producirán en el acto y oralmente.
+   2. Realizada la segunda audiencia y cumplidos los trámites señalados en el inciso anterior, convocará a una tercera audiencia, en un plazo no mayor a los 15 días, con el único fin de escuchar el informe de los árbitros.
+   3. Escuchado el informe de los árbitros, en audiencia continua dará a conocer su decisión, a la que las partes podrán acogerse o solicitar se remita el caso a los tribunales ordinarios. Con lo que queda concluido el trámite de conciliación y arbitraje.
+
+**Artículo 31°.-** La Dirección General de Derecho de Autor tendrá las siguientes atribuciones:
+
+1. Proteger el Derecho de Autor y los derechos conexos.
+2. Verificar el correcto funcionamiento de las sociedades de autores y de titulares de derechos conexos.
+3. Llevar, controlar y conservar el Registro de la propiedad intelectual que comprende el derecho de autor, los derechos de reserva y uso y el depósito legal.
+4. Las señales en la ley de Derecho de Autor, el presente Reglamento, sus normas internas de funcionamiento y demás disposiciones vigentes.
+
+---
+
+Reglamento Anexo al [Decreto Supremo Nº 23907](https://www.lexivox.org//norms/BO-DS-23907.html), promulgado a los siete días del mes de diciembre de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Germán Quiroga Gómez, Raúl Tovar Piérola, Carlos Sánchez Berzaín, René Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, José G. Justiniano Sandóval, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

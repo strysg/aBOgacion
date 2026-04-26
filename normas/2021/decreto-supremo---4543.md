@@ -1,0 +1,75 @@
+# Bolivia: Decreto Supremo Nº 4543, 21 de julio de 2021
+
+[Decreto Supremo Nº 4543](https://www.lexivox.org//norms/BO-DS-N4543.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 12 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina como competencia privativa del nivel central del Estado, la creación, control y administración de las empresas públicas estratégicas del nivel central del Estado.
+* Que los numerales 35 y 37 del Parágrafo II del precitado Artículo, establecen entre las competencias exclusivas del nivel central del Estado, las políticas generales de desarrollo productivo y las políticas generales de turismo.
+* Que los Parágrafos I y II del Artículo 337 del Texto Constitucional, disponen que el turismo es una actividad económica estratégica que deberá desarrollarse de manera sustentable para lo cual tomará en cuenta la riqueza de las culturas y el respeto al medio ambiente. Asimismo, el Estado promoverá y protegerá el turismo comunitario con el objetivo de beneficiar a las comunidades urbanas y rurales y las naciones y pueblos indígena originario campesinos donde se desarrolle esta actividad.
+* Que el Artículo 1 de la [Ley Nº 292](https://www.lexivox.org//norms/BO-L-N292.html), de 25 de septiembre de 2012, "Bolivia te Espera", señala las políticas generales y el régimen del turismo del Estado Plurinacional de Bolivia, a fin de desarrollar, difundir, promover, incentivar y fomentar la actividad productiva de los sectores turísticos público, privado y comunitario, a través de la adecuación a los modelos de gestión existentes, fortaleciendo el modelo de turismo de base comunitaria, en el marco de las competencias exclusivas asignadas al nivel central del Estado por la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+* Que el Artículo 2 del [Decreto Supremo Nº 2005](https://www.lexivox.org//norms/BO-DS-N2005.html), de 21 de mayo de 2014, crea la Empresa Pública denominada Empresa Estatal "Boliviana de Turismo", con tipología de empresa estatal, de carácter estratégico, personalidad jurídica, de duración indefinida, autonomía de gestión administrativa, financiera, comercial, técnica y legal, con sujeción a las atribuciones de la Ministra o Ministro de Culturas y Turismo, actual Ministra o Ministro de Culturas, Descolonización y Despatriarcalización, como responsable de la política del sector.
+* Que el Artículo 3 del [Decreto Supremo Nº 2005](https://www.lexivox.org//norms/BO-DS-N2005.html), establece que la Empresa Estatal "Boliviana de Turismo" tiene por giro y principal actividad la comercialización de pasajes y paquetes turísticos.
+* Que los Artículos 13 y 14 del [Decreto Supremo Nº 29727](https://www.lexivox.org//norms/BO-DS-29727.html), de 1 de octubre de 2008, dispone la creación de la entidad CONOCE - BOLIVIA, como institución pública desconcentrada, dependiente del Ministerio de Producción y Microempresa, actual Ministerio de Desarrollo Productivo y Economía Plural destinada a la promoción, mercadeo, capacitación, formación, asistencia técnica e inversión para el desarrollo del turismo comunitario. Que el sector de turismo ha sido uno de los más afectados por efectos de la COVID-19, por lo que es necesario que el Gobierno Nacional implemente políticas en el corto plazo vinculadas al apoyo y promoción del turismo, a través del fortalecimiento institucional de CONOCE - BOLIVIA, mediante la prestación de servicios turísticos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto fortalecer las actividades de apoyo y promoción del turismo, a través de la Entidad Pública Desconcentrada CONOCE - BOLIVIA, dependiente del Ministerio de Desarrollo Productivo y Economía Plural.
+
+**Artículo 2°.- (Modificaciones)** Se modifican los Artículos 14 y 19 del [Decreto Supremo Nº 29727](https://www.lexivox.org//norms/BO-DS-29727.html), de 1 de octubre de 2008, con el siguiente texto:
+> “ARTÍCULO 14.- (COMPETENCIA INSTITUCIONAL). CONOCE - BOLIVIA está destinada a incentivar el turismo, a la promoción del turismo con paquetes turísticos, mercadeo, capacitación, formación, asistencia técnica, inversión para el desarrollo del turismo y prestación de servicios turísticos.”
+
+> “ARTÍCULO 19.- (FINANCIAMIENTO). Son fuentes de financiamiento de CONOCE - BOLIVIA: a) Recursos del TGN de acuerdo a disponibilidad financiera; b) Donaciones y Créditos, externos e internos; c) Recursos Específicos.”
+
+**Artículo 3°.- (Incorporaciones)** Se incorporan los incisos g) al i) en el Artículo 16 del [Decreto Supremo Nº 29727](https://www.lexivox.org//norms/BO-DS-29727.html), de 1 de octubre de 2008, con el siguiente texto: " g) Prestar servicios turísticos; h) Desarrollar, promocionar y comercializar paquetes turísticos; i) Apoyar a las actividades vinculadas directamente al turismo."
+
+# Disposiciones adicionales
+
+**Disposición Adicional Única.-** 
+
+1. La Empresa Pública denominada Empresa Estatal "Boliviana de Turismo", cesará actividades comerciales a partir de la publicación del presente Decreto Supremo, para lo cual se dispone la desvinculación del personal de la empresa a excepción de un personal mínimo necesario compuesto por el Gerente Ejecutivo, Jefe de Finanzas, Asesor Legal y dos (2) servidores públicos con funciones administrativas, que deberán efectuar la entrega ordenada de activos, pasivos y documentación al Ministerio de Desarrollo Productivo y Economía Plural, en un plazo de hasta sesenta (60) días hábiles computables a partir de la publicación de la presente norma.
+2. Para la aplicación del Parágrafo precedente se garantiza el cumplimiento de los derechos sociales y laborales del personal, en el marco de la normativa vigente.
+     
+
+   # Disposiciones transitorias
+
+**Disposición Transitoria Primera.-** De los saldos del presupuesto de la Empresa Estatal "Boliviana de Turismo", existentes a la conclusión del plazo establecido en el Parágrafo I de la Disposición Adicional Única, se transferirán a favor del Ministerio de Desarrollo Productivo y Economía Plural los saldos presupuestarios necesarios para el cumplimiento de las obligaciones y exigibles resultantes, mismos que serán aprobados a través de Resolución Ministerial del señalado Ministerio.
+
+**Disposición Transitoria Segunda.-** 
+
+1. Los activos, pasivos y documentación de la Empresa Estatal "Boliviana de Turismo", incluidas las obligaciones laborales, serán asumidos por el Ministerio de Desarrollo Productivo y Economía Plural.
+2. En el marco del Parágrafo precedente, el Ministerio de Desarrollo Productivo y Economía Plural, solicitará a su favor la devolución de la Boleta de Garantía de la International Air Transport Association - IATA por la comercialización de pasajes aéreos.
+
+**Disposición Transitoria Tercera.-** El Ministerio de Desarrollo Productivo y Economía Plural realizará una auditoría de cierre y otras auditorías necesarias de la Empresa Estatal "Boliviana de Turismo".
+
+**Disposición Transitoria Cuarta.-** 
+
+1. Quedan válidos y vigentes los acuerdos, convenios y contratos suscritos por la Empresa Estatal "Boliviana de Turismo", con las personas naturales y jurídicas, instituciones, entidades y empresas públicas y privadas, nacionales e internacionales, así como los procesos administrativos, judiciales y otros en los que sean parte, mismos que serán asumidos por el Ministerio de Desarrollo Productivo y Economía Plural, estando facultado a continuar o dejar sin efecto previa evaluación técnica.
+2. El Ministerio de Desarrollo Productivo y Economía Plural asumirá, en lo que corresponda, los procesos de contratación de bienes y servicios iniciados por la Empresa Estatal "Boliviana de Turismo", estando facultada a continuar o dejar sin efecto dichos procesos, de conformidad a normativa vigente, precautelando los intereses económicos de la Entidad.
+
+**Disposición Transitoria Quinta.-** A efectos de dar cumplimiento al presente Decreto Supremo, se autoriza al Ministerio de Economía y Finanzas Públicas y a las entidades involucradas a realizar las modificaciones presupuestarias necesarias, así como los ajustes contables y de tesorería correspondientes.
+
+**Disposición Transitoria Sexta.-** Los Estados Financieros e Informes de Auditoría de Confiabilidad correspondientes a la Empresa Estatal "Boliviana de Turismo", por la gestión 2021, deberán ser presentados por el Ministerio de Desarrollo Productivo y Economía Plural a las instancias correspondientes en un plazo máximo de ciento veinte (120) días calendario computables a partir de la publicación del presente Decreto Supremo.
+
+**Disposicion Transitoria Séptima.-** El Ministerio de Desarrollo Productivo y Economía Plural, una vez cubiertos los pasivos de la Empresa Estatal "Boliviana de Turismo", deberá transferir los recursos remanentes al Tesoro General de la Nación - TGN, considerando lo siguiente: a) La monetización de los activos exigibles de la Empresa Estatal "Boliviana de Turismo"; b) El activo disponible de la Empresa Estatal "Boliviana de Turismo"; c) Los recursos recuperados producto de las auditorías realizadas.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Disposiciones Abrogatorias.-** Concluido el plazo establecido en el Parágrafo I de la Disposición Adicional Única de la presente norma, queda abrogado el [Decreto Supremo Nº 2005](https://www.lexivox.org//norms/BO-DS-N2005.html), de 21 de mayo de 2014.
+
+# Disposiciones finales
+
+**Disposición Final Unica.-** A partir de la publicación del presente Decreto Supremo y en un plazo de hasta diez (10) días hábiles, las instituciones y entidades del sector público, entendiéndose por tales la Presidencia y Vicepresidencia del Estado Plurinacional, Órganos del Estado, Ministerios, entidades descentralizadas y autárquicas; el Banco Central de Bolivia, las autoridades de regulación, las entidades estatales de intermediación financiera; las instituciones, organismos y empresas del nivel central del Estado, instituciones de creación constitucional y legal, persona colectiva estatal de derecho público y toda otra persona jurídica donde el Estado tenga la mayoría accionaria, deben de manera obligatoria realizar el pago de sus deudas con la Empresa Estatal "Boliviana de Turismo".
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Productivo y Economía Plural, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintiún días del mes de julio del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Remmy Ruben Gonzales Atila, Sabina Orellana Cruz.

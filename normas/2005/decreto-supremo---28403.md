@@ -1,0 +1,34 @@
+# Bolivia: Decreto Supremo Nº 28403, 20 de octubre de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que se ha procedido a la ampliación del financiamiento PROEX del Proyecto LA MAMORA - EMBOROZU - LIMAL - KM.19, así como de la garantía por parte de la Corporación Andina de Fomento - CAF, para la ejecución del Proyecto de Construcción y Pavimentación de los tramos Santa Bárbara - Camargo - Cuchu Ingenio de la Carretera Tarija - Potosí y la construcción y pavimentación del tramo Bella Vista - Vitichi - Cotagaita de la carretera Potosí - Villazón, con la contratista QUEIROZ GALVAO, a través del contrato suscrito el 28 de noviembre de 2003.
+* Que mediante Licitación Pública Internacional Nº 01/2004, en el marco de los Decretos Supremos [Nº 25964](https://www.lexivox.org//norms/BO-DS-25964.html) de 21 de octubre de 2000 y [Nº 27260](https://www.lexivox.org//norms/BO-DS-27260.html) de 28 de noviembre de 2003, se adjudicó y contrató la Supervisón Técnica y Ambiental de la Construcción y Pavimentación de dichos tramos al consorcio ECOPLAN - NORONHA con financiamiento de la Corporación Andina de Fomento - CAF.
+* Que la revisión efectuada por la Supervisión Técnica al Diseño Final de la Obra, estableció que la transposición de la Cuesta de Sama en el extremo sur del proyecto, próximo a Tarija, constituye uno de los principales puntos críticos de la carretera, debido a la topografía accidentada y de las altitudes por donde se desarrolla el trazado de la carretera que alcanzan a la cota de 3850 m. s. n. m.
+* Que la Supervisión Técnica ha efectuado un estudio a nivel de Diseño Preliminar que considera como solución técnica principal, la construcción de un túnel que permita atravesar el macizo rocoso de Sama a la altura de 3400 m. s. n. m. y un tramo de 36 km. de longitud que pasa por el sector de la Falda de la Queñua, con un costo aproximado de $us.7.092.517.- (SIETE MILLONES NOVENTA Y DOS mil QUINIENTOS diecisiete 00/100 DOLARES AMERICANOS)
+* Que la [Ley Nº 3064](https://www.lexivox.org//norms/BO-L-3064.html) de 30 de mayo de 2005, incorpora la Variante de la Falda de la Queñua a la Red Vial Fundamental Nacional, declarando prioridad nacional su construcción con la autorización al Poder Ejecutivo para contratar los estudios y la construcción, con recursos nacionales y/o externos, en el marco del financiamiento PROEX que financia la carretera Santa Bárbara - Camargo - Cuchu Ingenio - Bella Vista - Vitichi.
+* Que el [Decreto Supremo Nº 28246](https://www.lexivox.org//norms/BO-DS-28246.html) de 14 de julio de 2005, autoriza al Servicio Nacional de Caminos, la ampliación del Contrato de Supervisión Técnica con la empresa “ECOPLAN NORONHA” actual CONSULTOR de la carretera Santa Bárbara - Camargo - Cuchu Ingenio - Bella Vista - Vitichi - Cotagaita, para la ejecución del Estudio a Diseño Final de la variante de la “Falda de la Queñua”, señalando en el párrafo segundo que el Financiamiento de este estudio será con recursos de la Prefectura de Tarija.
+* Que el Servicio Nacional de Caminos ha suscrito el Contrato SNC - 482/05-GCT-SPV-CAF de fecha 29 de julio de 2005, con la Asociación Accidental “ECOPLAN NORONHA” como ampliación Contractual de los Servicios de Supervisión Técnica para el Estudio a Diseño Final de la Variante de la Falda de la Queñua, con plazo de vencimiento de 90 días calendario computables a partir de la orden de Proceder.
+* Que una vez concluido el Estudio a Diseño Final y contando con los recursos aprobados para la construcción de la ruta inicial a través de la Cuesta de Sama, es factible permitir a la Constructora Queiroz Galvao, el inicio de las obras de la Variante de la Falda de la Queñua, con cargo a los recursos adicionales necesarios, así como la utilización de los recursos del mismo proyecto en los volúmenes de obra faltantes como resultado de la revisión del Estudio a Diseño Final del Proyecto.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 20 de octubre de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Servicio Nacional de Caminos utilizar los recursos del tramo inicial de la Cuesta de Sama, en la construcción de la Variante de la Falda de la Queñua.
+2. La Prefectura del Departamento de Tarija deberá cubrir la diferencia del costo del nuevo tramo, de acuerdo a la revisión del Estudio a Diseño Final de la Variante de la Falda de la Queñua, por parte del Servicio Nacional de Caminos, según el monto que éste determine.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y, Servicios y Obras Públicas quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la Ciudad de La Paz, a los veinte días del mes de octubre del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Carlos Melchor Díaz Villavicencio, Mario Moreno Viruéz, Jaime Eduardo Dunn Castellanos, Maria Cristina Mejía Barragán, Lourdes Ortiz Daza Ministra Interina de Salud y Deportes, Carlos Antonio Laguna Navarro, Guillermo Ribera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

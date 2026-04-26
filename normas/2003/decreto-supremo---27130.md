@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 27130, 14 de agosto de 2003
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que por [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html) de 21 de agosto de 1998, la Red Fundamental de Carreteras pasa a depender del Servicio Nacional de Caminos.
+* Que por Convenio Interinstitucional suscrito con la Prefectura de Oruro en fecha 6 de noviembre de 1997, aprobado por Resolución Suprema Nº 218243 de 17 de diciembre de 1997, el Comando de Ingeniería del Ejército fue contratado por vía de excepción, para ejecutar el pavimento del tramo vial Oruro - Toledo.
+* Que como consecuencia de la paralización de las obras del mencionado Proyecto por parte del Comando de Ingeniería del Ejército, en el mes de agosto de 2001, el Servicio Nacional de Caminos determina la Resolución Parcial del Contrato con el Comando de Ingeniería del Ejército y la contratación del Servicio Prefectural de Caminos de Oruro - SEPCAM y del Consorcio Toledo.
+* Que es responsabilidad del Gobierno Nacional, efectuar las acciones necesarias para viabilizar la conclusión de obras del mencionado Proyecto, debido a la importancia en la economía del país por la vinculación con el Puerto de Iquique - Chile, para lo cual deben asignarse los recursos suficientes del Tesoro General de la Nación.
+* Que el Servicio Nacional de Caminos ha emitido los Informes Técnico Nº 0442/03 de 27 de junio de 2003 y Legal Nº 170/03 de 30 de junio de 2003, que establecen que el monto mínimo requerido para la conclusión del tramo vial y, para evitar el deterioro y encarecimiento de los costos de la obra, es de Sus.2.307.850.81.- (DOS MILLONES TRESCIENTOS siete mil novecientos CINCUENTA 81/100 DOLARES AMERICANOS).
+* Que debe disponerse asimismo, que el Servicio Nacional de Caminos efectúe las acciones que correspondan para la recuperación de montos de anticipo y fondo rotatorio, entregados al Comando de Ingeniería del Ejército para la conclusión de la carretera.
+* Que para los fines consiguientes, el desembolso al Servicio Nacional de Caminos debe efectuarse con cargo a las asignaciones presupuestarias otorgadas a esa entidad.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Tesoro General de la Nación el desembolso de recursos financieros, destinados a la conclusión de las obras del Proyecto Carretero Oruro - Toledo.
+
+**Artículo 2°.- (Autorizacion)** Se autoriza al Tesoro General de la Nación, desembolsar Sus.2.307.850.81.- (DOS MILLONES TRESCIENTOS siete mil novecientos CINCUENTA 81/100 DOLARES AMERICANOS), al Servicio Nacional de Caminos, en certificados de crédito fiscal, destinados a la conclusión de las obras del Proyecto Carretero Oruro - Toledo, con cargo a las asignaciones presupuestarias contempladas en el presupuesto de deuda del Servicio Nacional de Caminos.
+
+**Artículo 3°.- (Modificaciones presupuestarias)** Se autoriza al Ministerio de Hacienda, realizar las modificaciones presupuestarias intrainstitucionales necesarias en el presupuesto del Servicio Nacional de Caminos, que permitan efectivizar el desembolso de los recursos.
+
+**Artículo 4°.- (Responsabilidad)** El Servicio Nacional de Caminos como institución responsable de la ejecución del Proyecto, en el plazo improrrogable de 60 días, deberá concluir con la auditoria del Proyecto, la conciliación de cuentas con el Comando de Ingeniería del Ejército y dar inicio, si correspondiese a las acciones legales, hasta la recuperación de los anticipos y fondo rotatorio otorgados a esa institución, para su posterior reembolso al Tesoro General de la Nación.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y, Servicios y Obras Públicas quedan encargados de ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de agosto del año dos mil tres.
+  
+Fdo. CARLOS D. MESA GISBERT PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA, Franklin Anaya Vásquez Ministro Interino de RR. EE. y Culto, José Guillermo Justiniano Sandoval, Yerko Kukoc del Carpio, Carlos Sánchez Berzaín, Javier Comboni Salinas, Erick Reyes Villa Bacigalupi, Jorge Torres Obleas, Carlos Morales Landivar, Jorge Berindoague Alcocer, Hugo Carvajal Donoso, Javier Torres Goitia Caballero, Adalberto Kuajara Arandia, Guido Añez Moscoso, Dante Pino Archondo, Mirtha Quevedo Acalinovic.

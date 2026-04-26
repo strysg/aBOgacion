@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 994, 13 de noviembre de 2017
+
+[Ley Nº 994](https://www.lexivox.org//norms/BO-L-N994.html)  
+LEY DE 13 DE NOVIEMBRE DE 2017
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+Por cuanto, la Asamblea Legislativa Plurinacional, ha sancionado la siguiente Ley:
+  
+LA ASAMBLEA LEGISLATIVA PLURINACIONAL,
+  
+DECRETA:
+
+**Artículo 1°.-** Se declara Patrimonio Cultural Inmaterial del Estado Plurinacional de Bolivia, a la Festividad “Navidad de Zudáñez” del Municipio de Zudáñez, Provincia Jaime Zudáñez del Departamento de Chuquisaca, celebrada a partir del 24 de diciembre al 6 de enero de cada año, por constituirse en una expresión viva de los valores culturales tradicionales, populares y religiosos de nuestro País.
+
+**Artículo 2°.-** El Órgano Ejecutivo a través del Ministerio de Culturas y Turismo, en coordinación con el Gobierno Autónomo Departamental de Chuquisaca y el Gobierno Autónomo Municipal de Zudáñez, en el marco de sus competencias, quedan encargados de formular políticas de promoción, protección y salvaguarda de la Festividad “Navidad de Zudáñez”.
+
+---
+
+Remítase al Órgano Ejecutivo para fines constitucionales.
+  
+Es dado en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los siete días del mes de noviembre del año dos mil diecisiete.
+  
+Fdo. José Alberto Gonzales Samaniego, Lilly Gabriela Montaño Viaña, Omar Paul Aguilar Condo, María Argene Simoni Cuellar, Gonzalo Aguilar Ayma, Sebastián Texeira Rojas.
+  
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
+  
+Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de noviembre del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, René Martínez Callahuanca, Wilma Alanoca Mamani.

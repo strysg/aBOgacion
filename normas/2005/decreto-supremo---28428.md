@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 28428, 28 de octubre de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 25465](https://www.lexivox.org//norms/BO-DS-25465.html) de 23 de julio de 1999 establece que los exportadores de minerales deben presentar análisis de laboratorio realizados por empresas acreditadas por el Instituto Boliviano de Normalización y Calidad - IBNORCA.
+* Que mediante [Decreto Supremo Nº 26397](https://www.lexivox.org//norms/BO-DS-26397.html) de 17 de noviembre del año 2001, se sustituye en el cuarto párrafo del Artículo 16 del [Decreto Supremo Nº 25465](https://www.lexivox.org//norms/BO-DS-25465.html), la frase “Instituto Boliviano de Normalización y Calidad - IBNORCA por Organismo Boliviano de Acreditación - OBA.
+* Que el [Decreto Supremo Nº 28243](https://www.lexivox.org//norms/BO-DS-28243.html) de 14 de julio de 2005 incorpora las competencias del Organismo Boliviano de Acreditación - OBA al Instituto Boliviano de Metrología - IBMETRO, creando la Dirección Técnica de Acreditación como parte de la estructura de IBMETRO.
+* Que desde la vigencia del [Decreto Supremo Nº 25465](https://www.lexivox.org//norms/BO-DS-25465.html), no ha existido un procedimiento ágil de acreditación de laboratorios para análisis de minerales, y a la fecha no existen laboratorios acreditados que brinden dicho servicio a las empresas mineras.
+* Que es necesario solucionar esta deficiencia a fin de no perjudicar a las empresas del sector minero que solicitan devolución de impuestos por sus exportaciones.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 26 de octubre de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. La Dirección Técnica de Acreditación del Instituto Boliviano de Metrología - IBMETRO efectuará el reconocimiento transitorio de los laboratorios de análisis de minerales y metales que reúnan condiciones básicas para su desenvolvimiento, debiendo dichos laboratorios, en su plazo máximo de 24 meses, lograr su acreditación final en base a evaluaciones intermedias y periódicas.
+2. El IBMETRO enviará trimestralmente al Servicio de Impuestos Nacionales - SIN la lista de los laboratorios con reconocimiento transitorio, a efecto de la validez de los análisis de laboratorio dentro del trámite de devolución impositiva, de acuerdo a lo dispuesto en el Artículo 16 del [Decreto Supremo Nº 25465](https://www.lexivox.org//norms/BO-DS-25465.html).
+3. En tanto se establezca el procedimiento transitorio de laboratorios de análisis de minerales y metales, los exportadores de minerales que hubieran solicitado CEDEIM deberán presentar, a tiempo de recoger el CEDEIM, el análisis de laboratorio, realizado por los laboratorios legalmente establecidos en el país o acreditados internacionalmente.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda, Desarrollo Económico y, Minería y Metalurgia quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de octubre del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Carlos Melchor Díaz Villavicencio, Mario Moreno Viruéz, Jaime Eduardo Dunn Castellanos, Maria Cristina Mejía Barragán, Lourdes Ortiz Daza Ministra Interina de salud y Deportes, Carlos Antonio Laguna Navarro, Guillermo Ribera Cuellar, Dionisio Garzón Martínez, Gualberto M. Pérez Bustamante Ministro Interino Sin Cartera Responsable de Participación Popular, Pedro Ticona Cruz .

@@ -1,0 +1,101 @@
+# Bolivia: Ley Municipal Nº 1, 17 de junio de 2010
+
+LEY AUTÓNOMICA Nº 001/2010
+  
+GOBIERNO MUNICIPAL DE LA PAZ
+  
+Secretaría General
+  
+Dr. Luis Revilla Herrero
+  
+ALCALDE MUNICIPAL DE LA PAZ
+  
+Por cuanto el Concejo Municipal de La Paz ha aprobado la siguiente Ley Autónoma Municipal:
+
+EXPOSICIÓN DE MOTIVOS:
+
+La [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) Plurinacional de Bolivia en su artículo 272 consagra la autonomía de las Entidades Territoriales de nuestro Estado, que implica la elección directa de sus autoridades por las ciudadanas y ciudadanos, la administración de sus recursos económicos l y el ejercicio de las facultades legislativas, reglamentaria, fiscalizadora y ejecutiva, por los órganos del gobierno autónomo en el ámbito de su jurisdicción y competencia, y atribuciones; asimismo el artículo 283 de dicho Texto Supremo prevé que el gobierno autónomo municipal está constituido por un Concejo Municipal con facultad deliberativa, fiscalizadora y legislativa municipal en el ámbito de sus competencias; y un órgano ejecutivo, presidido por la Alcaldesa o el Alcalde.
+
+El artículo 297, parágrafo I, numeral 2 de nuestra Norma Suprema define a las competencias exclusivas como aquellas en las que un nivel de gobierno tiene sobre una determinada materia las facultades legislativa, reglamentaria y ejecutiva; siendo que el artículo 302 consigna las competencias exclusivas de los Gobiernos Municipales Autónomos en su jurisdicción atribuyéndoles en su numeral 5, la facultad especifica de preservar, conservar y contribuir a la protección del medio ambiente y recursos naturales, fauna Silvestre y animales. El artículo 410 parágrafo II establece que la Constitución Política es la norma Suprema del ordenamiento jurídico boliviano y goza de primacía frente a cualquier otra disposición normativa; en este contexto, la aplicación de las normas jurídicas se regirá por su jerarquía de acuerdo a las competencias de las entidades territoriales, dentro esta jerarquía se encuentran las leyes nacionales; los estatutos autonómicos, las cartas Orgánicas y el resto de la legislación departamental, municipal e indígena.
+
+La [Ley Transitoria para el Funcionamiento de las Entidades Territoriales Autónomas Nº 017](https://www.lexivox.org//norms/BO-L-N17.html) de 24 de mayo de 2010, al normar a los Gobiernos Autónomos Municipales, en su artículo 19, dispone que los Concejos Municipales podrán ejercer su facultad legislativa en el ámbito de sus competencias exclusivas. Al respecto, la Disposición Final Primera de esta Ley señala que las disposiciones legales de las Entidades Territoriales Autónomas deberán observar rigurosamente la- jerarquía normativa establecida en el artículo 410 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) antes detallado.
+
+En el marco de la nueva [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) y respaldados en ella, los Gobiernos Autónomos Municipales se encuentran facultados para emitir leyes en el ámbito de sus competencias exclusivas, como lo consagra la [Ley Nº 017](https://www.lexivox.org//norms/BO-L-N17.html) de 24 de mayo de 2010, que asume el ejercicio de esta facultad legislativa por parte de las Entidades Territoriales Autónomas, cuando en su artículo 19 prevé que los Concejos Municipales podrán ejercer su atribución legislativa en el ámbito de las precitadas competencias exclusivas, constitucionalmente consagradas -como se ha mencionado- en el artículo 302, parágrafo I de nuestro Texto Supremo.
+
+Es necesario puntualizar que a decir del artículo 271, parágrafo I, de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), la [Ley Marco de Autonomías y Descentralización](https://www.lexivox.org//norms/BO-L-N31.html) regulará el procedimiento para la elaboración de Estatutos Autonómicos y Cartas Orgánicas, la transferencia y delegación competencial, el régimen económico financiero y la coordinación entre el nivel central y el autonómico; sin comprender a la facultad legislativa sobre las competencias exclusivas de las Entidades Territoriales Autónomas, puesto que esta atribución ya la tienen por determinación constitucional, confirmándose esta realidad jurídica con la emisión de la [Ley Nº 017](https://www.lexivox.org//norms/BO-L-N17.html) de 24 de mayo de 2010 antes detallada.
+
+Por su parte, el artículo 108 de la Constitución Política de nuestro Estado exige a los bolivianos y bolivianas resguardar, defender y proteger el patrimonio, natural, económico y cultural de Bolivia, además de proteger y defender los recursos naturales y contribuir a su uso sustentable, para preservar los derechos de las futuras generaciones, protegiendo y defendiendo un medio ambiente adecuado para el desarrollo de los seres vivos.
+
+La [Ley Nº 1333](https://www.lexivox.org//norms/BO-L-1333.html) del Medio Ambiente, en su artículo 41, determina que es deber del estado a través de los organismos competentes, normar y controlar la descarga en la atmósfera de cualquier sustancia en forma de gases, vapores, humos y polvos que puedan causar daños a la Salud pública, el medio ambiente, molestias a la comunidad o sus habitantes y efectos nocivos a la propiedad pública y privada.
+
+El Municipio de La Paz cuenta con un diverso entorno natural, el mismo que debe ser protegido y conservado en beneficio de su población y las generaciones futuras; evitando la degradación del medio ambiente y/o el deterioro de los ecosistemas urbanos y rurales, por lo cual es imperioso establecer lineamientos que deben ser aplicados en la política ambiental municipal. Más aun cuando los dos problemas ambientales que afectan a toda la población mundial, el agotamiento de la capa de ozono y el cambio climático, son sin duda una preocupación que debe ser prioritariamente atendida, no solo a nivel central de los Estados de nuestro mundo sino por el nivel más cercano a la sociedad como es el gobierno local.
+
+Tomando en cuenta que la población tiene el derecho y a su vez el deber a la participación en la gestión ambiental, su gobierno local se encuentra en la obligación de promover políticas de gestión ambiental participativas y con control social, con el propósito final de articular acciones conjuntas para mitigar los efectos adversos del cambio climático que Se han generado en las últimas décadas. La preocupación de la Sociedad, cada vez más evidente, sobre las variaciones en el comportamiento climático en nuestro Municipio, requiere de una efectiva intervención a nivel de políticas y acciones en concreto para involucrar la participación de la población en la mitigación de estos aspectos adversos.
+
+Según monitoreos de la calidad del aire efectuados en los últimos años, se evidenció una alta concentración de contaminantes dispersos en el aire de las principales ciudades de nuestro país, que al mismo tiempo representa una importante contribución en la emisión de gases de efecto invernadero, problema ambiental que como se ha mencionado anteriormente merece especial atención como labor conjunta entre el Gobierno Autónomo Municipal y los ciudadanos y ciudadanas. Ambos tienen el deber de interactuar en las acciones de mitigación, por la alta responsabilidad que esto representa en la lucha contra el Cambio Climático, además de trasmitir y apoderarse de la información y el Conocimiento sobre los mecanismos que cada uno de ellos puede articular esfuerzos para participar en la protección del medio ambiente.
+
+En ejercicio de las competencias legislativas establecidas en la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) y la [Ley Transitoria para el Funcionamiento de las Entidades Territoriales Autónomas Nº 017](https://www.lexivox.org//norms/BO-L-N17.html), en estricto cumplimiento de las competencias exclusivas y deberes con la Comunidad, protegiendo y preservando el medio ambiente de nuestro Municipio, en resguardo de las actuales y futuras generaciones.
+
+# LEY MUNICIPAL AUTONÓMICA
+
+# Nº 001/2010
+
+# DE CONTRIBUCIÓN A LA PROTECCIÓN DEL MEDIO AMBIENTE DEL MUNICIPIO DE LA PAZ
+
+EL ÓRGANO LEGISLATIVO DEL GOBIERNO AUTÓNOMO MUNICIPAL DE LA PAZ:
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** La presente Ley del Gobierno Autónomo Municipal de La Paz tiene por objeto:
+
+1. Establecer los principios rectores que contribuyan a la protección del medio ambiente en nuestro Municipio; y a la salud de la población.
+2. En el marco de las atribuciones exclusivas del Gobierno Autónomo Municipal de La Paz, establecer las prohibiciones y sanciones que devengan del daño al medio ambiente del Municipio, en ocasión de la celebración de la Festividad de San Juan.
+
+**Artículo 2°.- (Principios rectores)** El Gobierno Autónomo Municipal de La Paz asume y promueve como principios rectores de la contribución a la protección del medio ambiente y a la salud de la población del Municipio de La Paz:
+
+1. Solidaridad, que se fundamenta en el reconocimiento del medio ambiente como un bien conjunto e indivisible de todos los habitantes de nuestro Municipio, debiendo prevalecer el interés colectivo sobre los intereses individuales, reconociendo que todos formamos parte de un único y mismo sistema ambiental compartiendo sus potencialidades y limitaciones.
+2. Igualdad, que se fundamenta en que toda la comunidad tiene igualdad de derechos y obligaciones en el uso y el manejo del medio ambiente, para preservar, proteger y potenciar el mismo; tiene el derecho de usar y disfrutar la calidad de vida que le ofrece el medio ambiente protegido.
+3. Sustentabilidad, que se fundamenta en la obligación compartida y conjunta entre gobierno local y la población en general de conservar, proteger y aprovechar los recursos naturales y la biodiversidad, manteniendo el equilibrio del medio ambiente y sin comprometer las necesidades de las generaciones venideras.
+
+**Artículo 3°.- (Políticas)** El Gobierno Autónomo Municipal de La Paz, promueve como políticas de contribución a la protección del medio ambiente las siguientes:
+
+1. El Gobierno Autónomo Municipal de La Paz impulsa el desarrollo local sustentable, articulando medidas ambientales locales con amplia participación Social.
+2. El Gobierno Autónomo Municipal de La Paz, aplica estrategias participativas, tendientes a la reducción de la contaminación y recuperación de la calidad del aire, evitando, previniendo y controlando impactos negativos para el desarrollo de la calidad de vida de la comunidad.
+3. El Gobierno Autónomo Municipal de La Paz, define y administra el uso y aprovechamiento del territorio, protegiendo los ecosistemas del Municipio.
+4. Él Gobierno Autónomo Municipal de La Paz, coadyuva a mejorar la calidad del agua, su control y recuperación con acciones integrales para su aprovechamiento, manejo y la disposición de aguas residuales.
+5. El Gobierno Autónomo Municipal de La Paz, promueve el desarrollo sustentable del área rural, con la participación de sus comunidades en el aprovechamiento óptimo de sus recursos naturales.
+6. El Gobierno Autónomo Municipal de La Paz, implementa programas de educación ambiental y ciudadana, articulando criterios ambientales con la gestión de riesgos para tener un Municipio viable y Sustentable desde el punto de vista físico estructural.
+7. El Gobierno Autónomo Municipal de La Paz, profundiza mecanismos de participación de todos los actores sectoriales, funcionales y territoriales para la protección del entorno ambiental.
+
+**Artículo 4°.- (Promoción e impulso)** El Ejecutivo Municipal deberá promover e impulsar el desarrollo de los Principios Rectores y las Políticas previstas en la presente Ley del Gobierno Autónomo Municipal de La Paz.
+
+**Artículo 5°.- (Prohibiciones)** Queda terminantemente prohibido:
+
+1. El encendido de fogatas en toda la jurisdicción del Municipio de La Paz, y la comercialización de leña, thola, troncos y otros elementos que sirvan para la combustión, en calles, parques, plazas, inmuebles privados y otros, durante la Festividad de San Juan que se celebra los días 23 y 24 de junio de cada año.
+2. La comercialización y uso de todos los juegos pirotécnicos, sin excepción general alguna, en dicha Festividad por considerarse productos altamente tóxicos y peligrosos principalmente para la salud de los menores de edad y la población en general.
+3. La tala y destrucción de árboles en diferentes áreas del Municipio de La Paz.
+
+**Artículo 6°.- (Sanciones)** Las personas que incurran en las prohibiciones previstas en el artículo precedente serán sancionadas según las multas previstas por el procedimiento sancionador dispuesto para efecto por el Gobierno Autónomo Municipal de La Paz.
+
+**Artículo 7°.- (Acciones del Ejecutivo Municipal)** El Ejecutivo Municipal, a través de las unidades organizacionales que se mencionan (no excluyentes a otras), deberá ejecutar las siguientes acciones:
+
+1. La Dirección de Calidad Ambiental, en coordinación con la Dirección de Comunicación Social y Dirección de Cultura Ciudadana, ejecutar una campaña de educación y sensibilización de los principios rectores previstos en la presente Ley, destinada a la ciudadanía en general.
+2. La Dirección de Mercados y Comercio en Vía Pública, Unidad Intendencia Municipal, Unidad Guardia Municipal, en coordinación con la Policía Nacional, controlar el cumplimiento de la presente Ley, procediéndose al decomiso de los juegos pirotécnicos prohibidos, durante las fechas señaladas en el Articulo 5, asimismo el control de venta de embutidos y bebidas alcohólicas adulteradas o en mal estado.
+3. El Programa Barrios y Comunidades de Verdad, sancionar a los barrios beneficiados del programa y actuales concursantes, en caso de verificarse el encendido de fogatas en los mismos, con la aplicación de las sanciones previstas al efecto por el Gobierno Autónomo Municipal de La Paz, debiendo promover campañas de información y acción vecinal en beneficio del medio ambiente.
+4. La Oficialía Mayor de Planificación para el Desarrollo, en coordinación con la Dirección de Coordinación Territorial, Organizar el operativo de control durante la noche de la Festividad de San Juan, con las Subalcaldías en cada Macrodistrito y la participación de todas las Unidades del Gobierno Municipal.
+5. Coordinar con el Gobierno Autónomo Departamental de La Paz, Policía Nacional y la Unidad de Bomberos, el cumplimiento de la presente Ley del Gobierno Autónomo Municipal de La Paz.
+6. A través de Secretaría General, proceda a la publicación de la presente Ley del Gobierno Autónomo Municipal de La Paz en un medio de comunicación escrito.
+
+---
+
+Remítase al Ejecutivo Municipal para su respectiva promulgación y publicación, quedando encargado del estricto cumplimiento de lo establecido en la presente Ley Municipal Autonómica.
+  
+Es dada en la Sala de Sesiones del Concejo Municipal de La Paz, a los diecisiete días del mes de junio de dos mil diez años.
+  
+Firmado por:
+  
+Gabriela Niño de Guzmán García - PRESIDENTA CONCEJO MUNICIPAL DE LA PAZ, Omar Oscar Rocha Rojo - SECRETARIO CONCEJO MUNICIPAL DE LA PAZ
+  
+Por tanto la promulgo para que se tenga y cumpla como Ley Municipal del Gobierno Municipal de La Paz, a los diecisiete días del mes de junio del año dos mil diez.
+  
+Luis Revilla Herrero, Alcalde Municipal de La Paz.

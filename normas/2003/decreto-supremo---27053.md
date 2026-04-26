@@ -1,0 +1,98 @@
+# Bolivia: Decreto Supremo Nº 27053, 26 de mayo de 2003
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la salud es un bien de interés público y, por lo tanto, constituye una función esencial del Estado, la protección y prevención de la salud del individuo, la familia y la población boliviana, cuya finalidad es concordante con el “Plan Bolivia” propuesto y en ejecución del Gobierno Nacional.
+* Que el Código de Salud de la República de Bolivia aprobado por [Decreto Ley Nº 15629](https://www.lexivox.org//norms/BO-DL-15629.html) de 18 de julio de 1978, en sus Artículos 123 y 124 determina que corresponde a la autoridad de salud la regulación de: i) la defensa de la salud de la población, con relación al tabaco en sus diferentes formas de presentación y expendio; y, ii) la prohibición de la publicidad que incite al consumo, utilizando para dichos fines a niños y adolescentes, como la asociación a las prácticas deportivas, del hogar o del trabajo.
+* Que asimismo, por [Decreto Supremo Nº 18886](https://www.lexivox.org//norms/BO-DS-18886.html), de 15 de marzo de 1982, han sido aprobados los diferentes Reglamentos al Código de Salud, entre los que se encuentran las previsiones normativas del Reglamento sobre el Uso del Tabaco que determina el alcance del vocablo “tabaco” con relación a la salud, los medios de prevención, control, así como incorpora restricciones y sanciones por inobservancia y otros aspectos concomitantes.
+* Que corresponde al Gobierno Nacional, a través de la Cartera de Estado correspondiente, normar, regular, precisar y complementar aquellos mecanismos de prevención y resguardo de la salud que se originan en el consumo indiscriminado y sin control de los productos y derivados del tabaco en Bolivia.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+## Capítulo I De la naturaleza de la norma legal
+
+**Artículo 1°.- (Objeto y alcance)** El presente Decreto Supremo tiene por objeto ampliar, precisar y complementar las disposiciones normativas referidas al Reglamento sobre el Uso del Tabaco, aprobado por [Decreto Supremo Nº 18886](https://www.lexivox.org//norms/BO-DS-18886.html) de 15 de marzo de 1982, en cuanto concierne a la protección y prevención de la salud del individuo, la familia y la población boliviana.
+
+## Capítulo II De la advertencia para el consumo
+
+**Artículo 2°.- (Obligacion imperativa)** 
+
+1. La advertencia de salud: “SE HA ESTABLECIDO QUE FUMAR ES DAÑINO PARA LA SALUD”, debe ser impresa obligatoriamente en las cajetillas, paquetes y jabas de cigarros, cajas de cigarros (puros) y bolsas de tabaco para pipas, de producción nacional o importados, para la venta o comercialización en todo el territorio nacional.
+2. Esta advertencia deberá ser impresa en idioma español, en letras mayúsculas, tipo Helvética de 10 puntos, legibles y en colores contrastantes.
+3. La advertencia debe ser impresa en uno de los lados de las cajetillas, paquetes, jabas, cajas o bolsas de tabaco para pipas.
+4. Para los efectos de control, constituye inobservancia de la norma si la leyenda se halla impresa en el envoltorio de celofán o polipropileno u otro revestimiento que no sea la cajetilla del cigarrillo.
+
+**Artículo 3°.- (Obligacion complementaria)** 
+
+1. Los cigarrillos, puros o tabaco solo pueden ser comercializados a personas igual o mayores a 18 años. La advertencia: “VENTA PROHIBIDA A MENORES”, debe ser impresa en empaques de cigarrillos, puros o tabaco para la venta o comercialización en todo el territorio nacional.
+2. Esta advertencia deberá ser impresa en idioma español, en letras mayúsculas, legibles y en colores contrastantes.
+3. La advertencia debe ser impresa en uno de los costados de las cajetillas, paquetes, jabas, cajas o bolsas de tabaco elaborado para la venta.
+4. Se establece un periodo de 120 días, a partir de la publicación del presente Decreto Supremo en la Gaceta Oficial de Bolivia, para el cumplimiento de esta norma, período en el cual las industrias nacionales e importadores deberán agotar sus inventarios de cajetillas y proceder con la impresión de nuevos lotes.
+
+## Capítulo III De la publicidad
+
+**Artículo 4°.- (Restriccion de la publicidad)** Cualquier forma de publicidad de cigarrillos, puros o tabacos debe sujetarse a las restricciones:
+
+1. No debe ser dirigida o incitar una atracción especial a los menores de edad.
+2. Queda prohibido el uso de personajes de tiras cómicas en la publicidad de cigarrillos, puros o tabacos, o en cualquier elemento adicional promocional.
+3. No debe sugerirse de manera explícita ni implícita que el fumar promueve el éxito social, deportivo o provoca atracción sexual.
+
+**Artículo 5°.- (Prohibicion)** 
+
+1. Se prohíbe la difusión de publicidad de cigarrillos, puros o tabaco, a través de los medios abiertos de televisión y radio, a partir de la publicación del presente Decreto Supremo.
+2. Los productores, importadores y distribuidores de cigarrillos, puros o tabaco no podrán realizar pagos o contribuciones, ya sea en forma directa o indirecta a ningún tipo de programa de televisión o radio, para exhibir, mostrar el consumo o mostrar sus productos.
+3. Se exceptúa de la presente prohibición a los canales de televisión o emisoras de radio que cuenten con la tecnología de restricción de acceso a personas igual o mayores a 18 años de edad.
+
+**Artículo 6°.- (Restriccion en pantallas de cines)** La publicidad de cigarrillos, puros y tabacos para pipas en las salas de cines, además de cumplir con las restricciones previstas en el Artículo 4 del presente Decreto Supremo, solamente podrá ser proyectada en aquellas películas calificadas para mayores de 18 años de edad.
+
+**Artículo 7°.- (Prohibicion extensiva)** Se autoriza la colocación de anuncios publicitarios externos, como murales o vallas publicitarias, siempre y cuando el tamaño máximo no exceda de 35 (treinta y cinco) metros cuadrados y estén a una distancia mayor a los 100 metros de las escuelas de enseñanza primarias y secundarias, así como de los hospitales y nosocomios públicos de salud.
+
+**Artículo 8°.- (Normas publicitarias)** Los mensajes publicitarios permitidos de cigarrillos, puros y tabacos, también deben llevar el rótulo o mensaje de advertencia previsto por el Artículo 2 del presente Decreto Supremo, en función de las normas siguientes:
+
+1. En mensajes publicitarios escritos o impresos, incluyendo anuncios gigantográficos, murales, vallas publicitarias, afiches, almanaques, volantes, anuncios de prensa y revistas; la advertencia debe ser colocada de manera legible en letras mayúsculas, en un color que contraste claramente con el color de fondo, a lo largo de toda la base del elemento publicitario. Esta advertencia debe ocupar el 10% (diez por ciento) del área total del elemento publicitario.
+2. En cuanto a la publicidad en televisión de acceso controlado y cine, la advertencia debe ser colocada al final del mensaje publicitario, de manera fija, en letras mayúsculas, en un color que contraste claramente con el color de fondo. La advertencia debe ser legible y permanecer en la misma por un período de tiempo no menor a los 3 (tres) segundos. El mensaje verbal debe ser emitido sin fondo musical, de manera que pueda ser entendido claramente.
+3. En cuanto a la publicidad en radios de acceso controlado, la advertencia deberá ser incluida a través de un mensaje verbal al final del comercial y con una duración de no menos de 3 (tres) segundos. El mensaje verbal debe ser emitido sin fondo musical, de manera que pueda ser entendido claramente.
+
+**Artículo 9°.- (Prohibiciones especificas)** La publicidad de cigarrillos, puros o tabacos no debe estar dirigida a menores de edad, ni aparecer en revistas infantiles o suplementos culturales o educativos de periódicos.
+
+## Capítulo IV De las actividades promocionales
+
+**Artículo 10°.- (Promocion limitada a los adultos)** 
+
+1. Las ofertas o promociones de cigarrillos, puros o tabaco efectuadas a través de los diferentes medios de comunicación permitidos, deben ser dirigidas exclusivamente a personas mayores de 18 años de edad.
+2. Se prohíbe colocar publicidad, logos o marcas de cigarrillos, puros o tabaco en productos utilizados por menores de edad.
+3. Aquellas personas que se dediquen a las actividades de promoción, al consumo de cigarrillos, puros o tabaco, deben acreditar una edad mayor a los 18 años.
+
+**Artículo 11°.- (Prohibicion general)** Se prohíbe la distribución de muestras gratuitas de cigarrillos, puros o tabaco, en cualquier sitio o lugar del territorio nacional, con fines publicitarios o promocionales.
+
+## Capítulo V De las disposiciones complementarias
+
+**Artículo 12°.- (Prohibicion especifica)** Se prohíbe la venta de cigarrillos, puros o tabaco a personas menores de 18 años de edad.
+
+**Artículo 13°.- (Control y fiscalizacion)** Las laborales de control y fiscalización del presente Reglamento serán ejecutadas por la autoridad de salud dependiente del Ministerio de Salud y Deportes en coordinación con los Gobiernos Municipales, la Policía Nacional y la Aduana Nacional en todo el territorio nacional.
+
+## Capítulo VI De las sanciones
+
+**Artículo 14°.- (Vigencia)** Se declaran vigentes las sanciones previstas en el Reglamento sobre el Uso de Tabaco aprobado por el [Decreto Supremo Nº 18886](https://www.lexivox.org//norms/BO-DS-18886.html) de 15 de marzo de 1982, en todo cuanto no contradiga al presente Decreto Supremo.
+
+**Artículo 15°.- (Decomiso y destruccion)** 
+
+1. Las cajetillas de cigarrillos, puros o bolsas de tabaco que no cumplan con las exigencias legales de los Artículos 2 y 3 del presente Decreto Supremo, debe ser decomisadas y destruidas en el acto por la autoridad de salud.
+2. Si el decomiso de cigarrillos, puros o bolsas de tabaco se produce por la Aduana Nacional, no podrán ser rematados ni comercializados en el mercado nacional, debiendo ser destruidos por las autoridades aduaneras, en presencia de las autoridades del Ministerio de Salud y Deportes.
+3. Si el decomiso de cigarrillos, puros o bolsas de tabaco se produce por el Ministerio de Salud y Deportes, con el apoyo de la Policía Nacional, en los diferentes sitios o lugares de expendio, la autoridad de salud dependiente del Ministerio de Salud y Deportes, se encargará de la destrucción de todos los productos decomisados en su integridad.
+
+**Artículo 16°.- (Vigencia de normas)** Se abrogan y derogan todas las Disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Salud y Deportes y, Hacienda quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiséis días del mes de mayo del año dos mil tres.
+  
+Fdo. CARLOS D. MESA GISBERT PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA, Carlos Saavedra Bruno, José Carlos Campero Núñez del Prado Ministro Interino de la Presidencia, Yerko Kukoc del Carpio, Freddy Teodovich Ortiz, Javier Comboni Salinas, Moira Paz Estenssoro , Jorge Torres Obleas, Carlos Morales Landivar, Jorge Berindoague Alcocer, Hugo Carvajal Donoso, Javier Tórres Goitia Caballero, Juan Walter Subirana Suárez, Arturo Liebers Baldivieso.

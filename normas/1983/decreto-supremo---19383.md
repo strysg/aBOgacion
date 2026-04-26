@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 19383, 31 de enero de 1983
+
+DECRETO SUPREMO N° 19383
+  
+DR. HERNAN SILES ZUAZO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, a partir del 22 del presente mes, debe realizarse en nuestro país, el Campeonato Sudamericano de Fútbol “JUVENTUD DE AMERICA”, para cuyo evento, el Gobierno Constitucional de la República, ha declarado su prioridad e importancia, ofreciendo consecuentemente su más amplia cooperación.
+* Que el Estadio “FELIX CAPRILÉS”, designado para la primera fase del evento, en el momento no cuenta con la iluminación necesaria que pueda garantizar un buen espectáculo, como igualmente levantar la señal para que Televisión Boliviana, pueda brindar a todo el País, las incidencias de este importante campeonato.
+* Que, el Supremo Gobierno de la Nación, previos los informes recibidos, ha establecido la necesidad inmediata de materiales con los que no cuenta el Comité de Obras Deportivas de Cochabamba, para su instalación.
+* Que se hace necesario autorizar la compra de materiales requeridos para su inmediata colocación que sirvan para el reacondicionamiento de la iluminación del Estadio “Felix Capriles” de la ciudad de Cochabamba.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Autorízase al Comité de Obras Deportivas Departamentales de la ciudad de Cochabamba, la compra directa de 1.800 metros de cable CO/1. TW.19.4/0 de la firma fabricante PLASMAR S. A., por la suma de $b.2.549.157.08 (DOS MILLONES QUINIENTOS CUARENTA Y NUEVE mil CIENTO CINCUENTA Y siete 08/100 PESOS BOLIVIANOS), con destino al reacondicionamiento de la iluminación del Estadio “Felix Cápriles” de la ciudad de Cochabamba.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Finanzas y de Secretaría General de la Presidencia de la República, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de enero de mil novecientos ochenta y tres años.
+  
+Fdo. DR. HERNAN SILES ZUAZO, Mario Velarde Dorado, Mario Roncal Antezana, José Ortíz Mercado, Arturo Nuñez del Prado, Ernesto Aranibar Quiroga, Alfonso Camacho Peña, Hernando Poppe Martínez, Jorge Crespo Velasco, Roberto Arnez Villarroel, Mario Argandoña Yañez, Carlos Barragán Vargas, Zenón Barrientos Mamani, Jorge O’Connor D’Arlach, Jaime Ponce García, Horacio Tórres Guzmán, Hormando Vaca Diez, Oscar Villa Urioste, Jorge Gonzáles Roda.

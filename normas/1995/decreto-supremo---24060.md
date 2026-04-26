@@ -1,0 +1,23 @@
+# Bolivia: Decreto Supremo Nº 24060, 7 de julio de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Excmo. señor Presidente de Constitucional de la República, Lic. Gonzalo Sánchez de Lozada, en uso de sus especificas atribuciones de conducción de las relaciones exteriores, establecidas en el artículo 96 inciso 3 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html), debe viajar a las ciudades de Buenos aires-Argentina y Lima-Perú, del 7 al 9 y 27 al 29 de julio del presente año, respectivamente, para participar en las transmisiones de mando presidencial y: a la República del Paraguay del 4 al 5 de agosto del año en curso, para asistir a la Cumbre Presidencial del Mercado Común del Sur (MERCOSUR), integrado por Argentina, Brasil, Paraguay y Uruguay, como observadores, Bolivia y Chile.
+* Que el Honorable Congreso Nacional, en su sesión extraordinaria de 5 de julio de 1995, por R. C.-E No.002/94-95, ha autorizado a S. E., el señor Presidente Constitucional de la República, para ausentarse a las República Argentina, República del Perú y a la República del Paraguay, de conformidad con el artículo 95 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html).
+* Que en observancia del artículo 93 de la Carta Magna, corresponde al Vicepresidente reemplazar al Presidente en casos de ausencia temporal.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se encomienda el ejercicio de la Presidencia de la República, al señor Vicepresidente Dr. VICTOR HUGO CARDENAS CONDE, mientras dure la ausencia temporal del señor Presidente Constitucional de la República, LIC. GONZALO SANCHEZ DE LOZADA.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los siete días del mes de julio de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Hugo San Martín Arzabe MIN. SUPLENTE DE GOBIERNO, Raúl Tovar Piérola, José G. Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Alvaro Cossío, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

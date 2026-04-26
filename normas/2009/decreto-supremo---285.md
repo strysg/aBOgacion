@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 285, 9 de septiembre de 2009
+
+Decreto Supremo Nº 0285
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 76 de la Constitución Política del Estado dispone que el Estado garantiza el acceso a un sistema de transporte integral en sus diversas modalidades.
+* Que el inciso f) del Artículo 70 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, establece que el Ministro de Obras Públicas, Servicios y Vivienda tiene entre sus atribuciones formular, promover, coordinar y ejecutar políticas y normas de transporte terrestre, aéreo, marítimo, fluvial, lacustre, ferroviario y otros, cuando el alcance abarque más de un Departamento y/o tenga carácter internacional.
+* Que de acuerdo al inciso i) del mencionado Artículo 70 es atribución del Ministro de Obras Públicas, Servicios y Vivienda, garantizar la provisión de servicios de las áreas de su competencia en el marco de los principios de universalidad, accesibilidad, continuidad, calidad y equidad.
+* Que el inciso l) del Artículo 80 del referido Decreto Supremo, establece como atribución de la Ministra de Justicia formular normas, políticas, programas y proyectos, para garantizar la defensa de los derechos de las y los consumidores y de las y los usuarios de servicios.
+* Que mediante [Decreto Supremo Nº 0071](https://www.lexivox.org//norms/BO-DS-N71.html), de 9 de abril de 2009, se crean las Autoridades de Fiscalización y Control Social, entre ellas la de Telecomunicaciones y Transportes, cuyo objetivo es regular las actividades que realicen las personas naturales y jurídicas, privadas, comunitarias, públicas, mixtas y cooperativas, asegurando que se garanticen los intereses y derechos de los consumidores y usuarios.
+* Que los incisos d), h) e i) del Artículo 17 del mencionado Decreto Supremo, establecen como competencias de dicha Autoridad regular, controlar, supervisar, fiscalizar y vigilar la prestación de los servicios y actividades de las entidades y operadores bajo su jurisdicción reguladora, aplicando sanciones y/o medidas correctivas y procesando las denuncias y reclamaciones presentadas por toda persona natural y/o jurídica, con relación a las actividades bajo su jurisdicción.
+* Que en el sector de transporte aéreo, se ha evidenciado la necesidad de desarrollar mecanismos tendientes a reforzar la protección de los derechos de los usuarios, ya que al momento sólo se cuenta con normativa que abarca derechos y obligaciones de los pasajeros, sobre la base de usos y costumbres que imperan en materia aeronáutica, adoptados en su mayoría por la Asociación de Transporte Aéreo Internacional - IATA, mediante resoluciones y/o prácticas recomendadas a las que se adhieren los transportistas aéreos, los cuales se constituyen en documentos referenciales y de consulta.
+* Que a nivel regional, organismos internacionales como la Comunidad Andina de Naciones - CAN y la Comisión Latinoamericana de Aviación Civil - CLAC, de las cuales el Estado Plurinacional de Bolivia es Miembro, han desarrollado una serie de normas en materia de protección de los derechos de los usuarios del servicio de transporte aéreo, que requieren ser incorporadas a la legislación interna de cada Estado Miembro, a objeto de contar con un marco legal homogéneo en la materia.
+* Que en ese marco, es necesario contar con normativa actualizada que establezca los derechos y obligaciones de los pasajeros, transportistas aéreos y administradores aeroportuarios.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto aprobar el Reglamento de Protección de los Derechos del Usuario de los Servicios Aéreo y Aeroportuario, que establece las condiciones en las que deben ser prestados tales servicios, definiendo los derechos y obligaciones de pasajeros y usuarios y garantizando que los transportistas aéreos y administradores aeroportuarios desarrollen sus actividades dentro de un marco legal que garantice el acceso al servicio por parte de todos los usuarios en estricto apego a los principios de eficiencia, transparencia, calidad, continuidad, igualdad, oportunidad y seguridad.
+
+**Artículo 2°.- (Aprobación)** Se aprueba el Reglamento de Defensa de los Derechos del Usuario de los Servicios Aéreo y Aeroportuario en sus trece (13) Capítulos y setenta y nueve (79) Artículos, que en anexo forma parte integral del presente Decreto Supremo.
+
+**Artículo 3°.- (Vigencia)** El presente Decreto Supremo conjuntamente el Reglamento que aprueba, entrarán en vigencia a partir de su publicación.
+
+**Artículo 4°.- (Recursos)** Se autoriza al Ministerio de Economía y Finanzas Públicas a transferir recursos del Tesoro General de la Nación a favor del Viceministerio de Defensa de los Derechos del Usuario y del Consumidor, dependiente del Ministerio de Justicia, la suma de Bs1.194.696.- (UN MILLÓN CIENTO NOVENTA Y CUATRO MIL SEISCIENTOS NOVENTA Y SEIS 00/100 BOLIVIANOS), para los meses de septiembre a diciembre de la presente gestión, recursos que serán utilizados por el Viceministerio antes señalado para la implementación del Reglamento, en el marco de sus atribuciones establecidas en el [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009 y en el [Decreto Supremo Nº 0065](https://www.lexivox.org//norms/BO-DS-N65.html), de 3 de abril de 2009.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Economía y Finanzas Públicas, de Obras Públicas, Servicios y Vivienda, y de Justicia, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de septiembre del año dos mil nueve.
+  
+FDO. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardi Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Maria Cecilia Rocabado Tubert, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Groux Canedo.
+
+# Anexo Reglamento de protección de los derechos del usuario de los servicios aéreo y aeroportuario
+
+[Reglamento de protección de los derechos del usuario de los servicios aéreo y aeroportuario](https://www.lexivox.org//norms/BO-RE-DSN285.html)

@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 24664, 21 de junio de 1997
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+Considerando:
+
+* Que la [Ley Nº 1544](https://www.lexivox.org//norms/BO-L-1544.html) de 21 de marzo de 1994 (Ley de Capitalización) dispone la capitalización de sociedades de economía mixta constituidas con el apone de activos y/o derechos de ciertas empresas públicas, entre ellas, la Empresa Metalúrgica Vinto.
+* Que el Ministerio sin Cartera Responsable de Capitalización se encuentra ejecutando la Licitación Pública Internacional para la Capitalización de la Empresa Metalúrgica Vinto (Ref: MC-06/95).
+* Que los Términos de Referencia de la Licitación Pública Internacional Ref: MC-06/95 disponen que la sociedad de economía mixta constituida con el aporte de la Empresa Metalúrgica Vinto deberá suscribir contratos de arrendamiento con la Corporación Minera de Bolivia (COMIBOL) para los centros mineros Colquiri, Huanuni y sus áreas de exploración relacionadas
+* Que de conformidad ala [Ley Nº 1777](https://www.lexivox.org//norms/BO-L-1777.html) de 17 de marzo de 1997 (Código de Minería) y al [Decreto Supremo Nº 23230-A](https://www.lexivox.org//norms/BO-DS-23230-A.html) de 30 de julio de 1992. la COMIBOL tiene la facultad de otorgar en arrendamiento los centros mineros bajo su administración.
+* Que el banco de inversión N.M. Rotschild & Sons Limited, asesor del Ministerio sin Cartera Responsable de Capitalización en la Licitación Ref: MC-06/95, ha recomendado que ta sociedad de economía mixta a constituirse con el aporte de la Empresa Metalúrgica Vinto incorpore en su balance de apertura un pasivo correspondiente a una obligación de pago de VEINTIDÓS MILLONES QUINIENTOS MIL 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$, 22.500.000.-).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Ministerio sin Cartera Responsable de Capitalización a incorporar contratos de arrendamiento de los centros mineros Colquiri, Huanuni y sus áreas de exploración relacionadas como parte de los Términos de Referencia de la Licitación Pública Internacional para la Capitalización de la Empresa Metalúrgica Vinto (Ref: MC-06/95). en sustitución de los contratos de riesgo compartido originalmente emitidos como parte de dichos Términos de Referencia.
+
+**Artículo 2°.-** Los contratos de arrendamiento especificados en el artículo anterior, deberán ser suscritos como parte de la Licitación Ref: MC/06/95 por la sociedad de economía mixta conformada con el aporte de activos y derechos de la Empresa Metalúrgica Vinto y la Corporación Minera de Bolivia (COMIBOL). La cual queda expresamente autorizada al efecto.
+
+**Artículo 3°.-** La sociedad de economía mixta conformada con el aporte de la Empresa Metalúrgica Vinto deberá reconocer una deuda con el Tesoro General de la Nación, hasta la suma de VEINTIDÓS MILLONES QUINIENTOS MIL 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMERICA (US$ 22.500000 estipulando un plazo de pago de diez (10) años, con tasa de interés Libor a un año sobre saldos deudores La indicada sociedad reconocerá la deuda especificada sólo si la Licitación Pública Internacional Ref MC-06/95 culmina con la adjudicación de las acciones estatales ofrecidas a la venta.
+
+---
+
+Los Señores Ministros de Estado en los despachos de Hacienda, sin Cartera Responsable de Desarrollo Económico y sin Cartera Responsable de Capitalización quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los veintiún días del mes de junio de mil novecientos noventa y siete años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonia Aranibar Quiroga, Víctor Hugo Candas Zannier, Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval. MINISTRO DE LA PRESIDENCIA Y SUPLENTE DE DESARROLLO SOSTENIBLE Y MEDIO AMBIENTE, René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Franklin Anaya Vásquez, Jorge España Smith, MINISTRO SUPLENTE DE TRABAJO. Mauricio Antezana Villegas, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

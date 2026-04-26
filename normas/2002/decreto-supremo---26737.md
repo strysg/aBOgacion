@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 26737, 30 de julio de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 1 del [Decreto Supremo Nº 25836](https://www.lexivox.org//norms/BO-DS-25836.html) de 7 de julio de 2000 autorizó a Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) a suscribir con la Empresa Boliviana de Refinación S. A. y con los productores de petróleo, un contrato de vigencia limitada, destinado a estabilizar temporalmente los precios al consumidor final de la gasolina especial y diesel oil.
+* Que el Artículo 2 del mencionado decreto supremo instruyó a la Superintendencia de Hidrocarburos utilizar los siguientes precios de referencia para la gasolina especial y diesel mil respectivamente: $us/ Barril 35, 616169 y $us/Barril 32, 211136.
+* Que el 7 de julio de 2000 las empresas petroleras Andina S. A., Chaco S. A., Maxus Bolivia Inc., BG Bolivia Corporation, Sucursal Bolivia denominada anteriormente Tesoro Bolivia Petroleum Company, Pecom Energía S. A. Sucursal Bolivia denominada anteriormente Perez Companc S. A.- Sucursal Bolivia, BHP Billiton Boliviana de Petróleo Inc. Sucursal Bolivia denominada anteriormente BHP Boliviana de Petróleo Inc., la Empresa Boliviana de Refinación S. A.(Refinería) y Yacimientos Petrolíferos Fiscales Bolivianos suscribieron el Contrato de Estabilización de Precios de Combustibles.
+* Que el [Decreto Supremo Nº 25837](https://www.lexivox.org//norms/BO-DS-25837.html) de 7 de julio de 2000 homologó el Contrato de Estabilización de Precios de Combustibles firmado por las empresas petroleras (Productores) Andina S. A., Chaco S. A., Maxus Bolivia Inc., BG Bolivia Corporation Sucursal Bolivia denominada anteriormente Tesoro Bolivia Petroleum Company, Pecom Energía S. A. Sucursal Bolivia denominada anteriormente Perez Companc S. A.- Sucursal Bolivia, BHP Billiton Boliviana de Petróleo Inc. Sucursal Bolivia denominada anteriormente BHP Boliviana de Petróleo Inc., la Empresa Boliviana de Refinación S. A.(Refinería) y Yacimientos Petrolíferos Fiscales Bolivianos.
+* Que el [Decreto Supremo Nº 26242](https://www.lexivox.org//norms/BO-DS-26242.html) de 5 de julio de 2001 prorrogó la vigencia del [Decreto Supremo Nº 25836](https://www.lexivox.org//norms/BO-DS-25836.html) por el lapso de 30 días calendario.
+* Que es necesaria la modificación de la metodología para el cálculo de la Cuenta Contable definida en el Contrato de Estabilización de Precios de Gasolina Especial y Diesel mil en concordancia con el acta de 25 de mayo de 2001, numeral 1.
+* Que Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, la Empresa Boliviana de Refinación S. A., y los productores de petróleo, han llegado a un acuerdo final sobre el Contrato de Estabilización de Precios de Gasolina Especial y Diesel Oil, en el que se establece la forma de pago para que la Cuenta Contable definida en el Contrato de Estabilización de Precios de Gasolina Especial y Diesel Oil, alcance un valor de 0 (cero) hasta el 29 de julio de 2002.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba y autoriza a Yacimientos Petrolíferos Fiscales Bolivianos a suscribir el Convenio de Conciliación sobre el cumplimiento y extinción de la deuda generada en la ejecución del Contrato de Estabilización de Precios de Combustibles de 7 de julio de 2000 y el Acta de 25 de mayo de 2001, suscrita por los Ministros de Hacienda y de Desarrollo Económico, con la Empresa Boliviana de Refinación S. A., y las empresas petroleras (Productores) Andina S. A., Chaco S. A., Maxus Bolivia Inc., BG Bolivia Corporation Sucursal Bolivia, Pecom Energía S. A. Sucursal Bolivia, BHP Billiton Boliviana de Petróleo Inc, el mismo que formará parte integrante e indivisible del presente decreto supremo.
+
+---
+
+Los Señores Ministros de Estado en las Carteras de Hacienda y Desarrollo Económico, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de julio del año dos mil dos.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Lujan, Jacques Trigo Loubiere, Carlos Alberto Goitia Caballero, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña, Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña, Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

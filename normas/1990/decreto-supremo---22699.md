@@ -1,0 +1,45 @@
+# Bolivia: Decreto Supremo Nº 22699, 28 de diciembre de 1990
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA
+  
+REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 20528](https://www.lexivox.org//norms/BO-DS-20528.html) de 1 de octubre de 1.984 aprobó la adjudicación efectuada por la Junta de Adquisiciones de la Municipalidad de la ciudad de La Paz, en favor de la empresa argentina SIMPA SRL., para el financiamiento, provisión de equipos, materiales, construcción y puesta en marcha de tres plantas panificadoras, por el monto definitivo de US$.2.986.088.00 CIF La Paz, previa licitación pública internacional 1/84 de la Alcaldía Municipal de La Paz;
+* Que el precio de las tres plantas panificadoras ha sido ya pagado, utilizándose el convenio sobre línea de crédito del 8 y 18 de marzo de 1.977 entre el Banco Central de Bolivia y el Banco Central de la República Argentina;
+* Que el [Decreto Supremo Nº 20570](https://www.lexivox.org//norms/BO-DS-20570.html) de 5 de noviembre de 1.984 autorizó la importación de los equipos y materiales de las tres plantas panificadoras “libres de tributos, impuestos y gravámenes aduaneros nacionales y destinados, tasas consulares, timbres sobre el monto liberado y demás contribuciones a la importación, excepto la tasa correspondiente a AADAA”;
+* Que la adquisición e importación de las tres plantas panificadoras por la Municipalidad de La Paz tiene el propósito de producir pan, artículo de primera necesidad, con peso correcto y precio ajustado a su real costo, en beneficio directo de los sectores populares y de bajos ingresos de la ciudad de La Paz;
+* Que siete (7) lotes de los equipos y materiales de las tres plantas panificadoras se hallan en rezago, por más de un año en depósitos fiscales aduaneros de AADAA, no habiendo sido desaduanados porque la Alcaldía de La Paz no dispone de los recursos monetarios para el pago de los gravámenes, que estuvieron liberados expresamente, sin embargo, por el [Decreto Supremo Nº 20570](https://www.lexivox.org//norms/BO-DS-20570.html) de 5 de noviembre de 1984;
+* Que se corre el riesgo de rescisión del contrato por los proveedores, ante el incumplimiento de entrega y funcionamiento, por el prolongado tiempo de permanencia de los equipos y materiales para las tres plantas panificadoras en recintos aduaneros, además de su deterioro y la obligación de la Municipalidad de La Paz de pago de su financiamiento a partir del próximo año;
+* Que es política social del Gobierno nacional proteger a los sectores laborales y populares de bajos ingresos, posibilitando que artículos de primera necesidad como el pan sean abaratados, además de tener el deber de cuidar los intereses del Estado setenta la cuantiosa inversión hecha en la adquisición de las tres plantas panificadoras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Ratificando el [Decreto Supremo Nº 20570](https://www.lexivox.org//norms/BO-DS-20570.html) de 5 de noviembre de 1984, libérase a la Municipalidad de la ciudad de La Paz, del pago del gravamen aduanero consolidado (GAC), así como del pago de los recargos del 3% por levantamiento de rezago, 5% reconocimiento de mercancía, 2% recargo adicional, previstos en el inc. e) del artículo 32 de la parte normativa del arancel de importaciones y la condonación de servicios prestados acumulados, de la mercancía correspondiente a tres plantas panificadoras, con valor CIF de US$.1.345.516,56, de acuerdo al siguiente detalle:
+
+|  |  |
+| --- | --- |
+| LOTE 4 | Factura comercial 012 de SIMPA S. R. L. de 30 de agosto de 1988 que ampara, según carta de porte 10509/10/18, 10511/12/19, 10667/68/47, 10583/84/40, 10581/82/34 y 10585/86/41, la cantidad de ciento once bultos con un peso total de 36.796 kilos bruto y un valor CIF frontera de US$.214.766.00, conteniendo maquinarias, hornos y accesorios del equipamiento (carta de porte 020 de Ferrocarriles Argentinos). |
+| LOTE 5 | Factura comercial 013 de SIMPA S. R. L. de 7 de septiembre de 1988 que ampara, según carta de porte 10947/48/34, 10945/46/33, 10935/36/28, 10941/42/31, 10937/38/29 y 10939/40/30, la cantidad de 3.248 bultos con un peso de 55.993 kilos bruto (carta de porte 003 de Ferrocarriles Argentinos) y un valor CIF frontera de US$.525.337.75, conteniendo maquinarias, hornos y accesorios del equipamiento. |
+| LOTE 6 | Factura comercial 014 de SIMPA S. R. L. de 20 de septiembre de 1988 que ampara, según carta de porte 10943/43/32, 10949/50/35, 10951/52/36, y 10953/54/37, la cantidad de cuatrocientos trece (413) bultos con un peso de 21.547 kilos bruto (carta de porte 011 de Ferrocarriles Argentinos) y un valor CIF frontera de US$.210.634.38, conteniendo maquinarias, hornos y accesorios del equipamiento. |
+| LOTE 7 | Factura comercial 015 de SIMPA S. R. L. de 13 de octubre de 1988 que ampara, según carta de porte 11055/56/64, 11089/90/79, 11091/92/80, 11315/16/43 y 11211/12/1, la cantidad de 1.223 bultos con un peso de 33.163 kilos bruto (carta de porte 007 de Ferrocarriles Argentinos) y un valor CIF frontera de US$.97.644.96, conteniendo maquinarias, hornos y accesorios del equipamiento. |
+| LOTE 8 | Factura comercial 016 de SIMPA S. R. L. de 1 de noviembre de 1988 que ampara, según carta de porte 11393/94/69, 11363/64/62, y 11359/60/60, la cantidad de cuarenta y ocho (48) bultos con un peso de 16.114 kilos bruto (carta de porte 002 de Ferrocarriles Argentinos) y un valor CIF frontera de US$.64.015.35, conteniendo maquinarias, hornos y accesorios del equipamiento. |
+| LOTE 9 | Factura comercial 018 de SIMPA S. R. L. de 24 de noviembre de 1988 que ampara, según carta de porte 18383/84/26, 18385/86/27, 18387/88/28, 18389/20/29 y 18391/92/30, la cantidad de ciento diecinueve (119) bultos con un peso de 18.412 kilos bruto (carta de porte 015 de Ferrocarriles Argentinos) y un valor CIF frontera de US$.123.450.23, conteniendo maquinarias, hornos y accesorios del equipamiento. |
+| LOTE 10 | Factura comercial 019 de SIMPA S. R. L. de 14 de diciembre de 1988 que ampara, según carta de porte 18506/07/6, 18491/92/2, 18526/27/8, 18489/90/1 y 18520/2/7, la cantidad de 1.231 bultos con un peso de 41.243 kilos bruto (carta de porte 014 de Ferrocarriles Argentinos) y un valor CIF frontera de US$.109.667.89, conteniendo maquinarias, hornos y accesorios del equipamiento. |
+
+**Artículo 2°.-** Se dispone la nacionalización de las mercancías detalladas en el artículo precedente, por ante la Aduana distrital de La Paz, con la presentación de copias legalizadas del presente decreto supremo.
+
+**Artículo 3°.-** Las mercancías detalladas en el artículo 1° deben tributar, a los efectos de su desaduanamiento, el impuesto al valor agregado IVA en cumplimiento a la ley de reforma tributaria 843 de 20 de mayo de 1986.
+
+---
+
+El señor Ministro de Estado en el despacho de Finanzas queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de diciembre de mil novecientos noventa años.
+  
+Fdo. JAIME PAZ ZAMORA, Carlos Iturralde Ballivián, Guillermo Capobianco Ribera, Héctor Ormachea Peñaranda, Gustavo Fernández Saavedra, Enrique García Rodríguez, David Blanco Zabala, Guillermo Fortún Suárez, Mariano Baptista Gumucio, Willy Vargas Vacaflor, Guido Céspedes Argandoña, Oscar Zamora Medinacelli, Mario Paz Zamora, Wálter Soriano Lea Plaza, Mauro Bertero Gutiérrez, Angel Zannier Claros, Elena Velasco de Urresti.

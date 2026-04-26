@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 1249, 6 de junio de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 378 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), señala que las diferentes formas de energía y sus fuentes constituyen un recurso estratégico, su acceso es un derecho fundamental y esencial para el desarrollo integral y social del país, y se regirá por los principios de eficiencia, continuidad, adaptabilidad y preservación del medio ambiente.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, dispone que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Artículo 30 de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, vigente por el inciso c) de la Disposición Final Tercera de la [Ley Nº 211](https://www.lexivox.org//norms/BO-L-N211.html), de 23 de diciembre de 2011, del Presupuesto General del Estado - Gestión 2012, autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo, dependiente del Ministerio de Planificación del Desarrollo, en el marco de sus competencias, inscribir y/o incrementar el gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 29644](https://www.lexivox.org//norms/BO-DS-29644.html), de 16 de julio de 2008, establece que la Empresa Nacional de Electricidad cuya sigla es “ENDE”, es una empresa pública, de carácter corporativo y duración indefinida, con patrimonio y capital propios, con sede en la ciudad de Cochabamba y presencia a nivel nacional en todas las actividades de la industria eléctrica, bajo tuición del Ministerio de Hidrocarburos y Energía.
+* Que el Parágrafo I de la Disposición Adicional Primera del [Decreto Supremo Nº 29644](https://www.lexivox.org//norms/BO-DS-29644.html), califica a ENDE como Empresa Pública Nacional Estratégica.
+* Que el Artículo 13 del [Decreto Supremo Nº 0428](https://www.lexivox.org//norms/BO-DS-N428.html), de 10 de febrero de 2010, determina que en los casos que la empresa o entidad intervenida no tenga condición de titular en el marco de la [Ley Nº 1604](https://www.lexivox.org//norms/BO-L-1604.html), de 21 de diciembre de 1994, de Electricidad, la Autoridad de Fiscalización y Control Social de Electricidad, sin necesidad de procedimiento de licitación, otorgará la operación a ENDE.
+* Que ENDE para coadyuvar al cumplimiento de lo consagrado en la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) y cumplir con sus objetivos y el rol estratégico encomendado por el Estado Plurinacional de Bolivia, requiere incrementar el gasto de consultorías por producto, para cubrir los costos de administración y operación de los sistemas de distribución Aroma, San Borja, San Ignacio de Moxos, Trinidad y Yucumo; y la contratación del servicio en ingeniería, para el Centro de Operación de Transmisión y Diagnóstico de la línea Caranavi - Trinidad.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Empresa Nacional de Electricidad - ENDE, incrementar la subpartida 25210 “Consultorías por Producto” en Bs15’615.833.- (QUINCE MILLONES SEISCIENTOS QUINCE mil novecientos TREINTA Y TRES 00/100 BOLIVIANOS), financiados a través de un traspaso presupuestario intrainstitucional, afectando la partida 57100 “Incremento de Caja y Bancos”, con fuente 20 “Recursos Específicos” y Organismo Financiador 230 “Otros Recursos Específicos”, destinados al cumplimiento de las obligaciones contractuales de ENDE, en los sistemas de distribución Aroma, San Borja, San Ignacio de Moxos, Trinidad y Yucumo; y la contratación de servicios de consultoría en ingeniería del Centro de Operación de Transmisión y Diagnóstico de la línea de transmisión eléctrica Caranavi - Trinidad.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los seis días del mes de junio del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Rubén Aldo Saavedra Soto MINISTRO DE DEFENSA E INTERINO DE GOBIERNO, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Daniel Santalla Torrez MINISTRO DE TRABAJO, EMPLEO Y P. S. E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Juan Carlos Calvimontes Camargo, Felipe Quispe Quenta, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo MINISTRO DE CULTURAS E INTERINO DE EDUCACIÓN, Amanda Dávila Torres MINISTRA DE COMUNICACIÓN E INTERINA DE JUSTICIA.

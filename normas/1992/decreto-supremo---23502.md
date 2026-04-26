@@ -1,0 +1,47 @@
+# Bolivia: Decreto Supremo Nº 23502, 20 de mayo de 1992
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la minería boliviana realizó el esfuerzo de diversificar sus actividades hacia la producción de minerales polimetálicos, después de la crisis del estaño del año 1985;
+* Que el nivel de precios de los minerales fue bajando en forma paulatina, a partir de 1990, llegando a niveles que originan problemas en la comercialización;
+* Que el mercado internacional de los principales minerales de exportación de Bolivia registró una acentuada reducción en la demanda en los primeros meses de 1993, agravada por las mayores exigencias de las fundiciones que requieren minerales con menor grado de impurezas;
+* Que los factores mencionados han afectado los ingresos del sector minero, particularmente de la pequeña minería (minería chica y cooperativa) de Potosí, Oruro y La Paz, debido al deterioro del mercado de venta de concentrados de zinc plata;
+* Que existen zonas, en diferentes áreas de la minería, con mejores condiciones potenciales para el desarrollo y explotación de yacimientos de estaño con ventajas respecto a los complejos de zinc, razón por la que es conveniente orientar su rehabilitación y reconversión;
+* Que se debe dar soluciones de corto plazo como la habilitación de líneas de crédito accesibles a la pequeña minería y programas de desarrollo de obras que generen empleo e infraestructura para la diversificación y/o sustitución de actividades mineras sin perspectivas de pronta recuperación, en el marco de la complementación entre el sector público y privado para crear condiciones favorables al desarrollo del sector productivo;
+* Que es propósito del Estado realizar los esfuerzos necesarios a objeto de contribuir a la apertura del mercado para la realización de la producción de la pequeña minería, y de alcanzar especificaciones requeridas para la comercialización de concentrados polimetálicos con adecuado nivel de calidad.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Declárase ZONAS DE DEPRESION ECONOMICA MINERA a las áreas de producción de zinc plata de la pequeña minería de los departamentos de Potosí, Oruro y La Paz.
+
+**Artículo 2°.-** Autorízase al directorio de la Corporación Minera de Bolivia, disponer la venta de concentrados de plomo y plata de sus stocks disponibles, en condiciones y precios vigentes de mercado para minerales complejos.
+
+**Artículo 3°.-** Se autoriza al directorio de la Corporación Minera de Bolivia, disponer mediante contratos de arrendamiento los yacimientos de COLAVI y TURQUI para la explotación y producción de estaño en favor de la minería chica y las cooperativas mineras de Potosí, asi como otorgar facilidades a fin de crear la infraestructura mínima para el yacimiento de estaño de Turqui.
+
+**Artículo 4°.-** Se habilita a la Unidad Crediticia y Financiera (UCF) de la Corporación Regional de Desarrollo de Potosí (CORDEPO) para la administración de los créditos contratados para el sector minero, destinados a la pequeña minería del departamento de Potosí, como institución intermediaria o entidad financiera de segundo piso, y su colocación a los prestatarios mediante la ICIS aprobadas por Ley. La UCF contará con el asesoramiento técnico del programa de cooperación del Gobierno alemán. Se encarga la conducción del proceso de fortalecimiento institucional de la citada unidad y su reglamento de funcionamiento y de créditos a los Ministerios de Planeamiento y Coordinación y de Minería y Metalurgia;
+
+**Artículo 5°.-** Se crea el Fondo de Garantía para créditos al sector minero, con el diferencial existente entre la tasa de interés contratada y la desembolsada a las ICI's, descontando el costo de administración de la UCF que no podrá ser mayor a un 20%. La reglamentación de este Fondo de Garantía será efectuada por los Ministerios de Planeamiento y Coordinación y de Minería y Metalurgía en un plazo no mayor a 90 días de la fecha del presente Decreto Supremo.
+
+**Artículo 6°.-** Autorízase, conforme a los artículos Nº 120 y transitorio del Código de Minería, que el total de regalías mineras pagadas por el subsector minero pequeño, sea destinado exclusivamente como recursos de contraparte en proyectos de apoyo a la reconversión y sustitución de la actividad minera cooperativizada, a través de la UCF.
+
+**Artículo 7°.-** Se destina de los recursos disponibles del programa de ajuste estructural, financiado por el Banco Mundial, BID, KFW, un monto de cinco millones de dólares (US$.5.000.000.-) a la bolsa de recursos económicos para la reconversión y sustitución de la actividad de la minería pequeña, conforme al objetivo de incrementar los niveles de inversión en el país, a través de la UCF.
+
+**Artículo 8°.-** Declárase prioritarios todos los proyectos factibles del Departamento de Potosí, en actual fase de gestión, en todos los fondos de desarrollo: FIS, FDC, FNDR, FONAMA, FONADAL, que tengan impacto en la generación de empleo y en proyectos relacionados con la creación de condiciones para el desarrollo de actividades productivas de mediano plazo y las relacionadas con el mejoramiento de las condiciones de vida de la población.
+
+**Artículo 9°.-** El Directorio central de instituciones de servicio a la minería, DICISMIN, preparará un programa de exploración geológica e investigación minero metalúrgica para la zona de Turqui, en un plazo de 60 días.
+
+**Artículo 10°.-** Se conforma el COMITE NACIONAL DE DEFENSA DEL SECTOR PRODUCTIVO MINERO, con dos miembros representantes del Consejo Nacional de Minería, un representante de la Comisión de Minería del Congreso Nacional y un representante de los comités cívicos de los departamentos involucrados, bajo la presidencia del Ministro de Minería y Metalurgía o su representante.
+
+---
+
+Los señores Ministros de Estado en los despachos de Planeamiento y Coordinación, Finanzas asi como de Minería y Metalurgía quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de mayo de mil novecientos noventa y tres años.
+  
+Fdo. JAIME PAZ ZAMORA, Ronald MacLean Abaroa, Carlos A. Saavedra Bruno, Gustavo Fernández Saavedra, Alberto Saenz Klinsky, Roberto Peña Rodriguez, Samuel Doria Medina Auza, Pablo Zegarra Arana, Emma Navajas de Alandia, Carlos Aponte Pinto, Eusebio Gironda Cabrera, Roberto Camacho Sevillano Min. Exportaciones y Competitividad Económica a. i., Carlos Dabdoub Arrien, Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Herbert Muller Costas, Germán Velasco Cortéz, José Luis Lupo Flores.

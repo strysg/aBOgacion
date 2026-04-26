@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 941, 28 de julio de 2011
+
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 11 del Artículo 108 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que es deber de las bolivianas y los bolivianos, socorrer con todo el apoyo necesario, en casos de desastres naturales y otras contingencias.
+* Que el Artículo 172 del Texto Constitucional, establece las atribuciones de la Presidenta o del Presidente del Estado entre las cuales se encuentran, proponer y dirigir las políticas de gobierno y de Estado; dirigir la administración pública y coordinar la acción de los Ministros de Estado; y preservar la seguridad y la defensa del Estado.
+* Que el Artículo 244 del Texto Constitucional, dispone que las Fuerzas Armadas tienen como misión fundamental defender y conservar la independencia, seguridad y estabilidad del Estado, su honor y la soberanía del país; asegurar el imperio de la Constitución, garantizar la estabilidad del Gobierno legalmente constituido y participar en el desarrollo integral del país.
+* Que el Parágrafo I del Artículo 246 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que las Fuerzas Armadas dependen de la Presidenta o del Presidente del Estado y reciben sus órdenes, en lo administrativo, por intermedio de la Ministra o del Ministro de Defensa y en lo técnico, del Comandante en Jefe.
+* Que el Artículo 3 de la [Ley Nº 2140](https://www.lexivox.org//norms/BO-L-2140.html), de 25 de octubre de 2000, Para la Reducción de Riesgos y Atención de Desastres, establece entre los principios de la Ley, el derecho a la protección disponiendo que todas las personas que viven en el territorio del Estado tienen derecho a la protección de su integridad física, su infraestructura productiva, sus bienes y su medio ambiente frente a los posibles desastres y/o emergencias.
+* Que el Artículo 2 del Reglamento General de Reducción de Riesgos y Atención de Desastres y/o Emergencias, aprobado por [Decreto Supremo Nº 26739](https://www.lexivox.org//norms/BO-DS-26739.html), de 4 de agosto de 2002, define a la Preparación como aquella medida cuyo objetivo es organizar y facilitar los operativos para el efectivo y oportuno aviso, salvamento y rehabilitación de la población en caso de desastre, y que la preparación se lleva a cabo mediante la organización y planificación de las acciones de alerta, evacuación, búsqueda, rescate, socorro y asistencia que deben realizarse en caso de emergencia. Asimismo, establece que la Prevención son todas aquellas medidas y acciones dispuestas con anticipación, con el fin de evitar o impedir la ocurrencia de un evento adverso o de reducir sus efectos sobre la población, los bienes, servicios y el medio ambiente.
+* Que el Artículo 22 de la [Ley Nº 1405](https://www.lexivox.org//norms/BO-L-1405.html), de 30 de diciembre de 1992, Ley Orgánica de las Fuerzas Armadas, determina que el Ministerio de Defensa es el organismo político y administrativo de las Fuerzas Armadas, siendo el Ministro de Defensa su representante legal ante los poderes públicos.
+* Que el Artículo 39 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece entre las atribuciones de la Ministra(o) de Defensa, garantizar el accionar efectivo de las Fuerzas Armadas en el mantenimiento de la independencia, seguridad, soberanía e integridad territorial del Estado Plurinacional; promover la presencia de las Fuerzas Armadas en las zonas de seguridad fronteriza, para garantizar la integridad territorial, la preservación de los recursos naturales estratégicos y participar en las políticas de desarrollo integral y sostenible de estas zonas; y coordinar acciones de apoyo al desarrollo integral del país, a través de la participación efectiva de las Fuerzas Armadas, en coordinación con entidades públicas y privadas.
+* Que los diferentes fenómenos climatológicos recurrentes que afectan al país desde años atrás, provocan situaciones de emergencia y desastre, por la presencia de granizadas, intensas lluvias, riadas, deslizamientos; desbordes de ríos y heladas; incendios forestales y focos de calor; y sequía. al efecto es necesario contar con los materiales, equipamiento especializado e instrumentos técnicos apropiados para la atención de estas situaciones.
+* Que se requiere dotar a la Fuerza Aérea Boliviana del equipamiento especializado que el permita afrontar en forma inmediata y oportuna la ejecución de operaciones en situaciones de emergencia y desastre, búsqueda y rescate, control de incendios, transporte de personas y otros que coadyuven al logro de los objetivos gubernamentales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Defensa, realizar la compra de dos (2) helicópteros multipropósito en el marco de la normativa vigente, con destino a la Fuerza Aérea Boliviana para su uso en la atención de desastres y emergencias, y otras actividades relativas a la gestión gubernamental.
+2. Se autoriza al Ministerio de Economía y Finanzas Públicas, transferir los recursos necesarios del Tesoro General de la Nación - TGN, al Ministerio de Defensa para la compra de los dos (2) helicópteros multipropósito señalados en el parágrafo precedente, así como los gastos emergentes de la modalidad de adquisición que se adopte.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Defensa, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de julio del año dos mil once.
+  
+Fdo. ÁLVARO MARCELO GARCIA LINERA, María Cecilia Chacón Rendón MINISTRA DE DEFENSA E INTERINA DE RELACIONES EXTERIORES, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori MINISTRA DE JUSTICIA E INTERINA DE LA PRESIDENCIA, Daniel Santalla Torrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry MINISTRA DE TRANSP. Y LUCHA CONTRA LA CORRUPCIÓN E INTERINA DE GOBIERNO, Elizabeth Cristina Salguero Carrillo MINISTRA DE CULTURAS E INTERINA DE EDUCACION, Iván Jorge Canelas Alurralde.

@@ -1,0 +1,254 @@
+# Bolivia: Reglamento a la Ley General de Derechos de las Usuarias y los Usuarios, las Consumidoras y los Consumidores, 25 de septiembre de 2014
+
+REGLAMENTO A LA [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html), DE 4 DE DICIEMBRE DEL 2013,
+  
+GENERAL DE LOS DERECHOS DE LAS USUARIAS Y LOS USUARIOS Y DE LAS CONSUMIDORAS Y LOS CONSUMIDORES
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** Reglamentar la [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html), de 4 de diciembre de 2013, General de los Derechos de las Usuarias y los Usuarios y de las Consumidoras y los Consumidores.
+
+**Artículo 2°.- (Ámbito de aplicación)** El presente Reglamento es aplicable a las relaciones de consumo y prestación de servicios correspondientes a los proveedores de productos o servicios, así como a las usuarias y los usuarios, las consumidoras y los consumidores.
+
+**Artículo 3°.- (Definiciones)** Además de lo establecido en la [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html), para efectos del presente Reglamento, se establecen las siguientes definiciones:
+
+1. **Consumo**:| Es la acción por la cual diversos productos y servicios son utilizados o aplicados a los fines a que están destinados, satisfaciendo las necesidades de las usuarias y los usuarios, las consumidoras y los consumidores;
+2. **Defecto Oculto**:| Es la presencia de una deficiencia grave en cualquier producto, que no está a la vista o no es posible conocerlo por la usuaria o el usuario, la consumidora o el consumidor, en el momento de la compra, y que una vez sobrevenido, la hace impropia para su uso o disminuye tanto su utilidad que el comprador no la habría comprado o habría pagado menos por ella;
+3. **Oferta**:| Conjunto de productos o servicios que se presentan al mercado a un precio en condiciones aceptables para el usuario o consumidor;
+4. **Origen del Producto**:| Es el país donde el producto ha sido producido, extraído, obtenido o fabricado;
+5. **Precio**:| Es el monto en moneda o en especie pagado por el usuario o consumidor, a cambio de la prestación de un servicio o la venta de un producto;
+6. **Producto Usado**:| Es aquel objeto que no está en la misma condición en la que estaba cuando fue adquirido por primera vez y que el proveedor debe indicar de manera expresa, visible, clara y precisa en los anuncios u otros documentos;
+7. **Productos Perecederos**:| Son perecederos los que pierden sus características o propiedades, en un tiempo corto después de su fabricación o cosecha, quedando no aptos para el consumo humano o consumo animal;
+8. **Promociones Comerciales y/o Empresariales**:| Son aquellas actividades destinadas a obtener un incremento en las ventas de productos y servicios, captar clientes, mantener o incentivar a los ya existentes a cambio de premios en dinero, productos o servicios, otorgados mediante sorteos, azar o cualquier otro medio de acceso al premio. Constituyen también promociones comerciales y/o empresariales aquellas actividades donde las ventas incluyen premios de disponibilidad limitada;
+9. **Reclamación**:| Es la representación, individual o colectiva, que realiza el usuario o consumidor, o una tercera persona por él, sea natural o jurídica, de manera verbal o escrita, por medios auditivos o informáticos, ante la autoridad competente de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor, en contra de la proveedora o el proveedor, a efectos de la reparación de sus derechos vulnerados, en su calidad de usuario o consumidor;
+10. **Servicio**:| Son aquellas actividades suministradas o provistas al mercado, destinadas a satisfacer necesidades o requerimientos de las usuarias y los usuarios. Se incluyen los servicios básicos establecidos en la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+
+## Capítulo II Autoridades competentes del nivel central del estado en materia de defensa de los derechos de las usuarias y los usuarios y de las consumidoras y los consumidores
+
+**Artículo 4°.- (Autoridad competente del Nivel Central del Estado)** 
+
+1. En el sector no regulado, las autoridades competentes del nivel central del Estado en materia de defensa de los derechos de las usuarias y los usuarios, las consumidoras y los consumidores, son las siguientes:
+   1. El Ministerio de Justicia, a través del Viceministerio de Defensa de los Derechos del Usuario y del Consumidor para el diseño, desarrollo e implementación de políticas públicas generales y en materia de defensa y protección de derechos y garantías de las usuarias y los usuarios, las consumidoras y los consumidores, cuando su alcance trascienda las competencias y jurisdicción de las entidades territoriales autónomas y no se encuentre dentro de las competencias de los Ministerios señalados en el siguiente inciso;
+   2. Los Ministerios de Desarrollo Productivo y Economía Plural, de Desarrollo Rural y Tierras, de Salud, de Educación y de Culturas y Turismo para el diseño y desarrollo de políticas públicas sectoriales en materia de defensa y protección de los derechos y garantías de las usuarias y los usuarios, las consumidoras y los consumidores y cuando su alcance trascienda las competencias y jurisdicción de las entidades territoriales autónomas.
+2. En el sector regulado, la autoridad competente en materia de defensa de los derechos de las usuarias y los usuarios, las consumidoras y los consumidores, es la entidad de regulación y fiscalización sectorial que ejerce las tareas de regulación, fiscalización, supervisión y/o control en el ámbito de sus competencias. Para el efecto, las citadas entidades, aplicarán su normativa específica, dentro los principios de la [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html).
+
+## Capítulo III Información y verificación
+
+**Artículo 5°.- (Deber de información)** 
+
+1. Todas las entidades públicas del nivel central del Estado, en el marco de sus competencias, así como las entidades privadas, vinculadas al suministro de productos y prestación de servicios, tienen el deber de facilitar a las autoridades y servidores públicos del Viceministerio de Defensa de los Derechos del Usuario y del Consumidor, información trimestral del estado de las reclamaciones.
+2. Cuando el Viceministerio de Defensa de los Derechos del Usuario y del Consumidor, requiera a cualquier entidad pública o privada, información específica de los procesos de reclamaciones que no hayan sido atendidas en la protección de los derechos de los usuarios y consumidores, la misma deberá ser proporcionada en el plazo de cinco (5) días hábiles, plazo que podrá ser prorrogado previa justificación.
+3. Toda organización de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor, tiene el deber de informar al Viceministerio de Defensa de los Derechos del Usuario y del Consumidor, sobre las reclamaciones realizadas, sus resultados, que permitan apoyar la adopción de políticas generales y sectoriales en materia de defensa de los derechos de las usuarias y los usuarios, las consumidoras y los consumidores.
+
+**Artículo 6°.- (Verificación)** 
+
+1. La autoridad competente del sector no regulado de defensa de los derechos de las usuarias y los usuarios, las consumidoras y los consumidores, podrá ingresar a las instalaciones de los proveedores de productos y servicios, ya sean públicas o privadas, para fines de verificación en el marco de sus competencias.
+2. Para el cumplimiento del Parágrafo anterior, todos los proveedores de productos y servicios, ya sean públicas o privadas, tienen el deber de facilitar el ingreso a sus instalaciones para el desarrollo de la verificación.
+
+**Artículo 7°.- (Educación y difusión)** Las entidades públicas del nivel central del Estado deberán:
+
+1. Promover acciones de educación sobre consumo responsable y sustentable, incidiendo en la protección del medio ambiente y la madre tierra;
+2. Desarrollar estrategias de difusión audiovisual, oral y escrita y que informen al usuario y consumidor, sobre sus derechos y deberes;
+3. Incentivar la participación de las organizaciones de defensa de la usuaria y el usuario, la consumidora y el consumidor, en acciones de información, promoción, capacitación y educación, en temáticas de defensa de los derechos de las usuarias y los usuarios, las consumidoras y los consumidores.
+
+## Capítulo IV Control en el suministro, abastecimiento de alimentos y socialización del consumo responsable
+
+**Artículo 8°.- (Control en el suministro)** 
+
+1. Las autoridades competentes del sector no regulado del nivel central del Estado, deberán ejecutar de manera coordinada, acciones de control periódico al suministro de alimentos que realizan las proveedoras y los proveedores, verificando la calidad, inociudad, peso exacto y demás condiciones que hacen una alimentación saludable.
+2. Las acciones de control periódico, deberá estar dirigido prioritariamente, a las proveedoras y los proveedores, de alimentos que conforman la canasta familiar.
+3. Cuando una autoridad competente del sector no regulado advierta la presencia de agentes nocivos para la salud en los alimentos, deberá adoptar las medidas preventivas necesarias, así como disponer la realización de estudios y análisis que sean pertinentes, a efectos de determinar responsabilidades e imponer las sanciones según la normativa vigente.
+
+**Artículo 9°.- (Control en el abastecimiento y precio justo)** 
+
+1. Las autoridades competentes del sector no regulado del nivel central del Estado, deberán ejecutar de manera coordinada, acciones de prevención y control sobre el abastecimiento de alimentos a precio justo, evitando que las proveedoras y los proveedores, incurran en actos de agio, especulación y cualquier práctica que origine el alza indiscriminada de precios.
+2. Cuando una autoridad competente del sector no regulado advierta la presencia de actos de agio, especulación o cualquier otra práctica que origine el alza indiscriminada de precios, adoptará las medidas preventivas necesarias a efectos de controlar la situación, identificando a los responsables para su procesamiento e imposición de sanciones, pudiendo recurrir en caso necesario al auxilio de la fuerza pública.
+
+**Artículo 10°.- (Socialización de consumo responsable)** La autoridad competente del sector no regulado, dentro sus políticas públicas de educación y difusión de los derechos de las usuarias y los usuarios, las consumidoras y los consumidores, deberán incluir temáticas de consumo responsable y sustentable, en el marco de los contenidos establecidos por la [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html), a efectos de garantizar el consumo sustentable y responsable de alimentos.
+
+## Capítulo V Prevención de cláusulas y prácticas comerciales abusivas
+
+**Artículo 11°.- (Prevención de cláusulas abusivas en los contratos)** 
+
+1. Es responsabilidad de las proveedoras y de los proveedores, prevenir que previo a la aprobación y registro por parte de la autoridad competente de los sectores regulado y no regulado, el contrato de adhesión, u otro cualquiera fuera su naturaleza, se encuentre libre de cláusulas abusivas.
+2. La autoridad competente de los sectores regulado y no regulado al momento del registro y aprobación del contrato de adhesión, u otro cualquiera fuera su naturaleza, tiene el deber de controlar que el mismo se encuentre libre de cláusulas abusivas, que de encontrar una o más cláusulas abusivas, deberá disponer su previa rectificación, hecho que no libera a la proveedora o el proveedor, de su responsabilidad de prevenir la existencia de cláusulas abusivas.
+3. La presencia de una o más cláusulas abusivas, en un contrato, aún cuando el mismo no fuera de adhesión, hace responsable a la proveedora o el proveedor, no solo por los derechos vulnerados de las usuarias y los usuarios, las consumidoras y los consumidores, sino también de las responsabilidades civiles y penales que emerjan por los daños y perjuicios ocasionados.
+4. La autoridad competente de los sectores regulado y no regulado, cuando advierta la presencia de una cláusula abusiva en un contrato, de manera fundamentada e independientemente de la reparación de los derechos vulnerados, podrá aplicar la sanción que corresponda de acuerdo a normativa vigente.
+
+**Artículo 12°.- (Prácticas comerciales abusivas)** 
+
+1. Además de las establecidas en la normativa vigente, son también prácticas comerciales abusivas, las siguientes:
+   1. Condicionar la compra, venta, comercialización o disposición de determinados productos o servicios a la aceptación de obligaciones adicionales o distintas al objeto de la venta;
+   2. Negativa injustificada a vender o proporcionar productos o servicios en las condiciones comerciales habituales del lugar de venta;
+   3. Enviar a las usuarias y los usuarios, a las consumidoras y los consumidores, un servicio o producto, sin que éste lo haya solicitado. De producirse el hecho, será considerado como muestra gratis, sin responsabilidad alguna para el receptor;
+   4. Aprovecharse dolosamente de la edad o algún grado de discapacidad de las usuarias y los usuarios, las consumidoras y los consumidores, para venderle determinado producto o servicio;
+   5. Ofrecer o exponer al público, productos o prestación de servicios, que no cumplan con los requisitos y normas técnicas y de calidad;
+   6. Aplicar fórmulas de reajuste diferentes a las previamente informadas o acordadas;
+   7. No especificar el plazo para el cumplimiento de sus obligaciones, o incumplir el plazo acordado.
+2. La autoridad competente de los sectores regulado y no regulado, cuando advierta la presencia de prácticas comerciales abusivas, de manera fundamentada dispondrá su exclusión.
+
+## Capítulo VI Obligaciones de las proveedoras y de los proveedores en la oferta de productos y servicios
+
+**Artículo 13°.- (Obligaciones de las proveedoras y los proveedores)** Son obligaciones de las proveedoras y los proveedores, en la oferta de productos y servicios, además de los establecidos en la normativa vigente:
+
+1. Garantizar la calidad y seguridad de los productos o servicios que oferten, mediante documentos emitidos por los fabricantes o productores y por ellos mismos, en su calidad de proveedores finales;
+2. Entregar u otorgar, el bien o servicio, de manera oportuna y segura, de conformidad a las condiciones ofertadas;
+3. No alterar el precio, tarifa, o costo acordado;
+4. Garantizar el suministro de mantenimiento permanente, repuestos y servicio técnico, durante el periodo de la garantía;
+5. Asumir plena responsabilidad por los daños y perjuicios ocasionados, con la venta de productos defectuosos o suministro de servicios de mala calidad o que no cumpla con lo ofrecido u ofertado, excepto el caso donde expresamente se haya realizado la advertencia, sobre el riesgo o daño potencial.
+
+**Artículo 14°.- (Información del producto)** 
+
+1. Las proveedoras y los proveedores, tienen la obligación de informar a las consumidoras y los consumidores, respecto al país de origen del producto.
+2. Las proveedoras y los proveedores, deben exhibir o anunciar en forma clara y precisa, en lugar visible de sus establecimientos comerciales o de exposición al público, el precio final de los productos que se ofrezcan, conforme a normativa y proceso de implementación establecidos por la autoridad competente correspondiente de los sectores regulado y no regulado.
+3. En caso de que un producto tenga más de un precio marcado por el proveedor, prevalecerá el menor.
+
+## Capítulo VII Cumplimiento de ofertas y promociones comerciales y/o empresariales
+
+**Artículo 15°.- (Prevención de riesgos en la oferta)** 
+
+1. Las proveedoras y los proveedores, tienen la obligación de prevenir que todo producto o servicio, ofertado a las usuarias y los usuarios, las consumidoras y los consumidores, se encuentre libre de cualquier riesgo para la salud, salvo los derivados de su uso o disfrute, aspecto que deberá estar claramente especificado en el etiquetado o contrato, de conformidad con la norma técnica respectiva.
+2. Los productos que sean ofertados y que impliquen algún riesgo para la salud, como tóxicos, raticidas, fungicidas, insecticidas y otros, deben ser expuestos en lugares separados de todo producto alimenticio o de uso humano.
+3. La autoridad competente del sector no regulado será la encargada de imponer la sanción que corresponda, en caso de incumplimiento a lo dispuesto en el presente Artículo.
+
+**Artículo 16°.- (Cumplimiento de lo ofertado)** 
+
+1. Todo fabricante, importador, distribuidor o proveedor, de cualquier producto o servicio, tiene la obligación de cumplir con la provisión de lo ofertado, en los mismos términos anunciados en su oferta, publicidad o contrato.
+2. El incumplimiento a lo determinado en el Parágrafo anterior, independiente de la inmediata restauración de los derechos vulnerados, el fabricante, importador, distribuidor o proveedor, de cualquier producto o servicio, deberá ser sancionado por la autoridad competente del sector no regulado, según la normativa vigente.
+
+**Artículo 17°.- (Oferta de productos usados)** En toda oferta o exposición al público, de productos usados, modificados, reconstruidos o con alguna deficiencia, la proveedora o el proveedor, tiene la obligación de hacer conocer todos los detalles sobre el estado del producto a las usuarias y los usuarios, las consumidoras y los consumidores, describiendo de manera expresa, la condición en la que se encuentra el producto, así como su estado de funcionamiento, en el contrato o documento.
+
+**Artículo 18°.- (Promociones comerciales y/o empresariales)** Toda promoción comercial y/o empresarial de productos o servicios, debe señalar de manera expresa, clara y precisa, las condiciones de la promoción comercial y/o empresarial, explicitando el lugar, la forma, la fecha de inicio y finalización, así como del cumplimiento de la promoción, especificando con precisión el punto de reclamaciones.
+
+## Capítulo VIII Prohibiciones
+
+**Artículo 19°.- (Prohibición en la exposición y venta de productos y/o servicios)** Se establece las siguientes prohibiciones:
+
+1. La exposición y venta de productos que para su producción y comercialización requieran registro sanitario y no cuenten con el mismo;
+2. La exposición y venta de productos de consumo humano y animal, cuya fecha de vencimiento se encuentre expirada;
+3. La exposición y venta de productos con contenidos tóxicos no autorizados;
+4. La exhibición de productos con imágenes de mujeres que deshonre o atente contra su dignidad o imagen, símbolos patrios, religiosos o cualquier otro elemento que constituya un mensaje que induzca a su consumo, cuando los productos y/o servicios ofertados impliquen algún riesgo para la salud.
+
+**Artículo 20°.- (Retiro de publicidad e información engañosa o abusiva)** Cuando la autoridad competente del sector no regulado compruebe de manera fundamentada, la existencia de publicidad e información engañosa o abusiva, sin perjuicio de la sanción que corresponda de acuerdo a normativa vigente, ordenará a la proveedora o proveedor, el inmediato retiro de la misma.
+
+## Capítulo IX Cumplimiento de las garantías
+
+**Artículo 21°.- (Garantías de fábrica)** 
+
+1. Toda comercialización de productos nuevos, entre ellos, electrodomésticos, artefactos electrónicos, eléctricos, mecánicos, u otros que por su naturaleza requieran de garantía de fábrica, obligatoriamente deberán contar con éste documento, donde deberá estar expresamente descrito de manera clara y precisa, el alcance de la garantía, el plazo de vigencia, las condiciones y los datos del producto que garantiza, a efectos de su correcta individualización.
+2. A solicitud de las usuarias y los usuarios, las consumidoras y los consumidores, los proveedores activarán en el registro del sistema informático, telemático o cualquier otro, cuando corresponda, la vigencia de la garantía de fábrica, sin perjuicio de la entrega del documento de garantía al solicitante.
+3. El incumplimiento o demora injustificada por más de treinta (30) días hábiles, por parte del servicio técnico responsable de la garantía de fábrica en la efectivización de la garantía, hace responsable de su cumplimiento al proveedor final que entregó la garantía, estando obligado a la efectiva reparación o cambio del producto, o devolución del monto total del costo del producto, sin perjuicio del resarcimiento de los daños y perjuicios ocasionados a la usuaria o el usuario, la consumidora o el consumidor, determinado por la autoridad competente del sector no regulado.
+
+**Artículo 22°.- (Garantía para vehículos motorizados)** 
+
+1. La proveedora o el proveedor de vehículos motorizados nuevos está obligada(o) a otorgar una garantía por defectos de fábrica, mínima de tres (3) años o cien mil kilómetros de recorrido, lo que ocurra primero.
+2. La garantía de fábrica, obligatoriamente deberá contar con el documento que la avale, consignando de manera clara y precisa su alcance, los datos del vehículo motorizado a efectos de su correcta individualización, vigencia de la caución, y la persona y/o establecimiento encargada de efectivizar el cumplimiento de la garantía.
+3. En toda comercialización, de vehículo motorizado usado, modificado, reconstruido o con algún defecto, la vendedora o el vendedor, tiene la obligación de otorgar una garantía de funcionamiento, mínima de tres (3) meses.
+4. En toda comercialización, de vehículos motorizados usados, modificados, reconstruido o con algún defecto, la proveedora o el proveedor, tiene la obligación de hacer conocer todos los detalles sobre el estado del vehículo motorizado, a la usuaria o usuario, consumidora o consumidor, describiendo de manera expresa en el contrato u otro documento, la condición en la que se encuentra el vehículo motorizado.
+
+**Artículo 23°.- (Responsabilidad del proveedor durante la vigencia de la garantía)** 
+
+1. Cualquier daño o pérdida, del producto entregado por la usuaria o usuario, consumidora o consumidor, para su reparación, durante la vigencia de la garantía, es de única y exclusiva responsabilidad de la proveedora o el proveedor, estando obligada(o), a resarcir el daño o pérdida del producto.
+2. El abandono del producto, por parte de la usuaria o usuario, consumidora o consumidor, por más de ciento ochenta (180) días calendario, computable a partir del día en que al usuario ha sido comunicado expresamente para el retiro del bien, libera de toda responsabilidad a la proveedora o proveedor, sobre el ciudado y mantenimiento del producto.
+
+**Artículo 24°.- (Garantía por la reparación, modificación o reconstrucción de productos)** 
+
+1. Toda proveedora o proveedor de servicios de reparación, modificación o reconstrucción de productos, cualesquiera fuera su naturaleza, tiene la obligación frente a las usuarias y los usuarios, las consumidoras y los consumidores, de garantizar el trabajo que desarrollará y hará constar por escrito, los medios, repuestos y tiempo que utilizará, el costo total del servicio y si fuera posible el costo de los materiales, así como el resultado que espera obtener, debiendo entregar el producto, en perfecto estado de funcionamiento.
+2. Cuando el servicio de reparación, modificación o reconstrucción, presente defectos imputables al trabajo realizado por la proveedora o por el proveedor, la usuaria o el usuario, la consumidora o el consumidor, tendrá derecho a la reparación sin costo alguno, y de persistir el defecto a la reposición del producto o devolución del dinero cancelado por el servicio.
+3. El incumplimiento a esta disposición hace pasible a la proveedora o al proveedor, independientemente de su responsabilidad civil o penal, a la sanción administrativa, que será impuesta por la autoridad competente del sector no regulado.
+
+## Capítulo X Funcionamiento de las organizaciones de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor
+
+**Artículo 25°.- (Organización)** 
+
+1. Será considerada organización de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor, a toda organización constituida como persona jurídica, que cumpla las reglas establecidas por la [Ley Nº 351](https://www.lexivox.org//norms/BO-L-N351.html), de 19 de marzo del 2013, de Otorgación de Personalidades Jurídicas, y que tenga como objeto, la promoción y la defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor.
+2. Toda organización de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor, para su legal funcionamiento, deberá registrar su personería y representación legal, además de lo establecido por Ley, ante el Ministerio de Justicia, entidad que el otorgará la acreditación mediante Resolución Ministerial, además de cumplir con el mandato contenido en el Parágrafo II del Artículo 48 de la [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html).
+3. Las organizaciones de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor, debidamente acreditadas, podrán participar de manera activa en coordinación con la autoridad competente de los sectores regulado y no regulado, en los programas de capacitación, difusión de información, de promoción, protección y defensa de los derechos individuales, colectivos o difusos, de defensa de las usuarias y los usuarios, las consumidoras y los consumidores.
+
+**Artículo 26°.- (Funciones de las organizaciones)** 
+
+1. Las organizaciones de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor, deberá estar dirigida a las siguientes funciones:
+   1. Proteger y promover los derechos de la usuaria y el usuario, la consumidora y el consumidor;
+   2. Representar los intereses individuales, colectivos o difusos de las usuarias y usuarios, las consumidoras y los consumidores, ante las autoridades gubernamentales y los proveedores, mediante el ejercicio de las acciones, recursos, trámites o gestiones establecidas en el ordenamiento jurídico vigente;
+   3. Recopilar, procesar y divulgar información objetiva en relación a la calidad, precios y otros aspectos de interés relacionados a los productos y servicios ofertados en el mercado.
+2. Las organizaciones de defensa de los derechos de la usuaria y el usuario, la consumidora y el consumidor, en ningún caso podrán ejercer representación en causas comerciales o políticas, ni difundir anuncios de carácter comercial o político, en sus publicaciones, debiendo mantenerse libres de cualquier acción que comprometa su independencia.
+
+## Capítulo XI Institucionalidad
+
+**Artículo 27°.- (Consejos de Coordinación Sectorial)** 
+
+1. El Ministerio de Justicia, mediante Resolución Ministerial, conformará y reglamentará el funcionamiento de los Consejos de Coordinación Sectorial de Defensa de los Derechos de las Usuarias y los Usuarios, las Consumidoras y los Consumidores, como espacios de planificación, coordinación y cooperación, para la defensa y promoción de los derechos y garantías de las usuarias y los usuarios, las consumidoras y los consumidores.
+2. Los Consejos de Coordinación Sectorial de Defensa de los Derechos de las Usuarias y los Usuarios, las Consumidoras y los Consumidores, estarán conformados por los Ministerios del Órgano Ejecutivo que el Ministerio de Justicia determine mediante Resolución Ministerial.
+3. Las entidades territoriales autónomas podrán participar de acuerdo a sus competencias y necesidades institucionales, en los Consejos de Coordinación Sectorial de Defensa de los Derechos de las Usuarias y los Usuarios, las Consumidoras y los Consumidores, para realizar acciones conjuntas de protección y defensa de los derechos y garantías de las usuarias y los usuarios, las consumidoras y los consumidores.
+4. Los miembros de los Consejos de Coordinación Sectorial de Defensa de los Derechos las Usuarias y los Usuarios, las Consumidoras y los Consumidores, no percibirán remuneración o dieta alguna por el ejercicio de las funciones propias del Consejo.
+
+**Artículo 28°.- (Presidencia del Consejo)** Los Consejos de Coordinación Sectorial de Defensa de los Derechos de las Usuarias y los Usuarios, las Consumidoras y los Consumidores, serán presididos por la Ministra o Ministro de Justicia o el servidor público que delegue.
+
+**Artículo 29°.- (Secretaría Técnica del Consejo)** Los Consejos de Coordinación Sectorial de Defensa de los Derechos de las Usuarias y los Usuarios, las Consumidoras y los Consumidores, contarán con una Secretaría Técnica, que estará a cargo del Viceministerio de Defensa de Derechos del Usuario y del Consumidor, bajo dependencia del Ministerio de Justicia.
+
+## Capítulo XII Reglas generales de la reclamación
+
+**Artículo 30°.- (Reclamación)** 
+
+1. En el sector no regulado, las autoridades competentes del nivel central del Estado para atender y resolver las reclamaciones, procederán de la siguiente manera:
+   1. El Ministerio de Justicia, a través del Viceministerio de Defensa de los Derechos del Usuario y del Consumidor, resolverá las reclamaciones de acuerdo a su normativa específica, cuando su alcance trascienda las competencias y jurisdicción de las entidades territoriales autónomas y no se encuentre dentro de las competencias de los Ministerios señalados en el siguiente inciso;
+   2. Los Ministerios de Desarrollo Productivo y Economía Plural, de Desarrollo Rural y Tierras, de Salud, de Educación y de Culturas y Turismo, resolverán las reclamaciones propias de su área, de acuerdo a su normativa específica, cuando su alcance trascienda las competencias y jurisdicción de las entidades territoriales autónomas.
+2. En el sector regulado, las entidades de regulación y fiscalización sectorial, para atender y resolver las reclamaciones de su sector, aplicarán sus normas, procedimientos y sanciones específicas dentro los principios de la [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html).
+
+**Artículo 31°.- (Legitimación)** 
+
+1. Toda persona está legitimada para ejercer su derecho a la reclamación, cuando considere que sus derechos de usuaria o usuario, consumidora o consumidor, han sido vulnerados.
+2. Las organizaciones de defensa de la usuaria y el usuario, la consumidora y el consumidor, registradas en el Ministerio de Justicia, están legitimadas para intervenir en representación de las usuarias y los usuarios, las consumidoras y los consumidores, en la gestión de reclamaciones, con el único requisito de contar con la autorización escrita del reclamante.
+3. El Ministerio de Justicia a través del Viceministerio de Defensa de los Derechos del Usuario y del Consumidor, está legitimado para realizar el seguimiento de las reclamaciones que se presenten ante las autoridades de regulación y fiscalización sectorial, a efectos de garantizar la efectiva protección y pedir cuando corresponda, la pronta aplicación de medidas precautorias, la pronta restauración de los derechos vulnerados, así como las sanciones que corresponda.
+
+**Artículo 32°.- (Idioma)** 
+
+1. Bajo el principio de territorialidad, en todo proceso de reclamación, se utilizará el idioma castellano, excepto el caso de las reclamaciones donde las usuarias y los usuarios, las consumidoras y los consumidores, tengan como idioma materno algún idioma oficial, en cuyo caso serán informados de todas las actuaciones en el mismo idioma.
+2. La autoridad competente de los sectores regulado y no regulado, en protección de los derechos de las personas con discapacidad auditiva o de expresión oral, podrá solicitar el apoyo de las entidades públicas o privadas para informar a las usuarias y los usuarios, las consumidoras y los consumidores, de las actuaciones del proceso de reclamación, en sistemas y lenguas alternativas.
+
+**Artículo 33°.- (Reclamación directa ante las proveedoras o los proveedores)** 
+
+1. Toda reclamación presentada por las usuarias y los usuarios, las consumidoras y los consumidores, de manera directa ante la proveedora o el proveedor del producto o servicio, debe ser atendida sin necesidad de formalidad alguna, con o sin participación de la autoridad competente de los sectores regulado y no regulado.
+2. En caso de incumplimiento a la atención por parte de la proveedora o el proveedor, la autoridad competente de los sectores regulado y no regulado que conozca del caso de reclamación directa, realizará las gestiones administrativas necesarias, a efectos de la reparación del derecho vulnerado, y si corresponde, imponer la sanción administrativa, conforme a la reglamentación específica vigente.
+
+**Artículo 34°.- (Conciliación)** 
+
+1. Dentro la gestión de reclamación, se establece la conciliación, que será aplicada conforme a las disposiciones legales en vigencia, y como mecanismo alternativo a la solución de la reclamación susceptible de transacción, cuyos acuerdos voluntarios serán registrados en un Acta de Conciliación, que firmado por las partes o sus representantes, como fiel expresión de sus voluntades, adquiere fuerza ejecutiva y el efecto de cosa juzgada que habilita su ejecución forzosa en la vía judicial o administrativa, según corresponda.
+2. Las entidades públicas y privadas que presten servicios, podrán implementar centros de atención de reclamaciones y conciliación de las usuarias y los usuarios, las consumidoras y los consumidores, los mismos que deberán gestionar su acreditación ante la autoridad que determine la normativa vigente.
+
+## Capítulo XIII Recurso de revisión
+
+**Artículo 35°.- (Recurso de revisión)** 
+
+1. La usuaria o el usuario, la consumidora o el consumidor, la proveedora o el proveedor legitimado, podrá impugnar la Resolución Administrativa que resuelva la Reclamación, a través del Recurso de Revisión, dentro el plazo de diez (10) días hábiles, computables a partir de la notificación con la citada Resolución.
+2. El Recurso de revisión, será resuelto por la instancia y el plazo que determine la normativa de la autoridad competente de los sectores regulado y no regulado, de la siguiente forma:
+   1. Aceptando o revocando total o parcialmente el acto administrativo impugnado;
+   2. Rechazando o confirmando en todas sus partes el acto administrativo impugnado;
+   3. Desestimando, si hubiese sido interpuesto fuera del término o a falta de legitimación y otros requisitos determinados en norma específica.
+3. Las entidades públicas con facultad expresa para la defensa de los derechos de las usuarias y los usuarios, las consumidoras y los consumidores, dentro su normativa de procedimientos de reclamación, deberán determinar los mecanismos institucionales y la instancia que será responsable de emitir las resoluciones o dictámenes de reclamación, así como la instancia de revisión.
+
+**Artículo 36°.- (Agotamiento de la vía administrativa)** La resolución emitida en el recurso de revisión pone fin a la reclamación en la vía administrativa, quedando expedita la vía jurisdiccional que corresponda.
+
+## Capítulo XIV Medidas precautorias
+
+**Artículo 37°.- (Aplicación de medidas precautorias)** 
+
+1. Dentro los procesos de reclamación, las autoridades competentes del sector no regulado en materia de defensa de los derechos de la usuaria y el usuario, las consumidoras y los consumidores, en caso necesario aplicarán y ejecutarán las medidas precautorias establecidas en la [Ley Nº 453](https://www.lexivox.org//norms/BO-L-N453.html), a cuyo efecto deberán emitir la Resolución Administrativa debidamente fundamentada.
+2. Ante la afectación del interés colectivo o difuso, por el suministro de un producto o servicio, que ponga en riesgo los derechos de la usuaria o el usuario, la consumidora o el consumidor, la autoridad competente del sector no regulado podrá disponer de oficio la aplicación de medidas precautorias.
+
+## Capítulo XV Régimen sancionatorio y destino de las multas
+
+**Artículo 38°.- (Sanciones del sector no regulado)** El Ministerio de Justicia así como los Ministerios de Desarrollo Productivo y Economía Plural, de Desarrollo Rural y Tierras, de Salud, de Educación y de Culturas y Turismo aplicarán las sanciones administrativas en el ámbito de su competencia de acuerdo al procedimiento sancionatorio establecido en su normativa específica.
+
+**Artículo 39°.- (Sanciones del sector regulado)** Las entidades de regulación y fiscalización sectorial, aplicarán las sanciones administrativas que se determinen en el procedimiento sancionatorio establecido en su normativa específica.
+
+**Artículo 40°.- (Destino de las multas impuestas por el Ministerio de Justicia)** 
+
+1. El Ministerio de Economía y Finanzas Públicas a través del Viceministerio del Tesoro y Crédito Público, aperturará específicamente una cuenta corriente fiscal recaudadora en el Banco Unión S. A. a solicitud del Ministerio de Justicia, para su acreditación a la libreta correspondiente de la Cuenta Única del Tesoro - CUT, por el cobro de multas por vulneración de derechos y garantías de las usuarias y los usuarios, las consumidoras y los consumidores.
+2. El monto recaudado de las multas impuestas, serán destinadas por el Ministerio de Justicia, para la promoción y protección de los derechos y garantías, de las usuarias y los usuarios, las consumidoras y los consumidores.
+
+---
+
+Reglamento Anexo al [Decreto Supremo Nº 2130](https://www.lexivox.org//norms/BO-DS-N2130.html), promulgado a los vienticuatro días del mes de septiembre del año dos mil catorce.
+  
+Fdo. ALVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Jorge Pérez Valenzuela MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco MINISTRO DE HIDROCARBUROS Y ENERGIA E INTERINO DE MEDIO AMBIENTE Y AGUA, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutiérrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

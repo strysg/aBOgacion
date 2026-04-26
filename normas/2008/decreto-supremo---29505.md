@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 29505, 9 de abril de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), de 17 de mayo de 2005, de Hidrocarburos, articulo 6, determina la refundación de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), recuperando la propiedad estatal de las acciones de los bolivianos en las empresas petroleras capitalizadas, de manera que esta Empresa Estatal pueda participar en toda la cadena productiva de los hidrocarburos.
+* Que el artículo 10, incisos a), c), d), y g), de la mencionada Ley, establece los Principios de Eficiencia, Calidad, Continuidad y Adaptabilidad del Régimen de Hidrocarburos que rigen toda actividad petrolera y obligan a YPFB, a cumplir sus objetivos con optima asignación y utilización de sus recursos, los requisitos técnicos y de seguridad para garantizar el abastecimiento de los hidrocarburos y promover la incorporación de tecnología y sistemas de administración modernos.
+* Que asimismo, en su artículo 11, inciso e), establece como uno de los objetivos de la Política Nacional de Hidrocarburos, fortalecer, técnica y económicamente a YPFB como la empresa estatal encargada de ejecutar la Política Nacional de Hidrocarburos para garantizar el aprovechamiento soberano de la industria hidrocarburífera.
+* Que el [Decreto Supremo Nº 29364](https://www.lexivox.org//norms/BO-DS-29364.html), de 5 de diciembre de 2007, artículo 2, parágrafo III, sustituye el artículo 20 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004 y determina la prohibición a las entidades públicas de compra o alquiler de vehículos, excepcionalmente en casos de extrema necesidad, previa justificación y certificación del SENAPE, que acredite la inexistencia de los vehículos requeridos.
+* Que para el cumplimiento del apoyo logístico en las actividades de fiscalización y administración de los campos petroleros, la comercialización de hidrocarburos y la distribución de gas natural, YPFB prevé la necesidad de compra de vehículos livianos que cumplan la normativa internacional de seguridad, requeridas en el sector de hidrocarburos para las áreas de administración y fiscalización de contratos, operación, comercialización, exploración y explotación de hidrocarburos, tendido de redes y distribución de gas natural, que permitan el cabal cumplimiento de este objetivo.
+* Que el Servicio Nacional de Patrimonio del Estado (SENAPE), mediante Certificado 038/08 de 17/03/2008, manifiesta la inexistencia de camionetas doble cabina requeridas por YPFB para desarrollar sus funciones y actividades.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza a Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), empresa estatal bajo tuición del Ministerio de Hidrocarburos y Energía, la compra de cincuenta y ocho (58) camionetas doble cabina tipo estándar, destinados al cumplimiento de sus tareas operativas de apoyo logístico, coordinación, control, seguimiento y distribución, de acuerdo a las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+2. La compra de los vehículos se financiará con recursos propios de YPFB.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos y Energía, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de abril del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Cespedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Angel Javier Hurtado Mercado MINISTRO DE PRODUCCIÓN Y MICROEMPRESA É INTERINO DE PLANIF. DEL DESARROLLO, Oscar Coca Antezana, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter J. Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE SALUD Y DEPORTES, Maria Magdalena Cajías de la Vega.

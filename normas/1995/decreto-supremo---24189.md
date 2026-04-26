@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 24189, 18 de diciembre de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que Yacimientos Petrolíferos Fiscales Bolivianos suscribió con la empresa Pan Andean Resources PLC (Sucursal Bolivia) un contrato de operación petrolera para ejecutar trabajos en el Bloque “Chapare”, ubicado en los departamentos del Beni, Cochabamba y Santa Cruz, contrato que fue protocolizado en la Notaría de Hacienda y Gobierno del departamento de La Paz, bajo el No 20 en fecha 2 de julio de 1993 y aprobado por [Decreto Supremo Nº 23460](https://www.lexivox.org//norms/BO-DS-23460.html) de 31 de marzo de 1993;
+* Que Pan Andean Resources PLC (Sucursal Bolivia) subrogó el 80% de sus derechos y obligaciones en el citado contrato en favor de la empresa BHP Petroleum (Bolivia) Inc., subrogación que fue aprobada por [Decreto Supremo Nº 23773](https://www.lexivox.org//norms/BO-DS-23773.html) de 9 de mayo de 1994 y protocolizada mediante escritura pública No 75 de 17 de octubre de 1994, en la Notaría de Gobierno del departamento de La Paz;
+* Que BHP Petroleum (Bolivia) Inc. habiendo cumplido con los trabajos e inversiones para los primeros dos años de contrato (Subfase I), solicitó en su calidad de operadora del contrato de operación a Yacimientos Petrolíferos Fiscales Bolivianos, dentro del plazo señalado en el inciso 5.3.1 de la cláusula quinta del contrato de operación, una prórroga de doce meses para notificar a la empresa estatal su decisión de ingresar o no a la Subfase II, correspondiente al tercer año de contrato, a fin de poder efectuar una evaluación eficiente del bloque y buscar un nuevo socio, que el permita encarar los trabajos exploratorios comprometidos para esa Subfase,
+* Que tanto el Directorio de Y. P. F. B como la Junta Directiva Estatal de dicha empresa aprobaron la solicitud de BHP Petroleum (Bolivia) Inc. mediante sus Resoluciones Nos 73/95 de 21 de junio de 1995 y 018/95 de 25 de agosto de 1995 respectivamente;
+* Que habiendo sido aprobado el contrato de operación petrolífera por decreto supremo, se requiere de una disposición legal del mismo rango para autorizar cualquier modificación del mismo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se aprueba la solicitud presentada por la empresa BHP Petroleum (Bolivia) Inc., y se amplía hasta el 3 de julio de 1996 el plazo para comunicar a Y. P. F. B su decisión de ingresar o no al Tercer Año (Subfase II) del contrato de operación petrolera para el Bloque “Chapare” ubicado en los departamentos del Beni, Cochabamba y Santa Cruz, en aplicación del inciso 5.3.1 de la cláusula quinta de dicho contrato.
+
+**Artículo 2°.-** Se autoriza a los personeros legales de Yacimientos Petrolíferos Fiscales Bolivianos en representación de la entidad, a suscribir el correspondiente contrato modificatorio con los representantes legales de la empresa BHP Petroleum (Bolivia) Inc., con intervención del Fiscal de Gobierno de Materia Administrativa y demás formalidades de Ley, ante la Notaría de Minas y Petróleo con sede en la ciudad de La Paz
+
+---
+
+El señor Ministro sin Cartera Responsable de Desarrollo Económico, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de diciembre de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzain, Jorge Otasevic Toledo, José G. Justiniano Sandoval. Gonzalo Afcha de la Parra, MINISTRO SUPLENTE DE HACIENDA, Freddy Teodovich Ortíz, Moisés Jarmúsz Levy, Reynaldo Peters Arzabe, MINISTRO DE TRABAJO Y SUPLENTE DE JUSTICIA. Irving Alcaráz del Castillo, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

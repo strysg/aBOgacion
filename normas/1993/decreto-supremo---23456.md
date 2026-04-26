@@ -1,0 +1,25 @@
+# Bolivia: Decreto Supremo Nº 23456, 31 de marzo de 1993
+
+LUIS OSSIO SANJINES
+  
+PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la República de Bolivia suscribió un acuerdo de ayuda a la balanza de pagos con el Gobierno de la Confederación Suiza, el 5 de diciembre de 1986, con destino al financiamiento de importaciones esenciales para utilizar mejor la capacidad de producción existente en Bolivia, en sectores públicos y privados altamente prioritarios;
+* Que el Consejo Nacional de Estabilización y Reactivación Económica facultó al Banco Central de Bolivia, mediante resolución 14/87 de 13 de marzo de 1987, la administración de la contribución de ayuda a la balanza de pagos, en cuya virtud el mencionado banco concedió al Ministerio de Transportes Comunicaciones y Aeronáutica Civil, con recursos provenientes de esa contribución, un crédito de US$.347.873.50 para la adquisición de teodolitos y niveles de ingeniería asi como sus accesorios;
+* Que CONEPLAN recomienda, mediante resolución 198/90 de 19 de diciembre de 1990, la transferencia de la obligación del Ministerio de Transportes Comunicaciones y Aeronáutica Civil al Tesoro General de la Nación;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Autorizase al Tesoro General de la Nación, la subrogación de la deuda proveniente del crédito otorgado por el Banco Central de Bolivia al Ministerio de Transportes Comunicaciones y Aeronaútica Civil por TRESCIENTOS CUARENTA Y siete mil novecientos SETENTA Y TRES50/100 DOLARES AMERICANOS (US$.347.873.50) debiendo incorporarse la obligación de pago a ese efecto en el presupuesto general de la nación de la gestión de 1993.
+
+---
+
+El señor Ministro de Estado en el despacho de Finanzas queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de marzo de mil novecientos noventa y tres años.
+  
+Fdo. LUIS OSSIO SANJINES, Presidente Constitucional Interino de La Republica, Roberto Pacheco Hertzog Min. RR. EE. y Culto a. i., Marco Antonio Oviedo Huerta Min. Interior Migración Justicia y Defensa Social a. i. Gustavo Fernández Saavedra, Alberto Saenz Klinsky, Roberto Peña Rodriguez, Flavio Escóbar Llanos Min. Planeamiento y Coordinación a. i. Mario Requena Min. Finanzas a. i., Abigail Pérez Medrano Min. de Educación y Cultura a. i., Carlos Aponte Pinto, Fernando Campero Prudencio, Eusebio Gironda Cabrera, Carlos Dabdoub Arrien, Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Herbert Muller Costas, Fernando Kieffer Guzmán, José Luis Lupo Flores.

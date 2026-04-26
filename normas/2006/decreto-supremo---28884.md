@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 28884, 18 de octubre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que de acuerdo a lo establecido en el Artículo 1 de la [Ley Nº 3302](https://www.lexivox.org//norms/BO-L-3302.html) de 16 de diciembre de 2005, se aprueban los Presupuestos Institucionales del Sector Público, en los que esta regulado el presupuesto del Instituto Nacional de Reforma Agraria - INRA, para su vigencia durante la gestión fiscal comprendida del 1 de enero al 31 de diciembre de 2006.
+* Que el Artículo 3 del [Decreto Supremo Nº 28750](https://www.lexivox.org//norms/BO-DS-28750.html) de 20 de junio de 2006, señala que los traspasos intrainstitucionales e interinstitucionales que incrementen el presupuesto aprobado para las partidas de gasto en consultorías, 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público”, requerirán para su aprobación Decreto Supremo, excepto los financiados con recurso de donación externa.
+* Que en fecha 1 de Agosto de 2003 fue suscrito el Acuerdo Marco del “Plan de Apoyo al Sistema de Administración de la Propiedad - PASAP” entre los Ministerios de Hacienda y de Desarrollo Sostenible, en representación del Gobierno Boliviano y la Embajada del Reino de los Países Bajos - ERPB, en el marco del Plan Tierra Bolivia, cuyo objetivo es resolver los problemas de tenencia, acceso y distribución de la tierras, mediante la aplicación de la [Ley Nº 1715](https://www.lexivox.org//norms/BO-L-1715.html) de 18 de octubre de 1996 - Ley del Servicio Nacional de Reforma Agraria y un compromiso de financiamiento de $us.7.000.000.- (SIETE MILLONES 00/100 DOLARES AMERICANOS) en calidad de donación. En la misma fecha el INRA suscribió con la empresa KADASTER (Catastro y Registro Público de los Derechos Reales del Reino de los Países Bajos), el convenio para la ejecución del PASAP, cuyo objeto fue la implementación del documento del proyecto, que señala actividades específicas con sus respectivos presupuestos, tanto para el INRA como para KADASTER.
+* Que durante la ejecución del componente 1, hasta abril de 2006, existieron retrasos en la entrega de productos por parte de KADASTER, lo que incidió en el avance físico del PASAP, motivo por el cual se paralizaron las actividades de saneamiento en Chuquisaca.
+* Que para la ejecución del componente 2, en el Departamento de Chuquisaca se contrataron consultores, quienes obtuvieron hasta el 30 de abril de 2006 los resultados estipulados en los contratos por producto, que tenían como respaldo los fondos comprometidos en el PASAP para esta contratación.
+* Que el INRA solicito a la Embajada del Reino de los Países Bajos - ERPB, el desembolso de la suma de $us.80.000.- (OCHENTA mil 00/100 DOLARES AMERICANOS), que permita cubrir los honorarios correspondientes de los consultores, así como para dar continuidad a las actividades pendientes del Componente 2. Esta solicitud no fue atendida por la ERPB, debido a que requiere la presentación de un Informe de Auditoria Financiera Externa, la misma que esta en plena ejecución en el INRA.
+* Que el INRA tomó la previsión de inscribir los recursos financieros de la fuente “Recursos Propios”, destinados al financiamiento del proyecto “Saneamiento Plan de Apoyo al Sistema de Administración de la Propiedad - PASAP 2da. Fase” de cuyo monto se requiere efectuar un traspaso presupuestario por la suma de Bs83.800.- (OCHENTA Y TRES mil novecientos 00/100 BOLIVIANOS), que permita cubrir los honorarios adeudados y de esta manera prevenir cualquier contingencia judicial por el incumplimiento de estas obligaciones.
+* Que con dicho propósito específico y conforme establece el Informe VIPFE/DGIP/SEC-00562/2006 de fecha 18 de agosto de 2006, es procedente aprobar el traspaso presupuestario intrainstitucional en el Proyecto “Saneamiento Plan de Apoyo al Sistema de Administración de la Propiedad 2da Fase”.
+* Que la normativa vigente del Sistema de Presupuesto es de aplicación obligatoria en todas las instituciones públicas señaladas en los Artículos 3 y 4 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) de 20 de julio de 1990 - Ley de Administración y Control Gubernamentales, bajo la responsabilidad de las máximas autoridades ejecutivas y de los servidores públicos que participan en el proceso presupuestario.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 16 de octubre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Instituto Nacional de Reforma Agraria - INRA, efectuar la modificación presupuestaria intrainstitucional en el Proyecto “Saneamiento Plan de Apoyo al Sistema de Administración de la Propiedad Segunda Fase”, para incrementar la partida 25800 “Estudios e Investigaciones para Proyectos de Inversión”, por Bs83.800.- (OCHENTA Y TRES mil novecientos 00/100 BOLIVIANOS) afectando diferentes partidas de gasto dentro del mismo Proyecto, de acuerdo al anexo adjunto que forma parte del presente Decreto Supremo y de conformidad al Artículo 3 del [Decreto Supremo Nº 28750](https://www.lexivox.org//norms/BO-DS-28750.html) de 20 de junio de 2006.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Hacienda y Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de octubre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga Ministro de la Presidencia e Interino de Relaciones Exteriores y Cultos, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero Ministra de Justicia e Interina de Educación y Culturas, Hernando Larrazabal Córdova, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Nila Heredia Miranda.

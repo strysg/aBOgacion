@@ -1,0 +1,68 @@
+# Bolivia: Decreto Supremo Nº 28059, 1 de abril de 2005
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 81 de la [Ley Nº 1689](https://www.lexivox.org//norms/BO-L-1689.html) de 30 de abril de 1996 - Ley de Hidrocarburos, dispone que los precios máximos para la comercialización de productos de refinación en el mercado interno, deben ser fijados por el Sistema de Regulación Sectorial - SIRESE.
+* Que el [Decreto Supremo Nº 24914](https://www.lexivox.org//norms/BO-DS-24914.html) de 5 de diciembre de 1997 aprobó el Reglamento sobre el Régimen de Precios de los Productos del Petróleo, el mismo que fue posteriormente modificado.
+* Que el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html) de 14 de enero de 2003, introduce un nuevo mecanismo de fijación de la Tasa Específica del Impuesto Especial a los Hidrocarburos y sus Derivados - IEHD para el diesel oil Importado.
+* Que el [Decreto Supremo Nº 26946](https://www.lexivox.org//norms/BO-DS-26946.html) de 28 de febrero de 2003, establece los mecanismos de compensación para las Empresas Importadoras de Diesel Oíl, modificando el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html).
+* Que el Artículo 7 de la [Ley Nº 2493](https://www.lexivox.org//norms/BO-L-2493.html) de 4 de agosto de 2003, modifica el Artículo 112 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) de 20 de mayo de 1986 - Texto Ordenado, definiendo una tasa máxima de Bs.3.50 por litro a cada producto derivado.
+* Que el [Decreto Supremo Nº 27190](https://www.lexivox.org//norms/BO-DS-27190.html) de 30 de septiembre de 2003 - Reglamento a la [Ley Nº 2493](https://www.lexivox.org//norms/BO-L-2493.html), faculta a la Superintendencia de Hidrocarburos a actualizar, calcular y publicar las nuevas alícuotas del IEHD, sujetos a precios fijos resultantes de los mecanismos, procedimientos y fórmulas de ajuste establecidos en la norma vigente.
+* Que mediante [Decreto Supremo Nº 26972](https://www.lexivox.org//norms/BO-DS-26972.html) de 25 de marzo de 2003, se modificó el mecanismo de ajuste automático del IEHD para el diesel oil importado establecido en el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html).
+* Que el [Decreto Supremo Nº 27440](https://www.lexivox.org//norms/BO-DS-27440.html) de 7 de abril de 2004, modifica el [Decreto Supremo Nº 26972](https://www.lexivox.org//norms/BO-DS-26972.html) y el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html), estableciendo modificaciones a la metodología de compensación, mediante la emisión de Notas de Crédito Fiscal a favor de las empresas importadoras de diesel oil .
+* Que el [Decreto Supremo Nº 27696](https://www.lexivox.org//norms/BO-DS-27696.html) de 23 agosto de 2004, modifica el mecanismo de ajuste automático del IEHD para el diesel oil importado definido en el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html).
+* Que el [Decreto Supremo Nº 27715](https://www.lexivox.org//norms/BO-DS-27715.html) de 7 de septiembre de 2004, modificó el mecanismo de ajuste del IEHD para el diesel oil importado, definido en el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html) y, modificado por el [Decreto Supremo Nº 27440](https://www.lexivox.org//norms/BO-DS-27440.html).
+* Que el [Decreto Supremo Nº 27832](https://www.lexivox.org//norms/BO-DS-27832.html) de 12 de noviembre de 2004 modifica la definición de PP0, así como, el último párrafo establecido en el Artículo Unico del [Decreto Supremo Nº 27715](https://www.lexivox.org//norms/BO-DS-27715.html).
+* Que el [Decreto Supremo Nº 27964](https://www.lexivox.org//norms/BO-DS-27964.html) de 4 de enero de 2005 modifica las definiciones del mecanismo de ajuste de la tasa del IEHD establecido en el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html) y sus posteriores modificaciones.
+* Que el [Decreto Supremo Nº 28000](https://www.lexivox.org//norms/BO-DS-28000.html) de 3 de febrero de 2005, modifica el [Decreto Supremo Nº 27964](https://www.lexivox.org//norms/BO-DS-27964.html) y sus posteriores modificaciones.
+* Que el [Decreto Supremo Nº 28046](https://www.lexivox.org//norms/BO-DS-28046.html) de 22 de marzo de 2005 modifica las definiciones del Artículo 2 del [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html) y sus posteriores modificaciones.
+* Que las refinerías del país producen el 75% del diesel oil necesario, siendo que el resto del diesel oil demandado por el país, debe ser cubierto con importaciones.
+* Que la producción de diesel oil nacional ha llegado a la máxima capacidad en las refinerías del país.
+* Que la mayor parte de las importaciones de diesel oil provienen de la Republica Argentina.
+* Que el mercado argentino ha restringido sus exportaciones de Diesel Oil, protegiendo su abastecimiento ante una demanda cada vez más creciente de este producto.
+* Que entre las nuevas restricciones en el mercado argentino, se encuentra una retención equivalente al cinco por ciento del precio de venta del diesel oil exportado a otros países, lo que repercute directamente en el costo de importación este producto.
+* Que es deber del Gobierno Nacional velar por el abastecimiento de diesel oil necesario para diferentes actividades productivas y de servicios, incentivando la importación de este producto.
+* Que en este sentido, a propuesta del Ministro de Hidrocarburos, corresponde emitir la presente norma por la vía rápida, en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar la formula del mecanismo de ajuste de la tasa del IEHD, establecido en el [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html) de 14 de enero de 2003 y sus posteriores modificaciones, introduciendo un factor que contemple el costo adicional de importar diesel oil proveniente de la Republica Argentina.
+
+**Artículo 2°.- (Modificacion)** Se modifica la formula del Artículo 2 del [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html) y sus posteriores modificaciones, de la siguiente manera:
+  
+![IEHD_1=IEHD_0+\frac{PP_0-PP_1}{158.98} \cdot TC+(PDO_1-PDO_0) + FC](data:image/gif;base64,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)
+  
+Donde:
+
+|  |  |
+| --- | --- |
+| IEHD1 | Nueva Tasa del IEHD del diesel oil importado. |
+| IEHD0 | Tasa de IEHD resultante del cálculo efectuado por la Superintendencia de Hidrocarburos en aplicación del [Decreto Supremo Nº 26917](https://www.lexivox.org//norms/BO-DS-26917.html) y posteriores modificaciones y, de la presente norma. Para el primer calculo se utilizará el valor de -1.35 Bs/Lt (menos un 35/100 bolivianos por litro). |
+| PP0 | Precio efectivo correspondiente al último día de la variación del +/- 4%, para el primer calculo será 65,07 $us./Bbl (sesenta y cinco 07/100 dólares por barril). |
+| PP1 | Es el promedio del LS Diesel publicado en el Platt's Oilgram Report Price de los últimos cinco datos anteriores a la fecha de calculo realizado por la Superintendencia de Hidrocarburos. Para el primer cálculo será 65,07 $us./Bbl (sesenta y cinco 07/100 dólares por barril). |
+| TC | Promedio del tipo de cambio del día anterior en que se detectó la variación. |
+| 158.98 | Factor de conversión de barriles a litros. |
+| PDO0 | Precio vigente del Diesel Oil, calculado por la Superintendecia de Hidrocarburos de acuerdo al Reglamento de precios y posteriores modificaciones. Para el primer cálculo será 3,72 Bs/Lt (tres 72/100 bolivianos por litro). |
+| PDO0 | Nuevo Precio vigente del diesel oil calculado por la Superintendecia de acuerdo al Reglamento de precios y posteriores modificaciones. Para el primer cálculo será 3,72 Bs/Lt (tres 72/100 bolivianos por litro). |
+| FC | Factor de Compensación por concepto de retención a exportaciones de diesel oil a Bolivia. Para importaciones de diesel oil provenientes de Argentina será igual -0.20 Bs/Lt (menos cero 20/100 bolivianos por litro). Para las importaciones provenientes de otros países será igual a 0 Bs/Lt (cero 00/100 bolivianos por litro). Este factor podrá ser modificado mediante Resolución Ministerial del Ministerio de Hidrocarburos. |
+
+  
+Restricción:
+  
+![\text { Si }IEHD_0+\frac{PP_0-PP_1}{158.98} \cdot TC+(PDO_1-PDO_0)\geq0 \Rightarrow FC=0](data:image/gif;base64,R0lGODdh2AEeAPMAAP///9XV1crKysDAwLW1tampqW5ubmJiYlRUVEZGRjg4OCgoKAAAAAAAAAAAAAAAACH5BAEAAAAALAAAAADYAR4AAAT/EMhJq7046827lwxzhGQwhSPJmN+Fquspwmxr33iu73zv/8CgcEgkMiiC2Amp3B0nyRrgKYkWr9isdsvter/gaSVJoVbNOTR5yQy73/C4fE7Xqs33Xp4NRdf/gIGCg4Q+ZlZ8AIhOTFKHTYWRkpOUlWApJRWYITUBmS2bkAChUgN+lqipqquqp2UZDAMApiAwMK8arlMirL2+v8ByuiCwiR3DYrnBy8zNzjzIulTIFtEb1M/Z2tus1hjTNt7FkZ7cQqLmwtjAL6ftLsa5M+7z44SeUuk8+PpfniQEnoSQhwDBwF0FYRiUkVAgg4a1GpIwIKAOOC/rQBgM0XAhExUB/2/wi7gxBEWSME5aSEKiop6HJRmo5BhTpssxKm5uGFlGp4Z/6IDQVOHxI8CMGIDmw5BEliJeHxQosCCVwoCCFapmnbrV6oEDPo8ZkUULY4uCTqteRQDFAIObSQ58gxVW66yvN+3eBYvErcskKnnYHYB3gl7CfNu+PRNYwxoK/8JW8FRxEZHBWBXDhZqD8tOlFg6w7dPiYBk0ZWVU82O6ygEDN5B+UNrl3TGnuySkNpAYV7Wk6FoPSCC31pjXFHjrFID8pVXiqpE0l6BcOmwOPD9KBrGZkTyri6n3jle6+zUFuGOzvoimtfEK7mfFCtcPXvRkptKTT7aSHvxpfuSn2/98FQgITXsAWmCggeDp9812T4UH34Q6SOgCOGsw6BsO7XFwwAIIOBjfatVwlUx7Jhq23gUIFPeBbM3gcZFo9LkgmXDQvVdBixLQyKKLFZoxnIsj8jjKaBYYucFjTHFC4X4eFGAhfCYK1COSQXS45AEJJCCCTtTEx8ACJABZBpkwkEnimgD8Axp5tsQp55x01mknnRyuWNpcLpiI2E0jHjRibgNy6GdhOp6WqKISuGnfBlI+Scw1dI6w3Zhl/ueBnZLytwFhDBAHKAdiVvlNihIooKembb5lWafpBLrqpnxWg6ZJYPpH6JoocHirTYyyOuhBlL3q6QUs5aPlDqD2acz/oNDAykGOx17I5kWL7nofo+E9ZouXKsSqKwU+wgIDuCTsxwCqrLJa7o5AIihnGewGy+i7FBjZLWsZsHSjtDYMae2kE+D7w7IvYmsum6Rtm218AnsqTQ+pTeHUGkAF5WijKrwpVIAEAuzKyMNAnKOGA6YHo7YM63ZyyBMYiMdv/U25YbUBI9qugjBDKdbNj0qgZJizPpVryywzl9jMtabB2Sgdg+BUxRwLgAiBVA8xYnVtBA10tvYqojPXrl3n88JoQzH2eMyZzfTNkV1jnjxztnjpMGSf8R+ePTWsTMwS9kwVu4dlZhjhiHvV29s0Rwsn0PsSjHMQemnWx5sjS1Z5/1cx66yIX4z5tPLmFBzmuQCgPxUY40/BByFkixnbgpQQkm75GR534Jnse38yxQjmQoRQTUUN5ZDwxk8E5teSV/g11vyyAX0RJEhUs++N4/Sf8KdJhCuyOXlNKkxikq9CY320JGl7r++EPYd3cw9+1Pu8zw3rzNcIgpRNMPdQcKMS2/9y9wdXZCcMK6vNhg7ohgTW5wuRa5rzZGA1JQxHAQggwAWKBZULZrAS0mifHQoRQb098ISdcVVQstQk8QxAdv+IFAB488IVWoKBZrmHCjsRnDmh8Iccs6FQxkEgJvFMaib0BQ7tUI9BbKxVBASiFBvomzXgr28SC0Y5pliaKCly8YtcwIMsrjY1h3BHPicoIxjXyMY2XsE2tAmikwgVx1bZz414/GIEAAA7AAAAAAAAAAAA)
+
+**Artículo 3°.- (Calculo del factor compensacion)** Una vez que en el mercado Argentino se elimine o modifique la restricción a las exportaciones del Diesel Oil, el Factor de Compensación por concepto de retención a exportaciones de diesel oil a Bolivia - FC será eliminado o modificado mediante Resolución Ministerial del Ministerio de Hidrocarburos.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de abril del año dos mil cinco.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder Ministro de la Presidencia e Interino de Gobierno, Justo Antonio Gareca Gallardo Ministro Interino de Defensa Nacional, Luis Carlos Jemio Mollinedo, Erwin Aguilera Antunez, Wálter Kreidler Guillaux, René Gómez García Palao, Guillermo Torres Orias, María Soledad Quiroga Trigo, Lourdes Ortiz Daza Ministra Interina de Salud y Deportes, Audalia Zurita Zelada, Victor Gabriel Barrios Arancibia, Jorge Espinoza Morales, Gloria Ardaya Salinas, Pedro Ticona Cruz.

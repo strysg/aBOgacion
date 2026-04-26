@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 2420, 24 de junio de 2015
+
+[Decreto Supremo Nº 2420](https://www.lexivox.org//norms/BO-DS-N2420.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, determina que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que los Parágrafos I y II del Artículo 15 de la [Ley Nº 614](https://www.lexivox.org//norms/BO-L-N614.html), de 13 de diciembre de 2014, del Presupuesto General del Estado Gestión 2015, disponen que se autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo, en el marco de sus competencias, inscribir y/o incrementar el gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos, no amerita Decreto Supremo; y que para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Parágrafo II del Artículo 10 de la [Ley Nº 3302](https://www.lexivox.org//norms/BO-L-3302.html), de 16 de diciembre de 2005, vigente por disposición del inciso a) de la Disposición Final Segunda, autoriza a las prefecturas departamentales, actualmente Gobiernos Autónomos Departamentales financiar con recursos del IDH los gastos de las actividades de fortalecimiento de la Oficina Técnica de los Ríos Pilcomayo y Bermejo.
+* Que el Artículo 1 del [Decreto Supremo Nº 24544](https://www.lexivox.org//norms/BO-DS-24544.html), de 31 de marzo de 1997, otorga a la Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo, con sede en la ciudad de Tarija, el status jurídico de entidad pública descentralizada con autonomía de gestión técnica, administrativa y financiera, como órgano operativo de la Comisión Nacional de los Ríos Pilcomayo y Bermejo.
+* Que la Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo, requiere la inscripción de recursos, para realizar Auditorías Externas a los Estados Financieros de las gestiones 2008, 2009, 2011 y 2012.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo, incrementar la subpartida 25230 “Auditorías Externas” en Bs52.000,00 (CINCUENTA Y DOS mil 00/100 BOLIVIANOS), financiadas con Fuente41 “Transferencias T. G. N.” y Organismo Financiador 119 “Tesoro General de la Nación - Impuesto Directo a los Hidrocarburos”, a través de un traspaso intrainstitucional afectando a la subpartida 26990 “Otros” en el mismo monto, destinado a realizar Auditorías Externas a los Estados Financieros de la Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Medio Ambiente y Agua, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de junio del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

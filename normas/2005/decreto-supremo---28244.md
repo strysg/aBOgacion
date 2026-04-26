@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 28244, 14 de julio de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Numeral 1 del Artículo 36 de la Convención de Viena sobre Relaciones Diplomáticas, dispone como norma general, la exención de tributos de importación a favor de la misión diplomática y del agente diplomático.
+* Que el Reglamento de Exenciones Tributarias para Importaciones, aprobado mediante [Decreto Supremo Nº 22225](https://www.lexivox.org//norms/BO-DS-22225.html) de 13 de junio de 1989, establece exenciones por la importación de mercancías de tres sectores: Diplomático, Público y No Gubernamental, además de establecer normas acerca de exenciones por la importación de mercancías donadas en territorio extranjero.
+* Que el señalado Reglamento, en su Artículo 16 referido al Sector Diplomático, dispone que los vehículos importados con exenciones tributarias por miembros de misiones diplomáticas, oficinas consulares y de organismos internacionales podrán ser transferidos después de transcurridos dos años, computables a partir de la fecha de su ingreso a la Aduana respectiva; en caso de existir transferencia de propiedad del vehículo antes de transcurridos los dos años, debe efectuarse el pago de los tributos de importación, de acuerdo a una tabla establecida en el referido Artículo.
+* Que la Embajada de la República Popular de China, mediante notas (2005) Bo Li Zi Nº 022 (B) y (2005) Bo Li Zi Nº 065 explica que los vehículos con los que cuenta dicha Embajada, ya sea a título personal u oficial, fueron adquiridos con fondos estatales de la mencionada República, es decir que son vehículos de propiedad del Estado Chino.
+* Que en las señaladas notas también se explica que por las recientes disposiciones del Gobierno Chino, a partir del 1 de febrero del año en curso, todos los vehículos en buen estado de conservación, de propiedad de las Embajadas de la República Popular de China en los distintos países, deben ser transportados (devueltos) a dicha República y de esta manera, los diplomáticos chinos deben comprar sus propios vehículos.
+* Que analizada esta situación, los funcionarios diplomáticos chinos solamente detentan la posesión del vehículo asignado a su persona, por lo cual, están devolviendo dicha posesión a su propia Embajada.
+* Que aplicando criterios de equidad, en sentido de no dejar a los funcionarios diplomáticos chinos fuera del alcance de las normas que rigen las exenciones de tributos aduaneros de importación a favor del Sector Diplomático, corresponde aplicar el principio de Derecho Tributario de la “Realidad Económica”, tomando en cuenta los hechos económicos en una operación gravable para evitar elusiones en el pago del tributo; también se debe aplicar este principio para otorgar exenciones tributarias en casos como los analizados, en que los indicados diplomáticos luego devolver los vehículos a favor de la Embajada de la República Popular de China, recién se encontrarán en la posibilidad cierta de comprar sus propios vehículos, equiparando su situación a la de los diplomáticos de las demás embajadas existentes en Bolivia.
+* Que corresponde plasmar tanto la solicitud de la Embajada señalada, como el análisis anteriormente explicado en una norma jurídica con la suficiente jerarquía para brindar seguridad jurídica tanto a los funcionarios diplomáticos chinos, a su propia Embajada y a las entidades estatales que intervengan en las operaciones emergentes.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 7 de julio de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer de manera excepcional un tratamiento para la importación de vehículos automotores, emergente de la transferencia de vehículos automotores que se encuentran a nombre de funcionarios diplomáticos chinos, en favor de la Embajada de la República Popular de China, en el marco de la Convención de Viena sobre Relaciones Diplomáticas y de la Ley General de Aduanas (Texto Ordenado vigente)
+
+**Artículo 2°.- (Aduana Nacional)** 
+
+1. La Aduana Nacional conforme a la Ley General de Aduanas, al Código Tributario Boliviano y sus Decretos Supremos Reglamentarios, autorizará la importación y el despacho aduanero de un vehículo automotor que realice cada funcionario diplomático de la Embajada de la República Popular de China, con exención de tributos aduaneros, exceptuado de cumplir el plazo de dos (2) años establecido en el Artículo 9 del [Decreto Supremo Nº 22225](https://www.lexivox.org//norms/BO-DS-22225.html).
+2. Es condición para la importación y despacho aduanero referido en el Parágrafo I de este Artículo, que los mencionados funcionarios hayan realizado la transferencia de los vehículos registrados a su nombre desde el 1 de febrero de 2005 o los transfieran hasta seis (6) meses después de la publicación del presente Decreto Supremo, en cualquiera de los casos, en favor de su Embajada.
+
+**Artículo 3°.- (Autorización)** El Ministerio de Hacienda excepcionalmente autorizará la transferencia de vehículos automotores a que se refiere el Artículo 1 del presente Decreto Supremo exceptuados del pago de tributos aduaneros de importación sin el cumplimiento de dos (2) años exigidos en el Artículo 16 del [Decreto Supremo Nº 22225](https://www.lexivox.org//norms/BO-DS-22225.html).
+
+**Artículo 4°.- (No aplicacion de restricciones)** 
+
+1. La Embajada de la República Popular de China, hasta seis (6) meses después de la publicación del presente Decreto Supremo, podrá contar con los vehículos de uso oficial correspondientes y los que fueron importados antes del 1 de febrero de 2005 a nombre de funcionarios diplomáticos a título particular.
+2. Los vehículos automotores que hayan sido o sean transferidos por parte de diplomáticos chinos a favor de su Embajada, conforme el presente Decreto Supremo, podrán ser reexportados o transferidos, bajo las normas vigentes.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de gobierno de la ciudad de La Paz, a los catorce días del mes de julio del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Luis Carlos Jemio Mollinedo, Irma Elizabeth Peredo Obleas, Carlos Melchor Díaz Villavicencio, Mario Moreno Viruéz, Mario Candia Moya Ministro Interino de Hidrocarburos, Celestino Choque Villca Ministro Interino de Educación, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Guillermo Rivera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

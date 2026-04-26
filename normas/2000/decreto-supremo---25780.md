@@ -1,0 +1,24 @@
+# Bolivia: Decreto Supremo Nº 25780, 19 de mayo de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1981](https://www.lexivox.org//norms/BO-L-1981.html) de 27 de mayo de 1999 excluye de los alcances de la Ley de Capitalización 1544 de 21 de marzo de 1994, las actividades de refinación transporte, almacenaje y comercialización de Hidrocarburos que la Empresa Yacimientos Petrolíferos Fiscales Bolivianos desarrollaba, estableciendo asimismo que el Poder Ejecutivo determinará las estrategias y mecanismos para la transferencia o concesión de las unidades económicas dedicadas a las actividades referidas, al sector privado, de acuerdo con lo establecido en la Ley de Privatización 1330 de 24 de abril de 1992;
+* Que el Consejo de Política Económica CONAPE, ha definido, por resolución de 22 de julio de 1999, la estrategia de privatización de las plantas de almacenaje de carburantes y poliductos de YPFB y por resolución de 11 de mayo de 2, 000 el tratamiento para el saneamiento y registro de las servidumbres y derechos de vía inherentes a los ductos anteriomente transferidos o concesionados por YPFB y los poliductos a ser transferidos, en virtud de la Ley de Capitalización.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** El Poder Ejecutivo se hará cargo de garantizar por parte del Estado las servidumbres y derechos de vía de los oleoductos, gasoductos y poliductos construidos que figuran como transferidos o por transferirse, en virtud de las leyes 1330 y 1544, conforme la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html) y la Ley de Hidorcarburos establecen, proveyendo todos los medios que se determine necesarios.
+
+---
+
+Los señores Ministros de Estado en los despachos de Hacienda y de Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de mayo del año dosmil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, Ronald Mac Lean Abaroa, Juan Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, José Alfredo Henicke Bruno, MINISTRO INTERINO DE SALUD Y PREVISION SOCIAL, Luis Vásquez Villamor, Oswaldo Antezana Vaca Diez, José Luis Carvajal Palma, Carlos Saavedra Bruno, Rubén Poma Rojas, Manfredo Kempff Suárez.

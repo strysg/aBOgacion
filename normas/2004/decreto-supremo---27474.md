@@ -1,0 +1,50 @@
+# Bolivia: Decreto Supremo Nº 27474, 5 de mayo de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Decreto Supremo Nº 27352](https://www.lexivox.org//norms/BO-DS-27352.html) de 4 de febrero de 2004, se procedió a la ampliación del alcance del Programa Transitorio, Voluntario y Excepcional, establecido en la Disposición Transitoria Tercera de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html) de 2 de agosto de 2003 - Código Tributario Boliviano.
+* Que para atender las solicitudes de acogimiento al Programa, se emitió el [Decreto Supremo Nº 27373](https://www.lexivox.org//norms/BO-DS-27373.html) de 17 de febrero de 2004 que establece en su Artículo 2 el procedimiento para determinar la base imponible de mercancías decomisadas, aplicando lo previsto en el Artículo 254 del Reglamento a la Ley General de Aduanas, considerando únicamente los años de almacenamiento o depósito aduanero.
+* Que de acuerdo a lo dispuesto en el Artículo 7 de la [Ley Nº 2626](https://www.lexivox.org//norms/BO-L-2626.html) de 22 de diciembre de 2003 y en el Parágrafo V de la Disposición Transitoria Tercera de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html) y, considerando la cantidad de vehículos existentes que se registraron en la Aduana Nacional hasta el 29 de febrero de 2004, cuyo ingreso a territorio nacional, se efectuó con posterioridad al 31 de enero de 2004, es necesario ampliar el alcance del Programa mencionado anteriormente.
+* Que el Artículo 35 del [Decreto Supremo Nº 27149](https://www.lexivox.org//norms/BO-DS-27149.html) de 2 de septiembre de 2003 dispone el empadronamiento de vehículos del Estado dentro del plazo previsto para acogerse al Programa, destinado a vehículos automotores pertenecientes a entidades del Estado que no cuenten con Póliza Titularizada del Automotor - PTA o Comunicación al Poseedor - COPO que habilita el reemplaque vehicular, mediante Resolución del Ministerio de Hacienda, sobre la base del inventario aprobado por la Máxima Autoridad Ejecutiva solicitante y el certificado de DIPROVE que establezca que los vehículos objeto de la solicitud no se encuentran con denuncia de robo.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el alcance del Programa Transitorio, Voluntario y Excepcional para el tratamiento de adeudos tributarios en materia aduanera, que cumplan con las especificaciones del presente Decreto Supremo.
+
+**Artículo 2°.- (Alcance)** Se amplía el alcance del Programa Transitorio, Voluntario y Excepcional a todos los adeudos tributarios en materia aduanera, cuyos hechos generadores o ilícitos se hubieren producido hasta el 29 de febrero de 2004 y, cuyas Declaraciones Juradas o solicitudes para acogerse al Programa, hayan sido presentadas a la Aduana Nacional hasta la indicada fecha. Para el caso de vehículos automotores indocumentados, la ampliación únicamente alcanzará a los vehículos que se hubieren pre-registrado en la Aduana Nacional hasta el 29 de febrero de 2004.
+
+**Artículo 3°.- (Plazo)** 
+
+1. Las Declaraciones Juradas o solicitudes para acogerse al Programa Transitorio, Voluntario y Excepcional, correspondiente a mercancías, con cargos tributarios aduaneros descritos en el Artículo 27 del [Decreto Supremo Nº 27149](https://www.lexivox.org//norms/BO-DS-27149.html), que correspondan a ilícitos aduaneros cometidos hasta el 29 de febrero de 2004 y que hayan sido presentadas a la Aduana Nacional hasta la indicada fecha, deberán concluir el trámite de regularización conforme a cronograma que establecerá la Aduana Nacional, cuyo plazo concluirá el 30 de julio de 2004. Las Declaraciones juradas que no cumplan estos requisitos no podrán beneficiarse de este Programa.
+2. Para el caso de vehículos automotores indocumentados que se hubieren pre-registrado en la Aduana Nacional hasta el 29 de febrero de 2004 para acogerse al Programa, deberán concluir el trámite de regularización conforme a cronograma que establecerá la Aduana Nacional, cuyo término concluirá el 30 de julio de 2004. Los trámites que no cumplan estos requisitos no podrán beneficiarse del Programa.
+
+**Artículo 4°.- (Base imponible para mercancias)** A efectos de la aplicación del Programa, la base imponible de las mercancías nuevas o usadas, con cargos tributarios aduaneros descritos en el Artículo 27 del [Decreto Supremo Nº 27149](https://www.lexivox.org//norms/BO-DS-27149.html), que correspondan a ilícitos aduaneros cometidos hasta el 29 de febrero de 2004 y, que hayan sido presentadas a la Aduana Nacional hasta la indicada fecha, se determinará con la depreciación prevista en el Artículo 254 del Reglamento a la Ley General de Aduanas, considerando únicamente los años de almacenamiento o depósito de aduana.
+
+**Artículo 5°.- (Base imponible para vehiculos automotores indocumentados)** Para el tratamiento de vehículos automotores indocumentados, que ingresaron al país durante el mes de febrero de 2004, y que se hubieren pre - registrado en la Aduana Nacional hasta el 29 de febrero del mismo año, la base imponible se reajustará incrementando el cien por ciento (100%) al valor resultante de la aplicación de las tablas de valoración aprobadas mediante Resolución Ministerial Nº 500 de 5 de septiembre de 2003.
+
+**Artículo 6°.- (Empadronamiento de vehiculos del estado)** Se mantiene vigente hasta el 30 de julio de 2004, el plazo para que las Instituciones del Sector Público presenten su solicitud ante el Ministerio de Hacienda para acogerse al empadronamiento de vehículos del Estado, aplicándose el procedimiento establecido en el Artículo 35 del [Decreto Supremo Nº 27149](https://www.lexivox.org//norms/BO-DS-27149.html).
+
+**Artículo 7°.- (Vehiculos de turismo)** 
+
+1. Los vehículos automotores que ingresaron a territorio aduanero nacional hasta el 29 de febrero de 2004, registrados por la Aduana Nacional como vehículos de turismo y que se hubieren pre-registrado para beneficiarse del Programa hasta la misma fecha, podrán acogerse a lo dispuesto en el presente Decreto Supremo de acuerdo al cronograma que establecerá la Aduana Nacional, cuyo plazo máximo será el 30 de julio del presente año y no estarán sujetos a las reglas de permanencia y salida establecidas en el Artículo 231 del Reglamento a la Ley General de Aduanas.
+2. A partir del 2 de agosto del presente año, la Aduana Nacional depurará los registros de vehículos automotores ingresados hasta el 29 de febrero de 2004 como vehículos de turismo, debiendo procederse a la remisión de los listados de los vehículos que se nacionalizaron bajo el Programa de regularización, a las administraciones de aduana que generaron el ingreso, para su respectiva cancelación y a las Aduanas de los países vecinos.
+
+**Artículo 8°.- (Vigencia de normas)** 
+
+1. Se sustituye el Artículo Unico del [Decreto Supremo Nº 27401](https://www.lexivox.org//norms/BO-DS-27401.html) de 15 de marzo de 2004, con el siguiente texto:
+   > “ARTICULO UNICO.- A los fines del Programa Transitorio, Voluntario y Excepcional, para la regularización de adeudos tributarios establecido por la [Ley Nº 2626](https://www.lexivox.org//norms/BO-L-2626.html) de 22 de diciembre de 2003, los transportadores internacionales definidos en el Articulo 54 de la [Ley General de Aduanas](https://www.lexivox.org//norms/BO-L-1990.html), que prestan servicios de transporte de carga internacional por carretera, aplicarán la modalidad de pago único definitivo con el mismo tratamiento otorgado a los exportadores cuyo volumen total de ventas esté destinado a la exportación.”
+2. Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cinco días del mes de mayo del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Xavier Nogales Iturri, Donato Ayma Rojas, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega

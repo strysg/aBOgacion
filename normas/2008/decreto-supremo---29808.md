@@ -1,0 +1,44 @@
+# Bolivia: Decreto Supremo Nº 29808, 21 de noviembre de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 36 de la [Ley Nº 1883](https://www.lexivox.org//norms/BO-L-1883.html) de 25 de junio de 1998, de Seguros de la República de Bolivia, dispone que los seguros obligatorios sólo pueden ser establecidos por Ley y ser administrados separadamente de los otros seguros que administre la entidad aseguradora, sus pólizas deberán ser uniformes y deberán ser autorizadas por la Superintendencia de Pensiones, Valores y Seguros.
+* Que la mencionada [Ley Nº 1883](https://www.lexivox.org//norms/BO-L-1883.html) en su Título IV establece la vigencia de los Seguros Obligatorios, creando el Seguro Obligatorio de Accidentes de Tránsito.
+* Que el Artículo 37 de la referida Ley de Seguros establece la obligatoriedad de que todo propietario de vehículo automotor en el territorio de la República, sea cual fuere su tipo, cuente con el Seguro Obligatorio de Accidentes de Tránsito - SOAT y que dicho seguro será indisputable, de beneficio uniforme, irreversible y su acción será directa en el territorio de la República; y, que el capital asegurado máximo para las eventualidades de muerte, incapacidad total permanente y gastos médicos es de DEGs 2.300 (DOS mil TRESCIENTOS 00/100 DERECHOS ESPECIALES DE GIRO) por persona afectada por cada evento y sin que exista límite de personas cubiertas por el mismo.
+* Que el [Decreto Supremo Nº 27295](https://www.lexivox.org//norms/BO-DS-27295.html) de 20 de diciembre de 2003, modificado parcialmente por los Decretos Supremos [Nº 27900](https://www.lexivox.org//norms/BO-DS-27900.html) de 10 de diciembre de 2004, [Nº 29084](https://www.lexivox.org//norms/BO-DS-29084.html) de 28 de marzo de 2007 y [Nº 29374](https://www.lexivox.org//norms/BO-DS-29374.html) de 12 de diciembre de 2007, reglamenta el Artículo 37 de la [Ley Nº 1883](https://www.lexivox.org//norms/BO-L-1883.html), donde se regula la aplicación del Seguro Obligatorio de Accidentes de Tránsito.
+* Que el citado Reglamento único del Seguro Obligatorio de Accidentes de Tránsito, aprobado por [Decreto Supremo Nº 27295](https://www.lexivox.org//norms/BO-DS-27295.html) y modificatorios, establece en su Artículo 54 que la Superintendencia de Pensiones, Valores y Seguros regulará mediante Resolución Administrativa los requisitos técnicos para la habilitación de las entidades aseguradoras para Operar el Seguro Obligatorio de Accidentes de Tránsito.
+* Que al ser un Seguro Obligatorio de características sociales dirigidas al beneficio de toda la población de la República de Bolivia que pudiese ser afectada por un accidente de tránsito, se hace necesario determinar el mecanismo, políticas y parámetros para la determinación de las tarifas mas bajas, técnicamente sostenibles, que eviten la discriminación de sectores específicos y promuevan la inclusión de otros en base a la mutualidad y solidaridad del Seguro Obligatorio de Accidentes de Tránsito.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar y complementar el “Reglamento Único del Seguro Obligatorio de Accidentes de Tránsito - SOAT” aprobado mediante [Decreto Supremo Nº 27295](https://www.lexivox.org//norms/BO-DS-27295.html) de 20 de diciembre de 2003, modificado parcialmente por los Decretos Supremos [Nº 27900](https://www.lexivox.org//norms/BO-DS-27900.html) de 10 de diciembre de 2004, [Nº 29084](https://www.lexivox.org//norms/BO-DS-29084.html) de 28 de marzo de 2007 y [Nº 29374](https://www.lexivox.org//norms/BO-DS-29374.html) de 12 de diciembre de 2007.
+
+**Artículo 2°.- (Modificaciones e inclusiones)** 
+
+1. Se modifica el primer párrafo del Artículo 37 del [Decreto Supremo Nº 27295](https://www.lexivox.org//norms/BO-DS-27295.html) de 20 de diciembre de 2003, con el siguiente texto:
+   > “ARTÍCULO 37.- (OFERTA DE SERVICIOS). Anualmente la Superintendencia de Pensiones Valores y Seguros convocará a competencia de precios para la Autorización de Comercialización del SOAT a las Entidades Aseguradoras de Seguros Generales legalmente establecidas en el país y que cumplan los requisitos exigidos por la Superintendencia de Pensiones Valores y Seguros. La autorización de comercialización del SOAT será otorgada a la entidad aseguradora que oferte los precios más bajos, no pudiendo ser modificados hacia la alza posteriormente. Podrá otorgarse adicionalmente autorización de comercialización SOAT a las compañías que voluntariamente acepten comercializar a esos precios siempre y cuando atiendan con preferencia vehículos del servicio público. Las entidades aseguradoras autorizadas por la Superintendencia de Pensiones Valores y Seguros a ofertar el SOAT, tienen la obligación ineludible de contratar el SOAT, independientemente del origen, marca, tipo, modelo, año de fabricación y actividad al que esté destinado el vehículo, respetando los precios establecidos de acuerdo al procedimiento señalado en el presente Artículo.”
+2. Se modifica el Artículo 38 del [Decreto Supremo Nº 27295](https://www.lexivox.org//norms/BO-DS-27295.html) de 20 de diciembre de 2003, con el siguiente texto:
+   > “ARTÍCULO 38.- (PRIMA). Las primas serán fijadas mediante convocatoria pública a competencia de precios realizada por la Superintendencia de Pensiones Valores y Seguros anualmente y resultarán de la oferta mas baja por tipo de vehículo que se verifique en el mencionado proceso. Las primas resultantes, no podrán discriminar origen, marca, modelo, año de fabricación y únicamente se diferenciarán por tipo de vehículo, uso y departamento o conjunto de ellos. Las primas así establecidas serán fijas durante toda la gestión correspondiente y aplicables a nivel nacional.”
+
+**Artículo 3°.- (Texto ordenado)** Se autoriza a la Superintendencia de Pensiones, Valores y Seguros a compilar y publicar el Texto Ordenado del “Reglamento Único del Seguro Obligatorio de Accidentes de Tránsito - SOAT” aprobado mediante [Decreto Supremo Nº 27295](https://www.lexivox.org//norms/BO-DS-27295.html) de 20 de diciembre de 2003, modificado parcialmente por el [Decreto Supremo Nº 27900](https://www.lexivox.org//norms/BO-DS-27900.html) de 10 de diciembre de 2004, Nº 29084 de 28 de marzo de 2007, Nº 29374 de 12 de diciembre de 2007 y el presente Decreto Supremo.
+
+# Disposiciones transitorias
+
+**Artículo transitorio Único.- (Tarifas para el 2009)** 
+
+1. A efectos de la adjudicación del SOAT 2009, las tarifas resultantes del proceso de convocatoria pública a competencia de precios, no podrán ser superiores a las más bajas por tipo de vehículo registradas para el servicio público en la gestión 2008.
+2. En el caso de los vehículos particulares, la tarifa resultante para la gestión 2009 no podrá ser mayor al promedio simple de las tarifas mínimas de pizarra por tipo de vehículo, presentadas por las compañías aseguradoras para la gestión 2008.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de noviembre del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, MINISTRO DE RR. EE. Y CULTOS É INTERINO DE GOBIERNO, Juan Ramón Quintana Taborga, MINISTRO DE LA PRESIDENCIA É INTERINO DE DEFENSA NACIONAL, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, MINISTRO DEL AGUA É INTERINO SIN CARTERA RESP. DE LA DEFENSA LEGAL DE LAS RECUPERACIONES ESTATALES, Susana Rivero Guzmán, Oscar Coca Antezana, Carlos Romero Bonifaz, Saúl Ávalos Cortez, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE JUSTICIA Roberto I. Aguilar Gómez, Jorge Ramiro Tapia Sainz

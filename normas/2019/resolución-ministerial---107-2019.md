@@ -1,0 +1,43 @@
+# Bolivia: Resolución Ministerial de 4 de septiembre de 2019
+
+RESOLUCIÓN MINISTERIAL N° 107- 19
+  
+La Paz, 19 de agosto de 2019
+
+VISTOS Y CONSIDERANDO:
+
+* Que conforme a los numerales 2 y 4 de Parágrafo I del Artículo 175 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) (CPE), entre las atribuciones de las y los Ministros de Estado se encuentran las de: Proponer y dirigir las políticas gubernamentales en su sector; y dictar normas administrativas en el ámbito de su competencia.
+* Que el Artículo 360 de la CPE, establece que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética.
+* Que el Artículo 367 de la norma Constitucional, dispone que la explotación, consumo y comercialización de los hidrocarburos y sus derivados deberán sujetarse a una política de desarrollo que garantice el consumo interno.
+* Que la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html) de 17 de mayo de 2005, de Hidrocarburos; en el inciso d) de su Artículo 10 establece como principio general del régimen de los hidrocarburos el de Continuidad, que obliga a que el abastecimiento de los hidrocarburos y los servicios de transporte y distribución aseguren satisfacer la demanda del mercado interno de manera permanente e ininterrumpida.
+* Que los incisos c), d) y f) del Artículo 11 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), señala entre los objetivos de la Política Nacional de Hidrocarburos el de generar recursos económicos para fortalecer un proceso sustentable de desarrollo económico y social garantizando a corto, mediano y largo plazo la seguridad energética, satisfaciendo adecuadamente la demanda nacional de hidrocarburos y fomentar el aprovechamiento racional de los hidrocarburos, abasteciendo con prioridad las necesidades internas del país.
+* Que el Parágrafo VI del Artículo 17 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), dispone que la importación de hidrocarburos será realizada por YPFB, por sí o por contratos celebrados con personas individuales o colectivas, públicas o privadas, o asociado con ellas.
+* Que los incisos b) y c) del Artículo 21 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), determinan como atribuciones del Ministerio de Hidrocarburos, entre otras; el normar en el marco de su competencia para la adecuada aplicación de dicha Ley y la ejecución de la Política Nacional de Hidrocarburos; y, el supervisar el cumplimiento de disposiciones legales y normas en materia de hidrocarburos.
+* Que el inciso d) y el inciso i) del Artículo 25 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), otorgan al Ente Regulador (Agencia Nacional de Hidrocarburos - ANH) las atribuciones de autorizar la importación de hidrocarburos; y, Velar por el abastecimiento de los productos derivados de los hidrocarburos y establecer periódicamente los volúmenes necesarios de éstos para satisfacer el consumo interno.
+* Que la [Ley Nº 1098](https://www.lexivox.org//norms/BO-L-N1098.html), de 15 de septiembre de 2018, tiene por objeto establecer el marco normativo que permita la producción, almacenaje, transporte, comercialización y mezcla de Aditivos de Origen Vegetal, con la finalidad de sustituir gradualmente la importación de Insumos y Aditivos, y Diésel Oíl, precautelando la seguridad alimentaria y energética con soberanía.
+* Que el [Decreto Supremo Nº 29122](https://www.lexivox.org//norms/BO-DS-29122.html) de 6 de mayo de 2007, establece normas sobre la comercialización de Crudo Reconstituido y Gasolinas Blancas e instituye a YPFB como único exportador de dichos productos; conforme al Parágrafo II de su Artículo 3, YPFB es el único comprador en el mercado interno de estos productos.
+* Que mediante [Decreto Supremo Nº 29461](https://www.lexivox.org//norms/BO-DS-29461.html) de 27 de febrero de 2008, se autoriza a YPFB a realizar la compra de combustibles líquidos y GLP, así como contratar servicios de transporte, almacenaje, inspección y logística en territorio boliviano y/o extranjero, para el abastecimiento de combustibles líquidos y GLP en el país, mediante Contratación Directa.
+* Que conforme a lo establecido en los numerales 2) y 22) del Parágrafo I del Artículo 14 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), 7 de febrero de 2009, entre las atribuciones de las y los Ministro de Estado, se encuentran las de: Proponer y dirigir las políticas gubernamentales en su sector; y emitir resoluciones ministeriales, así como bi-ministeriales y multi-ministeriales en coordinación con los Ministros que correspondan, en el marco de sus competencias.
+* Que el [Decreto Supremo Nº 3992](https://www.lexivox.org//norms/BO-DS-N3992.html) de 24 de julio de 2019, establece los procedimientos y el tratamiento tributario para la importación de Insumos y Aditivos por parte de YPFB o YPFB Refinación S. A., para la obtención de Gasolina Base; asimismo, autoriza la subvención a la importación de Insumos y Aditivos de origen fósil para la producción de Gasolina Base resultantes de la mezcla o no con Gasolina Blanca, a ser mezcladas con Aditivos de Origen Vegetal y así obtener combustibles finales en el marco de la [Ley Nº 1098](https://www.lexivox.org//norms/BO-L-N1098.html), de 15 de septiembre de 2018, y normativa conexa.
+* Que el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 3992](https://www.lexivox.org//norms/BO-DS-N3992.html), dispone que en el marco de las atribuciones y funciones establecidas en la normativa vigente, la ANH emitirá la autorización para la importación de Insumos y Aditivos destinados a la obtención de Gasolinas Base una vez YPFB o YPFB Refinación S. A., presente a la ANH los requisitos dispuestos por el Ministerio de Hidrocarburos mediante Resolución Ministerial.
+* Que el Parágrafo I de la Disposición Transitoria Primera del [Decreto Supremo Nº 3992](https://www.lexivox.org//norms/BO-DS-N3992.html), otorga un plazo de hasta sesenta (60) días a partir de su publicación, para que el Ministerio de Hidrocarburos mediante reglamentación específica aprobada por Resolución Ministerial establezca la estructura de costos para la obtención de Gasolinas Base resultantes de la mezcla o no de Insumos y Aditivos con Gasolina Blanca.
+* Que el Informe Técnico MH-VMICTAH-DGCTA-UCOH-INF 0033/2019 de 7 de agosto de 2019 elaborado por el Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos del Ministerio de Hidrocarburos, concluye que el proyecto de Resolución Ministerial para establecer la Estructura de Costos para la obtención de Gasolinas Base resultantes de la mezcla o no de Insumos y Aditivos con Gasolina y los requisitos para que ANH autorice la importación de Insumos Aditivos para la obtención de Gasolinas Base, es técnicamente viable.
+* Que el Informe Jurídico MH-DGAJ-UAJ-INF-0047/2019 de 13 de agosto de 2019, elaborado por la Dirección General de Asuntos Jurídicos dependiente del Ministerio de Hidrocarburos, concluye que el señor Ministro de Hidrocarburos tiene la atribución de dirigir las políticas gubernamentales en su sector; así como el de reglamentar y establecer: la estructura de costos para la obtención de Gasolinas Base resultantes de la mezcla o no de Insumos y Aditivos con Gasolina Blanca, y los requisitos para que la ANH autorice la importación de Insumos y Aditivos para la obtención de Gasolinas Base, de conformidad a lo dispuesto en el marco normativo vigente.
+
+POR TANTO:
+
+**Artículo Único.-** El Ministro de Hidrocarburos en uso de sus atribuciones conferidas por ley y demás disposiciones conexas;
+  
+RESUELVE:
+
+**Primero .-** Aprobar el Reglamento específico que establece la estructura de costos para la obtención de Gasolinas Base resultantes de la mezcla o no de Insumos y Aditivos con Gasolina Blanca y los requisitos para que la ANH emita la autorización para la importación de Insumos y Aditivos destinados a la obtención de Gasolinas Base; Reglamento que en Anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+
+**Segundo .-** El Ministerio de Hidrocarburos (MH), la Agencia Nacional de Hidrocarburos (ANH), Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) y YPFB Refinación S. A., quedan encargados de la ejecución y cumplimiento de la presente Resolución Ministerial, en el marco de sus competencias.
+
+**Tercero .-** La Dirección General de Asuntos Jurídicos del MH queda encargada de la notificación de la presente Resolución Ministerial.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+Luis Alberto Sánchez Fernández MINISTRO DE HIDROCARBUROS

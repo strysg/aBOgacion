@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 29372, 12 de diciembre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Parágrafo IV del Artículo Único del [Decreto Supremo Nº 28611](https://www.lexivox.org//norms/BO-DS-28611.html) de 30 de enero de 2006, dispone que “El Viceministerio de Servicios Básicos del Ministerio de Servicios y Obras Públicas se transfiere íntegramente al Ministerio sin cartera Responsable del Agua, la transferencia comprende recursos financieros, activos y bienes, así mismo, los recursos humanos de dicha instancia serán evaluados por el Ministerio sin Cartera para determinar su conformidad en caso que corresponda”.
+* Que la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establece el modelo de gestión y organización del Poder Ejecutivo e instituye al Ministerio del Agua, que tiene entre sus atribuciones el de plantear y ejecutar, evaluar y fiscalizar las políticas y planes de servicio de agua potable y saneamiento básico.
+* Que el Gobierno de Bolivia en fecha 29 de marzo de 2000, suscribió el Contrato de Préstamo BID 1050SF-BO con el Banco Interamericano de Desarrollo - BID, aprobado mediante [Ley Nº 2138](https://www.lexivox.org//norms/BO-L-2138.html) de 23 de octubre de 2000, destinados a financiar el Programa de Saneamiento Básico para Pequeños Municipios - PROAGUAS. El objetivo del Programa es mejorar las condiciones de salud de la población a través de servicios sostenibles de agua y saneamiento, desarrollando una estrategia que permita consolidar las reformas estructurales del país, incrementando la cobertura y calidad de los servicios de saneamiento básico en poblaciones menores o iguales a 10.000 habitantes.
+* Que la Cláusula IV) Ejecución del Contrato Modificatorio del 10 de mayo de 2002, suscrito entre la República de Bolivia y el BID, en su numeral 4.01 establece que: “La Unidad Coordinadora del Programa - UCP, funcionará dentro del Viceministerio de Servicios Básicos - VMSB, del Ministerio de Vivienda y Servicios Básicos - MVSB, que actuará como Organismo Ejecutor del Programa”. El numeral 4.02 establece que: “La UCP será administrada por un Coordinador, tendrá a su cargo: realizar la administración financiera del Programa, mantener sus registros contables y preparar sus estados financieros consolidados; contratar las auditorias del Programa a que se refiere la Cláusula 5.02 de las estipulaciones Espaciales”.
+* Que el [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, determina la estructura jerárquica del Ministerio del Agua, estableciendo los Viceministerios de Servicios Básicos; de Riego y de Cuencas y Recursos Hídricos.
+* Que el apartado tercero del inciso d) del Artículo 24 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, dispone que “Los Directores Generales de Asuntos Administrativos y de Asuntos Jurídicos de la estructura central podrán desconcentrar, excepcionalmente funciones en los siguientes casos, previa autorización del Ministro: Cuando por estipulaciones de un convenio internacional, programa o proyecto con financiamiento externo, deba mantener una unidad propia”.
+* Que el Ministerio del Agua mediante Resolución Ministerial Nº 023/2006 de 26 de abril de 2006, dispuso desconcentrar el manejo administrativo del PROAGUAS, de la Dirección General de Asuntos Administrativos del Ministerio del Agua en una Dirección Administrativa de la UCP del mencionado Programa.
+* Que mediante Informe CITE: UCP - 03/2007 Unidad Coordinadora del PROAGUAS, elaborado por la Responsable Administrativa y Financiera, aprobado por el Gerente del Proyecto y refrendado por el Viceministro de Servicios Básicos a. i. del Ministerio del Agua, solicitan se inicie el proceso de Traspaso Presupuestario Intrainstitucional con Recursos del Tesoro General de la Nación - TGN, para el cierre del Proyecto BID 1050/SF-BO.
+* Que mediante nota COF/CBO/CA-2664/2007, el BID ha señalado que la fecha de cierre del PROAGUAS, es el 30 de noviembre de 2007 y que de acuerdo a sus normas se requiere un período de tres (3) meses para el cierre, en cuyo período el personal encargado del cierre atenderá los requerimientos de la auditoria externa, la remisión de información al BID, la entrega de documentación administrativa, financiera, contable, archivos y equipos de computación al Ministerio del Agua.
+* Que la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de 21 de diciembre de 1999, determina el marco normativo de la Administración Presupuestaria de entidades públicas y el [Decreto Supremo Nº 27849](https://www.lexivox.org//norms/BO-DS-27849.html) de 12 de noviembre de 2004, reglamenta las modificaciones presupuestarias y sus modalidades.
+* Que el [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, establece el marco legal de austeridad racionalizando el gasto público, y que cualquier incremento en la Partida 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público”, deberá ser aprobada mediante Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio del Agua, incrementar la partida 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público” por Bs63.130.- (SESENTA Y TRES mil CIENTO TREINTA 00/100 BOLIVIANOS) en el presupuesto del Programa de Saneamiento Básico para Pequeños Municipios - PROAGUAS, a través del traspaso intrainstitucional que afecta su partida 22100 “Pasajes”, para financiar consultorías del PROAGUAS, de acuerdo al Anexo adjunto y de conformidad al Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Hacienda y del Agua, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de diciembre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Walter Valda Rivera, Celinda Sosa Lunda, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Walter Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE MINERÍA Y METALURGIA, María Magdalena Cajías de la Vega, Nila Heredia Miranda.

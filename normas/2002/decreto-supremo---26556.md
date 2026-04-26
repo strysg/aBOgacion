@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 26556, 19 de marzo de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la diversidad biológica es parte fundamental del patrimonio natural del país e integra el conjunto de ecosistemas, especies de flora y fauna y recursos genéticos que sustentan la base productiva y son esenciales para el bienestar de la población y el desarrollo nacional.
+* Que el Estado reconoce a la diversidad biológica como un tema prioritario a ser fortalecido dentro la agenda para lograr el desarrollo sostenible a través de la incorporación de una estrategia nacional de uso y conservación del patrimonio natural.
+* Que la [Ley Nº 1333](https://www.lexivox.org//norms/BO-L-1333.html) de 27 de abril de 1992 del Medio Ambiente, establece que es deber del Estado preservar la biodiversidad y la integridad del patrimonio genético de la flora y fauna silvestre y de especies nativas y domesticadas.
+* Que el Convenio sobre Diversidad Biológica, ratificado mediante [Ley Nº 1580](https://www.lexivox.org//norms/BO-L-1580.html) de 25 de julio de 1994, reconoce los derechos soberanos de cada Estado sobre sus recursos biológicos, así como su responsabilidad sobre la conservación de la diversidad biológica y el uso sostenible de sus recursos; estableciendo en su Artículo 6 que cada Estado debe elaborar estrategias para la conservación y utilización sostenible de la diversidad biológica.
+* Que es necesario desarrollar el potencial económico de la diversidad biológica del país, asegurando la conservación y el uso sostenible de los ecosistemas, especies y recursos genéticos a través del potenciamiento de la capacidad productiva de distintos actores y la distribución equitativa de los beneficios que se generen, a fin de contribuir al desarrollo nacional mejorando la calidad de vida de la población.
+* Que la Estrategia Nacional de Conservación y Uso Sostenible de la Biodiversidad es producto de un proceso nacional ampliamente participativo, concertado y consensuado por todos los actores y sectores de gobierno y sociedad civil y en ese marco debe ser respetada y respaldada.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se aprueba la Estrategia Nacional de Conservación y Uso Sostenible de la Biodiversidad - ENCB, como instrumento que oriente las acciones de conservación y uso de la biodiversidad por el Estado y promueva la participación de la Sociedad Civil.
+
+**Artículo 2°.-** Las políticas y acciones descritas en la ENCB deberán ser consideradas como medidas de orientación en los planes generales de desarrollo económico y social, así como en los planes sectoriales en los ámbitos nacional, departamental y local, en el marco del Convenio sobre Diversidad Biológica, ratificado mediante [Ley Nº 1580](https://www.lexivox.org//norms/BO-L-1580.html) de 25 de julio de 1994 y otras normas nacionales pertinentes.
+
+**Artículo 3°.-** El Señor Ministro de Desarrollo Sostenible y Planificación, queda encargado de promover, en consulta con la sociedad civil, el desarrollo de un Plan de Acción para la aplicación de la Estrategia Nacional de Conservación y Uso Sostenible de la Biodiversidad (ENCB) en coordinación con los correspondientes sectores del poder ejecutivo y en el marco de la normativa y competencias nacionales.
+
+---
+
+El Señor Ministro de Estado en la Cartera de Desarrollo Sostenible y Planificación, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de marzo el año dos mil dos.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Alberto Zelada Castedo MINISTRO INTERINO DE RR. EE. Y CULTO, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Luján, Eduardo Antelo Callisperis MINISTRO INTERINO DE HACIENDA, Carlos Alberto Goitia Caballero, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña, Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña , Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

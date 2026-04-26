@@ -1,0 +1,34 @@
+# Bolivia: Decreto Supremo Nº 25447, 25 de junio de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el ex Ministerio de Educación y Cultura funcionó hasta el mes de enero de 1972, en el edificio ubicado en la Av. Arce No.2147 de esta ciudad, donde actualmente funciona el Ministerio de Educación Cultura y Deportes junto con el Ministerio de Desarrollo Sostenible y Planificación.
+* Que por la necesidad de contar con el espacio suficiente para el ex Ministerio de Planificación y Coordinación el señalado edificio fue transferido al mismo con todos sus usos, costumbres y servicios, mediante [Decreto Supremo Nº 10106](https://www.lexivox.org//norms/BO-DS-10106.html) de fecha 21 de enero de 1972.
+* Que mediante [Ley Nº 1493](https://www.lexivox.org//norms/BO-L-1493.html) de 17 de septiembre de 1993, el Ministerio de Planificación y Coordinación fue suprimido, creándose el Ministerio de Desarrollo Sostenible y Medio Ambiente y el Ministerio de Desarrollo Humano, pasando ambos a ocupar el edificio que utilizaba el desaparecido Ministerio de Planificación y Coordinación.
+* Que mediante [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de 16 de septiembre de 1997, fue creado el Ministerio de Educación, Cultura y Deportes con los siguientes Viceministros bajo su dependencia: Viceministro de Educación Inicial, Primaria y Secundaria; Viceministro de Educación Alternativa; Viceministro de Educación Superior, Ciencia y Tecnología; Viceministro de Cultura y Viceministro de Deportes, eliminándose el Ministerio de Desarrollo Humano.
+* Que en ese contexto, el Ministerio de Educación, Cultura y Deportes, pasó a ocupar la parte del edificio que correspondía al ex Ministerio de Desarrollo Humano, la misma que resultó insuficiente para el funcionamiento de todas sus dependencias, por lo que, se tuvo que alquilar inmuebles en diferentes ubicaciones donde funcionan varias oficinas del Ministerio, hecho que dificulta en muchos casos optimizar el trabajo.
+* Que con el objeto de mejorar la eficiencia del funcionamiento de las diferentes carteras del Poder Ejecutivo se ha dispuesto la reubicación de varios Ministerios en inmuebles donde puedan funcionar con todas sus dependencias.
+* Que como resultado de ese proceso, se ha dispuesto el traslado del Ministerio de Desarrollo Sostenible y Planificación al edificio de la ex COMIBOL ubicado en la Av. Mariscal Santa Cruz.
+* Que a consecuencia de ello, el Ministerio de Educación, Cultura y Deportes que actualmente utiliza ambientes de la parte delantera del señalado inmueble, a partir del traslado del Ministerio de Desarrollo sostenible y Planificación quedará en posesión de la totalidad del mismo.
+* Que mediante [Ley Nº 1820](https://www.lexivox.org//norms/BO-L-1820.html) de 22 de diciembre de 1997, el Ministerio de Educación, Cultura y Deportes, transfirió el Edificio “Avelino Siñani” (ex Lazarte) a favor de la Corte Nacional Electoral por un monto de $us.1.240.825.69 (UN MILLON DOSCIENTOS CUARENTA mil novecientos VEINTICINCO 69/100 DOLARES AMERICANOS), el mismo que está exclusivamente destinado a mejorar la infraestructura del mencionado Ministerio.
+* Que en el predio donde actualmente funciona el Ministerio de Educación, Cultura y Deportes, existe una extensión de terreno suficiente para ampliar la edificación, de modo que puedan funcionar todas sus dependencias en una sola infraestructura.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorízase la transferencia a título gratuito a favor del Ministerio de Educación, Cultura y Deportes del edificio ubicado en la Av. Arce No.2147, de propiedad del ex Ministerio de Planeamiento y Coordinación con todos sus usos, costumbres y servidumbres, con destino a la instalación de sus diferentes dependencias, debiendo suscribirse la Minuta correspondiente a objeto de registrarse el Derecho propietario en las Oficinas de DD. RR. a nombre de la mencionada Cartera de Estado.
+
+**Artículo 2°.-** Se autoriza al Ministerio de Educación, Cultura y Deportes, realizar la construcción de la infraestructura necesaria para albergar a la totalidad de sus dependencias en el terreno donde se encuentra ubicado el edificio al que se refiere el artículo 1 del presente Decreto. Dicha construcción será financiada exclusivamente con los recursos provenientes de la venta del Edificio “Avelino Siñani” (ex Lazarte), los mismos que se encuentran depositados en la Cuenta Bancaria No.4.41.1.1.1.402.206.27-1 del Banco Central de Bolivia.
+
+---
+
+Los señores Ministros de Estado en los Despachos de la Presidencia y de Educación, Cultura y Deportes, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de junio de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Ramiro Cavero Uriona, Ministro Interino de Hacienda, Carlos Alberto Subirana Suárez, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, José Alfredo Henicke Bruno, Ministro Interino de Salud y Previsión Social, Luis Vasquez Villamor, Walter Nuñez Rodríguez, Ministro Interino de Agricultura Ganadería y Desarrollo Rural, José Antonio Barriga Arroyo, Ministro Interino de Desarrollo Sostenible y Planificación, Carlos Saavedra Bruno, Rubén Poma Rojas, Jorge Landivar Roca.

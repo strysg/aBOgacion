@@ -1,0 +1,214 @@
+# Bolivia: Reglamento a la Ley Nº 3131 del Ejercicio Profesional Médico, DS Nº 28562, 22 de diciembre de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3131](https://www.lexivox.org//norms/BO-L-3131.html) promulgada el 8 de agosto de 2005, ha establecido la regulación del Ejercicio Profesional Médico.
+* Que el ámbito de aplicación de la [Ley Nº 3131](https://www.lexivox.org//norms/BO-L-3131.html) es el Sistema Nacional de Salud en sus sectores: Público, Seguridad Social, Privado con fines de lucro y Privado sin fines de lucro.
+* Que se ha establecido principios y definiciones del contexto del ejercicio profesional médico; asimismo se han consolidado las competencias del Ministerio del área de Salud en la supervisión y control del ejercicio profesional médico; como también se ha reconocido mediante Ley de la República al Colegio Médico de Bolivia como entidad colegiada.
+* Que se ha definido claramente las funciones y las actividades relacionadas con el ejercicio profesional médico, como también el reconocimiento legal de los documentos médicos oficiales.
+* Que se ha declarado expresamente los Derechos y Deberes del Médico como también los Derechos y Deberes del Paciente.
+* Que se ha institucionalizado mediante Ley de la República la auditoria médica en los ámbitos del acto médico y de la gestión de calidad de los establecimientos de salud.
+* Que se ha establecido las excepciones legales al secreto médico.
+* Que en el contenido de la Ley del Ejercicio Profesional Médico, se ha propiciado una relación equilibrada médico-paciente, con el propósito de regular el acto médico y mejorar la gestión de calidad en los establecimientos de salud.
+* Que la creación del Instituto Médico de Conciliación y Arbitraje no cumplió la previsión del Artículo 149 constitucional que señala: “Todo proyecto de ley que implique gastos para el Estado debe indicar, al propio tiempo, la manera de cubrirlos y la forma de su inversión”, aspecto no considerado en el Artículo 18 de la Ley del Ejercicio Profesional Médico.
+* Que corresponde al Poder Ejecutivo reglamentar la [Ley Nº 3131](https://www.lexivox.org//norms/BO-L-3131.html), para su efectiva ejecución.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 14 de diciembre de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+## Capítulo I Principios generales, alcance y cumplimiento
+
+**Artículo 1°.- (Principios generales)** El presente Decreto Supremo reglamenta la [Ley Nº 3131](https://www.lexivox.org//norms/BO-L-3131.html), del Ejercicio Profesional Médico.
+
+**Artículo 2°.- (Alcance)** Todo el Sistema Nacional de Salud se regirá por la normativa vigente elaborada y validada por el Ministerio del área de Salud.
+  
+La autorización legal para el funcionamiento de los establecimientos de todos los sectores del Sistema Nacional de Salud, es una atribución del Ministerio del área de Salud, bajo responsabilidad de la máxima autoridad departamental de salud en su jurisdicción. Los Directores y propietarios de establecimientos de salud tienen un plazo de 180 días para regularizar su situación a partir de la publicación del presente Decreto Supremo.
+  
+Los requisitos para el funcionamiento de los establecimientos de salud son reglamentados por la máxima autoridad departamental de salud, en el marco de la norma nacional vigente.
+
+**Artículo 3°.- (Inexcusabilidad en la promocion de la salud y prevencion de enfermedades)** En el marco de la defensa de la vida, el ciudado de la salud integral de la persona, familia y comunidad requiere acciones de promoción de la salud y prevención de riesgos y enfermedades por parte del profesional médico, en forma inexcusable, cualquiera sea su cargo, especialidad o nivel de actuación en el Sistema Nacional de Salud.
+
+## Capítulo II Normas, protocolos y gestión de calidad
+
+**Artículo 4°.- (Normas y protocolos)** Se establecen las siguientes definiciones:
+
+|  |  |
+| --- | --- |
+| Norma | Documento establecido por consenso y aprobado por el Ministerio del área de Salud. Implica para el personal del Sistema Nacional de Salud, reglas y líneas directrices o características para sus actividades o resultados que garanticen un nivel óptimo de orden y comparabilidad en un contexto dado. |
+| Protocolo | Disposición técnica reconocida que refleja el “estado del arte” o el estado de la técnica en el momento y ajustado a una norma vigente. |
+| Guía técnica | Conjunto de procedimientos consensuados entre prestadores y usuarios -en el marco de la Interculturalidad- en relación a un servicio determinado de salud. |
+
+  
+El Ministerio del área de Salud elaborará las normas y los protocolos de atención de alcance nacional y cumplimiento obligatorio en todo el territorio nacional con la participación activa de representantes de las sociedades científicas correspondientes. Las normas tienen vigencia de tres años y deben ser revisadas y actualizadas conforme al avance de la ciencia y las evidencias. En este marco, aquellas que hayan cumplido su vigencia deben adecuarse en el plazo de 180 días a partir de la publicación del presente Decreto Supremo.
+  
+Las normas y protocolos elaborados serán aprobados mediante Resolución Ministerial,
+  
+La Autoridad Departamental de Salud es responsable de complementar los protocolos en el marco de la calidad, la interculturalidad, la equidad de género y el respeto al derecho de las personas a la vida y a la salud.
+  
+Los Gerentes de Red, los Directores de Hospitales y los responsables de establecimientos de salud de primer nivel, son los responsables de supervisar la aplicación de las normas y protocolos nacionales vigentes en el Departamento y denunciar el incumplimiento ante la Autoridad Departamental de Salud.
+  
+Es atribución de la Autoridad Departamental de Salud, en casos de conflictos surgidos de la práctica profesional, respaldar las intervenciones profesionales realizadas en acatamiento a las normas y protocolos vigentes o sancionar su incumplimiento conforme lo mandan las leyes.
+  
+El cumplimiento de los protocolos en la actividad asistencial de los profesionales médicos es un elemento primordial en la evaluación del desempeño del personal en todos los niveles de atención.
+  
+La existencia, conocimiento y aplicación de los protocolos de atención vigentes es un requisito indispensable para la certificación de los establecimientos de salud y su acreditación.
+
+**Artículo 5°.- (Gestion de calidad)** La gestión de calidad de los servicios de salud es inexcusable para los médicos en los establecimientos de todos los sectores del Sistema Nacional de Salud.
+  
+En los establecimientos de tercer y segundo nivel, la gestión de calidad de los servicios de salud es implementada por el Departamento de Enseñanza e Investigación, que en adelante se denomina Departamento de Gestión de Calidad, Enseñanza e Investigación. De no existir esta instancia, el Director del establecimiento debe implementarla en un plazo máximo de 180 días a partir de la publicación del presente Decreto Supremo, sin que implique erogación de recursos económicos adicionales para el TGN.
+  
+Este Departamento tiene bajo su responsabilidad los comités contemplados en el Reglamento General de Hospitales vigente, además de los Comités de Gestión de Calidad y Auditoria Médica, y de Enseñanza e Investigación, implementados mediante este Decreto Supremo.
+  
+La selección del Jefe del Departamento de Gestión de Calidad, Enseñanza e Investigación se realiza siguiendo la normativa vigente.
+  
+La gestión de la calidad de los servicios de salud en los establecimientos de nivel I, es implementada por las gerencias de red.
+  
+Los Jefes de Departamento de Gestión de la Calidad, Enseñanza e Investigación deben cumplir con nivel de postgrado, Diplomado como mínimo en esta materia, otorgado por institución reconocida por el Sistema Universitario Boliviano o el Ministerio de Educación. El cumplimiento de esta disposición tiene un plazo de 2 años a partir de la publicación del presente Decreto Supremo.
+  
+En el marco de la gestión de calidad, se establece la necesidad del profesional médico de conocer el idioma nativo del área donde ejerza su profesión. Es responsabilidad del Ministerio del área de salud gestionar la incorporación de idiomas nativos en el currículum académico de las Carreras de Medicina mediante los mecanismos de integración docente asistencial.
+  
+La capacitación y actualización a cargo de las Instituciones se enmarca en la gestión de calidad y evaluación del desempeño y se incorpora en la programación anual operativa.
+
+## Capítulo III Definiciones operativas y coordinación
+
+**Artículo 6°.- (Definiciones operativas)** Se establece las siguientes definiciones:
+
+|  |  |
+| --- | --- |
+| Calidad del Acto médico | Las características del servicio médico para considerarlo de calidad son: Conocimientos actualizados del profesional; Habilidades y destrezas suficientes y adecuadas a la tarea; Actitud de servicio; Actitud de respeto al paciente y su entorno; Aplicación de normas y protocolos de atención; Reconocimiento del paciente como ser humano con dignidad; Eficiencia en el uso de los recursos; Enfocado en la equidad de género |
+| Receta médica | Constituye el documento legal que avala la prescripción facultativa para la dispensación de medicamentos. Consta de dos partes que deben ser legibles: la prescripción propiamente dicha y las indicaciones de uso. La prescripción debe registrar el nombre del paciente; el nombre genérico, opcionalmente el nombre comercial, forma farmacéutica, concentración y, cuando corresponda, el código del medicamento; fecha, el nombre del médico, la firma, el número de matrícula profesional, la especialidad -cuando corresponda- y el sello del médico, conforme legislación vigente. |
+| Las indicaciones de uso | dosis y frecuencia u horario, deben ser registradas en hoja aparte, considerando que la receta médica será retenida en el establecimiento farmacéutico. |
+
+**Artículo 7°.- (Entidad colegiada)** En el marco de esta Ley y para fines de coordinación interinstitucional, los Estatutos y Reglamentos del Colegio Médico de Bolivia para adquirir validez jurídica en el territorio nacional, deben ser aprobados por el Ministerio del área de Salud.
+  
+La fiscalización del perfeccionamiento profesional se realizara utilizando técnicas de auditoria de calidad.
+  
+El Ministerio del área de salud recertifica el ejercicio de la profesión médica y sus especialidades, en coordinación con el Colegio Médico de Bolivia. Este proceso se inicia a partir de la publicación del presente Decreto Supremo y se actualiza cada 5 años.
+
+**Artículo 8°.- (Coordinacion)** A efectos de cumplir con la supervisión y control del ejercicio profesional médico, el Ministerio del área de Salud coordinará esta labor con el Colegio Médico de Bolivia, en el marco de la política de salud.
+  
+La supervisión y control se realiza mediante la verificación del registro profesional médico y para los especialistas, además, el certificado de especialidad actualizado.
+
+## Capítulo IV Matrícula profesional y requisitos
+
+**Artículo 9°.- (Requisitos)** Los requisitos para la extensión de la matrícula profesional son:
+  
+- Título en Provisión Nacional
+  
+- 2 Fotografías
+  
+- Cédula de identidad.
+  
+Para fines de supervisión y control, es responsabilidad del Ministerio del área de Salud solicitar al Comité Ejecutivo de la Universidad Boliviana y al Ministerio de Educación, la nómina de profesionales médicos que cuenten con Diploma Académico expedido por las Universidades Públicas y Privadas, respectivamente.
+
+**Artículo 10°.- (Funciones del ejercicio profesional medico)** Las funciones de: Promoción de la salud, prevención de la enfermedad, recuperación de la salud y rehabilitación del paciente, son de cumplimiento obligatorio en todos los ámbitos y niveles de atención del Sistema Nacional de Salud, en el marco de las normas aprobadas por el Ministerio del área de Salud.
+  
+Promoción de la Salud, es la actividad orientada hacia la preservación de la salud y estilos de vida saludables de las personas en su entorno familiar, social y laboral.
+  
+Prevención de la enfermedad, es el conjunto de acciones necesarias para evitar riesgos y daños a la salud de las personas en su entorno familiar, social y laboral.
+  
+Recuperación de la salud, es el conjunto de acciones de diagnóstico y tratamiento necesarias para restablecer la salud del paciente. Cuando esto no sea posible, el médico debe propender a evitar o mitigar el dolor para mejorar la calidad de vida.
+  
+Rehabilitación, es el conjunto de acciones y medios que faciliten la reinserción laboral y social de las personas mediante el uso y desarrollo de sus capacidades físicas, mentales, sensoriales y sociales.
+
+**Artículo 11°.- (Perfeccionamiento profesional)** El Ministerio del área de Salud coordinará con las Universidades, el Instituto de Investigaciones Forenses dependiente de la Fiscalía General de la República y el Colegio Médico de Bolivia, el perfeccionamiento profesional en Medicina Forense y Ciencias Forenses.
+
+|  |  |
+| --- | --- |
+| Medicina Forense | Es el conjunto de conocimientos utilizados para estudiar y determinar diversas condiciones físicas, biológicas y químicas del hombre y mujer considerados como sujetos de derecho. |
+| Perito Médico | Es el profesional médico con conocimiento e idoneidad profesional en el tema objeto de peritaje. |
+
+## Capítulo V Documentos médicos oficiales
+
+**Artículo 12°.- (Expediente medico)** El Expediente médico, está constituido por el conjunto de la Historia clínica y los documentos relacionados con el caso que surjan por fuera del proceso asistencial.
+  
+La Historia clínica es el conjunto de documentos escritos e iconográficos generados durante cada proceso asistencial de la persona atendida.
+  
+Para fines de atención, conciliación, arbitraje, proceso judicial u otros, el expediente clínico se organiza de la siguiente manera:
+
+1. Durante la Hospitalización:
+   1. Gráficas de temperatura
+   2. Ordenes médicas
+   3. Evolución
+   4. Informes de Laboratorio
+   5. Informe Quirúrgico
+   6. Informe de Anestesia
+   7. Informe de Anatomía Patológica
+   8. Notas de enfermería
+   9. Hoja de Medicamentos
+   10. Historia y Examen Físico
+   11. Epicrisis
+   12. Informe de Ingreso y Egreso.
+2. Secuencia de formularios de la Historia Clínica después del Egreso:
+   1. Informe de ingreso y egreso
+   2. Epicrisis
+   3. Historia y examen físico
+   4. Evolución
+   5. Ordenes Médicas
+   6. Informes de Laboratorio
+   7. Informe de Anestesia
+   8. Informe Quirúrgico
+   9. Informe de anatomía Patológica
+   10. Grafica de temperatura
+   11. Medicamentos
+   12. Notas de Enfermería
+
+**Artículo 13°.- (Libertad de prescripcion)** La libertad en la prescripción terapéutica esta limitada por las leyes, normas y protocolos oficiales vigentes.
+
+## Capítulo VI Derechos y deberes, obligación de difundir
+
+**Artículo 14°.- (Difusion)** Es obligatoria la difusión de los derechos y deberes de los pacientes y de los derechos y deberes de los médicos, en todos los sectores del Sistema Nacional de Salud. Esta debe realizarse en todos los establecimientos e Instituciones de salud, en forma pública y visible, al alcance de los pacientes y público en general.
+  
+Consentimiento expreso, se refiere a la voluntad o decisión del paciente de rechazar el tratamiento u hospitalización indicados por el médico tratante, registrado en la historia clínica y debidamente respaldado por la firma del paciente o de su familiar o responsable legal.
+  
+En situaciones donde el paciente no tiene capacidad de decidir sobre su persona, requiere intervención profesional médica y no cuenta con un familiar, pariente o responsable legal, la Institución de salud asume la decisión terapéutica siguiendo las normas y protocolos vigentes.
+  
+Es obligación del médico registrar en la historia clínica, la información brindada al paciente respecto al diagnóstico, tratamiento y pronóstico de la enfermedad; este registro debe ser suscrito por el paciente, familiar, pariente o representante legal.
+
+**Artículo 15°.- (Canalizacion de reclamos y denuncias)** Los Departamentos de Gestión de Calidad, Enseñanza e Investigación, deben canalizar los reclamos y denuncias sobre la atención recibida en los hospitales de I. y III nivel, mediante la Dirección del Hospital hacia la Autoridad Departamental de Salud a objeto que se realice la auditoria externa correspondiente.
+
+## Capítulo VII Auditoría médica interna, auditoría médica externa y auditores médicos acreditados
+
+**Artículo 16°.- (Auditoria medica interna)** La auditoria médica constituye un proceso unitario, educativo, preventivo y, según corresponda, también correctivo. Según el propósito, puede ser interna o externa.
+  
+La auditoria médica interna constituye un procedimiento de aplicación regular, es técnico, evaluativo, preventivo y correctivo, para el aseguramiento y mejoramiento de la calidad en salud, que comprende la evaluación de la estructura, proceso y resultados, conducida por los Comités de Auditoria Médica, bajo supervisión del Departamento o responsable de Gestión de Calidad y Auditoria Médica institucional.
+  
+En caso que el Departamento de Gestión de Calidad, Enseñanza e Investigación, en el proceso rutinario de auditoria interna, encuentre indicios de mala práctica médica, deberá requerir la realización de una auditoria externa a la máxima autoridad departamental de salud.
+  
+En el primer nivel de atención (Puestos y Centros de Salud), las auditorias internas serán asimiladas a los procesos de auto-evaluación mensual mediante instrumentos vigentes emitidos por el Ministerio del área de Salud.
+
+**Artículo 17°.- (Auditoria medica externa)** La auditoria médica externa es un procedimiento técnico, analítico, evaluativo, de carácter preventivo y correctivo que se realiza ante denuncias de mala práctica médica. Se aplica al acto médico y consiste en la verificación del cumplimiento de normas y protocolos vigentes. Se realiza mediante el análisis del expediente clínico.
+  
+La Autoridad Departamental de Salud en cumplimiento de la normativa vigente, conformará las Comisiones Departamentales de Auditoria Médica, en un plazo máximo de 48 horas de presentada la solicitud, sin que ello implique erogación de recursos económicos adicionales para el TGN.
+  
+Si la denuncia de mala práctica médica, involucra al sector de la Seguridad Social, de corto plazo, la Autoridad Departamental de Salud solicitará la intervención del Instituto Nacional de Seguros de Salud - INASES, para que en uso de sus atribuciones, realice la auditoria médica externa.
+  
+La auditoria médica interna y la auditoria médica externa, en caso de los sectores Privado con fines de lucro y Privado sin fines de lucro, son de competencia de la autoridad de salud departamental.
+
+**Artículo 18°.- (Requisitos)** Para ser acreditado como auditor médico se debe cumplir los siguientes requisitos:
+  
+- Nivel de postgrado en Auditoria Médica (Diplomado como mínimo, equivalente a 600 horas académicas), otorgado por Universidad reconocida por el CEUB o el Ministerio de Educación.
+  
+- Experiencia profesional de 10 años como mínimo.
+  
+- No tener resolución ejecutoriada por responsabilidad ejecutiva o administrativa, ni sentencia civil o penal.
+  
+- No tener pliego de cargo ejecutoriado.
+
+## Disposiciones finales
+
+**Artículo 19°.- (Instituto Medico de Conciliacion y Arbitraje)** El Ministerio del área de Salud queda encargado de realizar los estudios necesarios para establecer la dependencia, estructura, organización y puesta en marcha del Instituto Médico de Conciliación y Arbitraje, así como para asegurar su sostenibilidad jurídica, institucional y financiera, mediante la Dirección General de Salud que dirigirá los procesos necesarios y coordinará con otros sectores e Instituciones, disponiendo para ello de un plazo de nueve meses a partir de la publicación del presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Salud y Deportes queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de diciembre del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Carlos Díaz Villavicencio, Mario Moreno Viruéz, Sergio M. Medinaceli Monroy, Maria Cristina Mejía Barragán, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Guillermo Ribera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

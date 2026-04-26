@@ -1,0 +1,64 @@
+# Bolivia: Decreto Supremo Nº 23666, 3 de noviembre de 1993
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que es necesario establecer la Bolsa de Trabajo como un mecanismo permanente que posibilite la intermediación del empleo, la cooperación entre trabajadores y empleadores para que mediante acciones conjuntas cubran las necesidades laborales; que establezca registros de personas que soliciten u ofrezcan empleos, que busque la capacitación de la mano de obra laboral y otras medidas que faciliten incrementar y mejorar el empleo.
+* Que la situación heredada en las empresas del Estado, obligó al Poder Ejecutivo a asumir la responsabilidad de redimensionarlas con el fin de preservar estas fuentes de trabajo y evitar que continúen afectando negativamente la economía de la Nación.
+* Que los despidos de personal efectuados a partir del 9 de agosto del año en curso forman parte de un plan de optimización técnica, económica y financiera que en el mediano plazo permitirá la capitalización de estas empresas y la generación de nuevos y mejores empleos.
+* Que es necesario aliviar la situación económica de los ex-trabajadores de menores ingresos de las empresas del Estado y promover su reinserción en el mercado laboral.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se crea la Bolsa de Trabajo, bajo la dependencia de la Subsecretaría de Empleo del Ministerio de Trabajo. Tendrá la función de facilitar el relacionamiento entre la oferta y la demanda laboral y dinamizar el mercado de trabajo con un registro de quienes ofrecen empleo y quienes lo buscan.
+  
+La Bolsa de Trabajo funcionará en las Direcciones Departamentales y en las Oficinas Regionales del Ministerio de Trabajo con el apoyo de la Unidad de Asesoría Técnica Laboral UDATEL y con un sistema integrado de información a fin de sistematizar la intermediación de la oferta y demanda laboral.
+
+**Artículo 2°.-** Se crea el Fondo de Alivio Social, con vigencia de un año a partir del primero de noviembre de mil novecientos noventa y tres, con el fin de asistir a las personas afectadas por el proceso de racionalización de las empresas e instituciones del Estado que se llevó acabo entre el 9 de agosto y el 31 de octubre del año en curso y que estén sujetas a la [Ley General del Trabajo](https://www.lexivox.org//norms/BO-L-19390524.html).
+
+**Artículo 3°.-** Se incorpora a los beneficios del Fondo a los ex-trabajadores mencionados en el artículo precedente, cuyo total ganado hubiera sido igual o menor a Un mil bolivianos ( Bs.1.000.--) mensuales.
+
+**Artículo 4°.-** Los beneficiarios de este Fondo recibirán una asignación mensual de Quinientos bolivianos (Bs.500.--) por un período máximo de 12 meses, a cuyo efecto deberán registrarse en la Bolsa de Trabajo.
+
+**Artículo 5°.-** Los beneficiarios de este Fondo tendrán acceso a programas de capacitación y reciclaje laboral, no mayores a un año de duración, en el Instituto Nacional de Formación y Capacitación Laboral INFOCAL, u otros institutos debidamente calificados por el Fondo. Los costos de estudios serán absorbidos por el Fondo.
+
+**Artículo 6°.-** Los beneficiarios de este Fondo podrán organizar unidades productivas de diversa modalidad, las mismas que previa calificación, recibirán para la formación de su capital social el saldo de la asignación anual que individualmente los correspondiera.
+
+**Artículo 7°.-** El Fondo, de acuerdo a las necesidades y características de las regiones, promoverá programas especiales de ocupación.
+
+**Artículo 8°.-** No podrán acceder a los beneficios del Fondo:
+
+1. Los trabajadores despedidos por las causales establecidas en el artículo 16 de la [Ley General del Trabajo](https://www.lexivox.org//norms/BO-L-19390524.html).
+2. Los no comprendidos en el artículo segundo del presente decreto supremo.
+
+**Artículo 9°.-** Se dispone la reincorporación inmediata a sus fuentes de trabajo de los ex-trabajadores a quienes, a la fecha de su retiro, los faltaré un año o menos para la jubilación, a efecto de que se acojan a este beneficio de acuerdo a Ley.
+
+**Artículo 10°.-** La administración del Fondo estará a cargo de un Directorio de cinco miembros. El Presidente y el Director Ejecutivo serán designados por el Presidente de la República mediante Resolución Suprema y los tres Directores serán designados por el Ministro de Trabajo mediante Resolución Ministerial.
+
+**Artículo 11°.-** El Fondo tiene como funciones principales las siguientes:
+
+1. Planificar y programar sus actividades.
+2. Establecer las normas reglamentarias para el funcionamiento del Fondo.
+3. Planificar, programar y ejecutar el Plan de Alivio Social.
+4. Promover y negociar con entidades públicas y privadas programas de generación de empleos para los beneficiarios del Fondo.
+5. Autorizar, supervisar y controlar los pagos.
+6. Elaborar los informes financieros y técnicos para ser presentados al Ministro de Trabajo.
+
+**Artículo 12°.-** El Ministerio de Hacienda y Desarrollo Económico financiará los recursos necesarios pera la ejecución del Fondo.
+
+**Artículo 13°.-** El ingreso de los beneficiarios al Fondo no establece, en ningún caso y bajo ninguna circunstancia, un vínculo obrero-patronal con el mismo.
+
+**Artículo 14°.-** Quedan derogadas las disposiciones contrarías al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los despachos de Trabajo y de Hacienda y Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los tres días del mes de noviembre de mil novecientos noventa y tres años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Germán Quiroga Gómez, Antonio Céspedes Toro, Carlos Sánchez Berzain, Carlos Morales Guillén, Fernando Illanes de la Riva, Fernando Romero Moreno, José G. Justiniano Sandóval, Reynaldo Peters Arzabe, Herman Antelo Laughlin.

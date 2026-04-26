@@ -1,0 +1,57 @@
+# Bolivia: Decreto Supremo Nº 5188, 24 de julio de 2024
+
+Decreto Supremo Nº 5188
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 229 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) determina que la Procuraduría General del Estado es la institución de representación jurídica pública que tiene como atribución promover, defender y precautelar los intereses del Estado. Su organización y estructura serán determinadas por ley.
+* Que el numeral 1 del Artículo 231 del Texto Constitucional establece que es función de la Procuraduría General del Estado, además de las determinadas por la Constitución y la ley, defender judicial y extrajudicialmente los intereses del Estado, asumiendo su representación jurídica e interviniendo como sujeto procesal de pleno derecho en todas las acciones judiciales y administrativas, en el marco de la Constitución y la ley.
+* Que el numeral 1 del Artículo 8 de la [Ley Nº 064](https://www.lexivox.org//norms/BO-L-N64.html), de 5 de diciembre de 2010, de la Procuraduría General del Estado, dispone como función de la Procuraduría General del Estado, defender judicial y extrajudicialmente los intereses del Estado, asumiendo su representación jurídica e interviniendo como sujeto procesal de pleno derecho en todas las acciones judiciales, extrajudiciales o administrativas, sea en resguardo de la soberanía, de los bienes del patrimonio e intereses del Estado, en particular, en materia de inversiones, derechos humanos y medio ambiente, asumiendo defensa en cualquier conflicto entre el Estado y personas naturales o jurídicas nacionales o extranjeras que demanden al Estado boliviano.
+* Que el Parágrafo III del Artículo 19 de la [Ley Nº 064](https://www.lexivox.org//norms/BO-L-N64.html) señala que las atribuciones específicas de las Sub Procuradurías, serán establecidas mediante Decreto Supremo y se circunscribirán al ámbito de la función operativa señalada en la citada Ley y otras leyes.
+* Que el Artículo 14 del [Decreto Supremo Nº 0788](https://www.lexivox.org//norms/BO-DS-N788.html), de 5 de febrero de 2011, establece las atribuciones específicas de la Subprocuraduría de Defensa y Representación Legal del Estado.
+* Que la Procuraduría General del Estado tiene el deber de defender judicial y extrajudicialmente al Estado, asumiendo defensa en cualquier conflicto entre el Estado y personas naturales o jurídicas nacionales o extranjeras, por lo cual es necesario realizar modificaciones a las atribuciones de la Subprocuraduría de Defensa y Representación Legal del Estado, a fin de fortalecer la promoción, defensa y precautelar los intereses del Estado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** Con la finalidad de fortalecer las atribuciones de la Subprocuraduría de Defensa y Representación Legal del Estado, para la promoción, defensa y precautela de los intereses del Estado, el presente Decreto Supremo tiene por objeto modificar el [Decreto Supremo Nº 0788](https://www.lexivox.org//norms/BO-DS-N788.html), de 5 de febrero de 2011, modificado por la Disposición Adicional Primera del [Decreto Supremo Nº 2739](https://www.lexivox.org//norms/BO-DS-N2739.html), de 20 de abril de 2016.
+
+**Artículo 2°.- (Modificación)** Se modifica el Artículo 14 del [Decreto Supremo Nº 0788](https://www.lexivox.org//norms/BO-DS-N788.html), de 5 de febrero de 2011, modificado por la Disposición Adicional Primera del [Decreto Supremo Nº 2739](https://www.lexivox.org//norms/BO-DS-N2739.html), de 20 de abril de 2016, con el siguiente texto:
+> “ARTÍCULO 14.- (SUBPROCURADURÍA DE DEFENSA Y REPRESENTACIÓN LEGAL DEL ESTADO). De conformidad con el Parágrafo III del Artículo 19 de la [Ley Nº 064](https://www.lexivox.org//norms/BO-L-N64.html), se establecen las siguientes atribuciones específicas de la Subprocuraduría de Defensa y Representación Legal del Estado:
+>   
+> a) Proponer estrategias o brindar apoyo técnico y operativo a la Procuradora o Procurador General del Estado en procedimientos judiciales y extrajudiciales, extranjeros e internacionales, ante cualquier instancia constituida en virtud de tratados internacionales en los que el Estado es parte o contratos comerciales suscritos por entidades públicas del nivel central del Estado, sin deslindar la responsabilidad de la entidad competente;
+>   
+> b) Proponer estrategias o brindar apoyo técnico y operativo a la Procuradora o Procurador General del Estado, para la prevención de disputas judiciales y extrajudiciales internacionales y extranjeras, así como nacionales, siempre y cuando se encuentren vinculadas a disputas internacionales y extranjeras, sea en resguardo de la soberanía, patrimonio e intereses del Estado;
+>   
+> c) Coordinar acciones conjuntas para la defensa oportuna de los intereses del Estado con la Contraloría General del Estado, el Ministerio Público, el Ministerio de Justicia y Transparencia Institucional, el Ministerio de Relaciones Exteriores y el Ministerio de Economía y Finanzas Públicas;
+>   
+> d) Coordinar acciones conjuntas con el Ministerio de Economía y Finanzas Públicas y el Banco Central de Bolivia, para la defensa legal del Estado en los procedimientos judiciales y extrajudiciales extranjeros e internacionales, relativos a las reservas internacionales;
+>   
+> e) Realizar la intervención y supervisión de las acciones judiciales, extrajudiciales y administrativas que realizan las instancias competentes de las entidades públicas u otras que administran recursos públicos, ante tribunales de países extranjeros y procesos arbitrales nacionales;
+>   
+> f) Mantener el archivo de los procesos judiciales y arbitrales en los cuales la Procuraduría General del Estado asuma la defensa en resguardo de la soberanía, de los bienes del patrimonio e intereses del Estado, en particular, en materia comercial, de inversiones, derechos humanos y medio ambiente, protegiendo y clasificando dicha información en pública, reservada o confidencial, de acuerdo a normativa vigente.”
+
+# Disposiciones adicionales
+
+**Disposición Adicional Primera.-** De conformidad con la normativa vigente, las entidades públicas del nivel central del Estado deberán implementar las acciones preventivas para evitar arbitrajes internacionales y que sean determinadas en los Dictámenes y/u Opiniones de la Procuraduría General del Estado, destinadas a las etapas pre litigiosa, litigiosa y post litigiosa.
+
+**Disposición Adicional Segunda.-** En los arbitrajes comerciales emergentes de relaciones contractuales, corresponderá a las entidades públicas del nivel central del Estado, el pago de los gastos administrativos del Centro o Foro Arbitral y los honorarios de Árbitro Único o Tribunal Arbitral, en el caso de arbitrajes comerciales asumirán también el pago indemnizatorio y costas en contra, que establezca el Tribunal Arbitral.
+
+**Disposición Adicional Tercera.-** Las y los servidores públicos de las entidades públicas del nivel central del Estado deberán acatar los Dictámenes emitidos por la Procuraduría General del Estado respecto al cumplimiento de las Sentencias de la Corte Interamericana de Derechos Humanos.
+
+# Disposiciones finales
+
+**Disposición Final Única.-** La implementación del presente Decreto Supremo no implicará recursos adicionales al Tesoro General del Estado - TGN.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los vienticuatro días del mes de julio del año dos mil veinticuatro.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Celinda Sosa Lunda, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Alejandro Santos Laura, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada, María Renee Castro Cusicanqui, Humberto Alan Lisperguer Rosales, Omar Veliz Ramos, Santos Condori Nina, Esperanza Guevara.

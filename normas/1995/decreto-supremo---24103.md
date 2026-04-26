@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 24103, 25 de agosto de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que Yacimientos Petrolíferos Fiscales Bolivianos suscribió un contrato de operación petrolera con la Compañía Petrolera de exploración y explotación S.A.(PETROLEX S.A.), para ejecutar trabajos en el bloque Lagunillas, ubicado en los departamentos de Chuquisaca y Santa Cruz, con aprobación por [Decreto Supremo Nº 23160](https://www.lexivox.org//norms/BO-DS-23160.html) de 22 de mayo de 1992 y convertido a escritura pública, bajo el número 25/92, el 8 de julio de 1992;
+* Que la Compañía PETROLEX S.A. ha solicitado autorización para subrogar en favor de la Compañía YPF S.A.(sucursal Bolivia) el 50% de sus derechos y obligaciones, derivados del contrato de Operación mencionado, cuya cláusula décima, inciso 10.1.9 estipula la facultad del contratista para efectuar esa subrogación;
+* Que el directorio de Yacimientos Petrolíferos Fiscales Bolivianos expresa, mediante resolución 90/94 de 29 de septiembre de 1994, su consentimiento a la subrogación solicitada por la empresa PETROLEX S.A. y la Junta Directiva Estatal de YPFB autoriza a su vez con resolución 014/94 de 24, de noviembre de 1994, con la competencia que el otorga al artículo 4 del [Decreto Supremo Nº 22100](https://www.lexivox.org//norms/BO-DS-22100.html) de 29 de diciembre de 1988 y el [Decreto Supremo Nº 23694](https://www.lexivox.org//norms/BO-DS-23694.html) de 30 de diciembre de 1993;
+* Que el artículo 23 de la Ley de Hidrocarburos 1194 de 1 de noviembre de 1990 establece que es necesario para subrogar, el consentimiento previo de YPFB y aprobación expresa por decreto supremo, para su validez legal.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se homologa la resolución 90/94 de 29 de septiembre de 1994 del directorio de Yacimientos Petrolíferos Fiscales Bolivianos que aprueba la solicitud de la Compañía Petrolera de Exploración y Explotación (PETROLEX S.A.) para subrogar el cincuenta por ciento (50%) de sus derechos y obligaciones que tiene en el contrato de operación petrolífera suscrito con Yacimientos Petrolíferos Fiscales Bolivianos, convertido en escritura pública bajo el número 25/92 de 8 de julio de 1992 y aprobado por [Decreto Supremo Nº 23160](https://www.lexivox.org//norms/BO-DS-23160.html) de 22 de mayo de 1992, para la ejecución de trabajos petrolíferos en el bloque LAGUNILLAS, ubicado en los departamentos de Chuquisaca y Santa Cruz, en favor de la empresa YPF S.A.(Sucursal Bolivia).
+
+**Artículo 2°.-** Se autoriza a los personeros legales de Yacimientos Petrolíferos Fiscales Bolivianos suscribir el correspondiente contrato de subrogación de operación petrolífera y la escritura pública pertinente, en representación de la entidad, con los representantes legales de las empresas YPF S.A.(sucursal Bolivia) y PETROLEX S.A., con intervención del Fiscal de Materia Administrativa ante la Notaría de Minas y Petróleo con sede en la ciudad de La Paz, bajo las formalidades de ley.
+
+---
+
+El señor Ministro de Estado en el despacho de Hacienda y Desarrollo Económico queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de agosto de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Eduardo Trigo O’Connor d’Arlach MIN. SUPLENTE DE RELACIONES EXTERIORES Y CULTO, Carlos Sánchez Berzaín, Raúl Tovar Piérola, José G. Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

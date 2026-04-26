@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 27758, 27 de septiembre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que es prioridad del Gobierno Nacional proveer de los medios necesarios que permitan alcanzar niveles de vida más adecuados para los sectores deprimidos del país.
+* Que se ha acordado concertar un Convenio Marco de Crédito Preferencial que la República Popular de China otorga a la República de Bolivia, para intensificar las relaciones bilaterales de cooperación entre ambos países.
+* Que la República Popular de China accede a que el Banco de Exportación e Importación de China (Financiador) conceda un crédito preferencial por un monto total no superior a 250.000.000.- de yuanes de R. M. B.(DOSCIENTOS CINCUENTA MILLONES DE YUANES DE R. M. B) a la República de Bolivia (Prestatario), representado por el Ministerio de Hacienda, dentro lo establecido por el Convenio Marco sobre el Crédito Preferencia que la República Popular de China otorga a Bolivia.
+* Que esos recursos, estarán constituidos por créditos concesionales para la exportación de bienes de equipos y maquinaria desde la República Popular de China, destinados a la ejecución de proyectos de desarrollo.
+* Que es preciso autorizar la suscripción de los Convenios de crédito para cada operación programada, a efectos de su concretización legal.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministro de Hacienda suscribir con el Banco de Exportación e Importación de la República Popular China, en representación de la República de Bolivia, los respectivos convenios de préstamo, hasta un monto de 250.000.000.- de yuanes de R. M. B.(DOSCIENTOS CINCUENTA MILLONES DE YUANES DE R. M. B.) del Acuerdo Marco sobre el Crédito Preferencial que la República Popular de China otorga a Bolivia.
+2. Se autoriza al Ministro de Hacienda suscribir con el Banco de Exportación e Importación de la República Popular de China, en representación de la República de Bolivia, los convenios de crédito por el monto mencionado en el Parágrafo anterior.
+3. Se autoriza al Ministerio de Hacienda transferir a las Entidades Ejecutoras de los convenios de crédito, la responsabilidad por el cumplimiento de los mismos, mediante la suscripción del pertinente convenio subsidiario.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de septiembre del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Erwin Angel Aguilera Antunez Ministro Interino de Desarrollo Sostenible, Horst Grebe López, Carlos Romero Mallea Ministro Interino de Servicios y Obras Públicas, Guillermo Torres Orias, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

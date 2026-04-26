@@ -1,0 +1,56 @@
+# Bolivia: Decreto Supremo Nº 28832, 23 de agosto de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Museo de Arte de Filadelfia, el Colegio Antiguo de San Ildefonso de la Universidad Nacional Autónoma de México, el Museo de Arte de la ciudad de Los Angeles, Estados Unidos de Norteamérica y la Real Academia de Artes de Londres, están organizando la exhibición de “El Arte de América Latina, 1492 - 1820”, que se llevará a cabo entre el 17 de septiembre de 2006 al 1 de enero de 2008, con el objetivo de exponer una colección de obras artísticas provenientes de varios países latinoamericanos, incluido Bolivia.
+* Que el Certificado - Autorización, de Marzo de 2006, del Obispo Auxiliar de la Arquidiócesis de Santa Cruz y Moderador de la Basílica Menor de San Lorenzo Mártir y el Reverendo Padre Raúl Arrazola, Rector de la Basílica Menor de San Lorenzo Mártir, autorizan el préstamo de la obra tallada “Santiago Mata Moros” del artista Adalberto Marterer S. J., y refrendada con la nota de 28 de marzo de 2006 a la Sra. Anita Suárez de Terceros, Directora del Museo de Arte Sacro “Monseñor Carlos Gericke Suárez”.
+* Que la Resolución Administrativa MNA. Int. Nº 001/06 de 30 de mayo de 2006, del Museo Nacional de Arte, concede en calidad de préstamo temporal las siguientes obras: “San Miguel Arcángel” y “La Virgen de Belén” de Melchor Pérez de Holguín, “Adoración de los Reyes Magos” y “Adoración de los Pastores” de Gaspar Miguel de Berrío y “Asiel Timor Dei” (Arcángel Arcabucero) del Maestro de Calamarca, para su exposición en la muestra “El Arte de América Latina, 1492 - 1820”, señalando como fecha de salida del territorio nacional el 15 de agosto de 2006 y como fecha máxima de retorno el mes de febrero de 2008.
+* Que la Resolución Nº 1/2006 de 17 de junio de 2006, de la Casa Nacional de la Moneda, autoriza la salida de los siguientes cuadros: “San Juan Evangelista”, “San Lucas Evangelista”, “San Marcos Evangelista” y “San Mateo Evangelista” de Melchor Pérez de Holguín, “El Patrocinio de San José” de Gaspar Miguel de Berrío, “La Virgen del Cerro” de autor anónimo, “La Virgen del Rosario con Santo Domingo y San Francisco” de Luis Niño, para su exposición en la muestra “El Arte de América Latina, 1492 - 1820”, señalando como fecha de salida el 15 de agosto de 2006 y como fecha máxima de retorno el mes de febrero de 2008.
+* Que la nota de fecha 23 de junio de 2006, de la Comunidad Franciscana del Convento de La Recoleta de la ciudad de Sucre, dirigida al Viceministro de Desarrollo de Culturas y el Superior de la Recoleta Padre José Bussone, declaran su conformidad y autorización para el préstamo de la pieza “Cristo atado a la columna”, declarando además la aprobación de las autoridades de la Provincia Misionera San Antonio en Bolivia de los Hermanos Menores, para una serie de exposiciones a realizarse en Filadelfia.
+* Que la nota del Pbro. Jaime Huallpara, Ecónomo Administrador del Arzobispado de La Paz, de 29 de junio de 2006, comunica al Viceministerio de Desarrollo de Culturas la autorización de Monseñor Edmundo Abastoflor Montero, Arzobispo de La Paz, para el préstamo de dos blandones (candelabros ceremoniales) pertenecientes al Museo de Arte Sacro del Arzobispado.
+* Que mediante nota de la Comunidad de Madres Carmelitas y la Dirección del Museo “Santa Teresa” de la ciudad de Potosí, representada por su Directora Hna. Carmen Alvarez Segura, hizo conocer su conformidad con el préstamo de la obra “San Pascual Bailón en éxtasis y San Salvador de Orta” de Melchor Pérez de Holguín, para su exposición en Filadelfia.
+* Que el Artículo 191 de la Constitución Política del Estado establece: “Los monumentos y objetos arqueológicos son de propiedad del Estado. La riqueza artística colonial, la arqueológica, la histórica y documental, así como la procedente del culto religioso son tesoro cultural de la Nación, están bajo el amparo del Estado y no pueden ser exportadas.
+* Que el Artículo 3 del [Decreto Supremo Nº 5918](https://www.lexivox.org//norms/BO-DS-5918.html) de 6 de noviembre de 1961, aprueba las Normas Complementarias sobre Patrimonio Artístico, Histórico, Arqueológico y Monumental y señala que: “ La riqueza artística, histórica y arqueológica, incluyendo la destinada al culto religioso y la propiedad particular, no podrá ser exportada por ningún concepto, comprendiéndose en esta prohibición la que se pretendiere hacer por vía diplomática, bajo pena de decomiso y de las sanciones establecidas”.
+* Que el Artículo 4 del [Decreto Supremo Nº 5918](https://www.lexivox.org//norms/BO-DS-5918.html), señala: “Quedan eximidas de la prohibición del anterior artículo las exposiciones o muestras que bajo los convenios internacionales salen temporalmente del país, previas las garantías y seguros adecuados, asimismo todas las obras de arte contemporáneos que tengan una antigüedad menor de 30 años”.
+* Que el Artículo 5 del [Decreto Supremo Nº 5918](https://www.lexivox.org//norms/BO-DS-5918.html), señala que: “ El Estado protegerá y conservará los objetos que sean declarados Monumentos Nacionales, o aquellos considerados de valor o interés histórico, artístico o arqueológico, por resolución expresa y previo asesoramiento adecuado”.
+* Que se hace necesario liberar a las obras de arte del pago de todo gravamen o tributo aduanero e impuestos de cualquier especie a su reingreso al país, de conformidad al Artículo 135 del [Decreto Supremo Nº 25870](https://www.lexivox.org//norms/BO-DS-25870.html) de 11 de agosto de 2000, que aprueba el Reglamento a la [Ley Nº 1990](https://www.lexivox.org//norms/BO-L-1990.html) de 28 de julio de 1999 - Ley General de Aduanas.
+* Que el Informe Técnico Inf. DINATAC 26/06 de 2 de agosto de 2006, de la Jefe de la Unidad de Catalogación y Museos al Viceministro de Desarrollo de Culturas, establece que las piezas pueden salir del país temporalmente con fines de exposición y retornar dentro los plazos establecidos.
+* Que las conclusiones del Informe Jurídico EJ Nº 27/06 de 2 de agosto de 2006 de la Asesora Legal - Enlace Jurídico, al Viceministro de Desarrollo de Culturas, establece que existiendo la normativa que ampara la exportación de obras de arte para exposiciones temporales y habiéndose verificado las autorizaciones de las entidades que custodian y las pólizas de seguro que garantizan su buen estado, es recomendable la promulgación del correspondiente Decreto Supremo que autorice su salida al exterior entre el 15 de agosto de 2006 hasta el 15 de febrero de 2008.
+* Que es competencia del Ministerio de Educación y Culturas, a través del Viceministerio de Desarrollo de Culturas, la protección y difusión del patrimonio cultural del país.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES del 22 de agosto de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Educación y Culturas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la salida temporal de piezas de arte para la exposición “El Arte de América Latina, 1492 - 1820”, organizada por el Museo de Arte de Filadelfia, a realizarse en los Estados Unidos de Norteamérica entre el 17 de septiembre de 2006 al 1 de enero de 2008, con el objetivo de mostrar una colección de obras artísticas provenientes de varios países, incluido Bolivia.
+
+**Artículo 2°.- (Autorizacion)** 
+
+1. Se autoriza la salida temporal:
+   1. De la Casa Nacional de la Moneda las obras “San Juan Evangelista”, “San Lucas Evangelista”, “San Marcos Evangelista”, “San Mateo Evangelista” de Melchor Pérez de Holguin, “El Patrocinio de San José” de Gaspar Miguel de Berrío, “La Virgen del Cerro” de autor anónimo y “La Virgen del Rosario con Santo Domingo y San Francisco” de Luis Niño.
+   2. Del Convento Museo Santa Teresa de Potosí, la obra “San Pascual Bailón en éxtasis y San Salvador de Orta” de Melchor Pérez de Holguín.
+   3. Del Museo Nacional de Arte de La Paz, la salida de las obras “San Miguel Arcángel” y “La Virgen de Belén” de Melchor Pérez de Holguín, “Adoración de los Reyes Magos” y “Adoración de los Pastores” de Gaspar Miguel de Berrío y “Asiel Timor Dei” (Arcángel Arcabucero) del Maestro de Calamarca.
+   4. Del Museo Convento de la Recoleta de Sucre, la pieza “Cristo Atado a la Columna”.
+   5. Del Museo de la Catedral de Santa Cruz, la pieza tallada “Santiago Mata Moros” de Adalberto Marterer S. J.
+   6. Del Museo de Arte Sacro del Arzobispado de La Paz, el préstamo de dos blandones (candelabros ceremoniales).
+2. Las fichas de identificación de las obras, son parte integrante del presente Decreto Supremo.
+
+**Artículo 3°.- (Garantia)** 
+
+1. La salida y permanencia temporal de las piezas y su puntual retorno al país, serán garantizadas satisfactoriamente con las pólizas de seguro que los organizadores presentaron por el monto total de $us2.475.000.- (DOS MILLONES CUATROCIENTOS SETENTA Y CINCO mil 00/100 DOLARES AMERICANOS) a nombre del Viceministerio de Desarrollo de Culturas, como parte del presente Decreto Supremo, las que tendrán vigencia durante todo el tiempo que las obras se encuentren fuera del país y que cubrirán todo tipo de riesgos, daños físicos o de otra índole, hasta su retorno. La omisión de entrega de este documento dejará sin efecto la autorización de salida otorgada mediante el presente Decreto Supremo.
+2. Los tenedores temporales de las piezas de arte, tienen la obligación de garantizar la preservación de las mismas, su originalidad y cualquier forma de reproducción total o parcial, copia fotostática, fotográfica o fílmica, para fines comerciales sean públicos o privados, así como la transportación conjunta en un solo lote y sin división alguna de todo el material artístico al que hace referencia el presente Decreto Supremo.
+
+**Artículo 4°.- (Liberacion de pago de tributos aduaneros)** Se libera a las obras de arte del pago de todo gravamen o tributo aduanero e impuestos de toda especie a su reingreso al país, de conformidad con el Artículo 135 del [Decreto Supremo Nº 25870](https://www.lexivox.org//norms/BO-DS-25870.html), que aprueba el Reglamento a la [Ley Nº 1990](https://www.lexivox.org//norms/BO-L-1990.html) General de Aduanas.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y, Educación y Culturas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de agosto del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani Ministro de Trabajo e Interino de Salud y Deportes, Félix Patzi Paco.

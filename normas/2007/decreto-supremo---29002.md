@@ -1,0 +1,61 @@
+# Bolivia: Decreto Supremo Nº 29002, 9 de enero de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 28854](https://www.lexivox.org//norms/BO-DS-28854.html) de 9 de septiembre de 2006, determina la reestructuración de la Representación Presidencial para la Asamblea Constituyente y el Referéndum Autonómico - REPAC, estableciendo un período de transición de tres (3) meses durante los cuales dos equipos, uno administrativo y otro técnico, designados por el Secretario General de la Vicepresidencia de la República, funcionaron bajo su supervisión.
+* Que la REPAC ha realizado, en la fase de transición, un trabajo de relacionamiento social y técnico, sirviendo de puente entre la sociedad civil y los constituyentes.
+* Que durante este proceso, se ha visto la necesidad de mantener vigente esta oficina como brazo técnico dependiente del Poder Ejecutivo, en apoyo al proceso Constituyente y Post Constituyente y manteniendo el relacionamiento entre la sociedad civil y la Asamblea Constituyente.
+* Que la Unidad Técnica de Apoyo a la Asamblea Constituyente será una repartición dependiente de la Directiva de la Asamblea Constituyente y tendrá como objetivo principal trabajar en el ámbito de la Asamblea Constituyente.
+* Que es necesaria la articulación de esfuerzos institucionales de instancias y organismos públicos y privados, para promover la más amplia deliberación pública, el fortalecimiento temático de los debates y la difusión de los resultados alcanzados por el proceso constituyente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto disponer la implementación de la Segunda Fase de la Representación Presidencial para la Asamblea Constituyente - REPAC.
+
+**Artículo 2°.- (Denominacion)** La Representación Presidencial para la Asamblea Constituyente y el Referéndum Autonómico cambia su denominativo a Representación Presidencial para la Asamblea Constituyente, manteniendo la sigla de REPAC.
+
+**Artículo 3°.- (Duracion)** La Segunda Fase de la Representación Presidencial para la Asamblea Constituyente - REPAC, tendrá una duración de dieciocho (18) meses, a partir de la promulgación del presente Decreto Supremo. Contempla la etapa de funcionamiento de la Asamblea Constituyente, la ejecución del Referéndum Constitucional, y el período de un año después de la finalización de ambos eventos, siempre y cuando el resultado del Referéndum sea afirmativo.
+
+**Artículo 4°.- (Mision)** La Representación Presidencial para la Asamblea Constituyente - REPAC, tendrá la misión de promover el proceso de deliberación pública, el fortalecimiento temático de los debates, la difusión y socialización, y articulación de las acciones e iniciativas públicas y privadas, de apoyo al proceso constituyente.
+
+**Artículo 5°.- (Ambito de trabajo)** La Representación Presidencial para la Asamblea Constituyente - REPAC, trabajará en el ámbito de la deliberación pública del proceso constituyente, recogiendo, sistematizando y socializando las propuestas y visiones que se generen en la sociedad civil, las mismas que serán entregadas a la Unidad Técnica de Apoyo a la Asamblea Constituyente - UTAC, para su consideración dentro del debate y redacción del nuevo texto constitucional.
+
+**Artículo 6°.- (Dependencia)** La Representación Presidencial para la Asamblea Constituyente - REPAC, es una institución pública desconcentrada de apoyo y asistencia técnica del Poder Ejecutivo a la Asamblea Constituyente y depende operativa y administrativamente de la Vicepresidencia de la República.
+
+**Artículo 7°.- (Estructura)** La Representación Presidencial para la Asamblea Constituyente - REPAC, está constituida por el Representante Presidencial designado mediante Resolución Suprema, las Coordinaciones de Fortalecimiento Temático, la Deliberación Pública y Difusión y la Administración y Gestión de Proyectos.
+
+**Artículo 8°.- (Representante presidencial)** El Representante Presidencial, designado por el Presidente de la República mediante Resolución Suprema, tiene la responsabilidad de dirigir, coordinar e implementar las acciones de la Representación Presidencial para la Asamblea Constituyente - REPAC, en el ámbito nacional. De esta representación dependen operativamente las tres (3) Unidades que componen la REPAC.
+
+**Artículo 9°.- (Unidad de Fortalecimiento Tematico)** La Unidad de Fortalecimiento Temático, será responsable de la organización de seminarios nacionales e internacionales, instalación de mesas temáticas, talleres de trabajo y toda actividad vinculada al mejoramiento de las capacidades deliberativas y de manejo temático de los constituyentes y actores inmiscuidos en el proceso.
+
+**Artículo 10°.- (Unidad de Deliberacion Publica y Difusion)** La Unidad de Coordinación de Deliberación Pública y Difusión, será responsable del apoyo en la organización y realización de audiencias públicas y eventos de encuentro entre los constituyentes, organizaciones y actores de la sociedad civil, en las circunscripciones territoriales del país, y la difusión y publicación de los documentos que se originen de los eventos.
+
+**Artículo 11°.- (Unidad de Administracion y Gestion de Proyectos)** La Unidad de Administración y Gestión de Proyectos, será responsable de la administración y gestión de los recursos y la formulación y gestión del financiamiento para proyectos específicos, de acuerdo a la misión y responsabilidades institucionales de la Representación Presidencial para la Asamblea Constituyente - REPAC.
+
+**Artículo 12°.- (Sede de funciones)** La Representación Presidencial para la Asamblea Constituyente - REPAC y las Unidades que la conforman, tienen como sede de sus funciones la ciudad de Sucre, con oficinas desconcentradas en los Departamentos y en las regiones del país, de acuerdo a los requerimientos.
+
+**Artículo 13°.- (Transferencia de activos)** Una vez concluida la labor de la Representación Presidencial para la Asamblea Constituyente - REPAC, en sus fases de trabajo, los recursos, materiales y bienes bajo su tuición serán transferidos a la Vicepresidencia de la República para su correspondiente asignación y distribución a las reparticiones públicas que el Poder Ejecutivo disponga, en el marco de las disposiciones legales vigentes.
+
+**Artículo 14°.- (Recursos)** 
+
+1. El funcionamiento de la Segunda Fase de la Representación Presidencial para la Asamblea Constituyente - REPAC, se financiará con recursos provenientes del Tesoro General de la Nación y de fuentes externas de financiamiento.
+2. El monto programado para el funcionamiento de la Segunda Fase de la Representación Presidencial para la Asamblea Constituyente - REPAC, durante la gestión 2007 con recursos del Tesoro General de la Nación, no deberá sobrepasar de Bs.9.114.691.- (NUEVE MILLONES CIENTO CATORCE mil SEISCIENTOS NOVENTA Y UN 00/100 BOLIVIANOS).
+
+**Artículo 15°.- (Vigencia de normas)** 
+
+1. Se deroga el [Decreto Supremo Nº 28854](https://www.lexivox.org//norms/BO-DS-28854.html) de 9 de septiembre de 2006.
+2. Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado, en sus respectivos Despachos y el Vicepresidente de la República, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de enero del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Hernando Larrazábal Córdova, Luís Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

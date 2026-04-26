@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 28934, 22 de noviembre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero del 2004, determina que cualquier incremento en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Para Construcciones de Bienes de Dominio Público”, deberá ser aprobado mediante Decreto Supremo.
+* Que el Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, a través de la Jefatura Distrital del Servicio Nacional de Sanidad Agropecuaria e Inociudad Alimentaria de Tarija, ha suscrito con la Prefectura del Departamento de Tarija el Convenio Interinstitucional para la Ejecución del Programa Departamental de la Mosca de la Fruta en Tarija, comprometiendo un aporte anual de Bs1.227.096.- (UN MILLON DOSCIENTOS VEINTISIETE mil NOVENTA Y SEIS 00/100 BOLIVIANOS).
+* Que la Prefectura del Departamento de Tarija para la gestión 2006, ha inscrito Bs397.287.- (TRESCIENTOS NOVENTA Y siete mil DOSCIENTOS OCHENTA Y siete 00/100 BOLIVIANOS), adicionales al Presupuesto General de la Nación aprobado mediante [Ley Nº 3302](https://www.lexivox.org//norms/BO-L-3302.html) de 16 de diciembre de 2005, monto que corresponde en su totalidad a la partida 46200 “Para Construcciones de Bienes de Dominio Público” para el funcionamiento de la Oficina Departamental de la Mosca de la Fruta en Tarija.
+* Que el Servicio Nacional de Sanidad Agropecuaria e Inociudad Alimentaria - SENASAG, ha reformulado su presupuesto a través de un traspaso interinstitucional de la partida 77100 “Transferencias de Capital a la Administración Central por Subsidios o Subvenciones” de Bs397.287.- (TRESCIENTOS NOVENTA Y siete mil DOSCIENTOS OCHENTA Y siete 00/100 BOLIVIANOS), a la partida 46200 “Para Construcciones de Bienes de Dominio Público”, para el pago de Honorarios al Personal del Programa Departamental de la Mosca de la Fruta de Tarija.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 20 de noviembre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Servicio Nacional de Sanidad Agropecuaria e Inociudad Alimentaria - SENASAG, efectuar la modificación presupuestaria, incrementando la partida 46200 “Para Construcciones de Bienes de Dominio Público” por Bs397.287.- (TRESCIENTOS NOVENTA Y siete mil DOSCIENTOS OCHENTA Y siete 00/100 BOLIVIANOS), destinados al “Programa Nacional de Mosca de la Fruta”, que será financiada con el traspaso interinstitucional que efectuará la Prefectura Departamental de Tarija, afectando la Partida 77100 “Transferencias de Capital a la Administración Central por Subsidios o Subvenciones”, con Fuente20 “Recursos Específicos”, Organismo Financiador 220 “Regalías”, de acuerdo al Anexo adjunto y de conformidad al Artículo 3 del [Decreto Supremo Nº 28750](https://www.lexivox.org//norms/BO-DS-28750.html) de 20 de junio de 2006.
+  
+Los Ministros de Estado en los Despachos de Hacienda y Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de noviembre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga Ministro de la Presidencia e Interino de Gobierno, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Hernándo Larrazabal Córdova, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

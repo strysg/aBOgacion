@@ -1,0 +1,41 @@
+# Bolivia: Decreto Supremo Nº 1269, 24 de junio de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 12 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), señala que una de las competencias privativas del nivel central del Estado es la creación, control y administración de las empresas públicas estratégicas del nivel central del Estado.
+* Que el Artículo 1 de la [Ley Nº 3720](https://www.lexivox.org//norms/BO-L-3720.html), de 31 de julio de 2007, señala que la Corporación Minera de Bolivia - COMIBOL, participará directamente en la cadena productiva con las funciones de: prospección y exploración; explotación; concentración; fundición y refinación; comercialización de minerales y metales; y administración de las áreas fiscales.
+* Que el Artículo Único del [Decreto Supremo Nº 29245](https://www.lexivox.org//norms/BO-DS-29245.html), de 22 de agosto de 2007, autoriza a la COMIBOL adquirir bajo la modalidad de excepción los equipos y maquinaria necesarios para la implementación del Proyecto Hidrometalúrgico del Centro Minero de Corocoro.
+* Que el [Decreto Supremo Nº 29474](https://www.lexivox.org//norms/BO-DS-29474.html), de 12 de marzo de 2008, califica a la COMIBOL como Empresa Pública Nacional Estratégica.
+* Que los incisos a) y b) del Artículo 75 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establecen como atribuciones de la Ministra(o) de Minería y Metalurgia, formular, ejecutar, evaluar y fiscalizar políticas de desarrollo en materia de prospección, exploración, concentración, fundición, industrialización y comercialización de minerales metálicos y no metálicos, y supervisar su cumplimiento; así como proponer normas, elaborar y aprobar reglamentos e instructivos para el desarrollo del sector minero y metalúrgico y controlar su cumplimiento.
+* Que el Parágrafo IX del Artículo 11 de la [Ley Nº 211](https://www.lexivox.org//norms/BO-L-N211.html), de 23 de diciembre de 2011, del Presupuesto General del Estado - Gestión 2012, establece que los servidores del sector público, que perciban remuneración mensual, no podrán gozar de dietas, gastos de representación o cualquier otro beneficio colateral por su participación o representación oficial en Directorios, Consejos, Comités, Comisiones, Fondos, Juntas, u otros bajo cualquier denominación.
+* Que mediante Resolución de Directorio General N° 5024/2012, de 25 de mayo del 2012, el Directorio General de COMIBOL, aprobó la creación de la Empresa Minera Corocoro como una empresa productiva y dependiente de COMIBOL, presidida por un Directorio compuesto por cinco (5) miembros, la organización y administración de la Empresa Minera Corocoro estará sujeta a las normas que rige a la COMIBOL, así como, a las decisiones de su propio Directorio.
+* Que es necesario crear mediante disposición normativa la Empresa Minera Corocoro subsidiaria de la COMIBOL, con un Directorio, a objeto de facilitar sus actividades de operación, así como de otorgarle mecanismos ágiles y oportunos para que cuente con una gestión eficiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se crea la Empresa Minera Corocoro como una empresa productiva y dependiente de la Corporación Minera de Bolivia - COMIBOL, con la finalidad que cumpla las actividades mineras de prospección, exploración, explotación, beneficio, fundición, refinación, comercialización e industrialización de minerales de cobre y otros, presidida por un Directorio compuesto por cinco (5) miembros de la siguiente manera:
+     
+   - El Presidente Ejecutivo de COMIBOL o su representante.
+     
+   - Un (1) representante del Ministerio de Medio Ambiente y Agua.
+     
+   - Un (1) representante del Ministerio de Minería y Metalurgia.
+     
+   - Dos (2) representantes de los trabajadores de la Empresa Minera Corocoro.
+2. La organización y administración de la Empresa Minera Corocoro estará sujeta a las normas que rige a la COMIBOL, así como, a las decisiones de su propio Directorio.
+
+---
+
+El señor Ministro de Estado en el Despacho de Minería y Metalurgia, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Municipio de Corocoro del Departamento de La Paz, a los vienticuatro días del mes de junio del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE TRANSPARENCIA INST. Y LUCHA CONTRA LA CORRUPCION, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Felipe Quispe Quenta, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE CULTURAS, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Amanda Dávila Torres.

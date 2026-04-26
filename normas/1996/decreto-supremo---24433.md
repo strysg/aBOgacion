@@ -1,0 +1,48 @@
+# Bolivia: Decreto Supremo Nº 24433, 12 de diciembre de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Considerando:
+
+* Que con la finalidad de proteger y precautelar los intereses sociales y económicos de los asegurados en el sistema de seguridad social de largo plazo, se emitió el [Decreto Supremo Nº 24414](https://www.lexivox.org//norms/BO-DS-24414.html) de 15 de noviembre de 1996, disponiendo entre otros la retención e inmovilización de recursos económicos de los Entes Gestores que mantienen cuentas en el Sistema Bancario y Financiero por intermedio de la Superintendencia de Bancos;
+* Que de conformidad al artículo 57 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996, los afiliados al Sistema de Reparto deben cobrar sus rentas del Tesoro General de la Nación:
+* Que asimismo por determinación del artículo 17 de la [Ley Nº 1340](https://www.lexivox.org//norms/BO-L-1340.html) de 28 de mayo de 1992, las contribuciones de la seguridad social que importan prestaciones a cargo de los empleadores y trabajadores, constituyen tributos, consiguientemente como tales se encuentran bajo el amparo del Código Tributario, siendo por ello admisible el apoyo de la Dirección General de Impuestos Internos en las labores de recaudación y control de las contribuciones a la seguridad social del Sistema de Reparto:
+* Que es preciso uniformar los plazos de liquidación y pago tanto para el Régimen Complementario al Impuesto al Valor Agregado (RCIVA) así como para el pago de los aportes a la seguridad social a largo plazo del Sistema de Reparto.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** A partir de la dictación del presente Decreto Supremo, se levanta la retención de fondos de las entidades gestoras dispuestos por el artículo 2 del [Decreto Supremo Nº 24414](https://www.lexivox.org//norms/BO-DS-24414.html) de 15 de noviembre de 1996, debiendo los mismos ser traspasados de inmediato al Tesoro General de la Nación. La Superintendencia de Bancos y Entidades Financieras instruirá al sistema bancario y financiero el cese de la indicada medida.
+
+**Artículo 2°.-** El manejo y disposición de los recursos económicos de los Entes Gestores arriba mencionados se ejecutará por la Unidad de Reordenamiento dependiente de la Secretaría Nacional de Pensiones, a través del Tesoro General de la Nación, para el pago de haberes y beneficios sociales al personal de los mismos, así como para el pago de las rentas en curso de pago, rentas devengadas, pago por los servicios indispensables y el reembolso al Tesoro General de la Nación de los recursos anticipados para estos propósitos.
+
+**Artículo 3°.-** A partir de la promulgación del presente Decreto Supremo y hasta la Fecha de Inicio definida en el artículo quinto de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html), la Dirección General de impuestos Internos, a través de sus mecanismos de recaudación y control, en apoyo a la Unidad de Recaudación dependiente de la Secretaría Nacional de Pensiones, procederá a la recaudación de las contribuciones a la seguridad social, previstas dentro del Sistema de Reparto, para los funcionarios con relación de dependencia laboral y cuenta ajena, debiendo proporcionar toda información pertinente para su adecuada fiscalización. Al efecto, la Dirección General de Impuestos Internos queda facultada para convenir con el sistema bancario nacional, las condiciones bajo las cuales sus contratos de servicios se amplíen a la percepción de las cotizaciones a la Seguridad Social de largo plazo. Las cotizaciones de los trabajadores independientes dentro del sistema de reparto serán recaudadas y fiscalizadas directamente por la Unidad de Recaudación dependiente de la Secretaría Nacional de Pensiones.
+
+**Artículo 4°.-** Los aportes efectuados al sistema de pensiones y los recursos económicos cobrados por la Unidad de Recaudación dependiente de la Secretaria Nacional de Pensiones, incluidos los recaudados por la Dirección General de Impuestos Internos, en conformidad a lo dispuesto por el presente Decreto Supremo, serán transferidos a una cuenta fiscal del Tesoro General de la Nación para el pago de rentas, gastos administrativos que su recaudación demande y otras obligaciones que emanen de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html).
+
+**Artículo 5°.-** A partir de la fecha de dictación del presente Decreto Supremo, quedan disueltos los directorios de las instituciones que administran los fondos complementarios y el Fondo de Pensiones Básicas. Los liquidadores designados por la Secretaria Nacional de Pensiones. sustituirán a los directorios y gerentes generales de las instituciones antes indicadas, a fin de dar cumplimiento a lo dispuesto en el artículo 56 de la Ley de Pensiones.
+
+**Artículo 6°.-** Los Directores y Gerentes Generales cesados en sus funciones, bajo responsabilidad legal, deberán elevar informes circunstanciados de las labores cumplidas en el desempeño de sus funciones, documentos que deberán ser presentados a la Unidad de Reordenamiento de la Secretaría Nacional de Pensiones, debidamente refrendados por el auditor interno de cada entidad hasta el 31 de diciembre de 1996.
+
+**Artículo 7°.-** Quedan sin efecto y validez legal las firmas autorizadas de personeros de los fondos complementarios, registrados antes de la dictación del presente Decreto Supremo en los Bancos y Entidades Financieras del país, así como en las entidades públicas y privadas ante las cuales se hubiera acreditado su personería.
+
+**Artículo 8°.-** Las entidades que administran seguros integrales deberán realizar el traspaso al Tesoro General de la Nación de la totalidad de las reservas destinadas al pago de las rentas de largo plazo, con excepción de las contempladas en el artículo 65 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html).
+
+**Artículo 9°.-** Para efecto de la declaración y pago conjunto del Régimen Complementario del Impuesto al Valor Agregado (RCIVA) y de las cotizaciones a la seguridad social de largo plazo, se modifica a partir de la fecha de publicación del presente Decreto Supremo el plazo de quince (15) días para la cancelación de las retenciones por concepto del Régimen Complementario al Impuesto al Valor Agregado establecido en los incisos d) y e) del artículo 8 del [Decreto Supremo Nº 21531](https://www.lexivox.org//norms/BO-DS-21531.html) (texto ordenado en 1995) por treinta (30) días, a partir del último día del mes al que correspondan dichas retenciones, debiendo los empleadores presentar la respectiva declaración jurada hubiesen o no retenido en efectivo el importe correspondiente al Régimen Complementario al Impuesto al Valor Agregado. Las disposiciones contenidas en este artículo y en el artículo 3 del presente Decreto, son aplicables únicamente a las obligaciones generadas a partir del mes de noviembre de 1996.
+
+**Artículo 10°.-** A las obligaciones que hubieran ingresado en mora a partir de la fecha de publicación de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html). por concepto de cotizaciones a la seguridad social en el Régimen de Reparto, por pagos parciales o totales que se efectúen fuera de los treinta (30) días establecidos, se aplicarán los intereses previstos en el artículo 58 del Código Tributario, traducidos en una lasa igual a la tasa activa bancada comercial promedio nominal utilizada para créditos en moneda nacional con cláusula de mantenimiento de valor, publicada por el Banco Central de Bolivia, estableciéndose asimismo el régimen de actualización automática prevista en el artículo 59 del mencionado Código Tributario.
+
+**Artículo 11°.-** Las Secretarias Nacionales de Hacienda y de Pensiones quedan autorizadas para adoptar las medidas y previsiones necesarias para el cumplimiento y ejecución de las disposiciones contenidas en el presente Decreto Supremo, debiendo para el efecto acordar un programa financiero con metas identificables y medibles para los flujos de los ingresos (recaudación de cotizaciones de cobros coactivos, e ingresos por liquidación de activos) y egresos (pago de prestaciones económicas y otras obligaciones emanadas de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html)). El contenido y alcance de este programa financiero, será aprobado por los Ministerios de Hacienda y Sin Cartera Responsable de Capitalización a través de Resoluciones Biministeriales.
+
+**Artículo 12°.-** Se derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y Sin Cartera Responsable de Capitalización, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los doce días del mes de diciembre de mil novecientos noventa y seis años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA. Antonio Aramivar Quiroga, Franklin Anaya Vásquez. Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval. Raúl España Smith. Femando Candia Castillo, Freddy Teodovich Ortiz, Moisés Jarmusz Levy. Hugo San Martín Arzabe. Mauricio Balcazar Gutiérrez, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

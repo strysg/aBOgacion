@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 28411, 21 de octubre de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Instituto Nacional de Reforma Agraria - INRA a través del Programa Sectorial de Apoyo a los Derechos de los Pueblos Indígenas, se constituye en la Unidad Ejecutora del Segundo Componente “Saneamiento y Titulación de las Tierras Comunitarias de Origen” de la Segunda Fase del Programa acordado en el Convenio Gubernamental firmado entre los Gobiernos de Bolivia y del Reino de Dinamarca, y tiene previsto ejecutar su Plan Operativo Anual 2005; para lo cual, se requiere además de los recursos financieros y humanos programados, la disponibilidad de siete (7) movilidades y ocho (8) motocicletas que permitan el desplazamiento de técnicos para atender la fase previa del saneamiento, replanteos y la atención y manejo de conflictos de tierra, programados.
+* Que la obsolescencia de los escasos vehículos con los que cuenta el INRA, que en algunos casos requieren ser dados de baja, justifican la necesidad adquirir vehículos nuevos con destino al cumplimiento de las actividades programadas dentro el Segundo Componente “Saneamiento y Titulación de las Tierras Comunitarias de Origen.”
+* Que el [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, establece como política de austeridad, la racionalidad del gasto publico con toda fuente de financiamiento.
+* Que el Artículo 20 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) prohíbe la compra o alquiler de vehículos para las entidades publicas; sin embargo, por la obsolescencia de los vehículos existentes y con el objeto de efectuar las actividades programadas y comprometidas para la Gestión 2005 conforme al Programa Sectorial de Apoyo a los Derechos de los Pueblos Indígenas, es necesaria la compra de siete (7) movilidades y ocho (8) motocicletas, las que serán financiadas por el Gobierno de Dinamarca.
+* Que la atención de los conflictos de tierra y la conclusión de los procesos de saneamiento tanto en tierras altas y bajas es una de las prioridades y uno de los grandes retos del Gobierno Nacional, situación que también fue asumida con el Gobierno de Dinamarca.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 12 de octubre de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Instituto Nacional de Reforma Agraria - INRA la compra de siete (7) movilidades y ocho (8) motocicletas, financiadas por el Gobierno de Dinamarca, con destino a los trabajos programados dentro el Programa Sectorial de Apoyo a los Derechos de los Pueblos Indígenas.
+2. Esta autorización no libera al INRA de la estricta observancia de las normas y procedimientos vigentes para la adquisición de bienes y servicios para el sector público.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y Desarrollo Sostenible quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de octubre del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Carlos Melchor Díaz Villavicencio, Mario Moreno Viruéz, Jaime Eduardo Dunn Castellanos, Maria Cristina Mejía Barragán, Lourdes Ortiz Daza Ministra Interina de Salud y Deportes, Carlos Antonio Laguna Navarro, Guillermo Ribera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

@@ -1,0 +1,58 @@
+# Bolivia: Decreto Supremo Nº 3071, 1 de febrero de 2017
+
+[Decreto Supremo Nº 3071](https://www.lexivox.org//norms/BO-DS-N3071.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 10 del Artículo 316 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina como una función del Estado en la economía, entre otras, gestionar recursos económicos para la investigación, la asistencia técnica y la transferencia de tecnologías para promover actividades productivas y de industrialización.
+* Que el numeral 13 del Parágrafo I del Artículo 298 del Texto Constitucional, establece como competencia privativa del nivel central del Estado, la administración del patrimonio del Estado Plurinacional y de las entidades públicas del nivel central del Estado. Asimismo, el numeral 11 del Parágrafo II del mencionado Artículo, señala como competencias exclusivas del nivel central del Estado, las obras públicas de infraestructura de interés del nivel central del Estado.
+* Que el Parágrafo I del Artículo 3 del [Decreto Supremo Nº 29644](https://www.lexivox.org//norms/BO-DS-29644.html), de 16 de julio de 2008, dispone que la Empresa Nacional de Electricidad - ENDE en representación del Estado Boliviano, tiene como objetivo principal y rol estratégico, la participación en toda la cadena productiva de la industria eléctrica, así como en actividades de importación y exportación de electricidad en forma sostenible, con criterios de promoción del desarrollo social y económico del país, basado en la equidad y la justicia social, primacía del interés nacional, eficiencia económica y administrativa, priorizando el uso de recursos naturales renovables y energías alternativas.
+* Que a fin de agilizar los procesos de contratación de la ENDE con financiamiento externo, para la provisión de obras, bienes y servicios destinados a la ejecución de los proyectos “Parques Eólicos” de interés del nivel central del Estado, resulta necesaria la emisión del presente Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar a la Empresa Nacional de Electricidad - ENDE, la contratación de obras, bienes y servicios bajo procedimientos y condiciones específicas para la ejecución de proyectos a financiarse en el marco del Contrato de Préstamo a ser suscrito entre el Estado Plurinacional de Bolivia y el organismo danés “Danida Business Finance” - DBF.
+
+**Artículo 2°.- (Procedimiento y condiciones específicas de contratación)** 
+
+1. Se autoriza a ENDE la contratación de obras, bienes y servicios en el territorio del Estado Plurinacional de Bolivia o en el extranjero para la ejecución de los proyectos financiados por DBF.
+2. Los procedimientos, requisitos y demás condiciones de los procesos de contratación, estarán establecidos en un Reglamento específico elaborado por ENDE y aprobado mediante Resolución expresa de la Máxima Autoridad Ejecutiva - MAE, debiendo contemplar criterios de calidad, transparencia, eficiencia, publicidad y oportunidad.
+3. Las empresas a ser contratadas deberán cumplir una de las siguientes características:
+   1. Empresas danesas constituidas en Dinamarca;
+   2. Asociaciones accidentales o de cuentas en participación de empresas danesas constituidas en Dinamarca;
+   3. Asociaciones accidentales o de cuentas en participación conformadas con capital mayoritario proveniente de personas naturales o jurídicas de Dinamarca.
+        
+      Para efectos del presente Parágrafo, ENDE efectuará las consultas respectivas a las instancias y canales oficiales de comunicación correspondientes.
+4. Una vez cumplidas las condiciones establecidas en el Artículo 4 del presente Decreto Supremo, ENDE deberá:
+   1. Presentar la información de las contrataciones a la Contraloría General del Estado, de acuerdo con la normativa emitida por la misma;
+   2. Registrar las contrataciones en el Sistema de Contrataciones Estatales - SICOES, cuando el monto sea mayor a Bs20.000.- (VEINTE mil 00/100 BOLIVIANOS).
+5. Las contrataciones realizadas en el marco del presente Decreto Supremo, desde su inicio hasta su conclusión, son responsabilidad de la MAE de ENDE.
+6. El Ministerio Cabeza de Sector será responsable del seguimiento y evaluación de la ejecución de los proyectos.
+
+**Artículo 3°.- (Difusión)** Los documentos de contratación de los proyectos objeto de los procesos realizados en el marco del presente Decreto Supremo, deberán ser ampliamente difundidos a potenciales proponentes, a través de los canales oficiales correspondientes en el territorio del Estado Plurinacional de Bolivia y en el territorio de Dinamarca.
+
+**Artículo 4°.- (Cláusula de condición suspensiva)** 
+
+1. Para dar cumplimiento al presente Decreto Supremo, ENDE ejecutará el proceso de contratación hasta la firma del Contrato, incorporando al mismo, una cláusula que someta la vigencia y eficacia de dicho documento contractual al cumplimiento de las siguientes condiciones:
+   1. La suscripción del respectivo Contrato o Convenio de Crédito Externo y su aprobación mediante Ley de la Asamblea Legislativa Plurinacional;
+   2. La inscripción presupuestaria en el respectivo presupuesto de ENDE;
+   3. La presentación de la Garantía de Cumplimiento de Contrato y la Garantía Adicional de Cumplimiento de Contrato de Obra, esta última si corresponde, una vez que se cumpla las condiciones previstas en los incisos anteriores.
+2. ENDE podrá establecer otras condiciones adicionales en la cláusula mencionada en el Parágrafo anterior, conforme a la necesidad del caso y las características de los proyectos. La inclusión de estas condiciones deberá ser aprobada mediante resolución expresa, debidamente justificada, bajo responsabilidad de la MAE de ENDE.
+     
+
+   # Disposiciones adicionales
+
+**Disposición adicional única.-** El cumplimiento del presente Decreto Supremo no requerirá financiamiento adicional del Tesoro General de la Nación - TGN.
+
+---
+
+El señor Ministro de Estado en el Despacho de Energías, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de febrero del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, Fernando Huanacuni Mamani, René Martínez Callahuanca, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Mariana Prado Noya, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

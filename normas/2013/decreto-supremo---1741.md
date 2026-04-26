@@ -1,0 +1,37 @@
+# Bolivia: Decreto Supremo Nº 1741, 25 de septiembre de 2013
+
+Decreto Supremo Nº 1741
+  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 59 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que toda niña, niño y adolescente tiene derecho a vivir y a crecer en el seno de su familia de origen o adoptiva. Cuando ello no sea posible, o sea contrario a su interés superior, tendrá derecho a una familia sustituta de conformidad con la Ley.
+* Que el Artículo Único de la [Ley Nº 2314](https://www.lexivox.org//norms/BO-L-2314.html), de 24 de diciembre de 2001, aprueba el Convenio Relativo a la “Protección del Niño y a la Cooperación en Materia de Adopción Internacional”, suscrito en La Haya, el 29 de mayo de 1993.
+* Que el Artículo 87 de la [Ley Nº 2026](https://www.lexivox.org//norms/BO-L-2026.html), de 27 de octubre de 1999, Código del Niño, Niña y Adolescente, establece que para que proceda la adopción es indispensable que existan convenios entre el Estado Boliviano y el Estado de residencia de los adoptantes, ratificados por el Poder Legislativo, actual Órgano Legislativo. En dichos Convenios o en adémdum posterior, cada Estado explicitará la Autoridad Central a objeto de tramitar las adopciones internacionales y para efectos del seguimiento correspondiente. Esta Autoridad Central realizará sus actuaciones directamente o por medio de organismos debidamente acreditados en su propio Estado y en el Estado Boliviano. La información sobre esta designación, el ámbito de sus funciones, así como el nombre y dirección de los organismos acreditados y de sus representantes en Bolivia, deberán ser comunicados oficialmente al Estado Boliviano por medio de la Autoridad Central correspondiente.
+* Que el inciso a) del Artículo 83 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, dispone entre las atribuciones del Viceministerio de Igualdad de Oportunidades formular, dirigir y concertar políticas, normas, planes, programas y proyectos que promuevan la igualdad de oportunidades entre mujeres y hombre, de niños, niñas, adolescentes, juventud, personas adultas mayores y personas con discapacidad.
+* Que para dar cumplimiento al Convenio de La Haya es necesario designar a la Autoridad Central Boliviana que suscriba los acuerdos marco para la adopción internacional y que tenga a su cargo establecer los procedimientos de adopción; así como, otros mandatos relacionados con el tema.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se dispone la designación del Viceministerio de Igualdad de Oportunidades, dependiente del Ministerio de Justicia, como Autoridad Central Boliviana en materia de adopción internacional.
+
+# Disposiciones adicionales
+
+**Artículo adicional Único.-** El presente Decreto Supremo, no generará mayor erogación de recursos al Tesoro General de la Nación - TGN.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo derogatorio Único.-** Se deroga el Artículo 3 del [Decreto Supremo Nº 28023](https://www.lexivox.org//norms/BO-DS-28023.html), de 4 de marzo de 2005.
+
+---
+
+La señora Ministra de Estado en el Despacho de Justicia, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de septiembre del año dos mil trece.
+  
+Fdo. ALVARO MARCELO GARCÍA LINERA, David Choquehuanca Céspedes, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa MINISTRA DE PLANIFICACIÓN DEL DESARROLLO E INTERINA DE LA PRESIDENCIA, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola MINISTRA DE DESARROLLO RURAL Y TIERRAS E INTERINA DE ECONOMÍA Y FINANZAS PÚBLICAS, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

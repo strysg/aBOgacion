@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 24188, 18 de diciembre de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que Yacimientos Petrolíferos Fiscales Bolivianos y la empresa Santa Fe Energy Resources of Bolivia Inc. suscribieron un contrato de operación petrolera para ejecutar trabajos en el bloque Hito Villazón ubicado en los departamentos de Tarija, Chuquisaca y Santa Cruz, aprobado por [Decreto Supremo Nº 22563](https://www.lexivox.org//norms/BO-DS-22563.html) de 1 de agosto de 1990 y convertido en escritura pública, bajo el número 1 el 21 de enero de 1991;
+* Que la empresa Santa Fe Energy Resources of Bolivia Inc. efectuó dos subrogaciones, aprobadas por decretos supremos [Nº 23127](https://www.lexivox.org//norms/BO-DS-23127.html) de 4 de mayo de 1992 y [Nº 23705](https://www.lexivox.org//norms/BO-DS-23705.html) de 6 de enero de 1994, mediante escrituras públicas 41 de 27 de octubre de 1992 y 40 de 21 de abril de 1994 respectivamente, cada una del cincuenta por ciento (50 %) en favor de la empresa Texaco Exploration Bolivia Chaco Inc. quedando ésta como la única contratista y operadora del contrato de operación petrolera para el bloque Hito Villazón;
+* Que Texaco Exploration Bolivia Chaco Inc. solicitó a YPFB prórroga para comunicar su decisión de ingresar o no al cuarto año de contrato, desde el 21 de junio al 21 de septiembre de 1994, por razones de interpretación de los trabajos exploratorios realizados en los tres primeros años y búsqueda de compañías que deseen participar en el mencionado contrato de operación;
+* Que la empresa contratista solicitó nuevamente una prórroga mayor, hasta el 21 de enero de 1995, para comunicar su decisión de ingresar o no al cuarto año de contrato, por no haber podido concluir las negociaciones iniciadas con otras empresas petroleras ni definir su participación en el contrato de operación;
+* Que habiendo cumplido la empresa contratista la inversión y trabajos comprometidos hasta el tercer año de contrato, el directorio de YPFB aprobó las solicitudes efectuadas por Texaco Exploration Bolivia Chaco Inc., en reunión 33/94 de 27 de octubre de 1994 con resolución 101/94 de la misma fecha, e igualmente la Junta Directiva Estatal de YPFB homologó el referido proyecto de contrato con resolución 018/94 de 22 de diciembre de 1994, con las facultades que los decretos supremos [Nº 22102](https://www.lexivox.org//norms/BO-DS-22102.html) de 29 de diciembre de 1988 y [Nº 23694](https://www.lexivox.org//norms/BO-DS-23694.html) de 30 de diciembre de 1993 el otorgan;
+* Que los artículos 33 y 36 de la [ley de Hidrocarburos Nº 1194](https://www.lexivox.org//norms/BO-L-1194.html) de 1 de noviembre de 1990 de Hidrocarburos determinan que el periodo básico de exploración es de cuatro años y el adicional de exploración de tres años, completando un periodo total de siete años.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Homológase la resolución 101/94 de 27 de octubre de 1, 994 del directorio de Yacimientos Petrolíferos Fiscales Bolivianos que aprobó la solicitud de Texaco Exploration Bolivia Chaco Inc. de prórroga del término, hasta el 31 de enero de 1995, para comunicar a YPFB su decisión de ingresar o no al cuarto año de contrato de operación, a objeto ejecutar trabajos en el bloque Hito Villazón, ubicado en los departamentos de Tarija. Chuquisaca y Santa Cruz.
+
+**Artículo 2°.-** Se autoriza a los personeros legales de Yacimientos Petrolíferos Fiscales Bolivianos suscribir, en representación de la entidad, con los representantes legales de Texaco Exploration Bolivia Chaco Inc., el respectivo contrato con intervención del Fiscal de Materia Administrativa y demás formalidades de ley, ante la Notaría de Minas y Petróleo con sede en la ciudad de La Paz.
+
+---
+
+El señor Ministro de Estado en el despacho de Desarrollo Económico queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de diciembre de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzain, Jorge Otasevic Toledo, José G. Justiniano Sandoval. Gonzalo Afcha de la Parra, MINISTRO SUPLENTE DE HACIENDA, Freddy Teodovich Ortíz, Moisés Jarmúsz Levy, Reynaldo Peters Arzabe, MINISTRO DE TRABAJO Y SUPLENTE DE JUSTICIA. Irving Alcaráz del Castillo, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

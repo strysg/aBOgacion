@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 195, 8 de julio de 2009
+
+Decreto Supremo Nº 0195
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 29145](https://www.lexivox.org//norms/BO-DS-29145.html), de 30 de mayo de 2007, autoriza al Ministerio de Hacienda actual Ministerio de Economía y Finanzas Públicas para que en condición de Fideicomitente, suscriba un Contrato de Fideicomiso con recursos del Tesoro General de la Nación - TGN, a ser administrado por el Banco de Desarrollo Productivo S. A. M - BDP S. A. M., Banco de Segundo Piso, en calidad de Fiduciario, por un monto de hasta Bs480.000.000.- (CUATROCIENTOS OCHENTA MILLONES 00/100 BOLIVIANOS).
+* Que el [Decreto Supremo Nº 29500](https://www.lexivox.org//norms/BO-DS-29500.html), de 2 de abril de 2008, autoriza al Ministerio de Hacienda actual Ministerio de Economía y Finanzas Públicas ampliar el monto del Fideicomiso establecido en el [Decreto Supremo Nº 29145](https://www.lexivox.org//norms/BO-DS-29145.html) a fin de que se incorporen los recursos destinados a la línea de financiamiento del Fondo para la Reconstrucción, Seguridad Alimentaria y Apoyo Productivo, correspondientes a créditos a programas de financiamiento para micro y pequeños productores de alimentos y otros productivos, hasta el monto de $us100.000.000.- (CIEN MILLONES 00/100 DÓLARES ESTADOUNIDENSES).
+* Que con el objeto de dar continuidad a la política de financiamiento del desarrollo productivo en el marco del Plan Nacional de Desarrollo, y en virtud a que la totalidad de recursos asignados han sido canalizados a los sectores meta, es necesario dotar al Fideicomiso para el Desarrollo Productivo - FDP de recursos adicionales.
+* Que por lo señalado anteriormente es necesario autorizar la ampliación del monto del Fideicomiso para el Desarrollo Productivo - FDP.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Economía y Finanzas Públicas ampliar el monto del Fideicomiso para el Desarrollo Productivo - FDP establecido en el [Decreto Supremo Nº 29145](https://www.lexivox.org//norms/BO-DS-29145.html), de 30 de mayo de 2007, modificado por el [Decreto Supremo Nº 29500](https://www.lexivox.org//norms/BO-DS-29500.html), de 2 de abril de 2008.
+
+**Artículo 2°.- (Autorización)** Se autoriza al Ministerio de Economía y Finanzas Públicas ampliar el monto del Fideicomiso para el Desarrollo Productivo - FDP, en la suma de Bs348.500.000.- (TRESCIENTOS CUARENTA Y OCHO MILLONES QUINIENTOS mil 00/100 BOLIVIANOS) con recursos del Tesoro General de la Nación - TGN.
+
+**Artículo 3°.- (Modificación del contrato del fideicomiso)** Se autoriza al Ministerio de Economía y Finanzas Públicas, en calidad de Fideicomitente, modificar el contrato de constitución del Fideicomiso para el Desarrollo Productivo suscrito con el Banco de Desarrollo Productivo S. A. M.- BDP S. A. M., Banco de Segundo Piso, a fin de posibilitar la ejecución de lo dispuesto en el presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Planificación del Desarrollo y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de julio del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Velez, Walker Sixto San Miguel Rodríguez, MINISTRO DE DEFENSA E INTERINO DE JUSTICIA, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora MINISTRO DE ECONOMIA Y FINANZAS PUBLICAS E INTERINO DE DESARROLLO PRODUCTIVO Y ECONOMIA PLURAL, Oscar Coca Antezana, Walter Juvenal Delgadillo Terceros, Luis Alberto Echazú Alvarado, Calixto Chipana Callizaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Groux Canedo.

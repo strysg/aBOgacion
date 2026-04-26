@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 28674, 13 de abril de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Articulo 4 de la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006 - Ley de Organización del Poder Ejecutivo, establece las atribuciones del Ministerio de Producción y Microempresa en los incisos, b) construir una matriz productiva con capacidad de asegurar la generación de empleos estables, formular y ejecutar políticas dirigidas a promover encadenamientos productivos en todo el territorio nacional, y c) plantear y ejecutar políticas dirigidas a buscar el acceso a mercados nacionales y externos; y promoción de compras estatales para la producción artesanal e industrial de la Micro, Pequeña, Mediana y Gran empresa, tanto urbana como rural.
+* Que el Artículo 66 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006 - Reglamento a la Ley de Organización del Poder Ejecutivo, establece las funciones del Viceministerio de la Micro y Pequeña Empresa en los incisos, a) Promover y facilitar la implementación de políticas, estrategias y disposiciones reglamentarias para el fortalecimiento de la Micro y Pequeña Empresa, organizaciones económicas campesinas - OECAS, asociaciones y cooperativas productivas en el marco de un Plan Nacional de Desarrollo Productivo, y e) Diseñar programas y proyectos de desarrollo productivo para el fortalecimiento de la Micro y Pequeña Empresa Establecida, OECAS, asociaciones productivas, en el desarrollo de nuevos emprendimientos, en el marco del Plan Nacional de Desarrollo Productivo.
+* Que la transformación de granos de maíz y trigo principalmente se encuentran localizados en los centros urbanos de Tarija, lo cual dificulta y encarece el proceso de trasformación de Harina, con los consiguientes perjuicios directos a la economía de los sectores rurales.
+* Que tomando en cuenta las costumbres y tradiciones de procesamiento del grano de trigo y maíz en las zonas rurales del departamento de Tarija, que se realizaba en molinos hidráulicos artesanales, cuya fuente de energía principal la constituía las fuentes de agua superficiales, precautelando el uso sostenible de los recursos naturales.
+* Que el efecto de la recuperación de estas costumbres de procesamiento de trigo y maíz, en molinos hidráulicos artesanales, a mas de constituirse en un servicio directo de molienda accesible, también será fuente de generación de nuevos empleos, así como una atracción turística mas para las comunidades y el departamento con un efecto multiplicador en la economía rural.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES del 10 de abril de 2006, se determino aprobar el presente Decreto Supremo, a solicitud del Ministerio de Producción y Microempresa.
+* Que la producción y promoción agropecuaria no solo debe beneficiar a los molineros medianos y grandes, sino también a los productores y comunidades campesinas del departamento, para que su contribución a la generación de empleo sea importante en las zonas rurales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto promover el desarrollo de la producción artesanal a través de la restauración de los Molinos Hidráulicos Artesanales, a fin de contribuir a la consolidación de la seguridad alimentaría del Departamento de Tarija, la conservación del medio ambiente y a un trabajo sostenido, justo, con equidad, justicia social, con un efecto en el incremento de los ingresos de la población del área rural, a través de la producción, transformación y comercialización de harina de trigo y maíz.
+
+**Artículo 2°.- (Molinos hidraulicos artesanales)** El Molino Hidráulico Artesanal, es aquel que se ubica de preferencia en el fondo de una quebrada, para aprovechar la caída libre del agua de algún riachuelo próximo a la vivienda del productor campesino. En otros casos, el molino se levanta en un sitio al cual se puede conducir el agua a través de un canal artificial.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Producción y Microempresa queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de abril del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

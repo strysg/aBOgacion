@@ -1,0 +1,76 @@
+# Bolivia: Decreto Supremo Nº 601, 18 de agosto de 2010
+
+Decreto Supremo Nº 0601
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 405 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) establece que el desarrollo rural integral sustentable, es parte fundamental de las políticas económicas del Estado, que priorizará sus acciones para el fomento de todos los emprendimientos económicos comunitarios y del conjunto de los actores rurales, con énfasis en la seguridad y en la soberanía alimentaria.
+* Que el Artículo 406 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), define que el Estado garantizará el desarrollo rural integral sustentable por medio de políticas, programas y proyectos integrales de fomento a la producción agropecuaria, artesanal, forestal y al turismo, con el objetivo de obtener el mejor aprovechamiento, transformación, industrialización y comercialización de los recursos naturales renovables.
+* Que el Artículo 407 del citado Texto Constitucional define como uno de los objetivos de la política de desarrollo rural integral del Estado, garantizar la soberanía y seguridad alimentaria, priorizando la producción y el consumo de alimentos de origen agropecuario producidos en el territorio boliviano.
+* Que el Artículo 109 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, establece la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, en el que se otorga al Ministerio de Desarrollo Rural y Tierras atribuciones para promover y ejecutar planes y programas integrales de desarrollo rural.
+* Que los incisos m) y n) del Artículo 112 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), asignan al Viceministerio de Desarrollo Rural y Agropecuario, atribuciones para fortalecer las capacidades de gestión, producción, comercialización, concertación público-privada y el control social de las organizaciones sociales de productores y de la economía familiar y comunitaria; asimismo lograr el mejor aprovechamiento, transformación, industrialización y comercialización de los recursos naturales renovables, en el marco del desarrollo rural integral sustentable.
+* Que el [Decreto Supremo Nº 29231](https://www.lexivox.org//norms/BO-DS-29231.html), de 17 de agosto de 2007, autoriza al Ministerio de Hacienda actual Ministerio de Economía y Finanzas Públicas la constitución de un Fideicomiso, por un monto de hasta $us10.000.000.- (DIEZ MILLONES 00/100 DÓLARES ESTADOUNIDENSES), a ser administrado por el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF para la ejecución del Programa de Repoblamiento Ganadero Bovino, con una duración de cinco (5) años.
+* Que el [Decreto Supremo Nº 29263](https://www.lexivox.org//norms/BO-DS-29263.html), de 5 de septiembre de 2007, modifica al [Decreto Supremo Nº 29231](https://www.lexivox.org//norms/BO-DS-29231.html) y amplia a seis (6) años el Programa de Repoblamiento Ganadero Bovino, cuyo desarrollo esta a cargo del ex Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, actual Ministerio de Desarrollo Rural y Tierras.
+* Que el [Decreto Supremo Nº 29584](https://www.lexivox.org//norms/BO-DS-29584.html), de 27 de mayo de 2008, modifica el Artículo 3 del [Decreto Supremo Nº 29263](https://www.lexivox.org//norms/BO-DS-29263.html), que incorpora el Artículo 6 del [Decreto Supremo Nº 29231](https://www.lexivox.org//norms/BO-DS-29231.html) en la que se designa como ejecutor del proceso de importación y entrega de vaquillas, dentro del Programa de Repoblamiento Ganadero al ex Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente a través de la Unidad Desconcentrada EMPODERAR-PAR, instancia creada por [Decreto Supremo Nº 29315](https://www.lexivox.org//norms/BO-DS-29315.html), de 17 de octubre de 2007.
+* Que el Ministerio de Economía y Finanzas Públicas, al haber observado la falta de efectividad de la ejecución del fideicomiso para el repoblamiento ganadero, considera la necesidad del cierre del fideicomiso, para la transferencia de recursos al Ministerio de Desarrollo Rural y Tierras.
+* Que el Ministerio de Desarrollo Rural y Tierras como cabeza del sector agropecuario, requiere recursos necesarios para promover el desarrollo pecuario, mediante la implementación de un programa orientado a generar valor agregado y crecimiento del sector, para cuyo efecto requiere de transferencia de recursos y la creación del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche” a través de la promulgación de un Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto:
+
+1. Autorizar el cierre del fideicomiso del “Programa de Repoblamiento Ganadero Bovino (PRGB)” constituido mediante [Decreto Supremo Nº 29231](https://www.lexivox.org//norms/BO-DS-29231.html), de 17 de agosto de 2007.
+2. La creación del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”, a cargo del Ministerio de Desarrollo Rural y Tierras.
+3. Autorizar al Ministerio de Economía y Finanzas Públicas la transferencia de Bs69.700.000.- (SESENTA Y NUEVE MILLONES novecientos mil 00/100 BOLIVIANOS) al Ministerio de Desarrollo Rural y Tierras, para el “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”.
+
+**Artículo 2°.- (Cierre del fideicomiso)** 
+
+1. Se autoriza el cierre del Fideicomiso “Programa de Repoblamiento Ganadero Bovino (PRGB)” constituido mediante [Decreto Supremo Nº 29231](https://www.lexivox.org//norms/BO-DS-29231.html) por la suma de hasta $us10.000.000.- (DIEZ MILLONES 00/100 DÓLARES ESTADOUNIDENSES).
+2. En un plazo no mayor a los sesenta (60) días a partir de la promulgación del presente Decreto Supremo, se dispone que el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF inicie el proceso de rendición final de cuentas y cierre contable y operativo del referido Fideicomiso, en el marco del Contrato de Fideicomiso suscrito en fecha 19 de septiembre de 2007, las adendas correspondientes y procedimientos establecidos para el efecto.
+3. Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del FONDESIF, transferir al Ministerio de Desarrollo Rural y Tierras la cartera generada por el Programa de Repoblamiento Ganadero Bovino (PRGB), previo al inicio del proceso de rendición de cuentas señalado en el Parágrafo anterior.
+4. Concluido el proceso de cierre señalado en el Parágrafo I, se autoriza al Ministerio de Economía y Finanzas Públicas transferir al Ministerio de Desarrollo Rural y Tierras los activos y pasivos remanentes del Programa de Repoblamiento Ganadero Bovino (PRGB) en sujeción al [Decreto Supremo Nº 29231](https://www.lexivox.org//norms/BO-DS-29231.html).
+5. Será de responsabilidad del Ministerio de Desarrollo Rural y Tierras realizar las gestiones pertinentes para la recuperación de los créditos otorgados en el marco del [Decreto Supremo Nº 29231](https://www.lexivox.org//norms/BO-DS-29231.html).
+
+**Artículo 3°.- (Creación del Programa Nacional de Fomento al Desarrollo Pecuario de Carne y Leche)** 
+
+1. Con el objetivo de promover el desarrollo pecuario nacional, se crea el “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”, cuyos principales componentes son:
+   1. Poblamiento y repoblamiento ganadero.
+   2. Mejoramiento genético de ganado bovino.
+   3. Infraestructura productiva de apoyo a la ganadería bovina.
+   4. Asistencia técnica y capacitación.
+   5. Producción de forraje.
+2. El Ministerio de Desarrollo Rural y Tierras, será el encargado del proceso de implementación y ejecución del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”.
+
+**Artículo 4°.- (Asignación de recursos financieros para el Programa)** 
+
+1. La ejecución e implementación del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”, se financiará con recursos provenientes de la transferencia que realice el Ministerio de Economía y Finanzas Públicas por la suma de Bs69.700.000.- (SESENTA Y NUEVE MILLONES novecientos mil 00/100 BOLIVIANOS) más los activos, pasivos y cartera establecidos en los Parágrafos III y IV del Artículo 2 del presente Decreto Supremo.
+2. Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del Tesoro General de la Nación, transferir lo establecido en el Parágrafo precedente al Ministerio de Desarrollo Rural y Tierras. A solicitud del Ministerio de Desarrollo Rural y Tierras, los recursos serán desembolsados en función al plan de implementación y cronograma de desembolsos del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”.
+3. Del total de los recursos asignados al “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”, se dispondrán para costos operativos hasta un máximo del siete por ciento (7%), a ser desembolsados de acuerdo al plan de implementación y cronograma de desembolsos del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”.
+
+**Artículo 5°.- (Traspasos y registros)** Se autoriza a los Ministerios de Economía y Finanzas Públicas, de Desarrollo Rural y Tierras, y de Planificación del Desarrollo, efectuar los traspasos presupuestarios, los ajustes contables y registros correspondientes, en el ámbito de sus competencias, para el cumplimiento del presente Decreto Supremo.
+
+# Disposiciones adicionales
+
+**Artículo adicional 1°.-** En un plazo no mayor a los treinta (30) días, el Ministerio de Desarrollo Rural y Tierras, mediante Resolución Ministerial, reglamentará el funcionamiento y aprobará el plan de implementación y cronograma de desembolsos del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche” y otros emprendimientos de desarrollo en el marco del presente Decreto Supremo.
+
+**Artículo adicional 2°.-** El FONDESIF en el plazo máximo de ciento veinte (120) días calendario a partir de la publicación del presente Decreto Supremo, deberá presentar el Informe Final y los resultados de la Auditoria Externa, que se señalan en el Artículo 2 del presente Decreto Supremo.
+  
+
+# Disposiciones abrogatorias y derogatorias
+
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de agosto del año dos mil diez.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz MINISTRO DE GOBIERNO E INTERINO DE DEFENSA, Elizabeth Arismendi Chumacero, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Luís Fernando Vincenti Vargas, Antonia Rodríguez Medrano, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Carmen Trujillo Cárdenas, Nila Heredia Miranda, María Esther Udaeta Velásquez, Roberto Iván Aguilar Gómez, Nemecia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Zulma Yugar Párraga.

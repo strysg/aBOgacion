@@ -1,0 +1,69 @@
+# Bolivia: Decreto Supremo Nº 498, 1 de mayo de 2010
+
+Decreto Supremo Nº 0498
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 49 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que la Ley regulará entre otros derechos sociales, los salarios mínimos generales, sectoriales e incrementos salariales.
+* Que el Artículo 251 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que la Policía Boliviana como fuerza pública, tiene como misión específica la defensa de la sociedad y la conservación del orden público, así como el cumplimiento de las leyes en todo el territorio boliviano.
+* Que es prioridad del Gobierno, la atención de la salud y educación, para lo cual es necesario preservar y mejorar los ingresos de los trabajadores del sector salud y del magisterio fiscal, a través de un incremento salarial dentro de las condiciones de austeridad y posibilidades de financiamiento del Tesoro General de la Nación.
+* Que las Fuerzas Armadas del Estado tienen por misión fundamental, defender y conservar la independencia, seguridad y estabilidad del Estado, su honor y soberanía; así como participar en el desarrollo integral del país.
+* Que el Artículo 251 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) determina que la Policía Boliviana, como fuerza pública, tiene la misión específica de la defensa de la sociedad y la conservación del orden público, y el cumplimiento de las leyes en todo el territorio boliviano. Ejercerá la función policial de manera integral, indivisible y bajo mando único, en conformidad con la Ley Orgánica de la Policía Boliviana y las demás leyes del Estado.
+* Que por las atribuciones que cumplen las Fuerzas Armadas del Estado y la Policía Boliviana, debe brindarse a dichos sectores el incentivo necesario para optimizar el cumplimiento eficiente de sus actividades, por lo que es pertinente mejorar los ingresos de sus miembros con la aplicación de un incremento salarial dentro de las posibilidades de financiamiento del Tesoro General de la Nación.
+* Que el Artículo 19 del Presupuesto General del Estado - Gestión 2010, aprobado por expresa disposición del numeral 11 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que el incremento salarial que disponga el Órgano Ejecutivo, sumado al sueldo básico de los servidores públicos, no debe ser igual ni superior a la remuneración básica mensual percibida por el Presidente del Estado Plurinacional, debiéndose establecer acciones administrativas necesarias que permitan cumplir lo mencionado.
+* Que el Artículo 30 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, dispone que una vez aprobado por Decreto Supremo el incremento salarial para el Sector Público, se autoriza al Ministerio de Hacienda, actual Ministerio de Economía y Finanzas Públicas, realizar las modificaciones presupuestarias de todos los grupos de gasto, al grupo 10000 “Servicios Personales”, incorporar en el presupuesto y realizar su ejecución presupuestaria sin contravenir el Artículo 6 de la referida Ley.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer el Incremento Salarial para la gestión 2010, con retroactividad al 1 de enero de 2010, para los Trabajadores en Salud; Personal docente y administrativo del Magisterio Fiscal; miembros de la Policía Boliviana; Fuerzas Armadas del Estado y Sector Privado.
+
+**Artículo 2°.- (Incremento salarial para trabajadores en salud)** 
+
+1. Se establece el Incremento Salarial del cinco por ciento (5%) a la remuneración básica para el sector salud, cuyo alcance comprende a los profesionales y trabajadores que cumplen funciones en los Centros de Atención Médica en Salud bajo dependencia de los Servicios Departamentales de Salud, el Instituto Nacional de Laboratorios en Salud - INLASA, las Escuelas de Salud, el Instituto Nacional de Salud Ocupacional - INSO y profesionales médicos que participan en Programas Nacionales administrados por el Ministerio de Salud y Deportes en la atención médica.
+2. El Incremento Salarial en las Cajas de Salud y entidades de la Seguridad Social del sector salud comprendidas en el Presupuesto General del Estado - Gestión 2010, cuyas remuneraciones se financian con recursos específicos, podrán incrementarse hasta un cinco por ciento (5%), sujeto a disponibilidad financiera y previo estudio de sostenibilidad presentado por las entidades beneficiarias.
+
+**Artículo 3°.- (Incremento salarial para personal docente y administrativo del Magisterio Fiscal)** 
+
+1. Se establece el Incremento Salarial del cinco por ciento (5%) a la remuneración básica del personal docente y administrativo de las Unidades Educativas, Pedagógica Mariscal Sucre, Escuelas Superiores de Formación de Maestros, e Institutos Técnicos y Comerciales sujetos a Reglamento del Escalafón del Magisterio Fiscal Nacional.
+2. El Incremento Salarial 2010, para los sectores mencionados en el Parágrafo anterior debe aplicarse a las remuneraciones básicas aprobadas en la gestión 2009.
+
+**Artículo 4°.- (Incremento salarial en la Policia Boliviana y Fuerzas Armadas del Estado)** Se establece el Incremento Salarial del tres por ciento (3%) a la remuneración básica de los miembros de la Policía Boliviana y de las Fuerzas Armadas del Estado. Se exceptúa de la presente disposición a las servidoras y servidores públicos administrativos dependientes del Ministerio de Defensa.
+
+**Artículo 5°.- (Aplicación del incremento salarial a la remuneración básica)** El Incremento Salarial establecido en los Artículos 2,3 y 4 del presente Decreto Supremo, deberá adecuarse a lo dispuesto en los Artículos 19 y 20 del Presupuesto General del Estado - Gestión 2010.
+
+**Artículo 6°.- (Financiamiento del incremento salarial)** 
+
+1. El costo por el Incremento Salarial de los trabajadores en Salud; Personal docente y administrativo del Magisterio Fiscal; Policía Boliviana y Fuerzas Armadas del Estado, así como su incidencia en la previsión social y otras partidas del gasto en remuneraciones, será cubierto con recursos del Tesoro General de la Nación.
+2. El incremento para los Batallones de Seguridad Física dependientes de la Policía Boliviana, deberá ser financiada con recursos generados por su actividad o servicios prestados.
+3. Las Cajas de Salud y entidades de la Seguridad Social del sector salud, deben financiar el incremento con recursos específicos generados por sus servicios.
+
+**Artículo 7°.- (Responsabilidad)** La determinación y aplicación del Incremento Salarial establecido en los Artículos 2,3 y 4 de la presente disposición normativa, es responsabilidad de la Máxima Autoridad Ejecutiva de cada entidad, a cuyo efecto deben emitir la correspondiente Resolución de aprobación.
+
+**Artículo 8°.- (Plazo para aprobación de escala salarial con incremento)** En el plazo de sesenta (60) días calendario computables desde la publicación de la presente norma, las entidades beneficiarias del Incremento Salarial, deben remitir al Ministerio de Economía y Finanzas Públicas, la información de respaldo para su correspondiente aprobación.
+
+**Artículo 9°.- (Prohibición de suscribir acuerdos)** Se prohíbe a los ejecutivos de las entidades públicas o autoridades que los representen, suscribir convenios en materia salarial que comprometan recursos públicos, al margen de lo dispuesto por el presente Decreto Supremo.
+
+**Artículo 10°.- (Base del incremento salarial en el sector PRIVADO)** 
+
+1. Para la gestión 2010, el Incremento Salarial en el sector privado será convenido entre los sectores patronal y laboral, sobre la base de un incremento del cinco por ciento (5%) a la remuneración básica.
+2. El incremento es de carácter retroactivo con vigencia al 1 de enero de la presente gestión, su aplicación estará sujeta a la reglamentación emitida por el Ministerio de Trabajo, Empleo y Previsión Social.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Cochabamba, al primer día del mes de mayo del año dos mil diez.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elizabeth Arismendi Chumacero, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, Luís Fernando Vincenti Vargas, Antonia Rodríguez Medrano, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Carmen Trujillo Cárdenas, Sonia Polo Andrade, María Esther Udaeta Velásquez MINISTRA DE MEDIO AMBIENTE Y AGUA E INTERINA DE AUTONOMIA, Roberto Iván Aguilar Gómez, Nemecia Achacollo Tola, Nardy Suxo Iturry, Zulma Yugar Párraga.

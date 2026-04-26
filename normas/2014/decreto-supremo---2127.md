@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 2127, 25 de septiembre de 2014
+
+[Decreto Supremo Nº 2127](https://www.lexivox.org//norms/BO-DS-N2127.html)  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Artículo 407 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina como uno de los objetivos de la política de desarrollo rural integral del Estado, en coordinación con las entidades territoriales autónomas y descentralizadas, garantizar la soberanía y seguridad alimentaria, priorizando la producción y el consumo de alimentos de origen agropecuario producidos en el territorio boliviano.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, establece que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Artículo 2 del [Decreto Supremo Nº 1858](https://www.lexivox.org//norms/BO-DS-N1858.html), de 8 de enero de 2014, crea la Institución Pública Desconcentrada “SOBERANÍA ALIMENTARIA” para la gestión, implementación y ejecución de programas y proyectos de soberanía y seguridad alimentaria, priorizando a los pequeños y medianos productores, así como la agricultura familiar y comunitaria.
+* Que el inciso a) del Artículo 4 del [Decreto Supremo Nº 1858](https://www.lexivox.org//norms/BO-DS-N1858.html), dispone que la Institución Pública Desconcentrada “SOBERANÍA ALIMENTARIA”, cumplirá entre otras las siguientes funciones: administrar programas y proyectos en ejecución y administrados por la Unidad Desconcentrada Programa de Apoyo a la Seguridad Alimentaria - UD-PASA, aquellos definidos por el Ministerio de Desarrollo Rural y Tierras y los establecidos por la [Ley Nº 448](https://www.lexivox.org//norms/BO-L-N448.html), de 4 de diciembre de 2013, excepto el Programa Nacional de Pesca.
+* Que el Artículo 14 de la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), de 11 de diciembre de 2012, vigente por la disposición del inciso j) de la Disposición Final Segunda de la [Ley Nº 455](https://www.lexivox.org//norms/BO-L-N455.html), de 11 de diciembre de 2013, del Presupuesto General del Estado - Gestión 2014, autoriza al Ministerio de Economía y Finanzas Públicas, y al Viceministerio de Inversión Pública y Financiamiento Externo, dependiente del Ministerio de Planificación del Desarrollo, en el marco de sus competencias, inscribir y/o incrementar el gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables”, y Subgrupo 46000 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos, los cuales no ameritarán la emisión de Decreto Supremo. Para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional, deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Artículo 19 del [Decreto Supremo Nº 1861](https://www.lexivox.org//norms/BO-DS-N1861.html), de 8 de enero de 2014, que reglamenta la aplicación de la [Ley Nº 455](https://www.lexivox.org//norms/BO-L-N455.html), señala que la definición de las remuneraciones de los consultores individuales de línea, debe estar establecida en función a la escala salarial; para lo cual, las Unidades Administrativas de cada entidad, elaborarán el cuadro de equivalencia de funciones que será avalado por la Unidad Jurídica y la Máxima Autoridad Ejecutiva - MAE de la entidad, a través de una Resolución Expresa.
+* Que la Institución Pública Desconcentrada “SOBERANÍA ALIMENTARIA”, requiere la contratación de Consultores Individuales de Línea, con el fin de ejecutar de manera efectiva el proyecto “Implementación ganado bovino comunidades del TIPNIS”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Desarrollo Rural y Tierras, incrementar la subpartida 25820 “Consultores Individuales de Línea”, en Bs103.125.- (CIENTO TRES mil CIENTO VEINTICINCO 00/100 BOLIVIANOS) con fuente 10 “Tesoro General de la Nación.” y organismo financiador 111 “Tesoro General de la Nación”, a través de un traspaso presupuestario intrainstitucional, afectando la subpartida 34600 “Productos Metálicos” en el mismo monto, para la ejecución del proyecto “Implementación ganado bovino comunidades del TIPNIS”, a ser ejecutado por la Institución Pública Desconcentrada “SOBERANIA ALIMENTARIA”.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Desarrollo Rural y Tierras, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la Ciudad de La Paz, a los vienticuatro días del mes de septiembre del año dos mil catorce.
+  
+Fdo. ALVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Jorge Pérez Valenzuela MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco MINISTRO DE HIDROCARBUROS Y ENERGIA E INTERINO DE MEDIO AMBIENTE Y AGUA, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutiérrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

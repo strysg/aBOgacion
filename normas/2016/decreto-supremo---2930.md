@@ -1,0 +1,40 @@
+# Bolivia: Decreto Supremo Nº 2930, 5 de octubre de 2016
+
+[Decreto Supremo Nº 2930](https://www.lexivox.org//norms/BO-DS-N2930.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 21 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el nivel central del Estado tiene la competencia exclusiva, entre otras de la sanidad e innociudad agropecuaria.
+* Que el Parágrafo I del Artículo 318 del Texto Constitucional, establece que el Estado determinará una política productiva industrial y comercial que garantice una oferta de bienes y servicios suficientes para cubrir de forma adecuada las necesidades básicas internas, y para fortalecer la capacidad exportadora.
+* Que el inciso i) del Artículo 109 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, señala como atribución de la Ministra(o) de Desarrollo Rural y Tierras, la de apoyar al sector empresarial agropecuario y a los pequeños y medianos productores, así como al sector comunitario, en sus iniciativas económicas orientadas al mercado interno y a la exportación.
+* Que con el propósito de incentivar la producción agrícola nacional y posterior fomento a la exportación de la producción nacional agropecuaria, de subproductos y alimentos, se ve la necesidad de emitir una disposición normativa que autorice el pago de pasajes y viáticos a favor de representantes de gobiernos extranjeros y/o organismos internacionales, que lleguen al país a objeto de coordinar y verificar la condición sanitaria y fitosanitaria de los mismos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** Autorizar al Ministerio de Desarrollo Rural y Tierras cubrir el pago de pasajes y viáticos de representantes de gobiernos extranjeros y/o organismos internacionales que lleguen al país para coordinar y verificar la condición sanitaria y fitosanitaria de la producción nacional para su exportación.
+
+**Artículo 2°.- (Autorización)** 
+
+1. Se autoriza al Ministerio de Desarrollo Rural y Tierras cubrir el pago de pasajes y viáticos de representantes de gobiernos extranjeros y/o organismos internacionales que lleguen al país solo y exclusivamente a objeto de coordinar y verificar la condición sanitaria y fitosanitaria de la producción nacional agropecuaria, de subproductos y alimentos orientados a la exportación.
+2. El Ministerio de Desarrollo Rural y Tierras autorizará mediante Resolución Ministerial, la asignación de pasajes y viáticos a favor de los representantes de gobiernos extranjeros y/o organismos internacionales, por el tiempo que dure la comisión, incluidos fines de semana y feriados si corresponde.
+
+**Artículo 3°.- (Asignación de pasajes y viáticos)** 
+
+1. Para el cumplimiento del Parágrafo I del Artículo precedente, se autoriza al Ministerio de Desarrollo Rural y Tierras asignar:
+   1. Pasajes aéreos en clase económica, en rutas nacionales e internacionales;
+   2. Viáticos por la suma de Bs1.300.- (UN mil TRESCIENTOS 00/100 BOLIVIANOS) por día, independientemente del país de origen del representante.
+2. El Ministerio de Desarrollo Rural y Tierras realizará las retenciones establecidas en la normativa tributaria vigente.
+3. El procedimiento y demás condiciones de la asignación de pasajes y viáticos, serán reglamentadas por el Ministerio de Desarrollo Rural y Tierras y aprobado mediante Resolución Ministerial.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Desarrollo Rural y Tierras, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cinco días del mes de octubre del año dos mil dieciséis .
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano MINISTRO DE DEFENSA E INTERINO DE AUTONOMIAS, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE HIDROCARBUROS Y ENERGÍA, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

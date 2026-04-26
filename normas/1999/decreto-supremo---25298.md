@@ -1,0 +1,55 @@
+# Bolivia: Decreto Supremo Nº 25298, 10 de febrero de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de Organización del Poder Ejecutivo, en su artículo 18 establece que la planificación, construcción, mantenimiento y administración de las carreteras de carácter nacional es competencia del Servicio Nacional de Caminos, debiendo el Poder Ejecutivo clasificar, mediante decreto supremo, el carácter nacional, departamental y municipal de las vías camineras;
+* Que mediante [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html) el Poder Ejecutivo ha reglamentado el carácter nacional, departamental y municipal de las vías camineras, estableciendo en el artículo 15, cuarto párrafo, que a partir de su promulgación el pasivo emergente del financiamiento para estudios, obras de construcción, mejoramiento o mantenimiento de las carreteras de la red fundamental, a excepción de lo establecido en el segundo parágrafo del citado artículo, será pagado por el Tesoro General de la Nación;
+* Que el citado artículo en su segundo párrafo determina que los pasivos asumidos por las Prefecturas de Departamento, para el estudio, la construcción, mejoramiento o mantenimiento de carreteras de la red fundamental, desde el 1 de enero de 1996 hasta la fecha de promulgación del indicado decreto, serán de responsabilidad de las respectivas Prefecturas;
+* Que igualmente el quinto parágrafo del referido artículo establece, que el aporte local comprometido en cada financiamiento será pagado por la Prefectura del Departamento correspondiente;
+* Que el artículo 30 del [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html) ha derogado el [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html), en todo cuanto dispone para las obras viales camineras, por el que se constituía una Línea para el Cofinanciamiento de Inversiones de Infraestructura de Transporte, mediante la asignación de los recursos ($us.39.991.196) provenientes de la privatización del sistema de transmisión eléctrica de la Empresa Nacional de Electricidad (ENDE);
+* Que al presente existen varias obras de infraestructura caminera que cuentan con financiamiento externo y/o interno, cuyo aporte local estaba, en parte o en todo, siendo cubierto por la Línea para el Cofinanciamiento de Inversiones de Infraestructura de Transportes constituida a través del [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html);
+* Que a la fecha de derogación de todo cuanto se disponía para infraestructura vial del [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html), que constituyó la Línea para el Cofinanciamiento de Inversiones de Infraestructura de Transportes, existen saldos no desembolsados por el Fondo Nacional de Desarrollo Regional;
+* Que las obras de infraestructura caminera cuya contraparte local estaba siendo cubierta, total o parcialmente, por la Línea para el Cofinanciamiento de Inversiones de Infraestructura de Transportes, podrían quedar paralizadas o postergadas;
+* Que es necesario determinar el destino de los recursos no desembolsados de la Línea para el Cofinanciamiento de Inversiones de Infraestructura de Transportes, en lo que se refiere a obras viales camineras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se crea un Fondo Vial destinado al financiamiento de los aportes locales de proyectos de infraestructura vial de la Red Fundamental de Carreteras que cuenten con financiamiento externo. El Fondo Vial estará constituido con: i) los recursos de la Línea para el Cofinanciamiento de Inversiones de Infraestructura de Transportes, creado por el [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html), provenientes de la privatización del sistema de Transmisión Eléctrica de ENDE, que no hubiesen sido desembolsados, hasta la fecha de promulgación del [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html), en lo que se refiere a obras viales camineras; ii) las recuperaciones de las operaciones de crédito que se hubiesen realizado con dichos recursos, durante la vigencia del [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html); y iii) con las recuperaciones futuras, de las operaciones que con carácter de crédito se realicen con los recursos del Fondo Vial.
+
+**Artículo 2°.-** Desígnase al Fondo Nacional de Desarrollo Regional (FNDR), administrador del Fondo Vial. Las operaciones a ser realizadas con recursos del Fondo Vial estarán sujetas a un reglamento operativo específico.
+
+**Artículo 3°.-** El FNDR pondrá a disposición de las Prefecturas de Departamento correspondientes, los recursos del Fondo Vial, para cubrir el aporte local de los siguientes proyectos: i) Sunchu Tambo-Puente Sacramento; ii) Challapata - Ventilla; iii) Cuchu Ingenio - Potosí; iv) Yamparáez - Tarabuco; v) Casarabe - Puente San Pablo; vi) Puente San Pablo - Ascensión de Guarayos; vii) Oruro -Toledo y viii) Estudio Potosí - Tarija; de acuerdo a contratos a ser suscritos entre el FNDR y la Prefectura solicitante, aplicando las condiciones establecidas en el Reglamento Operativo de utilización de los recursos de este Fondo.
+
+**Artículo 4°.-** El Fondo Nacional de Desarrollo Regional, el Servicio Nacional de Caminos y el Viceministerio del Tesoro y Crédito Público, formalizarán la conciliación de cuentas efectuada para determinar los montos desembolsados por el FNDR en favor de las Prefecturas de Departamento, para los proyectos referidos en el artículo 3 de la presente disposición legal, hasta la fecha de promulgación del [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html).
+  
+Adicionalmente, el FNDR deberá elevar al Ministerio de Hacienda un informe contemplando las operaciones efectuadas con los recursos de la Línea de Cofinanciamiento de Infraestructura de Transporte y las recuperaciones efectuadas de los fondos otorgados con carácter reembolsable, hasta la fecha de promulgación del [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html), respaldado por los respectivos estados financieros.
+
+**Artículo 5°.-** Debido a que por las disposiciones establecidas en el [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html), las Prefecturas de los Departamentos de Potosí, Chuquisaca y Tarija, deberían asumir un pasivo mayor al que fue establecido en la estructura de financiamiento del [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html), en los proyectos “Potosí- Kuchu Ingenio”, “Yamparéz-Tarabuco” y en el estudio “Potosí-Tarija”, con carácter excepcional y único, se establece que el monto excedente respecto al originalmente reembolsable según el [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html), será otorgado con carácter no reembolsable por el FNDR, con cargo a los recursos del Fondo Vial, previa conformidad escrita del Ministerio de Hacienda.
+
+**Artículo 6°.-** Si alguna Prefectura de Departamento desestimase la utilización de los recursos del Fondo Vial para cubrir la contraparte local correspondiente a los proyectos citados en el artículo 3 de la presente disposición legal; o si en el análisis y evaluación financiera se determina que la Prefectura no tiene capacidad de endeudamiento, estos recursos podrán ser asignados por el FNDR a otra Prefectura, para los propósitos estipulados en el artículo 1 del presente decreto supremo.
+
+**Artículo 7°.-** Las situaciones contempladas en el artículo 6 de la presente disposición legal, no eximen a las Prefecturas de Departamento de la obligatoriedad de cubrir el aporte local, en conformidad a lo estipulado en el artículo 15 del [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html); en consecuencia, en caso de incumplimiento de dichos aportes, el Ministerio de Hacienda procederá de acuerdo a lo establecido en el artículo 16 del [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html).
+
+**Artículo 8°.-** No necesaria ni obligatoriamente el monto consignado como aporte local con los recursos provenientes del Fondo Vial, equivale al ciento por ciento o a la totalidad de los recursos de contraparte o aporte local que se precisan en un proyecto de infraestructura vial específico. Si los recursos del Fondo Vial no son suficientes para cubrir el aporte local, la Prefectura de Departamento correspondiente, podrá financiar el déficit con cualquiera de los recursos establecidos en el artículo 15 del [Decreto Supremo Nº 25134](https://www.lexivox.org//norms/BO-DS-25134.html).
+
+**Artículo 9°.-** Se deberá contemplar en el Presupuesto General de la Nación correspondiente a cada gestión, las transferencias que con recursos del Fondo Vial, deban efectuar las Prefecturas al Servicio Nacional de Caminos.
+
+**Artículo 10°.-** Dentro del plazo de 15 (quince) días, a partir de la dictación del presente decreto supremo, se aprobará el Reglamento Operativo del Fondo Vial, a propuesta del Fondo Nacional de Desarrollo Regional, por el Ministerio de Hacienda debiendo ajustarse el Convenio de Transferencia de Recursos suscrito entre el Ministerio de Hacienda y el Fondo Nacional de Desarrollo Regional, el 4 de agosto de 1997, a las nuevas condiciones.
+
+**Artículo 11°.-** Los contratos de financiamiento suscritos entre el Fondo Nacional de Desarrollo Regional, el Servicio Nacional de Caminos y las Prefecturas de Departamento beneficiarias de los recursos otorgados en el [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html), deberán ser modificados y nuevamente suscritos en los términos del Reglamento Operativo a ser aprobado.
+
+**Artículo 12°.- (Derogaciones)** Se deroga el segundo párrafo del artículo 5 del [Decreto Supremo Nº 24732](https://www.lexivox.org//norms/BO-DS-24732.html) de 30 de julio de 1997.
+
+---
+
+Los señores Ministros de Estado en los Despachos de la Presidencia, Hacienda y de Desarrollo Económico, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de febrero de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada, Fernando Kieffer Guzmán, Herbert Müller Costas, Ana María Cortéz de Soriano, Jorge Pacheco Franco, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Leopoldo López Cossio, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Amparo Ballivián Valdés.

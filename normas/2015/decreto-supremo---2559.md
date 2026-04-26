@@ -1,0 +1,48 @@
+# Bolivia: Decreto Supremo Nº 2559, 21 de octubre de 2015
+
+[Decreto Supremo Nº 2559](https://www.lexivox.org//norms/BO-DS-N2559.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que los Parágrafos I y II del Artículo 45 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establecen que todas las bolivianas y los bolivianos tienen derecho a acceder a la seguridad social que se presta bajo los principios de universalidad, integralidad, equidad, solidaridad, unidad de gestión, economía, oportunidad, interculturalidad y eficacia. Su dirección y administración corresponde al Estado, con control y participación social.
+* Que el [Decreto Supremo Nº 25289](https://www.lexivox.org//norms/BO-DS-25289.html), de 30 de enero de 1999, autoriza a la Caja de Salud de la Banca Privada, suscribir un Convenio con el Delegado Presidencial de la ciudad de El Alto, para otorgar un Seguro Gratuito de Enfermedad Común y Maternidad para menores de diecinueve (19) años.
+* Que el [Decreto Supremo Nº 0600](https://www.lexivox.org//norms/BO-DS-N600.html), de 18 de Agosto de 2010, autoriza a la Caja de Salud de la Banca Privada - CSBP, firmar la renovación del Convenio del Seguro Gratuito de Enfermedad Común y Maternidad para menores de diecinueve (19) años en la ciudad de El Alto, establecer su alcance, duración y supervisión.
+* Que es necesaria la aprobación de un Decreto Supremo que autorice la renovación del Convenio del Seguro Gratuito de Enfermedad Común y Maternidad para menores de diecinueve (19) años en la ciudad de El Alto, por un período de cinco (5) años a fin de dar continuidad a las prestaciones de salud gratuitas dirigida a este grupo de población vulnerable y de escasos recursos económicos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar a la Caja de Salud de la Banca Privada - CSBP, suscribir la renovación del Convenio del Seguro Gratuito de Enfermedad Común y Maternidad para menores de diecinueve (19) años en la ciudad de El Alto, así como establecer su duración y supervisión.
+
+**Artículo 2°.- (Autorización y contenido del Convenio)** 
+
+1. Se autoriza a la CSBP, suscribir la renovación del Convenio del Seguro Gratuito de Enfermedad Común y Maternidad para menores de diecinueve (19) años en la ciudad de El Alto, con los representantes de Centros de Salud de la Diócesis de El Alto, previa conformidad del Ministerio de Salud.
+2. El contenido del nuevo Convenio será establecido sobre la base del Convenio de 26 de julio de 2007, debiendo contar con la aprobación del Ministerio de Salud, para su posterior suscripción.
+
+**Artículo 3°.- (Duración del Convenio)** 
+
+1. La vigencia del Convenio será por el lapso de cinco (5) años, a partir de su suscripción.
+2. El plazo podrá ser ampliado por otro período similar, previa autorización efectuada mediante Decreto Supremo.
+
+**Artículo 4°.- (Supervisión)** 
+
+1. El Instituto Nacional de Seguros de Salud - INASES, queda encargado de supervisar la prestación de Servicios de Salud otorgado por la CSBP, en el marco del Convenio.
+2. El INASES, fiscalizará el uso de los recursos destinados a las prestaciones que brinda este seguro, a cuyo efecto la CSBP brindará la información que el sea requerida.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+La señora Ministra de Estado en el Despacho de Salud, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Municipio de Tiwanaku, a los veintiún días del mes de octubre del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCIÓN, Reymi Luis Ferreira Justiniano MINISTRO DE DEFENSA E INTERINO DE AUTONOMÍAS, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sánchez Fernandez, Ana Verónica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori MINISTRA DE JUSTICIA E INTERINA DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

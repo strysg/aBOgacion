@@ -1,0 +1,181 @@
+# Bolivia: Reglamento del Impuesto al Valor Agregado, DS Nº 21530R1, 29 de junio de 1995
+
+# OBJETO
+
+CONSIDERANDO:
+
+* Que la ley 843 de 20 de mayo de 1986 ha creado, en su título I el impuesto al valor agregado (IVA).
+* Que es necesario dictar para su aplicación las correspondientes normas reglamentarias.
+
+EN CONSEJO DE MINISTROS,
+
+**Artículo 1°.-** Las operaciones de reaseguro y coaseguro no están incluidas en el objeto del impuesto definido en el inciso b) del Artículo 1° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), por tratarse de participaciones del seguro principal sujetas al gravamen.
+  
+Con referencia al mismo inciso b) del Artículo 1° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), se entiende también por contratos de obra los celebrados verbalmente o por escrito, cualquiera sea la designación que se les dé y que impliquen la construcción, adecuación, mejoras, reparaciones, ampliaciones, transformaciones, adiciones e instalaciones, realizadas sobre bienes propios y ajenos.
+  
+El gravamen que corresponde por las importaciones definitivas a que se refiere el Artículo 1° inciso c) de la Ley, debe ser pagado por el importador en el momento del despacho aduanero, ya sea que se encuentre o no inscrito a efectos del Impuesto al Valor Agregado.
+
+**Artículo 2°.-** A los fines de lo dispuesto por el último párrafo del Artículo 2º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995);
+
+1. Se entiende por reorganización de empresas:
+   1. La fusión de empresas preexistentes a través de una tercera que se forme o por absorción de una de ellas. A estos fines, se entiende por fusión cuando dos o más sociedades se disuelven, sin liquidarse, para constituir una nueva o cuando una ya existente incorpora a otra u otras que, sin liquidarse, son disueltas.
+   2. La escisión o división de una empresa en otra u otras que continúen o no las operaciones de la primera. A estos fines, se entiende por escisión o división cuando una sociedad destina parte de su patrimonio a una sociedad existente, o participa con ella en la creación de una nueva sociedad, o cuando destina parte de su patrimonio para crear una nueva sociedad, o cuando se fracciona en nuevas empresas jurídica y económicamente independientes.
+   3. La transformación de una empresa preexistente en otra adoptando cualquier otro tipo de sociedad prevista en las normas legales vigentes.
+2. A los fines de este impuesto, se entiende por aportes de capital cualquier aporte en especie realizado por personas naturales o jurídicas a sociedades nuevas o existentes. En estos casos, al igual que en los del anterior inciso A), los créditos fiscales o saldos a favor que pudiera tener la o las empresas antecesoras serán trasladados a la o las empresas sucesoras en proporción al patrimonio neto transferido, con relación al patrimonio neto total de la antecesora.
+     
+
+   # SUJETOS
+
+**Artículo 3°.-** Son sujetos pasivos de este impuesto, de acuerdo a lo establecido en el Artículo 3º de la Ley, las personas individuales o colectivas, ya sean de derecho público o privado que realicen las actividades señaladas en los incisos c) y e) del mencionado Artículo 3º. También son sujetos del impuesto, quienes realicen en forma habitual las actividades señaladas en los incisos a), b) o d) del mismo Artículo 3º.
+  
+A los fines de lo dispuesto en el Artículo 3º, inciso f) de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), se entiende por arrendamiento financiero el contrato verbal o escrito mediante el cual una persona natural o jurídica (arrendador) traspasa a otra (arrendatario) el derecho de usar un bien físico por un tiempo determinado a cambio de un canon de arrendamiento y que al vencimiento del contrato, una vez cumplidos todos los pagos por parte del arrendatario al arrendador, el arrendatario tiene la opción de: i) comprar el bien con el pago del valor residual del bien pactado en el contrato de arrendamiento con opción de compra; ii) renovar el contrato de arrendamiento; o iii) devolver el bien al arrendador. La base imponible del impuesto está conformada por el valor total de cada cuota, incluido el costo financiero incorporado en dicha cuota. En caso de ejercerse la opción de compra, dicha operación recibirá el tratamiento común de las operaciones de compra-venta sobre la base del valor residual del bien pactado en el respectivo contrato.
+
+# NACIMIENTO DEL HECHO IMPONIBLE
+
+**Artículo 4°.-** A los fines de lo dispuesto en el Artículo 4º inciso b) de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), cuando las empresas constructoras para la ejecución de sus obras requieran el financiamiento por parte de los contratantes, sean éstos personas naturales, jurídicas, privadas o públicas o cuando los adquirentes, sean éstos personas naturales, jurídicas, privadas o públicas, son propietarios del terreno o fracción ideal del mismo, debe existir necesariamente un contrato de obra o de prestación de servicios de construcción y el contratista deberá obligatoriamente emitir la respectiva factura, nota fiscal o documento equivalente por la percepción total o por el monto del pago de cada cuota del precio establecido en el contrato, según el avance de la obra. En los contratos de obras públicas, cuando éstas se paguen mediante títulos valores negociables, la obligación de emitir factura, nota fiscal o documento equivalente se perfecciona en el momento en que el ente contratante haga efectivos dichos títulos.
+  
+Por su parte, en los casos de servicios que se contrapresten mediante pagos parciales del precio, la obligación de emitir factura, nota fiscal o documento equivalente surge en el momento de la percepción de cada pago.
+  
+En los casos indicados en los párrafos precedentes, el hecho imponible nace en el momento de la emisión de la respectiva factura, nota fiscal o documento equivalente, o en el de la entrega definitiva de la obra o prestación efectiva del servicio, lo que ocurra primero; en este último supuesto, la obligación de emitir factura, nota fiscal o documento equivalente se perfecciona incuestionablemente en el momento de la entrega definitiva de la obra o de la prestación efectiva del servicio.
+
+# BASE IMPONIBLE
+
+**Artículo 5°.-** No integran el precio neto gravado a que se refiere el Artículo 5º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), los tributos que, teniendo como hecho imponible la misma operación gravada, deban consignarse en la factura por separado, tales como el Impuesto a los Consumos Específicos y el Impuesto Especial a los Hidrocarburos y sus Derivados.
+  
+A los fines de lo establecido en el apartado 2) del Artículo 5º de la Ley, no se consideran gastos financieros los derivados de cláusulas de actualización de valor, ya sean éstas legales, contractuales o fijadas judicialmente.
+  
+En aquellos casos en que los gastos financieros sean indeterminados a la fecha de facturación de la operación, los gastos financieros integrarán la base de imposición de ese mes calculados a la tasa de interés activa bancaria correspondiente a operaciones efectuadas en Bolivianos, con mantenimiento de valor o en moneda extranjera, según sea el caso. La Dirección General de Impuestos Internos fijará periódicamente la tasa que deba utilizarse para calcular estos gastos financieros.
+  
+La definición de precio neto que surge por aplicación de las disposiciones de la Ley relativas al Impuesto al Valor Agregado y las de este reglamento, sólo tendrá efecto a los fines de la determinación del citado gravamen.
+
+**Artículo 6°.-** En caso de importaciones, la base imponible no incluirá el Impuesto a los Consumos Específicos, cuando éste corresponda por la naturaleza del bien importado.
+
+# DEBITO FISCAL
+
+**Artículo 7°.-** A los fines de la determinación del débito fiscal a que se refiere el artículo 7º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), se aplicará la alícuota establecida en el Artículo 15º de la misma, sobre el precio neto de venta, contratos de obra y de
+  
+prestaciones de servicios y de toda otra prestación que se hubiese facturado, entendiéndose por tal el definido por los Artículos 5º y 6º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995).
+  
+Lo dispuesto en el último párrafo del Articulo 7º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), procederá en los casos de devoluciones, rescisiones, descuentos, bonificaciones o rebajas logrados, respecto de operaciones que hubieren dado lugar al cómputo del crédito fiscal previsto en el Artículo 8º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995).
+  
+El débito fiscal surgirá de las facturas, notas fiscales o documentos equivalentes emitidos en el mes al que corresponda la liquidación del impuesto.
+
+# CRÉDITO FISCAL
+
+**Artículo 8°.-** El crédito fiscal computable a que se refiere el Artículo 8º inciso a) de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), es aquél originado en las compras, adquisiciones, contrataciones o importaciones definitivas alcanzadas por el gravamen, vinculadas con la actividad sujeta al tributo.
+  
+A los fines de la determinación del crédito fiscal a que se refiere el párrafo anterior, los contribuyentes aplicarán la alícuota establecida en el Artículo 15° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995) sobre el monto facturado de sus compras, importaciones definitivas de bienes, contratos de obras o prestaciones de servicios, o toda otra prestación o insumo alcanzado por el gravamen.
+  
+Si un contribuyente inscrito destinase bienes, obras, locaciones o prestaciones gravadas para donaciones o entregas a título gratuito, dado que estas operaciones no ocasionan débito fiscal, el contribuyente deberá reintegrar en el período fiscal en que tal hecho ocurra, los créditos fiscales que hubiese computado por los bienes, servicios, locaciones o prestaciones, empleados en la obtención de los bienes, obras, locaciones o prestaciones donadas o cedidas a título gratuito.
+  
+A los fines de lo dispuesto en el párrafo anterior, el monto del crédito a reintegrar será actualizado sobre la base de la variación de la cotización oficial del Dólar estadounidense con relación al Boliviano, producida entre el último día hábil del mes anterior al que el crédito fue computado y el último día hábil del mes anterior al que corresponda su reintegro.
+  
+Lo dispuesto en el inciso b) del Artículo 8º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), procederá en el caso de descuentos, bonificaciones, rebajas, devoluciones o rescisiones respecto de operaciones que hubieran dado lugar al cómputo del débito fiscal previsto en el Artículo 7º de la Ley.
+  
+Los créditos fiscales de un determinado mes no podrán ser compensados con débitos fiscales de meses anteriores.
+  
+Cuando las compras de bienes y/o servicios, importaciones definitivas y alquiler de muebles e inmuebles que den lugar al crédito fiscal sean destinadas indistintamente tanto a operaciones gravadas por el Impuesto al Valor Agregado como a operaciones no comprendidas en el objeto de dicho Impuesto, se procederá de la siguiente forma:
+
+1. En los casos en que exista incorporación de bienes o servicios que se integren a bienes o servicios resultantes, el crédito fiscal contenido en las respectivas facturas, notas fiscales o documentos equivalentes correspondiente a esos bienes o servicios incorporados, será apropiado en forma directa a las operaciones gravadas y a las operaciones que no son objeto de este impuesto, según corresponda; y
+2. En la medida en que la apropiación directa a que se refiere el numeral anterior no fuera posible, la apropiación del crédito fiscal procederá en la proporción que corresponda atribuir a las operaciones gravadas y a las que no son objeto de este impuesto, a cuyo fin se tomorá como base para dicha proporción el monto neto de ventas del período fiscal mensual que se liquida.
+     
+   Las apropiaciones proporcionales de créditos fiscales efectuadas en cada período mensual, serán consideradas provisorias y serán ajustadas en declaración jurada adicional del IVA al cierre de la gestión fiscal determinada a los efectos del Impuesto sobre la Utilidades de las Empresas, teniendo en cuenta para tal efecto los montos netos de ventas de las operaciones gravadas y de las operaciones no comprendidas en el objeto del este impuesto, realizadas durante el transcurso de la gestión fiscal. Esta declaración jurada adicional del IVA se presentará junto a la declaración jurada del Impuesto sobre las Utilidades de las Empresas, no pudiendo ser rectificadas posteriormente.
+     
+   La apropiación de créditos fiscales atribuibles en forma directa y/o proporcional a operaciones gravadas y operaciones no comprendidas en el objeto de este impuesto, en la determinación correspondiente al último mes de la gestión fiscal indicada en el párrafo precedente, será considerada como definitiva y no podrá ser objeto de rectificación en las declaraciones correspondientes a períodos fiscales futuros. De tal modo, el crédito fiscal atribuible en dicha determinación definitiva a operaciones no comprendidas en el objeto de este impuesto, no podrá ser computado en ningún momento contra débitos fiscales originados en operaciones gravadas.
+     
+   Para el cálculo de la proporción a que se refieren los dos párrafos precedentes, las operaciones de exportación serán consideradas operaciones gravadas.
+     
+   A los fines de la aplicación de lo dispuesto en este Artículo, las empresas petroleras que se encuentren agrupadas bajo un mismo contrato de operaciones con Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) para ejecutar operaciones de exploración y explotación petrolera en un determinado "Bolque Petrolero", podrán distribuir entre sí el crédito fiscal que le corresponde a cada una de ellas por la adquisición de bienes y servicios para la operación petrolera del "Bloque", procediendo para ello del modo que se determine mediante Resolución Ministerial a ser emitida por el Ministerio de Hacienda.
+     
+
+   # DIFERENCIA ENTRE DEBITO Y CREPITO FISCAL
+
+**Artículo 9°.-** El saldo a favor del contribuyente a que se refiere el Artículo 9º de la Ley, sólo podrá utilizarse para compensar futuros pagos del Impuesto al Valor Agregado del mismo contribuyente. Esta limitación no afecta la libre disponibilidad de los saldos a favor que surjan de operaciones de exportación, por aplicación de lo dispuesto en el segundo párrafo del Artículo 11º de la Ley.
+  
+Los saldos a favor del contribuyente serán actualizados por la variación en la cotización oficial del Dólar estadounidense con relación al Boliviano, producida entre el último día hábil del mes en que se determinó el saldo a favor y el último día hábil del mes siguiente, y así sucesivamente en cada liquidación mensual hasta que el saldo a favor quede compensado.
+
+# PERIODO FISCAL DE LIQUIDACIÓN
+
+**Artículo 10°.-** Los contribuyentes del impuesto deben presentar la declaración jurada y pagar el impuesto resultante, cuando corresponda, dentro de los 15 (QUINCE) días siguientes al de la finalización del mes al que corresponden, en cualquiera de los bancos autorizados ubicados en la jurisdicción de su domicilio. En las localidades donde no existieran bancos, la presentación y pago se efectuarán en las colecturías de la Dirección General de Impuestos Internos.
+  
+La obligación de presentar la declaración jurada subsiste aún cuando surja un saldo a favor del contribuyente, o que durante el período no hubiera tenido movimiento alguno.
+
+**Artículo 11°.-** A los fines previstos en el Artículo 11° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), se deberá proceder como se establece en los párrafos siguientes:
+
+1. Se considera realizada la exportación con la salida de los bienes del territorio aduanero del país y la emisión de los documentos señalados en el Artículo 1° del [Decreto Supremo Nº 23944](https://www.lexivox.org//norms/BO-DS-23944.html) de 30 de enero de 1995.
+2. El crédito fiscal correspondiente a las compras o insumos efectuados en el mercado interno, a que se refiere el primer párrafo del Artículo 11º de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), incluye el Impuesto al Valor Agregado pagado en oportunidad de efectuar las importaciones.
+3. Los exportadores podrán computar contra el impuesto que en definitiva adeudaren por sus operaciones gravadas, el Impuesto al Valor Agregado
+     
+   contenido en las compras e importaciones que forman parte del costo de los bienes y servicios exportados, incluyendo el IVA correspondiente a bienes de capital, que les hubiere sido facturado, en la proporción en que el mismo esté vinculado a la exportación y no hubiere sido ya utilizado por el responsable.
+     
+   A los fines de determinar el monto del crédito fiscal computable contra operaciones de exportación, los exportadores deberán proceder como se indica a continuación:
+   1. Determinarán el crédito fiscal computable contra sus operaciones gravadas y las no comprendidas en el objeto de este impuesto, siguiendo el procedimiento indicado en los párrafos séptimo, octavo y noveno del Artículo 8º de este reglamento° b) Una vez determinado el crédito fiscal computable contra operaciones gravadas, su monto será distribuido proporcionalmente entre operaciones de exportación y operaciones gravadas en el mercado interno, en función de los montos de ventas netas. En ningún caso los montos de los créditos fiscales computables contra operaciones de exportación y operaciones del mercado interno, podrán superar el monto del crédito fiscal computable contra operaciones gravadas (exportaciones y mercado interno).
+4. La presentación de la solicitud de devolución del IVA por parte del exportador, determinará que el monto solicitado ya no podrá ser considerado como crédito fiscal-IVA para su compensación en sus ventas en el mercado interno.
+5. En todos los casos, la Dirección General de Impuestos Internos mantiene el derecho, dentro del plazo de prescripción, de proceder a la verificación fiscal de las operaciones que dierón origen al reintegro, a fin de establecer la correcta determinación del monto de dicho crédito.
+6. En el supuesto en que se hubiese obtenido reintegros de créditos por encima de lo que corresponde, de acuerdo con la correcta determinación resultante de la aplicación de las normas legales y reglamentarias pertinentes, los exportadores serán pasibles de las sanciones previstas por el Código Tributario por las infracciones, sean éstas delitos o contravenciones.
+7. En lo demás, se estará a lo dispuesto por el [Decreto Supremo Nº 23944](https://www.lexivox.org//norms/BO-DS-23944.html) de 30 de enero de 1995.
+     
+
+   # INCUMPLIMIENTO DE LA OBLIGACIÓN DE EMITIR FACTURA, NOTA FISCAL O DOCUMENTO EQUIVALENTE
+
+**Artículo 12°.-** En relación al segundo párrafo del Artículo 12° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), cuando se determinen ventas de bienes o servicios sin la emisión de factura, nota fiscal o documento equivalente, el contribuyente deberá cancelar el impuesto sin derecho a crédito fiscal alguno sobre esas ventas. El impuesto se actualizará desde la fecha de la operación y se calculará intereses y multas desde ese mismo día. Independientemente de este tratamiento, el contribuyente estará sujeto a las sanciones por defraudación tributaria.
+
+# REGISTROS
+
+**Artículo 13°.-** Las normas a que se debe ajustar la forma de emisión de facturas, notas fiscales o documentos equivalentes, así como los registros que deberá llevar el contribuyente, según lo dispone el Artículo 13° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), serán las contenidas en la norma administrativa que dicte la Dirección General de Impuestos Internos.
+
+# EXENCIONES
+
+**Artículo 14°.-** Con referencia a lo dispuesto en el inciso b) del Artículo 14° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), se aclara que se aplicará el impuesto solamente sobre el excedente del monto de las mercaderías que introduzcan "bonafide" los viajeros que lleguen al país de conformidad a lo establecido en el arancel aduanero.
+
+# ALICUOTA
+
+**Artículo 15°.-** La alícuota fijada en el Artículo 15° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), será de aplicación general tanto para los débitos como para los créditos fiscales de todo tipo de operaciones efectuadas por los contribuyentes sujetos al gravamen.
+
+# DISPOSICIONES GENERALES
+
+**Artículo 16°.-** De acuerdo con lo dispuesto en el Artículo 16° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado en 1995), no existe la obligación de emitir nota fiscal por ventas inferiores a Bs5.00 (CINCO BOLIVIANOS). Sin embargo, la obligación de la emisión de dicha nota fiscal subsiste si el comprador así lo exige.
+
+**Artículo 17°.-** Conforme a las normas establecidas en el Código Tributario y a las facultades que el mismo otorga a la Dirección General de Impuestos Internos, la falta de presentación de las declaraciones juradas por parte de los contribuyentes estará sujeta al siguiente tratamiento:
+
+1. Cuando los contribuyentes no hubiesen cumplido con su obligación de presentar declaraciones juradas por uno o más períodos fiscales, la Dirección General de Impuestos Internos o sus dependencias, notificarán a los mismos para que en el plazo de 15 (QUINCE) días calendario, presenten sus declaraciones juradas y paguen el gravamen correspondiente, bajo conminatoria de cobro coactivo.
+2. Las notificaciones a los contribuyentes mencionados, se efectuarán de acuerdo a las previsiones del Artículo 159° del Código Tributario, pudiendo la Dirección General de Impuestos Internos utilizar el sistema de distribución de correspondencia que considere más apropiado. Los documentos intimatorios podrán llevar la firma en facsimil de la autoridad competente, previas las formalidades de control y seguridad.
+3. Si vencido el plazo otorgado en la notificación para la presentación de la declaración jurada, los contribuyentes no cumplieren con dicha presentación, la Dirección General de Impuestos Internos o sus dependencias, en uso de las facultades concedidas por el Artículo 127° del Código Tributario, determinará un pago a cuenta del impuesto que en definitiva les corresponda pagar por el período fiscal incumplido.
+     
+   Para este efecto se tomará el mayor impuesto mensual declarado o determinado dentro de los 12 (DOCE) meses inmediatamente anteriores al de la omisión del cumplimiento de esta obligación, actualizado en función de la variación oficial del Dólar estadounidense con respecto al Boliviano, producida entre la fecha de vencimiento del período tomado como base y la fecha de vencimiento del período incumplido. La actualización se extenderá hasta el día hábil anterior al pago.
+4. La determinación del pago a cuenta tendrá el carácter de líquido y exigible, y sin que medie ningún otro trámite será cobrado por la vía coactiva, de acuerdo con lo establecido por el Título VII del Código Tributario.
+5. El pago a cuenta y su cobro coactivo no exime a los contribuyentes de la obligación de la presentación de las declaraciones juradas y pago del tributo resultante, así como tampoco de las sanciones por incumplimiento a los deberes formales que sean pertinentes.
+6. La acción coactiva sólo podrá interrumpirse con el pago total del monto determinado y no podrá ser suspendida por petición o recurso alguno.
+7. Si durante el procedimiento de cobro coactivo, se presentaren las declaraciones juradas y pagare el impuesto resultante de las mismas, el monto pagado se computará contra el pago a cuenta determinado, debiéndose continuar la acción coactiva por la diferencia que surgiere a favor del Fisco. Esta diferencia, una vez pagada, podrá ser computada en el período fiscal en cuyo transcurso se efectuó el pago.
+     
+   En los casos en que el importe pagado con la presentación de las declaraciones juradas fuere mayor que el pago a cuenta requerido coactivamente, se dejará sin efecto la acción coactiva.
+8. Si después de cancelado el pago a cuenta se presentaren las declaraciones juradas y quedare un saldo a favor del Fisco, éste deberá pagarse junto con la presentación de la declaración jurada. Si por el contrario existiere un saldo a favor del contribuyente, el mismo será compensado en períodos fiscales posteriores.
+9. Las compensaciones señaladas anteriormente son independientes de la aplicación de intereses y sanciones que procedan de acuerdo con lo que dispone el Código Tributario.
+
+**Artículo 18°.-** Derogado.
+
+**Artículo 19°.-** Derogado.
+
+# ABROGACIONES
+
+**Artículo 20°.-** Aclárase que quedaron abrogadas las siguientes disposiciones legales y sus normas complementarias, a partir de la vigencia de este Decreto Supremo, de acuerdo con lo establecido por el Artículo 95° de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html):
+  
+- [Decreto Ley Nº 16719](https://www.lexivox.org//norms/BO-DL-16719.html) de 5 de julio de 1979
+  
+- [Decreto Ley Nº 9684](https://www.lexivox.org//norms/BO-DL-9684.html) de 21 de abril de 1971
+  
+- [Decreto Ley Nº 7402](https://www.lexivox.org//norms/BO-DL-7402.html) de 26 de noviembre de 1965
+  
+- [Decreto Ley Nº 7652](https://www.lexivox.org//norms/BO-DL-7652.html) de 6 de junio de 1966
+  
+- [Decreto Supremo Nº 12129](https://www.lexivox.org//norms/BO-DS-12129.html) de 4 de diciembre de 1975
+  
+- [Decreto Supremo Nº 20111](https://www.lexivox.org//norms/BO-DS-20111.html) de 27 de marzo de 1984
+  
+También se derogan las disposiciones relativas a los impuestos o contribuciones creados por los Municipios y aprobados por el Senado Nacional, cuyos hechos imponibles sean análogos al hecho imponible del Impuesto al Valor Agregado.
+
+---
+
+Texto Ordenado según [Decreto Supremo Nº 24049](https://www.lexivox.org//norms/BO-DS-24049.html), promulgado a los veinte y nueve días del mes de junio de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzain, Raúl Tovar Piérola, José G. Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

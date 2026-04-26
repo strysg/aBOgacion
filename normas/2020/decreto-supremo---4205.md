@@ -1,0 +1,107 @@
+# Bolivia: Decreto Supremo Nº 4205, 1 de abril de 2020
+
+[Decreto Supremo Nº 4205](https://www.lexivox.org//norms/BO-DS-N4205.html)  
+JEANINE ÁÑEZ CHÁVEZ
+  
+PRESIDENTA CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 5 del Artículo 9 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina como uno de los fines y funciones esenciales del Estado, garantizar el acceso de las personas a la salud.
+* Que el Parágrafo I del Artículo 35 del Texto Constitucional, establece que el Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud.
+* Que el Artículo 37 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
+* Que el numeral 16 del Artículo 172 del Texto Constitucional, señala que es atribución de la Presidenta o del Presidente del Estado, entre otros, preservar la seguridad y la defensa del Estado.
+* Que el numeral 3 del Parágrafo I del Artículo 297 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que las competencias concurrentes son aquellas en las que la legislación corresponde al nivel central del Estado y los otros niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva.
+* Que el numeral 2 del Parágrafo II del Artículo 299 del Texto Constitucional, establece que la gestión del sistema de salud y educación es una competencia concurrente entre el nivel central del Estado y las Entidades Territoriales Autónomas.
+* Que el numeral 12 del Artículo 5 de la [Ley Nº 031](https://www.lexivox.org//norms/BO-L-N31.html), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, señala que el principio de subsidiariedad, es la toma de decisiones y provisión de los servicios públicos debe realizarse desde el gobierno más cercano a la población, excepto por razones de eficiencia y escala se justifique proveerlos de otra manera.
+* Que el Artículo 100 de la [Ley Nº 031](https://www.lexivox.org//norms/BO-L-N31.html), incorpora la competencia residual de gestión de riesgos, en aplicación del Parágrafo II del Artículo 297 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) y el Artículo 72 de la citada Ley, estableciendo competencias exclusivas para el nivel central del Estado, entre las que se tiene establecer parámetros y clasificar las categorías de declaratoria de emergencia; y declarar emergencia, de acuerdo a las categorías establecidas, y ejecutar acciones de respuesta y recuperación integral de manera coordinada con las entidades territoriales autónomas.
+* Que el Parágrafo II del Artículo 25 de la [Ley Nº 602](https://www.lexivox.org//norms/BO-L-N602.html), de 14 de noviembre de 2014, de Gestión de Riesgos, establece que las entidades territoriales autónomas, preverán en sus programas operativos anuales y presupuestos, los recursos necesarios para la gestión de riesgos, según lo establecido en sus planes de desarrollo, planes de emergencia y planes de contingencia.
+* Que el Artículo 32 de la [Ley Nº 602](https://www.lexivox.org//norms/BO-L-N602.html), señala que la declaratoria de desastres y/o emergencias permite que las entidades públicas de todos los niveles del Estado encargadas de su atención, realicen modificaciones presupuestarias y transferencias entre partidas presupuestarias, de acuerdo a la normativa existente y la normativa específica que establezca el Ministerio de Economía y Finanzas Públicas.
+* Que el numeral 2 del artículo 6 del [Decreto Ley Nº 16998](https://www.lexivox.org//norms/BO-DL-16998.html) de 2 de agosto de 1979, General de Higiene y Seguridad Ocupacional y Bienestar, dispone como obligación de los empleadores, entre otras, la de adoptar medidas de orden técnico para proteger la vida e integridad tanto física como mental de los trabajadores a su cargo.
+* Que el inciso e) del Artículo 7 de la [Ley Nº 1152](https://www.lexivox.org//norms/BO-L-N1152.html), de 20 de febrero de 2019, que modifica la [Ley Nº 475](https://www.lexivox.org//norms/BO-L-N475.html) de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, modificada por [Ley Nº 1069](https://www.lexivox.org//norms/BO-L-N1069.html) de 28 de mayo de 2018, para ampliar la población beneficiaria que no se encuentra cubierta por la Seguridad Social de Corto Plazo, con atención gratuita de salud, en avance hacia un Sistema Único de Salud, Universal y Gratuito, señala que los servicios públicos de salud se encuentran obligados a brindar atención preferente en la prestación de servicios y en los trámites administrativos a personas en situación de vulnerabilidad, incluyendo de forma enunciativa más no limitativa, a: mujeres, niñas, niños, adolescentes, adultos mayores, personas con discapacidad y miembros de Pueblos Indígena Originario Campesinos, comunidades interculturales y afrobolivianas.
+* Que la [Ley Nº 1293](https://www.lexivox.org//norms/BO-L-N1293.html), de 1 de abril de 2020, para la Prevención, Contención y Tratamiento de la infección por el Coronavirus (COVID-19), declara de interés y prioridad nacional, las actividades, acciones y medidas necesarias para la prevención, contención y tratamiento de la infección del Coronavirus (COVID-19).
+* Que el [Decreto Supremo Nº 4196](https://www.lexivox.org//norms/BO-DS-N4196.html), de 17 de marzo de 2020, declara emergencia sanitaria nacional y cuarentena en todo el territorio del Estado Plurinacional de Bolivia, contra el brote del Coronavirus (COVID-19).
+* Que el [Decreto Supremo Nº 4199](https://www.lexivox.org//norms/BO-DS-N4199.html), de 21 de marzo de 2020, declara Cuarentena Total en todo el territorio del Estado Plurinacional de Bolivia, contra el contagio y propagación del Coronavirus (COVID-19).
+* Que el [Decreto Supremo Nº 4200](https://www.lexivox.org//norms/BO-DS-N4200.html), de 25 de marzo de 2020, refuerza y fortalece las medidas en contra del contagio y propagación del Coronavirus (COVID-19) en todo el territorio del Estado Plurinacional de Bolivia.
+* Que conforme a lo señalado en la Disposición Transitoria Única de la [Ley Nº 1293](https://www.lexivox.org//norms/BO-L-N1293.html), es necesario contar con una norma reglamentaria que permita la implementación de actividades para la prevención, contención y tratamiento de la infección por el coronavirus (COVID-19).
+
+EL CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la [Ley Nº 1293](https://www.lexivox.org//norms/BO-L-N1293.html), de 1 de abril de 2020, para la Prevención, Contención y Tratamiento de la Infección por el Coronavirus (COVID-19)
+
+**Artículo 2°.- (Control sanitario en fronteras)** .
+
+1. Las Fuerzas Armadas en los puestos de resguardo fronterizos coadyuvará con las instituciones desplegadas en todo el territorio nacional en el control efectivo y el cumplimento de la [Ley Nº 1293](https://www.lexivox.org//norms/BO-L-N1293.html), respetando los protocolos del Ministerio de Salud; para este efecto, el nivel central del Estado y las entidades territoriales autónomas, de acuerdo a sus atribuciones y competencias proporcionarán los medios logísticos para hacer frente a esta contingencia.
+2. Para el cumplimiento del Parágrafo precedente, las Fuerzas Armadas coordinará con la Policía Boliviana y Migración.
+
+**Artículo 3°.- (Protocolos y directrices de salud)** 
+
+1. El Ministerio de Salud se constituye en el órgano rector y normativo del Sistema Nacional de Salud debiendo para tal efecto, aprobar las guías, protocolos, directrices, instructivos y otros de cumplimiento obligatorio en todo el territorio nacional para evitar el contagio y propagación del Coronavirus (COVID-19), así como para el diagnóstico, control, atención, tratamiento de pacientes infectados con el Coronavirus (COVID-19) y el manejo y disposición de cadáveres de personas infectadas con la enfermedad, controlando y supervisando su efectiva implementación en la jurisdicción de las Entidades Territoriales Autónomas.
+2. Los Servicios Departamentales de Salud - SEDES coordinarán con las autoridades de salud de los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, la implementación de las medidas y acciones contra el contagio y propagación del Coronavirus (COVID-19), así como el diagnóstico, control, atención, tratamiento de pacientes infectados con el Coronavirus (COVID-19) y el manejo y disposición de cadáveres de personas infectadas con la enfermedad, establecidas por instrumentos aprobados por el ente rector del Sistema Nacional de Salud.
+3. Las entidades, establecimientos de salud, clínicas y otros que brindan atención en salud en los subsectores de salud público, de la seguridad social de corto plazo y privado y otras entidades reconocidas por el Sistema Nacional de Salud de todo el territorio nacional, están obligadas a implementar los protocolos, instructivos, directrices y otros instrumentos normativos aprobados por el ente rector de Sistema Nacional de Salud, además de dotar las medidas de bioseguridad en favor de sus servidores públicos o trabajadores e implementar y equipar salas de internación, terapia intensiva y aislamiento, en coordinación con las autoridades del Sistema Nacional de Salud.
+
+**Artículo 4°.- (Priorización)** 
+
+1. En el marco de la declaratoria de emergencia sanitaria nacional, las entidades de la seguridad social de corto plazo deben disponer de los recursos acumulados en caja y bancos con la finalidad de priorizar obligatoriamente la adquisición de equipos de bioseguridad, mobiliario, medicamentos, insumos, reactivos, equipamiento y la contratación de recursos humanos para sus establecimientos de salud, a fin de proporcionar la atención a sus afiliados para enfrentar la emergencia sanitaria nacional por el Coronavirus (COVID-19).
+2. Conforme el Parágrafo III del Artículo 81 de la [Ley Nº 031](https://www.lexivox.org//norms/BO-L-N31.html), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez” y el Artículo 10 de la [Ley Nº 1152](https://www.lexivox.org//norms/BO-L-N1152.html), de 20 de febrero de 2019, las Entidades Territoriales Autónomas proveerán de los equipos de bioseguridad, mobiliario, medicamentos, insumos, reactivos, equipamiento, así como otros suministros y la contratación de recursos humanos para los establecimientos de salud del subsector público para enfrentar la emergencia sanitaria nacional por el Coronavirus (COVID-19).
+3. El Ministerio de Salud, podrá coadyuvar en el fortalecimiento del Sistema Nacional de Salud realizando la adquisición de equipos de bioseguridad, medicamentos, insumos, reactivos, otros suministros y contratación de recursos humanos, mientras dure la emergencia sanitaria nacional por el Coronavirus (COVID-19).
+4. Las adquisiciones realizadas por las entidades señaladas en el Parágrafo I y II del presente Artículo, serán coordinadas e informadas al Ministerio de Salud, a fin de garantizar la oportunidad, pertinencia, eficacia y eficiencia, así como evitar la duplicidad dentro del Sistema Nacional de Salud.
+5. El subsector privado deberá coadyuvar en el fortalecimiento del Sistema Nacional de Salud de acuerdo a lo establecido en el presente Decreto Supremo.
+
+**Artículo 5°.- (Obligación de prestar atención en salud)** De acuerdo con el Artículo 138 del Código de Salud, aprobado por [Decreto Ley Nº 15629](https://www.lexivox.org//norms/BO-DL-15629.html), de 18 de julio de 1978 y el [Decreto Supremo Nº 4200](https://www.lexivox.org//norms/BO-DS-N4200.html), de 25 de marzo de 2020, mientras continúe vigente la declaratoria de emergencia sanitaria nacional por el Coronavirus (COVID-19), los establecimientos de salud, clínicas y otros de los subsectores público, de la seguridad social de corto plazo y privado del Sistema Nacional de Salud, están integrados al Sistema de Defensa Civil bajo mando del Consejo Nacional para la Reducción de Riesgos y Atención de Desastres y/o Emergencias - CONARADE, por lo que están obligados a atender el diagnóstico, control, atención y tratamiento del Coronavirus (COVID-19) de forma inmediata y sin consideraciones de ninguna naturaleza, siendo la infraestructura, equipamiento y personal priorizados y destinados conforme requerimientos y organización determinada por el Ministerio de Salud.
+
+**Artículo 6°.- (Despliegue del personal médico y sanitario)** 
+
+1. El Ministerio de Salud, los establecimientos de salud, clínicas y otros de los subsectores público, de la seguridad social de corto plazo y privado del Sistema Nacional de Salud, garantizarán el despliegue del personal médico y sanitario en los establecimientos o locales donde exista población afectada por el Coronavirus (COVID-19).
+2. De manera excepcional el Ministerio de Salud garantizará el despliegue del personal en salud especializado a poblaciones afectadas en mayor magnitud por el Coronavirus (COVID-19).
+
+**Artículo 7°.- (Dotación gratuita de medicamentos)** 
+
+1. El Ministerio de Salud, los establecimientos de salud, clínicas y otros de los subsectores público, de la seguridad social de corto plazo y privado del Sistema Nacional de Salud, dotarán de manera gratuita medicamentos para las personas infectadas con el Coronavirus (COVID-19) y material de bioseguridad apropiados para la adopción de los protocolos de limpieza y protección que resulten necesarios en los establecimientos de salud y locales que se encuentren bajo su administración.
+2. El Ministerio de Salud de manera excepcional podrá dotar de forma gratuita medicamentos para las personas infectadas con el Coronavirus (COVID-19) y material de bioseguridad apropiados a los establecimientos de salud de tercer, segundo y primer nivel de atención, previa coordinación con las Entidades Territoriales Autónomas.
+
+**Artículo 8°.- (Estrategia comunicacional)** 
+
+1. El Ministerio de Comunicación en coordinación con el Ministerio de Salud elaborarán y aprobarán la Estrategia Comunicacional para la generación e implementación de campañas educativas e informativas de prevención, contención y tratamiento de la infección por el Coronavirus (COVID-19).
+2. El Ministerio de Comunicación en el marco de la Estrategia Comunicacional elaborará y difundirá materiales audiovisuales y gráficos, y diseñará y ejecutará campañas comunicacionales en todo el territorio boliviano, con el fin de informar, sensibilizar y concientizar sobre las causas, riesgos y consecuencias de la infección por el Coronavirus (COVID-19).
+3. Las Entidades Territoriales Autónomas para garantizar que la información sobre la temática llegue a toda la población, en el ámbito de sus jurisdicciones, ejecutarán y coordinarán con los medios de comunicación el desarrollo de campañas educativas e informativas enmarcadas en la Estrategia Comunicacional establecida en el presente Artículo.
+
+**Artículo 9°.- (Publicidad en medios de comunicación)** Los medios de comunicación de radio, televisión y prensa escrita, así como sus formatos digitales y de redes sociales, de manera excepcional y durante el tiempo que dure la declaratoria de emergencia sanitaria nacional, difundirán de manera gratuita y obligatoria contenidos y mensajes de carácter educativo e informativo, producidos en el marco de la Estrategia Comunicacional y proporcionados por el Ministerio de Comunicación o la Entidad Territorial Autónoma correspondiente.
+
+**Artículo 10°.- (Restricciones)** 
+
+1. En el marco de la emergencia sanitaria nacional, se prohíbe la difusión de mensajes o contenidos que promuevan la desinformación y sean contrarios al presente Decreto Supremo.
+2. El incumplimiento al Parágrafo Precedente, será sujeto de denuncia penal por la comisión de delitos contra la salud pública.
+
+**Artículo 11°.- (Financiamiento)** 
+
+1. Las entidades del nivel central de Estado y las Entidades Territoriales Autónomas, en el marco del Artículo 32 de la [Ley Nº 602](https://www.lexivox.org//norms/BO-L-N602.html), de 14 de noviembre de 2014, de Gestión de Riesgos, deben realizar las modificaciones presupuestarias necesarias al interior de su presupuesto institucional para la prevención, contención y tratamiento de la infección por el Coronavirus (COVID-19).
+2. El Ministerio de Economía y Finanzas Públicas podrá transferir recursos del Tesoro General de la Nación - TGN previa evaluación y verificación de la aplicación del Parágrafo I del presente Artículo, a los Gobiernos Autónomos Municipales más afectados por el Coronavirus, en función a la información publicada por el Ministerio de Salud.
+3. De manera excepcional y durante el periodo de la cuarentena del Coronavirus (COVID-19), las entidades públicas del nivel central del Estado podrán ejecutar recursos de fuentes externas previa autorización de la no objeción del financiador, misma que no implica recursos adicionales del TGN para el proyecto financiado con recursos externos.
+4. De manera excepcional y durante el periodo que dure la emergencia sanitaria nacional por el Coronavirus (COVID-19), las Empresas Públicas Nacionales Estratégicas que tengan capacidad financiera, en el marco de sus políticas de responsabilidad social corporativa, podrán destinar recursos para coadyuvar a las políticas y acciones de carácter nacional, en coordinación con los Ministerios de la Presidencia y de Salud.
+
+**Artículo 12°.- (Prácticas curativas de la medicina tradicional)** El Ministerio de Salud, a través del Viceministerio de Medicina Tradicional e Interculturalidad, desarrollará e implementará las prácticas curativas de medicamentos naturales que ayuden a mejorar la situación de salud de las personas afectadas por el Coronavirus (COVID-19) Estas prácticas no reemplazan la consulta médica, protocolos y procedimientos que pueda requerir cada paciente.
+
+# Disposiciones transitorias
+
+**Disposición Transitoria Única.-** Se autoriza a las instituciones, entidades públicas y las Entidades Territoriales Autónomas, en el marco de sus atribuciones y competencias, realizar las modificaciones presupuestarias correspondientes para la atención de lo señalado en el Artículo 9 de la [Ley Nº 1293](https://www.lexivox.org//norms/BO-L-N1293.html).
+
+# Disposiciones finales
+
+**Disposición Final Primera.-** En el marco de la emergencia sanitaria nacional, se declara al Sistema Nacional de Salud, compuesto por los subsectores público, de la seguridad social a corto plazo y privado, como sector estratégico; a tal efecto el nivel central del Estado debe realizar acciones, emitir normas y regular procedimientos tendientes a la provisión oportuna de medicamentos, insumos, equipos de bioseguridad, infraestructura, reactivos, así como la dotación de recurso humano en condiciones de seguridad, laborales y salariales que guarden estricta relación a la importancia que desempeñan en el ciudado de la salud de la población durante la pandemia del Coronavirus (COVID-19).
+
+**Disposición Final Segunda.-** En el marco de la emergencia sanitaria nacional y de manera excepcional, únicamente para la gestión 2020, las entidades del sector público de todos los niveles del Estado, podrán realizar las modificaciones presupuestarias que consideren necesarias destinadas exclusivamente a la prevención, contención y atención de la infección por el Coronavirus (COVID-19), incluyendo registro de recursos adicionales provenientes de saldos de caja y bancos al 31 de diciembre de 2019 y recursos específicos, así como la disminución de proyectos de inversión; los cuales deberán estar identificados en la estructura programática establecida para la emergencia. Estas modificaciones, no deben afectar recursos del TGN.
+
+# Disposiciones adicionales
+
+**Disposición Adicional Única.-** Se amplía el alcance del Bono Familia otorgado por los Decretos Supremos [Nº 4197](https://www.lexivox.org//norms/BO-DS-N4197.html), de 18 de marzo de 2020 y [Nº 4199](https://www.lexivox.org//norms/BO-DS-N4199.html), de 21 de marzo de 2020, a los estudiantes con discapacidad que se forman en Centros de Educación Especial Públicos, bajo Modalidad Directa, del Subsistema de Educación Alternativa y Especial.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de abril del año dos mil veinte.
+  
+FDO. JEANINE ÁÑEZ CHÁVEZ, Karen Longaric Rodríguez, Yerko M. Núñez Negrette, Arturo Carlos Murillo Prijic, Luis Fernando López Julio, Carlos Melchor Díaz Villavicencio, José Luis Parada Rivero, Víctor Hugo Zamora Castedo, Álvaro Rodrigo Guzmán Collao, Wilfredo Rojo Parada, Iván Arias Durán, Carlos Fernando Huallpa Sunagua, Álvaro Eduardo Coímbra Cornejo, Oscar Bruno Mercado Céspedes, Aníbal Cruz Senzano, María Elva Pinckert de Paz, Víctor Hugo Cárdenas Conde, Beatriz Eliane Capobianco Sandoval, Martha Yujra Apaza, María Isabel Fernández Suarez, Milton Navarro Mamani.

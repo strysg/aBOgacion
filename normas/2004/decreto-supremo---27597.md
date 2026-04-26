@@ -1,0 +1,55 @@
+# Bolivia: Decreto Supremo Nº 27597, 25 de junio de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que en cumplimiento del Artículo 11 del Anexo II al [Decreto Supremo Nº 25503](https://www.lexivox.org//norms/BO-DS-25503.html) de 3 de septiembre de 1999, los mayoristas tienen la obligación de abastecer a todas las plazas descritas en el Artículo 3 del Anexo I del mencionado Decreto Supremo y, a todas las Estaciones de Servicio, incluidas aquellas ubicadas a más de 35 kilómetros de la Planta de Almacenaje más cercana, debiendo las Refinerías del País cubrir los costos de transporte de acuerdo a lo establecido en el Reglamento sobre el Régimen de Precios de los Productos de Petróleo.
+* Que el [Decreto Supremo Nº 26272](https://www.lexivox.org//norms/BO-DS-26272.html) de 5 de agosto de 2001, estableció la obligación que tienen las refinerías en actual funcionamiento y las nuevas refinerías a instalarse en el país, de cubrir el costo de transporte de los productos regulados destinados a las Estaciones de Servicio ubicadas a mas de 35 kilómetros de la Planta de Almacenaje más cercana.
+* Que el [Decreto Supremo Nº 27132](https://www.lexivox.org//norms/BO-DS-27132.html) de 14 de agosto de 2003, modificó el Artículo 4 del [Decreto Supremo Nº 26272](https://www.lexivox.org//norms/BO-DS-26272.html), con el propósito de evitar dificultades en su aplicación, para la devolución de fletes a las estaciones de servicio ubicadas a mas de 35 kilómetros de la planta de almacenaje mas cercana.
+* Que al presente, la exigencia del Numeral 8 del Artículo 4 del [Decreto Supremo Nº 26272](https://www.lexivox.org//norms/BO-DS-26272.html), modificado por el [Decreto Supremo Nº 27132](https://www.lexivox.org//norms/BO-DS-27132.html), aún no se cumple por parte del Ente Competente, lo cual perjudica el normal abastecimiento de combustibles a las zonas rurales; por esta razón es importante derogar dicho requisito para la devolución de fletes y exigirlo en el Reglamento para Construcción y Operación de Almacenaje de combustibles líquidos.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se modifica el Artículo Unico del [Decreto Supremo Nº 27132](https://www.lexivox.org//norms/BO-DS-27132.html) de 14 de agosto de 2003, que modifica el Artículo 4 del [Decreto Supremo Nº 26272](https://www.lexivox.org//norms/BO-DS-26272.html), de la siguiente manera:
+   > “Artículo 4.- La rendición de cuentas para el reintegro de los costos de transporte desde el kilómetro 35 en adelante de los Productos Regulados destinados a las Estaciones de Servicio ubicadas a mas de 35 kilómetros de la Planta de Almacenaje más cercana, deberá incluir lo siguiente:
+   >   
+   > Hoja de Ruta emitida por la Dirección de Sustancias Controladas debidamente firmada por el transportista y la Estación de Servicio a la cual el Distribuidor Mayorista de Productos Nacionales ha vendido su producto.
+   >   
+   > Copias de las facturas de venta de productos del Distribuidor Mayorista de Productos Nacionales a la Estación de Servicio.
+   >   
+   > Copia de la factura de transporte emitida por el transportista a favor del Mayorista, o cuando corresponda, copia de la factura de transporte emitida por el transportista a favor de la Estación de Servicio ubicada a más de 35 kilómetros de la Planta de Almacenaje más cercana.
+   >   
+   > Acta de Despacho debidamente firmada por el Operador de la Planta de Almacenaje de la cual se realiza el retiro del producto.
+   >   
+   > Factura original emitida por el Distribuidor Mayorista de Productos Nacionales a favor de las refinerías por concepto de reintegro de gastos de transporte desde el kilómetro 35 en adelante.
+   >   
+   > Copia de la Planilla de Movimiento de Producto mensual que fue presentada a la Dirección de Sustancias Controladas; en dicha planilla deberán figurar las lecturas mensuales iniciales y finales de los totalizadores de todos los surtidores (bombas) existentes en la Estación de Servicio.
+   >   
+   > Copia del Certificado de Precintado de totalizadores emitido por la entidad competente, el cual deberá estar acreditado ante la Superintendencia de Hidrocarburos.
+   >   
+   > Las Refinerías del País para el reintegro de los costos de transporte a las Estaciones de Servicio ubicadas a mas de 35 kilómetros de distancia de la Planta de Almacenaje más cercana, correspondientes a la gestión 2004 y en adelante, deberán exigir únicamente los requisitos numerados en el presente Artículo.
+   >   
+   > El precintado de totalizadores, será realizado por la entidad competente, la empresa o institución delegada por esta que deberá estar acreditada ante la Superintendencia de Hidrocarburos.
+   >   
+   > El pago de reintegros a las Estaciones de Servicio ubicadas a más de 35 kilómetros de la Planta de Almacenaje más cercana, deberán efectuarse por parte de las Refinerías a través de los Distribuidores Mayoristas de Productos Nacionales, en un plazo no mayor a veinte (20) días calendario, y el depósito por parte del Distribuidor Mayorista a la cuenta de la Estación de Servicio en un plazo no mayor de diez (10) días calendario.
+   >   
+   > Los plazos indicados son computables a partir de la recepción y conformidad de la documentación completa por concepto de rendición de cuentas por parte del Distribuidor Mayorista y la Refinería; en caso de incumplimiento ya sea por parte de la Refinería o Distribuidor Mayorista, el reintegro será dolarizado al cambio oficial fijado por el Banco Central de Bolivia y se aplicará la Tasa de Interés de Referencia - TRE en moneda extranjera publicada por el Banco Central de Bolivia, más cinco por ciento (5%), para el resarcimiento del perjuicio desde la fecha de entrega del comprobante por parte de la Estación de Servicio al Distribuidor Mayorista.”
+2. Se Modifica el Artículo 14 del Reglamento para la Construcción y Operación de Terminales Almacenaje de Combustibles Líquidos, aprobado mediante [Decreto Supremo Nº 25048](https://www.lexivox.org//norms/BO-DS-25048.html) de 22 de mayo de 1998, de la siguiente manera:
+   > “Articulo 14.- Las cisternas de transporte de hidrocarburos deberán cumplir con las especificaciones establecidas en el Reglamento para Construcción y Operación de Estaciones de Servicio de Combustibles Líquidos.
+   >   
+   > Toda cisterna al momento de ingresar a la Planta de Almacenaje, deberá presentar su Certificación de Verificación Metrológica emitida por la entidad competente. Esta Certificación será exigida a partir del 1° de Marzo de 2005.”
+
+---
+
+El Señor Ministro de Estado en el Despacho de Minería e Hidrocarburos queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de junio del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, Carlos Alberto Agreda Lema Ministro Interino de la Presidencia, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Freddy Escobar Rosas Ministro Interino de Minería e Hidrocarburos, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Fermín Guillermo Garzón Ministro Interino Sin Cartera Responsable de Asuntos Indígenas y Pueblos Originarios.

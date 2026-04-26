@@ -1,0 +1,21 @@
+# Bolivia: Decreto Presidencial Nº 4516, 1 de junio de 2021
+
+[Decreto Presidencial Nº 4516](https://www.lexivox.org//norms/BO-DP-N4516.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el ciudadano Franklin Molina Ortíz, Ministro de Hidrocarburos y Energías, mediante nota MHE-04460-DESP-0750/2021, de 27 de mayo de 2021, presentada el 31 de mayo de 2021, comunica que se ausentará del país en misión oficial del 31 de mayo al 06 de junio de 2021, a la ciudad de San Petersburgo - Federación de Rusia, a objeto de asistir y participar en el 24° Foro Económico Internacional de San Petersburgo, por lo que solicita la designación de un Ministro Interino, mientras dure su ausencia.
+* Que es necesario designar Ministro Interino para la continuidad administrativa del mencionado Despacho, de conformidad a lo dispuesto por el Parágrafo I del Artículo 128 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 07 de febrero de 2009, Organización del Órgano Ejecutivo.
+
+DECRETA:
+
+**Artículo Único.-** Desígnese MINISTRO INTERINO DE HIDROCARBUROS Y ENERGÍAS, al ciudadano Ramiro Felix Villavicencio Niño De Guzman, Ministro de Minería y Metalurgia, mientras dure la ausencia del titular.
+
+---
+
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los treinta y uno días del mes de mayo del año dos mil veintiuno.
+  
+FDO. Luis Alberto Arce Catacora, Maria Nela Prada Tejada.

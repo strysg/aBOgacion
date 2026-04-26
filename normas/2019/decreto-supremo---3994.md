@@ -1,0 +1,80 @@
+# Bolivia: Decreto Supremo Nº 3994, 31 de julio de 2019
+
+[Decreto Supremo Nº 3994](https://www.lexivox.org//norms/BO-DS-N3994.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 49 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que la ley regulará las relaciones laborales relativas a contratos y convenios colectivos; salarios mínimos generales, sectoriales e incrementos salariales.
+* Que el Artículo 123 del Texto Constitucional, establece que la Ley solo dispone para lo venidero y no tendrá efecto retroactivo, excepto en materia laboral, cuando lo determine expresamente a favor de las trabajadoras y de los trabajadores.
+* Que los Parágrafos I y VII del Artículo 17 de la [Ley Nº 614](https://www.lexivox.org//norms/BO-L-N614.html), de 13 de diciembre de 2014, del Presupuesto General del Estado Gestión 2015, vigentes por el inciso n) de la Disposición Final Cuarta de la [Ley Nº 1135](https://www.lexivox.org//norms/BO-L-N1135.html), de 20 de diciembre de 2018, del Presupuesto General del Estado Gestión 2019, señalan que la remuneración máxima en el sector público, no podrá ser igual ni superior a la establecida para el Presidente del Estado Plurinacional. Se exceptúa a los servidores públicos que prestan servicios en el exterior del país; y las Empresas Públicas Nacionales Estratégicas - EPNE, excepcionalmente, en casos de personal especializado en áreas estratégicas, podrán incorporar en sus Escalas Salariales, niveles de remuneraciones mayores al establecido para el Presidente del Estado Plurinacional, debiendo ser aprobadas expresamente mediante Decreto Supremo.
+* Que los Parágrafos I y II del Artículo 13 de la [Ley Nº 975](https://www.lexivox.org//norms/BO-L-N975.html), de 13 de septiembre de 2017, de Modificaciones al Presupuesto General del Estado - Gestión 2017, vigente por el inciso s) de la Disposición Final Cuarta de la [Ley Nº 1135](https://www.lexivox.org//norms/BO-L-N1135.html), disponen que el incremento salarial de las empresas constituidas legalmente como Sociedad de Economía Mixta - S. A. M., Sociedad Anónima - S. A. o Sociedad de Responsabilidad Limitada - S. R. L., en las que el Estado posea participación accionaria, será aprobado mediante Decreto Supremo específico; y los requisitos y parámetros para el mencionado incremento, serán reglamentados por el Órgano Ejecutivo considerando su naturaleza jurídica.
+* Que el Artículo 2 del [Decreto Supremo Nº 2348](https://www.lexivox.org//norms/BO-DS-N2348.html), de 1 de mayo de 2015, establece que el incremento salarial para las trabajadoras y los trabajadores de las Empresas Públicas del nivel central del Estado, será autorizado mediante Decreto Supremo expreso; asimismo, el Artículo 3 del citado Decreto Supremo, señala que el porcentaje de incremento salarial no podrá ser superior al incremento salarial aprobado anualmente para el sector público, de acuerdo a la utilidad neta y disponibilidad financiera de cada empresa.
+* Que el Artículo 4 del [Decreto Supremo Nº 2348](https://www.lexivox.org//norms/BO-DS-N2348.html), dispone que para ser beneficiarias del incremento salarial, las Empresas Públicas deberán cumplir los siguientes requisitos: a) Demostrar sostenibilidad financiera en su flujo de caja proyectado para al menos tres (3) años; b) Haber generado utilidad operativa en la gestión anterior; y c) El incremento salarial deberá ser financiado con ingresos generados en la operación del giro del negocio; no debiendo implicar ajuste en los precios de los productos o servicios prestados ni uso de transferencias por subvenciones, fideicomisos, aportes de capital del Tesoro General de la Nación - TGN u otros recursos de carácter no recurrente.
+* Que los Parágrafos I y II del Artículo 45 del [Decreto Supremo Nº 3766](https://www.lexivox.org//norms/BO-DS-N3766.html), de 2 de enero de 2019, establecen que las empresas constituidas legalmente como S. A. M., S. A. o S. R. L., en las que el Estado posea participación accionaria, para beneficiarse del incremento salarial deberán presentar a su Ministerio Responsable del Sector, la solicitud de incremento salarial acompañada de la autorización de su Máxima Instancia Resolutiva, Balance General, Estado de Resultados y Flujo de Efectivo de dos gestiones anteriores, dictamen de auditoría externa y otra información que considere pertinente; asimismo, deberán cumplir los siguientes requisitos: a) Demostrar sostenibilidad financiera en su flujo de caja proyectado para tres (3) años; b) Presentar utilidad en la pasada gestión; y c) El incremento salarial deberá ser financiado con ingresos generados en la operación del giro del negocio, por lo que no debe implicar ajuste en los precios de los productos o servicios prestados, uso de transferencias por subvenciones, fideicomisos, aportes de capital u otros recursos no recurrentes.
+* Que el inciso b) del Artículo 3 del [Decreto Supremo Nº 3889](https://www.lexivox.org//norms/BO-DS-N3889.html), de 1 de mayo de 2019, aprueba el incremento salarial de hasta el cuatro por ciento (4%) aplicable de forma lineal, para los servidores públicos que tienen un haber básico menor o igual a Bs18.727.- (DIECIOCHO mil novecientos VEINTISIETE 00/100 BOLIVIANOS), para las entidades Desconcentradas, Descentralizadas, Autárquicas y otras del Órgano Ejecutivo del nivel central del Estado.
+* Que por lo anteriormente expuesto es necesario aprobar el incremento salarial para la gestión 2019 a favor de las servidoras y servidores públicos, así como para las trabajadoras y los trabajadores de las Empresas Públicas y las empresas en las cuales el nivel central del Estado tenga participación accionaria mayoritaria.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto, en el marco de la normativa vigente, aprobar el incremento salarial para la gestión 2019 a favor de las Empresas Públicas y las empresas en las cuales el Estado tenga mayoría y participación accionaria.
+
+**Artículo 2°.- (Incremento salarial para empresas bajo tuición del Ministerio de Economía y Finanzas Públicas)** Se aprueba el incremento salarial de hasta el cuatro por ciento (4%) para las servidoras y los servidores públicos de la Administración de Servicios Portuarios - Bolivia - ASP-B.
+
+**Artículo 3°.- (Incremento salarial para empresas bajo tuición del Ministerio de Minería y Metalurgia)** Se aprueba el Incremento Salarial del tres coma tres por ciento (3,3%) al haber básico para las trabajadoras y los trabajadores de la Empresa Minera Colquiri.
+
+**Artículo 4°.- (Incremento salarial para empresas bajo tuición del Ministerio de Energías)** Se aprueba el incremento salarial del cuatro por ciento (4%) para las trabajadoras y los trabajadores de:
+
+1. La Empresa Nacional de Electricidad - ENDE Matriz;
+2. Las Empresas Filiales y Subsidiaria de la Empresa Nacional de Electricidad - ENDE Corporación.
+
+**Artículo 5°.- (Incremento salarial para empresas bajo tuición del Ministerio de Obras Públicas, servicios y vivienda)** 
+
+1. Se aprueba el incremento salarial de hasta el cuatro por ciento (4%) para las trabajadoras y los trabajadores de:
+   1. La Agencia Boliviana Espacial - ABE;
+   2. La Empresa Estatal de Transporte por Cable “Mi Teleférico”;
+   3. Servicios de Aeropuertos Bolivianos S. A.- SABSA.
+2. Se excluye del incremento salarial establecido en el inciso b) del presente Artículo, a las trabajadoras y los trabajadores que se encuentren bajo la modalidad de Contrato a plazo fijo y Contrato de Obra o Servicio.
+
+**Artículo 6°.- (Incremento salarial para empresas bajo tuición del Ministerio de Comunicación)** Se aprueba el incremento salarial de hasta el cuatro por ciento (4%) para las servidoras y servidores públicos de la Empresa Estatal de Televisión denominada “BOLIVIA TV”.
+
+**Artículo 7°.- (Incremento salarial para empresas bajo tuición del Ministerio de hidrocarburos)** 
+
+1. Se aprueba el incremento salarial de hasta el cuatro por ciento (4%) para las trabajadoras y trabajadores del personal Administrativo Operativo de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB Casa Matriz.
+2. Se aprueba el incremento salarial de hasta el cuatro por ciento (4%) para las trabajadoras y trabajadores, en la escala salarial vigente del personal que desempeña funciones en YPFB ANDINA S. A., YPFB CHACO S. A., YPFB TRANSPORTE S. A., YPFB TRANSIERRA S. A., GAS TRANSBOLIVIANO S. A., YPFB REFINACIÓN S. A., YPFB LOGÍSTICA S. A., AIR BP BOLIVIA S. A. y COMPAÑIA ELÉCTRICA CENTRAL BULO BULO S. A.; precautelando que no se genere superposición de niveles salariales.
+     
+
+   # Disposiciones finales
+
+**Disposición Final Primera.-** Los incrementos salariales señalados en el presente Decreto Supremo, serán aplicados de forma lineal para las servidoras y servidores públicos, así como para las trabajadoras y los trabajadores de cada empresa que tienen un haber básico menor o igual a Bs18.727.- (DIECIOCHO mil novecientos VEINTISIETE 00/100 BOLIVIANOS), precautelando que no se genere superposición de niveles salariales.
+
+**Disposición Final Segunda.-** 
+
+1. Los incrementos salariales señalados en el presente Decreto Supremo:
+   1. Serán financiados con recursos específicos de cada empresa, según corresponda;
+   2. En el caso de Filiales y Subsidiaria de ENDE Matriz, serán financiados con ingresos generados en la operación del giro del negocio;
+   3. En el caso de las Filiales y Subsidiarias de YPFB Casa Matriz, serán financiado con recursos específicos de cada una de las Empresas Subsidiarias y Filiales, según corresponda.
+   4. Se aplicarán con carácter retroactivo al 1 de enero de 2019.
+2. La aplicación de los incrementos salariales establecidos en el presente Decreto Supremo, es responsabilidad de la Máxima Autoridad Ejecutiva - MAE de cada empresa o sus Gerentes Generales de cada una de las empresas de las Subsidiarias y Filiales de YPFB Casa Matriz o instancia resolutiva de las Filiales y Subsidiarias de ENDE Matriz, según corresponda.
+
+**Disposición Final Tercera.-** 
+
+1. Para el cumplimiento del presente Decreto Supremo, las Empresas Públicas, deberán remitir al Ministerio de Economía y Finanzas Públicas, sus escalas salariales modificadas en un plazo máximo de quince (15) días hábiles posteriores a la publicación del presente Decreto Supremo, para su correspondiente aprobación.
+2. Se exceptúa de la aplicación del Parágrafo precedente a las Empresas Filiales y Subsidiares de ENDE Matriz, filiales y subsidiarias de YPFB Casa Matriz y a SABSA.
+
+**Disposición Final Cuarta.-** 
+
+1. La aplicación del incremento salarial retroactivo al 1 de enero de 2019, deberá ser efectivizada hasta el 31 de agosto de la presente gestión, debiendo realizar los aportes a los entes gestores de seguridad social de corto y largo plazo de acuerdo a normativa vigente.
+2. El Ministerio de Trabajo, Empleo y Previsión Social deberá establecer el plazo para la presentación de la planilla retroactiva del incremento salarial, a cuyo vencimiento aplicará las multas que pudieren corresponder de acuerdo a normativa vigente.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los treinta y uno días del mes de julio del año dos mil diecinueve.
+  
+FDO. EVO MORALES AYMA, Diego Pary Rodríguez, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Luis Alberto Arce Catacora, Luis Alberto Sánchez Fernández, Rafael Alarcón Orihuela, Nélida Sifuentes Cueto, Oscar Coca Antezana, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Milton Gómez Mamani, Lilly Gabriela Montaño Viaña, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, José Manuel Canelas Jaime, Tito Rolando Montaño Rivera.

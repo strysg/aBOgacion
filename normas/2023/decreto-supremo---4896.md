@@ -1,0 +1,72 @@
+# Bolivia: Decreto Supremo Nº 4896, 22 de marzo de 2023
+
+[Decreto Supremo Nº 4896](https://www.lexivox.org//norms/BO-DS-N4896.html)  
+DAVID CHOQUEHUANCA CÉSPEDES
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Artículo 174 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina como atribución de la Vicepresidenta o del Vicepresidente del Estado, asumir la Presidencia del Estado, en los casos establecidos en la Constitución.
+* Que el numeral 1 del Artículo 9 del Texto Constitucional, señala como fin y función esencial del Estado, además de los que establece la Constitución y la Ley, constituir una sociedad justa y armoniosa, cimentada en la descolonización, sin discriminación ni explotación, con plena justicia social, para consolidar las identidades plurinacionales.
+* Que los numerales 3 y 4 del Parágrafo I del Artículo 175 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), disponen que las Ministras y los Ministros de Estado, tienen entre sus atribuciones, la gestión de la Administración Pública en el ramo correspondiente, así como dictar normas administrativas en el ámbito de su competencia.
+* Que el Artículo 3 de la [Ley Nº 387](https://www.lexivox.org//norms/BO-L-N387.html), de 9 de julio 2013, del Ejercicio de la Abogacía, establece que el ejercicio de la abogacía es una función social al servicio de la Sociedad, del Derecho y la Justicia.
+* Que el numeral 4 del Artículo 14 de la [Ley Nº 387](https://www.lexivox.org//norms/BO-L-N387.html), señala como atribución del Ministerio de Justicia, actual Ministerio de Justicia y Transparencia Institucional, velar por el correcto ejercicio profesional de la abogacía.
+* Que el Parágrafo I del Artículo 31 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html), de 8 de marzo de 2006, dispone que las instituciones públicas desconcentradas son creadas por Decreto Supremo, se encuentran bajo dependencia directa del ministro del área, no tienen patrimonio propio ni personalidad jurídica propia y tienen independencia de gestión administrativa, financiera, legal y técnica, sobre la base de la normativa interna del ministerio.
+* Que los incisos e), f) y jj) del Artículo 73 del [Decreto Supremo Nº 4857](https://www.lexivox.org//norms/BO-DS-N4857.html), de 6 de enero de 2023, Organización del Órgano Ejecutivo, establecen como atribuciones del Ministro de Justicia y Transparencia Institucional, promover el acceso a la justicia, formulando políticas, normas y programas de lucha contra la impunidad y la retardación de justicia; promover y desarrollar mecanismos de solución de conflictos; y dirigir y procesar el registro, matriculación y control de abogadas, abogados y sociedades civiles de abogadas y abogados, velando por el correcto ejercicio profesional de la abogacía y promoviendo actividades académicas e investigativas.
+* Que al ser la abogacía una función social al servicio de la Sociedad, del Derecho y la Justicia, encomendándose al Ministerio de Justicia y Transparencia Institucional, velar por el correcto ejercicio profesional de la abogacía, es necesario que la citada Cartera de Estado cuente con la estructura administrativa e institucional para su cumplimiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto crear la Gestora del Sistema de Acceso a la Justicia y Registro Público de la Abogacía - Gestora SAJ-RPA, así como establecer sus funciones, para la promoción y gestión de servicios de acceso a la justicia en el marco de la función social de la abogacía.
+
+**Artículo 2°.- (Creación de la Gestora del Sistema de Acceso a la Justicia y Registro Público de la Abogacía - Gestora SAJ-RPA)** Se crea la Gestora del Sistema de Acceso a la Justicia y Registro Público de la Abogacía - Gestora SAJ-RPA, como institución pública desconcentrada dependiente del Ministerio de Justicia y Transparencia Institucional.
+
+**Artículo 3°.- (Funciones de la Gestora SAJ-RPA)** La Gestora SAJ-RPA tiene las siguientes funciones:
+
+1. Canalizar las solicitudes de acceso a la justicia y, si corresponde, prestar servicios integrales de justicia;
+2. Establecer, regular y administrar la Red Interinstitucional de Acceso a la Justicia;
+3. Implementar mecanismos operativos y tecnológicos que faciliten la gestión, integración, derivación y atención adecuada de los servicios integrales de justicia al interior de la Red Interinstitucional de Acceso a la Justicia;
+4. Gestionar e implementar mecanismos de interoperabilidad con entidades públicas y privadas para el adecuado funcionamiento de la Red Interinstitucional de Acceso a la Justicia;
+5. Monitorear y evaluar la prestación de servicios de las entidades que forman parte de la Red Interinstitucional de Acceso a la Justicia;
+6. Hacer seguimiento a la demanda de servicios integrales de justicia a nivel nacional para la aplicación de medidas que permitan su atención adecuada y oportuna;
+7. Coadyuvar en el desarrollo de soluciones tecnológicas para la modernización de los procesos institucionales y de gestión, así como los servicios públicos, a fin de incrementar su eficiencia, transparencia y accesibilidad, en el marco del acceso a la justicia y las políticas de gobierno electrónico vigentes;
+8. Administrar el Registro Público de la Abogacía;
+9. Gestionar los mecanismos e instrumentos para el procesamiento de las denuncias por faltas a la ética y el adecuado funcionamiento de los Tribunales de Ética de la Abogacía;
+10. Verificar que las abogadas y los abogados posean la formación y experiencia, precautelando la función social de interés público que representa el ejercicio de la abogacía;
+11. Establecer acciones y mecanismos de capacitación y actualización de conocimientos para abogadas y abogados;
+12. Generar los medios e instrumentos de verificación del cumplimiento efectivo de la [Ley Nº 387](https://www.lexivox.org//norms/BO-L-N387.html), de 9 de julio 2013, del Ejercicio de la Abogacía y su reglamento, de parte de las abogadas y abogados e instituciones públicas y privadas;
+13. Establecer acciones y mecanismos de seguimiento destinadas a regular el correcto ejercicio profesional de la abogacía.
+
+**Artículo 4°.- (Estructura de la Gestora SAJ-RPA)** 
+
+1. La Gestora SAJ-RPA está a cargo de una Directora o Director General Ejecutivo, nombrado por la Ministra o Ministro de Justicia y Transparencia Institucional mediante Resolución Ministerial.
+2. La estructura de la Gestora SAJ-RPA se aprobará mediante Resolución Ministerial, en el marco de la normativa vigente.
+
+**Artículo 5°.- (Fuentes de financiamiento)** Para la implementación del presente Decreto Supremo se tendrán las siguientes fuentes de financiamiento:
+
+1. Recursos específicos provenientes del ejercicio de sus actividades, en el marco de la normativa vigente;
+2. Tesoro General de la Nación - TGN, de acuerdo a disponibilidad financiera;
+3. Transferencias de recursos, de acuerdo a normativa vigente;
+4. Créditos y donaciones internas y externas.
+     
+
+   # Disposiciones adicionales
+
+**Disposición Adicional Única.-** La Unidad creada en el marco de la Disposición Transitoria Cuarta del [Decreto Supremo Nº 4857](https://www.lexivox.org//norms/BO-DS-N4857.html), de 6 de enero de 2023, formará parte de la Gestora SAJ-RPA.
+
+# Disposiciones transitorias
+
+**Disposición Transitoria Primera.-** El Ministerio de Justicia y Transparencia Institucional en un plazo no mayor a noventa (90) días calendario, computables a partir de la publicación del presente Decreto Supremo, establecerá la estructura y los reglamentos operativos para el funcionamiento de la Gestora SAJ-RPA mediante Resolución Ministerial.
+
+**Disposición Transitoria Segunda.-** Los servicios integrales de justicia brindados por el Ministerio de Justicia y Transparencia Institucional, así como el Registro Público de Abogacía continuarán de forma ininterrumpida hasta el funcionamiento de la Gestora SAJ-RPA.
+
+---
+
+El señor Ministro de Estado en el Despacho de Justicia y Transparencia Institucional, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintidós días del mes de marzo del año dos mil veintitrés.
+  
+FDO. DAVID CHOQUEHUANCA CÉSPEDES, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Marcelo Alejandro Montenegro Gómez García MINISTRO DE ECONOMÍA Y FINANZAS PÚBLICAS E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Ramiro Félix Villavicencio Niño De Guzmán, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Edgar Pary Chambi, Remmy Rubén Gonzales Atila MINISTRO DE DESARROLLO RURAL Y TIERRAS E INTERINO DE MEDIO AMBIENTE Y AGUA, Sabina Orellana Cruz.

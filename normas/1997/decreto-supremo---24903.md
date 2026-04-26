@@ -1,0 +1,25 @@
+# Bolivia: Decreto Supremo Nº 24903, 18 de noviembre de 1997
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que se dispuso mediante [Decreto Supremo Nº 23935](https://www.lexivox.org//norms/BO-DS-23935.html) de 23 de diciembre de 1994 la subrogación de los derechos y acciones de la Comisión Liquidadora del Banco del Estado en favor del Ministerio de Hacienda, para que a través de la exSubsecretaría del Tesoro de la Secretaría Nacional de Hacienda, ejerza la representación y personalidad jurídica del mencionado Banco, así como las funciones y atribuciones para la recuperación de la cartera directa y avalada;
+* Que el artículo 3 de ese mismo decreto y otras normas legales anteriores, emitidas al efecto, disponen que la venta de los bienes propios del Banco del Estado, así como los bienes recuperados, deben ser transferidos mediante subasta, remate público y/o puja abierta;
+* Que la venta, en gestión por los accionistas del EXTEBANDES, beneficia a los fines y objetivos de la liquidación del Banco del Estado facilitando así la labor de realización de los bienes, activos e inversiones que el pertenecieron.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Autorízase al Ministerio de Hacienda proceda, mediante su Viceministro del Tesoro, a la venta de las acciones que el Banco del Estado, en liquidación, posée en el Banco Exterior de los Andes y de España S.A., conjuntamente con los demás socios accionistas, bajo la modalidad de venta competitiva, a los precios y condiciones más óptimas y convenientes para el Estado boliviano que se pacte en forma conjunta.
+
+---
+
+El señor Ministro de Estado en el despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de noviembre de mil novecientos noventa y siete años.
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo, MINISTRO INTERINO DE RELACIONES EXTERIORES Y CULTO, Carlos Iturralde Ballivián, Guillermo Canedo Patiño, MINISTRO INTERINO DE GOBIERNO, Fernando Kieffer Guzmán, Edgar Millares Ardaya, Ana María Cortez de Soriano, Ivo Kuljis Futchner, Tito Hoz de Vila Quiroga, Tonchy Marinkovic Uzqueda, Leopoldo López Cossio, Luis Freddy Conde López, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Javier Escobar Salguero.

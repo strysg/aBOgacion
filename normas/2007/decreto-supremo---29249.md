@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 29249, 29 de agosto de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 5 de la [Ley Nº 1654](https://www.lexivox.org//norms/BO-L-1654.html) de 28 de julio de 1995, de Descentralización Administrativa, señala que el Prefecto del Departamento, en el régimen de descentralización administrativa, tiene entre otras la atribución de formular y ejecutar los planes departamentales de desarrollo económico y social, y de formular y ejecutar programas y proyectos de inversión pública, en el marco del plan departamental de desarrollo.
+* Que el inciso a) del Artículo 20 de la [Ley Nº 1654](https://www.lexivox.org//norms/BO-L-1654.html), establece que las regalías departamentales creadas por Ley se constituyen en recursos de dominio y uso departamental, que serán administrados por los Prefectos.
+* Que de acuerdo al informe técnico realizado por la Prefectura del Departamento de Potosí, el sesenta y seis por ciento (66%) del parque automotor con el que cuenta actualmente esa institución está obsoleto; vehículos que deben ser renovados con urgencia por presentar desgaste y deterioro emergente del continuo funcionamiento, puesto que se constituye en instrumento imprescindible para el cumplimiento de las funciones y responsabilidades de esa entidad.
+* Que el informe financiero de la Prefectura del Departamento de Potosí concluye que los gastos de mantenimiento de los vehículos existentes tienen un elevado costo y que las tareas operativas de supervisión, fiscalización y seguimiento de proyectos de inversión requieren contar con vehículos que los permita trasladarse hacia comunidades y pueblos, donde los caminos no son transitables (lugares de clima gélido, caminos escabrosos y sin acceso); circunstancia por la que la Prefectura del Departamento de Potosí requiere comprar los vehículos para transportar a su personal y a representantes de la comunidad internacional, a los lugares donde se ejecutan los programas y proyectos.
+* Que el Artículo 20 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, prohíbe a las entidades públicas la compra o alquiler de vehículos, por lo que a fin de que la Prefectura del Departamento de Potosí pueda dar cumplimiento a sus funciones y responsabilidades asignadas por Ley, se hace necesario exceptuar a esa institución de la aplicación de la citada disposición.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 17 de julio de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de la Presidencia y la Prefectura del Departamento de Potosí.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza a la Prefectura del Departamento de Potosí, la compra de una (1) vagoneta y siete (7) camionetas doble cabina; la vagoneta para uso del Prefecto del Departamento y el resto de los vehículos para funciones operativas de la entidad, de acuerdo a las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+2. La compra de los vehículos se financiará con recursos provenientes de regalías.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de la Presidencia y el Prefecto del Departamento de Potosí, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte y nueve días del mes de agosto del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, María Magdalena Cajías de la Vega, Nila Heredia Miranda.

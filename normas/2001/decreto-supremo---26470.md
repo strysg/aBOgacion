@@ -1,0 +1,52 @@
+# Bolivia: Decreto Supremo Nº 26470, 22 de diciembre de 2001
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que existen Prefecturas de Departamento y Gobiernos Municipales que atraviesan desequilibrios financieros y fiscales que han provocado la mora de sus obligaciones con diferentes entidades, entre ellas: El Tesoro General de la Nación, el Servicio Nacional de Patrimonio de Estado, la Dirección de Pensiones y la Caja Nacional de Salud.
+* Que en el marco de la lucha contra la pobreza y de reactivación económica el Gobierno emitió el [Decreto Supremo Nº 25907](https://www.lexivox.org//norms/BO-DS-25907.html) de 22 de septiembre de 2000, autorizando a las citadas instituciones conciliar cuentas hasta el 31 de diciembre de 2000 y suscribir Convenios de Pago con las Prefecturas de Departamento yGobiernos Municipales, reprogramando el pago de sus obligaciones en el plazo de 5 años para deudas con la CNS y el FONVIS en liquidación y de 7 años para las deudas con el TGN, el Servicio Nacional de Patrimonio del Estado y la Dirección de Pensiones.
+* Que a tal efecto mediante [Decreto Supremo Nº 26036](https://www.lexivox.org//norms/BO-DS-26036.html), de 22 de diciembre de 2000, el Supremo Gobierno ante la imposibilidad de conciliar, mediante fiscalizaciones las deudas con todos los Gobiernos Municipales y las Prefecturas, amplió el plazo para comunicar a las entidades acreedoras su voluntad de acogerse a los beneficios dispuestos por el citado Decreto Supremo hasta el 31 de marzo de 2001, sujeta a la programación y plazos establecidos por las entidades acreedoras.
+* Que a la fecha, pese a las conciliaciones existentes, muchas de las entidades acreedoras no suscribieron Convenios de Pago, debido a que los plazos y amortizaciones determinados no se adecuan a la programación efectuada por el Plan de Readecuación Financiera y a su planificación de deudas.
+* Que en mérito a las consideraciones expuestas se hace necesario fijar nuevos plazos, con el objeto de permitirles a los Gobiernos Municipales y Prefecturas reprogramar y renegociar sus deudas suscribiendo nuevos convenios de pago.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (De la reprogramacion)** 
+
+1. Se autoriza a la Dirección de Pensiones y a la Caja Nacional de Salud efectuar la recuperación de aportes devengados netos al Sistema de Seguridad Social de Largo Plazo y Corto Plazo, respectivamente, condonando intereses, multas y gastos judiciales a las Prefecturas de Departamento y Gobiernos Municipales con la suscripción de nuevos Convenios de Pago.
+2. Los Gobiernos Municipales y Prefecturas que tomen la decisión de acogerse a esta nueva excepción, deberán comunicar la misma al acreedor, mediante nota suscrita por su Máxima Autoridad Ejecutiva, hasta el 30 de junio de 2002.
+
+**Artículo 2°.- (Ambito de aplicacion)** Ingresan dentro de los alcances de este Decreto:
+
+1. Acreencias en mora notificadas o por notificar su cobro en la vía administrativa.
+2. Acreencias demandadas en la vía judicial que a la promulgación de este Decreto, se encuentren en trámite y/o que cuenten con fallos ejecutoriados y que en etapa de ejecución de sentencia no se haya materializado la recuperación del importe demandado, aclarando de esta manera el concepto de juicio concluido señalado en el Artículo 2° del [Decreto Supremo Nº 25907](https://www.lexivox.org//norms/BO-DS-25907.html).
+
+**Artículo 3°.- (Forma de pago de las liquidaciones)** 
+
+1. Los adeudos determinados mediante revisión y liquidación de aportes devengados, actualizados con mantenimiento de valor e interés legal establecido conforme al Código Civil por diferimiento a ser consignado en el Cuadro de Amortizaciones correspondiente, establecerá un plazo máximo de 15 años a partir de la suscripción de los Convenios de Pago, a ser determinados de común acuerdo entre el deudor y acreedor.
+2. Se autoriza a las entidades acreedoras efectivizar el debito automático de las cuentas fiscales de los Gobiernos Municipales y Prefecturas Departamentales que suscribieron Convenios de Pago. Para el caso de entidades públicas que cuenten con un Plan de Readecuación Financiera suscrito con el Ministerio de Hacienda, los Convenios de Pago podrán incluirse al pago de la obligación a través de su incorporación al Fondo de Garantía administrado por el Tesoro General de la Nación.
+
+**Artículo 4°.- (De la readecuacion)** 
+
+1. Las Prefecturas y Gobiernos Municipales que a la fecha suscribieron Convenios de Pago en el marco de los Decretos Supremos [Nº 25809](https://www.lexivox.org//norms/BO-DS-25809.html), [Nº 25907](https://www.lexivox.org//norms/BO-DS-25907.html) y [Nº 26036](https://www.lexivox.org//norms/BO-DS-26036.html) emergentes del cobro administrativo o judicial, podrán acogerse a los alcances de este Decreto y readecuar su deuda por el saldo no pagado a la fecha.
+2. Los pagos parciales efectuados en mérito a Convenios de Pago suscritos con anterioridad al presente Decreto, se consolidan como pagos definitivos e irrevisables.
+
+**Artículo 5°.- (Del pago de honorarios profesionales)** 
+
+1. En aquellos Municipios y Prefecturas que cuenten con notas de cargo ejecutoriadas o en proceso de trámite en la vía judicial, los honorarios profesionales del abogado de la parte coactivante serán cancelados por el coactivado, previa determinación del monto a pagar por el juez de la causa, el mismo que debe ser regulado de acuerdo a obrados que cursen en el expediente.
+2. Dado que las deudas de los Gobiernos Municipales y Prefecturas serán recuperadas en un plazo máximo de 15 años, que el ingreso de las mismas no será inmediato, que los juicios en tramite o ejecutoriados quedarán suspendidos hasta el ingreso de la deuda total y que la flexibilización otorgada por el Estado obedece a la situación económica del país, se dispone que las Igualas suscritas con los abogados externos deberán sujetarse a la flexibilidad otorgada y por ende el pago de honorarios profesionales que efectúen los Gobiernos Municipales y Prefecturas de acuerdo con el parágrafo precedente, serán los únicos pagos que percibirá el abogado patrocinante, quedando claramente establecido que el Estado Boliviano no reconocerá pago alguno por este mismo concepto.
+
+**Artículo 6°.- (Del incumplimiento)** En caso de incumplimiento parcial o total de la obligación contraída en el Convenio de Pago, este quedará resuelto sin necesidad de intervención judicial considerándose la obligación de plazo vencido liquido y exigible en su totalidad, debiendo el acreedor, iniciar y/o proseguir el cobro coactivo por la vía judicial incluyendo intereses, multas, gastos judiciales y demás recargos de Ley.
+
+---
+
+El señor Ministro de Estado en la Cartera de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de diciembre del año dos mil uno.
+  
+FDO. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, Jose Luís Lupo Flores, Leopoldo Fernández Ferreira, Oscar Guilarte Luján, Jacques Trigo Loubiere, Mario Serrate Ruíz, Carlos Kempff Bruno, Luís Alberto Gamarra Landivar MINISTRO INTERINO DE EDUCACIÓN, CULTURA Y DEPORTES, Enrique Paz Argandoña, Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña, Xavier Nogales Iturri, Mauro Bertero Gutiérrez, Wigberto Rivero Pinto.

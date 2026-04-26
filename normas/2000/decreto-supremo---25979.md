@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 25979, 16 de noviembre de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante Decreto Supremo Número [Nº 25961](https://www.lexivox.org//norms/BO-DS-25961.html) de 21 de octubre de 2.000, se establecieron normas para evaluación, calificación y previsiones de la cartera de créditos comerciales, otorgados por las entidades de intermediación financiera.
+* Que con el objeto de que las entidades de intermediación financiera mantengan adecuados niveles de solvencia, deben constituir previsiones por su cartera de créditos, de acuerdo a las normativas específicas dispuestas por la Superintendencia de Bancos y Entidades Financieras,
+* Que para la constitución de previsiones específicas se ha establecido un cronograma hasta el año 2.004, para permitir una adecuada movilización de recursos destinados a créditos para el sector productivo, lo que requiere como contrapartida, que los accionistas de las entidades bancarias amplíen la base patrimonial de dichas entidades con incrementos de capital realizados con recursos frescos, para dar una mayor estabilidad al sistema financiero nacional.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Plazo)** El deterioro de la cartera y/o el incremento de cartera bruta que corresponda al generado a partir del 1° de septiembre al 1° de noviembre de 2.000 debe ser previsionado en un plazo máximo de doce meses a partir de la publicación del presente Decreto Supremo.
+  
+La constitución de previsiones sujetas al plazo señalado, será independiente de la evolución de la cartera que generó dichas previsiones.
+
+**Artículo 2°.- (Condiciones)** Para el previsionamiento señalado en el artículo anterior, las entidades de intermediación financiera, deberán cumplir las siguientes condiciones:
+  
+Incremento de Capital.- Incremento de capital que deberá ser realizado en efectivo, equivalente al cien por ciento (100%) del total de las previsiones a ser diferidas de acuerdo al artículo primero del presente Decreto Supremo. El veinticinco por ciento (25%) de dicho incremento deberá ser efectuado en un plazo de treinta (30) días computables a partir de la publicación del presente Decreto Supremo y el setenta y cinco por ciento (75%) restante en el plazo de los siguientes once (11) meses.
+  
+Acuerdo de Accionistas.- Suscripción de un acuerdo de accionistas para incrementar el capital de la entidad de intermediación financiera, mediante aportes propios o la incorporación de nuevos accionistas. El acuerdo de los accionistas deberá estar acompañado del Acta de Directorio que convoque a Junta General Extraordinaria de Accionistas para autorización de dicho acuerdo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de noviembre del año dos mil.
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo, MINISTRO INTERINO DE RR. EE. Y CULTO, Wálter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Carlos Saavedra Bruno, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge, Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

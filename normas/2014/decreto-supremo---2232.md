@@ -1,0 +1,164 @@
+# Bolivia: Decreto Supremo Nº 2232, 31 de diciembre de 2014
+
+[Decreto Supremo Nº 2232](https://www.lexivox.org//norms/BO-DS-N2232.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que los numerales 4 y 5 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), señalan que son competencias privativas del nivel central del Estado el Régimen aduanero y Comercio Exterior.
+* Que el Artículo 85 de la [Ley Nº 1990](https://www.lexivox.org//norms/BO-L-1990.html), de 28 de julio de 1999, General de Aduanas, establece que no se permitirá la importación o ingreso a territorio aduanero nacional de mercancías nocivas para el medio ambiente, la salud y vida humana, animal o contra la preservación vegetal, así como las que atenten contra la seguridad del Estado y el sistema económico financiero de la Nación y otras determinadas por Ley expresa.
+* Que la [Ley Nº 3467](https://www.lexivox.org//norms/BO-L-3467.html), de 12 de septiembre de 2006, dispone los mecanismos procedimentales para aplicar el régimen de Arrepentimiento Eficaz previsto en el Artículo 157 del Código Tributario Boliviano y la Política de Incentivos y Desincentivos, mediante la aplicación del Impuesto a los Consumos Específicos - ICE a los vehículos automotores y otros productos gravados con este impuesto.
+* Que mediante [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), de 6 de diciembre de 2006, se aprobó el Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos, mediante la aplicación del Impuesto a los Consumos Específicos - ICE.
+* Que es necesario utilizar políticas tributarias y aduaneras como medio para fomentar la conversión del parque automotor, en concordancia con los objetivos hidrocarburíferos, medio ambientales y de seguridad vial al servicio de la población boliviana, por lo cual se debe establecer nuevas restricciones a la importación de vehículos automotores.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto realizar modificaciones al Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos, mediante la aplicación del Impuesto a los Consumos Específicos - ICE, aprobado por [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), de 6 de diciembre de 2006.
+
+**Artículo 2°.- (Modificaciones)** 
+
+1. Se modifica el Artículo 4 del Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos mediante la aplicación del Impuesto a los Consumos Específicos - ICE, aprobado por [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), de 6 de diciembre de 2006, con el siguiente texto:
+   > “ARTÍCULO 4.- (VEHÍCULOS NUEVOS).
+   >   
+   > I. Los vehículos automotores nuevos fabricados con volante de dirección a la izquierda, internados a territorio nacional y las motocicletas, podrán realizar el despacho aduanero de importación, con el cumplimiento de las formalidades aduaneras previstas en la Ley General de Aduanas y su Reglamento.
+   >   
+   > En caso de que hayan sido sometidos a cambio o incorporación de dispositivo de combustible a GNV en una zona franca industrial nacional, están sujetos a la presentación del Certificado de Incorporación o cambio de dispositivo de combustible a GNV.
+   >   
+   > II. Los vehículos automotores nuevos con volante de dirección a la izquierda, originalmente fabricados para utilizar GNV como combustible de manera exclusiva o dual, no están sujetos a la presentación del Certificado de Incorporación o cambio de dispositivo de combustible a GNV para su despacho aduanero.
+   >   
+   > III. No están alcanzados por la excepción en la presentación de certificación medioambientales, los vehículos fabricados en países que no se han adherido al Protocolo de Montreal, relativo a las substancias agotadoras de la capa de ozono.”
+2. Se modifica el Artículo 5 del Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos mediante la aplicación del Impuesto a los Consumos Específicos - ICE, aprobado por [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), de 6 de diciembre de 2006, con el siguiente texto:
+   > “ARTÍCULO 5.- (VEHÍCULOS ANTIGUOS).
+   >   
+   > I. Los vehículos automotores antiguos fabricados con volante de dirección a la izquierda, internados a territorio nacional y las motocicletas, podrán realizar el despacho aduanero de importación, con el cumplimiento de las formalidades aduaneras previstas en la Ley General de Aduanas y su Reglamento, y la presentación de la siguiente documentación:
+   >   
+   > a) Certificado Medioambiental, con la debida documentación de respaldo; y
+   >   
+   > b) En caso que hayan sido sometidos a cambio o incorporación de dispositivo de combustible a GNV en una zona franca industrial nacional, el Certificado de Incorporación o cambio de dispositivo de combustible a GNV.
+   >   
+   > II. No están sujetos a la presentación del Certificado Medioambiental los vehículos automotores antiguos clasificados en las subpartidas arancelarias 8701.10.00.00, 8701.30.00.00 y 8701.90.00.00 del Arancel Aduanero de Importaciones vigente.
+   >   
+   > III. Los vehículos automotores antiguos con volante de dirección a la izquierda, originalmente fabricados para utilizar GNV como combustible de manera exclusiva o dual, no están sujetos a la presentación del Certificado de Incorporación o cambio de dispositivo de combustible a GNV para su despacho aduanero.”
+3. Se modifica el Artículo 6 del Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos mediante la aplicación del Impuesto a los Consumos Específicos - ICE, aprobado por [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), de 6 de diciembre de 2006, con el siguiente texto:
+   > “ARTÍCULO 6.- (VEHÍCULOS PARA REACONDICIONAMIENTO).
+   >   
+   > I. Los vehículos nuevos y antiguos fabricados con volante de dirección a la derecha, internados a territorio nacional, deberán someterse al reacondicionamiento de volante de dirección en una zona franca industrial nacional.
+   >   
+   > II. Para realizar el despacho aduanero de importación, los vehículos nuevos y antiguos fabricados con volante de dirección a la derecha están sujetos al cumplimiento de las formalidades aduaneras previstas en la Ley General de Aduanas y su Reglamento, además de la presentación de los siguientes documentos:
+   >   
+   > Certificado Medioambiental, con la debida documentación de respaldo; y
+   >   
+   > En caso que hayan sido sometidos a cambio o incorporación de dispositivo de combustible a GNV en una zona franca industrial nacional, el Certificado de Incorporación o cambio de dispositivo de combustible a GNV.
+   >   
+   > III. Los vehículos automotores nuevos y antiguos con volante de dirección a la derecha, originalmente fabricados para utilizar GNV como combustible de manera exclusiva o dual, no están sujetos a la presentación del Certificado de Incorporación o cambio de dispositivo de combustible a GNV para su despacho aduanero.”
+4. Se modifica el Artículo 9 del Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos mediante la aplicación del Impuesto a los Consumos Específicos - ICE, aprobado por [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), de 6 de diciembre de 2006, con el siguiente texto:
+   > “ARTÍCULO 9.- (PROHIBICIONES Y RESTRICCIONES).
+   >   
+   > I. No está permitida la importación de:
+   >   
+   > a) Vehículos siniestrados, así como aquellos que tengan cualquier tipo de daño en su estructura exterior, sea éste leve, moderado o grave.
+   >   
+   > Los vehículos que sean internados a recintos aduaneros o zonas francas en contenedores cerrados o no, y estén comprendidos en el párrafo anterior del presente inciso, deberán ser reembarcados o reexpedidos en el plazo de sesenta (60) días computables a partir de su recepción.
+   >   
+   > b) Vehículos que cuenten con el número de chasis duplicado, alterado o amolado.
+   >   
+   > c) Vehículos que hubiesen sido sometidos a operaciones de reacondicionamiento de volante de dirección en el exterior del país.
+   >   
+   > d) Vehículos que hubiesen sido sometidos a cambio o incorporación del dispositivo de combustible a GNV en el exterior del país.
+   >   
+   > e) Vehículos automotores de la partida 87.03 del Arancel Aduanero de Importaciones vigente, con antigüedad mayor a dos (2) años a través del proceso regular de importaciones hasta el 31 de diciembre de 2015; y con antigüedad mayor a un (1) año desde el 1 de enero de 2016.
+   >   
+   > f) Vehículos automotores de las partidas 87.02 y 87.04 del Arancel Aduanero de Importaciones vigente, con antigüedad mayor a cuatro (4) años a través del proceso regular de importaciones desde la vigencia del presente Decreto Supremo hasta el 31 de diciembre de 2015; y con antigüedad mayor a tres (3) años, desde el 1 de enero de 2016.
+   >   
+   > Los vehículos tipo Van denominados Van minibús, clasificados en las partidas arancelarias 87.02 y 87.04 del Arancel Aduanero de Importaciones vigente, estarán sujetos a lo dispuesto en el inciso e) del presente Parágrafo.
+   >   
+   > g) Vehículos automotores que utilicen diesel mil como combustible cuya cilindrada sea menor o igual a cuatro mil centímetros cúbicos (4.000 c. c.).
+   >   
+   > Se excluye de la prohibición prevista en este inciso a los vehículos automotores importados en calidad de donación destinados a entidades públicas, con una antigüedad no mayor a cinco (5) años.
+   >   
+   > h) Vehículos automotores clasificados en la subpartida arancelaria 8701.20.00.00 y en las partidas arancelarias 87.05 y 87.06 del Arancel Aduanero de Importaciones vigente, con antigüedad mayor a cinco (5) años, a través del proceso regular de importación.
+   >   
+   > Se exceptúa de la prohibición prevista en el párrafo anterior del presente inciso en los siguientes casos:
+   >   
+   > 1.- Los vehículos automotores denominados camiones grúa que tengan una capacidad de izaje igual o superior a las setenta (70) toneladas, clasificados en la subpartida arancelaria 8705.10.00.00. Para su despacho aduanero, el importador deberá presentar un certificado que avale el correcto funcionamiento y capacidad de izaje del vehículo, a ser emitido por una institución nacional acreditada ante IBMETRO.
+   >   
+   > Para el caso de los vehículos denominados grúas con antigüedad mayor a cinco (5) años que no cumplan con la capacidad de izaje prevista en el párrafo precedente, deberá procederse a su reembarque o reexpedición en el plazo de sesenta (60) días computables a partir de la recepción de los mismos.
+   >   
+   > 2.- Las importaciones de vehículos clasificados en la subpartida arancelaria 8705.20.00.00, realizadas bajo el Régimen de Admisión Temporal para Reexportación en el Mismo Estado, al amparo de lo previsto en el Artículo 163 del Reglamento a la Ley General de Aduanas, aprobado por [Decreto Supremo Nº 25870](https://www.lexivox.org//norms/BO-DS-25870.html), de 11 de agosto del 2000, mismos que no podrán cambiar al Régimen para el Consumo si cuentan con una antigüedad mayor a cinco (5) años, debiendo ser reexportados en el plazo establecido, caso contrario se procederá con la ejecución y cobro de las garantías aduaneras constituidas, debiendo el consignatario entregar voluntariamente a la Administración Tributaria el vehículo sujeto al Régimen de Admisión Temporal, para extinguir la acción penal.
+   >   
+   > La Administración Aduanera autorizará el tránsito aduanero, previa presentación de una copia legalizada del contrato y de la solicitud de Admisión Temporal para Reexportación en el Mismo Estado suscrita por la Máxima Autoridad Ejecutiva o su representante legal, según corresponda.
+   >   
+   > 2.- La importación de camiones bomberos clasificados en la subpartida arancelaria 8705.30.00.00 efectuados por el Sector Público, con una antigüedad no mayor a quince (15) años.
+   >   
+   > i) Vehículos que utilicen Gas Licuado de Petróleo - GLP como combustible.
+   >   
+   > II. Se excluye de la prohibición establecida en los incisos: a), c), d), e), f) y g) del Parágrafo I del presente Artículo, a la importación de vehículos automotores que ingresen bajo el destino aduanero especial de Vehículos de Turismo.
+   >   
+   > Se excluye de la prohibición establecida en los incisos: a), c), d), e), f), g) e i) del Parágrafo I del presente Artículo a la importación de los vehículos automotores que ingresen temporalmente a territorio aduanero nacional, con el fin de participar en eventos culturales, científicos, deportivos u otros que sean patrocinados por instituciones del nivel central del Estado. El ingreso y salida a y de territorio aduanero nacional se realizará bajo responsabilidad de la entidad patrocinante.
+   >   
+   > Los vehículos contemplados en el Parágrafo II del presente Artículo, no podrán aplicar el régimen de importación a consumo.”
+
+     
+
+   # Disposiciones transitorias
+
+**Artículo transitorio 1°.-** El presente Decreto Supremo entrará en vigencia al vencimiento de los cinco (5) días hábiles administrativos siguientes a su publicación en la Gaceta Oficial de Bolivia.
+
+**Artículo transitorio 2°.-** 
+
+1. Se establece un plazo de ciento veinte (120) días calendario, a partir de la vigencia del presente Decreto Supremo, para que los vehículos alcanzados por lo dispuesto en los incisos a); e) y f) del Artículo 9 del Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos mediante la aplicación del Impuesto a los Consumos Específicos - ICE, aprobado por [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), presenten su declaración de importación a consumo, de reexpedición a territorio extranjero o de reembarque ante la Aduana Nacional, siempre y cuando se encuentren:
+   1. En proceso de importación al territorio aduanero nacional, iniciado con el embarque;
+   2. En tránsito aduanero con destino a zonas francas industriales o comerciales nacionales; y
+   3. Almacenados en zonas francas industriales y comerciales nacionales.
+        
+      Se exceptúa de la aplicación del presente Parágrafo a los vehículos siniestrados.
+2. La Aduana Nacional, en el marco de sus competencias, establecerá los mecanismos de control adecuados para determinar la fecha de internación de los vehículos a zonas francas nacionales; el inicio del tránsito aduanero con destino a zonas francas nacionales; el inicio del proceso de importación con el embarque de la mercancía; el cumplimiento de la normativa vigente y de las formalidades aduaneras.
+3. Los vehículos siniestrados que no cuenten con Resolución Firme o Sentencia Ejecutoriada, y que se encuentren en recintos aduaneros o zonas francas, con anterioridad a la publicación de la presente norma, podrán ser reexpedidos o reembarcados a territorio extranjero en un plazo de ciento veinte (120) días calendario. La reexpedición o reembarque de los vehículos determinará el desistimiento de los recursos de impugnación que se encontraren en curso o trámite.
+
+**Artículo transitorio 3°.-** Los vehículos que al momento de la vigencia del presente Decreto Supremo se encuentren en zonas francas comerciales e industriales, podrán ser cedidos o transferidos en un plazo de hasta treinta (30) días calendario.
+  
+
+# Disposiciones abrogatorias y derogatorias
+
+  
+
+# Disposiciones derogatorias
+
+  
+Se derogan las siguientes disposiciones: Incisos y) y z) del Artículo 3 del Reglamento para la Importación de Vehículos Automotores, Aplicación del Arrepentimiento Eficaz y la Política de Incentivos y Desincentivos mediante la aplicación del Impuesto a los Consumos Específicos - ICE, aprobado por [Decreto Supremo Nº 28963](https://www.lexivox.org//norms/BO-DS-28963.html), de 6 de diciembre de 2006.
+  
+Artículo 3 del [Decreto Supremo Nº 29836](https://www.lexivox.org//norms/BO-DS-29836.html), de 3 de diciembre de 2008.
+  
+Artículo 2 del [Decreto Supremo Nº 1606](https://www.lexivox.org//norms/BO-DS-N1606.html), de 12 de junio de 2013.
+  
+Párrafo II del Artículo 2 y el Artículo 3 del [Decreto Supremo Nº 2157](https://www.lexivox.org//norms/BO-DS-N2157.html), de 22 de octubre de 2014.
+
+**Artículo abrogatorio Único.-** Se abrogan las siguientes disposiciones:
+[Decreto Supremo Nº 0123](https://www.lexivox.org//norms/BO-DS-N123.html), de 13 de mayo de 2009.
+[Decreto Supremo Nº 1007](https://www.lexivox.org//norms/BO-DS-N1007.html), de 12 de octubre de 2011.
+[Decreto Supremo Nº 1227](https://www.lexivox.org//norms/BO-DS-N1227.html), de 9 de mayo de 2012.
+
+# Disposiciones finales
+
+**Artículo final 1°.-** A partir de la vigencia del presente Decreto Supremo, los vehículos automotores y las motocicletas, que ingresen a zonas francas comerciales o industriales, están prohibidos de ser cedidos o transferidos.
+  
+Se exceptúa de esta prohibición a las transferencias realizadas en la zona franca comercial e industrial de Cobija, en el plazo y conforme a lo dispuesto a [Ley Nº 1850](https://www.lexivox.org//norms/BO-L-1850.html), de 7 de abril de 1998 y su reglamentación aprobado por [Decreto Supremo Nº 25933](https://www.lexivox.org//norms/BO-DS-25933.html), de 10 de octubre de 2000.
+
+**Artículo final 2°.-** 
+
+1. Las personas naturales podrán importar hasta un máximo de dos (2) vehículos automotores por año.
+2. Las personas naturales que importen más de dos (2) vehículos por año, deben acreditar su registro en el Régimen General de Tributación del padrón de contribuyentes del Servicio de Impuestos Nacionales, a través de su respectivo Número de Identificación Tributaria - NIT.
+
+**Artículo final 3°.-** La Aduana Nacional deberá registrar el número de chasis de los vehículos que sean reexpedidos o reembarcados en aplicación de la presente norma, para evitar que los mismos puedan ser nuevamente internados a territorio nacional.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de diciembre del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Jorge Perez Valenzuela, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

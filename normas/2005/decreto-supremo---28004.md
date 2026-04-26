@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 28004, 11 de febrero de 2005
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004 estableció los mecanismos de austeridad a aplicarse en el Poder Ejecutivo, con el objeto de racionalizar los gastos de las entidades públicas.
+* Que la Asociación Internacional para el Desarrollo (International Development Association - IDA), ha firmado con la República de Bolivia el Contrato de Préstamo IDA 3507-BO, suscrito en fecha 22 de mayo de 2001 para la ejecución del Crédito Programático de Ajuste Estructural (Programmatic Structural Adjustment Credit - PSAC), por un monto aproximado de 60 millones de dólares americanos. El Convenio está definido como el primero de cuatro créditos programáticos a ejecutarse hasta finales del año 2005, cuyos recursos están destinados a profundizar el proceso de descentralización del estado boliviano.
+* Que Subprograma VCG3 Temas del Ministerio de la Presidencia cuenta con un saldo no ejecutado de Bs.193.288,68 (CIENTO NOVENTA Y TRES mil DOSCIENTOS OCHENTA Y OCHO 68/100) provenientes del Convenio MH-UDF-VCG Nº 003-2004, recursos asignados para la gestión 2004.
+* Que mediante Addendum Nº 3 del Convenio Interinstitucional MH-UDF-VCG Nº 003 se acordó la asignación de recursos adicionales del Crédito de Ajuste Estructural PSAC del Contrato de Préstamo IDA 3507-BO al Subprograma VCG3 Temas del Ministerio de la Presidencia por un monto de Bs.1.048.411,32 (UN MILLON CUARENTA Y OCHO mil CUATROCIENTOS ONCE 32/100 BOLIVIANOS), a ser ejecutados por el Viceministerio de Coordinación Gubernamental del Ministerio de la Presidencia.
+* Que el Ministerio de Hacienda, mediante Resolución Ministerial Nº 033 de 31 de enero de 2005 asignó recursos disponibles del Crédito Programático de Ajuste Estructural PSAC del Contrato de Préstamo IDA 3507-BO por el monto de Bs.1.048.411,32 (UN MILLON CUARENTA Y OCHO mil CUATROCIENTOS ONCE 32/100 BOLIVIANOS) para el “Subprograma VCG3 Temas del Ministerio de la Presidencia”, con la finalidad de dar cumplimiento a los objetivos del Programa en el marco de la profundización del proceso de descentralización del país.
+* Que el Informe Técnico MPR-VCG-UAF Nº 001/05 de 2 febrero de 2005 e Informe Legal UA-DGAJ Nº 011/2004 de 2 de febrero de 2005, elaborados por la Unidad Administrativa Financiera dependiente del Viceministerio de Coordinación Gubernamental y la Dirección General de Asuntos Jurídicos, ambos del Ministerio de la Presidencia, establecen la necesidad y prioridad del requerimiento y, determinan su legalidad en virtud de que no se contraviene ninguna norma vigente en la materia, quedando convalidados a través de la presente norma.
+* Que mediante Nota MPR-VCG-UAF Nº 006/05 N. I. de 2 de febrero de 2005 el Viceministro de Coordinación Gubernamental solicitó la emisión de la norma de aprobación y autorización para la inscripción de los citados recursos financieros en el presupuesto de la gestión 2005.
+* Que el Crédito Programático de Ajuste Estructural está constituido por recursos programados con anterioridad hasta su finalización en el año 2005 y, por tanto, se encuentra compatibilizado con la aplicación del Presupuesto General de la Nación Gestión 2005 y cumple con lo dispuesto en el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html).
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. De conformidad a lo establecido por el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004 y en concordancia con el Presupuesto General de la Nación Gestión 2005, vigente en el marco del Artículo147 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), se aprueba y autoriza la inscripción de un Presupuesto de Bs.1.241.700,00.- (UN MILLON DOSCIENTOS CUARENTA Y UN mil novecientos 00/100 BOLIVIANOS) a favor del Ministerio de la Presidencia, financiado con Bs.193.288,68.- del Saldo del Convenio MH-UDF-VCG Nº 003 y Bs.1.048411,32.- otorgado mediante Resolución Ministerial Nº 033 de 31 de enero de 2005, del Ministerio de Hacienda.
+2. El presente Decreto Supremo está compatibilizado y no vulnera lo establecido en el Presupuesto General de la Nación Gestión 2005 y se emite en cumplimiento del Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html).
+
+---
+
+Los Señores Ministros de Estado en los Despachos de la Presidencia y Hacienda quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de la Paz, a los once días del mes de febrero del año dos mil cinco.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Luis Carlos Jemio Mollinedo, Erwin Aguilera Antunez, Wálter Kreidler Guillaux, René Gómez García Palao, Mario Candia Moya Ministro Interino de Hidrocarburos, María Soledad Quiroga Trigo, Graciela Rosario Quiroga Morales, Audalia Zurita Zelada, Víctor Gabriel Barrios Arancibia, Jorge Espinoza Morales, Gloria Ardaya Salinas, Pedro Ticona Cruz.

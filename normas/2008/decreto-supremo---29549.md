@@ -1,0 +1,65 @@
+# Bolivia: Decreto Supremo Nº 29549, 8 de mayo de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que mediante el Artículo 18 de la [Ley Nº 1604](https://www.lexivox.org//norms/BO-L-1604.html) de 21 de diciembre de 1994, de Electricidad, se crea el Comité Nacional de Despacho de Carga, como responsable de la coordinación de la Generación, Transmisión y Despacho de Carga a costo mínimo en el Sistema Interconectado Nacional. Las funciones y organización del Comité Nacional de Despacho de Carga, en todo aquello no previsto en la Ley de Electricidad, serán establecidas en reglamento, estableciéndose en el Artículo 67 la obligación del Poder Ejecutivo de reglamentar la citada Ley.
+* Que los incisos k) y n) del Artículo 12 de la [Ley Nº 1604](https://www.lexivox.org//norms/BO-L-1604.html), establecen que el Ente Regulador del sector eléctrico tiene la atribución de supervisar el funcionamiento del Comité Nacional de Despacho de Carga, de los procedimientos empleados y los resultados obtenidos. Asimismo, debe cumplir y hacer cumplir esta Ley y sus reglamentos, asegurando la correcta aplicación de los principios, objetivos y políticas que forman parte de la misma así como las disposiciones legales conexas.
+* Que la Superintendencia de Electricidad mediante Resolución SSDE Nº 146/99 de 20 de septiembre de 1999 aprobó los Estatutos del Comité Nacional de Despacho de Carga en cumplimiento a lo establecido por el Artículo 20 del Reglamento de Operación del Mercado Eléctrico - ROME aprobado por el [Decreto Supremo Nº 24043](https://www.lexivox.org//norms/BO-DS-24043.html) de 28 de junio de 1995, que fue derogado por el [Decreto Supremo Nº 26093](https://www.lexivox.org//norms/BO-DS-26093.html) de 2 de marzo de 2001, que aprobó el nuevo Reglamento de Operación del Mercado Eléctrico - ROME.
+* Que el Artículo 1 del nuevo ROME, define a la Norma Operativa como aquella elaborada por el Comité y aprobada por la Superintendencia de Electricidad para establecer los procedimientos y metodologías de detalle para operar el sistema y administrar el Mercado. Asimismo el inciso h) del Artículo 3 establece que las Normas Operativas elaboradas por el Comité son obligatorias para los agentes del mercado.
+* Que el artículo 3 del citado reglamento, establece entre las funciones del Comité Nacional de Despacho de Carga la administración del Mercado Eléctrico Mayorista cumpliendo las disposiciones de la Ley de Electricidad y este Reglamento; programar la operación del Sistema Eléctrico manteniendo el nivel de desempeño mínimo aprobado por la Superintendencia.
+* Que las funciones del Comité Nacional de Despacho de Carga son de suma importancia para un adecuado funcionamiento del Sistema Integrado Nacional y en general de la industria eléctrica, por lo que se hace necesario establecer modificaciones al funcionamiento del Comité, acorde con las prioridades estratégicas del sector en el Plan Nacional de Desarrollo, por lo cual es necesario complementar y modificar el ROME.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar y complementar el Reglamento de Operación del Mercado Eléctrico - ROME, aprobado por [Decreto Supremo Nº 26093](https://www.lexivox.org//norms/BO-DS-26093.html) de 2 de marzo de 2001.
+
+**Artículo 2°.- (Modificación y complementación)** 
+
+1. Se modifica el Artículo 2 del Reglamento de Operación del Mercado Eléctrico - ROME aprobado por [Decreto Supremo Nº 26093](https://www.lexivox.org//norms/BO-DS-26093.html) de 2 de marzo de 2001, de la siguiente manera:
+   > “ARTÍCULO 2.- (EL COMITÉ NACIONAL DE DESPACHO DE CARGA).
+   >   
+   > I. La coordinación de la operación técnica y administración del Mercado se realizará a través del Comité, integrado por los siguientes cinco miembros titulares: uno en representación de las empresas de Generación, uno en representación de las empresas de Distribución, uno en representación de las empresas de Transmisión, uno en representación de los Consumidores No Regulados y uno en representación del organismo regulador del sector eléctrico. Cada miembro titular del Comité tendrá un suplente que lo sustituirá en caso de ausencia o impedimento. El miembro del Comité representante del organismo regulador ejercerá la Presidencia del Comité, su voto será definitivo para la aprobación de todas las resoluciones. Los restantes miembros del Comité tendrán derecho a voz y voto. A las sesiones del Comité asistirá con derecho a voz el gerente de la Unidad Operativa.
+   >   
+   > II. La agenda y los antecedentes de las sesiones del Comité serán enviados a sus miembros con una anticipación de siete (7) días.
+   >   
+   > III. Los miembros titulares y sus suplentes serán elegidos por simple mayoría de votos de las empresas a que representan. Ejercerán sus funciones por un (1) año y podrán ser reelegidos por períodos iguales.
+   >   
+   > El miembro titular que representa al Organismo Regulador y su suplente ejercerán sus funciones por dos (2) años. El titular será elegido por la máxima autoridad del Organismo Regulador de terna propuesta a partir de una convocatoria pública, llevada a cabo por una comisión conformada por el Ministerio de Hidrocarburos y Energía y el Organismo Regulador. La elección del suplente será reglamentada por la comisión mencionada. Ambos representantes podrán ser reelegidos por períodos similares.
+   >   
+   > IV. Los Distribuidores, que en base a lo dispuesto por el Artículo 15 de la Ley de Electricidad sean propietarios de instalaciones de Generación, sólo participarán en la designación del miembro representante de las empresas de Distribución.
+   >   
+   > V. Las decisiones del Comité se realizarán de acuerdo al siguiente procedimiento:
+   >   
+   > a) Para las decisiones del Comité, los representantes deben observar el cumplimiento de la Ley de Electricidad, sus Reglamentos y Normas Operativas.
+   >   
+   > b) Las decisiones del Comité se asumirán por simple mayoría de votos y el Presidente debe necesariamente manifestar su acuerdo con la decisión, caso contrario las decisiones no podrán ser aprobadas; el rechazo deberá estar fundamentado en actas.”
+2. Se modifica el Artículo 4 del Reglamento de Operación del Mercado Eléctrico - ROME aprobado por [Decreto Supremo Nº 26093](https://www.lexivox.org//norms/BO-DS-26093.html) de 2 de marzo de 2001, de la siguiente manera:
+   > “ARTÍCULO 4.- (PROCEDIMIENTO PARA LA ELABORACIÓN Y APROBACIÓN DE NORMAS OPERATIVAS). Las Normas Operativas que este Reglamento u otro Reglamento de la Ley de Electricidad definan como de elaboración obligatoria por el Comité dentro de los principios y criterios establecidos en el marco legal correspondiente, deberán cumplir el siguiente procedimiento para su aprobación:
+   >   
+   > a) El Comité elaborará el proyecto de Normas Operativas y lo elevará al Organismo Regulador con copia al Viceministerio de Electricidad y Energías Alternativas para su conocimiento.
+   >   
+   > b) El Organismo Regulador aprobará el proyecto de norma remitido por el Comité Nacional de Despacho de Carga, dentro de un plazo de cuarenta (40) días hábiles administrativos, previo análisis y pudiendo incorporar modificaciones.
+   >   
+   > c) Las actuaciones citadas se remitirán al Viceministerio de Electricidad y Energías Alternativas dependiente del Ministerio de Hidrocarburos y Energía.”
+
+     
+
+   # Disposiciones transitorias
+
+**Artículo transitorio 1°.-** El Comité Nacional de Despacho de Carga, adecuará sus Estatutos y demás normativa interna a las disposiciones contenidas en el presente Decreto Supremo, y los remitirá al Organismo Regulador para su correspondiente aprobación, conforme al procedimiento establecido, dentro del plazo de treinta (30) días hábiles administrativos a partir de la publicación del presente Decreto Supremo.
+
+**Artículo transitorio 2°.-** En un plazo de treinta (30) días el Ministerio de Hidrocarburos y Energía y el Organismo Regulador elaborarán el reglamento de funciones y organización del Comité Nacional de Despacho de Carga conforme a lo establecido en el Artículo 18 de la [Ley Nº 1604](https://www.lexivox.org//norms/BO-L-1604.html) de 21 de diciembre de 1994, de Electricidad.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Hidrocarburos y Energía, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de mayo del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Graciela Toro Ibañez, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Angel Javier Hurtado Mercado, Oscar Coca Antezana MINISTRO DE OO. PP., SERVICIOS Y VIVIENDA E INTERINO DE HIDROCARBUROS Y ENERGIA, Susana Rivero Guzmán, Luis Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, Maria Magdalena Cajías de la Vega, Walter Selum Rivero.

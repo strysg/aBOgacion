@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 26029, 22 de diciembre de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 25819](https://www.lexivox.org//norms/BO-DS-25819.html), de 21 de junio de 2000, regula los procesos de Certificación, Licitación y Adjudicación de entidades aseguradoras que participan en la administración de los Seguros Previsionales de Riesgo Común y Riesgo Profesional, que serán transferidos por las Administradoras de Fondos de Pensiones, conforme señalan los artículos 37° y 38° de la Ley de Pensiones, modificado este último por el artículo 27º, numeral 3, de la [Ley Nº 2064](https://www.lexivox.org//norms/BO-L-2064.html), de 3 de abril de 2000, de Reactivación Económica.
+* Que es necesario complementar algunos aspectos que fortalezcan la buena marcha de la ejecución de la normativa reglamentaria para la transferencia de los Seguros Previsionales de Riesgo Común y Riesgo Profesional a las entidades aseguradoras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.- (Modificaciones)** Se modifica el [Decreto Supremo Nº 25819](https://www.lexivox.org//norms/BO-DS-25819.html), de 21 de junio de 2000, en los artículos que se señalan a continuación:
+  
+Se modifica el último acápite del artículo 2º, inciso c) del [Decreto Supremo Nº 25819](https://www.lexivox.org//norms/BO-DS-25819.html) de 21 de junio de 2000, con el siguiente texto:
+> “El plazo para la certificación de entidades aseguradoras extranjeras, ampliatorio del primer plazo del Proceso de Certificación, será determinado por la Superintendencia y no podrá exceder de ciento ochenta (180) días calendario.”
+
+  
+Se modifica el numeral i) del subinciso b.2), del artículo 3° de acuerdo al siguiente texto:
+> “i) al momento de solicitud de Certificación, deberá mostrar al menos uno de los siguientes requisitos: 1) calificación internacional de riesgo vigente, equivalente como mínimo a grado de inversión A de Standard & Poor's o equivalente; 2) que una entidad financiera con patrimonio mayor a quinientos millones de dólares de los Estados Unidos de Norteamérica (US$ 500.000.000, 00) o su equivalente en otra moneda y calificación de riesgo local de al menos A de Standard & Poor's o equivalente es accionista con participación de al menos cincuenta y uno por ciento (51%).”
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de diciembre del año dos mil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Luis Fernando Quiroga Ramirez MINISTRO INTERINO DE DESARROLLO ECONOMICO, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

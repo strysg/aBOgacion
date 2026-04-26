@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 22746, 6 de marzo de 1991
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Gobierno nacional otorga prioridad al desarrollo económico y social del país, obteniendo recursos de organismos internacionales destinados al financiamiento de proyectos de investigación en el sector minero;
+* Que el Ministerio de Minería y Metalurgia de Bolivia, el Instituto Geológico Minero y Metalúrgico del Perú y el Servicio Nacional de Geología y Minería de Chile suscribieron con el Banco Interamericano de Desarrollo, BID, el 28 de febrero de 1,990 un convenio de cooperación técnica no reembolsable para un programa de recursos auro argentíferos en rocas volcánicas de los tres países;
+* Que el proyecto será ejecutado en Bolivia por el Servicio Geológico de Bolivia, GEOBOL, mediante delegación del Ministerio de Minería y Metalurgia;
+* Que el artículo 37 del Reglamento de exenciones tributarias para importaciones, aprobado por el [Decreto Supremo Nº 22225](https://www.lexivox.org//norms/BO-DS-22225.html) de 13 de junio de 1,989, permite la liberación del gravamen aduanero consolidado, GAC, únicamente en ejecución de convenios marco internacionales que estipulen exenciones tributarias, como el citado convenio de cooperación técnica no reembolsable, tomando en cuenta las disposiciones pertinentes del Convenio constitutivo del Banco Interamericano de Desarrollo, aprobado por Bolivia mediante resolución legislativa de 29 de septiembre de 1,960.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Dispónese la exención del gravamen aduanero consolidado, GAC, a toda importación de bienes que se efectúe para el cumplimiento específico del Convenio de cooperación técnica no reembolsable, suscrito por el Ministerio de Minería y Metalurgia con el Banco Interamericano de Desarrollo, BID, el 28 de febrero de 1990 para el programa de adiestramiento en la investigación de recursos auro argentíferos en rocas volcánicas.
+
+---
+
+Los señores Ministros de Estado en los despachos de Finanzas así como Minería y Metalurgia quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los seis días del mes de marzo de mil novecientos noventa y un años.
+  
+Fdo. JAIME PAZ ZAMORA, Carlos Iturralde Ballivián, Guillermo Capobianco Ribera, Héctor Ormachea Peñaranda, Gustavo Fernández Saavedra, Enrique García Rodríguez, David Blanco Zabala, Guillermo Fortún Suárez, Mariano Baptista Gumucio, Willy Vargas Vacaflor, Guido Céspedes Argandoña, Oscar Zamora Medinacelli, Mario Paz Zamora, Wálter Soriano Lea Plaza, Mauro Bertero Gutiérrez, Angel Zannier Claros, Elena Velasco de Urresti, Mario Rueda Peña.

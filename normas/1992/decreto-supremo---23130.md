@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 23130, 4 de mayo de 1992
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que Yacimientos Petrolíferos Fiscales Bolivianos, luego de las negociaciones pertinentes con Phillips Petroleum Company Bolivia, de acuerdo a la Ley de Hidrocarburos 1194 de 1 de noviembre de 1990, ha elaborado el proyecto de la minuta de contrato de operaciones petrolíferas para el bloque Curahuara de Carangas, ubicado en las provincias Pacajes, Gualberto Villarroel, Ingavi, Abaroa y Loayza, departamento de La Paz, y las provincias Sajama, Carangas y Litoral, departamento Oruro;
+* Que esa minuta de contrato no contiene cláusulas contrarias a la Ley de Hidrocarburos 1194 de 1 de noviembre de 1990, ni leyes 981 y 843 de 7 de marzo de 1988 y 20 de mayo de 1986 tampoco al [Decreto Supremo Nº 21979](https://www.lexivox.org//norms/BO-DS-21979.html) de 5 de agosto de 1988, que establecen el régimen tributario para las empresas contratistas de operación;
+* Que la referida minuta ha sido aprobada por el directorio de YPFB, mediante resolución 89/91 de 16 de octubre de 1991, y por la Junta Directiva Estatal, por resolución 27/91 de 17 de diciembre de 1991, emitida conforme a las facultades que el artículo 4 del [Decreto Supremo Nº 22102](https://www.lexivox.org//norms/BO-DS-22102.html) de 29 de diciembre de 1988 el otorga, correspondiendo su aprobación por decreto supremo para su viabilidad legal conforme al artículo 21 de la Ley de Hidrocarburos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se aprueba en sus veintitrés (23) cláusulas y ocho (8) anexos el proyecto de minuta de contrato de operación, acordado entre Yacimientos Petrolíferos Fiscales Bolivianos y Phillips Petroleum Company Bolivia, para que esta última ejecute trabajos de exploración y explotación en el bloque Curahuara de Carangas, que comprende 1.437.500 hectáreas, ubicado en las provincias Pacajes, Gualberto Villarroel, Ingavi, Abaroa y Loayza, departamento de La Paz, y las provincias Sajama, Carangas y Litoral, departamento de Oruro.
+
+**Artículo 2°.-** La empresa contratista realizará por su propia cuenta y riesgo las operaciones que ejecute, pero en nombre y representación de Yacimientos Petrolíferos Fiscales Bolivianos, sin que constituyan de ningún modo ni bajo concepto alguno, enajenación ni transmisión alguna de patrimonio del Estado, ni de su dominio sobre las reservas de hidrocarburos descubiertas o que se descubriesen, en aplicación a lo establecido por el articulo 9 de la Ley de Hidrocarburos.
+
+**Artículo 3°.-** Se autoriza al Presidente Ejecutivo de Yacimientos Petrolíferos Fiscales Bolivianos suscribir, en representación de la entidad, la correspondiente minuta de contrato y escritura pública con los representantes legales de la Phillips Petroleum Company Bolivia, e intervención del Fiscal de Gobierno y formalidades de ley ante la Notaría de Minas y Petróleo, con sede en la ciudad de La Paz.
+
+**Artículo 4°.-** Se autoriza a la contratista, de acuerdo al articulo 36 de la Ley de Hidrocarburos, ingresar en su oportunidad al período adicional de exploración, a condición que haya cumplido con sus obligaciones de trabajo y no hubiera encontrado volúmenes rentables de hidrocarburos, ni declarado un descubrimiento comercial, conforme a lo estipulado en la cláusula quinta del contrato de operación, indicado en el artículo primero de este decreto.
+
+---
+
+Los señores Ministros de Estado en los despachos de Energía e Hidrocarburos así como Finanzas, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cuatro días del mes de mayo de mil novecientos noventa y dos años.
+  
+Fdo. JAIME PAZ ZAMORA, Ronald Mac Lean Abaroa, Carlos A. Saavedra Bruno, Gustavo Fernández Saavedra, Alberto Sainz Klinski, Jorge Landívar Roca, Samuel Doria Medina Auza, Jorge Quiroga Ramirez, Hedim Céspedes Cossio, Carlos Aponte Pinto, Fernando Campero Prudencio, Oscar Zamora Medinacelli, Carlos Dabdoub Arrien, Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Herbert Muller Costas, Fernando Kieffer Guzmán, Jaime Céspedes Toro.

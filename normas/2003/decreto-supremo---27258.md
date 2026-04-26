@@ -1,0 +1,65 @@
+# Bolivia: Decreto Supremo Nº 27258, 25 de noviembre de 2003
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2196](https://www.lexivox.org//norms/BO-L-2196.html) de 4 de mayo de 2001 - Ley del Fondo Especial de Reactivación Económica y de Fortalecimiento de Entidades de Intermediación Financiera, crea el Programa de Fortalecimiento Patrimonial - PROFOP con el objeto de fortalecer patrimonialmente a las entidades de intermediación financiera bancarias y no bancarias, mediante el otorgamiento por única vez de créditos subordinados por parte del Estado, para su capitalización, fusión o transformación, encomendando su administración a la Nacional Financiera Boliviana - NAFIBO S. A. M. y al Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF.
+* Que es necesario realizar modificaciones y complementaciones a las disposiciones dispuestas en el [Decreto Supremo Nº 26204](https://www.lexivox.org//norms/BO-DS-26204.html) de 1 de junio de 2001, con el propósito de lograr los objetivos de fortalecimiento patrimonial trazados por la [Ley Nº 2196](https://www.lexivox.org//norms/BO-L-2196.html) y disposiciones complementarias.
+* Que es necesario reglamentar las condiciones para capitalizar las obligaciones subordinadas otorgadas por el Tesoro General de la Nación - TGN, así como los mecanismos para la administración y venta de las acciones.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto realizar modificaciones y complementaciones a lo dispuesto en el [Decreto Supremo Nº 26204](https://www.lexivox.org//norms/BO-DS-26204.html) de 1 de junio de 2001.
+
+**Artículo 2°.- (Sustitucion)** Se sustituye el Artículo 10 del [Decreto Supremo Nº 26204](https://www.lexivox.org//norms/BO-DS-26204.html) con el siguiente texto:
+> “Artículo 10.- (INCUMPLIMIENTOS).
+>   
+> I. El contrato de préstamo subordinado se considerará de plazo vencido sin necesidad de conminatoria, cuando concurra cualquiera de las siguientes causales:
+>   
+> a) El Coeficiente de Adecuación Patrimonial - CAP de la Entidad de Intermediación Financiera sea menor del mínimo requerido por Ley.
+>   
+> La Entidad de Intermediación Financiera - EIF incurra en el incumplimiento de pago de cualquier cuota de capital o intereses del crédito subordinado otorgado en el marco del PROFOP.
+>   
+> *Insuficiencia de garantías.*
+>   
+> II. El incumplimiento de una o más del resto de las obligaciones asumidas por las EIF's en los Planes de Fortalecimiento Institucional y las pactadas en los Contratos de Crédito Subordinado de Capitalización, dará lugar a que el fiduciario instruya condiciones adicionales de administración.
+>   
+> III. La Superintendencia de Bancos y Entidades Financieras - SBEF verificará y comunicará al fiduciario, el incumplimiento por parte de la EIF de las condiciones de administración dispuestas por el fiduciario, y a requerimiento de éste, la SBEF aplicará su régimen de sanciones, si corresponde.”
+
+**Artículo 3°.- (Procedimiento de capitalizacion)** 
+
+1. En caso que el crédito subordinado de capitalización sea considerado de plazo vencido, se autoriza al fideicomitente la conversión de la obligación subordinada en acciones de nueva emisión, en favor del Tesoro General de la Nación, hasta el total del monto adeudado.
+2. Según la instrucción del fiduciario, por cuenta del fideicomitente, la EIF procederá al registro contable del monto total a capitalizar como aporte para futuro aumento de capital y comunicará, en el día, este extremo a la SBEF. Hasta que no se emitan las acciones de nueva emisión, dicho aporte no podrá absorber pérdidas. La conversión de la obligación subordinada en acciones reviste carácter de irrevocable.
+3. En un plazo no mayor de 48 (cuarenta y ocho) horas, la EIF convocará a Junta Ordinaria de accionistas para la designación del nuevo Directorio de la Sociedad, debiendo contar los nuevos miembros del Directorio, con la no objeción del fiduciario. Asimismo, hasta que se determine el valor de las acciones, la EIF:
+   1. No podrá incrementar, ni transferir sus activos de riesgo.
+   2. Deberá depositar en el Banco Central de Bolivia o invertir en papeles públicos toda recuperación de cartera o captación de depósitos.
+   3. No podrá sustituir garantías o liberarlas en perjuicio de la entidad.
+   4. No podrá incrementar gastos de administración.
+4. La SBEF verificará y comunicará al fiduciario sobre el incumplimiento de las obligaciones establecidas en los incisos del parágrafo precedente.
+
+**Artículo 4°.- (Valor para la capitalizacion de acciones)** 
+
+1. El precio o valor de las acciones que se emitan, en cumplimiento del artículo precedente, corresponderá al Valor Patrimonial Proporcional - VPP resultante de una valoración de los activos, pasivos y contingentes de la entidad de intermediación financiera realizada por una firma de auditoria de reconocido prestigio, contratada de común acuerdo entre el fiduciario y la EIF.
+2. Si como resultado de dicha valoración existen ajustes contra el capital de la entidad, los mismos se efectuarán contra las acciones de antiguos accionistas.
+
+**Artículo 5°.- (Administracion y venta de las acciones)** 
+
+1. La capitalización de acciones por parte del Tesoro General de la Nación no implicará el cambio de la naturaleza jurídica de la EIF capitalizada, sino una participación temporal de NAFIBO - SAM en calidad de titular y fiduciario de los recursos capitalizados hasta la transferencia de las acciones al sector privado en un plazo no mayor a los dos años, computable desde la fecha de emisión de las nuevas acciones.
+2. El fiduciario administrará la participación accionaría con todos los derechos y obligaciones establecidos por el Código de Comercio y las escrituras sociales de la entidad capitalizada. Asimismo, realizará la venta de acciones mediante oferta pública de acciones.
+
+**Artículo 6°.- (Modificacion de contratos)** Los Contratos de Fideicomiso y de Crédito Subordinado de Capitalización serán modificados en lo pertinente para dar cumplimiento a lo previsto en el presente Decreto.
+
+**Artículo 7°.- (Vigencia de normas)** Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de noviembre del año dos mil tres.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Armando Ortuño Yánez Ministro Interino de Desarrollo Sostenible, Xavier Nogales Iturri, Jorge Urquidi Barrau, Alvaro Ríos Roca, Donato Ayma Rojas, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Justo Seoane Parapaino.

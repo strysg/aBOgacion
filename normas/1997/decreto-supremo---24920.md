@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 24920, 17 de diciembre de 1997
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+Considerando:
+
+* Que por [Decreto Supremo Nº 24246](https://www.lexivox.org//norms/BO-DS-24246.html) de 27 de febrero de 1996, se reconoció la personalidad jurídica de la Sociedad Nacional Financiera Boliviana Sociedad Anónima Mixta y se aprobaron sus estatutos sociales, cuyos documentos fueron protocolizados en la Notaría de Gobierno de La Paz por escritura pública 169/96 de 28 de marzo de 1996;
+* Que la Superintendencia de Bancos y Entidades Financieras autorizó la constitución y funcionamiento de la institución financiera por resolución SB-081/96 de 19 de septiembre de 1996. observando y recomendando la modificación de los Estatutos Sociales, de acuerdo a las normas contenidas en el Código de Comercio y la Ley de Bancos y Entidades Financieras;
+* Que la Junta Extraordinaria de accionistas de la sociedad reunida el 14 de julio de 1997, ha considerado y aprobado la modificación de los estatutos sociales, de conformidad con lo dispuesto por el artículo 286, I) del Código de Comercio y a las observaciones y recomendaciones de la Superintendencia de Bancos y Entidades Financieras, referidas principalmente a sus operaciones, prohibiciones y restricciones, la administración y representación; la designación de un Síndico, y las normas sobre prórroga, disolución voluntaria, disolución forzosa y su liquidación;
+* Que la Dirección del Registro de Comercio y Sociedades por Acciones, de conformidad con lo dispuesto por el artículo 79 de su Reglamento, ha presentado el respectivo dictamen al Ministerio de Hacienda aprobando la modificación de los estatutos sociales, para que el Poder Ejecutivo apruebe los mismos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se modifica el [Decreto Supremo Nº 24246](https://www.lexivox.org//norms/BO-DS-24246.html) de 27 de febrero de 1996 y se aprueba la modificación de los Estatutos Sociales de la Sociedad Nacional Financiera Boliviana Sociedad Anónima Mixta, contenidos en sus X Títulos 82 artículos y un Transitorio, debiendo protocolizarse los mismos en la Notaría de Gobierno de La Paz.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los diecisiete días del mes de diciembre de mil novecientos noventa y siete años.
+  
+FDO. HUGO BANZER SUAREZ, Javier Murillo de la Rocha. Carlos Iturralde Ballivián, Guido Nayar Parada, Fernando Kieffer Guzmán, Edgar Millares Ardaya, Ana María Cortez de Soriano, lvo Kuljis Futchner, Tito Hoz de Vila Quiroga, Tonchy Marinkovic Uzqueda, Leopoldo López Cossio, Luis Freddy Conde López, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Javier Escobar Salguero.

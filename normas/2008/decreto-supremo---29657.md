@@ -1,0 +1,34 @@
+# Bolivia: Decreto Supremo Nº 29657, 30 de julio de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establece dentro de las atribuciones del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, fomentar el Desarrollo Social de las Comunidades y Organizaciones Económicas, Campesinas e Indígenas; y apoyar al sector empresarial agropecuario, a los pequeños y medianos productores así como al sector comunitario en sus iniciativas económicas orientadas al mercado interno y a la exportación.
+* Que el Artículo 3 del [Decreto Supremo Nº 29190](https://www.lexivox.org//norms/BO-DS-29190.html) de 11 de julio de 2007, Normas Básicas del Sistema de Administración de Bienes y Servicios, establece que las citadas normas son de uso y aplicación obligatoria para todas las entidades del sector público.
+* Que mediante Resolución Ministerial Nº 397 de 27 de agosto de 2007, el Órgano Rector (Ministerio de Hacienda), aprobó el Reglamento del Subsistema de Bienes y Servicios que comprende la contratación de Obras, Bienes, Servicios Generales y Servicios de Consultoría, del [Decreto Supremo Nº 29190](https://www.lexivox.org//norms/BO-DS-29190.html).
+* Que en fecha 30 de noviembre de 2004 se suscribió el Convenio Específico Gubernamental entre la República de Bolivia y el Reino de Bélgica relativo al “Proyecto de Aprovechamiento Integral y Sostenible de Recursos Forestales en el Trópico de Cochabamba”, contemplando procesos de transformación y comercialización de madera. El Documento Técnico Financiero - DTF (Código CTB: BOL0401511, Nº de intervención DGCD: NI 18587/12-13 aprobado en octubre 2005) establece la forma y procedimientos para el desarrollo de actividades del Proyecto.
+* Que el citado Proyecto tiene como propósito mejorar las condiciones socioeconómicas de la población beneficiaria mediante el manejo y aprovechamiento racional de bosques y la creación de valor agregado en la cadena productiva de la madera, orientando el fortalecimiento de las organizaciones sociales locales vinculadas con el sector forestal como son la mancomunidad del trópico de Cochabamba, las Unidades Forestales y las Federaciones de Campesinos, mediante la creación y desarrollo de empresas comunitarias, estrategia que permitirá lograr un pago justo por la materia prima y la distribución equitativa de los excedentes económicos generados en el aprovechamiento de dichos recursos.
+* Que mediante nota CTB/0855/2008 de 6 de junio de 2008, el representante residente de la Cooperación Técnica Belga en La Paz, comunica su NO objeción y conformidad para gestionar la compra de maquinaria usada destinada a la instalación de un aserradero y una planta de secado en el Trópico de Cochabamba, teniendo en cuenta las normas nacionales que deben observarse, tal como lo establece el Convenio Específico firmado entre el Reino de Bélgica y la República de Bolivia.
+* Que mediante nota de 17 de julio de 2008, la Central 2 de Agosto de la F. E. T. C. T. C., Provincia Chapare, comunica al co Director del Proyecto Forestal de la Mancomunidad del Trópico, la decisión de prestar el terreno comunal del Sindicato San Francisco para la instalación del aserradero y la planta de secado de madera, hasta la conclusión del proyecto forestal.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Proyecto “Aprovechamiento Integral y Sostenible de Recursos Forestales en el Trópico de Cochabamba” dependiente del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, la compra directa desde el proveedor de origen “Alemania”, de maquinaria y equipo reacondicionado consistente en un aserradero y una planta de secado, en el marco de las disposiciones y normas vigentes del Sistema de Administración de Bienes y Servicios, exceptuando la Disposición Adicional Cuarta de las citadas normas aprobadas mediante [Decreto Supremo Nº 29190](https://www.lexivox.org//norms/BO-DS-29190.html) de 11 de julio de 2007.
+2. La maquinaria a ser adquirida deberá contar con la garantía emitida por el fabricante o representante legalmente autorizado que garantice el óptimo funcionamiento por el tiempo mínimo establecido en la contratación.
+3. La compra de la maquinaria y equipo reacondicionado consistente en un aserradero y una planta de secado, se financiará con recursos provenientes del Convenio Específico Gubernamental suscrito entre la República de Bolivia y el Reino de Bélgica relativo al “Proyecto de Aprovechamiento Integral y Sostenible de Recursos Forestales en el Trópico de Cochabamba”.
+4. La disposición final y destino de maquinaria a ser adquirida, será definida de acuerdo a lo establecido en el Convenio Específico Gubernamental suscrito entre la República de Bolivia y el Reino de Bélgica relativo al “Proyecto de Aprovechamiento Integral y Sostenible de Recursos Forestales en el Trópico de Cochabamba”, y según lo determinado en el Documento Técnico Financiero - DTF que forma parte del mismo.
+
+---
+
+La señora Ministra de Estado, en el Despacho de Desarrollo Rural, Agropecuario y Medio Ambiente, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de julio del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA É INTERINO DE RELACIONES EXTERIORES Y CULTOS, Alfredo O. Rada Velez, Walker San Miguel Rodriguez, Celima Torrico Rojas, Graciela Toro Ibáñez MINISTRA DE PLANIFICACIÓN DEL DESARROLLO É INTERINA DE PRODUCCIÓN Y MICROEMPRESA, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Oscar Coca Antezana, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, Maria Magdalena Cajías de la Vega, Walter Selum Rivero, Héctor E. Arce Zaconeta.

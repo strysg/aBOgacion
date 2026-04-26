@@ -1,0 +1,55 @@
+# Bolivia: Decreto Supremo Nº 5470, 8 de octubre de 2025
+
+DECRETO SUPREMO N° 5470
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que los Parágrafos I y II del Artículo 48 de la Constitución Política del Estado determinan que las disposiciones sociales y laborales son de cumplimiento obligatorio; y que las normas laborales se interpretarán y aplicarán bajo los principios de protección de las trabajadoras y de los trabajadores como principal fuerza productiva de la sociedad; de primacía de la relación laboral; de continuidad y estabilidad laboral.
+* Que el inciso d) del Parágrafo I del Artículo 7 de la [Ley N° 2027](https://www.lexivox.org//norms/BO-L-2027.html), de 27 de octubre de 1999, Estatuto del Funcionario Público, establece que los servidores públicos tienen derecho al goce de vacaciones, licencias, permisos y otros beneficios conforme al Estatuto y los Reglamentos respectivos.
+* Que el Parágrafo I del Artículo 49 de la [Ley N° 2027](https://www.lexivox.org//norms/BO-L-2027.html) dispone que los servidores públicos, tendrán derecho a una vacación anual, en relación a su antigüedad.
+* Que el inciso g) del Artículo 51 de la [Ley N° 2027](https://www.lexivox.org//norms/BO-L-2027.html) señala que entre las bases que orientan la retribución de los servidores públicos se encuentra el derecho a la percepción de un aguinaldo de navidad equivalente a un salario mensual o duodécimas correspondientes.
+* Que la Disposición Adicional Segunda de la [Ley Nº 233](https://www.lexivox.org//norms/BO-L-N233.html), de 13 de abril de 2012, previsto en el inciso g) del Parágrafo I del Anexo de la [Ley N° 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, incorporado por la Disposición Final Segunda de la [Ley N° 1613](https://www.lexivox.org//norms/BO-L-N1613.html), del Presupuesto General del Estado Gestión 2025, publicada el 1 de enero de 2025, modifica el Parágrafo I del Artículo 12 de la [Ley N° 211](https://www.lexivox.org//norms/BO-L-N211.html), de 23 de diciembre de 2011, estableciendo que, el uso de vacaciones de los servidores públicos contemplados en el régimen de la Ley del Estatuto del Funcionario Público, no podrá acumularse por más de dos gestiones consecutivas; excepcionalmente, la compensación económica de la vacación procederá en los casos de fallecimiento del servidor público a favor de sus herederos, por motivos de extinción de la entidad, por destitución del funcionario o renuncia al cargo, y cuando exista fallo judicial o sentencia ejecutoriada.
+* Que el Artículo 22 del Reglamento de Desarrollo Parcial a la [Ley N° 2027](https://www.lexivox.org//norms/BO-L-2027.html), de 27 de octubre de 1999, del Estatuto del Funcionario Público, aprobado por [Decreto Supremo N° 25749](https://www.lexivox.org//norms/BO-DS-25749.html), de 20 de abril de 2000, dispone que la vacación o descanso anual constituye un derecho irrenunciable y de uso obligatorio a favor de todos los servidores públicos, cuya finalidad es garantizar la conservación de la salud física y mental del funcionario como requisito indispensable para lograr eficiencia y eficacia en el cumplimiento de sus funciones de acuerdo a su antigüedad y a la escala establecida en el Artículo 49 de la Ley del Estatuto del Funcionario Público.
+* Que el Artículo 41 del [Decreto Supremo N° 5301](https://www.lexivox.org//norms/BO-DS-N5301.html), de 2 de enero de 2025, señala que para la compensación económica de la vacación en las entidades sujetas al Régimen del Estatuto del Funcionario Público, las entidades deben considerar lo siguiente: En caso de fallecimiento, el Certificado de Defunción y Declaratoria de Herederos en original o fotocopia legalizada; por extinción de una entidad pública, las obligaciones que no sean determinadas en la respectiva disposición normativa, serán cumplidas por la entidad que asuma las competencias de la entidad extinta; en caso de destitución, el memorándum o documento equivalente por el cual se determina el retiro o destitución del servidor público, en original o fotocopia legalizada; en caso de renuncia al cargo, la carta o nota de renuncia emitida por el servidor público, en original o fotocopia legalizada; por fallo o sentencia judicial ejecutoriada, la sentencia, auto de vista o auto supremo, según corresponda, debidamente legalizados.
+* Que la legislación en el Estado Plurinacional de Bolivia ha establecido que la vacación es un derecho a un descanso remunerado, por ello la compensación de la misma está prohibida, salvo excepciones puntuales, por lo que en el marco de protección a los derechos laborales de las y los servidores públicos, es necesario implementar un plazo máximo para el pago de la compensación económica de la misma.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el Parágrafo I del Artículo 23 del Reglamento de Desarrollo Parcial a la [Ley N° 2027](https://www.lexivox.org//norms/BO-L-2027.html), de 27 de octubre de 1999, del Estatuto del Funcionario Público, aprobado por [Decreto Supremo N° 25749](https://www.lexivox.org//norms/BO-DS-25749.html), de 20 de abril de 2000; y modificar el Artículo Décimo Segundo del [Decreto Supremo Nº 19337](https://www.lexivox.org//norms/BO-DS-19337.html), de 14 de diciembre de 1982, modificado por el [Decreto Supremo Nº 28448](https://www.lexivox.org//norms/BO-DS-28448.html), de 22 de noviembre de 2005.
+
+**Artículo 2°.- (Modificaciones)** 
+
+1. Se modifica el Parágrafo I del Artículo 23 del Reglamento de Desarrollo Parcial a la [Ley N° 2027](https://www.lexivox.org//norms/BO-L-2027.html), de 27 de octubre de 1999, del Estatuto del Funcionario Público, aprobado por [Decreto Supremo N° 25749](https://www.lexivox.org//norms/BO-DS-25749.html), de 20 de abril de 2000, con el siguiente texto:
+     
+   “**I.** El derecho a la vacación de la servidora o servidor público es irrenunciable y su uso es obligatorio, no siendo susceptible a compensación pecuniaria salvo en los casos de fallecimiento, a favor de sus herederos; por motivos de extinción de la entidad; por destitución o renuncia al cargo; o cuando exista fallo judicial o sentencia ejecutoriada; en estos casos, las entidades públicas en todos sus niveles deberán efectuar el pago correspondiente por vacaciones no utilizadas dentro de un plazo máximo de cuarenta y cinco (45) días calendario.
+     
+   Para los casos de destitución, renuncia al cargo o extinción de la entidad, el pago de la vacación no utilizada debe efectuarse de oficio por la entidad pública respectiva, no requiriéndose solicitud expresa por parte de la servidora o servidor público afectado."
+2. Se modifica el Artículo Décimo Segundo del [Decreto Supremo Nº 19337](https://www.lexivox.org//norms/BO-DS-19337.html), de 14 de diciembre de 1982, modificado por el [Decreto Supremo Nº 28448](https://www.lexivox.org//norms/BO-DS-28448.html), de 22 de noviembre de 2005, con el siguiente texto:
+     
+   “**ARTÍCULO DÉCIMO SEGUNDO.-** El pago del Aguinaldo de Navidad, a los servidores y ex servidores públicos, deberá efectuarse hasta el día veinte de diciembre de cada año.»
+     
+
+   # Disposiciones transitorias
+
+**Disposición transitoria única.-** Las entidades públicas que, a la fecha de entrada en vigencia del presente Decreto Supremo, no hayan cumplido con el pago de las vacaciones no utilizadas a favor de los beneficiarios, en el marco de la Disposición Adicional Segunda de la [Ley Nº 233](https://www.lexivox.org//norms/BO-L-N233.html), de 13 de abril de 2012, previsto en el inciso g) del Parágrafo I del Anexo de la [Ley N° 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, incorporado por la Disposición Final Segunda de la [Ley N° 1613](https://www.lexivox.org//norms/BO-L-N1613.html), del Presupuesto General del Estado Gestión 2025, publicada el 1 de enero de 2025, deberán sujetarse al plazo dispuesto en el Parágrafo I del Artículo 23 del Reglamento de Desarrollo Parcial a la [Ley N° 2027](https://www.lexivox.org//norms/BO-L-2027.html), aprobado por [Decreto Supremo N° 25749](https://www.lexivox.org//norms/BO-DS-25749.html), modificado por el Parágrafo I del Artículo 2 del presente Decreto Supremo.
+
+# Disposiciones finales
+
+**Disposicion final única.-** A efecto de dar cumplimiento al presente Decreto Supremo y precautelando los derechos laborales y sociales, las entidades públicas deben priorizar el pago de las vacaciones no utilizadas, conforme a los siguientes criterios:
+
+1. En entidades públicas que financian sus escalas salariales con recursos distintos del Tesoro General de la Nación – TGN, el costo del pago de las vacaciones no utilizadas debe ser financiado al interior de su presupuesto institucional, conforme a normativa vigente;
+2. En aquellas entidades públicas que financian su escala salarial con fuentes 10 - 111 «TGN» y 41 - 111 «Transferencias TGN», el costo del pago de las vacaciones no utilizadas podrá ser cubierto con recursos del TGN, previa evaluación del presupuesto institucional de la entidad solicitante.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los ocho días del mes de octubre del año dos mil veinticinco.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Roberto Ignacio Rios Sanjines, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Alejandro Gallardo Baldiviezo, Zenón Pedro Mamani Ticona, Edgar Montaño Rojas, Alejandro Santos Laura, Jessica Paola Saravia Atristain, Víctor Pedro Quispe Ticona, María Renee Castro Cusicanqui, Álvaro Horacio Ruiz García, Omar Veliz Ramos, Juan Yamil Flores Lazo, Esperanza Guevara.

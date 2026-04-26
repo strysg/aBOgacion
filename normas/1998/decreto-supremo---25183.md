@@ -1,0 +1,191 @@
+# Bolivia: Decreto Supremo Nº 25183, 28 de septiembre de 1998
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+  
+
+# DECLARACIONES JURADAS
+
+CONSIDERANDO:
+
+* Que de conformidad al artículo 96 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html), es facultad del Poder Ejecutivo, administrar las rentas nacionales.
+* Que para una mejor administración de los tributos nacionales es necesario reglamentar algunos aspectos relacionados con Declaraciones Juradas, ajustes a errores aritméticos, intimaciones pagos en defecto, pago con notas de crédito, imputación de los pagos efectuados por los contribuyentes o responsables, entre otros, con el fin de garantizar el adecuado control y cobro de los créditos tributarios.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Para efectos tributarios se entiende por Declaración Jurada o Autodeclaración Jurada, la manifestación realizada por los contribuyentes o responsables ante la Administración Tributaria sobre la ocurrencia de los hechos previstos en la Ley como generadores de obligaciones tributarias. Por declaración jurada rectificativa se entiende la declaración jurada que el contribuyente o responsable presenta, para modificar una declaración anterior por el mismo período e impuesto, que la sustituye para todos los efectos legales.
+  
+Los contribuyentes y responsables están obligados a presentar las Declaraciones Juradas en la jurisdicción que corresponda a su domicilio fiscal, en la forma y los plazos establecidos por el Servicio Nacional de Impuestos Internos, y en los formularios oficiales habilitados para el efecto.
+  
+Los créditos tributarios determinados por los contribuyentes y responsables en sus Declaraciones Juradas se consideran para todos los efectos firmes, líquidos y exigibles.
+
+# DECLARACIONES JURADAS RECTIFICATIVAS
+
+**Artículo 2°.-** Los pagos realizados por concepto de declaraciones juradas rectificativas se consideran como créditos adicionales para la obligación correspondiente al impuesto y período que se declara, y no sustituyen a los realizados respecto de las declaraciones juradas rectificadas, los cuales se mantienen a favor del contribuyente o responsable como pagos realizados mediante boletas de pago.
+  
+Se consideran presentadas y válidas con todos sus efectos, las declaraciones juradas rectificativas que cumplan con lo dispuesto en los artículos 3 y 4 siguientes, que indiquen tal caractér y registren el número de orden de la declaración que se rectifica, entendiéndose que corresponden al mismo impuesto y período.
+
+**Artículo 3°.-** Los contribuyentes o responsables podrán presentar declaraciones juradas rectificativas en las que no modifiquen el saldo declarado, incrementen el saldo a favor del fisco o disminuyan el saldo a favor del contribuyente, respecto de la declaración que se rectifica, en las entidades autorizadas para realizar operaciones de recaudación. Los Grandes Contribuyentes presentarán sus declaraciones en las ventanillas de las dependencias de Grandes Contribuyentes del Servicio Nacional de Impuestos Internos correspondientes a su jurisdicción.
+  
+La declaración jurada rectificativa deberá contener la multa establecida en el segundo párrafo del artículo 121 del Código Tributario, calculada sobre el monto actualizado de la diferencia que exista entre el impuesto a pagar liquidado en la declaración rectificada y el liquidado en la rectificativa.
+  
+Cuando no sea posible liquidar este monto, la multa se liquidará de acuerdo a lo establecido en el artículo 10 del presente Decreto Supremo.
+
+**Artículo 4°.-** Para rectificar las declaraciones juradas disminuyendo el saldo a favor del fisco o aumentando el saldo a favor del contribuyente, los contribuyentes y responsables presentarán una solicitud formal debidamente fundamentada ante la administración o subadministración de impuestos de su jurisdicción, acompañada de la documentación soporte respectiva y del proyecto de declaración jurada rectificativa.
+  
+La administración o subadministración correspondiente dispondrá de un término máximo de seis meses computables desde la presentación de la solicitud, para pronunciarse sobre su aceptación o rechazo. Vencido este término sin que hubiere pronunciamiento o habiendo sido rechazada la solicitud, el contribuyente podrá hacer uso de los recursos que consagran las normas.
+  
+Los proyectos de declaración jurada rectificativa que sean aceptados por la administración tributaria podrán ser presentados por los contribuyentes y responsables en las entidades autorizadas para realizar operaciones de recaudación. Los Grandes Contribuyentes los presentarán en las ventanillas de las dependencias de Grandes Contribuyentes del Servicio Nacional de Impuestos Internos correspondientes a su jurisdicción.
+  
+En caso de que los contribuyentes presentaren declaraciones juradas rectificativas de las consideradas en el presente artículo, sin haber sido aceptadas previamente por la administración tributaria, estas se considerarán como no presentadas, pero los pagos que contuvieran serán créditos adicionales para la obligación correspondiente al impuesto y período que se declara.
+  
+El Servicio Nacional de Impuestos Internos establecerá los procedimientos de recepción de las solicitudes de rectificación de declaraciones juradas, de que trata el presente artículo.
+
+**Artículo 5°.-** Para efectos de la aceptación o rechazo de las solicitudes de rectificación de declaraciones juradas que disminuyen el saldo a favor del fisco o aumenten el saldo a favor del contribuyente, de que trata el artículo 4 del presente Decreto Supremo, la dependencia correspondiente deberá verificar:
+  
+Que las solicitudes presentadas vengan acompañadas de una explicación detallada de los hechos que dan origen a la rectificación, contengan la documentación contable, comercial, financiera o de cualquier otro tipo que de soporte a los cambios solicitados y traiga anexo un proyecto de declaración jurada rectificativa.
+  
+Que los hechos que dan origen a la rectificación se encuentren debidamente explicados y sustentados por medio de soportes que tengan validez probatoria y que sean consistentes con la información del proyecto de declaración jurada rectificativa.
+  
+Que el proyecto de declaración jurada rectificativa no contenga errores de tipo aritmético.
+
+**Artículo 6°.-** Sin perjuicio de la facultad de revisión y determinación de oficio, cuando los contribuyentes y responsables rectifiquen declaraciones juradas en las que incrementen el saldo a favor del fisco o disminuyan el saldo a favor del contribuyente, de que trata el artículo 3 del presente Decreto Supremo, la administración o subadministración correspondiente determinará de oficio la sanción aplicable por defraudación o evasión fiscal, cuando corresponda, aplicando el procedimiento establecido en el artículo 171 del Código Tributario. Para el efecto tendrá en cuenta especialmente la aplicación del artículo 90 del Código Tributario.
+
+# ERRORES ARITMETICOS EN DECLARACIONES JURADAS
+
+**Artículo 7°.-** Cuando las Declaraciones Juradas originales o rectificativas contengan errores aritméticos que originen un menor valor a pagar o un mayor saldo a favor del contribuyente o responsable, las administraciones o subadministraciones de impuestos enmendarán de oficio las liquidaciones erróneas presentadas por los contribuyentes o responsables, efectuando los ajustes que correspondan.
+  
+Las intimaciones con los ajustes correspondientes serán expedidas de acuerdo a lo establecido en los artículos 136 y 160 del Código Tributario, incluyendo en la respectiva intimación el monto actualizado del tributo, el interés causado y la multa por mora. Cuando las Declaraciones Juradas además de los errores aritméticos hubieren sido presentadas fuera de los plazos establecidos, las intimaciones incluirán la multa definida en el segundo párrafo del artículo 121 del Código Tributario o la establecida en el artículo 10 del presente Decreto Supremo, según corresponda.
+
+**Artículo 8°.-** Para efectos del artículo 7 se entiende por casilla básica, aquella en la cual deben declararse cifras que pueden ser utilizadas individualmente o en conjunto con otras para la obtención de algún cálculo, se entiende por casilla de resultado, aquella en la cual debe declararse el producto de operaciones aritméticas, en las cuales intervienen casillas básicas u otras casillas de resultado; constituye error aritmético declarar en las casillas de resultado, cifras que no correspondan con la aplicación de la correspondiente fórmula aritmética.
+
+# DECLARACIONES JURADAS PRESENTADAS FUERA DE LOS PLAZOS ESTABLECIDOS
+
+**Artículo 9°.-** Las Declaraciones Juradas en las que los contribuyentes o responsables hayan determinado impuesto a pagar que sean presentadas fuera de los plazos establecidos, estarán sujetas a la multa establecida en el párrafo segundo del artículo 121 del Código Tributario. Para el efecto las administraciones y subadministraciones de impuestos, intimarán el pago de la misma cuando no haya sido liquidada o haya sido liquidada erróneamente por el contribuyente o responsable. La intimación además de la multa por incumplimiento a deberes formales incluirá, cuando corresponda, el monto actualizado del tributo, el interés causado y la multa por mora.
+
+**Artículo 10°.-** Las Declaraciones Juradas que sean presentadas fuera de los plazos establecidos en las que los contribuyentes o responsables no hayan determinado impuesto a pagar, estarán sujetas a la multa máxima establecida en el segundo párrafo del artículo 121 del Código Tributario. Para el efecto las administraciones y subadministraciones de impuestos, intimarán el pago de la misma cuando no haya sido liquidada o haya sido liquidada erróneamente por el contribuyente o responsable.
+
+# DECLARACIONES JURADAS Y BOLETAS DE PAGO PRESENTADAS FUERA DE JURISDICCION
+
+**Artículo 11°.-** La presentación de declaraciones juradas y boletas de pago fuera de la jurisdicción que corresponda al domicilio fiscal del contribuyente o responsable se constituye en inclumplimiento de deberes formales de conformidad con lo establecido en los artículos 120 y 142 del Código Tributario. Para el efecto, las administraciones y subadministraciones de impuestos intimarán el pago de la multa establecido en el artículo 121 del Código Tributario.
+
+# FALTA DE PRESENTACION DE DECLARACIONES JURADAS
+
+**Artículo 12°.-** Conforme a lo establecido en el Código Tributario y a las facultades que el mismo otorga, la falta de Presentación de Declaraciones Juradas por parte de los contribuyentes y responsables estará sujeta al siguiente tratamiento.
+  
+Cuando los contribuyentes o responsables no hubiesen cumplido con su obligación de presentar las Declaraciones Juradas, las administraciones o subadministraciones de impuestos intimarán a los mismos para que en el plazo de quince (15) días calendario, presenten sus Declaraciones Juradas y realicen el pago que corresponda, incluyendo la multa establecida en el segundo párrafo del artículo 121 del Código Tributario, liquidada sobre el valor del impuesto a pagar actualizado. Estas intimaciones serán expedidas de acuerdo a lo establecido en el artículo 160 del Código Tributario.
+  
+Si vencido el plazo otorgado en la intimación, los contribuyentes o responsables no hubieren presentado las Declaraciones Juradas, las administraciones y subadministraciones de impuestos determinarán un pago a cuenta del impuesto que en definitiva los corresponda pagar por cada período fiscal incumplido. Para este efecto, tomarán como base el mayor impuesto que haya sido determinado en las Declaraciones Juradas correspondientes, presentadas dentro del año inmediatamente anterior a la fecha de vencimiento del período objeto del pago a cuenta, actualizándolo en función de la variación de la cotización oficial para la venta del dólar estadounidense con respecto a la moneda nacional, producida entre la fecha de vencimiento del período tomado como base y la fecha de vencimiento del período incumplido. La actualización se extenderá hasta el día hábil anterior al pago.
+  
+En los casos en que ninguna de las Declaraciones Juradas correspondientes, presentadas dentro del año inmediatamente anterior a la fecha de vencimiento del período objeto del pago a cuenta, tuviera impuesto determinado, se tomará como base la última Declaración Jurada correspondiente en la que exista este concepto.
+  
+Los pagos a cuenta determinados, se consideran para todos los efectos firmes, líquidos y exigibles, de conformidad con lo establecido en el artículo 304 del Código Tributario. La existencia del pago a cuenta y su cobro coactivo no exime a los contribuyentes y responsables de la presentación de las Declaraciones Juradas y del pago del tributo resultante, así como tampoco de las sanciones y multas que el correspondan y no excluye la facultad de determinación de oficio.
+  
+Sin perjuicio de lo establecido en el artículo 307 del Código Tributario, la acción coactiva solo podrá interrumpirse con el pago total del monto determinado en el pago a cuenta, o con la presentación de la Declaración Jurada omitida y no podrá ser suspendida por petición o recurso alguno.
+  
+Si la Declaración Jurada es presentada por el contribuyente o responsable en forma posterior a la expedición del pago a cuenta o del pliego de cargo correspondiente, este se dará de baja.
+  
+Los montos que hubieren sido cancelados con ocasión del pago a cuenta o del pliego de cargo se computarán contra la declaración jurada respectiva.
+
+# PAGO EN DEFECTO DE LAS DECLARACIONES JURADAS
+
+**Artículo 13°.-** Constituye pago en defecto de las obligaciones tributarias:
+  
+El pago de un menor valor al establecido en la declaración jurada como importe a pagar, o al establecido por la administración o subadministración correspondiente con ocasión el proceso de reliquidación como saldo a pagar.
+  
+El arrastre o utilización por mayor valor de créditos deducibles, pagos a cuenta , o saldos a favor del contribuyente generados en declaraciones juradas anteriores, que den lugar a un mayor valor a pagar.
+  
+Cuando la Declaración Jurada contenga errores aritméticos o de liquidación, que ocasionan que el saldo a favor del contribuyente este equivocado y corresponda en realidad un saldo a favor del fisco.
+  
+Cuando la Declaración Jurada contenga errores aritméticos o de liquidación que ocasionen el establecimiento de un mayor valor a pagar.
+  
+Cuando la Declaración Jurada no haya sido presentada en la forma y plazos establecidos por el Servicio Nacional de Impuestos Internos, y en los formularios oficiales habilitados para el efecto, y esto ocasione multas o sanciones que al no haber sido liquidadas por los contribuyentes o responsables conduzcan al establecimiento de un mayor valor a pagar.
+  
+Las administraciones y subadministraciones de impuestos correspondientes realizarán los procesos de reliquidación de las obligaciones tributarias e intimarán el correcto pago de la obligación incluyendo el monto actualizado del tributo, el interés causado, la multa por mora y las demás multas que correspondan.
+
+# INCUMPLIMIENTO DE LOS PLANES DE FACILIDADES DE PAGO
+
+**Artículo 14°.-** El incumplimiento en el pago de las cuotas establecidas en los planes de facilidades de pago otorgados de conformidad con el artículo 46 del Código Tributario, dará lugar a que las administraciones o subadministraciones de impuestos correspondientes, declaren la caducidad del plan de facilidades de pago y ordenen la ejecución inmediata de las garantías entregadas por el contribuyente. En el caso de que las garantías no pudieran ser ejecutadas o no cubrieran el total de la obligación en mora, se intimará al contribuyente o responsable por el pago total del saldo de la obligación actualizada incluyendo los intereses causados, la multa por mora y las demás multas que correspondan y se iniciará simultáneamente el cobro coactivo.
+
+# OTRAS INTIMACIONES A SER PRODUCIDAS POR LAS ADMINISTRACIONES Y SUBADMINISTRACIONES DE IMPUESTOS
+
+**Artículo 15°.-** Cuando como resultado del proceso de reliquidación de las obligaciones tributarias, las administraciones y subadministraciones detecten otros errores de liquidación, que produzcan efectos sobre los saldos determinados por los contribuyentes, o sobre la información declarada, producirán las siguientes intimaciones.
+  
+Intimación por reducción de saldo a favor, en los casos en que habiendo sido liquidado por el contribuyente o responsable un saldo a su favor, el error de liquidación conduzca a establecer un menor saldo a favor del contribuyente o un saldo cero.
+  
+Intimación por ajuste de saldo declarado en los siguientes casos:
+
+1. Cuando por la existencia de error aritmético en la Declaración Jurada, corresponde una disminución del saldo a pagar por parte del contribuyente.
+2. Cuando por la existencia de error aritmético en la Declaración Jurada, corresponde un aumento del saldo a favor del contribuyente.
+3. Cuando la Declaración Jurada contiene un arrastre por menor valor de un saldo a favor del contribuyente, generado en una Declaración Jurada anterior, y producto de este error, corresponde una disminución del saldo a pagar por parte del contribuyente.
+4. Cuando la Declaración Jurada contiene un arrastre por menor valor de un saldo a favor del contribuyente generado en una Declaración Jurada anterior, y producto de este error corresponde un aumento del saldo a favor del contribuyente.
+     
+   Intimación por ajuste de información aritmética, en los casos en que a pesar de existir error aritmético en la Declaración Jurada, el saldo final declarado por el contribuyente no sufre modificación.
+     
+   Intimación por falta de datos básicos, cuando la Declaración Jurada o boleta de pago contiene errores en la información de impuesto, año o período, código de formulario, número de orden del formulario que paga o rectifica, marca de declaración original o rectificativa, y número de cargo o cuota, los cuales no permiten que la administración o subadministración respectiva, pueda realizar el proceso de reliquidación o de imputación de los documentos o los pagos.
+     
+
+   # EFECTOS TRIBUTARIOS DE LAS INTIMACIONES
+
+**Artículo 16°.-** Las intimaciones que produzcan las administraciones o subadministraciones de impuestos serán expedidas de acuerdo a lo establecido en los artículos 136 y 160 del Código Tributario, y los montos a pagar que en ellas se establezcan se consideran para todos los efectos firmes, líquidos y exigibles.
+
+# IMPUTACION DE LOS PAGOS
+
+**Artículo 17°.-** Los pagos que por cualquier concepto realicen los contribuyentes y responsables deberán imputarse al período, impuesto y Declaración Jurada o documentos que indique el contribuyente o responsable en primer lugar al impuesto a pagar o saldo a favor del fisco, en segundo lugar al mantenimiento de valor, en tercer lugar a los intereses, en cuarto lugar a la multa por mora y por último a las demás multas o sanciones.
+  
+Cuando el contribuyente o responsable impute el pago en forma diferente a la establecida en el presente artículo, la administración lo reimputará de oficio en la forma señalada, sin que medie acto administrativo alguno.
+
+# PAGO EN EXCESO Y PAGOS INDEBIDOS
+
+**Artículo 18°.-** Los pagos que realicen los contribuyentes y responsables que excedan el saldo adeudado o que correspondan a conceptos no obligados, podrán ser reclamados de acuerdo a lo establecido en el artículo 60 del Código Tributario.
+
+# CORRECCION DE ERRORES EN DECLARACIONES JURADAS Y BOLETAS DE PAGO
+
+**Artículo 19°.-** Las declaraciones juradas y boletas de pago que presenten los contribuyentes en las cuales existan errores en la información del impuesto, formulario, año o período, código de formulario, número de orden de formulario que paga o rectifica, marca de declaración original o rectificativa y número de cargo o cuota, podrán ser corregidos por solicitud a la administración o subadministración correspondiente, la cual deberá ser presentada dentro de un término máximo de seis meses contados a partir de la fecha de presentación de la declaración jurada o boleta de pago que contenga el error. Los Grandes Contribuyentes, deberán presentar la solicitud dentro de un término máximo de tres meses, a partir de la fecha de presentación de la declaración jurada o boleta de pago que contenga el error.
+  
+Las administraciones y subadministraciones de impuestos realizarán la corrección de la información previa verificación y comprobación de la existencia real del error cometido. Cuando el error se presente en el número de RUC el contribuyente deberá probar que el documento presentado si el corresponde. Para el efecto, la administración tributaria adelantará las gestiones de comprobación necesarias, con el fin de corregir la información del RUC errado en la boleta o declaración.
+  
+En caso de no ser presentada la solicitud dentro del término previsto en el presente artículo o de haber sido rechazada, los contribuyentes deberán subsanar su situación tributaria conforme a las demás normas vigentes sobre la materia. Si se tratara de pagos en exceso o de pagos indebidos, el contribuyente deberá realizar la reclamación establecida en el artículo 60 del Código Tributario.
+
+# PAGO DE IMPUESTOS CON NOTAS DE CREDITO NEGOCIABLES
+
+**Artículo 20°.-** El pago de impuestos con notas de crédito negociables expedidas para este fin, se realizará de acuerdo al siguiente procedimiento:
+  
+El contribuyente o responsable presentará para su redención ante la administración o subadministración de su jurisdicción, las notas de crédito que desee aplicar, con cargo a los impuestos definidos en las mismas.
+  
+Las administraciones y subadministraciones recibirán las notas de crédito a redimir, verificarán su validez y las redimirán cargando los montos correspondientes como crédito por valores a favor del contribuyente en los impuestos respectivos.
+  
+Los contribuyentes o responsables que hayan realizado operaciones de redención en la forma indicada en los literales anteriores, podrán utilizar para el pago de sus declaraciones juradas los saldos de crédito por valores correspondientes al mismo impuesto que tengan a su favor.
+
+**Artículo 21°.-** Durante el proceso de devolución impositiva y una vez haya sido autorizada la emisión de notas de crédito negociables para el pago de impuestos, la administración tributaria podrá por solicitud expresa del contribuyente o responsable, sustituir la emisión física de las notas de crédito que el correspondan, por el abono de iguales montos como crédito por valores a favor del contribuyente en los impuestos respectivos.
+
+# USO INDEBIDO DE CREDITOS POR VALORES
+
+**Artículo 22°.-** Cuando los contribuyentes o responsables, realicen imputaciones indebidas de créditos por valores, ya sea porque el origen de los mismos en falso o inexistente o porque los Títulos Valores que el dieron origen son falsos o inexistentes, las administraciones o subadministraciones correspondientes, reliquidarán las obligaciones respectivas, produciendo las intimaciones que correspondan, y adelantarán las demás acciones administrativas previstas en el Código Tributario y en las normas civiles y penales.
+
+# COMPETENCIA PARA LAS ACTUACIONES DE LA ADMINISTRACION TRIBUTARIA
+
+**Artículo 23°.-** Son competentes para realizar actuaciones a nombre de la administración tributaria, los jefes de sector de la misma, de acuerdo con las competencias específicas establecidas en normas, manuales e instructivos internos.
+
+**Artículo 24°.-** Sin perjuicio de lo establecido en el artículo 23 del presente Decreto Supremo corresponde al jefe de sector de fiscalización, o quien haga sus veces, proferir las órdenes de fiscalización, los requerimientos de información, los autos que ordenan inspecciones tributarias, los autos para cruces de información, las vistas de cargo, las actas de infracción, las actas de clausura y demás actos de trámite en los procesos de fiscalización y determinación de impuestos.
+  
+Corresponde a los funcionarios de esta dependencia, previa autorización o comisión del jefe de fiscalización, adelantar las visitas, investigaciones, verificaciones, cruces y en general las actuaciones preparatorias a los actos de competencia del jefe de dicha dependencia.
+
+**Artículo 25°.-** Sin perjuicio de lo establecido en el artículo 23 del presente Decreto Supremo, corresponde al jefe de sector de recaudación, o quien haga sus veces, proferir las intimaciones, los pagos a cuenta, los avisos de cobro de obligaciones en mora y demás actos en los procesos de recaudación de impuestos.
+
+# DISPOSICIONES FINALES
+
+**Artículo 26°.-** El Servicio Nacional de Impuestos Internos reglamentará los procedimientos necesarios para el cumplimiento de los objetivos del presente Decreto Supremo.
+
+**Artículo 27°.-** Derógase el artículo 17 del [Decreto Supremo Nº 21530](https://www.lexivox.org//norms/BO-DS-21530.html) (Texto ordenado en 1995); el artículo 10 del [Decreto Supremo Nº 21531](https://www.lexivox.org//norms/BO-DS-21531.html) (Texto ordenado en 1995); el artículo 8 del [Decreto Supremo Nº 21532](https://www.lexivox.org//norms/BO-DS-21532.html) (Texto ordenado en 1995); el artículo 1 y el numeral segundo del artículo 2 del [Decreto Supremo Nº 24599](https://www.lexivox.org//norms/BO-DS-24599.html) del 6 de mayo de 1997; y todas las disposiciones de tipo reglamentario que sean contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de septiembre de mil novecientos noventa y ocho años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada, Fernando Kieffer Guzmán, Herbert Müller Costas, Ana María Cortéz de Soriano, Jorge Pacheco Franco, Tito Hoz de Vila Quiroga, Tonchy Marinkovic Uzqueda, Leopoldo López Cossio, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Amparo Ballivián Valdés.

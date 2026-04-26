@@ -1,0 +1,186 @@
+# Bolivia: Decreto Supremo Nº 24434, 12 de diciembre de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+  
+ADMINISTRACION DE SERVICIOS PORTUARIOS - BOLIVIA
+
+CONSIDERANDO:
+
+* Que el [Decreto Ley Nº 7230](https://www.lexivox.org//norms/BO-DL-7230.html) del 30 de junio de 1965, ampliado y complementado por decretos supremos [Nº 8866](https://www.lexivox.org//norms/BO-DS-8866.html) y [Nº 8968](https://www.lexivox.org//norms/BO-DS-8968.html) respectivamente de 28 de julio y 27 de octubre de 1969, creó la Administración Autónoma de Almacenes Aduaneros como entidad de Derecho Público con personalidad jurídica propia y autonomía financiera, para recibir, almacenar y entregar toda la mercadería importada o por exportar y cooperar con la organización aduanera boliviana en la clasificación, aforo y despacho de las importaciones y exportaciones del país;
+* Que la Administración Autónoma de Almacenes Aduaneros se vió enfrentada, no obstante de sus auspiciosos inicios, a un conjunto de problemas internos y externos, que el impidieron cumplir adecuadamente las funciones que se el habían asignado y satisfacer las expectativas de los usuarios del sistema;
+* Que el [Decreto Supremo Nº 23098](https://www.lexivox.org//norms/BO-DS-23098.html) de 19 de marzo de 1992 dispuso, al reorganizar el sistema aduanero del país, la privatización de los servicios que la Administración Autónoma de Almacenes Aduaneros prestaba en el territorio nacional, manteniendo únicamente sus facultades de atender el servicio exterior en puertos de tránsito, funciones que no pueden ser delegadas a personas privadas, en respeto de principios constitucionales porque involucraría la presencia del Estado boliviano en esos puertos;
+* Que es necesario modernizar la prestación de los indicados servicios, creando una administración que facilite y ejerza un eficaz control y fiscalización de las operaciones propias del tránsito de mercaderías de importación y exportación, cuya estructura técnica y administrativa se adecúe a las exigencias del tráfico y responda a las estrategias económicas y geopolíticas que el comercio internacional impone al Estado;
+* Que es necesario, en el marco de ese objetivo, jerarquizar y conferir mayor dinamismo a la agencia aduanera de Bolivia en los referidos puertos, cuyas funciones reconocidas en tratados y convenios vigentes se insertan en el sistema de recaudación, control, verificación y fiscalización de la administración aduanera y en el sistema integrado de administración tributaria a instituirse por el Poder Ejecutivo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (De la extinción de AADAA)** Queda extinguida la Administración Autónoma de Almacenes Aduaneros (AADAA) a partir de los ochenta (80) días de la fecha de vigencia del presente decreto supremo, institución creada por [Decreto Ley Nº 7230](https://www.lexivox.org//norms/BO-DL-7230.html) de 30 de junio de 1965, ampliada en sus funciones a puertos y lugares de tránsito por [Decreto Supremo Nº 8866](https://www.lexivox.org//norms/BO-DS-8866.html) de 28 de julio de 1969 y modificada en su status jurídico a empresa pública estatal por el [Decreto Supremo Nº 23098](https://www.lexivox.org//norms/BO-DS-23098.html) de 19 de marzo de 1992.
+
+**Artículo 2°.- (De la creación de ASP-B)** Créase, en sustitución de la extinguida Administración Autónoma de Almacenes Aduaneros, la Administración de Servicios Portuarios Bolivia (ASP-B), como entidad pública descentralizada sin fines de lucro, con autonomía de gestión técnica, administrativa y financiera, personalidad jurídica y patrimonio propios, que ejercerá las funciones y atribuciones establecidas en el presente decreto y sus normas reglamentarias a partir de la fecha de extinción de AADAA.
+
+**Artículo 3°.- (De la tuición de ASP-B)** La ASP-B estará bajo la tuición del Ministerio de Hacienda, de conformidad con el artículo 117 del [Decreto Supremo Nº 23360](https://www.lexivox.org//norms/BO-DS-23360.html) del 12 de octubre de 1993, reglamentario de la Ley de Ministerios del Poder Ejecutivo.
+
+**Artículo 4°.- (De las atribuciones de ASP-B)** La Administración de Servicios Portuarios-Bolivia, tendrá las siguientes atribuciones:
+  
+Ser el agente aduanero oficial acreditado por el Gobierno boliviano en los puertos habilitados para el tránsito de mercaderías de y hacia Bolivia.
+  
+Ejercer la potestad que tiene el Estado boliviano en los puertos habilitados para el tránsito de mercaderías de y para Bolivia, controlando y fiscalizando las operaciones de comercio exterior, conforme a las normas jurídicas vigentes.
+  
+Ejecutar las políticas del Gobierno nacional sobre desarrollo portuario y comercio exterior.
+
+**Artículo 5°.- (De las funciones específicas)** La ASP-B ejercerá las siguientes funciones específicas, en cumplimiento de tratados y convenios internacionales, y a nombre del Gobierno boliviano:
+  
+Recibir, almacenar, custodiar, proteger, entregar, embarcar o reembarcar toda clase de mercancías de importación en tránsito hacia Bolivia, independientemente de su procedencia, consignadas a personas individuales o colectivas, nacionales o extranjeras, públicas o privadas y/u organismos internacionales, en los puertos de tránsito donde la entidad tenga agencias establecidas.
+  
+Estas atribuciones comprenden a las mercancías de exportación de empresas e instituciones gubernamentales. ASP-B también podrá prestar estos servicios a los exportadores privados que así lo requieran.
+  
+Constituirse en agente despachador de aduana en los puertos y lugares de tránsito de mercaderías y de productos internados o despachados de y hacia Bolivia.
+  
+Establecer y administrar almacenes afianzados en puertos extranjeros y lugares de tránsito de mercaderías y productos internados o despachados de y hacia Bolivia.
+  
+Coadyuvar, en su calidad de agente aduanero, a la Dirección General de Aduanas en la elaboración de manifiestos de carga/declaración de tránsito aduanero (MC/DTA) o manifiesto internacional de carga/declaración de tránsito aduanero (MIC/DTA), como documento de aduana de partida de todas las mercancías en tránsito hacia Bolivia despachadas desde los puertos habilitados para su comercio; debiendo respetar, aplicar y cumplir las normas, procedimientos y sistemas dispuestos por la Dirección General de Aduanas.
+  
+Apoyar, en el ámbito de su competencia, las tareas de la Dirección General de Aduanas de Bolivia.
+  
+Realizar tareas de manipuleo de carga en puerto mediante la contratación o subcontratación de los indicados servicios.
+  
+Establecer el tarifario para los servicios prestados, que deberá reflejar los costos mínimos de operación.
+  
+Establecer almacenes, silos y recintos extraportuarios para el servicio del comercio exterior de Bolivia.
+  
+Generar la información de base de un sistema integrado de control aduanero como aduana de partida.
+
+## Capítulo II Del Directorio
+
+**Artículo 6°.- (Del Directorio)** El directorio es el órgano superior de la Administración de Servicios Portuarios-Bolivia, encargado de definir regulaciones que preserven los derechos e intereses del Estado boliviano y de los usuarios en los puertos de tránsito, orientar y desarrollar las actividades de la entidad, y sugerir las políticas a aplicarse por el Gobierno nacional en materia portuaria y de control del comercio exterior.
+
+**Artículo 7°.- (De la conformación)** El directorio estará constituido en la siguiente forma:
+  
+El Ministro de Hacienda, que ejercerá la presidencia y podrá ser representado por el Secretario Nacional de Hacienda.
+  
+El Secretario Nacional de Relaciones Internacionales o el subsecretario que éste delegue.
+  
+El Subsecretario de Tributación, que podrá ser representado por el Director de Tributación Aduanera.
+  
+El Presidente de la Cámara Nacional de Industrias, que podrá ser representado por la autoridad que éste designe.
+  
+El Presidente de la Cámara Nacional de Comercio, que podrá ser representado por la autoridad que éste designe.
+  
+El Director ejecutivo de la entidad será el secretario del directorio, con derecho a voz pero sin voto.
+  
+Las labores que desempeñen los miembros del directorio y su secretario, no serán remuneradas por ningún concepto.
+
+**Artículo 8°.- (De las reuniones, del quorum y de la votación)** El directorio debe reunirse en sesiones ordinarias con la periodicidad que disponga el reglamento, a que se refiere el numeral 1 del artículo siguiente, y extraordinariamente cuantas veces sea necesario, para la organización y eficiente desarrollo de la entidad. Las reuniones extraordinarias podrán convocarse cuando el presidente del directorio así lo considere o a petición expresa de cualquiera de los miembros del directorio.
+  
+El Directorio formará quorum con cuatro (4) de sus miembros, con la obligatoria asistencia de su Presidente.
+  
+Todas las decisiones serán adoptadas por mayoría absoluta de votos de los directores presentes.
+
+**Artículo 9°.- (De las atribuciones)** El directorio tendrá las siguientes atribuciones:
+  
+Definir los lineamientos y políticas que orienten las actividades de la entidad así como aprobar el estatuto, manual orgánico funcional y reglamento interno de ASP-B, así como las enmiendas que sean propuestas por la dirección ejecutiva de la entidad.
+  
+El estatuto, manual orgánico funcional y reglamento interno, y sus enmiendas, aprobados por el directorio de la entidad, serán puestos en vigencia mediante resolución ministerial del Ministerio de Hacienda.
+  
+Designar al Director ejecutivo de la entidad, por dos tercios 2/3 de la totalidad de los directores.
+  
+Licitar y adjudicar los servicios portuarios, ajustándose a las normas legales vigentes en la materia.
+  
+Aprobar los niveles tarifarios de todos los servicios que preste la entidad, a propuesta del Director ejecutivo, que se pondrán en vigencia mediante resolución secretarial de la Secretaría Nacional de Hacienda.
+  
+Contratar al personal ejecutivo, de acuerdo a lo establecido en el reglamento interno de la entidad.
+  
+Autorizar la ejecución de obras en general, para la realización de los objetivos y funciones específicas de la ASP-B, con sujeción a las normas legales vigentes en la materia.
+  
+Sugerir a los órganos competentes la adopción de políticas y normas legales, que contribuyan a que la entidad responda permanentemente a las exigencias del comercio exterior en constante evolución.
+  
+Aprobar el presupuesto de la entidad y fiscalizar su cumplimiento.
+  
+Contratar auditorías externas de acuerdo con las leyes, para la revisión de los estados contables y balances de administración.
+  
+Fiscalizar las labores de la Dirección ejecutiva y aprobar los balances de la entidad.
+  
+Establecer y organizar agencias en puertos marítimos, lacustres, fluviales o en localidades que sirvan de tránsito en el exterior del país, a mercaderías de importación.
+  
+Concretar con aprobación del Ministerio de Hacienda, acuerdos con autoridades portuarias, representantes de zonas francas, agencias de empresas porteadoras y otras en materias que se vinculen al objetivo de facilitar el tráfico del comercio exterior del país.
+  
+Conformar las comisiones necesarias para su funcionamiento, entre ellas una de evaluación técnica de los pliegos y propuestas para la contratación de servicios portuarios antes de su presentación al directorio, en cuya consideración necesariamente deben participar los dos miembros del directorio representantes del sector privado.
+  
+Otorgar al Director ejecutivo los poderes necesarios para el cumplimiento de sus funciones.
+  
+Designar y decidir la contratación de las auditorías interna y externa de la entidad.
+
+**Artículo 10°.- (De las atribuciones del Presidente)** Son atribuciones del Presidente del Directorio las siguientes:
+  
+Convocar y presidir las reuniones ordinarias y extraordinarias del directorio, con derecho a voz y voto dirimidor.
+  
+Supervisar y controlar las actividades de la entidad y de su Director ejecutivo.
+  
+Representar judicialmente a la entidad junto al Director Ejecutivo, pudiendo ambos delegar esta representación en terceros, mediante poderes especiales.
+
+## Capítulo III De la Direccion Ejecutiva
+
+**Artículo 11°.- (Del Director ejecutivo)** El Director ejecutivo es la máxima autoridad administrativa de la entidad, siendo responsable ante el directorio de organizar, dirigir y coordinar la actividad general de la Administración de Servicios Portuarios - Bolivia. Será designado por el directorio por el período de dos (2) años, pudiendo ser ratificado en su mandato por períodos consecutivos.
+
+**Artículo 12°.- (Atribuciones)** Son atribuciones del Director ejecutivo de la entidad, las siguientes:
+  
+Representar oficialmente a la entidad por delegación del directorio, conforme a los poderes que éste el otorgue.
+  
+Administrar la entidad bajo su responsabilidad, de acuerdo a las atribuciones que el señala el presente decreto, los estatutos y el reglamento interno de la entidad.
+  
+Cumplir y hacer cumplir las disposiciones legales que rigen la administración de la entidad, los estatutos, los reglamentos que se dictaren y las decisiones del directorio.
+  
+Asesorar en la contratación de los servicios portuarios, ajustándose a las especificaciones y decisiones del directorio y velar por su correcta ejecución.
+  
+Proponer al directorio los presupuestos anuales, para su consideración y aprobación.
+  
+Designar al personal técnico, administrativo y demás funcionarios, de acuerdo al reglamento interno de la entidad.
+  
+Preparar y presentar los balances al cierre de cada gestión para la aprobación del directorio.
+
+## Capítulo IV De la etapa de transicion
+
+**Artículo 13°.- (Liquidación de AADAA)** La Administración Autónoma de Almacenes Aduaneros (AADAA) procederá a su liquidación, dentro los ochenta (80) días de la vigencia del presente decreto supremo, debiendo transferir la totalidad de sus activos y pasivos a ASP-B, excepto los activos que previa evaluación no sean necesarios para el funcionamiento de la nueva entidad y que serán transferidos al Tesoro General de la Nación.
+  
+El fondo de operaciones de AADAA será transferido íntegramente a la nueva entidad.
+  
+AADAA deberá transferir sus cuentas por cobrar en calidad de activos a la Administración de Servicios Portuarios-Bolivia (ASP-B), en el momento de inicio de actividades de ésta última; actividades, empresa que tendrá suficiente personalidad jurídica para efectuar el cobro de dichas cuentas, conforme al reglamento que dicte su directorio.
+  
+AADAA debe liquidar en el mismo plazo su actual personal, cumpliendo las normas legales vigentes en la materia. El personal liquidado de AADAA podrá ser contratado por ASP-B, previo cumplimiento de lo establecido en los artículos 9, atribución 5, y 12, atribución 6, del presente decreto.
+
+**Artículo 14°.- (De la constitución del directorio de ASP-B)** El directorio de la administración de servicios portuarios Bolivia debe constituirse dentro los treinta (30) días de vigencia del presente decreto supremo para prever la organización de la nueva entidad.
+  
+El directorio aprobará, en el término de sesenta (60) días computable a partir de la vigencia del presente decreto, el estatuto, manual orgánico funcional y reglamento interno que la dirección ejecutiva de AADAA en liquidación presente a su consideración.
+
+**Artículo 15°.- (Resolución de contratos)** AADAA en liquidación deberá culminar, en el marco de las normas legales vigentes, sus procesos judiciales pendientes. Todos los procesos judiciales que no se haya culminado, hasta la fecha de inicio de funciones de ASP-B, deberán transferirse a ésta entidad, que tendrá la suficiente personalidad jurídica para continuarlos hasta su finalización, debiendo tomarse las previsiones presupuestarias pertinentes.
+
+## Capítulo V Abrogaciones y derogaciones
+
+**Artículo 16°.-** Abrógase las siguientes disposiciones legales:
+[Decreto Nº 7230](https://www.lexivox.org//norms/BO-DS-7230.html) de 30 de junio de 1965.
+[Decreto Supremo Nº 8866](https://www.lexivox.org//norms/BO-DS-8866.html) de 28 de julio de 1969.
+[Decreto Supremo Nº 8968](https://www.lexivox.org//norms/BO-DS-8968.html) de 27 de octubre de 1969.
+[Decreto Supremo Nº 9572](https://www.lexivox.org//norms/BO-DS-9572.html) de 9 de febrero de 1971.
+[Decreto Supremo Nº 11190](https://www.lexivox.org//norms/BO-DS-11190.html) de 23 de noviembre de 1973.
+  
+Derógase:
+  
+Los artículos 34, 35 y 158 del [Decreto Supremo Nº 23098](https://www.lexivox.org//norms/BO-DS-23098.html) de 19 de marzo de 1992.
+  
+El artículo 2 del [Decreto Supremo Nº 23806](https://www.lexivox.org//norms/BO-DS-23806.html) de 23 de junio de 1994.
+  
+Se abroga todas las demás disposiciones legales contrarias al presente decreto supremo.
+
+---
+
+El señor Ministro de Estado en el despacho de Hacienda queda encargado del cumplimiento y ejecución del presente decreto supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de diciembre de mil novecientos noventa y seis años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Franklin Anaya Vásquez, Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval, Raúl España Smith, Fernando Candia Castillo, Freddy Teodovich Ortíz, Moisés Jarmúsz Levy, Hugo San Martín Arzabe, Mauricio Balcazar Gutiérrez, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

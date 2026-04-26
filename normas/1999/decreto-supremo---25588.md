@@ -1,0 +1,54 @@
+# Bolivia: Decreto Supremo Nº 25588, 19 de noviembre de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+  
+Refinerías y Poliductos
+  
+Plantas de Almacenamiento
+  
+Estaciones de Servicios de Carburantes
+  
+Estaciones de Servicio de Aeropuertos
+  
+Engarrafadoras de Gas Licuado de Petróleo
+  
+Redes de Distribución de Gas Natural
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1330](https://www.lexivox.org//norms/BO-L-1330.html) de 24 de abril de 1992 (Ley de Privatización) autoriza a las instituciones, entidades y empresas del sector público enajenar los activos, bienes, valores, acciones y derechos de su propiedad y transferirlos a personas naturales o jurídicas, nacionales o extranjeras, o aportar los mismos a la constitución de nuevas sociedades anónimas mixtas.
+* Que la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de fecha 16 de septiembre de 1997, establece entre las atribuciones del Ministerio de Comercio Exterior e Inversión, la de ejecutar las actividades correspondientes a los procesos de privatización y capitalización de las empresas del sector público.
+* Que por [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html) se reglamenta la Ley de Privatización disponiendo que todas las empresas y demás entidades públicas propietarias de unidades económicas, activos, bienes, valores, acciones y derechos, se deben someter a procesos de reordenamiento de acuerdo a sus normas.
+* Que por [Decreto Supremo Nº 24855](https://www.lexivox.org//norms/BO-DS-24855.html) de fecha 22 de septiembre de 1997, se reglamenta la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) y encarga al Ministerio de Comercio Exterior e Inversión, las funciones de formular y ejecutar las políticas y normas de privatización de las empresas del sector público en coordinación con los Ministerios sectoriales.
+* Que el [Decreto Supremo Nº 24873](https://www.lexivox.org//norms/BO-DS-24873.html) de 20 de octubre de 1997, dispone que el Consejo Nacional de Política Económica (CONAPE) cumplirá las funciones establecidas en la [Ley Nº 1330](https://www.lexivox.org//norms/BO-L-1330.html) para el CONEPLAN y las que se encargan por [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html) al Consejo de Desarrollo Nacional (CODENA), en tanto que las funciones y atribuciones del Ministro sin Cartera Responsable de Capitalización señaladas en dicho decreto supremo serán cumplidas por el Ministro de Comercio Exterior e Inversión.
+* Que por [Ley Nº 1981](https://www.lexivox.org//norms/BO-L-1981.html) de 27 de mayo de 1999, se excluye de los alcances de la Ley de Capitalización 1544 del 21 de marzo de 1994, las actividades de refinación, transporte, almacenaje y comercialización de Hidrocarburos que la Empresa Yacimientos Petrolíferos Fiscales Bolivianos desarrollaba. Asimismo, la indicada ley, establece que el Poder Ejecutivo determinará las estrategias y mecanismos para la transparencia o concesión al sector privado de las unidades económicas dedicadas a las actividades referidas, de acuerdo con lo establecido en la Ley de Privatización 1330 de 24 de abril de 1992.
+* Que el Consejo de Política Económica CONAPE, por resolución de fecha 13 de mayo de 1999, ha definido la estrategia de privatización de las refinerías de YPFB.
+* Que por resolución del directorio de YPFB Nº 20/99 de 27 de mayo de 1999 se autoriza a la presidencia ejecutiva de YPFB a realizar los actos jurídicos necesarios para el reordenamiento de las unidades de negocios de refinación, transporte, almacenaje y comercialización de YPFB y ceder y transferir a terceros los bienes correspondientes a estas unidades, comprendiendo entre ellas las siguientes:
+  Plantas de Colpa y Caranda
+* Que por Resolución Ministerial 111/99 de 27 de mayo de 1999, el Ministerio de Comercio Exterior e Inversión ha aprobado el Plan Específico y el Pliego de Condiciones de la licitación MCEI/YPFB/UR/LIC 003/99 en cumplimiento del artículo 11 inc. b) del [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html).
+* Que mediante Licitación Pública Nacional e Internacional Referencia MCEI/YPFB/UR/LIC 003/99 el Ministerio de Comercio Exterior e Inversión (MCEI) y Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) convocan a empresas o grupos empresariales interesados, en participar en la Licitación para la Venta de los Activos de las Refinerías de Petróleo de Propiedad de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB).
+* Que conforme establece la resolución suprema 215521 de 13 de abril de 1995 y [Decreto Supremo Nº 24873](https://www.lexivox.org//norms/BO-DS-24873.html) de 20 de octubre de 1997, por Resolución Ministerial Nº 242/99 de 10 de noviembre de 1999 se ha constituido una Comisión Calificadora.
+* Que el Ministro de Comercio Exterior e Inversión ha presentado a consideración del Presidente de la República en Consejo de Ministros, el informe de la Comisión Calificadora de fecha 15 de noviembre de 1999, por la que, en uso de las atribuciones establecidas en la resolución suprema 215521, de acuerdo al análisis efectuado y por unanimidad, recomienda la adjudicación de Licitación Pública Nacional e Internacional Referencia MCEI/YPFB/UR/LIC 003/99 en favor del consorcio “Asociación Petrobras Bolivia S.A. Pérez Companc International” en la suma de Ciento Dos Millones Quinientos Dólares Americanos ($US 102.000.500).
+* Que la adjudicación debe efectuarse mediante decreto supremo, conforme establece el artículo séptimo de la resolución suprema 215521 de 13 de abril de 1995 concordante con el [Decreto Supremo Nº 24873](https://www.lexivox.org//norms/BO-DS-24873.html) de 20 de octubre de 1997.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Adjudícase la Licitación Pública Nacional e Internacional Referencia MCEI/YPFB/UR/LIC 003/99 en favor del consorcio “Asociación Petrobras Bolivia S.A. Pérez Companc International” en la suma de Ciento Dos Millones Quinientos Dólares Americanos ($US 102.000.500), disponiéndose la venta de los Activos de las Refinerías de Petróleo de Propiedad de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), en las condiciones establecidas en el Pliego de Condiciones de la Licitación.
+
+**Artículo 2°.-** Para la determinación del pasivo ambiental de las unidades económicas que se transfieren, se autoriza al Ministerio de Comercio Exterior e Inversión establecer, con el consorcio adjudicado en el artículo anterior, la contratación directa de una firma consultora especializada, con la mediación del banco de Inversión Paribas - Secorec.
+  
+Los Ministerios de Desarrollo Económico y de Desarrollo Sostenible apoyarán y coordinarán con el Ministerio de Comercio Exterior e Inversión, la contratación autorizada y los servicios que se deriven del mismo.
+
+**Artículo 3°.-** Se autoriza al Ministerio de Comercio Exterior e Inversión a descontar del pago de transferencia dispuesta en el artículo 1, el monto que resulte del estudio de auditoria ambiental, para cubrir el costo de remediación.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Comercio Exterior e Inversión, de Desarrollo Sostenible y Planificación y de Desarrollo Económico, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de noviembre de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo MINISTRO INTERINO DE RR. EE. Y CULTO, Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Herbert Müller Costas, Juán Antonio Chahín Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, Walter Nuñez Rodriguez MINISTRO INTERINO DE AGRICULTURA, GANADERIA Y DESARROLLO RURAL, Erick Reyes Villa Bacigalupi, Carlos Saavedra Bruno, Rubén Poma Rojas, Jorge Landivar Roca.

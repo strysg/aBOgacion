@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 24916, 5 de diciembre de 1997
+
+HUGO BANZER SUAREZ,
+  
+PRESIDENTE DE LA REPUBLICA
+
+Considerando:
+
+* Que es necesario formular el Plan General de Desarrollo Económico y Social para la gestión 1997 - 2002. cuya ejecución será obligatoria, conforme al mandato del artículo 144 de la Constitución Política del Estado:
+* Que la Ley I788 de Organización del Poder Ejecutivo de 16 de septiembre de 1,997 ha instituido nuevos mecanismos normativos, ejecutivos y de control para las políticas de desarrollo nacional;
+* Que es necesario contar con un plan operativo de acción para la gestión 1,997 - 2002, además de las políticas estatales para el desarrollo económico y social a ejecutarse más allá de una gestión presidencial;
+* Que ambos documentos han sido enriquecidos con el Diálogo Nacional que se ha instituido en el país por primera vez, en la búsqueda de la concertación de los agentes económicos, sociales, políticos y demás componentes de la sociedad civil, para lograr un desarrollo nacional armónico, autosostenible y concertado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se aprueba el Plan General de Desarrollo Económico y Social para la gestión 1997 - 2002. que lleva el titulo de “Bolivia XXI - País socialmente solidario-”, y el Plan Operativo de Acción 1997 - 2002, intitulado “Para vivir mejor”, cuyos textos forman parte del presente decreto supremo.
+
+**Artículo 2°.-** Póngase en conocimiento del Congreso Nacional
+
+---
+
+Los señores Ministros de Estado quedan encargados en sus respectivos despachos de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los cinco días del mes de diciembre de mil novecientos noventa y siete años.
+  
+FDO. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Nayar Parada. Luis Daza Montero. MINISTRO INTERINO DE DEFENSA NACIONAL, Edgar Millares Ardaya, Ana María Cortez de Soriano, Ivo Kuljis Futchner, Tito Hoz de Vila Quiroga, Tonchy Marinkovic Uzqueda, Leopoldo López Cossio, Luis Freddy Conde López, Erick Reyes Villa Bacigalupi, Amparo Ballivián de Zalles, MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION. Javier Escobar Salguero.

@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 27976, 14 de enero de 2005
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el 15 de marzo de 1997, la República de Bolivia y la Corporación Andina de Fomento “CAF”, suscribieron un Contrato de Préstamo destinado a financiar el Segundo Programa de Mantenimiento Vial, del cual forma parte la construcción de la carretera Kucho-Ingenio-Potosí en el departamento de Potosí, cuyo ente ejecutor es el Servicio Nacional de Caminos - SENAC.
+* Que por Contrato de Préstamo Nº 067/97 de 24 de noviembre de 1997, el Fondo Nacional de Desarrollo Regional - FNDR y la Prefectura del Departamento de Potosí determinan el Plan de Inversiones; ejecutándose el proyecto de acuerdo a los alcances requeridos, conforme a los fines operativos, técnicos y financieros.
+* Que el 18 de diciembre de 2003 y 25 de marzo de 2004 se suscribieron Actas de Recepción Provisional y de Recepción Definitiva del Proyecto Carretera Kucho Ingenio-Potosí.
+* Que posterior a la conclusión del Proyecto, por caso fortuito se produjo el destrozo del puente Lajas, lo que incide que el tramo carretero quede totalmente inviable, por lo que urge proceder con una nueva construcción debido a su importancia por formar parte de la red Fundamental de Carreteras, contando a la vez con la no objeción de la CAF para la disponibilidad de financiamiento parcial con recursos remanentes.
+* Que la Presidencia del Servicio Nacional de Caminos emite Resolución Presidencial Nº 80-A/2004 de 28 de julio de 2004, autorizando la ampliación del Contrato original de Obra para la construcción del Puente Lajas y obras complementarias, como medida excepcional, dentro del marco legal establecido en la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html).
+* Que el Fondo Nacional de Desarrollo Regional -FNDR, entidad descentralizada, tiene como objeto la ejecución de financiamientos a través de Créditos, otorgados a los Gobiernos Municipales, Prefecturas Departamentales y Mancomunidades en base a los lineamientos establecidos en la normativa institucional (Reglamento de Créditos).
+* Que para este propósito, la República de Bolivia ha solicitado a la Corporación Andina de Fomento - CAF el otorgamiento de un préstamo destinado al financiamiento de este Programa, el mismo que fue aprobado por la CAF.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto aprobar la ampliación del Contrato Original de Construcción del Proyecto Mejoramiento del tramo vial Potosí - Kuchu Ingenio, celebrado entre el Servicio Nacional de Caminos y la Empresa Constructora FORTI & LEON -CONVISA y autorizar al Fondo Nacional de Desarrollo Regional - FNDR otorgar recursos económicos a favor de la Prefectura del Departamento de Potosí, que representan saldos remanentes del financiamiento del Proyecto Mejoramiento del tramo vial Potosí - Kuchu Ingenio para cubrir la contraparte local del proyecto de construcción del Puente Lajas y obras complementarias en el Departamento de Potosí.
+
+**Artículo 2°.- (Simplificacion de tramite administrativo para el FNDR)** Para el cumplimiento del objetivo establecido en el Artículo precedente, se autoriza de manera excepcional al FNDR, dada la emergencia por la disponibilidad de recursos, prescindir de los procedimientos de operaciones para la aprobación del financiamiento a favor de la Prefectura de Potosí.
+
+**Artículo 3°.- (Simplificacion del tramite administrativo para la Prefectura del Departamento de Potosi)** Se exime a la Prefectura del Departamento de Potosí el trámite de inicio y obtención del certificado de operaciones de Crédito Público, siendo suficiente el presente Decreto Supremo para la obtención del financiamiento.
+
+---
+
+Los señores Ministros de Estado en los Despachos de la Presidencia, Obras Públicas y Servicios Básicos y, Sin Cartera Responsable de Participación Popular, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de enero del año dos mil cinco.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Luis Carlos Jemio Mollinedo, Gustavo Pedraza Mérida, Horst Grebe López Ministro de Desarrollo Económico e Interino de Servicios y Obras Públicas, Guillermo Torres Orias, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

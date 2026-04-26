@@ -1,0 +1,28 @@
+# Bolivia: Decreto Ley Nº 16833, 19 de julio de 1979
+
+GRAL. DIV. DAVID PADILLA ARANCIBIA
+  
+PRESIDENTE DE LA H. JUNTA MILITAR DE GOBIERNO
+
+CONSIDERANDO:
+
+* Que, de la H. Junta Militar de Gobierno mediante [Decreto Ley Nº 16173](https://www.lexivox.org//norms/BO-DL-16173.html) de 9 de febrero de 1979 ha dispuesto la centralización de las funciones hasta entonces cumplidas por la Dirección de Registro de Comercio y la Dirección de Sociedades por Acciones respectivamente, en un solo ENTE JURIDICO: LA DIRECCION DEL REGISTRO DE COMERCIO Y SOCIEDADES POR ACCIONES, como único órgano técnico, legal y administrativo de fé pública con jurisdicción nacional y dependiente del Ministerio de Industria, Comercio y Turismo encargado de dirigir, regular y garantizar la actividad comercial en el país;
+* Que, por el Art. Segundo del [Decreto Ley Nº 16173](https://www.lexivox.org//norms/BO-DL-16173.html) de 9 de febrero de 1979, se estableció el plazo para que el Ministerio de Industria, Comercio y Turismo presentará el Reglamento que norme la organización y funcionamiento de la Dirección del Registro de Comercio y Sociedades por Acciones:
+* Que, a fin de compatibilizar y adecuar el funcionamiento y organización de la Dirección del Registro de Comercio y Sociedades por Acciones, a la realidad del desenvolvimiento comercial nacional, fué necesario estudiar cuidadosamente la redacción del nuevo reglamento, estudio que demandó un tiempo mayor al concedido por el Art. 2° del [Decreto Ley Nº 16173](https://www.lexivox.org//norms/BO-DL-16173.html) de 9 de febrero de 1979:
+* Que, habiéndose compatibilizado y adecuado a la fecha la organización y funcionamiento de la Dirección del Registro de Comercio y Sociedades por Acciones a las características y necesidades de la actividad económica del país en el Reglamento presentado por el Ministerio de Industria, Comercio y Turismo al Poder Ejecutivo para su consideración.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Apruébase el Reglamento de la Dirección del Registro de Comercio y Sociedades por Acciones en los 15 Títulos, 46 Capítulos, 99 Artículos, en Disposiciones Transitorias de que consta.
+
+**Artículo 2°.-** Convalídase los actos y resoluciones realizados y adoptados por la Dirección del Registro de Comercio y Sociedades por Acciones, desde la promulgación del [Decreto Ley Nº 16173](https://www.lexivox.org//norms/BO-DL-16173.html) de 9 de febrero de 1979 hasta la promulgación del presente Decreto Ley.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Industria, Comercio y Turismo y Finanzas, quedan encargados de la ejecución y cumplimiento del presente Decreto Ley.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de julio de mil novecientos setenta y nueve años.
+  
+FDO. GRAL. DIV. DAVID PADILLA ARANCIBIA, Raúl López Leytón, Ismael Saavedra Sandoval, Gary Prado Salmón, Javier Alcoroza Melgarejo, Simón Sejas Tordoya, Juan Muñoz Revollo, Oscar Pammo Rodríguez, Hermes Fellman Forteza, Mario Candia Navarro, Luis Rivera Palacios, Norberto Salomón Soria, Jaime Arancibia Echavarría.

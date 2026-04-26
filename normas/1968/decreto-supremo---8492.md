@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 8492, 26 de septiembre de 1968
+
+[Decreto Supremo Nº 08492](https://www.lexivox.org//norms/BO-DS-8492.html)  
+GRAL. RENE BARIENTOS ORTUÑO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la Cooperativa Boliviana de Cemento (COBOCE) de la ciudad de Cochabamba, previo estudio de factibilidad efectuado por la firma de consultores The Ken R. White, ha convocado a propuestas para la provisión y consiguiente financiamiento de una fábrica de cemento a instalarse en la Provincia Capinota del Departamento de Cochabamba.
+* Que habiéndose presentado dieciséis propuestas COBOCE ha seleccionado a las firmas COFEI, NAVAL, HUMBOLT, GRUPP y SOCIETA ITALIANA IMPIANTI Spa., por haber ofrecido las mejores condiciones en cuanto a tecnología, financiamiento, costo y capacidad de la fábrica;
+* Que el Consejo Nacional de Desarrollo y Estabilización, en ejecución del inciso g) del Art.3º y Art.8º del [Decreto Supremo Nº 07815](https://www.lexivox.org//norms/BO-DS-7815.html) de 20 de septiembre de 1966, ha tomado conocimiento de este proyecto, y en vista de que cuatro de las firmas seleccionadas han presentado mejoras en sus ofertas, constituyó una comisión especial con objeto de que analice exsaustivamente los términos de dichas mejoras presentadas y recomiende las medidas a seguirse;
+* Que el Consejo en sus sesiones de los días 12, 16 y 19 del presente mes de septiembre, ha adoptado determinaciones que confrontan las posibilidades económicas de COBOCE, sus perspectivas de colocación de acciones al público, las condiciones que ofrecen cada uno de los proponentes, la calidad, costo y tiempo para la instalación de la fábrica;
+* Que es deber del Supremo Gobierno cooperar e impulsar el establecimiento de industrias que contribuyan de manera positiva al desarrollo regional y nacional;
+
+EN CONSEJO DE MINISTROS, Y CON DICTÁMEN FAVORABLE DEL CONSEJO NACIONAL DE DESARROLLO Y ESTABILIZACIÓN,
+
+DECRETA:
+
+**Artículo 1°.-** Autorízase a la Corporación Boliviana de Fomento a conceder el aval solicitado por la COOPERATIVA BOLIVIANA DE CEMENTO (COBOCE) y determínase que dicho aval sea concedido en favor de la firma SOCIETA ITALIANA IMPIANTI de Génova, Italia, hasta la cantidad de $us.5.950 000.- con destino a la fábrica y el andarivel especificados en su oferta y un financiamiento adicional de $us.500.000. para las obras complementarias que el proyecto demande, al interés del 6% anual y a un plazo de once años, bajo las condiciones de entrega de llave en mano, de la fábrica de cemento a instalarse en la Provincia Capinota del Departamento de Cochabamba.
+
+**Artículo 2°.-** El aval de la Corporación Boliviana de Fomento estará condicionado al compromiso de COBOCE de obtener, hasta diciembre del año en curso, la suscripción de acciones por el 40% de su capital, de tal manera que se garantice al proveedor el pago inicial del 2,5% y el 10.5%, hasta la puesta en marcha de la fábrica, para que a partir de ese momento la fábrica atienda sus obligaciones con sus propios ingresos.
+
+**Artículo 3°.-** La Corporación Boliviana de Fomento, prestará asistencia técnica en la instalación de la mencionada fábrica de cemento, participará en la suscripción del contrato entre COBOCE y la SOCIETA ITALIANA IMPIANTI, debiendo al mismo tiempo suscribir un contrato de aval con COBOCE.
+
+**Artículo 4°.-** El Señor Ministro de Estado en el Despacho de Economía Nacional, queda encargado de la ejecución y cumplimiento del presente Decreto.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de septiembre de mil novecientos sesenta y ocho años.
+  
+FDO. GRAL. RENE BARRIENTOS ORTUÑO, Gral. Samuel Alcoreza M., Cont-Alm. Alberto Albarracín; Gral. Roberto Flores Becerra; Cnl. José Patiño Ayoroa; Gral. Efraín Guachalla; Cnl. Alberto Larrea H.; Cnl. Francisco Baldi; My. Jaime Galindo de U.; Cnl. Alberto Guzmán Soriano.

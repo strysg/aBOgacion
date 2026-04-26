@@ -1,0 +1,356 @@
+# Bolivia: Reglamento a la Ley Nº 3425 de 20 de junio de 2006, aprovechamiento de explotación de áridos y agregados, 22 de abril de 2009
+
+REGLAMENTO A LA [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) DE 20u DE JUNIO DE 2006 PARA EL APROVECHAMIENTO Y EXPLOTACIÓN DE ÁRIDOS Y AGREGADOS
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente reglamento de la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html), de 20 de junio de 2006, tiene por objeto establecer normas generales para la administración, regulación y manejo de las actividades de aprovechamiento y explotación de áridos y agregados, otorgando a los gobiernos municipales competencia sobre estas actividades, en coordinación con las organizaciones campesinas y las comunidades colindantes con los ríos.
+
+**Artículo 2°.- (Ámbito y obligatoriedad)** 
+
+1. El presente reglamento establece normas jurídico - administrativas de cumplimiento obligatorio para cualquier Actividad Obra o Proyecto - AOP de aprovechamiento y/o explotación de áridos y agregados establecidas en la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) y en concordancia con la [Ley Nº 1333](https://www.lexivox.org//norms/BO-L-1333.html), de 27 de abril de 1992, de Medio Ambiente y sus reglamentos; el Reglamento General de Áreas Protegidas aprobado por [Decreto Supremo Nº 24781](https://www.lexivox.org//norms/BO-DS-24781.html), de 31 de julio de 1997 y sus normas e instrumentos conexos; [Ley Nº 2028](https://www.lexivox.org//norms/BO-L-2028.html), de 28 de octubre de 1999, de Municipalidades; [Ley Nº 2878](https://www.lexivox.org//norms/BO-L-2878.html), de 8 de octubre de 2004 y Decretos Supremos [Nº 28817](https://www.lexivox.org//norms/BO-DS-28817.html), de 2 de agosto de 2006; [Nº 28818](https://www.lexivox.org//norms/BO-DS-28818.html), de 2 de agosto de 2006; [Nº 28819](https://www.lexivox.org//norms/BO-DS-28819.html) del 2 de agosto 2006; [Ley Nº 1551](https://www.lexivox.org//norms/BO-L-1551.html), de 20 de abril de 1994, de Participación Popular; y [Ley Nº 1257](https://www.lexivox.org//norms/BO-L-1257.html), de 11 de julio de 1991.
+2. El presente Reglamento es de cumplimiento obligatorio para toda persona jurídica, natural, colectiva, pública o privada que desarrolle actividades de aprovechamiento y/o explotación de áridos y agregados de conformidad a lo dispuesto en la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html); los Gobiernos Municipales y otras entidades públicas involucradas en el tema deberán adecuar sus normas al presente reglamento.
+
+**Artículo 3°.- (Definiciones)** Para los efectos de este Reglamento, se consideran las siguientes definiciones:
+
+1. *Áridos y Agregados*: Se considera como áridos y agregados a la arena, cascajo, ripio, piedra, grava, gravilla, arenilla, arcilla y turba, que se encuentran en forma superficial o de forma subterránea en las cuencas, en los lechos, abanicos, cursos y/o márgenes de los ríos activos o secos y que son utilizados en actividades relacionadas a la construcción.
+2. *Adecuación de las concesiones*: Es el procedimiento obligatorio a seguir para que las concesiones actuales para el aprovechamiento y explotación de áridos y agregados otorgados en aplicación del Código de Minería, se adecuen a la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) y al presente reglamento.
+3. *Aprovechamiento artesanal o actividad menor de áridos y agregados*: Es aquella operación que utiliza métodos de extracción manual, sin hacer uso de maquinaria industrial, que no se encuentre ubicada dentro de un área protegida y cuyo volumen de operación mensual sea igual o menor a quinientos (500) metros cúbicos.
+4. *Aprovechamiento industrial o actividad mayor de áridos y agregados*: Es aquella operación que utiliza métodos de extracción con maquinaria industrial y/o manual y cuyo volumen de extracción mensual es mayor a quinientos (500) metros cúbicos.
+5. *Aprovechamiento familiar, comunitario y de orden social*: Es aquella actividad que, sin fines comerciales, cumple con las necesidades de áridos y agregados para la construcción de viviendas familiares propias, obras que beneficien a las comunidades colindantes con los ríos, lechos de río o donde se hallasen los áridos.
+6. *Autoridad Competente en Áridos y Agregados*: El Gobierno Municipal, en coordinación con las organizaciones campesinas y las comunidades colindantes con los ríos.
+7. *Autorización Anual*: Es un derecho real de simple goce y disfrute, de carácter temporal, renovable, intransferible e intransmisible por sucesión hereditaria, que no se puede hipotecar y ser objeto de cualquier contrato al margen de lo establecido por el presente Reglamento, que es otorgado a través de una Resolución Municipal por el Alcalde Municipal, en virtud de una Ordenanza Municipal, que faculta a su titular iniciar y/o continuar con la actividad de aprovechamiento y explotación de áridos y agregados.
+8. *Autorizados*: Son aquellas personas naturales o jurídicas, individuales o colectivas, públicas o privadas que realizan actividades de aprovechamiento y explotación de áridos y agregados y cuentan para ello con la Autorización Anual.
+9. *Afluente*: Arroyo o río secundario que desemboca o desagua en otro principal.
+10. *Camellón*: Acumulación de residuos sólidos del proceso de aprovechamiento de áridos y agregados en ríos y afluentes, en áreas adyacentes al curso del río para encausar el flujo del agua, destinado a prevenir riesgos de desbordes, erosión e inundaciones.
+11. *Cauce de río*: Corresponde a la superficie que el agua ocupa y desocupa en crecidas periódicas ordinarias.
+12. *Coordinación*: Relación entre personas o entidades con el mismo nivel jerárquico de modo de que ninguna de ellas esté supeditada a la otra, para desarrollar una actividad común.
+13. *Deslizamiento*: Movimiento de una parte del terreno, pendiente abajo, constituida de material detrítico, escombros, rocas blandas y otros.
+14. *Escollera*: Acumulación ordenada de roca (enrocados) destinadas a proteger estructuras o espacios del embate de las corrientes y otros movimientos de aguas. Obra construida en dirección paralela o transversal a la orilla de un cauce o márgenes del río. En actividades de extracción de áridos y agregados se refiere a acumulaciones de residuos sólidos en las orillas de los ríos, con fines de control de riesgos (erosión, deslizamiento, desplome del talud).
+15. *Fosas de recarga*: Excavaciones realizadas en los ríos o afluentes de ríos, paralelo al eje longitudinal, para acumulación de material de arrastre en época de lluvia, como recarga para futuros ciclos de aprovechamiento.
+16. *Fosas de sedimentación*: Piscinas o depósitos de lodo, en las cuales se precipitan las sustancias limosas procedentes del lavado de áridos y agregados.
+17. *Lamas*: Sustancias limo-arcillosas resultantes del lavado de áridos y agregados.
+18. *Lecho de río*: Porción de tierra por la que corren aguas. Constituye el fondo del cauce, por lo tanto, en algunos casos, por el lecho escurren aguas permanentemente.
+19. *Mitigadores de Corriente*: Construcción civil ubicada en los cauces de ríos o afluentes de ríos, cuya función es disminuir la velocidad de las corrientes de agua.
+20. *Patentes Municipales*: Las Patentes Municipales establecidas conforme a lo previsto por la Constitución Política del Estado, cuyo hecho generador es el uso o aprovechamiento de bienes de dominio público, así como la obtención de autorizaciones para la realización de actividades económicas.
+21. *Pausa Ecológica*: Medida excepcional ejercida por los Gobiernos Municipales, autoridades Departamentales o Nacionales para detener las actividades de aprovechamiento y explotación de áridos y agregados por el lapso de tiempo necesario, a objeto de prevenir o resarcir daños ambientales que se hayan producido o puedan producirse en un futuro inmediato.
+22. *Piedra*: Cualquier material fragmentado a partir de rocas ígneas (granitos, dacitas, riodacitas y otros), metamórficas (pizarra, mármol, cuarcita y otros) y sedimentarias (areniscas, calizas, dolomitas, yeso, lutita y otros) que haya sido transportado y acumulado por procesos naturales.
+23. *Plan de Manejo de Áridos y Agregados en Cuencas o Micro Cuencas*: Conjunto de instrumentos técnicos y métodos de gestión, resultantes de un proceso participativo de planificación de aprovechamiento y explotación de áridos y agregados, basado en la evaluación de las características del medio físico, biótico, cultural y el potencial de áridos y agregados en la cuenca, elaborado de acuerdo a las normas y prescripciones de protección y sostenibilidad y debidamente aprobado por la autoridad competente. Plan que define un manejo responsable durante la extracción, tratamiento y comercialización de áridos y agregados, tomando en cuenta la capacidad de reposición o recarga, precautelando el recurso hídrico y el mantenimiento del equilibrio de los ecosistemas.
+24. *Plan de Manejo de Cuencas*: Proceso de formulación y ejecución de un sistema de acción del manejo de los recursos naturales de una cuenca hidrográfica para la obtención de bienes y servicios sin afectar su estabilidad de uso de suelo, el régimen hidrológico, así como su ecosistema, ni cause impactos severos sobre la biodiversidad, la seguridad y la salud de la población involucrada, considerando la topografía y la geología.
+25. *Río*: Corriente natural de agua que puede ser perenne y/o intermitente. Posee un caudal considerable y desemboca en un lago o en otro río, en cuyo caso se denomina afluente.
+26. *Talud de ribera*: (margen del río): Escape o terraplén detrítico que se encausa a un río.
+27. *Terraza*: Superficie plana generalmente estrecha y alargada, debe su origen normalmente a la acción del agua corriente.
+28. *Terraza de valle o fluvial*: Formada por la excavación repetida de un río en el fondo de un valle antiguo, puede ser rocosa: excavada en la roca, o de cantos rodados formada por la excavación de un río en una masa de cantos rodados.
+29. *Zanjas*: Excavaciones realizadas en ríos o afluentes de ríos para fines de aprovechamiento.
+
+**Artículo 4°.- (Principios)** Son principios fundamentales del presente reglamento, los siguientes:
+
+1. *Subsidiariedad*.- Está orientado a aquellas competencias, responsabilidades e iniciativas que puedan ser realizadas con eficiencia y eficacia a nivel municipal, en materia de administración y regulación del aprovechamiento racional y sostenible de las actividades de explotación de áridos y agregados, no deben corresponder a un ámbito superior de la Administración del Órgano Ejecutivo, salvo que estas sean expresamente definidas por ley.
+2. *Participación*.- En el marco de un proceso democratizador que asume y dinamiza la interacción entre el Gobierno Municipal y la comunidad constituida por las organizaciones campesinas, originarias, indígenas, de regantes y las comunidades colindantes con los ríos, permite a los actores sociales ser sujetos y protagonistas del control en la administración y regulación del aprovechamiento y explotación de áridos y agregados.
+3. *Concurrencia*.- La administración y regulación del aprovechamiento de áridos y agregados promueve responsabilidades compartidas a través de la articulación administrativa e institucional del nivel nacional y subnacional, como base de una planificación coherente, tanto vertical como horizontal, racionalizando la toma de decisiones y optimizando el uso de los recursos provenientes de dicha administración y regulación.
+4. *Igualdad*.- El presente Reglamento promueve la generación de condiciones y oportunidades para que la comunidad tenga acceso al aprovechamiento de uso de áridos y agregados en la categoría de aprovechamiento de carácter familiar, comunitario y de orden social sin fines comerciales, con destino a la construcción de viviendas familiares propias, obras que beneficien a las comunidades colindantes con los ríos, lechos de ríos, o donde se hallasen los áridos y agregados.
+5. *Precautorio*.- La administración y regulación del aprovechamiento y/o explotación de áridos y agregados permite generar la información en base a la cual se establecerán las prácticas destinadas a evitar que el uso del suelo inadecuado provoque daños e impactos ambientales irreversibles.
+
+## Capítulo II Marco institucional
+
+**Artículo 5°.- (Ministerio de medio ambiente y agua)** El Ministerio de Medio Ambiente y Agua tiene las siguientes competencias, atribuciones y funciones:
+
+1. Elaborar y revisar periódicamente el Plan Nacional de Cuencas.
+2. Revisar los Planes de Manejo de Cuencas o Micro Cuencas elaborados por las Unidades especializadas en manejo de cuencas de las Prefecturas o por los Gobiernos Municipales.
+3. Apoyar en la elaboración de las Guías Técnicas para el aprovechamiento y explotación de áridos y agregados, a solicitud de los Gobiernos Municipales.
+4. Otras fijadas por ley u otros reglamentos.
+
+**Artículo 6°.- (Gobierno Municipal)** El Gobierno Municipal tiene las siguientes competencias, atribuciones y funciones:
+
+1. Es la Autoridad Competente para la administración y la regulación de áridos y agregados, está constituida por los Gobiernos Municipales, en coordinación y consenso con las organizaciones campesinas, originarias, indígenas, de regantes y con las comunidades colindantes con los ríos.
+2. El Gobierno Municipal a través del Concejo Municipal, en el marco de su competencia, cumplirá con las funciones normativas, fiscalizadoras y deliberantes, en relación a las políticas de administración y regulación de aprovechamiento y explotación de áridos y agregados, en coordinación con el Órgano Regulador.
+3. El Alcalde Municipal, en su calidad de Máxima Autoridad Ejecutiva del Gobierno Municipal, cumplirá la función de administrar y ejecutar las ordenanzas municipales referidas a la materia, objeto del presente reglamento.
+
+**Artículo 7°.- (Atribuciones del Concejo Municipal)** Las atribuciones del Concejo Municipal, en el marco de su jurisdicción y competencia, son:
+
+1. Presidir a través del Presidente del Concejo, el Órgano Regulador.
+2. Fiscalizar todas las actividades relacionadas a la extracción, aprovechamiento y/o explotación de áridos y agregados, precautelando el cumplimiento de la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) y el presente Reglamento.
+3. Emitir la declaratoria de Pausa Ecológica, en caso de que los informes técnicos - legales revelen riesgos de afectación y/o daños ambientales que pongan en riesgo a las comunidades colindantes de los ríos.
+4. Aprobar las Ordenanzas de Patentes e ingresos no tributarios sobre aprovechamiento de áridos y agregados.
+5. Resolver en segunda instancia, los recursos jerárquicos elevados a su consideración por el Ejecutivo Municipal.
+6. Aprobar mediante Ordenanza Municipal y previo dictamen del Órgano Regulador:
+   1. El Plan de manejo de ríos y cuencas del Municipio.
+   2. El Plan de manejo de áridos y agregados en cuencas y ríos del Municipio en el marco de la Política Nacional de Cuencas.
+   3. Políticas, normas de administración y regulación para el aprovechamiento y explotación de áridos y agregados.
+   4. La norma marco reglamentaria, para la otorgación de las autorizaciones anuales de aprovechamiento y explotación de áridos y agregados a personas naturales o jurídicas, incluidos los concesionarios que deberán habilitarse mediante el proceso de adecuación al presente Reglamento.
+   5. Las Autorizaciones Anuales de explotación y aprovechamiento de áridos y agregados a personas naturales o jurídicas, públicas o privadas y concesionarios que hayan sido legalmente habilitados con su adecuación al presente Reglamento, que serán otorgadas mediante Resolución por el Ejecutivo Municipal.
+   6. La norma de Procedimiento Técnico de infracciones y sanciones.
+
+**Artículo 8°.- (Atribuciones de los Alcaldes Municipales)** Los Alcaldes Municipales, como máximas autoridades ejecutivas del Gobierno Municipal, en relación al presente Reglamento, cumplirán las siguientes funciones:
+
+1. Administrar los ingresos por conceptos de aprovechamiento de áridos y agregados.
+2. Ejecutar las Ordenanzas Municipales en materia de áridos y agregados, emitidas por el Concejo Municipal.
+3. En base a la Ordenanza Municipal de aprobación, emitir las Resoluciones Municipales de autorizaciones anuales de aprovechamiento y explotación de áridos y agregados a personas naturales o jurídicas, públicas o privadas y concesionarios que hayan sido legalmente habilitados con su adecuación al presente Reglamento.
+4. Emitir las Resoluciones Administrativas, relativas a la imposición de sanciones por infracciones establecidas en el presente Reglamento.
+5. Realizar a través de las instancias técnicas del Gobierno Municipal, estudios e inspecciones para ubicar las áreas de bancos de áridos y agregados, organizar y registrar el inventario de las áreas dentro de su jurisdicción con la participación del Órgano Regulador.
+6. Monitorear y sistematizar los niveles de aprovechamiento y explotación de áridos y agregados, en coordinación con la Autoridad Ambiental Competente.
+7. Elaborar de forma participativa con los Comités Coadyuvantes y las organizaciones sociales, el Plan de Cuencas y el Plan de Manejo de Áridos y Agregados en cuencas y micro cuencas de su jurisdicción municipal, tomando en cuenta el Plan Nacional de Cuencas.
+8. Elaborar proyectos de normas para regular el aprovechamiento y la explotación de áridos y agregados en base al Plan Nacional de Cuencas, de Riego y de Saneamiento Básico, con participación de los Comités Coadyuvantes y organizaciones sociales involucradas.
+9. Elaborar planes y proyectos de normas de manejo de áridos y agregados en cuencas y ríos, de forma conjunta y mancomunada con los Gobiernos Municipales, donde se comparten las cuencas y ríos, con la participación de los Comités Coadyuvantes y organizaciones sociales involucradas.
+10. Solicitar auditorias ambientales ante la Autoridad Ambiental Competente, en casos de advertir o recibir denuncias por explotación irracional o irregular de áridos y agregados, conforme establece el [Decreto Supremo Nº 28499](https://www.lexivox.org//norms/BO-DS-28499.html) de 10 de diciembre de 2005.
+11. Elaborar informes técnico - legales sobre actividades de aprovechamiento y explotación de áridos y agregados en lechos, abanicos, ríos, cuencas y otros que representen amenazas a la seguridad de las poblaciones, a efectos de que se apruebe la pausa ecológica u otras medidas de salvaguarda que el caso aconseje.
+12. Realizar a través de las instancias autorizadas, las evaluaciones técnico - legales de todas las concesiones donde se explotan áridos y agregados, otorgadas con anterioridad a la promulgación de la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html).
+13. Elaborar proyectos de Ordenanzas Municipales, para regular el cobro de Patentes e ingresos no tributarios sobre aprovechamiento y explotación de áridos y agregados y elevarlos al Órgano Regulador para el dictamen y su correspondiente aprobación mediante Ordenanza Municipal.
+14. Elaborar el presupuesto de ingresos y gastos por actividades relacionadas al aprovechamiento y explotación de áridos y agregados, en coordinación con el Órgano Regulador.
+15. Elaborar proyectos de normas regulatorias para el manejo de áridos y agregados en cuencas y ríos, proyectos de defensivos, proyectos forestales y proyectos que beneficien a las comunidades colindantes con los ríos, en base al presupuesto de ingresos por aprovechamiento y explotación de áridos y agregados, con participación de las organizaciones campesinas y comunidades colindantes con los ríos.
+16. Resolver en la vía procesal administrativa, los recursos de revocatoria interpuestos ante su misma autoridad, así como recepcionar los recursos jerárquicos y remitirlos con todos sus antecedentes ante el Concejo Municipal, para su admisión y correspondiente resolución.
+17. Elaborar guías técnicas para el aprovechamiento de áridos y agregados en el ámbito de su jurisdicción. En caso de existir guías técnicas nacionales, podrán adecuar las mismas a las necesidades y características particulares locales, siguiendo los procedimientos establecidos.
+18. Precautelar el cumplimiento del presente Reglamento.
+
+**Artículo 9°.- (Órgano Regulador)** 
+
+1. El Órgano Regulador es la instancia de control, supervisión, coordinación, consulta y de concertación de políticas y normas relativas a la administración y regulación de la explotación y aprovechamiento de los áridos y agregados en su jurisdicción municipal, con intervención de sectores sociales, y estará conformado por siete miembros, que son:
+   1. El Presidente del Concejo Municipal y dos (2) Concejales.
+   2. Un (1) Representante de las Organizaciones Campesinas y/o Indígenas u Originarias.
+   3. Un (1) Representante de las Organizaciones de Regantes.
+   4. Dos (2) Representantes de las Comunidades colindantes con los ríos y/o donde se hallasen los áridos y agregados.
+2. Una vez elegidos los miembros del Órgano Regulador, la primera sesión de instalación, organización y funcionamiento deberá ser convocada por el Presidente del Concejo Municipal y/o por dos representantes electos de las organizaciones sociales a solicitud de cualquiera de sus miembros. En caso de no existir quórum mínimo, se convocará sucesivamente las veces que sean necesarias hasta lograr el quórum, pudiendo recurrirse incluso a los suplentes a partir de la tercera convocatoria.
+
+**Artículo 10°.- (Quórum del Órgano Regulador)** Las sesiones del Órgano Regulador se llevarán adelante con un mínimo de cuatro representantes.
+
+**Artículo 11°.- (Presidencia del Órgano Regulador)** El Órgano Regulador será presidido por el Presidente del Concejo Municipal. En caso de impedimento o inasistencia de aquel a las reuniones del Órgano Regulador, será reemplazado o delegará sus funciones a uno de los Concejales.
+
+**Artículo 12°.- (Representantes de las organizaciones sociales)** 
+
+1. Los representantes de las organizaciones campesinas, indígenas y originarias existentes en la jurisdicción del Municipio, serán convocados a reuniones, por sus organizaciones matrices, pudiendo estas ser: las Centrales Campesinas, Sub-centrales, Capitanías, Ayllus, Marcas u otras organizaciones sociales. En estas reuniones o ampliados regionales, deberán elegir a sus representantes, titular y suplente, que formarán parte del Órgano Regulador. El suplente podrá ser convocado en caso de inasistencia del titular.
+2. Las organizaciones de regantes existentes en una jurisdicción municipal, serán convocadas por sus organizaciones matrices para elegir a su representante que conformará parte del Órgano Regulador y un suplente para que en caso de impedimento del titular participe de las reuniones.
+3. Los representantes de las comunidades colindantes con los ríos y aquellas en las que se hallasen áridos y agregados, realizarán una convocatoria, a todos los dirigentes de las comunidades colindantes de todos los ríos de la jurisdicción municipal. Una vez establecida la reunión, las comunidades procederán a elegir, entre los dirigentes, a sus representantes y suplentes para formar parte del Órgano Regulador. Para llevar adelante la reunión, se verificará que la convocatoria haya sido recibida por los dirigentes de cada comunidad y que sus firmas consten en ejemplares originales de la convocatoria.
+4. En caso que no existiera alguna de las organizaciones sociales, sea esta de comunidades colindantes con los ríos, de regantes, o de organizaciones campesinas en el área del Municipio, será remplazada por representantes de las OTBs organizada por el Comité de Vigilancia del Municipio correspondiente.
+5. Los miembros de las organizaciones sociales que conforman el Órgano Regulador ejercerán sus funciones por un periodo de dos años, con la posibilidad de ser reelegidos por sus organizaciones sociales. Los representantes municipales que componen el Órgano Regulador, ejercerán sus funciones por un periodo de dos años con la posibilidad de ser ratificados o sustituidos por decisión del Concejo Municipal.
+
+**Artículo 13°.- (Decisiones del Órgano Regulador)** 
+
+1. El Órgano Regulador tomará decisiones por consenso.
+2. En caso de no existir consenso, se derivará la discusión de los temas objeto de conflicto para una próxima sesión. De persistir el desacuerdo, las decisiones se tomarán mediante votación bajo la modalidad de simple mayoría. En caso de empate, será el presidente del Órgano Regulador, quién dirimirá con su voto.
+3. En cumplimiento a lo dispuesto en el Artículo 3 de la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html), las decisiones coordinadas y consensuadas en el Órgano Regulador se expresan en dictámenes, que deberán ser asumidas por el Concejo Municipal, las mismas que deberán ser aprobadas mediante Ordenanzas Municipales.
+4. En caso de que el Gobierno Municipal no haya logrado el consenso respectivo con las Organizaciones sociales representadas en el Órgano Regulador, los criterios y oposiciones representadas por los mismos, deberán ser considerados en dictámenes que no implican en este caso un carácter vinculante. V. En caso de incumplimiento a lo dispuesto en el Artículo 3 de la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html), y que el Gobierno Municipal no haya coordinado con las Organizaciones Sociales a través del Órgano Regulador, el Concejo Municipal o el Alcalde Municipal, serán sujetos a las Responsabilidades por la Función Pública, conforme a lo previsto en los Artículos 35, 174 a 178 de la [Ley Nº 2028](https://www.lexivox.org//norms/BO-L-2028.html).
+
+**Artículo 14°.- (Atribuciones del Órgano Regulador)** Son atribuciones del Órgano Regulador:
+
+1. Controlar y supervisar la ejecución de las políticas sobre la administración y regulación de la extracción, aprovechamiento y/o explotación de áridos y agregados. b) Dictaminar sobre las solicitudes de las autorizaciones anuales para que personas naturales o jurídicas puedan realizar actividades mayores y menores de aprovechamiento y explotación de áridos y agregados; y las autorizaciones anuales de aquellas concesiones que hayan sido legalmente habilitadas y adecuadas, elevándolas al Concejo Municipal para su aprobación mediante Ordenanza Municipal.
+2. Dictaminar las autorizaciones anuales de aprovechamiento familiar y comunitario de áridos y agregados, recomendadas por los Comités Coadyuvantes.
+3. Dictaminar las adecuaciones de las concesiones a las autorizaciones anuales según la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) y el presente Reglamento.
+4. Dictaminar sobre las renovaciones de autorizaciones anuales de aprovechamiento de un área, a un mismo titular, en caso que cumpla con los requisitos técnicos, legales, ambientales y administrativos establecidos en el presente Reglamento.
+5. Dictaminar sobre la situación jurídica de las concesiones otorgadas con anterioridad a la promulgación de la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) y el presente Reglamento.
+6. Dictaminar sobre las revocatorias de las autorizaciones anuales que no cumplan con los requisitos y procedimientos establecidos en el presente Reglamento.
+7. Dictaminar sobre el Plan de Manejo de Áridos y Agregados en cuencas y ríos del municipio tomando en cuenta el Plan Nacional de Cuencas y/o los Planes Departamentales de Cuencas.
+8. Dictaminar sobre la formulación de normas para un manejo racional y adecuado en el aprovechamiento y explotación de áridos y agregados, cuidando la conservación de cuencas y ríos.
+9. Pronunciarse sobre los informes y asuntos denunciados presentados por el Alcalde Municipal o por las organizaciones campesinas, indígenas, originarias, regantes y las comunidades colindantes de los ríos, sobre irregularidades en el aprovechamiento y explotación de áridos y agregados.
+10. Pronunciarse sobre los conflictos que pudieran surgir sobre la administración de los recursos económicos generados por las autorizaciones anuales para el aprovechamiento y explotación de áridos y agregados.
+11. Coordinar con los comités coadyuvantes, respecto a todos los temas concernientes con la regulación de aprovechamiento y explotación de áridos y agregados.
+12. Proponer pausa ecológica, cuando existan riesgos y daños ambientales que afecten a la población, establecidos en los informes técnico - legales efectuados por personal del Ejecutivo Municipal.
+13. Canalizar ante el Concejo Municipal y Alcalde Municipal, los actos administrativos que resuelvan las demandas, los pronunciamientos e informes emitidos por las organizaciones sociales.
+14. Delegar competencias a los comités coadyuvantes.
+15. El Órgano Regulador en coordinación con las organizaciones sociales participará en la planificación de los presupuestos y supervisará la ejecución de los gastos en lo relativo a las actividades de áridos y agregados, pudiendo presentar informes y denuncias de irregularidades ante el Honorable Concejo Municipal.
+16. Solicitar al Alcalde Municipal, informes económicos y técnico-legales con relación a las operaciones de administración y regulación de aprovechamiento y explotación de áridos y agregados.
+
+**Artículo 15°.- (Comités coadyuvantes)** 
+
+1. En cada uno de los ríos y su cuenca o en cada una de las áreas donde se encuentren áridos y agregados, se organizará un Comité Coadyuvante de la instancia reguladora, conformado por cinco miembros, con la siguiente representación:
+   1. Un (1) Representante de la autoridad municipal de la jurisdicción donde se encuentre ubicado el río o el área que será nombrado por el Concejo Municipal.
+   2. Dos (2) Representantes de las comunidades colindantes con el rió o el área en cuestión; uno por cada margen del río.
+   3. Un (1) Representante de las organizaciones campesinas, originarias e indígenas.
+   4. Un (1) Representante de las organizaciones de regantes.
+2. Los representantes de las organizaciones campesinas, indígenas y originarias para conformar el Comité Coadyuvante serán elegidos por las organizaciones matrices existentes en el área del río o donde existan áridos y agregados.
+3. El representante de los regantes, será elegido por las organizaciones de regantes existentes en el área de cada río.
+     
+   IV.Por lo menos tres representantes de las comunidades colindantes del río y donde se hallan áridos y agregados, convocarán a los dirigentes de las comunidades colindantes con el río. Una vez establecida la reunión, las comunidades procederán a elegir, entre los dirigentes, a sus representantes y suplentes para formar parte del Comité Coadyuvante. Para llevar adelante la reunión, se verificará que la convocatoria haya sido recibida por los dirigentes de cada comunidad y que sus firmas consten en ejemplares originales de la convocatoria.
+4. En caso que no existiera alguna de las organizaciones sociales, sea esta de comunidades colindantes con los ríos, de regantes, o de organizaciones campesinas en el área del río, será remplazada por representantes de las Organizaciones Territoriales de Base - OTBs existentes en el área del río.
+5. Los miembros del Comité Coadyuvante ejercerán sus funciones por un periodo de dos años con la posibilidad de ser reelegidos por sus organizaciones sociales. El representante municipal será ratificado o sustituido por el Concejo Municipal.
+6. Una vez elegidos los miembros del Comité Coadyuvante, la instalación, organización y funcionamiento será convocada por el representante municipal y/o por dos representantes electos de las organizaciones sociales a solicitud de cualquiera de sus miembros. En caso de no existir quórum se convocará las veces que sea necesaria hasta lograr el quórum mínimo.
+
+**Artículo 16°.- (Funciones de los Comités coadyuvantes)** Los Comités Coadyuvantes, cumplirán las siguientes funciones:
+
+1. Cooperar y coordinar en toda la actividad reguladora del Órgano Regulador.
+2. Coordinar actividades con las organizaciones sociales.
+3. Coadyuvar en el control de todas las autorizaciones anuales, incluyendo a aquellos que realizan aprovechamiento familiar, comunitario y social de áridos y agregados.
+4. Cumplir con las competencias que en materia reguladora, le hayan sido delegadas por el Órgano Regulador.
+5. Gestionar ante el Órgano Regulador, el requerimiento de informes económicos de ingresos y gastos, de la ejecución de los proyectos que beneficien a las comunidades colindantes con los ríos y todos los informes referentes a la administración de los áridos y agregados y presentarlos a las organizaciones sociales.
+6. Elevar ante el Órgano Regulador los informes y pronunciamientos de las Organizaciones Sociales.
+
+## Capítulo III Organizaciones sociales y control social
+
+**Artículo 17°.- (Atribuciones de las organizaciones sociales)** 
+
+1. De acuerdo a lo establecido en el Artículo 171 de la Constitución Política del Estado y la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html), las organizaciones campesinas, indígenas, originarias, de regantes y las comunidades colindantes con los ríos y/o comunidades donde se ubican los áridos y agregados, mediante sus representantes, podrán participar en:
+   1. La formulación y evaluación de planes y normas.
+   2. Las evaluaciones técnico - legales de todas las concesiones relacionadas al aprovechamiento y explotación de áridos y agregados, la adecuación de las mismas y las autorizaciones.
+   3. La elaboración de proyectos de patentes e ingresos no tributarios sobre aprovechamiento y explotación de áridos y agregados y presupuestos sobre gastos relativos a la materia.
+   4. La elaboración de proyectos de manejo de cuencas y ríos, defensivos y proyectos que beneficien a las comunidades colindantes con los ríos o aquellas donde se hallasen áridos y agregados.
+   5. Control y supervisión del cumplimiento de las normas de manejo de cuencas y ríos, y de las normas de aprovechamiento y explotación de áridos y agregados.
+   6. Pronunciamiento sobre las denuncias de irregularidades en contra de los miembros del Órgano Regulador y autoridades municipales, así como de los particulares que efectúan el aprovechamiento y explotación de áridos y agregados.
+   7. Apoyo en la gestión y resolución de conflictos suscitados entre el Gobierno Municipal, los particulares beneficiarios de la autorización y las organizaciones sociales.
+   8. Denunciar las acciones que contravengan la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) y el presente Reglamento y gestionar ante el Gobierno Municipal, el procesamiento y la aplicación de las sanciones correspondientes.
+2. Todas las actividades emergentes de las atribuciones que ejerzan las organizaciones sociales, serán programadas en reuniones convocadas a través de los Comités Coadyuvantes.
+
+**Artículo 18°.- (Responsabilidades emergentes del control social)** 
+
+1. En el marco del rol del control social, toda irregularidad denunciada por las organizaciones sociales contra las Autoridades Municipales, los miembros del Órgano Regulador o los miembros de los Comités Coadyuvantes que sean funcionarios municipales, será sometida a las acciones de fiscalización y responsabilidades establecidas en la [Ley Nº 2028](https://www.lexivox.org//norms/BO-L-2028.html) y la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html), de 20 de julio de 1990, de Administración y Control Gubernamentales.
+2. Las irregularidades que pudieran cometer los representantes de las organizaciones campesinas, originarias, indígenas y regantes, serán evaluadas por sus organizaciones de base en reuniones extraordinarias. Las organizaciones sociales se pronunciarán mediante resoluciones por la revocatoria de mandato del representante social en caso de encontrarse suficiente prueba de las irregularidades denunciadas, las cuales serán elevadas a conocimiento del Órgano Regulador.
+     
+   En caso de pronunciarse por la revocatoria de mandato, el Órgano Regulador solicitará, en forma escrita, la sustitución del representante de la organización social correspondiente, sin perjuicio de remitir los antecedentes al Ministerio Público para su correspondiente investigación.
+
+## Capítulo IV Proceso de planificación
+
+**Artículo 19°.- (Planificación en materia de áridos y agregados)** 
+
+1. Los Planes de Manejo de Áridos y Agregados en Cuencas y Ríos del Municipio y el Plan Municipal de Cuencas y Ríos, son componentes del proceso de planificación del Desarrollo Municipal, se elaboran según las Normas del Sistema Nacional de Planificación - SISPLAN y la planificación participativa en el nivel Municipal; y proporcionan los instrumentos, las normas y procedimientos del uso del suelo, aprovechamiento y explotación de áridos y agregados, se articula con los Planes de Ordenamiento Territorial Municipal y los Planes de Uso de Suelo Departamental y las políticas públicas sectoriales de riego, manejo de cuencas y recursos hídricos del nivel nacional, prevención y gestión de desastres naturales y riesgos y conservación de recursos naturales.
+2. Los planes municipales de aprovechamiento y explotación de áridos y agregados tomando en cuenta las particularidades topográficas, geográficas geomorfológicas de los sitios de aprovechamiento y explotación, definirán de forma específica los procedimientos para un adecuado aprovechamiento y explotación, también definirán los procedimientos para la asignación de sitios de explotación.
+3. Los Municipios de escasa población y con incapacidad institucional que compartan con otros similares la cuenca, podrán formular y comprometer recursos para la implementación de los planes mancomunados de manejo integral de cuencas y de áridos y agregados, los mismos que serán revisados y compatibilizados con el Plan Nacional de Cuencas.
+
+**Artículo 20°.- (Participación en la planificación)** 
+
+1. Para el cumplimiento del anterior Artículo se garantiza la participación de las organizaciones campesinas, indígenas, originarias, de regantes y las comunidades colindantes con los ríos y/o comunidades donde se ubican los áridos y agregados; sus representantes participarán de forma activa en los procesos de planificación de Planes de Manejo de áridos y agregados en Cuencas y Ríos del municipio, Plan Municipal de Cuencas y Ríos los que deberán articular sus decisiones y pronunciamientos a través del Comité Coadyuvante y el Órgano Regulador.
+2. El Concejo Municipal deberá requerir el pronunciamiento de las organizaciones sociales y consensuar con las mismas los alcances y contenido de la formulación, implementación y evaluación de los Planes referidos, previamente a su aprobación.
+
+## Capítulo V Procedimiento para la adecuación de las concesiones.
+
+**Artículo 21°.- (Procedimiento)** La adecuación de las concesiones para el aprovechamiento y/o explotación de áridos y agregados, otorgadas con anterioridad a la promulgación de la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html), deberá realizarse en el plazo de un año a partir de la promulgación del presente reglamento, debiendo sujetarse al siguiente procedimiento:
+
+1. El Alcalde Municipal, mediante Resolución Municipal instruirá a sus departamentos técnico - legales o contratará a consultoras para la realización de las evaluaciones técnico - legales de las concesiones otorgadas con anterioridad a la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html), evaluación que debe concluir en un plazo no mayor a ciento veinte (120) días hábiles, computables desde la fecha de emisión de la Resolución Municipal.
+2. Los informes de evaluación técnico - legal, verificarán en particular la existencia o inexistencia de afectación a la infraestructura (defensivos, tomas de agua, gaviones, taludes y otros), afectación a usos y costumbres, forestación e infraestructura y otros inherentes a riesgos y desastres naturales, pago de patentes, la falta de requisitos legales relativos al derecho de uso y usufructo de las áreas de aprovechamiento y explotación de áridos y agregados; y el cumplimiento de los requisitos de procedimientos ambientales expresados en la resolución de la Autoridad Ambiental Competente que corresponda.
+3. Los informes de evaluación técnico - legal, una vez concluidos, se harán conocer inmediatamente al Alcalde Municipal, quién elevará al Órgano Regulador y serán de conocimiento de los Comités Coadyuvantes.
+4. El Órgano Regulador, otorgará un plazo de treinta (30) días hábiles para que los Comités Coadyuvantes previa socialización con sus mandantes, puedan hacer conocer sus observaciones y recomendaciones sobre los informes referidos al proceso de adecuación de las concesiones.
+5. El Órgano Regulador en base a los informes de evaluación y a las observaciones y recomendaciones del Comité Coadyuvante, se pronunciará mediante dictamen, dando lugar a la adecuación para la autorización anual o a su negativa; en este último caso, dará paso a la consiguiente pérdida de sus derechos para el aprovechamiento y explotación de áridos y agregados, pudiendo recomendar inclusive, se proceda al correspondiente cierre de las operaciones extractivas.
+     
+   Los dictámenes del Órgano Regulador, serán elevados al Concejo Municipal, a objeto de que se emita las Ordenanzas Municipales y/o en su caso, las Resoluciones Municipales correspondientes.
+6. Los concesionarios que hayan cumplido con la normativa ambiental y administrativa - municipal, obtendrán dictamen favorable del Órgano Regulador y podrán iniciar el trámite de adecuación a la Autorización Anual, para el aprovechamiento y/o la explotación de áridos y agregados.
+7. Dentro del año de adecuación, el Alcalde Municipal, podrá tomar medidas precautorias de inmovilización del área y/o paralización de obras, que sean oportunas y proporcionales a la amenaza o riesgo del caso concreto causado por la explotación irracional, arbitraria e ilegal, bajo responsabilidad de la Autoridad Municipal, quien podrá ejecutarlas inclusive con el apoyo de la fuerza pública.
+8. Los concesionarios que no realicen el proceso de adecuación en el plazo establecido, serán pasibles a la negativa de la autorización anual con la consiguiente pérdida de sus derechos de aprovechamiento y explotación de áridos y agregados, quedando en libertad el Gobierno Municipal de otorgar nueva autorización anual a terceros.
+
+## Capítulo VI Autorizaciones anuales
+
+**Artículo 22°.- (Procedimiento para otorgar las autorizaciones anuales)** 
+
+1. El Alcalde Municipal con la participación social elaborará el Proyecto de Reglamento de Procedimiento de Otorgación de Autorizaciones Anuales, que será elevado al H. Concejo Municipal para su respectiva aprobación mediante Ordenanza Municipal; previa coordinación y opinión fundamentada del Órgano Regulador.
+2. En base al Plan de Cuencas, Plan de áridos y agregados y/o a los informes técnico legales de las condiciones físico ambientales de cada uno de los ríos, emitidos por las instancias de planificación y de gestión ambiental y los informes de Monitoreo Ambiental, el Ejecutivo Municipal emitirá un informe de evaluación que se elevará al Órgano Regulador para que se pronuncie a través de los dictámenes respectivos, en virtud de los cuales el Concejo Municipal emitirá las Ordenanzas Municipales que declaren las zonas de explotación, que serán publicadas mediante medios de comunicación oficial y existentes en su Jurisdicción Municipal.
+3. Determinadas las áreas de explotación, los interesados podrán presentar sus solicitudes de autorización correspondientes, cumpliendo los requisitos y procedimientos contemplados en el presente Reglamento y el Reglamento de Procedimiento de Otorgación de Autorizaciones Anuales, a ser aprobado por el Gobierno Municipal.
+4. En base a la solicitud presentada, el Alcalde Municipal en el plazo de tres (3) días hábiles instruirá a los departamentos técnico y legal la elaboración de informes de pertinencia relativos a la existencia de antecedentes de explotación y/o aprovechamiento y a la determinación de prioridad en la presentación de las solicitudes, informes que deberán ser elaborados dentro del plazo de siete (7) días hábiles, con cuyo resultado el Alcalde Municipal, elevará en el plazo de tres (3) días hábiles todos los antecedentes al Órgano Regulador, instancia que pondrá a conocimiento de los Comités Coadyuvantes.
+5. El Órgano Regulador otorgará un plazo de diez (10) días hábiles, para que los Comités Coadyuvantes previa socialización con sus mandantes, puedan hacer conocer sus observaciones y recomendaciones.
+6. El Órgano Regulador en base a los Informes de Evaluación y a las observaciones y recomendaciones del Comité Coadyuvante, en el plazo máximo de diez (10) días hábiles se pronunciará mediante dictamen de aprobación de la autorización anual para cada solicitante; dicho dictamen será elevado al Concejo Municipal para que emita la Ordenanza Municipal aprobando la autorización anual y autorizando al Alcalde Municipal emita Resolución Municipal correspondiente.
+     
+   En caso de dictamen negativo para el solicitante se remitirá al ejecutivo municipal para la emisión de Resolución de rechazo correspondiente.
+
+**Artículo 23°.- (Renovaciones y revocaciones anuales)** 
+
+1. El autorizado a fin de continuar con las operaciones de aprovechamiento y explotación de áridos y agregados, podrá solicitar antes del vencimiento de su autorización anual, su renovación, cumpliendo los pasos establecidos en el presente Reglamento y el procedimiento municipal.
+2. El derecho preferente para la continuidad de las renovaciones anuales en un área de explotación asignada al mismo titular, estará sujeta al cumplimiento de las normas ambientales vigentes, normas administrativas - municipales y al presente Reglamento.
+3. El autorizado que haya dejado de operar un año por no haber cumplido con los requisitos para obtener la renovación de la Autorización Anual, podrá solicitar su renovación para el próximo año, siempre y cuando haya subsanado el incumplimiento de los requerimientos de renovación. En caso de que el autorizado deje de operar por dos años consecutivos, operará la renuncia tácita de la autorización, lo que permitirá que se pueda conceder nueva autorización en favor de un tercero solicitante.
+4. La revocación de la continuidad de las autorizaciones anuales y la renuncia tácita de explotación, permite el cambio de titular de la Autorización Anual.
+5. El titular de la Autorización Anual, no podrá transferir la misma a terceros bajo ningún concepto; en caso que así lo haga deberá sujetarse a la sanción prevista en el presente Reglamento y el Reglamento Municipal.
+
+**Artículo 24°.- (Procedimiento para las evaluaciones anuales)** 
+
+1. El Alcalde Municipal, cada año, una vez finalizado el periodo de lluvias, organizará una comisión de inspección compuesta por las direcciones técnicas y por cada uno de los Comités Coadyuvantes y representantes de las organizaciones sociales relacionadas con los áridos y agregados, para que realicen la inspección del río y la cuenca.
+2. Una vez realizada la inspección, la comisión levantará un informe de evaluación de la situación física, río por río y su cuenca, o del área donde se ubican los áridos y agregados, tomando en cuenta el cumplimiento de aprovechamiento y explotación de áridos y agregados y la explotación física realizada.
+3. El informe será de carácter descriptivo y analítico, debe circunscribirse al plan de manejo de cuencas y ríos, y será elevado al Alcalde Municipal, quien a su vez lo remitirá al Órgano Regulador para la emisión del dictamen pertinente que dará lugar a la emisión de la Ordenanza Municipal respectiva.
+
+## Capítulo VII Generación y administración de recursos municipales
+
+**Artículo 25°.- (Patentes y otros ingresos no tributarios)** 
+
+1. Los Gobiernos Municipales en el marco de la Ley de Municipalidades podrán establecer patentes municipales para el uso o aprovechamiento de los áridos y agregados, las cuales se deben aplicar de acuerdo a lo definido en el Código Tributario Boliviano.
+2. De acuerdo a la Ley de Municipalidades, los Gobiernos Municipales podrán obtener ingresos no tributarios, entre otros, por concepto de compensación en la explotación de áridos y agregados.
+3. Los proyectos de norma de ingresos tributarios y no tributarios establecidos en los parágrafos anteriores estará a cargo de los Gobiernos Municipales en coordinación con las organizaciones campesinas y las comunidades colindantes con los ríos.
+
+**Artículo 26°.- (Administración de los recursos)** Todos los ingresos por conceptos de patentes y otros ingresos no tributarios, producto de la actividad de explotación de los áridos y agregados, deberán ser depositados en una cuenta especial, contabilizarse por separado para cada uno de los ríos de su respectiva jurisdicción Municipal y estarán destinados al plan de manejo de los ríos y cuencas, a la construcción de defensivos y a obras que beneficien a las comunidades colindantes con los ríos.
+
+**Artículo 27°.- (Destino de los recursos)** 
+
+1. Todos los ingresos por áridos y agregados estarán destinados a la ejecución de obras en los ríos, a los proyectos de manejo de cuencas, obras de control de torrenteras, gaviones, construcción de tomas y canales de riego en los márgenes de los ríos, forestación, gastos de control, fiscalización y cobro, capacitación, proyectos que beneficien a las comunidades colindantes con los ríos y a las organizaciones sociales, así como a la mitigación de impactos ambientales en general y sus procesos administrativos.
+2. La mitigación de impactos ambientales con recursos públicos procederá excepcionalmente cuando no sea posible determinar un responsable.
+3. Está prohibido dar otro uso a estos recursos económicos que no sean las que señale el presente Reglamento, siendo sus infractores pasibles a las acciones legales que correspondan de acuerdo a su condición.
+
+**Artículo 28°.- (Presupuesto)** El Alcalde Municipal en el marco del POA de la Municipalidad y del Presupuesto de la Municipalidad, formulará el presupuesto relativo a los proyectos y obras de manejo de cuencas y otros mencionados en el Artículo precedente con la participación del Órgano Regulador y las organizaciones sociales señaladas en el presente Reglamento. Asimismo, emitirá los informes relativos a los ingresos provenientes de la administración y regulación de áridos y agregados y el destino y ejecución de gastos, además el Ejecutivo podrá presupuestar con otros ingresos la ejecución de los proyectos señalados.
+
+**Artículo 29°.- (Proceso de elaboración de los informes económicos)** Los Alcaldes Municipales convocarán a los Comités Coadyuvantes y éstos a los representantes sociales relacionados con los áridos y agregados para presentar los informes económicos de ingresos y gastos, informes de la ejecución de los proyectos de manejo de cuencas y ríos, informes de defensivos y de proyectos que beneficien a las comunidades colindantes con los ríos, informes de ejecución presupuestaria y todos los informes referentes a la administración de los áridos y agregados.
+
+## Capítulo VIII Infracciones y sanciones
+
+**Artículo 30°.- (Infracciones)** Constituyen infracciones de carácter administrativo o técnico, todo acto ejecutado por persona natural o jurídica, sea pública o privada cuando por acción u omisión transgreda las disposiciones emitidas en la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html), el presente Reglamento y las disposiciones reglamentarias establecidas en el ordenamiento jurídico vigente y específicamente cuando realicen las siguientes actividades:
+
+1. Transportar áridos y agregados por vías o rutas no autorizadas.
+2. Impedir o dificultar la realización de inspecciones, visitas o revisiones a las operaciones y lugares de explotación de áridos y agregados.
+3. Declarar información falsa o no autorizada sobre los sitios de explotación, cantidades y volúmenes de material aprovechado, superficie y características del área a ser explotada.
+4. Explotar Áridos y agregados sin contar con la Autorización Anual correspondiente o hacerlo en zonas que los planes de cuenca no lo permitan.
+5. Excederse de los límites autorizados para la explotación de áridos y agregados.
+6. Explotar áridos y agregados en áreas protegidas cuyas categorías o zonificaciones no lo permitan o que atenten contra los valores de conservación de la diversidad biológica y cultural existente en ellas.
+7. Generar impactos negativos en áreas protegidas por la explotación de áridos y agregados en zonas de amortiguación y zonas de influencia de áreas protegidas.
+8. Implementar infraestructura, estructuras o cualquier otro tipo de construcciones, obras o equipo para el aprovechamiento y explotación de áridos y agregados sin contar con autorización respectiva.
+9. Incumplir las exigencias técnico - legales establecidas por norma.
+10. Realizar actividades de explotación de áridos y agregados que provoquen desestabilización de taludes, activación de deslizamientos y pongan en riesgo la seguridad de las comunidades colindantes con las fuentes de explotación.
+11. Reincidir en cualquiera de las infracciones.
+12. Cambiar, modificar o alterar los cauces de los cuerpos de agua.
+13. Transferir la autorización anual a terceros.
+14. Causar daños en el sistema de defensivos de las torrenteras, en la infraestructura de los sistemas de riego existentes en los lechos y cursos de los ríos.
+15. Causar desbordes e inundaciones y otras actividades que pongan en peligro a las comunidades colindantes con los ríos.
+16. Otras contravenciones que serán determinadas por el Concejo Municipal y el Órgano Regulador.
+
+**Artículo 31°.- (Sanciones)** 
+
+1. Constituyen sanciones administrativas: a) multa; b) suspensión temporal de la Autorización por tres (3) meses o seis (6) meses y c) revocatoria de la autorización.
+2. En toda imposición de las sanciones se deberá tomar en cuenta la gravedad de la infracción, las circunstancias atenuantes y agravantes.
+3. El Alcalde Municipal ejecutará las sanciones y emitirá las Resoluciones correspondientes para sancionar administrativamente las infracciones producto de la regulación, administración, manejo y explotación de los áridos y agregados, sin perjuicio de aplicar otras disposiciones legales inherentes a la materia.
+4. Una infracción y su correspondiente sanción por la Autoridad Ambiental Competente, servirá como criterio para la renovación, anulación, revocación y continuidad de la Autorización Anual.
+
+## Capítulo IX Procedimiento técnico administrativo
+
+**Artículo 32°.- (Procedimiento para la determinación de infracciones y sanciones)** 
+
+1. El Procedimiento Técnico Administrativo, para la determinación de infracciones administrativas a la [Ley Nº 3425](https://www.lexivox.org//norms/BO-L-3425.html) y el presente Reglamento, podrá iniciarse a denuncia de cualquier persona particular o de oficio por el Gobierno Municipal, algún miembro del Órgano Regulador o del Comité Coadyuvante.
+2. Toda denuncia deberá ser presentada en forma escrita ante el Presidente del Órgano Regulador y/o ante el Alcalde Municipal, debiendo contener mínimamente las generales del denunciante, la relación de hechos circunstanciados procurando precisar: lugar, fecha e identificación del infractor, si fuera posible; así como, la fundamentación de derecho en base a las infracciones establecidas en el capítulo precedente de este Reglamento.
+3. Recibida la denuncia, el Alcalde la remitirá en el plazo de dos (2) días hábiles, incluyendo las pruebas si hubiesen sido presentadas, a la Oficialía Mayor Técnica del Municipio, a fin de que se promueva la inspección del lugar objeto de concesión o autorización.
+4. El Oficial Mayor Técnico o la Dirección Correspondiente del Municipio, realizará en el plazo de siete (7) días hábiles la inspección conjuntamente el representante del Órgano Regulador, miembros del Comité Coadyuvante y las organizaciones sociales a objeto de que se emita un Informe de Inspección.
+5. En el informe de Inspección se verificará la existencia de indicios sobre los hechos denunciados, las personas individuales o colectivas presuntamente responsables de los hechos denunciados, las normas o previsiones expresamente vulneradas y otras circunstancias relevantes para el caso, debiendo recomendar en caso necesario la paralización de obras de explotación y/o aprovechamiento de áridos y agregados.
+6. En base al Informe de Inspección el Alcalde Municipal dictará el auto inicial del proceso técnico administrativo en el plazo de dos (2) días hábiles computables a partir de la recepción del informe de inspección. El auto inicial deberá contener el nombre del beneficiario de la concesión o autorización, detalle de la inspección realizada, señalando la infracción, plazo perentorio e improrrogable de seis (6) días hábiles para presentar prueba de descargo y la orden de paralización de obras si fuere recomendada, debiendo citarse al autorizado a objeto de que asuma su defensa.
+7. Con los datos y pruebas presentadas la Oficialía Mayor Técnica emitirá el respectivo informe de conclusiones en el plazo de seis (6) días hábiles de concluido el plazo probatorio, estableciendo las disposiciones contravenidas, la infracción cometida y la sanción al infractor si correspondiere, a este informe se adjuntara la ficha técnica que explique y detalle gráficamente las infracciones.
+8. Vencido el término de prueba, el Alcalde Municipal en el plazo de siete (7) días hábiles de emitido el informe en conclusiones emitirá Resolución Administrativa fundamentada que declare probada o improbada la denuncia. La Resolución Municipal pondrá fin al proceso técnico administrativo en primera instancia, y deberá contener: determinación de la existencia de la infracción o recomendar el archivo de obrados en caso negativo, análisis de las pruebas de cargo y de descargo en caso de establecer la infracción y la imposición de la sanción cuando corresponda, otorgando el plazo de dos (2) días hábiles para su cumplimiento con cargo al infractor.
+9. El Órgano Regulador efectuará el seguimiento respectivo al proceso técnico administrativo.
+
+**Artículo 33°.- (Recurso de revocatoria)** Contra la resolución de primera instancia procederá el Recurso de Revocatoria que deberá ser interpuesto ante el Alcalde Municipal en el plazo de cinco (5) días hábiles siguientes a su notificación, el Alcalde Municipal resolverá el recurso de revocatoria en el plazo de diez (10) días hábiles, bajo responsabilidad. En caso de no hacerse uso del recurso en el plazo establecido la Resolución Administrativa quedará ejecutoriada. Si vencido dicho plazo, el Alcalde no dictase Resolución, ésta se la tendrá por denegada, pudiendo el interesado interponer el Recurso Jerárquico.
+
+**Artículo 34°.- (Recurso jerárquico)** El Recurso Jerárquico se interpondrá ante la autoridad administrativa que resolvió el Recurso de Revocatoria, dentro del plazo de los cinco (5) días hábiles siguientes a su notificación. El Recurso deberá elevarse, en el plazo de tres días hábiles de haber sido interpuesto ante el Concejo Municipal, la misma que tendrá un plazo de quince (15) días hábiles para su resolución confirmatoria o revocatoria. Si vencido dicho plazo no se dictara resolución, ésta se la tendrá por denegada, quedando agotada la vía administrativa.
+
+**Artículo 35°.- (Impugnación judicial)** Agotada la vía administrativa, el interesado podrá acudir a la impugnación judicial por la vía del proceso contencioso - administrativo.
+
+## Capítulo X Oposición de autorizaciones
+
+**Artículo 36°.- (Procedimiento para la oposición de autorizaciones)** Posterior a la publicación de las solicitudes de autorización anual de aprovechamiento y explotación de áridos y agregados, las personas naturales o jurídicas o las organizaciones sociales del sector y del municipio que demuestren un interés legítimo, podrán presentar sus oposiciones de acuerdo al siguiente procedimiento:
+
+1. La oposición deberá ser presentada por escrito ante el H. Alcalde Municipal con los argumentos de hecho y de derecho que la justifiquen, con las pruebas pertinentes, consignando el nombre completo, domicilio y demás datos generales del opositor, la individualización del sector en el que se pretende realizar la explotación de áridos y agregados, y de ser posible, el número de trámite y fecha de la petición de autorización, seguida del nombre del peticionante. Esta oposición deber ser dada a conocer al Órgano Regulador a los fines de su pronunciamiento.
+2. La oposición deberá sustentarse en la violación a las leyes ambientales, reincidencia de infracciones, explotación irracional de áridos y agregados, daños ecológicos a la actividad agrícola y otras; superposición de autorizaciones o prioridad de autorización y otros que por su naturaleza o gravedad puedan afectar negativamente al sector.
+3. Una vez que se haya tomado conocimiento de la oposición, el Alcalde Municipal en el plazo de tres (3) días hábiles, correrá en traslado al peticionante de la autorización afectado con la oposición, a fin de que conteste y presente los descargos que creyere conveniente, en el plazo de cinco (5) días hábiles computables desde su notificación.
+4. Admitida la respuesta del peticionante afectado, previa realización de las inspecciones que correspondan, se verificará la existencia de derechos, la legitimidad y legalidad de los mismos; y la Oficialía Mayor Técnica correspondiente procederá a emitir Informe técnico-legal sobre el caso.
+5. El Alcalde Municipal con base en el Informe técnico legal, con o sin contestación del peticionante, en el plazo de veinte (20) días hábiles computables a partir de su admisión, emitirá una Resolución final de aceptación o rechazo de la oposición; resolución que tendrá carácter definitivo.
+6. El agraviado con la Resolución Administrativa, podrá interponer los recursos que le faculta la Ley para agotar la vía administrativa correspondiente.
+     
+
+   ## Disposiciones transitorias
+
+**Artículo transitorio Único.-** Los Gobiernos Municipales, deberán elaborar las normas específicas y guías técnicas para la administración y regulación para el aprovechamiento y explotación de áridos y agregados, en el plazo de cuarenta y cinco (45) días hábiles. El Ministerio de Medio Ambiente y Agua, en función a la solicitud de los Gobiernos Municipales, coadyuvará en la formulación correspondiente.
+
+## Disposiciones finales
+
+**Artículo final 1°.- (Usos y costumbres)** Se respetan los usos y costumbres relacionados con el manejo de recursos naturales, cuencas y áridos y agregados que practican las organizaciones campesinas, originarias, indígenas, de regantes y las comunidades colindantes con los ríos.
+
+**Artículo final 2°.- (Servidumbres)** La constitución, modificación y extinción de las servidumbres que se requieran para el aprovechamiento y explotación de áridos y agregados, serán reguladas por acuerdo de partes, por el Código Civil o por la Legislación Agraria.
+
+**Artículo final 3°.- (Uso de áridos y agregados para obras públicas)** 
+
+1. Con relación al uso de áridos y/o agregados para obras públicas, especialmente del Sistema Nacional de Carreteras, los Gobiernos Municipales deberán dar cumplimiento a lo establecido en la [Ley Nº 3507](https://www.lexivox.org//norms/BO-L-3507.html) de 27 de octubre de 2006 y el Capítulo II del [Decreto Supremo Nº 28946](https://www.lexivox.org//norms/BO-DS-28946.html) de 25 de noviembre de 2006. La utilización libre que establece el mencionado Decreto Supremo se entenderá en relación a la necesidad y cantidad de las obras bajo control de la entidad estatal respectiva.
+2. Asimismo, los Gobiernos Municipales deberán establecer un derecho preferente y prioritario a las entidades públicas que requieran la extracción de áridos y agregados destinados al manejo de cuencas para obras de regulación hidráulica y obras de saneamiento básico.
+
+**Artículo final 4°.- (Suspensiones de la explotación de áridos y agregados)** Ante una situación de emergencia, como el riesgo de desborde de un río, un desastre natural u otra situación de emergencia que se presente en los ríos y cuencas, el Concejo Municipal mediante Ordenanza Municipal, se pronunciará sobre la suspensión temporal de la explotación de áridos y agregados.
+
+**Artículo final 5°.- (Otras estipulaciones no contempladas en este reglamento)** Cualquier aspecto no contemplado en el presente Reglamento, en cuanto a medidas técnicas - operativas de aprovechamiento y/o explotación de áridos y agregados, serán reglamentados por los Gobiernos Municipales a través del Concejo Municipal en coordinación con el Órgano Regulador.
+
+---
+
+Reglamento Anexo al [Decreto Supremo Nº 91](https://www.lexivox.org//norms/BO-DS-N91.html) promulgado a los veintidós días del mes de abril del año dos mil nueve.
+  
+FDO. ÁLVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Velez, Walker Sixto San Miguel Rodríguez, Hector E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, MINISTRO DE PLANIFICACION DEL DESARROLLO E INTERINO DE ECONOMIA Y FINANZAS PÚBLICAS, Oscar Coca Antezana, Patricia A. Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luis Alberto Echazú Alvarado, Calixto Chipana Callizaya, MINISTRO DE TRABAJO, EMPLEO Y P.S. E INTERINO DE JUSTICIA, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, MINISTRA DE DESARROLLO RURAL Y TIERRA E INTERINA DE SALUD Y DEPORTES, Pablo César Groux Canedo.

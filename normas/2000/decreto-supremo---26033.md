@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 26033, 22 de diciembre de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la refinería Carlos Montenegro de la ciudad de Sucre no ha sido incluida en la privatización de refinerías de propiedad de Yacimientos Petrolíferos fiscales Bolivianos (YPFB).
+* Que YPFB ha presentado ante el Consejo Nacional de Política Económica (CONAPE) una propuesta de realización de un emprendimiento con los activos de la refinería y parte de la comercialización mayorista de carburantes.
+* Que el CONAPE ha aprobado en reunión ordinaria de fecha 25 de mayo de 2000 la realización de dicho emprendimiento.
+* Que se modifica el reglamento de Licitación de los Productos regulados de Refinerías Gualberto Villarroel, Guillermo Elder Bell y Carlos Montenegro aprobado por [Decreto Supremo Nº 25503](https://www.lexivox.org//norms/BO-DS-25503.html) de 3 de septiembre de 1999, modificado por [Decreto Supremo Nº 25562](https://www.lexivox.org//norms/BO-DS-25562.html) de 29 de octubre y modificado por el [Decreto Supremo Nº 25810](https://www.lexivox.org//norms/BO-DS-25810.html) de 8 de junio de 2000.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Substitúyase el punto 3 del artículo 3 del [Decreto Supremo Nº 25810](https://www.lexivox.org//norms/BO-DS-25810.html) de fecha 8 de junio de 2000 por lo siguiente:
+> “Si hasta el 31 de marzo de 2001 la Empresa Laboral no inicia actividades de mayoreo cumpliendo todas las disposiciones legales aplicables, los volúmenes asignados a ésta, serán licitados por la Superintendencia de Hidrocarburos entre Distribuidores Mayoristas de Productos Regulados en el marco del Reglamento para la Licitación de los Productos Regulados de las Refinerías Gualberto Villarroel y Guillermo Elder Bell. Dichos Volúmenes serán incluidos en el Reglamento de Nominación de Plazas y Volúmenes para la Comercialización Mayorista de Carburantes.
+>   
+> Si hasta el 31 marzo de 2001 la empresa que constituya el emprendimiento con la refinería Carlos Montenegro, no inicia actividades de mayoreo cumpliendo todas las disposiciones legales aplicables, los volúmenes asignados a ésta serán licitados por la Superintendencia de Hidrocarburos entre Distribuidores Mayoristas de Productos Regulados en el marco del Reglamento para la Licitación de los Productos Regulados de las Refinerías Gualberto Villarroel, Guillermo Elder Bell y Carlos Montenegro. Dichos volúmenes serán incluidos en el Reglamento de nominación de Plazas y Volúmenes para Comercialización de Mayorista de Carburantes por el Poder Ejecutivo a través de Decreto Supremo.”
+
+  
+Los Señores de Estado en los Despachos de Desarrollo Económico y Hacienda quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de diciembre del año dos mil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Luis Fernando Quiroga Ramirez MINISTRO INTERINO DE DESARROLLO ECONOMICO, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

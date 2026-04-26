@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 28477, 2 de diciembre de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 5 del [Decreto Supremo Nº 27598](https://www.lexivox.org//norms/BO-DS-27598.html) de 25 de junio de 2004, autoriza al Tesoro General de la Nación - TGN transferir a las Universidades Públicas, los recursos provenientes de la colocación de Bonos del TGN, hasta un monto de $us.10.000.000.- (DIEZ MILLONES 00/100 DE DOLARES AMERICANOS) para el pago exclusivo de deudas con las Administradoras de Fondos de Pensiones, la banca privada y beneficios sociales.
+* Que el [Decreto Supremo Nº 27598](https://www.lexivox.org//norms/BO-DS-27598.html) señala que los recursos transferidos se convertirán en deuda de las Universidades Públicas, cuyo cobro será efectivo mediante la retención de sus recursos que serán depositados en un fondo de garantía administrado por el TGN.
+* Que dicha reprogramación de deudas no implica la creación de nueva deuda para las Universidades Públicas, por lo que no es necesario el trámite de registro de inicio de operaciones de crédito público.
+* Que en el marco de los Convenios suscritos entre el Ministerio de Hacienda y las Universidades Públicas, en los que se acuerda el financiamiento para la sustitución de deuda con las Administradoras de Fondos de Pensiones por beneficios sociales, condicionado a las posibilidades del TGN de colocar Bonos en el mercado, por lo que se requiere un monto mayor a $us.10.000.000.- (DIEZ MILLONES 00/100 DE DOLARES AMERICANOS), para poder atender los requerimientos de todas las Universidades Públicas, por lo que corresponde incrementar la asignación de recursos a favor de las mismas, provenientes de la emisión de Bonos de Tesoro.
+* Que el [Decreto Supremo Nº 27871](https://www.lexivox.org//norms/BO-DS-27871.html) de 26 de noviembre de 2004, modifica el Artículo 5 del [Decreto Supremo Nº 27598](https://www.lexivox.org//norms/BO-DS-27598.html), autorizando al TGN transferir a las Universidades Públicas los recursos provenientes de la colocación de Bonos del TGN, hasta un monto de $us.15.000.000.- (QUINCE MILLONES 00/100 DE DOLARES AMERICANOS) para el pago exclusivo de deudas con las Administradoras de Fondos de Pensiones, la banca privada y beneficios sociales.
+* Que en el marco de lo dispuesto en los Decretos Supremos [Nº 27598](https://www.lexivox.org//norms/BO-DS-27598.html) y [Nº 27871](https://www.lexivox.org//norms/BO-DS-27871.html), mediante Convenios de Reprogramación de Deudas suscritos entre el Ministerio de Hacienda y las Universidades Públicas, se transfiere en favor de estas últimas, un importe total equivalente a $us.15.000.000.- (QUINCE MILLONES 00/100 DE DOLARES AMERICANOS) con recursos provenientes de la colocación de Bonos del Tesoro en Unidades de Fomento de Vivienda, encontrándose el Ministerio de Hacienda autorizado a retener recursos provenientes de Coparticipación Tributaria de las Universidades Públicas, en función de la magnitud de las obligaciones inscritas en la Cuentas Fondo de Garantía aperturadas en el Banco Central de Bolivia, con la finalidad exclusiva de efectuar el pago oportuno de los gastos de administración del Banco Central de Bolivia, así como la cancelación de dieciocho cuotas fijas semestrales a favor del TGN, en un plazo de nueve años y a una tasa de interés de 6% anual.
+* Que respecto a la deuda que mantienen las Universidades Públicas con el TGN, el Gobierno Nacional, representado por el Ministerio de Hacienda, ha comprometido la promulgación de un Decreto Supremo que establezca la reprogramación de plazo con ampliación de 3 y 5 años, según corresponda.
+* Que es necesario autorizar la asignación hasta un importe igual a Bs.23.000.000.- (VEINTITRES MILLONES 00/100 BOLIVIANOS) en la gestión 2005 para las Universidades Públicas, destinados a la sustitución de deuda con la banca privada, por concepto de beneficios sociales y Seguro Social Universitario, condicionado a las posibilidades del TGN de colocar Bonos en el mercado.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 23 de noviembre de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Hacienda, previo análisis correspondiente, efectuar la reprogramación del saldo deudor de la obligación que mantienen las Universidades Públicas con el Tesoro General de la Nación - TGN, por concepto de recursos provenientes de Bonos del Tesoro emitidos en Unidades de Fomento de Vivienda, en el marco de lo dispuesto por el [Decreto Supremo Nº 27598](https://www.lexivox.org//norms/BO-DS-27598.html) de 25 de junio de 2004, modificado por [Decreto Supremo Nº 27871](https://www.lexivox.org//norms/BO-DS-27871.html) de 26 de noviembre de 2004, considerando la ampliación del plazo hasta cinco (5) años, manteniendo la tasa de interés del 6% anual, la periodicidad semestral de pago y la moneda de la obligación.
+2. Se autoriza al TGN transferir a las Universidades Públicas, en las mismas condiciones de mercado, los recursos provenientes de la colocación de Bonos de Tesoro, hasta un monto igual a Bs.23.000.000.- (VEINTITRES MILLONES 00/100 DE BOLIVIANOS) para el pago exclusivo de deudas con la banca privada, así como por concepto de beneficios sociales y Seguro Social Universitario, conforme a Convenios suscritos por el Ministerio de Hacienda con las Universidades Públicas en la gestión 2005.
+3. Los recursos transferidos se convertirán en deuda de las Universidades Públicas, cuyo cobro será efectivo mediante la retención de sus recursos que serán depositados en un fondo de garantía administrado por el TGN. El plazo, moneda y otras características de los mencionados préstamos, a ser establecidos en los Convenios específicos de Créditos, corresponderán a las condiciones de los Bonos de Tesoro colocados mediante subastas públicas a través del Banco Central de Bolivia.
+4. La reprogramación de deudas no implica la creación de deuda para las Universidades Públicas, por lo tanto, no será necesario el trámite de registro de inicio de operaciones de crédito público.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de diciembre del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Fernando Suárez Da Silva Ministro Interino de Desarrollo Económico, Eduardo Rojas Gastelú Ministro Interino de Servicios y Obras Públicas, Sergio M. Medinaceli Monroy, Maria Cristina Mejía Barragán, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Ernesto Muñoz Pereira, Ministro Interino de Asuntos Campesinos y Agropecuarios, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

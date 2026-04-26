@@ -1,0 +1,98 @@
+# Bolivia: Decreto Supremo Nº 29528, 23 de abril de 2008
+
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE INTERINO DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que en fecha 17 de mayo de 2005 se promulgó la Ley de Hidrocarburos Nº 3058, la que establece en su Artículo 27 que cuando Yacimientos Petrolíferos Fiscales Bolivianos - YPFB ejecute directamente las actividades hidrocarburíferas como empresa autárquica, está obligada a pagar Regalías, Retribuciones y Participaciones.
+* Que el Artículo 79 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html) establece que bajo las condiciones de los Contratos de Operación, YPFB pagará por su parte las Regalías, Impuestos y Participaciones sobre la producción, más los impuestos que el correspondan.
+* Que los Contratos de Operación protocolizados en fecha 2 de mayo de 2007, disponen en su Cláusula 12.2 que el pago de Regalías, Participaciones e IDH será realizado por YPFB.
+* Que el [Decreto Supremo Nº 28701](https://www.lexivox.org//norms/BO-DS-28701.html) de 1º de mayo de 2006, establece que YPFB a nombre y en representación del Estado, en el ejercicio pleno de la propiedad de todos los hidrocarburos producidos en el país, asume su comercialización definiendo las condiciones, volúmenes y precios, tanto para el mercado interno como para la exportación y la industrialización.
+* Que el [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, que aprueba el Reglamento para la Liquidación de Regalías y la Participación al Tesoro General de la Nación por la Producción de Hidrocarburos, establece plazos para la entrega al Ministerio de Hidrocarburos y Energía de información agregada de precios y cantidad comercializada de Gas Natural exportados, volúmenes y calidad de los hidrocarburos producidos y Declaraciones Juradas sobre la cantidad comercializada de Petróleo, GLP y Gas Natural en el mercado interno y la exportación, así como cálculos detallados de Regalías y Participación al Tesoro General de la Nación que corresponde pagar por la producción de hidrocarburos.
+* Que el [Decreto Supremo Nº 28223](https://www.lexivox.org//norms/BO-DS-28223.html) de 27 de junio de 2005, que aprueba el Reglamento para la Liquidación del Impuesto Directo a los Hidrocarburos, establece la forma de Liquidación y el período de pago del mismo, de acuerdo a lo establecido en los Artículos 53, 55 y 56 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html) de 17 de mayo de 2005.
+* Que es necesario modificar la normativa vigente, para efectuar el cálculo de las Regalías y la Participación al Tesoro General de la República, de acuerdo con las condiciones previstas en los Contratos de Operación suscritos entre YPFB y las empresas petroleras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto efectuar modificaciones al [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005 y [Decreto Supremo Nº 28223](https://www.lexivox.org//norms/BO-DS-28223.html) de 27 de junio de 2005, para su adecuación a los Contratos de Operación suscritos entre Yacimientos Petrolíferos Fiscales Bolivianos y las empresas petroleras, aprobados por el Honorable Congreso Nacional y Protocolizados por Notaría de Gobierno.
+
+**Artículo 2°.- (Modificaciones)** Se modifican los siguientes Artículos:
+
+1. Se modifica el tercer punto del Artículo 5º del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, con el siguiente texto:
+   > “Para los campos con facilidades de separación de fluidos y sin Planta de Extracción de Licuables o planta de desgasolinado:
+   >   
+   > Gas Natural, Gasolina Natural y GLP establecidos mediante cálculo, en base a volúmenes y calidad determinados por medio de análisis cromatográfico del Gas Natural fiscalizado a la entrada del sistema de adecuación de la planta receptora; y el Condensado y/o Petróleo Crudo medidos a la salida de los tanques de almacenamiento del sistema de separación o de la planta de estabilización, que corresponden al Punto de Fiscalización antes de su entrega para ser transportados.
+   >   
+   > El cálculo para determinar los volúmenes de Gas Natural Despojado y los licuables contenidos en la corriente de Gas Natural, se efectuará considerando los rendimientos de extracción de la planta del campo receptor, sea esta una planta de extracción de licuables o planta de desgasolinado, en base a los análisis cromatográficos tanto a la entrada como a la salida del sistema de adecuación.
+   >   
+   > Si existiese inconsistencia de información en el cálculo teórico de los campos con facilidades de separación de fluidos y sin Planta de Extracción de Licuables o planta de desgasolinado, debido a problemas técnicos debidamente respaldados, se certificarán los volúmenes reales medidos en la planta receptora.
+   >   
+   > Para contabilizar los volúmenes fiscalizados de hidrocarburos, toda producción extraída en una planta, atribuible a un campo con facilidades de separación de fluidos y sin Planta de Extracción de Licuables o planta de desgasolinado, y que ha sido ya sujeta a fiscalización en el campo de origen para el respectivo pago a la salida del sistema de separación de fluidos, no deberá incluirse en la certificación de la producción del campo receptor donde está ubicada la planta.”
+2. Se modifica el Artículo 17 del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, con el siguiente texto:
+   > “Artículo 17.- El pago por concepto de Regalías y la Participación al Tesoro General de la Nación, será efectuado en una sola cuota mensual dentro de los 90 días de finalizado el mes de producción, sobre la base de los montos determinados en el último Informe de Liquidación de Regalías y Participación al Tesoro General de la Nación emitido de manera oficial por el Ministerio de Hidrocarburos y Energía.”
+3. Se modifica el Artículo 18 del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, con el siguiente texto:
+   > “Artículo 18.- Una vez que el Ministerio de Hidrocarburos y Energía publique el Informe de Liquidación de Regalías y la Participación al Tesoro General de la Nación por la Producción de Hidrocarburos, Yacimientos Petrolíferos Fiscales Bolivianos procederá a efectuar la conciliación de los pagos realizados con respecto a los montos determinados en dicho Informe.
+   >   
+   > Si como resultado de la conciliación existiesen saldos a favor de Yacimientos Petrolíferos Fiscales Bolivianos, estos serán deducidos del pago que el corresponde efectuar después de realizada la conciliación, hasta el total agotamiento de dicho saldo.
+   >   
+   > Si existiera un saldo en contra, este será abonado junto al siguiente pago que corresponda después de efectuada la conciliación.
+   >   
+   > El estado de conciliación, junto al original duplicado del depósito bancario por el pago, deberá ser remitido al Ministerio de Hidrocarburos y Energía hasta el día diez del mes siguiente.”
+4. Se modifica el Artículo 19 del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, con el siguiente texto:
+   > “Artículo 19.- Cuando la emisión del Balance Volumétrico Energético y/o la certificación de producción no fueran entregadas en los plazos establecidos, Yacimientos Petrolíferos Fiscales Bolivianos presentará las declaraciones juradas dentro de los siete días hábiles a partir de la emisión de estos documentos”
+
+   .
+5. Se modifica el Artículo 20º del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, por el siguiente texto:
+   > “Artículo 20.- El pago por concepto de Regalías y la Participación al Tesoro General de la Nación será depositado por YPFB, en Dólares de los Estados Unidos de América, en las respectivas cuentas bancarias del Tesoro General de la Nación, de las Prefecturas de los Departamentos productores y de los Departamentos de Beni y Pando.”
+6. Se modifica el Artículo 23 del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, con el siguiente texto:
+   > “Artículo 23.- Los precios para la valoración establecidos en el presente Decreto Supremo, se determinarán en Punto de Fiscalización deduciendo las tarifas de transporte y compresión, aplicadas hasta el Punto de Comercialización y/o Punto de Entrega, según corresponda.
+   >   
+   > En caso de que YPFB tenga suscrito más de un contrato de transporte en firme con una o más empresas transportadoras, para la valoración se aplicará la tarifa de transporte establecida en estos contratos a las cantidades reales transportadas por cada contrato.
+   >   
+   > Para la determinación de precios en Punto de Fiscalización, se deberá considerar las siguientes tarifas de transporte:
+   >   
+   > - Transporte por ductos: Las aprobadas y aplicadas por la Entidad Competente para el sistema de ductos, hasta el Punto de Comercialización y/o Punto de Entrega, según corresponda.
+   >   
+   > - Otros medios de transporte: La tarifa real, debidamente documentada, sujeta a revisión del Ministerio de Hidrocarburos y Energía.
+   >   
+   > Si no se incurriera en ningún costo de transporte, la tarifa de transporte será igual a cero (0).
+   >   
+   > Cuando se efectúe más de una venta en el mes sujeto a declaración, en diferentes puntos de comercialización y/o por diferentes modalidades o medios de transporte, se utilizará la tarifa de transporte promedio ponderada por tipo de mercado (interno y externo) de sus ventas, aplicando los criterios de valoración citados anteriormente.
+   >   
+   > Las tarifas de transporte y compresión, deberán ser referidas a las mismas unidades en las que están determinados los precios de valoración definidos en el Artículo 8° del presente Decreto Supremo.
+   >   
+   > Los factores de conversión y el procedimiento detallado para la fijación de la Tarifa aplicable por tipo de producto y medio de transporte serán establecidos en Resolución Ministerial.
+   >   
+   > En los casos en que los precios de venta estén determinados en un punto posterior al Punto de Fiscalización ubicado en territorio nacional, se deducirán las tarifas de transporte y compresión incurridas hasta dicho punto.
+   >   
+   > Cuando el precio de valoración para el Petróleo sea el WTI, se deducirá la tarifa mayor entre la aprobada por la Entidad Competente para el sistema de ductos interno y de exportación, o la tarifa real incurrida”
+
+   .
+7. Se modifica el Artículo 7° del [Decreto Supremo Nº 28223](https://www.lexivox.org//norms/BO-DS-28223.html) de 27 de junio de 2005, de la siguiente forma:
+   > “Artículo 7.- (LIQUIDACIÓN Y PERIODO DE PAGO). De conformidad a lo establecido en los Artículos 53 y 56 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), el Impuesto Directo a los Hidrocarburos se liquidará y pagará mensualmente en Dólares de los Estados Unidos de América, mediante declaración jurada dentro de los 90 días de finalizado el mes de producción, consolidando al efecto el total de las operaciones realizadas durante el mes objeto de liquidación, pudiendo la Administración Tributaria prorrogar el plazo señalado, mediante Resolución Administrativa en casos excepcionales en el marco de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html)”
+
+**Artículo 3°.- (Plazos)** 
+
+1. Se modifica el plazo establecido en el Artículo 14º del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005 referido a la presentación de la Declaración Jurada sobre la cantidad comercializada de Petróleo, GLP y Gas Natural, para la determinación de los precios de liquidación de Regalías y la Participación al Tesoro General de la Nación, estableciendo como nuevo plazo de fecha de presentación hasta el penúltimo día hábil de cada mes.
+2. Se modifica el plazo señalado en el Artículo 15º del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, referido a la presentación de la Declaración Jurada de los Formularios de Liquidación de las Regalías y la Participación al Tesoro General de la Nación, estableciendo como nuevo plazo de fecha de presentación hasta tres (3) días hábiles posteriores a la presentación de la Declaración Jurada sobre cantidad comercializada de Petróleo, GLP y Gas Natural.
+
+**Artículo 4°.- (Definiciones)** Se incluye como último párrafo del Artículo 42 del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005, el siguiente texto:
+> “Tarifa de Compresión: Para efectos del cálculo de las Regalías y Participación al Tesoro General de la Nación se considera tarifa de compresión, a aquella tarifa, destinada al pago del servicio de compresión, aprobada por la Entidad Competente y que no se encuentra incluida dentro de la Tarifa de Transporte.”
+
+**Artículo 5°.- (Plazo transitorio)** Se dispone una pausa de seis (6) meses, a partir de la publicación del presente Decreto Supremo, para la aplicación del Título V “sPenalidades” del [Decreto Supremo Nº 28222](https://www.lexivox.org//norms/BO-DS-28222.html) de 27 de junio de 2005.
+
+# Disposiciones finales
+
+**Artículo final Único.- (Derogaciones y abrogaciones)** Se derogan y abrogan, todas las disposiciones legales contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Hacienda y de Hidrocarburos y Energía quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la Ciudad de La Paz a los veintitrés días del mes de abril del año dos mil ocho.
+  
+Fdo. ALVARO MARCELO GARCÍA LINERA, David Choquehuanca Cespedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Graciela Toro Ibañez, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Angel Javier Hurtado Mercado, Oscar Coca Antezana, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, Maria Magdalena Cajías de la Vega, Walter Selum Rivero.

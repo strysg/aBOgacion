@@ -1,0 +1,42 @@
+# Bolivia: Decreto Supremo Nº 28556, 22 de diciembre de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Ley Nº 1610](https://www.lexivox.org//norms/BO-L-1610.html) de 23 de diciembre de 1994, se aprobó el Contrato de Préstamo suscrito entre la República de Bolivia y el Fondo Internacional de Desarrollo Agrícola - FIDA.
+* Que el Proyecto de Desarrollo de Criadores de Camélidos del Altiplano Boliviano - UNEPCA tuvo el mandato de llevar adelante la ejecución de los recursos del Fondo Internacional de Desarrollo Agrícola - FIDA, Corporación Andina de Fomento - CAF y la contra parte de la Republica de Bolivia - TGN.
+* Que el FIDA, comunica al Ministerio de Asuntos Campesinos y Agropecuarios - MACA como fecha de cierre del Proyecto UNEPCA y terminación de actividades el 30 de junio de 2004.
+* Que mediante Resolución Ministerial Nº 034 de 29 de marzo de 2004, emitido por el MACA se establecen las condiciones administrativas, legales y financieras para proceder al cierre definitivo del Proyecto UNEPCA.
+* Que el monto de los recursos ejecutados, de los Fondos Rotatorios Comunitarios, por el Proyecto UNEPCA al momento de su cierre alcanzan a $us.1.351.583.- (UN MILLON TRESCIENTOS CINCUENTA Y UN mil QUINIENTOS OCHENTA Y TRES 00/100 DOLARES AMERICANOS) compuesto por Fondos Rotatorios de Recuperación Inmediata, Fondos Rotatorios Transferibles, Fondos Rotatorios para Ampliación de Contrato y Recuperación y Fondos Rotatorios para recuperación por proceso legal, de los cuales se ha transferido y recuperado la suma de $us.694.497,32 (SEISCIENTOS NOVENTA Y CUATRO mil CUATROCIENTOS NOVENTA Y siete 32/100 DOLARES AMERICANOS), quedando un saldo por recuperar de $us.657.085,68 (SEISCIENTOS CINCUENTA Y siete mil OCHENTA Y CINCO 68/100 DOLARES AMERICANOS).
+* Que en las gestiones 1996 a 2002, UNEPCA transfirió a FADES, mediante contrato principal y adendas, un capital equivalente a $us.1.977.000.- (UN MILLON novecientos SETENTA Y siete mil 00/100 DOLARES AMERICANOS), para ejecutar el Programa de Crédito en la zona altiplánica de Bolivia. Por concepto de capitalización se generaron recursos adicionales equivalentes a $us.415.915.82.- (CUATROCIENTOS QUINCE mil novecientos QUINCE 82/100 DOLARES AMERICANOS).
+* Que como parte de las tareas de cierre definitivo de UNEPCA, se procedió a la recuperación de los recursos transferidos mediante la firma de contratos de conclusión, a partir del segundo semestre de 2002. Estos recursos serán reutilizados en el proyecto de inversión pública denominado Proyecto Piloto para el Desarrollo de Oportunidad de Negocios en Familias Rurales del Sector Camélidos en el Altiplano Boliviano - PPC, a través del MACA.
+* Que en el caso particular de FADES, la recuperación de recursos al 30 de junio de 2004 cierre del Proyecto UNEPCA, es de $us 1.764.646,35 (UN MILLON novecientos SESENTA Y CUATRO mil SEISCIENTOS CUARENTA SEIS 35/100 DOLARES AMERICANOS) que corresponden a parte de capital e intereses. A la fecha el saldo a recuperar por concepto de capital e interés es de $us.628.269,47 (SEISCIENTOS VEINTIOCHO mil DOSCIENTOS SESENTA Y NUEVE 47/100 DOLARES AMERICANOS).
+* Que la Resolución Ministerial Nº 183 de 12 de noviembre de 2004, emitida por el Ministerio de Asuntos Campesinos y Agropecuarios, crea la Unidad Técnica de Camélidos - UTC, con sede en la ciudad de Oruro, bajo dependencia de ese Ministerio y aprueba el Proyecto Piloto para el Desarrollo de Oportunidad de Negocios en Familias Rurales del Sector Camélidos en el Altiplano Boliviano - PPC.
+* Que la Resolución Ministerial Nº 241 de 18 de noviembre de 2005, modifica el Artículo Primero de la Resolución Ministerial Nº 183/2004 de 12 de noviembre de 2004, ubicando a la Unidad Técnica de Camélidos bajo dependencia del Viceministerio de Asuntos Agropecuarios y Riego.
+* Que el Proyecto Piloto de Camélidos PPC, en su Texto de Diseño cuenta con un componente Fondo de Inversiones que son recursos reembolsables que están destinados a pequeños y medianos productores, criadores, microempresarios, transformadores, artesanos y demás actores de la cadena de camélidos con el objetivo de que accedan a recursos financieros que los permitan incrementar el volumen de sus operaciones. Este fondo asciende a $us 1.588.725,00 para su ejecución, cuenta con tres brazos operativos, cada uno encaminado a lograr resultados específicos: 1) Crédito ($us.671.600), 2) Capital de Riesgo ($us.609.500) y 3) Apoyo a los Productores Primarios para su integración en cadenas ($us.307.625).
+* Que en el marco del [Decreto Supremo Nº 25338](https://www.lexivox.org//norms/BO-DS-25338.html) de 29 de marzo de 1999, el FONDESIF se encuentra facultado para la administración de recursos financieros del Estado y de la Cooperación Internacional con destino a la concesión de créditos para la micro y pequeña empresa del país, a través de entidades financieras seleccionadas, con o sin licencia de funcionamiento de la Superintendencia de Bancos y Entidades Financieras.
+* Que las actividades y tareas desarrolladas por el Proyecto Piloto de Camélidos, requieren estar respaldadas en una norma legal de la jerarquía de Decreto Supremo de conformidad a la Ley de Organización del Poder Ejecutivo y Decretos Supremos Reglamentarios.
+* Que las demandas del sector de productores de camélidos del altiplano boliviano requieren ser canalizadas por un Proyecto con autonomía (Técnica, Jurídica y Administrativa/Financiera) dentro del Ministerio de Asuntos Campesinos y Agropecuarios.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 15 de diciembre de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Asuntos Campesinos y Agropecuarios - MACA constituir en el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF un Fideicomiso por un monto de hasta $us 1.285.355,15 (UN MILLON DOSCIENTOS OCHENTA Y CINCO mil TRESCIENTOS CINCUENTA Y CINCO 15/100 DOLARES AMERICANOS), provenientes de la recuperación y administración del Fondo Rotatorio y recursos de FADES, otorgados por la Ex Unidad Ejecutora de Camélidos - UNEPCA, cuyos fondos serán destinados para la implementación y ejecución de los componentes del PPC.
+2. Así mismo, se autoriza a la Unidad Técnica de Camélidos - UTC, unidad desconcentrada dependiente del Ministerio de Asuntos Campesinos y Agropecuarios, constituir en el Fondo de Desarrollo del Sistema y de Apoyo al Sector Productivo - FONDESIF un Fideicomiso por un monto de hasta $us 1.588.725.- (UN MILLON QUINIENTOS OCHENTA Y OCHO mil novecientos VEINTICINCO 00/100 DOLARES AMERICANOS), cuyos fondos serán destinados a la implementación y ejecución del Proyecto Piloto para el Desarrollo de Oportunidad de Negocios de Familias Rurales del Sector Camélidos en el Altiplano Boliviano - PPC.
+3. El FONDESIF, de acuerdo a sus procedimientos internos y de acuerdo al Texto de Diseño del PPC, y cuando corresponda, seleccionará a las entidades financieras intermediarias con o sin licencia de funcionamiento de la Superintendencia de Bancos y Entidades Financieras para la ejecución de los tres componentes del PPC.
+4. Los Contratos de Fideicomiso a ser suscritos entre el MACA y el PPC con el FONDESIF, establecerán las condiciones de administración de los Fideicomisos y de las responsabilidades institucionales contratantes.
+
+---
+
+El señor Ministro de Estado en el Despacho de Asuntos Campesinos y Agropecuarios queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno en la ciudad de La Paz, a los veintidós días del mes de diciembre del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Carlos Díaz Villavicencio, Mario Moreno Viruéz, Sergio M. Medinaceli Monroy, Maria Cristina Mejía Barragán, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Guillermo Ribera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

@@ -1,0 +1,38 @@
+# Bolivia: Decreto Supremo Nº 28578, 17 de enero de 2006
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que por [Decreto Supremo Nº 05780](https://www.lexivox.org//norms/BO-DS-5780.html) de 21 de abril de 1961, se autoriza a la Caja Nacional de Seguridad Social, la transferencia del Inmueble situado en la Avenida 20 de Octubre de esta ciudad en favor del Instituto Nacional de Vivienda, para ser adjudicado a trabajadores particulares y proceder a la venta total por pisos o departamentos.
+* Que mediante [Decreto Supremo Nº 06816](https://www.lexivox.org//norms/BO-DS-6816.html) de 3 de julio de 1964 se crea el Consejo Nacional de Vivienda - CONAVI, bajo tuición del Ministerio de Trabajo y Seguridad Social, como entidad sucesora del Instituto Nacional de Vivienda.
+* Que el Articulo 18 del [Decreto Supremo Nº 21660](https://www.lexivox.org//norms/BO-DS-21660.html) de 10 de julio de 1987, crea el Fondo Nacional de Vivienda - FONVI, bajo tuición del Ministerio de Asuntos Urbanos, y el Articulo 28 crea el Instituto de Vivienda Social en base de los Consejos Nacionales de Vivienda, bajo tuición del Ministerio de Urbanismo y Vivienda; este último, disuelto por el [Decreto Supremo Nº 23261](https://www.lexivox.org//norms/BO-DS-23261.html) de 15 de septiembre de 1992, a cuyo efecto el Ministerio de Asuntos Urbanos debía conformar una Comisión encargada de proceder a la transferencia de su patrimonio a la administración del mencionado Ministerio y del Fondo Nacional de Vivienda Social - FONVIS, creado mediante los Artículos 4 y 6 de la referida norma legal.
+* Que mediante Escritura Pública Nº 71/1962, de Compra Venta, el inmueble referido se transfirió en favor del Instituto Nacional de Vivienda, entidad que conforme se mencionó precedentemente, sufrió transformaciones hasta llegar a ser el Instituto de Vivienda Social, entidad estatal que ingresó en proceso de liquidación.
+* Que la escritura anteriormente mencionada, sufrió limitaciones a su derecho propietario, tanto a favor de particulares como de entidades estatales, es así que bajo la Partida Nº 78, Fs 77, del Libro 1ro B, se reduce el Piso 7 a favor de la entonces Dirección Nacional de Ferrocarriles.
+* Que mediante [Decreto Supremo Nº 10128](https://www.lexivox.org//norms/BO-DS-10128.html) de 18 de febrero de 1972 se transfiere el 3er y 4to pisos a favor del entonces Ministerio de Urbanismo y Vivienda; por Resolución Suprema Nº 188650 de 19 de octubre de 1978 fue adquirido el Departamento Nº 908, piso 9, a nombre del Ministerio de Urbanismo y Vivienda. De igual manera mediante Resolución Suprema Nº 189206 de 9 de febrero de 1979 fue adquirido el departamento Nº 608, piso 6, a favor, también, del Ministerio de Urbanismo y Vivienda.
+* Que al presente esos derechos y acciones que corresponden al Estado Boliviano se hallan inscritos a nombre del Fondo Nacional de Vivienda Social - FONVIS bajo la matricula de Folio Real 2.01.0.99.0061158, utilizando para dicho registro, el [Decreto Supremo Nº 23261](https://www.lexivox.org//norms/BO-DS-23261.html) de 15 de septiembre de 1992 que dispone la disolución del Instituto de Vivienda Social - IVS y que faculta la administración compartida del patrimonio de dicha entidad entre el FONVIS y el Ministerio de Urbanismo y Vivienda, en tanto se concluya con la liquidación del IVS.
+* Que el derecho propietario reconoce un gravamen inscrito en 20 de agosto de 1965, el mismo que a la fecha, y en virtud de lo previsto en el Artículo 1492 del Código Civil, se halla extinguido por efecto de la prescripción.
+* Que los alcances de la disposición legal que sirvió de base para la inscripción del inmueble, realizada por el Fondo Nacional de Vivienda Social - FONVIS, [Decreto Supremo Nº 23261](https://www.lexivox.org//norms/BO-DS-23261.html), se limitan únicamente a la administración más no así la titularidad del patrimonio del ex - IVS; anomalía que merece ser enmendada, por lo que, se determina que el Estado Boliviano debe regularizar su derecho propietario a favor de las instituciones públicas que ejercen posesión sobre estos bienes, en el caso en particular, el Ministerio Sin Cartera Responsable de Participación Popular.
+* Que a partir de la gestión 1995, el área de Desarrollo Urbano pasa a formar parte de la Secretaria Nacional de Participación Popular, por lo que los bienes del ex - IVS, pasan a formar parte de esta instancia gubernamental.
+* Que la Secretaría Nacional de Participación Popular, en las diferentes instancias gubernamentales que el sucedieron bajo responsabilidad de los Ministerios de Desarrollo Sostenible, Desarrollo Humano y, posteriormente, como Ministerio Sin Cartera Responsable de Participación Popular ha venido ocupando y otorgándole funcionalidad a dependencias e instalaciones del inmueble ubicado en la Av.20 de Octubre Esq. Fernando Guachalla Nº 2230, denominado CONAVI, cumpliendo con los gastos de conservación y mantenimiento del referido bien inmueble, compartiendo la posesión del mismo con reparticiones de copropietarios particulares adquirientes de unidades funcionales dentro del edificio.
+* Que de conformidad a las previsiones legales contenidas en el [Decreto Supremo Nº 28271](https://www.lexivox.org//norms/BO-DS-28271.html) de 28 de julio de 2005, los inmuebles que forman parte del patrimonio de la entidad deben estar inscritos en las Oficinas de Derechos Reales y Catastro Municipal, por lo que, se hace prioritario y necesario sanear la titularidad que asiste al derecho propietario sobre bienes que pertenecen al Ministerio Sin Cartera Responsable de Participación Popular.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 10 de enero de 2006.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. El presente Decreto Supremo tiene por objeto consolidar a favor del Estado Boliviano, a través del Ministerio Sin Cartera Responsable de Participación Popular la titularidad y derecho propietario de los derechos y acciones que el corresponden en los Pisos 3,4 y 7, así como los Departamentos 505,608,908,10-C y 10-D del edificio ubicado en la Avenida 20 de Octubre Nº 2230, denominado Edificio CONAVI, estableciendo que a partir de la fecha quedan incorporados al patrimonio del Ministerio Sin Cartera Responsable de Participación Popular.
+2. El presente Decreto Supremo constituye suficiente título, para su inscripción por ante las Oficinas de Derechos Reales y otros registros públicos.
+
+---
+
+El señor Ministro de Estado en el Despacho Responsable de Participación Popular queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno en la ciudad de La Paz, a los diecisiete días del mes de enero del año dos mil seis.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Carlos Díaz Villavicencio, Mario Moreno Viruéz, Sergio M. Medinaceli Monroy, Maria Cristina Mejía Barragán, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Guillermo Ribera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

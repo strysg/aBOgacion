@@ -1,0 +1,37 @@
+# Bolivia: Decreto Supremo Nº 4773, 3 de agosto de 2022
+
+[Decreto Supremo Nº 4773](https://www.lexivox.org//norms/BO-DS-N4773.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 348 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que los recursos naturales son de carácter estratégico y de interés público para el desarrollo del país.
+* Que el Artículo 360 del Texto Constitucional, establece que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética.
+* Que el Artículo 9 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), de 17 de mayo de 2005, de Hidrocarburos, señala que el Estado, a través de sus órganos competentes, en ejercicio y resguardo de su soberanía, establecerá la Política Hidrocarburífera del país en todos sus ámbitos. El aprovechamiento de los hidrocarburos deberá promover el desarrollo integral, sustentable y equitativo del país, garantizando el abastecimiento de hidrocarburos al mercado interno, incentivando la expansión del consumo en todos los sectores de la sociedad, desarrollando su industrialización en el territorio nacional y promoviendo la exportación de excedentes en condiciones que favorezcan los intereses del Estado y el logro de sus objetivos de política interna y externa, de acuerdo a una Planificación de Política Hidrocarburífera.
+* Que el Artículo 43 de la Ley del Presupuesto General del Estado - Gestión 2010, vigente por el inciso b) de la Disposición Final Segunda de la [Ley Nº 1413](https://www.lexivox.org//norms/BO-L-1413.html), de 17 de diciembre de 2021, del Presupuesto General del Estado Gestión 2022, dispone que en situaciones de emergencias, encarecimiento de precios, desastres naturales, inseguridad y desabastecimiento de alimentos e hidrocarburos, se autoriza al Órgano Ejecutivo, aprobar mediante Decreto Supremo, la aplicación de mecanismos de subvención con recursos del Tesoro General de la Nación - TGN, créditos y/o donaciones.
+* Que el [Decreto Supremo Nº 1996](https://www.lexivox.org//norms/BO-DS-N1996.html), de 14 de mayo de 2014, aprueba el Reglamento de Distribución de Gas Natural por Redes que tiene por objeto normar las condiciones técnicas, legales, económicas, así como los procedimientos administrativos, para realizar actividades de Distribución de Gas Natural por Redes.
+* Que en el marco de la Política Nacional de Hidrocarburos, de garantizar la seguridad energética y la demanda nacional de hidrocarburos, YPFB debe asegurar el abastecimiento interno de combustibles líquidos de manera regular y continua para satisfacer las necesidades energéticas de la población y de la industria, es necesario aprobar el presente Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-**   
+De manera excepcional y por única vez, se autoriza a Yacimientos Petrolíferos Fiscales Bolivianos - YPFB utilizar los recursos del Fondo Nacional del Gas para YPFB - FONGAS YPFB acumulados a la fecha de publicación del presente Decreto Supremo, para la importación de combustibles líquidos.
+
+# Disposiciones adicionales
+
+**Disposición Adicional Única.-**   
+En el marco de la política de subvención a los hidrocarburos, se autoriza de manera excepcional al Ministerio de Economía y Finanzas Públicas, a través del Tesoro General de la Nación - TGN, a realizar la asignación de recursos en efectivo a favor de YPFB, para el pago de la subvención del Diésel Oíl importado, de acuerdo a disponibilidad financiera del TGN.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Hidrocarburos y Energías, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los tres días del mes de agosto del año dos mil veintidós.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Ramiro Félix Villavicencio Niño De Guzmán, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Edgar Pary Chambi, Remmy Rubén Gonzales Atila, Sabina Orellana Cruz. SUSCRIPCIÓN OBLIGATORIA
+  
+03 DE NOVIEMBRE DE 2010 .- Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.

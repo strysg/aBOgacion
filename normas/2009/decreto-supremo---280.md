@@ -1,0 +1,46 @@
+# Bolivia: Decreto Supremo Nº 280, 2 de septiembre de 2009
+
+Decreto Supremo Nº 0280
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 6 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, señala que solo la Ley puede crear, modificar y suprimir tributos, otorgar y suprimir exenciones, reducciones o beneficios tributarios.
+* Que el Artículo 54 del Presupuesto General de la Nación - Gestión 2009, aprobado por fuerza de Ley por expresa disposición del Artículo 147 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) vigente hasta el 6 de febrero de 2009, establece que las donaciones destinadas a entidades públicas, podrán estar exentas del pago total de los tributos de importación, ya sean destinadas a su propio uso o para ser transferidas a entidades públicas u organizaciones económico-productivas y territoriales, a objeto de estimular la actividad de generación de centros de desarrollo social y productivo.
+* Que la Comunidad Económica Europea y la República de Bolivia suscribieron el Convenio de Financiación ALA/2006/017-223, que entró en vigor el 18 de enero de 2007, por el cual contribuye a la financiación del Programa EURO-SOLAR, cuyo objeto específico es proporcionar a las comunidades rurales locales acceso a una fuente de energía eléctrica generada por el sol y el viento.
+* Que el Convenio de Financiación establece que los impuestos, derechos u otros gravámenes se excluirán de la financiación, salvo si las condiciones particulares lo disponen de otra manera y que el beneficiario se compromete a tomar las disposiciones necesarias para garantizar la exoneración prevista de impuestos, derechos y tasas de los bienes, equipos, materiales e insumos adquiridos.
+* Que en el marco del Convenio de Financiación, bajo el Programa EURO-SOLAR, la Comunidad Económica Europea, donó al Estado Plurinacional de Bolivia cuarenta y cinco (45) sistemas híbridos consistentes en equipos fotovoltaicos y aerogeneradores, computadoras para uso escolar, refrigeradores para vacunas, baterías, lámparas, sistemas de potabilización de agua, cargador de baterías, sistema multimedia (teléfono con voz sobre IP), los cuales serán instalados durante las gestiones 2009 y 2010 en cuarenta y cinco (45) comunidades, consignados a nombre del Viceministerio de Electricidad y Energías Alternativas dependiente del Ministerio de Hidrocarburos y Energía y que estos equipos e insumos serán importados en varias etapas, para lo cual la Comunidad Económica Europea, a través de su Delegación en Bolivia, certificará la lista de equipos para cada etapa.
+* Que la Empresa de Correos de Bolivia - ECOBOL, en el marco de la integración y cooperación bilateral definida a nivel de los países de la Unión Postal de las Américas, España y Portugal - UPAEP, gestionó ante el Servicio Postal oficial de los Estados Unidos de Norteamérica - U. S. P. S., la donación de un equipo de Rayos X que permita la detección de cartas bomba y otros objetos peligrosos, a fin de dar seguridad a los usuarios del servicio nacional de correos y los trabajadores de la Empresa.
+* Que la Cooperación Universitaria al Desarrollo del Consejo Interuniversitario Flamenco - VLIR de Bélgica, mediante Convenio de Cooperación suscrito en fecha 31 de agosto de 2004, donó a la facultad de Agronomía de la Universidad Mayor de San Andrés de La Paz, un equipo para testeo de suelos a ser utilizado en el proyecto “Quinagua”.
+* Que la Empresa Multinacional Intel Corporation de Santa Clara California de Estados Unidos de Norteamérica, mediante Certificado de Donación de fecha 7 de enero de 2009, acreditó la donación de ciento ochenta y un (181) computadoras personales “Classmate PC”, a favor del Gobierno Municipal de La Paz para el proyecto: “Capacitación en Unidades Educativas - Mi primera PC”, destinadas a las Unidades Educativas del Municipio de La Paz.
+* Que la Organización No Gubernamental “Save The Children”, mediante Certificado de Donación acredita la donación de cuarenta (40) cajas de cepillos de dientes que contienen ciento setenta y cuatro mil novecientos veinte nueve (174.929) unidades, a favor del Gobierno Municipal de La Paz, para el proyecto “Fortalecimiento Atención Dental de Escolares”, destinadas a las Unidades Educativas del Municipio de La Paz.
+* Que es necesario emitir un Decreto Supremo que autorice la exención del pago total de tributos de importación para las diferentes donaciones a favor de entidades públicas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** 
+
+1. Se autoriza la exención del pago total de los tributos de importación a los equipos y suministros donados por la Comunidad Económica Europea a través del Programa EURO-SOLAR, de acuerdo al anexo diez (10) del Convenio de Financiación ALA/2006/017-223 de 21 de diciembre de 2006, a favor del Viceministerio de Electricidad y Energías Alternativas dependiente del Ministerio de Hidrocarburos y Energías.
+2. Los equipos y suministros recibidos en calidad de donación por el Viceministerio de Electricidad y Energías Alternativas, serán transferidos a los gobiernos municipales del área rural beneficiarios del Programa, con exención en el pago de tributos de importación y de los impuestos a las transferencias.
+3. Los equipos y suministros donados por la Comunidad Económica Europea a través del Programa EURO-SOLAR, podrán ser importados en despachos parciales de acuerdo a los Certificados de Donación con descripción de mercancías en detalle y con valor CIF que emita la Delegación de la Comunidad Económica Europea en Bolivia.
+
+**Artículo 2°.-** Se autoriza la exención del pago total de tributos de importación a la donación de un equipo sistema de inspección de “Rayos X” marca SMITHS HEIMANN, modelo HI-SCAN PS 5030-S proveniente de la Oficina de Correos de los Estados Unidos de Norteamérica a favor de la Empresa de Correos de Bolivia - ECOBOL, dependiente del Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 3°.-** Se autoriza la exención del pago total de tributos de importación a la donación de un equipo de testeo de suelos consistente en veinte (20) tubos con pared delgado en policarbonato para muestreo de sondas tipo “Trime”; un tamiz con alambres inoxidables diámetro 200 mm., con borde de 50 mm. y aperturas de 1.0 mm; un tamiz con alambres inoxidables de 200 mm. con borde de 50 mm. y con aperturas de 2.0 mm; provenientes de la Cooperación Universitaria al Desarrollo del Consejo Interuniversitario Flamenco-VLIR de Bélgica, para el Proyecto “Quinagua” de la Facultad de Agronomía, de la Universidad Mayor de San Andrés de La Paz.
+
+**Artículo 4°.-** Se autoriza la exención del pago total de tributos de importación a la donación de ciento ochenta y un (181) computadoras personales “Classmate PC” provenientes de la Empresa Multinacional Intel Corporation de Santa Clara California de los Estados Unidos de Norteamérica, a favor del Gobierno Municipal de La Paz para el proyecto: “Capacitación en Unidades Educativas - Mi primera PC”, destinadas a las Unidades Educativas del Municipio de La Paz.
+
+**Artículo 5°.-** Se autoriza la exención del pago total de tributos de importación a la donación de cuarenta (40) cajas de cepillos de dientes que contienen ciento setenta y cuatro mil novecientos veinte y nueve (174.929) unidades, provenientes de la Organización No Gubernamental “Save The Children”, a favor del Gobierno Municipal de La Paz, para el proyecto “Fortalecimiento Atención Dental de Escolares”, destinadas a las Unidades Educativas del Municipio de La Paz.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de septiembre del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardi Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE SALUD Y DEPORTES, Julia D. Ramos Sánchez, Pablo Groux Canedo.

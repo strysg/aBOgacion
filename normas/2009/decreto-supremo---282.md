@@ -1,0 +1,48 @@
+# Bolivia: Decreto Supremo Nº 282, 2 de septiembre de 2009
+
+Decreto Supremo Nº 0282
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que de conformidad a lo dispuesto en el Artículo 251 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) la Policía Boliviana, como fuerza pública, tiene la misión específica de la defensa de la sociedad y la conservación del orden público, y el cumplimiento de las leyes en todo el territorio boliviano. Ejercerá la función policial de manera integral, indivisible y bajo mando único, en conformidad con la Ley Orgánica de la Policía Boliviana y las demás Leyes del Estado.
+* Que asimismo, el Artículo 252 del citado texto constitucional establece que las Fuerzas de la Policía Boliviana dependen de la Presidenta o del Presidente del Estado, por intermedio de la Ministra o Ministro de Gobierno.
+* Que las Fuerzas Armadas tienen por misión fundamental, defender y conservar la independencia, seguridad y estabilidad del Estado y, dependen de la Presidenta o del Presidente del Estado y reciben sus órdenes, en lo administrativo, por intermedio de la Ministra o Ministro de Defensa, conforme establecen los Artículos 244 y 246 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+* Que es política del Estado Plurinacional encarar la lucha integral contra el narcotráfico y delitos conexos, con dignidad y soberanía, sin injerencia de organismos ni potencias extranjeras.
+* Que por recomendación del Consejo Nacional de Lucha Contra el Tráfico Ilícito de Drogas - CONALTID, como máximo organismo del Estado Plurinacional que tiene por atribución principal definir y normar las políticas nacionales en materia de lucha integral contra el narcotráfico, se emitió la Resolución Multi-Ministerial Nº 035/09, de 13 de abril de 2009, que creó la Unidad Ejecutora de Lucha Integral Contra el Narcotráfico - UELICN, con el propósito de administrar los recursos asignados al Programa “Administración Integral de la Lucha Contra el Narcotráfico” a partir de la presente gestión.
+* Que el personal policial, militar y civil que trabaja en la lucha integral contra el narcotráfico, está expuesto a esfuerzos, riesgos y presiones permanentes, aspecto que amerita disponer una compensación económica, de acuerdo a escalas según el nivel jerárquico, cargo funcional y responsabilidad profesional, ejercidos en la lucha integral contra el narcotráfico y delitos conexos.
+* Que es necesario emitir la normativa legal pertinente, que viabilice el pago compensatorio señalado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo, tiene por objeto otorgar un reconocimiento económico mensual, al personal policial, militar y civil que trabaja en la lucha integral contra el narcotráfico, con la finalidad de compensar los esfuerzos, riesgos y presión permanente a los que está expuesto el personal comprometido en la lucha contra este delito de lesa humanidad.
+
+**Artículo 2°.- (Alcance)** La presente disposición normativa se aplica específicamente para el personal que interviene en forma directa en la Lucha Integral Contra el Narcotráfico y delitos conexos, en:
+
+1. La Dirección General de la Fuerza Especial de Lucha Contra el Narcotráfico - DGFELCN dependiente del Viceministerio de Defensa Social y Sustancias Controladas del Ministerio de Gobierno.
+2. Las Fuerzas de Tarea: Unidad Móvil de Patrullaje Rural - UMOPAR (Policía Boliviana), Diablos Verdes - FTDV (Ejército), Diablos Rojos - FTDR, Diablos Negros - FTDN (Fuerza Aérea) y Diablos Azules - FTDA (Armada Boliviana).
+3. La Fuerza de Tarea Conjunta: Componentes Militar, Policial y Civil (DIGPROCOCA).
+4. Los Grupos Especiales de Inteligencia, Investigación y Operación que trabajen en la lucha contra el narcotráfico y delitos conexos.
+
+**Artículo 3°.- (Financiamiento)** El financiamiento para cubrir el reconocimiento económico establecido en el presente Decreto Supremo, será con recursos provenientes del Tesoro General de la Nación, debiendo la Unidad Ejecutora de Lucha Integral Contra el Narcotráfico - UELICN, apropiar el gasto en la partida 26990 “Otros”.
+
+**Artículo 4°.- (Autorización)** Se autoriza al Ministerio de Gobierno, a través de la UELICN, efectuar el pago del reconocimiento económico a las instancias señaladas en el Artículo 2 del presente Decreto Supremo.
+
+**Artículo 5°.- (Prohibición expresa)** Se prohíbe a los Ministerios de Gobierno y de Defensa, otorgar cualquier reconocimiento económico al margen del objeto del presente Decreto Supremo, bajo ninguna otra denominación.
+
+**Artículo 6°.- (Reglamentación)** Los Ministerios de Gobierno y de Defensa, conjuntamente el Ministerio de Economía y Finanzas Públicas, aprobarán mediante Resolución Multi-Ministerial, el reglamento del pago del reconocimiento económico y la escala jerárquica correspondiente.
+
+**Artículo 7°.- (Consolidación)** al amparo del Artículo 123 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), el reconocimiento económico cuyo pago se autoriza, se consolida retroactivo al 13 de abril de 2009, fecha de creación de la UELICN.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Gobierno, de Defensa, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la Ciudad de La Paz, a los dos días del mes de septiembre del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardi Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE SALUD Y DEPORTES, Julia D. Ramos Sánchez, Pablo Groux Canedo.

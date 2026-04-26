@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 4186, 12 de marzo de 2020
+
+[Decreto Supremo Nº 4186](https://www.lexivox.org//norms/BO-DS-N4186.html)  
+JEANINE ÁÑEZ CHÁVEZ
+  
+PRESIDENTA CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 267 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Estado boliviano declara su derecho irrenunciable e imprescriptible sobre el territorio que el dé acceso al océano Pacífico y su espacio marítimo, asimismo señala que la solución efectiva al diferendo marítimo a través de medios pacíficos y el ejercicio pleno de la soberanía sobre dicho territorio, constituyen objetivos permanentes e irrenunciables del Estado boliviano.
+* Que el Parágrafo I del Artículo 321 del Texto Constitucional, establece que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, dispone que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que la [Ley Nº 070](https://www.lexivox.org//norms/BO-L-N70.html), de 20 de diciembre de 2010, de la Educación “Avelino Siñani - Elizardo Pérez”, señala que la educación constituye una función suprema y primera responsabilidad financiera del Estado, asimismo entre los objetivos fundamentales de la educación, establecidos en el Artículo 5 de la citada Ley, se encuentra el desarrollo de una educación cívica, humanística, histórica, cultural, artística y deportiva, orientada al ejercicio pleno de deberes y derechos ciudadanos en el marco de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) y la Declaración Universal de los Derechos Humanos, así como cultivar y fortalecer el civismo y los valores éticos y morales, basados en la vida comunitaria y el respeto a los derechos fundamentales individuales y colectivos.
+* Que los Parágrafos I y II del Artículo 15 de la [Ley Nº 614](https://www.lexivox.org//norms/BO-L-N614.html), de 13 de diciembre de 2014, vigente por el inciso n) de la Disposición Final Quinta de la [Ley Nº 1267](https://www.lexivox.org//norms/BO-L-N1267.html), de 20 de diciembre de 2019, del Presupuesto General del Estado Gestión 2020, autorizan al Ministerio de Economía y Finanzas Públicas, y al Viceministerio de Inversión Pública y Financiamiento Externo, dependiente del Ministerio de Planificación del Desarrollo, en el marco de sus competencias, inscribir y/o incrementar el gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables”, y Subgrupo 46000 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos, los cuales no ameritarán la emisión de Decreto Supremo; para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional, deberá aprobarse mediante Decreto Supremo específico.
+* Que el Parágrafo III del Artículo 2 del [Decreto Supremo Nº 1479](https://www.lexivox.org//norms/BO-DS-N1479.html), de 30 de enero de 2013, modifica en el [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de la Organización del Órgano Ejecutivo, la denominación de “Ministerio de Culturas” a “Ministerio de Culturas y Turismo”, y la de “Ministra(o) de Culturas” a “Ministra(o) de Culturas y Turismo”.
+* Que el Parágrafo I del Artículo 15 del [Decreto Supremo Nº 4126](https://www.lexivox.org//norms/BO-DS-N4126.html), de 3 de enero de 2020, que reglamenta la aplicación de la [Ley Nº 1267](https://www.lexivox.org//norms/BO-L-N1267.html), dispone que la definición de las remuneraciones de los consultores individuales de línea, debe estar establecida en función a la escala salarial; para lo cual, las unidades administrativas de cada entidad, elaborarán el cuadro de equivalencia de funciones que será avalado por la Unidad Jurídica y con Visto Bueno (Vo. Bo.) de la Máxima Autoridad Ejecutiva - MAE.
+* Que el Ministerio de Culturas y Turismo, requiere contratar consultores individuales de línea destinado a la ejecución de las actividades denominadas “Patrimonio Cultural y Artístico” y “Educación Cívico Patriótica”, a objeto de promover y fortalecer la educación cívico patriótica y realzar el fervor patrio de todas las bolivianas y los bolivianos sobre el derecho a la reivindicación marítima.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Culturas y Turismo, el incremento de la subpartida de consultores individuales de línea para la ejecución de las actividades denominadas “Patrimonio Cultural y Artístico” y “Educación Cívico Patriótica”.
+
+**Artículo 2°.- (Autorización)** Se autoriza al Ministerio de Culturas y Turismo incrementar, en la gestión 2020 a través de traspasos presupuestarios intrainstitucionales afectando la subpartida 26990 “Otros”, la subpartida 25220 “Consultores Individuales de Línea” en:
+
+1. Bs753.692.- (SETECIENTOS CINCUENTA Y TRES mil SEISCIENTOS NOVENTA Y DOS 00/100 BOLIVIANOS), financiado con fuente 41 “Transferencias T. G. N.” y organismo 119 “Tesoro General de la Nación - Impuesto Directo a los Hidrocarburos”, destinado a la ejecución de la actividad denominada “Patrimonio Cultural y Artístico”;
+2. Bs276.802.- (DOSCIENTOS SETENTA Y SEIS mil novecientos DOS 00/100 BOLIVIANOS), financiado con fuente 10 “Tesoro General de la Nación” y organismo 119 “Tesoro General de la Nación - Impuesto Directo a los Hidrocarburos”, destinado a la ejecución de la actividad denominada “Educación Cívico Patriótica”.
+
+---
+
+La señora Ministra de Estado en el Despacho de Culturas y Turismo, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la Ciudad de La Paz, a los doce días del mes de marzo del año dos mil veinte.
+  
+FDO. JEANINE ÁÑEZ CHÁVEZ, Yerko M. Núñez Negrette MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Arturo Carlos Murillo Prijic, Luis Fernando López Julio, Carlos Melchor Díaz Villavicencio, José Luis Parada Rivero, Víctor Hugo Zamora Castedo, Álvaro Rodrigo Guzmán Collao, Wilfredo Rojo Parada, Iván Arias Durán, Carlos Fernando Huallpa Sunagua, Álvaro Eduardo Coímbra Cornejo, Oscar Bruno Mercado Céspedes, Aníbal Cruz Senzano, María Elva Pinckert de Paz, Víctor Hugo Cárdenas Conde, Beatriz Eliane Capobianco Sandoval, María Isabel Fernández Suarez, Milton Navarro Mamani MINISTRO DE DEPORTES E INTERINO DE CULTURAS.

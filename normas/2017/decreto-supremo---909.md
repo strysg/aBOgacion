@@ -1,0 +1,116 @@
+# Bolivia: Decreto Supremo Nº 909, 9 de marzo de 2017
+
+[Ley Nº 909](https://www.lexivox.org//norms/BO-L-N909.html)  
+LEY DE 8 DE MARZO DE 2017
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+Por cuanto, la Asamblea Legislativa Plurinacional, ha sancionado la siguiente Ley:
+  
+LA ASAMBLEA LEGISLATIVA PLURINACIONAL,
+  
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se aprueba la enajenación, a título oneroso, de ocho (8) predios de terreno con una superficie de 2007,40 metros cuadrados (m²), fracción de una superficie de 12.503,90 metros cuadrados (m²), de propiedad del Gobierno Autónomo Municipal de Cobija, ubicado en la Avenida 9 de Febrero sin número, Distrito 1, Manzana 33, Predio 25, Zona Ex Petty Ray del Municipio de Cobija, Provincia Nicolás Suárez del Departamento de Pando, registrado en las oficinas de Derechos Reales de la ciudad de Cobija, bajo el Folio Real con Matrícula Computarizada N° 9.01.1.01.0014594, cuyas colindancias son:
+     
+   **Predio 1**, con una superficie 411,06 metros cuadrados (m²): al Norte, con el Área de Circulación; al Sur, con el Área de Circulación; al Este, con el Galpón; y al Oeste, con la calle Eugenio Von Boeck Morales;
+     
+   **Predio 2**, con una superficie 256,04 metros cuadrados (m²): al Norte, con el Área de Circulación; al Sur, con el Área de Circulación; al Este, con el Área de Circulación; y al Oeste, con la calle Eugenio Von Boeck Morales;
+     
+   **Predio 3**, con una superficie 202,54 metros cuadrados (m²): al Norte, con el Predio 51; al Sur, con el Área de Circulación; al Este, con la Calle Eugenio Von Boeck Morales; y al Oeste, con el Predio 25;
+     
+   **Predio 4**, con una superficie 260,63 metros cuadrados (m²): al Norte, con el Área de Circulación; al Sur, con el Área de Circulación; al Este, con la Calle Eugenio Von Boeck Morales; y al Oeste, con el Predio 25;
+     
+   **Predio 5**, con una superficie 94,82 metros cuadrados (m²): al Norte, con el Área de Circulación; al Sur, con el Área de Circulación; al Este, con la Calle Eugenio Von Boeck Morales; y al Oeste, con el Predio 25;
+     
+   **Predio 6**, con una superficie 521,12 metros cuadrados (m²): al Norte, con el Predio 25 y el Área de Circulación; al Sur, con el Predio 25; al Este, con el Bloque 004 y el Área de Circulación; y al Oeste, con el Predio 25;
+     
+   **Predio 7**, con una superficie 125,67 metros cuadrados (m²): al Norte, con el Predio 25; al Sur, con la Calle Eugenio Von Boeck Morales; al Este, con el Área de Circulación; y al Oeste, con el Predio 54;
+     
+   **Predio 8**, con una superficie 135,52 metros cuadrados (m²): al Norte, con el Predio 25; al Sur, con la Calle Eugenio Von Boeck Morales; al Este, con la Avenida Defensores del Bajo Acre; y al Oeste, con el Predio 54.
+     
+   A favor de 59 afiliados de la Asociación de Comerciantes Minoristas Viajeros al Interior “Mercado Abasto”, con destino exclusivo para la construcción de viviendas, de conformidad a la Resolución Municipal Nº 128/2014 de 19 de mayo de 2014 y la Resolución Municipal N° 131/2016 de 2 de diciembre de 2016, del Gobierno Autónomo Municipal de Cobija.
+2. Los beneficiarios de la presente Ley se encuentran de acuerdo a listado en el Anexo adjunto.
+
+---
+
+Remítase al Órgano Ejecutivo para fines constitucionales.
+  
+Es dado en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los veintitrés días del mes de febrero del año dos mil diecisiete.
+  
+Fdo. José Alberto Gonzales Samaniego, Lilly Gabriela Montaño Viaña, Patricia M. Gómez Andrade, María Argene Simoni Cuellar, Gonzalo Aguilar Ayma, Sebastián Texeira Rojas.
+  
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
+  
+Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de marzo del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, René Martínez Callahuanca, Milton Claros Hinojosa.
+
+# Anexo Anexo Ley Nº 909
+
+|  |  |  |
+| --- | --- | --- |
+| N° | Nombres y apellidos | Cédula de identidad |
+| 1 | Flora Calderón Alejo | C.I.2568924 LP |
+| 2 | Feliza Tomasa Apaza Poma | C.I.2375693 LP |
+| 3 | Paulina Pilco Alanoca | C.I.2553344 LP |
+| 4 | Patricia Regina García lllatarco | C.I.4771333 LP |
+| 5 | Reynaldo Aguilera | C.I.2226633 LP |
+| 6 | Adela Viadez Humiri | C.I.2531744 LP |
+| 7 | Celia María Vargas Alanoca | C.I.3494676 LP |
+| 8 | Irenia Vargas Martínez Vda. de Quispe | C.I.2269076 LP |
+| 9 | Francisca Ávila Quispe | C.I.2694737 LP |
+| 10 | Enrique Huanca Zarate | C.I.2687939 LP |
+| 11 | Carmela Coronado Torrez | C.I.434500 LP |
+| 12 | Lucila López de Limachi | C.I.2144170 LP |
+| 13 | Florencio Bonifacio Calle | C.I.2370700 LP |
+| 14 | Ceferino Miranda Vega | C.I.2438839 LP |
+| 15 | Lizbeth Sarah Kahua Gutiérrez | C.I.4206492 Pdo. |
+| 16 | Amalia Vargas Alanoca | C.I.3429083 LP |
+| 17 | Margarita Mamani Siles | C.I. 2641219-1V LP |
+| 18 | Milenka Limachi Canaviri | C.I.6120999 LP |
+| 19 | Patricia María Limachi Canaviri | C.I.6121006 LP |
+| 20 | Beymar Gumiel Coronado | C.I.3467765 LP |
+| 21 | Delia Crespo | C.I.5989641 LP |
+| 22 | Jael Yoselin Viadez Quispe | C.I.4213592 Pdo. |
+| 23 | Juan Apaza Mamani | C.I.2561201 LP |
+| 24 | Herminia Rojas de Ronquillo | C.I.2200079 LP |
+| 25 | Antonia Casablanca Mamani | C.I.2498205 LP |
+| 26 | Flora Quispe Apaza | C.I.1768900 Pdo. |
+| 27 | Juana Quispe Apaza | C.I.4836676 LP |
+| 28 | Elena Viadez de Huchani | C.I.2204229 LP |
+| 29 | Nieves Lovera Argana | C.I.4208418 Pdo. |
+| 30 | Pedro Huanca Mamani | C.I.5948036 LP |
+| 31 | Teresa Huaraya Quispe | C.I.2606077 LP |
+| 32 | Casilda Limachi Vda. de Villca | C.I.2320879 LP |
+| 33 | Faviana Cristina Flores Quizo | C.I.3362147 LP |
+| 34 | Ernesto Serapio Villalobos Villalobos | C.I.2708989 LP |
+| 35 | Lidia Condori Quispe | C.I.4318028 LP |
+| 36 | Adela Sarmiento Contreras | C.I.3306218 LP |
+| 37 | Agustín Mamani Quispe | C.I.2170560 LP |
+| 38 | Lucy Arteaga Condori | C.I.2624669 LP |
+| 39 | Rodrigo Ronald Canaviri Julián | C.I.6853064 LP |
+| 40 | Delia Beatrís Mamani Quispe | C.I.5484329 LP |
+| 41 | Sabina Mamani Quispe | C.I.5476363 LP |
+| 42 | Felipa Carmela Apaza Rondan | C.I.4902500 LP |
+| 43 | Juvenal Choque Marza | C.I.5706284 Pdo. |
+| 44 | Petronila Flores Vargas | C.I.2465448 LP |
+| 45 | Margarita Quisbert Gutiérrez | C.I.3361789 LP |
+| 46 | Francisca Apaza Poma | C.I.2460837 LP |
+| 47 | Natalia Tintaya de Ticona | C.I.2224839 LP |
+| 48 | Gladys Lucila Apaza Quiñonez | C.I.2506434 LP |
+| 49 | Bárvara Huanca Colque | C.I.3426657 LP |
+| 50 | Cristina Guaygua Vda. de Benito | C.I.463023 LP |
+| 51 | Roly Adalid Quisbert Apaza | C.I.6127635 LP |
+| 52 | Javier Félix Salcedo Apaza | C.I.4900434 LP |
+| 53 | Lucía Cecilia Vargas Alanoca | C.I.4321408 LP |
+| 54 | Wilfredo Nelson Mamani Quispe | C.I.5475375 LP |
+| 55 | Graciela Julián Copa | C.I.4748721 LP |
+| 56 | Rosy Julián Copa | C.I.5964031 LP |
+| 57 | Marisol Julián Copa | C.I.6966234 LP |
+| 58 | Victoria Copa de Julián | C.I.2002369 LP |
+| 59 | Josefina Yoamona Mamani | C.I.4202730 Pdo. |

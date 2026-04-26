@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 29671, 20 de agosto de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que conforme al Parágrafo III del Artículo 147 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), se aprobó el Presupuesto General de la Nación Gestión 2008, el cual señala en su Artículo 12 que el Poder Ejecutivo a través del Ministerio de Hacienda, está autorizado a inscribir y/o incrementar el gasto en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, según lo establecido en los convenios respectivos; asimismo, señala que para las demás fuentes de financiamiento deberá aprobarse un Decreto Supremo.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados y en su Artículo 8 autoriza al Poder Ejecutivo que las donaciones y créditos externos para gastos de capital, gastos corrientes y aplicaciones financieras no contempladas en el Presupuesto General de la Nación aprobado anualmente, sean incorporados por el Ministerio de Hacienda en los presupuestos de las instituciones.
+* Que el Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 27849](https://www.lexivox.org//norms/BO-DS-27849.html) de 12 de noviembre de 2004, establece los procedimientos y responsables para la elaboración, presentación, aprobación y registro de las modificaciones al Presupuesto General de la Nación, y que dichas modificaciones deben ser aprobadas por resolución expresa de la máxima autoridad de la entidad solicitante; asimismo, establece distintas competencias de aprobación, según el tipo y alcance de las modificaciones presupuestarias.
+* Que en fecha 2 de diciembre de 2005 se suscribe el Contrato de Préstamo 1678/SF-BO entre el Gobierno de Bolivia y el Banco Interamericano de Desarrollo - BID por $us13.000.000.- (TRECE MILLONES 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el Programa Sectorial de Apoyo al Sistema Nacional de Inversión Pública, y refrendado por [Ley Nº 3287](https://www.lexivox.org//norms/BO-L-3287.html) de 12 de diciembre de 2005.
+* Que en fecha 7 de noviembre de 2006 se suscribe el Convenio Interinstitucional de Financiamiento CIF DGIP/BID/1678/SF-BO/Nº04/2006, entre la Prefectura del Departamento de Santa Cruz y el Viceministerio de Inversión Pública y Financiamiento Externo, por $us560.000.- (QUINIENTOS SESENTA mil 00/100 DÓLARES ESTADOUNIDENSES) con recursos del Contrato de Préstamo 1678/SF-BO, para la realización de los estudios de preinversión de los Proyectos: “Construcción Carretera Santa Cruz - Las Cruces - Buena Vista”, “Construcción Puente Loma Alta - Sagrado Corazón” y “Mejoramiento Vial Camino Roboré - R. Tigre - La Gaiba - C. R. Torrez”.
+* Que mediante nota MPD-VIPFE/DGIP/TER-00474/2008 de 14 de marzo de 2008, el Ministerio de Planificación del Desarrollo hace conocer que en el marco de la Convocatoria del Fondo Concursable de Preinversión 2007 - 2008, han sido aprobados con recursos del Contrato de Préstamo 1678/SF-BO, el financiamiento de estudios de preinversión de los Proyectos: “Construcción Camino San Ignacio - San Vicente - Las Petas - San Matías”, “Construcción Camino Concepción - San Antonio de Lomerío - Cruce Salinas” y “Construcción Camino El Tuna - Las Petas”.
+* Que la Prefectura del Departamento de Santa Cruz debe asignar recursos de aporte local para consolidar el financiamiento de estudios de preinversión aprobados por el Viceministerio de Inversión Pública y Financiamiento Externo, en el marco del Contrato de Préstamo 1678/SF-BO.
+* Que la Prefectura del Departamento de Santa Cruz debe inscribir presupuesto para proyectos de inversión que no fueron inscritos en el Presupuesto General de la Nación Gestión 2008. En este marco, requiere inscribir presupuesto adicional, con recursos del Contrato de Préstamo 1678/SF-BO provenientes del Banco Interamericano de Desarrollo - BID, así como la inscripción de recursos de aporte local para estudios de preinversión de proyectos de infraestructura vial.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** De conformidad al Artículo 12 de la Ley del Presupuesto General de la Nación 2008 y de acuerdo a Anexos adjuntos:
+
+1. Se autoriza a la Prefectura del Departamento de Santa Cruz incrementar la subpartida 46210 “Consultoría por Producto para Construcciones de Bienes de Dominio Público” en Bs6.974.848.- (SEIS MILLONES novecientos SETENTA Y CUATRO mil novecientos CUARENTA Y OCHO 00/100 BOLIVIANOS), a través de la inscripción de recursos externos provenientes del Contrato de Préstamo 1678/SF-BO, suscrito con el Banco Interamericano de Desarrollo - BID y refrendado por [Ley Nº 3287](https://www.lexivox.org//norms/BO-L-3287.html) de 12 de diciembre de 2005, para financiar estudios de preinversión de seis (6) Proyectos de Infraestructura Vial.
+2. Se autoriza a la Prefectura del Departamento de Santa Cruz incrementar la subpartida 46210 “Consultoría por Producto para Construcciones de Bienes de Dominio Público” en Bs2.324.080.- (DOS MILLONES TRESCIENTOS vienticuatro mil OCHENTA 00/100 BOLIVIANOS) a través del traspaso intrainstitucional que afecta a la partida 75200 “Transferencias de Capital a Instituciones Privadas sin Fines de Lucro”, para financiar estudios de preinversión de seis (6) Proyectos de Infraestructura Vial.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de la Presidencia y de Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de agosto del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Celima Torrico Rojas, Graciela Toro Ibáñez MINISTRA DE PLANIFICACIÓN DEL DESARROLLO E INTERINA DE PRODUCCIÓN Y MICROEMPRESA, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, MINISTRO DEL AGUA É INTERINO DE SIN CARTERA RESPONSABLE DE LA DEFENSA LEGAL DE LAS RECUPERACIONES ESTATALES, Oscar Coca Antezana, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, María Magdalena Cajías de la Vega, Walter Selum Rivero.

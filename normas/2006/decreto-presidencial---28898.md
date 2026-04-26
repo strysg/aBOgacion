@@ -1,0 +1,103 @@
+# Bolivia: Decreto Presidencial Nº 28898, 25 de octubre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Familia es el núcleo fundamental de nuestra sociedad y que es obligación del Estado, proteger de manera especial a la madre.
+* Que el matrimonio, la familia y la maternidad están bajo la protección del Estado y que el matrimonio descansa en la igualdad de derechos y deberes de los cónyuges.
+* Que la Constitución Política del Estado, consagra como uno de los derechos fundamentales de toda las personas el acceso a la Seguridad Social. Así, el Código de Seguridad Social, cumpliendo con el mandato constitucional, determina, previo cumplimiento de requisitos, a los beneficiarios - familiares del titular del seguro médico, de manera igualitaria.
+* Que el Artículo 189 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de Septiembre de 1959, establece el subsidio de lactancia.
+* Que el Artículo 191 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html), establece que en caso de que la leche materna sea suficiente para el niño, el subsidio de lactancia puede ser destinado a la madre, como complemento de su nutrición. Asimismo, el Artículo 192 determina que los productos de los subsidios sean distribuidos mediante la madre, de manera preeminente.
+* Que los abusos cometidos en la distribución de este beneficio, han generado una actividad económica irregular, impidiendo que los productos destinados a la lactancia lleguen a cubrir la necesidad socio - familiar.
+* Que el Artículo 14 del Código de la Seguridad Social y el Artículo 34 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html), Reglamento del Código de Seguridad Social, instituyen a los beneficiarios del trabajador asegurado.
+* Que los Artículos 3 y 4 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html), determinan las prestaciones y las asignaciones familiares que otorga el Seguro Social Obligatorio.
+* Que debido a la separación de los cónyuges o convivientes, existen disputas que afectan la correcta y oportuna prestación del Seguro Social de Salud a los beneficiarios.
+* Que el titular del Seguro Social y sus beneficiarios, han cumplido el trámite de afiliación para obtener la calidad de asegurados con el logro de los beneficios correspondientes, por tanto los documentos de filiación son de innecesaria presentación al momento de ejercer estos beneficios sociales, por lo que se debe excluir la presentación del titular del Seguro y/o de los documentos que lo identifican, cuando el beneficiario del Seguro requiere de atención médica o del subsidio de lactancia.
+* Que la Constitución Política del Estado en su Artículo 96, determina que una de las atribuciones del Presidente de la República es la de ejecutar y hacer cumplir las leyes, expidiendo los decretos y ordenes convenientes.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 16 de octubre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Justicia.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, asegurando la adecuada y oportuna prestación del seguro social obligatorio y las asignaciones familiares a todas las personas que tienen la calidad de beneficiarios, respecto o a cargo del trabajador asegurado.
+
+**Artículo 2°.- (Modificacion del articulo 35 del Decreto Supremo Nº 5315)** Se Modifica el Artículo 35 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, Reglamento al Código de la Seguridad Social, de la siguiente manera:
+> “ARTICULO 35.- El trabajador activo asegurado y sus beneficiarios tendrán derecho a las prestaciones en especie del seguro de enfermedad, bajo las siguientes condiciones:
+>   
+> El trabajador y sus beneficiarios deberán cumplir previamente el trámite de afiliación y estar inscritos en los registros del Seguro Social en la Caja de Salud que el corresponda, la que entregará como testimonio de la afiliación un “Carnet de Asegurado” en el que serán inscritos los beneficiarios con derecho, los cuales también serán registrados en el “Carnet de beneficiario”. El ingreso o salida de un beneficiario deberá ser declarado oportunamente por el asegurado o el beneficiario, a fin de no obstaculizar el otorgamiento de la prestación.
+>   
+> De conformidad con los Artículos 418 y 420 de este Reglamento, tanto el trabajador asegurado como el beneficiario o la persona que tenga la custodia de los beneficiarios, podrán realizar en igualdad de derechos los trámites de afiliación.
+>   
+> El trabajador asegurado, los beneficiarios o la persona que tenga la custodia de los beneficiarios, deberá presentar el Carnet de Asegurado o el Carnet de Beneficiario, extendido por la Caja de Salud que el corresponda o la Cédula de Identidad, previa a toda prestación.
+>   
+> Se debe acreditar la vigencia de derechos al seguro de enfermedad del trabajador asegurado y/o de los beneficiarios, mediante la boleta de pago.
+>   
+> En caso de que los beneficiarios no puedan presentar la boleta de pago original, podrán presentar copia o fotocopia legalizada de la papeleta de pago, emitida por la empresa, en el caso de organizaciones privadas; en el sector público, la unidad administrativa de cada institución franqueará el documento que acredite la calidad de trabajador activo del titular del seguro. Toda empresa o institución está en la obligación de otorgar este documento de forma inmediata y a simple solicitud del beneficiario, en forma mensual.
+>   
+> Se debe acreditar la vigencia de derechos del seguro de enfermedad en no menos de una cotización mensual, en los dos (2) meses inmediatamente anteriores al inicio de las prestaciones a otorgarse al trabajador o a uno de sus beneficiarios.”
+
+**Artículo 3°.- (Modificacion del articulo 36 del Decreto Supremo Nº 5315)** Se Modifica el Artículo 36 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, Reglamento al Código de la Seguridad Social, de la siguiente manera:
+> “ARTICULO 36.- Los trabajadores pasivos en goce de una renta de riesgos profesionales, de invalidez o vejez, así como los derecho habientes en goce de una renta de sobrevivientes, tendrán derecho a las prestaciones en especie del seguro de enfermedad, conforme lo determina el Artículo 235 de esta misma norma.
+>   
+> Los trabajadores pasivos deberán presentar, previa toda prestación de servicio, el Carnet de Rentista o la Cédula de Identidad y el beneficiario de un trabajador pasivo o la persona que tenga la custodia de un beneficiario de un trabajador pasivo, deberá presentar el Carnet de Beneficiario o su Cédula de Identidad, para identificarlo como beneficiario inscrito en la Caja de Salud”
+
+**Artículo 4°.- (Modificacion del articulo 66 del Decreto Supremo Nº 5315)** Se Modifica el Artículo 66 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, Reglamento al Código de la Seguridad Social, de la siguiente manera:
+> “ARTICULO 66.- La trabajadora asegurada y la esposa o conviviente del trabajador asegurado, tienen derecho a las prestaciones en especie del seguro de maternidad, bajo las siguientes condiciones:
+>   
+> Estar inscrita en los registros del Seguro Social en la Caja de Salud que el corresponda, la que como testimonio de su afiliación entregará a la trabajadora un carnet de asegurada o un carnet de beneficiaria, a la esposa o conviviente del trabajador.
+>   
+> De conformidad con los Artículos 418 y 420 de este Reglamento, tanto el trabajador asegurado como el beneficiario o la persona que tenga la custodia de los beneficiarios, podrán realizar en igualdad de derechos los trámites de afiliación.
+>   
+> La trabajadora asegurada o la beneficiaria, deberá presentar el Carnet de Asegurada o el Carnet de beneficiaria extendido por la Caja de Salud que el corresponda o su Cédula de Identidad, previa a toda prestación de servicio.
+>   
+> Se debe acreditar la vigencia de derechos al seguro de maternidad del trabajador asegurado y/o de los beneficiarios, mediante la boleta de pago u otro medio que elija el empleador.
+>   
+> En caso de que la beneficiaria no pueda presentar la boleta de pago original, podrá presentar copia o fotocopia legalizada de la papeleta de pago, emitida por la empresa, en el caso de organizaciones privadas; en el sector público, la unidad administrativa de cada institución franqueará el documento que acredite la calidad de trabajador activo del titular del seguro. Toda empresa o institución está en la obligación de otorgar este documento de forma inmediata y a simple solicitud de la beneficiaria, en forma mensual.
+>   
+> Acreditar la vigencia de derechos del seguro de maternidad en no menos de seis (6) cotizaciones mensuales, en los doce (12) meses inmediatamente anteriores al mes que se presume la realización del parto.
+>   
+> El médico o la matrona que atiende a la paciente, deberá dar aviso obligatoriamente a la Administración del Centro Sanitario correspondiente, de la fecha probable del parto, para los fines de control.”
+
+**Artículo 5°.- (Modificacion del articulo 67 del Decreto Supremo Nº 5315)** Se Modifica el Artículo 67 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, Reglamento al Código de la Seguridad Social, de la siguiente manera:
+> “ARTICULO 67.- La asegurada en goce de renta, así como la esposa o conviviente de un rentista, tendrá derecho a las prestaciones en especie del seguro de maternidad, conforme lo establecido en el Artículo 235 y siempre que la trabajadora asegurada o la beneficiaria presente el Carnet de Asegurada o el Carnet de beneficiaria, extendido por la Caja de Salud o su Cédula de Identidad para identificarse. La viuda en goce de renta de viudedad, tendrá derecho a las prestaciones del Seguro de Maternidad sólo hasta trescientos (300) días después del fallecimiento de su esposo, estando obligada al cumplimiento de los requisitos señalados.
+>   
+> En conformidad con los Artículos 418 y 420 de este Reglamento, tanto la trabajadora pasiva asegurada como la beneficiaria, podrán realizar en igualdad de derechos los trámites de afiliación.”
+
+**Artículo 6°.- (Modificacion del articulo 191 del Decreto Supremo Nº 5315)** Se Modifica el Artículo 191 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, Reglamento al Código de la Seguridad Social, de la siguiente manera:
+> “ARTICULO 191.-
+>   
+> I. En caso de que la leche materna sea suficiente para el lactante, los productos lácteos a que se refieren los Artículos anteriores, serán destinados a la madre como complemento a su nutrición.
+>   
+> II. A objeto de recibir el subsidio de lactancia, la trabajadora asegurada, la beneficiaria o persona que tienen la custodia de los hijos menores, deberán presentar el Carnet de Asegurado o el Carnet de beneficiario, extendido por la Caja de Salud que el corresponda o su Cédula de Identidad, previa a toda prestación de servicio.
+>   
+> Tanto la trabajadora asegurada como la beneficiaria o la persona que tenga la custodia de los beneficiarios, podrán realizar en igualdad de derechos los trámites de afiliación.
+>   
+> III. Se debe acreditar la vigencia de derechos al seguro de maternidad del trabajador asegurado y/o de los beneficiarios, mediante la boleta de pago para exponerla ante la entidad correspondiente que distribuya este beneficio.
+>   
+> En caso de que el beneficiario o la persona que tienen la custodia de los hijos menores no pueda presentar la boleta de pago original, podrá presentar copia o fotocopia legalizada de la papeleta de pago o una certificación emitida por la empresa, en caso de organizaciones privadas; en el sector público, la unidad administrativa de cada institución franqueará el documento que acredite la calidad de trabajador activo del titular del seguro. Toda empresa o institución está en la obligación de entregar este documento de forma inmediata y a simple solicitud del beneficiario, en forma mensual.”
+
+**Artículo 7°.- (Modificacion del articulo 418 del Decreto Supremo Nº 5315)** Se Modifica el Artículo 418 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, Reglamento al Código de la Seguridad Social, de la siguiente manera:
+> “ARTICULO 418.- Si el empleador no cumple con la obligación de afiliar al trabajador en el término establecido, el interesado deberá, hasta el 30 del mes siguiente, dirigirse a la Administración Regional de la Caja de Salud, para que su inscripción tenga lugar.
+>   
+> Igualmente, en caso de que el trabajador asegurado no registre en la Caja de Salud al beneficiario con derecho al Seguro Social, éste o la persona que tienen la custodia del beneficiario podrá proceder a la inscripción respectiva en la Caja de Salud.
+>   
+> Ante este incumplimiento del empleador y/o el trabajador, en su caso, serán pasibles a las sanciones señaladas en el Titulo VI del presente Libro.”
+
+**Artículo 8°.- (Modificacion del articulo 420 del Decreto Supremo Nº 5315)** Se Modifica el Artículo 420 del [Decreto Supremo Nº 5315](https://www.lexivox.org//norms/BO-DS-5315.html) de 30 de septiembre de 1959, Reglamento al Código de la Seguridad Social, de la siguiente manera:
+> “ARTICULO 420.- La Caja Nacional de Salud, como prueba de afiliación, otorgará al trabajador inscrito en sus libros, un “Carnet de Asegurado” y a cada uno de sus familiares con derecho un “Carnet de Beneficiario”, siempre que se exhiban los documentos originales que se indican en el presente Reglamento y otros que pueden ser exigidos, de acuerdo a los reglamentos internos de la Caja de Salud.”
+
+**Artículo 9°.- (Exencion de costos)** Queda exento de todo costo cualquier trámite que se reclame bajo esta normativa.
+
+**Artículo 10°.- (Abrogacion)** Quedan abrogadas todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Salud y Deportes, y el Director del Instituto Nacional de Seguridad Social y los Entes Gestores del Seguro Social Nacional, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de octubre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera Ministro de Obras Públicas, Servicios y Vivienda e Interino de Planificación del Desarrollo, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

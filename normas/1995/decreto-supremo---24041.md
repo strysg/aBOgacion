@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 24041, 27 de junio de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la Empresa Local de Agua Potable y Alcantarillado de Sucre, “ELAPAS”, solicita la expropiación por necesidad y utilidad pública, terrenos ubicados en la provincia Oropeza, aproximadamente a 7 Kmts., fuera del radio urbano de la ciudad de Sucre, sobre el camino asfaltado que une la capital, con la ciudad de Potosí;
+* Que actualmente la ciudad de Sucre confronta un gran déficit, en el sistema correspondiente al sector de aguas servidas, donde los sistemas de evacuación, no son adecuados, ya que no existe pretratamiento y tratamiento de aguas servidas razón por que se ha visto por conveniente, construir una planta de tratamiento de aguas negras;
+* Que el Instituto Geográfico Militar, Distrito Chuquisaca, ha efectuado un levantamiento planimétrico de la zona, donde se realizará la construcción de la planta de aguas negras, habiendo establecido la necesidad de expropiar una superficie de terreno con una extensión de 18.576 hectáreas, en los lugares denominados “La Brisa y La Legua”, de la provincia Oropeza del Departamento de Chuquisaca.
+* Que la futura planta de tratamiento de aguas negras, beneficiará y permitirá el mejoramiento de las condiciones de vida de los habitantes de la ciudad de Sucre y sus alrededores, puesto que se logrará una depuración y parámetros admisibles de descarga del afluente tratado, como descarga al Río Quirpinchaca “Receptor”, reduciendo sustancialmente la contaminación de las aguas que son utilizadas para el riego de cultivos de productos alimenticios;
+* Que es deber del Gobierno nacional, impulsar la realización de obras de interés público, que permita la protección del medio ambiente y la salud del pueblo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se declara de necesidad y utilidad pública la expropiación de 18.576 hectáreas, de terrenos situados en la provincia Oropeza del departamento de Chuquisaca, en los lugares denominados “La Brisa y La Legua”, (El Campanario), aproximadamente a 7 Kmts. fuera del radio urbano de la ciudad de Sucre, sobre el camino asfaltado que une la capital con la ciudad de Potosí, de propiedad de Marcelo Arce Scott, Oscar Raúl Alvarez U., Octavio Urioste F. de Córdova, Felipe Serrano A., Silveira Vda. de Pimentel, Marcela Ramos de Pimentel, Victor Macías Cerrudo, Policarpio Mendoza M., Lino Vedía Caro, Raymundo Uriona C., José Serrano A., Gastón Nava, Margarita Serrano de Mollo, Felipe Serrano A. y Simona de Avendaño, Luisa Miranda Vda. de Macías, Luis Daza Pecho, Pedro Peñafiel y Fausta P. de Vallejos, Fidelia Vda. de Serrano, Margarita Rocha Vda. de Serrano y Pablo Daza Uriona, con destino a la construcción de una planta de tratamiento de aguas servidas por intermedio de la Empresa Local de Agua Potable y Alcantarillado de Sucre ELAPAS, de conformidad con los artículos 22 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html) y 108 del [Código Civil](https://www.lexivox.org//norms/BO-COD-DL12760B.html) y el [decreto supremo de 4 de abril de 1879 elevado a ley por la de 30 de diciembre de 1, 884](https://www.lexivox.org//norms/BO-L-1884.html).
+
+**Artículo 2°.-** La Prefectura del Departamento de Chuquisaca, queda encargada de iniciar a la brevedad y proseguir hasta su conclusión el correspondiente procedimiento de expropiación de los inmuebles, determinando el monto de la respectiva indemnización por la Empresa Local de Agua Potable y Alcantarillado ELAPAS a los propietarios conforme a ley.
+
+---
+
+Los señores Ministros de Estado en los despachos de Hacienda y Desarrollo Económico, Desarrollo Sostenible y de Gobierno quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de junio de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Carlos Sánchez Berzaín, Raúl Tovar Piérola, José G. Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

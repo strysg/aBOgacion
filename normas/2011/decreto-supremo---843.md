@@ -1,0 +1,83 @@
+# Bolivia: Decreto Supremo Nº 843, 13 de abril de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 10 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html), de 20 de julio de 1990, de Administración y Control Gubernamentales, dispone que el Sistema de Administración de Bienes y Servicios establecerá la forma de contratación, manejo y disposición de bienes y servicios.
+* Que el Artículo 20 de la señalada Ley, establece las atribuciones básicas de los Órganos Rectores, entre las cuales se encuentra la de emitir las normas y reglamentos básicos para cada sistema, compatibilizar y evaluar según corresponda las disposiciones específicas que realizan actividades similares, en función de su naturaleza y la normatividad básica.
+* Que el inciso d) del Artículo 52 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece que es atribución de la Ministra(o) de Economía y Finanzas Públicas ejercer las facultades de autoridad fiscal y Órgano Rector de las normas de gestión pública.
+* Que el inciso a) del Artículo 9 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, Normas Básicas del Sistema de Administración de Bienes y Servicios - NB-SABS, establece que es función del Órgano Rector revisar, actualizar y emitir las NB-SABS y su reglamentación.
+* Que el Parágrafo II del Artículo 12 de la [Ley Nº 031](https://www.lexivox.org//norms/BO-L-N31.html), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, señala que la autonomía se organiza y estructura su poder público a través de los órganos legislativo y ejecutivo. La organización de los gobiernos autónomos está fundamentada en la independencia, separación, coordinación y cooperación de estos órganos.
+* Que a fin de brindar condiciones adecuadas de funcionamiento a las Asambleas Departamentales y Regionales, y viabilizar sus procesos de contratación, manejo y disposición de bienes y servicios, es necesario emitir la presente disposición normativa.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto incluir el Artículo 32 bis y modificar los Artículos 5, 6, 11, 41 y 92 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, Normas Básicas del Sistema de Administración de Bienes y Servicios - NB-SABS.
+
+**Artículo 2°.- (Inclusiones)** 
+
+1. Se incluye el inciso zz) en el Artículo 5 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, con el siguiente texto:
+   > “zz) Responsable Administrativo de la Asamblea - RAA: Servidora o Servidor Público de más alta jerarquía de la Unidad Administrativa de cada Asamblea Departamental o Regional.”
+2. Se incluye el Artículo 32 bis en el [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, con el siguiente texto:
+   > “ARTÍCULO 32 bis.- (RESPONSABLE ADMINISTRATIVO DE LA ASAMBLEA). El Responsable Administrativo de la Asamblea - RAA es responsable de todos los procesos de contratación desde su inicio hasta su conclusión, asumiendo funciones equivalentes a las de una MAE en los procesos de contratación que lleve adelante la Asamblea Departamental o Regional.”
+
+**Artículo 3°.- (Modificaciones)** 
+
+1. Se modifican los incisos ll) y mm) del Artículo 5 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, con el siguiente texto:
+   > “ll) Responsable del Proceso de Contratación de Licitación Pública - RPC: Servidor Público que por delegación de la MAE o RAA, es responsable por la ejecución del proceso de contratación y sus resultados, en la modalidad de Licitación Pública;
+   >   
+   > mm) Responsable del Proceso de Contratación de Apoyo Nacional a la Producción y Empleo - RPA: Servidor Público que por delegación de la MAE o RAA, es responsable por la ejecución del proceso de contratación y sus resultados, en las modalidades de Contratación Menor y ANPE; ”
+2. Se modifica el Artículo 6 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, con el siguiente texto:
+   > “ARTÍCULO 6.- (ÁMBITO DE APLICACIÓN).
+   >   
+   > I. Las presentes NB-SABS y los instrumentos elaborados por el Órgano Rector, son de uso y aplicación obligatoria por todas las entidades públicas señaladas en los Artículos 3 y 4 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) y toda entidad pública con personería jurídica de derecho público, bajo la responsabilidad de la MAE y de los servidores públicos responsables de los procesos de contratación, manejo y disposición de bienes y servicios.
+   >   
+   > II. Las presentes NB-SABS y los instrumentos elaborados por el Órgano Rector, son de uso y aplicación obligatoria en todas las Asambleas Departamentales y Regionales bajo la responsabilidad de el RAA y de los servidores públicos responsables de los procesos de contratación, manejo y disposición de bienes y servicios.”
+3. Se modifica el Artículo 11 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, incluyendo el Parágrafo III, con el siguiente texto:
+   > “III. Los RAA de las Asambleas Departamentales y Regionales deberán elaborar su RE-SABS, tomando como base el contenido mínimo elaborado por el Órgano Rector.
+   >   
+   > El RE-SABS deberá ser remitido al Órgano Rector adjuntando el Organigrama actualizado y aprobado; una vez declarado compatible, será aprobado por el RAA mediante Resolución expresa.”
+4. Se modifica el Parágrafo II del Artículo 41 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, con el siguiente texto:
+   > “II. Después de realizada la apertura de propuestas y luego de conocer la nómina de participantes, el RPC o el RPA que estén comprendidos en las causales señaladas en el Parágrafo I del presente Artículo, deberán excusarse de oficio para conducir el proceso, remitiendo los antecedentes a la MAE o RAA según corresponda, justificando de manera motivada su decisión. En el término de un (1) día, la MAE o RAA ratificará al RPC, al RPA o designará a otro servidor público en su reemplazo.
+   >   
+   > En caso de que la MAE asuma las funciones de RPC y/o RPA, ésta deberá excusarse ante la MAE de la entidad que ejerce tuición; en el caso de Gobiernos Autónomos Municipales, ante el Concejo Municipal.
+   >   
+   > En caso de que el RAA asuma las funciones de RPC y/o RPA deberá excusarse ante el Presidente de la Asamblea Departamental o Regional.”
+5. Se modifican los Parágrafos I y II del Artículo 92 del [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, con el siguiente texto:
+   > “I. La autoridad competente para conocer y resolver los Recursos Administrativos de Impugnación es la MAE de la entidad convocante.
+   >   
+   > Cuando por la estructura de la entidad, la MAE asuma las funciones de RPC y/o RPA, los Recursos Administrativos de Impugnación interpuestos serán resueltos por la MAE de la entidad que ejerce tuición sobre ésta; en el caso de Gobiernos Autónomos Municipales, los Recursos Administrativos de Impugnación interpuestos serán resueltos por el Concejo Municipal.
+   >   
+   > En las Asambleas Departamentales y Regionales, los Recursos Administrativos de Impugnación interpuestos serán resueltos por el RAA. Cuando por la estructura de las Asambleas Departamentales o Regionales, el RAA asuma las funciones de RPC y/o RPA, los Recursos Administrativos de Impugnación interpuestos serán resueltos por la Directiva de la Asamblea Departamental o Regional.
+   >   
+   > II. Los Recursos Administrativos de Impugnación, deberán presentarse ante el RPC o RPA que emitió la Resolución objeto de la impugnación, quien deberá remitir en el plazo de dos (2) días ante la MAE o RAA según corresponda, todos los Recursos Administrativos interpuestos y los antecedentes del proceso de contratación.”
+
+     
+
+   # Disposiciones adicionales
+
+**Artículo adicional Único.-** 
+
+1. El RAA asumirá y cumplirá cuando corresponda, con todas las actividades y funciones equivalentes a las establecidas para la MAE en los procesos de contratación de bienes y servicios.
+2. Para el manejo y disposición de bienes el RAA asumirá y cumplirá las actividades y funciones equivalentes a las de la MAE y del Máximo Ejecutivo de la Unidad Administrativa. En el caso de disposición de bienes se requerirá la aprobación previa de la Directiva de la Asamblea Departamental o Regional.
+     
+
+   # Disposiciones transitorias
+
+**Artículo transitorio Único.-** 
+
+1. Las convocatorias públicas de contratación y los recursos administrativos de impugnación iniciados con anterioridad a la vigencia del presente Decreto Supremo, deberán concluir y resolverse conforme a las normas vigentes al momento de su inicio.
+2. A partir de la vigencia del presente Decreto Supremo, todas las contrataciones de bienes y servicios, incluyendo segundas o siguientes convocatorias de procesos declarados desiertos o anulados, se realizarán en el marco del presente Decreto Supremo y la normativa legal vigente.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno en la ciudad de La Paz, a los trece días del mes de abril del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, María Cecilia Chacón Rendón, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

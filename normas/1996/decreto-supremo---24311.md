@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 24311, 11 de junio de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que es objeto fundamental del Supremo Gobierno de Bolivia contribuir al establecimiento de un ambiente institucional, normativo y político apropiado para el desarrollo económico y social del país mediante el fortalecimiento de sus instituciones democráticas en las áreas del Poder Legislativo, del Sistema Electoral y de la Descentralización.
+* Que para el efecto, el Banco Interamericano de Desarrollo (BID) ha acordado conceder a la República de Bolivia un préstamo por un monto de hasta US$ 12.000.000.- (DOCE MILLONES 00/100 DOLARES AMERICANOS), con cargo a los recursos de su Fondo para Operaciones Especiales, destinado a financiar el Programa Nacional de Gobernabilidad (PRONAGOB).
+* Que es preciso autorizar la suscripción del respectivo Contrato de Préstamo a objeto de concretar este financiamiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Ministro de Hacienda a suscribir, en nombre del Gobierno de la República de Bolivia, el correspondiente Contrato de Préstamo con el Banco Interamericano de Desarrollo (BID) por un monto de hasta US$ 12.000.000.- (DOCE MILLONES 00/100 DE DOLARES AMERICANOS), destinado a financiar el Programa Nacional de Gobernabilidad (PRONAGOB).
+
+**Artículo 2°.-** Se autoriza al Tesoro General de la Nación a traspasar los recursos del préstamo a las entidades ejecutoras del Programa mediante Convenios Subsidiarios.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los once días del mes de junio de mil novecientos noventa y seis años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzaín, Jorge Otasevic Toledo, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Oscar Sandoval Morón, MINISTRO SUPLENTE DE DESARROLLO HUMANO, Moisés Jarmúsz Levy, Jorge España Smith, MINISTRO SUPLENTE DE TRABAJO, Guillermo Richter Ascimani, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

@@ -1,0 +1,43 @@
+# Bolivia: Resolución Normativa de Directorio de 3 de noviembre de 2010
+
+TRATAMIENTO DE DECIMALES EN DECLARACIONES JURADAS Y DEUDA TRIBUTARIA
+  
+RESOLUCION NORMATIVA DE DIRECTORIO No 10-0025-10
+  
+La Paz, 03 de noviembre de 2010
+
+CONSIDERANDO:
+
+* Que el numeral 11o de la Resolución Administrativa No 05-0048-99 de 23 de septiembre de 1999, establece el procedimiento para la presentación de declaraciones juradas y boletas de pago sin decimales, estableciendo un criterio de redondeo.
+* Que en fecha 17 de octubre de 2010 se publicó la [Resolución Normativa de Directorio Nº 10-0022-10](https://www.lexivox.org//norms/BO_SIN-RND-10-0022-10.html) de fecha 11 de octubre de 2010, regulando el tratamiento de los decimales a ser considerados en importes de procesos tributarios, generando confusión en cuanto a su tratamiento por existir errores en la publicación, estableciéndose la necesidad de emitir la presente disposición.
+* Que de acuerdo al inciso p) del Artículo 19 del [Decreto Supremo Nº 26462](https://www.lexivox.org//norms/BO-DS-26462.html) de 22 de diciembre de 2001, excepcionalmente y cuando las circunstancias lo justifiquen, el Presidente Ejecutivo del Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia del Directorio, en ese sentido, el inciso a) del numeral 1. de la Resolución Administrativa de Directorio No. 09 - 0011 - 02 autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de Directorio cuando la urgencia del acto así lo imponga, para su posterior homologación.
+
+# POR TANTO:
+
+El Presidente Ejecutivo a.i. del Servicio de Impuestos Nacionales, a nombre del Directorio de la institución, en uso de las facultades conferidas por el Artículo 64 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html) de 2 de agosto de 2003, Código Tributario Boliviano, inciso p) del Artículo 19 del [Decreto Supremo Nº 26462](https://www.lexivox.org//norms/BO-DS-26462.html) de 22 de diciembre de 2001 y en cumplimiento de lo dispuesto en el inciso a) del numeral 1. de la Resolución Administrativa de Directorio No. 09 - 0011 - 02 de 28 de agosto de 2002.
+
+RESUELVE:
+
+**Artículo 1°.- (Objeto)** La presente Resolución Normativa de Directorio tiene por objeto determinar el número de decimales que deben ser considerados en el cálculo de la Deuda Tributaria, así como el redondeo en los importes obtenidos en declaraciones juradas.
+
+**Artículo 2°.- (Tratamiento de decimales)** 
+
+1. Los importes obtenidos en formularios y boletas de pago deben ser presentados sin decimales, para tal efecto se redondeará al número entero superior cuando el decimal sea igual o superior a 0,50 y al número entero inferior cuando el decimal sea igual o inferior a 0,49.
+2. Si del cálculo de cada uno de los componentes de la Deuda Tributaria resultare un número decimal, se tomará cinco (5) dígitos después de la coma. El importe obtenido como deuda tributaria deberá redondearse con el criterio establecido en el parágrafo I.
+     
+
+   # DISPOSICIONES ABROGATORIAS Y DEROGATORIAS
+
+**Artículo 1°.-** Abrogar la [Resolución Normativa de Directorio Nº 10-0022-10](https://www.lexivox.org//norms/BO_SIN-RND-10-0022-10.html) de fecha 11 de octubre de 2010, publicada el 17 de octubre de 2010.
+
+**Artículo 2°.-** Derogar el numeral 11o de la Resolución Administrativa No 05-0048-99 de 23 de septiembre de 1999.
+
+---
+
+Regístrese, hágase saber y cúmplase.
+  
+Roberto Ugarte Quispaya
+  
+PRESIDENTE EJECUTIVO a.i.
+  
+SERVICIO DE IMPUESTOS NACIONALES

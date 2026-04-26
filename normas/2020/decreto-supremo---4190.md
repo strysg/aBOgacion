@@ -1,0 +1,55 @@
+# Bolivia: Decreto Supremo Nº 4190, 13 de marzo de 2020
+
+[Decreto Supremo Nº 4190](https://www.lexivox.org//norms/BO-DS-N4190.html)  
+JEANINE ÁÑEZ CHÁVEZ
+  
+PRESIDENTA CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 2 del Artículo 9 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina como fines y funciones esenciales del Estado, entre otros, el garantizar el bienestar, el desarrollo, la seguridad y la protección e igual dignidad de las personas, las naciones, los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe.
+* Que el Parágrafo I del Artículo 35 del Texto Constitucional, establece que el Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud.
+* Que el numeral 16 del Artículo 172 del Texto Constitucional, señala que es atribución de la Presidenta del Estado preservar la seguridad y la defensa del Estado.
+* Que el numeral 14 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone como competencia privativa del nivel central del Estado el control del espacio y tránsito aéreo, en todo el territorio nacional. Construcción, mantenimiento y administración de aeropuertos internacionales y de tráfico interdepartamental.
+* Que el [Decreto Supremo Nº 722](https://www.lexivox.org//norms/BO-DS-N722.html), de 13 de febrero de 1947, elevado a rango de ley por la [Ley Nº 1759](https://www.lexivox.org//norms/BO-L-1759.html), de 26 de febrero de 1997, establece que Bolivia se adhiere al Convenio sobre Aviación Civil Internacional, suscrito el 7 de diciembre de 1994.
+* Que el Artículo 1 del Convenio sobre Aviación Civil Internacional, dispone que los Estados contratantes reconocen que todo Estado tiene soberanía plena y exclusiva en el espacio aéreo situado sobre su territorio.
+* Que el Artículo 14 del Convenio sobre Aviación Civil Internacional, señala que cada Estado contratante conviene en tomar medidas efectivas para impedir la propagación por medio de la navegación aérea, del cólera, tifus (epidémico), viruela, fiebre amarilla, peste y cualesquiera otras enfermedades contagiosas que los Estados contratantes decidan designar oportunamente.
+* Que el Artículo 2 del [Decreto Supremo Nº 4179](https://www.lexivox.org//norms/BO-DS-N4179.html), de 12 de marzo de 2020, declara situación de Emergencia Nacional por la presencia del brote de Coronavirus (COVID-19) y fenómenos adversos reales e inminentes provocados por amenazas: naturales, socio-naturales y antrópicas en el territorio nacional.
+* Que la Organización Mundial de la Salud - OMS declaró que el CORONAVIRUS (COVID-19) se considera como pandemia mundial, por lo que, los Estados deberán asumir acciones a fin de precautelar la salud y la integridad de la población, evitando la propagación del virus.
+* Que el Director de la OMS anunció que el COVID-19 puede definirse como una “pandemia”, después de que en las últimas dos (2) semanas el número de casos fuera de China se multiplicase por trece (13) y el de países afectados se triplicase. Según ese organismo, hay más de ciento dieciocho mil (118.000) casos de coronavirus en ciento catorce (114) países y el número de muertes es de cuatro mil doscientos noventa y un (4.291), por lo que exhortó a que los gobiernos tomen medidas urgentes y agresivas para combatir el brote del coronavirus.
+* Que ante los casos confirmados de COVID-19 en territorio boliviano, es necesario asumir medidas de prevención y contención para evitar el contagio y la propagación de la enfermedad en territorio nacional.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto disponer la suspensión de vuelos directos desde y hacia Europa.
+
+**Artículo 2°.- (Suspensión de vuelos directos desde y hacia europa)** 
+
+1. Se suspenden de manera temporal los vuelos directos desde y hacia Europa, a partir del 14 de marzo hasta el 31 de marzo de 2020.
+2. Los usuarios afectados por esta disposición podrán realizar la reprogramación de la fecha del vuelo de acuerdo a las condiciones del Contrato de Transporte Aéreo, sujeto a la disponibilidad de la línea aérea y sin que la línea aérea aplique penalidad alguna por dicho cambio.
+
+**Artículo 3°.- (Protocolos de seguridad y contención)** 
+
+1. Los vuelos directos internacionales, con procedencia diferente a los originados en Europa, en los que se detecte algún caso sospechoso de CORONAVIRUS (COVID-19), deben ser sometidos a los protocolos de seguridad y contención establecidos por el Ministerio de Salud y la Autoridad Aeronáutica Civil.
+2. Toda persona que ingrese vía aérea a territorio nacional con antecedentes epidemiológicos de los países que presentan casos de CORONAVIRUS (COVID-19), debe sujetarse a un periodo de aislamiento domiciliario por catorce (14) días.
+3. En caso de presentarse sintomatología de infección respiratoria, la persona en aislamiento domiciliario se debe comunicar con la Autoridad de Salud pertinente para la adopción de las medidas necesarias.
+
+**Artículo 4°.- (Formulario de salud para localizar a pasajeros)** 
+
+1. A partir de la publicación del presente Decreto Supremo, los pasajeros de vuelos internacionales que ingresen al país por cualquiera de los puntos de control migratorio por vía aérea, deben llenar obligatoriamente y previamente el “Formulario de Salud Para Localizar a Pasajeros” contra el CORONAVIRUS (COVID-19), mismo que tendrá carácter de Declaración Jurada y podrá ser obtenido en la página web de la Dirección General de Migración - DIGEMIG.
+2. Las líneas aéreas serán responsables de exigir al pasajero la información señalada en el Parágrafo precedente.
+     
+
+   # Disposiciones transitorias
+
+**Disposición Transitoria Única.-** Para el cumplimiento del presente Decreto Supremo el Ministerio de Obras Públicas, Servicios y Vivienda en coordinación con el Ministerio de Salud quedan encargados de emitir la reglamentación correspondiente a través de Resolución Biministerial.
+
+---
+
+Los señores Ministros de Estado en los Despachos de la Presidencia; de Gobierno; de Defensa; de Obras Públicas, Servicios y Vivienda; y de Salud, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de marzo del año dos mil veinte.
+  
+FDO. JEANINE ÁÑEZ CHÁVEZ, Yerko M. Núñez Negrette MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Arturo Carlos Murillo Prijic, Luis Fernando López Julio, Carlos Melchor Díaz Villavicencio, José Luis Parada Rivero, Víctor Hugo Zamora Castedo, Álvaro Rodrigo Guzmán Collao, Wilfredo Rojo Parada, Iván Arias Durán, Carlos Fernando Huallpa Sunagua, Álvaro Eduardo Coímbra Cornejo, Oscar Bruno Mercado Céspedes, Aníbal Cruz Senzano, María Elva Pinckert de Paz, Víctor Hugo Cárdenas Conde, Beatriz Eliane Capobianco Sandoval, Martha Yujra Apaza, María Isabel Fernández Suarez, Milton Navarro Mamani.

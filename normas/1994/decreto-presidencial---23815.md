@@ -1,0 +1,20 @@
+# Bolivia: Decreto Presidencial Nº 23815, 5 de julio de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Ing. Fernando Alvaro Cossío, Ministro de Hacienda y Desarrollo Económico debe ausentarse a la República del Perú, integrando la comitiva oficial que acompañará al Presidente Constitucional de la República en su visita a ese país, entre los días 5 al 8 de julio del año en curso.
+* Que de conformidad con lo dispuesto por el artículo 12 de la [Ley Nº 1493](https://www.lexivox.org//norms/BO-L-1493.html) de 17 de septiembre de 1993, es necesario designar al Ministro suplente para la continuidad administrativa del mencionado Despacho de Estado.
+
+DECRETA:
+
+**Artículo Único.-** Desígnase Ministro Suplente de Hacienda y Desarrollo Económico al Lic. Ricardo Rojas Harrison, Secretario Nacional de Turismo, mientras dure la ausencia del titular.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cinco días del mes de julio de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Presidente Constitucional de la Republica, Carlos Sánchez Berzaín, Ministro de la Presidencia de la Republica

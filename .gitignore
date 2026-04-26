@@ -1,0 +1,11 @@
+# Emacs temporary and backup files
+*~
+\#*#
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.#*

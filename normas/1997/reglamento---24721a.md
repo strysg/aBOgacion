@@ -1,0 +1,1695 @@
+# Bolivia: Reglamento para Construcción y Operación de Plantas de Engarrafado de Gas Licuado de Petróleo (GLP), 23 de julio de 1997
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.-** De conformidad a la Ley del Sistema de regulación Sectorial (SIRESE) No. 1600 de 28 de octubre de 1.994 y la Ley de Hidrocarburos 1689 de 30 de abril de 1.996, la comercialización de hidrocarburos y sus derivados en el mercado interno es libre y podrá ser realizada por cualquier persona individual o colectiva, nacional o extranjera, mediante su registro en la Superintendencia de Hidrocarburos del Sistema de Regulación Sectorial y el cumplimiento de las disposiciones legales vigentes.
+
+**Artículo 2°.-** Son atribuciones de la Superintendencia el promover, con personas individuales o colectivas, nacionales o extranjeras, proyectos de Construcción y Operación de Plantas de Engarrafado de GLP. Asimismo es función de la Superintendencia cumplir y hacer cumplir las Leyes, Normas y Reglamentos vigentes en el sector, conforme el Artículo 10 de la Ley del Sistema de Regulación Sectorial (SIRESE).
+
+**Artículo 3°.-** Las personas individuales o colectivas en adelante denominadas Empresas interesadas en la Construcción, Operación y Comercialización de GLP al por mayor a través de Plantas de Engarrafado, deberán cumplir las estipulaciones del presente Reglamento.
+
+## Capítulo II Definiciones
+
+**Artículo 4°.-** Para la correcta interpretación de éste Reglamento, se establecen las siguientes definiciones y terminologías:
+
+1. GLP: Gas licuado de petróleo, mezcla de hidrocarburos, compuesto principalmente por cantidades variables de propano, butano e isobutanos, que bajo condiciones normales de presión y temperatura, se encuentra en estado gaseoso y que se mantiene en estado líquido por aumento de presión.
+2. Garrafas: Recipientes herméticos transportables de capacidad no mayor a 120 litros de agua, de una altura máxima de 1.5 metros con diseño homologado por el Instituto Boliviano de Normalización y Calidad (IBNORCA).
+3. Tanques de almacenaje de GLP: Recipientes metálicos estacionarios, de una capacidad mayor a 200 litros de agua, para almacenaje de GLP, construido de acuerdo a normas internacionales.
+4. Planta de engarrafado de GLP: Instalaciones destinadas al trasvase del GLP de los tanques de almacenaje a las garrafas, bajo condiciones técnicas controladas de presión, calidad, cantidad y seguridad.
+5. Superintendencia: La Superintendencia de Hidrocarburos del Sistema de Regulación Sectorial (SIRESE).
+6. Proveedores: Empresas productoras de GLP como YPFB, empresas que tengan Contratos de Riesgo Compartido de Operación o Asociación con YPFB, empresas privadas de Refinación y/o importación.
+7. Odorización: Operación mediante el cual se agrega al GLP una sustancia química del tipo de los mercaptanes como el etil Mercaptan u otros, a base de azufre con una dosificación tal que permita detectar la presencia del GLP en casos de fugas y otros.
+8. Area Urbana: Ciudades y localidades que cuenten con infraestructura de servicios básicos de agua, alcantarillado, energía eléctrica y otros.
+9. Area Rural: Poblaciones que no cuenten con la infraestructura de servicios básicos y que tienen una población menor a 2.000 habitantes.
+
+## Capítulo III De la solicitud
+
+**Artículo 5°.-** Las empresas interesadas en la construcción y operación de Plantas de Engarrafado de GLP, deberán cumplir con la presentación de los requisitos legales y técnicos que se estipulan en los Artículos 6 y 7 del presente Reglamento.
+
+**Artículo 6°.-** Requisitos Legales
+
+1. Memorial de solicitud a la Superintendencia de Hidrocarburos detallando el nombre, denominación o razón social, Nombre del propietario o representante, domicilio y dirección, lugar donde pretende construir.
+2. Copia Legalizada del Testimonio de propiedad del terreno a nombre de la persona individual o colectiva, nacional o extranjera con inscripción en Derechos Reales.
+3. Escritura de Constitución Social de la Empresa o sus modificaciones, de acuerdo al Código de Comercio. (Este requisito no es necesario en el caso de Empresas unipersonales).
+4. Testimonio de Poder Especial del representante legal de la Empresa o Sociedad. (Este requisito no es necesario en el caso de que los trámites sean realizados en forma personal).
+5. Certificado de inscripción en la Dirección General del Registro de Comercio y Sociedades por Acciones de la Secretaría Nacional de Industria y Comercio (SNIC) o del Instituto Nacional de Cooperativas (INALCO), como corresponda.
+6. Certificado de inscripción en el Registro de la Superintendencia.
+7. Certificado “Sobre Procesos con el Estado” otorgado por la Contraloría General de la República.
+8. Fotocopia del Registro Unico de Contribuyente (RUC).
+
+**Artículo 7°.-** Requisitos Técnicos
+
+1. Planos topográficos del terreno en escala 1:100 en zona urbana y 1:200 para zona rural, debidamente acotado, con indicación de linderos y superficie en metros cuadrados.
+2. Plano de ubicación del terreno en escala apropiada con indicación del tipo de construcciones vecinas con la aprobación de la Honorable Alcaldía Municipal de su jurisdicción. La aprobación deberá considerar las distancias a centros educacionales, religiosos, asistenciales, cines, teatros, cuarteles etc.
+3. Arquitectura de las plantas, cortes y fachadas para todas sus instalaciones en escala 1:50 1:100.
+4. Planos de instalaciones mecánicas con indicación de número y sección de tanques, diámetro y pendiente de tuberías, tipos de bombas y compresores, accesorios, etc. correspondientes al sistema de recepción, almacenaje y engarrafado de GLP.
+5. Planos de instalaciones eléctricas, correspondientes a las diferentes instalaciones, las mismas que deberán cumplir con normas NEC para instalaciones a prueba de explosión.
+6. Planos de instalaciones sanitarias.
+7. Memoria descriptiva del proyecto (proyecto técnico), con indicación detallada de cada uno de los elementos que componen la planta de engarrafado de GLP, los trabajos e inversiones a realizar y otros servicios a prestar.
+8. Cronograma de ejecución con plazos de inicio y conclusión de obras en días calendario.
+     
+   Los planos de las obras civiles y eléctricos correspondientes a los proyectos que se encuentran ubicados en Capitales de Departamento y Provincia serán aprobados por la H. Alcaldía Municipal que corresponda. Los que se encuentrán en poblaciones menores y carreteras deberán ser autorizados por el Municipio de su jurisdicción.
+     
+   Los planos de las instalaciones sanitarias serán aprobados por la por la empresa de agua y alcantarillado, en las Capitales de Departamento. Por la alcaldía Municipal en las Capitales de Provincia. En poblaciones menores y en carreteras, por el Municipio de su jurisdicción.
+     
+   Los planos electromecánicos y dispositivos de seguridad deberán ser elaborados conforme a las normas establecidas en el presente reglamento, por un profesional o empresa de la especialidad debidamente registrado en la Sociedad de Ingenieros de Bolivia u organismo correspondiente.
+
+## Capítulo IV De la categorización de las plantas de engarrafado
+
+**Artículo 8°.-** Las plantas engarrafadoras se clasifican en Plantas Urbanas y Rurales tomando en consideración la capacidad de almacenaje y engarrafado.
+
+**Artículo 9°.-** Las plantas de envasado de GLP señaladas en el artículo anterior, deberán cumplir con la siguiente infraestructura mínima de almacenaje y engarrafado:
+  
+
+## CLASIFICACION DE PLANTAS ENGARRAFADORAS DE GLP
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| TIPO | CATEGORIA | CAPACIDAD DE ALMACENAJE (TM) | NUMERO DE BALANZAS (Pza.) | CAPACIDAD DE ENGARRAFADO (Garr/Hr) | VOLUMEN DE VENTAS ESTIMADOS (Garr/Dia) |
+| URBANA (\*) | URBANA | > 120 | >= 9 | >= 450 | >= 2700 |
+| RURAL | RURAL | hasta 120 | hasta 8 | hasta 400 | hasta 2400 |
+| Nota: (\*) Deben ser del tipo Carrousel, ó de Tecnología superior | | | | | |
+
+**Artículo 10°.-** Las plantas de envasado de GLP deberán contar como mínimo con el terreno e infraestructura civil detallados en el siguiente cuadro:
+  
+
+## AREAS MINIMAS DEL TERRENO DE LAS INSTALACIONES DE PLANTAS DE ENGARRAFADO DE GLP
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| TIPO | CATEGORIA | TERRENO AREA M2 | TANQUES AREA M2 | PLATAFORMA AREA M2 | OFICINAS AREA M2 | PLAYA DE CARGA Y MANIOBRA M2 (\*) |
+| URBANA (\*) | URBANA | 4000 | 1700 | 450 | 50 | 1800 |
+| RURAL | RURAL | 2500 | 1200 | 250 | 20 | 1030 |
+| (\*) Referencial | | | | | | |
+
+  
+- La relación mínima entre frente y fondo del terreno debera ser igual a 1.6
+
+**Artículo 11°.-** Para capacidades de almacenaje superiores a 2000 metros cúbicos (m3), la planta de envasado deberá cumplir con lo establecido en el Anexo 1.
+
+## Capítulo V De la infraestructura y especificaciones técnicas
+
+**Artículo 12°.-** Las empresas interesadas en la construcción y operación de plantas de engarrafado de GLP para la comercialización, deberán contemplar en sus proyectos con la siguiente infraestructura básica:
+
+1. Area de Tanques de Almacenaje de GLP.
+2. Area de la Planta de Engarrafado de GLP.
+3. Areas de Oficinas, laboratorio y talleres de mantenimiento.
+     
+   Artículo 13 Area de Tanques de Almacenaje de GLP.
+     
+   El conjunto de instalaciones del área de tanques de almacenaje de GLP, estará constituido de los siguientes sistemas:
+   1. Sistema de recepción del GLP.
+   2. Tanques de Almacenaje.
+   3. Sistema de cañerías.
+   4. Equipos de: trasvase, odorización, regulación y medición.
+   5. Válvulas de control y salida.
+        
+      Estos sistemas deberán cumplir con las especificaciones técnicas establecidas en los ANEXOS No. 1 y 2.
+
+**Artículo 14°.-** Los Tanques de Almacenaje de GLP, podrán ser instalados en superficie (tanques aéreos), enterrados o semienterrados los que deberán cumplir con las distancias mínimas de seguridad y normas establecidas en los ANEXOS 1 y 4 respectivamente.
+
+**Artículo 15°.-** El manifold de recepción del GLP deberá servir para recibir el producto por cisternas y/o mediante ducto. Este sistema deberá estar situado fuera de los límites de las distancias de seguridad establecidas en el presente Reglamento y deberá permitir la recepción y distribución a los diferentes tanques en forma independiente, con sistemas de válvulas de bloqueo y válvulas check. Las líneas serán diseñadas e instaladas de acuerdo a las Normas ANSI B 31.4 y API STD 1104.
+
+**Artículo 16°.-** Cuando la recepción del GLP se la efectúe a través de un ducto, que derive de un ducto troncal o de otra Planta de Almacenaje de GLP del proveedor, el mismo será construido de acuerdo a las estipulaciones del Reglamento de Diseño, Construcción, Operación y Abandono de Ductos en Bolivia.
+
+**Artículo 17°.-** La instalación de los tanques de almacenaje, tanto aéreos como enterrados o semienterrados, deberán cumplir las distancias mínimas de seguridad, en relación a espacios libres, distancia de cercos, distancia de paredes o muros ciegos, límites de propiedad, abertura de inmuebles, focos fijos de inflamación, motores de explosión, vías públicas, férreas, líneas aéreas de alta tensión, equipos eléctricos no protegidos, sótanos, alcantarillas y desagües, edificios de diferente uso, etc., que se consignan en el ANEXO No. 1: Distancias Mínimas de Seguridad de Tanques de Almacenaje de GLP.
+
+**Artículo 18°.-** Será permitida la utilización de muros y pantallas entre los Tanques de Almacenaje y puntos que se desea proteger, reduciendo las distancias de seguridad, aplicando las especificaciones del ANEXO No. 3: Utilización de Muros o Pantallas en Instalaciones de Tanques de GLP.
+
+**Artículo 19°.-** Los tanques de almacenaje de GLP no podrán estar situados en el interior, debajo de las edificaciones, ni en patios.
+
+**Artículo 20°.-** Dentro de las distancias de seguridad que figuran en el ANEXO No. 1, relacionados a la Referencia II, no podrán existir construcciones, instalaciones y materiales ajenos al servicio.
+
+**Artículo 21°.-** La construcción e instalación de los tanques de almacenaje tanto aéreos como enterrados, equipos de trasvase, elementos auxiliares e instalaciones eléctricas, deberán sujetarse a las Especificaciones y Características de los Tanques de Almacenaje de GLP, ANEXO No. 4.
+
+**Artículo 22°.-** Los sistemas de protección y seguridad industrial en las Plantas de Almacenaje de GLP, deberán cumplir las estipulaciones contenidas en el ANEXO No. 5: Normas de Protección y Seguridad Industrial de los Tanques de Almacenaje de GLP.
+
+**Artículo 23°.-** Los requisitos técnicos de seguridad e higiene industrial para el almacenaje de GLP, que operen con cisternas dentro de sus instalaciones, están especificadas en el ANEXO No. 6: Requisitos Técnicos de Seguridad e Higiene Industrial en Operaciones con Cisternas de GLP.
+
+**Artículo 24°.-** Todos los equipos de trasvase como bombas y compresores, deberán cumplir con lo establecido en los ítems 3, 4 y 5 del ANEXO 4.
+  
+Artículo 25 Area Planta de Engarrafado de GLP. La Planta de engarrafado estará constituida básicamente por las siguientes unidades y sistemas:
+
+1. Galpón de almacenaje y despacho de garrafas de GLP.
+2. Sistema de engarrafado constituido por:
+   1. Transportador de cadena para garrafas vacías y llenas.
+   2. Sistema de recuperación de condensados.
+   3. Sistema de lavado de garrafas.
+   4. Máquina de enroscado y desenroscado.
+   5. Sistema de llenado automático de GLP con corrección de tara que podrá estar constituido por balanzas fijas, un sistema de carrusel u otro de tecnología superior.
+   6. Balanza de control de peso del GLP engarrafado.
+   7. Equipos probadores de hermeticidad.
+   8. Equipos de pintado y secado.
+3. Sistemas y dispositivos de seguridad, conforme el ANEXO No. 8.
+
+**Artículo 26°.-** El Galpón de almacenaje de garrafas, deberá cumplir las especificaciones contenidas en la Norma N1 N.B.-441-90 de la Dirección General de Normas y Tecnología en sus numerales 4.1 y 4.5 del ANEXO No. 9.
+
+**Artículo 27°.-** Las especificaciones técnicas mínimas para el sistema de engarrafado están contenidos en el ANEXO No. 7: Normas Técnicas Mínimas para Plantas de Engarrafado.
+
+**Artículo 28°.-** Las normas de seguridad a las que deberán sujetarse las instalaciones de la Planta Engarrafadora, están contenidas en el ANEXO No. 8: Normas de Seguridad en Plantas de Engarrafado.
+
+**Artículo 29°.-** Area de Oficinas, Laboratorio y Talleres de Mantenimiento.
+  
+La Construcción de oficinas, laboratorios y talleres de mantenimiento deberá cumplir con las distancias de seguridad establecidas en el ANEXO 1.
+
+## Capítulo VI De la autorización para la construcción y operación
+
+**Artículo 30°.-** Una vez recibida la solicitud de autorización para la Construcción y Operación de una Planta de Engarrafado de GLP, la Superintendencia deberá responder dentro del plazo de los diez (10) días hábiles siguientes, si la misma cumple o no con los requisitos establecidos en el Capítulo III del presente Reglamento. En caso de que la Superintendencia no se hubiese pronunciado quedará automáticamente aceptada la Solicitud de Autorización.
+
+**Artículo 31°.-** Las unidades técnica y legal dependientes de la Superintendencia, previa verificación del cumplimiento de los requisitos señalados en el presente Reglamento, en el plazo de veinte (20) días hábiles elevarán a consideración y aprobación del Superintendente los informes de carácter técnico y legal que evalúen esencialmente los siguientes aspectos:
+
+1. Ubicación dentro del área urbana o rural, determinando el tipo de colindancias y proximidades a establecimientos donde existen en forma regular aglomeraciones de personas.
+2. Tipo y topografía del terreno, su ubicación apropiada respecto al tráfico vehicular o sobre curvas peligrosas para este tipo de servicio, necesariamente debe ser adecuada para dar fluidez y comodidad a la circulación vehicular.
+3. Dimensiones mínimas del terreno
+4. Disposición de los tanques de almacenaje.
+5. Disposición del área de engarrafado.
+6. Sistemas y Dispositivos mínimos de Seguridad.
+7. Cumplimiento estricto de los requisitos legales.
+
+**Artículo 32°.-** El Superintendente dictará la Resolución Administrativa correspondiente, una vez aprobados los informes de carácter técnico y legal en el plazo no mayor a veinte (20) días hábiles. Copias legalizadas de la Resolución Administrativa autorizando la Construcción y Operación de la Planta de Engarrafado de GLP, en señal de aceptación, serán puestas en conocimiento del inversionista para su cumplimiento.
+
+**Artículo 33°.-** La Resolución Administrativa de la Superintendencia que otorga la autorización de Construcción y Operación de la Planta de Engarrafado de GLP, consignará además los siguientes puntos:
+
+1. Las instalaciones de la Planta de Engarrafado de GLP, deberán cumplir con las normas técnicas establecidas en el presente Reglamento.
+2. La empresa se someterá a las inspecciones técnicas que en forma periódica, efectuará la Superintendencia y la Dirección de Desarrollo Industrial de la Secretaría Nacional de Industria y Comercio, a las instalaciones, el estado de las garrafas, cantidad del GLP comercializado y la calibración de las balanzas de carguio.
+3. La Resolución Administrativa que autoriza la Construcción y Operación de la Planta de Engarrafado de GLP, tendrá validez de dos (2) años calendario, posterior a la cual quedará automáticamente anulada.
+4. La Resolución Administrativa que autoriza la Construcción y Operación de la Planta de Engarrafado de GLP, tendrá una validez de quince (15) años a partir de la fecha de su aprobación la misma que podrá ser prorrogada por períodos sucesivos de diez (10) años, a sola condición que el solicitante acredite estar cumpliendo estrictamente las condiciones técnicas y reglamentarias vigentes.
+5. La Empresa deberá cancelar los gastos emergentes de las inspecciones técnicas, montos establecidos en el Capítulo XII de las Tarifas de Inspección, los pagos serán efectuados en favor de la Superintendencia de Hidrocarburos.
+
+**Artículo 34°.-** En caso de que el informe técnico o legal sea negativo, el interesado dispondrá de diez (10) días hábiles para subsanar las observaciones efectuadas. Superadas las mismas, la Superintendencia obrará en consecuencia, caso contrario el interesado podrá pedir su reconsideración conforme a los Artículos 22 y 23 de la Ley del SIRESE.
+
+**Artículo 35°.-** La Superintendencia podrá declarar caduca o revocada una Resolución Administrativa para la Construcción y Operación de la Planta de Engarrafado de GLP, por las causales establecidas en los incisos a), b), y d) del Artículo 67 de la Ley de Hidrocarburos.
+
+**Artículo 36°.-** La autorización otorgada por la Superintendencia para la Construcción y Operación de una Planta de Engarrafado de GLP es INTRANSFERIBLE, en tanto el proyecto no se encuentre totalmente concluido y otorgada la Licencia de Operación correspondiente.
+
+**Artículo 37°.-** En el caso de que una empresa inicie trabajos de Construcción sin contar con la Resolución Administrativa que le autorice la iniciación de obras, su solicitud será denegada en forma definitiva.
+
+## Capítulo VII De la licencia de operación
+
+**Artículo 38°.-** Para ingresar en la etapa de operación, la empresa solicitará a la Superintendencia y a la Dirección de Desarrollo Industrial de la Secretaría Nacional de Industria y Comercio, la inspección técnica final, para verificar el cumplimiento de las condiciones establecidas en el Capítulo V del presente Reglamento y la correspondencia exacta entre la construcción de instalaciones civiles y electro-mecánicas, con los planos y proyecto técnico aprobados.
+
+**Artículo 39°.-** El cumplimiento de las condiciones técnicas y legales detalladas en el presente Reglamento, será suficiente para que la Superintendencia otorgue la Licencia de Operación a la Planta de Envasado para cuyo efecto el Concesionario deberá solicitar mediante memorial adjuntando la siguiente documentación:
+  
+1 Pólizas de Seguro vigentes según lo establecido en el Artículo 40 del presente Reglamento.
+  
+2 Comprobante de depósito bancario por la suma establecida en el Capítulo XII de Tarifas de Inspección.
+  
+3 Certificado de Calibración emitido por la Dirección de Desarrollo Industrial de la Secretaría Nacional de Industria y Comercio.
+  
+4 Informe de inspección final emitido por la unidad técnica de la Superintendencia.
+  
+5 Certificados de prueba hidraúlica.
+
+**Artículo 40°.-** Las Pólizas de Seguro mínimas que la Empresa debe contratar para el normal funcionamiento de la Planta de engarrafado son las siguientes:
+
+1. Rubro: Incendio y aliados.
+     
+   Materia Asegurada: Planta de Engarrafado.
+     
+   Detalle Asegurado: Edificio y construcciones, ductos de acometida, tanques de almacenaje, bombas y compresores, balanzas y/o carrusel de llenado y demás instalaciones.
+     
+   Cobertura: Incendio y/o rayo, explosión, motines y huelgas, daño malicioso y/o vandalismo, sabotaje, robo a primer riesgo, rotura de vidrios y cristales a primer riesgo, daños por agua, lluvia o inundación.
+     
+   Cláusula: Reemplazo - Reposición automática de suma asegurada.
+     
+   Vigencia: Un año calendario.
+2. Rubro: Responsabilidad Civil.
+     
+   Materia Asegurada: Planta de Engarrafado.
+     
+   Cobertura: Responsabilidad Civil. Contractual y extracontractual incluyendo daños a terceros por transporte del GLP en vehículos propios o alquilados, deberá también incluir el producto transportado.
+     
+   Valor Asegurado: Límite mínimo único combinado $us. 250.000.-
+     
+   Cláusulas: Incluye gastos de defensa.
+     
+   Vigencia: Un año calendario.
+     
+   Las pólizas deben ser emitidas por entidades aseguradoras debidamente autorizadas por la Superintendencia Nacional de Seguros y Reaseguros.
+
+**Artículo 41°.-** Una vez emitida la Licencia de Operación por parte de la Superintendencia de Hidrocarburos, las empresas productoras o importadoras de GLP quedan autorizados a proveer de GLP a la Empresa de engarrafado. Asimismo, ningún proveedor de GLP podrá comercializar con Empresas que no tengan sus Licencias de Operación en vigencia.
+
+**Artículo 42°.-** La Licencia de Operación otorgada por la Superintendencia tendrá validéz de un año calendario al cabo del cual deberá ser renovada prévia presentación de la solicitud mediante memorial por parte de la Empresa acompañando los siguientes documentos:
+
+1. Pólizas de Seguro renovadas.
+2. Depósito Bancario de acuerdo a lo establecido en tarifas.
+3. Certificación de última calibración.
+4. Certificado de Inscripción en el Registro de la Superintendencia.
+
+**Artículo 43°.-** La Licencia de Operación otorgada por la Superintendencia de Hidrocarburos, podrá ser anulada por las siguientes causales:
+
+1. Cuando el Concesionario no permita el acceso a las instalaciones de la Estación de Servicio, para efectos de Inspección por los entes autorizados.
+2. Alteración y venta de GLP contaminados en mas de dos oportunidades.
+3. No dar cumplimiento a las instrucciones impartidas por la Superintendencia.
+4. Modificación o cambio de las instalaciones sin aprobación de la Superintendencia.
+5. Causales establecidas en la Ley y las disposiciones legales vigentes.
+
+## Capítulo VIII De las operaciones
+
+**Artículo 44°.-** Las empresas que comercialicen el GLP a través de Plantas de Engarrafado podrán abastecerse del producto necesario para sus operaciones de cualquier proveedor debidamente autorizado.
+
+**Artículo 45°.-** Es responsabilidad de la Empresa engarrafadora la odorización del GLP a comercializar en el mercado interno.
+
+**Artículo 46°.-** Las Empresas de envasado de GLP, podrán realizar la actividad de engarrafado a través de cisternas exclusivamente en áreas rurales, previa autorización por parte de la Superintendencia. Para este efecto la Empresa deberá observar las normas de seguridad establecidas en el presente Reglamento, así como contar con un área de terreno adecuado en cada población donde se realice esta actividad.
+
+**Artículo 47°.-** Es responsabilidad de la Empresa el precintado de las garrafas con dispositivos establecidos en el ANEXO No 10.
+
+## Capítulo IX De las obligaciones de la empresa
+
+**Artículo 48°.-** Las Empresas tendrán la obligación de mantener vigentes las pólizas de seguro contratadas que se mencionán en el Artículo 40 del presente Reglamento.
+
+**Artículo 49°.-** Acatar normas de seguridad y medio ambiente contenidas en Reglamentos específicos e instrucciones y disposiciones emitidas por la Superintendencia.
+
+**Artículo 50°.-** Las Empresas de envasado de GLP, proveedoras e importadoras, deberán proporcionar a los funcionarios de la Superintendencia y de la Dirección de Desarrollo Industrial, las facilidades necesarias para dar cumplimiento a las labores de inspección, control y fiscalización de las condiciones mencionadas en el presente Reglamento. Estas labores las realizará la Superintendencia por si misma o mediante terceros y la Dirección de Desarrollo Industrial de la Secretaría Nacional de Industría y Comercio.
+
+**Artículo 51°.-** La Empresa deberá presentar a la Superintendencia, la planilla de “Movimiento Mensual de Productos”, de acuerdo a formulario establecido por la Superintendencia, la misma que tendrá carácter de declaración jurada. El plazo de presentación será hasta el día diez (10) de cada mes.
+
+**Artículo 52°.-** Deberá sujetarse al pago de las obligaciones impositivas conforme a las disposiciones legales vigentes.
+
+**Artículo 53°.-** La empresa tendrá la responsabilidad exclusiva de envasar únicamente las garrafas que estén aptas para el uso del consumidor final.
+
+**Artículo 54°.-** La empresa tendrá la responsabilidad de realizar las actividades complementarias al engarrafado para el cumplimiento del Artículo 53. Estas actividades podrán ser realizadas por si mismo o mediante terceros, observando para el efecto las siguientes normas de la Ex-Dirección General de Normas y Tecnología actualmente en vigencia:
+
+1. Norma NB‑440/81 “Inspección de cilindros nuevos de acero (garrafas) para gases licuados de petróleos”. ANEXO No 11.
+2. Norma NB-NE-11/82 “Inutilización de cilindros de acero (garrafas)”. ANEXO No 12.
+3. Norma NB‑NE‑12/82 “Reparación y Mantenimiento de cilindros de acero para gas licuado de petróleo”. ANEXO No 13.
+4. Norma NB-NE-13/82 “Reinspección y vida útil de cilindros de acero para Gas Licuado de Petróleo”. ANEXO No 14.
+     
+   La Superintendencia realizará en forma periódica inspecciones y auditorías técnicas a todo el movimiento de garrafas, cuyos costos serán asumidos por la empresa engarrafadora.
+
+**Artículo 55°.-** Los gastos que demanden las actividades detalladas en el Artículo anterior, correrán por cuenta de la empresa engarrafadora.
+
+**Artículo 56°.-** La Empresa no podrá suspender las actividades de engarrafado de GLP, sin previa autorización de la Superintendencia.
+
+## Capítulo X De las retribuciones
+
+**Artículo 57°.-** La Empresa podrá convenir libremente los precios de compra y venta de GLP con las empresas proveedoras y distribuidoras respectivamente.
+
+**Artículo 58°.-** La Empresa reconocerá mensualmente a las distribuidoras, dentro del precio convenido, un monto que le permita reponer el uno por ciento (1%) del número de garrafas comercializadas por el distribuidor al detalle u otro porcentaje establecido por la Superintendencia de Hidrocarburos.
+
+## Capítulo XI De los controles y certificaciones
+
+**Artículo 59°.-** En la fase de construcción o instalación, la Superintendencia realizará una inspección inicial para efectos de verificar las condiciones y dimensiones del terreno donde se vaya a implementar el proyecto, así como el tipo de colindancias existentes; una inspección intermedia para la verificación del avance, materiales utilizados y condiciones técnicas observadas de acuerdo a normas y una inspección final, previo a la puesta en marcha del sistema.
+
+**Artículo 60°.-** Para efectos de control y fiscalización la Superintendencia mantendrá un registro de las Plantas Engarrafado de GLP.
+
+**Artículo 61°.-** Toda vez que se estime necesario, la Superintendencia por sí misma o a través de la Dirección de Desarrollo Industrial de la Secretaría Nacional de Industria y Comercio efectuará en las Plantas de Engarrafado, la calibración de los dispositivos de control de peso de las balanzas automáticas de GLP, así como las condiciones y cumplimiento de normas técnicas y de seguridad establecidas en el presente Reglamento.
+
+**Artículo 62°.-** La Dirección de Desarrollo Industrial de la Secretaría Nacional de Industria y Comercio procederá a las inspecciones periódicas para la calibración de los sistemas de medición que regulan el volumen despachado de GLP, extendiendo los correspondientes certificados de calibración.
+  
+La presentación de estos certificados será imprescindible para continuar operando y obtener la provisión de GLP por parte de los proveedores.
+
+**Artículo 63°.-** La Superintendencia y la Dirección de Desarrollo Industrial de la Secretaría Nacional de Industria y Comercio otorgarán credenciales a las personas habilitadas para realizar las inspecciones, calibraciones y toma de muestras de los productos comercializados.
+
+**Artículo 64°.-** La Empresa solicitará a la Superintendencia, la inspección técnica anual, con la finalidad de Renovar la Licencia de operación, sin cuyo requisito no podrá continuar operando y comercializando el GLP.
+
+**Artículo 65°.-** Toda vez concluida una inspección, el formulario respectivo será rubricado por la Empresa y por los inspectores. Una copia será entregada a la Empresa.
+
+## Capítulo XII De las tarifas de inspección y calibración
+
+**Artículo 66°.-** La Empresa deberá efectuar el pago de las tarifas establecidas en el presente Artículo por concepto de inspecciones (Inicial, Intermedia y Final) a las Plantas de Engarrafado, de acuerdo al siguiente detalle:
+  
+a)Inspección para obtener el permiso de funcionamiento o Licencia
+  
+de Operación. $us. 5.000.-
+
+1. Inspección Anual para renovación de Licencia de Operación $us. 1.000.-
+     
+   b)Solicitud de inspección por parte del interesado para efectos técnicos y
+     
+   de seguridad en casos de transferencias, Ampliaciones y/o Modificaciones. $us. 1.000.-
+
+**Artículo 67°.-** La calibración inicial del sistema de medición que regula el peso, volúmen del GLP recibido y despachado, la verificación y calibración periódica de los mismos y calibraciones a solicitud de la Empresa, se sujetarán a las tarifas establecida por la
+  
+Secretaría Nacional de Industria y Comercio.
+
+## Capítulo XIII De las transferencias
+
+**Artículo 68°.-** Para la transferencia de las Plantas de Engarrafado de GLP, la Empresa deberá solicitar a la Superintendencia, la autorización para transferir sus instalaciones, la misma que será aprobada mediante Resolución Administrativa, previa presentación por parte de la Empresa interesada de los siguientes documentos:
+
+1. Transferencia con cambio de Razón Social
+   1. Todos los documentos establecidos en el Artículo 6 del presente Reglamento.
+   2. Copia legalizada del documento de transferencia de acuerdo a normas del Código de Comercio.
+   3. Pólizas de Seguro según el Artículo 40.
+2. Transferencia sin cambio de Razón Social
+   1. Copia legalizada del documento de transferencia de acuerdo a normas del Código de Comercio.
+   2. Documento que acredite la representación legal, para personas colectivas.
+   3. Pólizas de Seguros según el Artículo 40.
+
+**Artículo 69°.-** La transferencia de una Planta Engarrafadora de GLP implica necesariamente la obtención de una nueva Licencia de Operación conforme lo estipula el Capítulo VII del presente Reglamento.
+
+## Capítulo XIV De las sanciones
+
+**Artículo 70°.-** La Superintendencia sancionará con una multa de $us. 1.000.- (Un mil 00/100 dólares americanos) en los siguientes casos:
+
+1. Cuando el personal de la Empresa no esté operando el sistema de acuerdo a normas de seguridad.
+2. No mantener los tanques de almacenaje de GLP y Plantas de Engarrafado, despacho, los equipos e instalaciones mecánicas y eléctricas, vías de acceso, etc., en perfectas condiciones de conservación y limpieza.
+3. Incumplimiento en la renovación de las pólizas de seguro.
+4. Incumplimiento en la presentación de reportes mensuales sobre volúmenes de compra venta de GLP.
+     
+   En caso de reincidencia se aplicará una multa equivalente al doble de lo establecido anteriormente, por una nueva reincidencia, se procederá a la cancelación de la Licencia de operación, si ambas reincidencias ocurren en el transcurso de un año calendario.
+
+**Artículo 71°.-** La Superintendencia, sancionará con una multa de $us. 2.000.- (Dos mil 00/100 dólares americanos) en los siguientes casos:
+
+1. Suspender actividades de engarrafado de GLP, sin la autorización de la Superintendencia.
+2. Adulteración o cambio de las instalaciones establecidas y normadas en el Capítulo V del presente Reglamento.
+3. Alteración de la calidad y cantidad de GLP que se despacha.
+4. Violación de los Precintos de seguridad en los sistemas automáticos de control de peso y volumen.
+     
+   En caso de reincidencia se aplicará una multa al doble de lo anteriormente establecido, por una nueva reincidencia se procederá a la cancelación de la Licencia de operación, si ambas reincidencias ocurren en el transcurso de un año calendario. Acciones que además deberán enmarcarse a las Leyes Bolivianas.
+
+**Artículo 72°.-** Las sanciones o multas emergentes de infracciones al presente Reglamento, deberán ser depositadas en la Cuenta Bancaria en favor de la Superintendencia, dentro de las setenta y dos (72) horas de emitida la notificación respectiva.
+
+## Capítulo XV De las disposiciones transitorias
+
+**Artículo 73°.-** Las Plantas Engarrafadoras de GLP de propiedad de YPFB, deberán adecuarse a las disposiciones contenidas en el presente reglamento, en el plazo de un (1) año calendario a partir de la aprobación del presente Reglamento.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y sin Cartera Responsable de Desarrollo Económico, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Reglamento Anexo al [Decreto Supremo Nº 24721](https://www.lexivox.org//norms/BO-DS-24721.html) a los veintitrés días del mes de julio de mil novecientos noventa y siete años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA. Antonio Aranibar Quiroga. Victor Hugo Canelas Zannier. Alfonso Erwin Kreidler Guillaux. José Guillermo Justiniano Sandoval, MINISTRO DE LA PRESIDENCIA E INTERINO DE DESARROLLO SOSTENIBLE Y MEDIO AMBIENTE. René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Franklin Anaya Vásquez, Alberto Vargas Covarrubias. Mauricio Antezana Villegas, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.
+
+# Anexo Nº 1 Distancias minimas de seguridad de tanques de almacenaje de GLP
+
+## Cuadro Nº 301-1 Instalaciones Aéreas
+
+S: Desde Orificios SI: Desde paredes
+
+| Clasificación | A‑0 | A‑l | A‑2 | A‑3 | A‑4 | A‑5 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Volúmen M3 | v<5 | 5 10 20 100 >500 | | | | |
+| Distancia m. | S SI - | S SI | S SI | S SI | S SI | S SI |
+| Referencia I | - 0.60 | - 0.60 | - 1.00 | - 1.00 | - 1.00 | - 2.00 |
+| Referencia II | - 1.25 á | - 1.25 | - 1.25 | - 3.00 | - 5.00 | - 15.00 |
+| Referencia III | - 0.60 | - 0.60 | - 1.00 | - 5.00 | - 5.00 | - 10.00 |
+| Referencia IV | 3 2.00 | 5 3.00 | 7.5 5.00 | 10 7.50 | 15 10.00 | 30 20.00 |
+| Referencia V | 6 - | 10 - | 15.0 - | 20 - | 30 - | 60 - |
+| Referencia VI | - 3.00 | - 3.00 | - 3.00 | - 5.00 | - 3.00 | - 3.00 |
+|  |
+
+## Instalaciones Enterradas
+
+| Clasificación | E‑O | E‑l | E‑2 | E‑3 |
+| --- | --- | --- | --- | --- |
+| Volúmen v M3 | v<5 | 5 10 100 | | |
+| Distancias m.S | S | S | S | S |
+| Referencia I | 0.80 | 0.80 | 0.80 | 0.80 |
+| Referencia II | 1.50 | 2.50 | 5.00 | 7.50 |
+| Referencia III | 0.80 | 1.00 | 2.50 | 5.00 |
+| Referencia IV | 3.00 | 4.00 | 5.00 | 10.00 |
+| Referencia V | 6.00 | 8.00 | 10.00 | 20.00 |
+| Referencia VI | 3.00 | 3.00 | 3.00 | 3.00 |
+|  |
+
+Referencia I: Espacio libre de la proyección sobre el terreno del tanque.
+
+Referencia II: Distancia a los cercos.
+
+Referencia III: Distancias a muros o paredes ciegas.
+
+Referencia IV: Distancias a límites de propiedad, aberturas de inmuebles, puntos de ignición, motores a explosión, vías públicas férreas o fluviales, proyección de líneas aéreas de alta tensión, equipos eléctricos no proyegidos, sótanos, alcantarillas y desagües.
+
+Referencia V: Distancia a oficinas aberturas de uso docente, de uso sanitario, de hospedaje, de culto, de esparcimiento o espectáculo, de acuartelamiento, de centros comerciales, museos, bibliotecas o lugares de esposición públicos, estaciones de servicio de carburantes líquidos.
+
+Referencia VI: Distancia de la boca de carga a la cisterna de trasvase de GLP.
+
+# Anexo Nº 2 Tanques de almacenaje de gas licuado (GLP)
+
+1. La superficie estará limitada por las distancias de seguridad establecida en el ANEXO Nº 1, correspondientes a la Referencia IV y en función de la clasificación dada por las capacidades de almacenaje de los tanques disponibles de GLP (Figura Nº 302-1).
+
+2. Dos o más instalaciones serán clasificadas como una sola sí existiese solapamiento entre las superificies de las Tanques de Almacenaje de GLP consideradas independientemente.
+
+3. Las distancias se medirán a partir de los orificios (S) o de las paredes (SI) de los tanques, tal como se indica en la Figura 302-2.
+
+Se entenderá por orificios a cualquier abertura no cerrada por medio de tapones roscados o bridas ciegas, tales como válvulas de seguridad o boca de carga.
+
+![Figura 302-1](data:image/gif;base64,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)
+
+Figura 302-1
+
+![Figura 302-2](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAASgAAAEGCAMAAADhf/htAAAABGdBTUEAANkFq7XqlAAAAwBQTFRF/////v7+/f39/Pz8+/v7+vr6+fn5+Pj49/f39vb29fX19PT08/Pz8vLy8fHx8PDw7+/v7u7u7e3t7Ozs6+vr6urq6enp6Ojo5+fn5ubm5eXl5OTk4+Pj4uLi4eHh4ODg39/f3t7e3d3d3Nzc29vb2tra2dnZ2NjY19fX1tbW1dXV1NTU09PT0tLS0dHR0NDQz8/Pzs7Ozc3NzMzMy8vLysrKycnJyMjIx8fHxsbGxcXFxMTEw8PDwsLCwcHBwMDAv7+/vr6+vb29vLy8u7u7urq6ubm5uLi4t7e3tra2tbW1tLS0s7OzsrKysbGxsLCwr6+vrq6ura2trKysq6urqqqqqampqKiop6enpqampaWlpKSko6OjoqKioaGhoKCgn5+fnp6enZ2dnJycm5ubmpqamZmZmJiYl5eXlpaWlZWVlJSUk5OTkpKSkZGRkJCQj4+Pjo6OjY2NjIyMi4uLioqKiYmJiIiIh4eHhoaGhYWFhISEg4ODgoKCgYGBgICAf39/fn5+fX19fHx8e3t7enp6eXl5eHh4d3d3dnZ2dXV1dHR0c3NzcnJycXFxcHBwb29vbm5ubW1tbGxsa2trampqaWlpaGhoZ2dnZmZmZWVlZGRkY2NjYmJiYWFhYGBgX19fXl5eXV1dXFxcW1tbWlpaWVlZWFhYV1dXVlZWVVVVVFRUU1NTUlJSUVFRUFBQT09PTk5OTU1NTExMS0tLSkpKSUlJSEhIR0dHRkZGRUVFREREQ0NDQkJCQUFBQEBAPz8/Pj4+PT09PDw8Ozs7Ojo6OTk5ODg4Nzc3NjY2NTU1NDQ0MzMzMjIyMTExMDAwLy8vLi4uLS0tLCwsKysrKioqKSkpKCgoJycnJiYmJSUlJCQkIyMjIiIiISEhICAgHx8fHh4eHR0dHBwcGxsbGhoaGRkZGBgYFxcXFhYWFRUVFBQUExMTEhISEREREBAQDw8PDg4ODQ0NDAwMCwsLCgoKCQkJCAgIBwcHBgYGBQUFBAQEAwMDAgICAQEBAAAA7q7hlAAAAAlwSFlz//////////8Byk71FwAAIABJREFUeJzsnXkgVOv7wJ/ZMMOMGUMqVyREt31RKTcuFUposRa3Qispt4USsgzDYBSVFl1KlFLaF10lWzvlRtllX0KLFrfzOzNUtqmZm3K/9zefP84585z3PO97nvO8z7ucmXcAhAj5Ipj+LoAQIX0Mxd/FdMZmTwJouuAABi6SAPh1FICC9iwJIBNRn5fEiElJS0vTMeIyMqT+Lm0/IncipTz/D19QLyi1BdiG7AdMLgNCqhtf3ZTY4AFAfzgko7m45Nkt7eLKZ0+MO10pHZuUHq0BM3eFscMYxE9iBXsygDj3M57CCS1EbTyA7XKOgGQTMR8P8wOCAtj6hFlSqGQsanst1kgArCmdc7EeSMEYLwaDtQTkp6ICqRESC82mT9UYRBg5TZ4I/Yu1F7qJdR5RQQNWzP7xEOthV6FCJrByVrkDkLNUS10BLwZBmViwyRH7fJlGi4NTeIFOSJZfYPRu0Y9SsTRkD0BAAOd4LbIS3bq/pwK9BVkKMD6v6tiHZKmG7NTserO1yAMyULNlgPgUuQCgiZwCkHhUP+SpST5SU9V4CgKQBQCM64taW983vth/BqlpadL+wZbphuVWALW7JEhYDmxfowwI9vJho2LZ3BUOAIRTSucztu1zAd3HgcETsJ0u025AXWJipudIwHZqkzxvjq0fC2yOArBvrhkIcxvqqbDUzSYHhy8+S4DRHrLnh1PoouD/IOQSiCYPBL1qjVxT0KvKt4ANSI1Sxdg9KTKDaSLgV1SrD1suA1k6cTRhDbKIMO7uzR9rmO4sdwWIumK+5VA6BIdAqm+gh/sJwOBo99auRx9ylvKVyHV7zAEGu4X/5dfpstnPUUNJZ4c+zW1y/iTEHDeEbUkQyjXUlJht52H/sWw6uKrDSWPR57O5ac7VVhdTgHUK0sNEj8ricxfAirMw/GZgtMRfGx8P/Us3Nq2pLRUPhxjBuTAfdTZwVoDrHK+XbZr5A83SE/dAUG+7vON8CuLkyYZhD/5e//OLVQYPTjONk5XIK0tJcctQA2AWGQFMq6F/vsy0iYZuMt3lsYTPHqWRs9hhQcsYBtdQKnuGlk26rfmEhj/r45l2Da5vQmORmWosXUEDA6yzIFnp5k2xRXYG7mscQi4YsTsyTq1MtXQwO1DNagbAiUBIS7B8ggYxZ0U4iUYBkK0d/6Nt04X59rAkiRNkDDQd3dBaWGUOJq1N7xB7uNBU+9YadtyPyy1JX/I2Z1dlbKfL5r3fy4qo0j+4e75j6A7JdhnuTn707fr3B/0v0uXkJFZHwwEkWKyYtLElN+nwK7WpFWu0z7RopP2iuWyBFPMqwKja57S0B4z9uzJuq5dhPZEpoyqV67RCClcbq5nBqWAQT0Zq0KbBWQkM26xICreS+8M8n8HgAEPouFHOnoRGIqnBYnpTQUR2AupCIvJaY1xsQd6LOalzjBL33Ru+51dYmHA48erJge0yypERgJcY9fvcK8ejT4RbbYGRF0bivMi7f0NdyWEiLEs+HaULzJD956/Z66N+CkZRNN9x6P5Xv4lM0HOFodsltyjbXE29enY/zhet7soJMegTNB0E4Hoj7fqegT/ULj8EDA6Lx/Ui5nMogsH2EOEkxHpJKESIkP93iOyIvpSoCyJ2okr74xjy1nsDLR33msPMAAraP7BEE0xHN7RZS0eA2Gg05BBRMWCo0nTxjwowkjTuMQYwxE8xiShDBAxl8EQVTTKIDVIVATJ6CkPBqqr8JDdABCSIID/ZgqMKxCTRM2LS0rR/+9QKreGYb0zbb+IVgzfFeWQgscEpSGKsNZz+cBAIOWifAfxeiCx50dT6zlqnlgaEB8/RhnFlS8mLFoMOBQvbXtTGD8N4JmdmlXR0fET9Cl49NTZ9U1FX/cp8RkF1W5pFhSaAZBWrpL6stDUBl+qq3NT4+ukcNOl1xBBt5N5Vvdz/Lx+D0yuUAcyqlUsUItYB1YEOsmWy6DjNd1IdFfa6vJgGzKypr+zExVaxlJ/Rwezeo1CQfL8bRmd97GQlpxtYpRUp3HVy3exAbRf92mCjuGRXeBpgJaiklCDJkVcKX6F9SlrLtjwF1EURx4t+irXKuKVvp8OBvKQycfDdPGTO/Uv9ZgO+oJejZZcuUCuSHnGv7rEuelwijT5iBzi1CryVFpUM8MpeeIfbVEuXSMFFQ4WyAXC5PHTVMIkOBbEh6CZ+49npphYfW3nVxgj/KWBZyAhkgtZeGGKlq148GDXUc7uHu4J8mfUj/YPoFahnno0Xe2MHBdbAsABQrB/dLwbgF8kHA9A+c8mwhwNFsPgRjVpcQ1HyT3pevQ6MOZC+z+uRYTZaK0SJw56J2LwejIlzB6Ipu+DVtg4Fh0LRTVDUrb0HcpQ/Kp0XHv7Aw7GBFeKLHesI9khjWS3qbNR3gUUXGOf/1gI2S6QUfRzMW7OuyGCdHwMTNZRUo27/WIBPKEUMp9BqJ+KzqfGuo9d+MAMZ1FCbn4ccCH9pe9YSJK7VZhFvBElJXsidWUU+ipQUNt6RWacEYHW3o0d4CvUoas7aLNpnnUrT0F52LptjQaxI/Cwgral6bYDH/1yjX6AEhAw7CAshlsvDhEerElorn9e+UfNBDWVTIdkvBuAb1o0n51cA6bDi6Jzy/I0EIG0Sh01W6IlZJoFoZdB4fgXG5T2ryJ+mclW+YLaIhHSe8/GXqVdebum4PuB1WPTDM7TSSFbQQcd2kVpTtG9WqhuSmfukfLVNfWJWrUVUW2P523h6ngqAIbLI5wyxqSUfibF+OWfMjImZnl7pu0oQA14l7A/kvD02b/Ta5OVrsdr1d6fJM1xX2pvMM55taL3Q2GK+zVobnbkWFvMsLBcbTZ2hq686c6Gh1jTDsTIy8sbTVQb/NFxxKIUqSVGSp+rtOTwHR6NJkiUpmNFB4QeXAX6Vd3AQ26Z9KAkzjxzwGSKzmhkREWEMw7wYo/DEGf5MKzGiKo1OJ9sNN7OlbDmwbylRRRtECfiBw/TDwyL0UIU0KSkamUIh4cVEsQRqf3YYxO1MNMZbTrNykp+zcfnvaprubluMrLVM121Yu3y7u/tWx2WLXXd4enl5eDK37z4SxfAO/uNoQvJfJZdTbt2oLCstLywtKSktLCrOv3c/7mRpc9Gd8uY7J48eC9/mxXRdvzXA7dy5bXEPEhIeJeacu1h6XfJg+rmTedcj7/51t7rgSWbZo4eFT+prq+sLC0uLyh7dupZdcu1aZvnTosqKlOPxt/Kr37x82dLc1PqhpfpRTUl2UY1sPxrqH4ATo9GJJAqJLk2nS6PIDER39KGTlFUWTJLTdtRXmGykN3yyvtFvi8znWFjNWvv7ivXmI7V1pqorisjKyA7/SVVOTWemjr7e9Nmzf9vgOGX8aK0JAzTGDZQbqCC3aKy0+hRNDa1fdW0X2yzScLA2NzWat93PYb07Y7unt1Uvw2whQoQIESJEiBAhQoQIESJEiBAhQoQIESJEiBAhQoQIESJEiBAhQjqB+7d/y/lfAs5Ppr+L8L8B9rBcfxfhfwTnof1dgv8Rtij2dwn6BFLPH771Mf8Nj8IdHPS9s1j/3zBU3HcPtTsUvncOPwJcvOL3zmKz0KP44z8SoxKG94keginP3845/ScMhT09rU/00AuleZ36fUyf5NDPYE9P7RM91EcDeJ2yH9UnOfQ3GTv6RI3UE56G+sGDYqzI99FrptYnashZPH+v84MN9Yv799FLFf96Gj6g3OPpUfMn90kO/GK25/votZ7UJ2p+aZvD65QU/3WB8gf1m0ti4ff1NP+EMOs+UeOBePA6tXA231q4v+L+Riy9vllFr5zb3idqbHn/bNV3Ld9a+sRQPt+soldOruoTNRqvp/A6tcWEby08DEX3FWCVP4sg/tMKwtnVfaJmYBlPX3DhPwcehtJuoPcm7p2FJ/lPKwhxa/pEzRcqjTX/UZCHlp9rBvNfEpMMAv+JBeBE2jcvT0X0D2PtaYkMCQ4ODQ5lhzthAVRDw9js0NAQFoux+UYu30uo0CtUehOrVwkQuhYk8Z9WAH6Kr+CuiPktixKLsWPjD9fuDT92MvLEoZDYo+gTVYvaFR4ReSAm8eqfdQVFfPuDVMOM3sTqlQJUvRkPyfwn5puRNyvrXkf3waI5tDweL6VWNiUil3l2RrtBsOtVy7R6Kf5LghH9ehpBIbg02rK3/pT7eNw3q5J41Gv/m3Qlc/JcV9vXu75pADa+RgCPovX98hqDMlOHgucSwLOQrYLfiIy3Z+fn7KrUSxrthl14sPQE47cP+BpSirr0OoOv0jCS/3JNypH4eiJBwK4oj0W9lMgxkVVVusBzIX41b7YCGF47GOXA+YjvGeREnJrXo7vJuqjDRTf4Ub6uU4Q5rDexO+LGf7mw5L4dhJtkhE3k7JdwJ+7El51L4dlj5KEgM4uzpnHeM5+8Jb69OeSgFH/ubRvYcrbjIlLXfbV9FWFr9ib2RibwXy7F43w8Eb7B7/3bov3o4+q05CPvnQXqgNh+qNsAMHd5lPzceQE9AygOI97R1E/oWL9X4dHTXtu0TtBeL+5N7IMIsPzR+Ge0ryfil4mPMz6ucKX/aciq/06gHgiGQuEatqPOmXcd+momKve4QvwksuHLOiUr9XsTC2QoxcffPgPxEbu3/p9cYDf7k5iemvTPm9brXYZYo2qCPkUKC9dP4rkNTui206LdnCMMmSROIuA5ri1VzZ2YxlFFsAQciUgUba/S3gIYijC+WJnUN2vZ4MNzOjXl7M+GAvGbT7X+qdb0wE4fDMvNP3+w7jTZLH07HvNLXnL88d2RoQHs4NDU3XiY09bc3FhckJF6OzbmTcypOwzYiOTfKLhfV1NbVXk59erxmNvI1RC+wgJ+XGRZ3ftnVRmevTYKgiGTmdzZbzobCvA+bZv/4Uipk2fCmg+d7NR1gmj4jVw7t4CQYHaw0ya2b2iYMxbGBzD8/AICfnMKDg6pvbWFuRzU13r6eGx29/ZjMFhBQcGBR19FumCsZn11Ulkn7Xm81ZiSUQY73yGB3+pVJk9iukz+djEUwMyCdEH76XQLHa3R4y5Fz9+8dpMXcwJgEx7aLvcL8nJatm6zs7Ob96Vbnd+I4Ta93sxb1/mosxN7So2a0R7beX9cUuKVL8xEECKQ7WgXStyRiAY7p+Y/v6mPS7lYZNxFoHzvoWOXDprE2Rb+54+4aDdWVd1JeVPf9OF942NkmdKRC/QJdx7kNuQlnYk+c/hJdlJ9WZcQo5N3mueQ5uiS7S094znXUIfdNzTWp9TxbNJEL7zjzkZvuhzI6RMOeyrwE/8M1r4qotuIkZl+pH5E10Qur3vtFvFGkkoj4jPYQKVJYMDyPef/JrAYLAlVgpVXTtyhu/PhBr9ty1e4mcxxdHG0m63uUFTtYr100WwHc52f9Yx17f0ZPtuZQSGs0LBd6FNc/GLpvBVL5k5QmjpzIqflFDGds7RxotLgFEfriNujknmNeMmpz7mLxMrcY9T5cg7ks/NH8Ej7NVQynvdwlpDzkRXdV0uXS00TOAtSY/uc/urHsz4LjUrLrxZcW5lZmVdSWtf6oaX5/d8vym/XtFZcyWtouHyiqrWhsqGh+t275oanOdePJu0LSEZmAT6kvO1G9cuy8obc+9fRaEp92lrTVlxRuwz1di0ir0eoUHCjPfKqxkMSi3skloBYCnobXKybk7q9miLY5udcvFhdbN/ty2SYVS/ZAr7FkkSY6HZI4alOM0cGbZZEPCmhpcUUCKJkKlVKikqliItK0dC67lA7F4hSUnRURCOjvYOOBd/X56HdapkSRyDT6HRxEjcokMXMmhQkpb4YyKcWx3DvQdLnZUvJh5vtbR7e7ZUAPfqPDGC+sO8uO4GsRx+D2Bpkf/czo3JTBRsIyCGov5sXsTuNUkSfcWwHOE6F7MmyZ6t6aZdob+zQrW4uo8tox6xV/su5j3jvz93L32ncoUCdfrnVqV2++E+Bv6vjkmjbfU4He+4Smr/9OrTNzjrd/QuKImse7xRkFE66uUPz3sEu/6ExqXEId4/rvcOh5PMHvodwzSvuwstS7tmrOl3liHz5X0zmZ7TXd5X8be1Xjc441H5DVg+ZAk3gDria081MWFGQrVJHD0I53jS5lg7dTaWaVSJI7zMg44J5V4l/QvvehNf7IxG91d0zDTqU3e48pm3XPlvKE/nSa3K8F9KR8ynOGIy0Hm1jVV7otIs0a28I0DIZlsd1DzlbWv4qaKQC1r8094gBUOtiLhTGdXvyuJ0Ik//XRKy/x3b6pPpnckDu/aCwi9omRsvKg8PDQkPDmIqumjqRIUwWM2DnvCkG4OediRzbytAwMKIFhgWzWKzgIJ+79+qPBu3WQzWMy6n4+aM2b+Q874xFTr2di4ZVEhbwtzkNrkLddNR4BUEgKcmp2wp3S/hdxZTo8bZHdAKdEPfD99AApXP7PlsfxMsOu4Vs6lFFZtfc5fNLYKSoG11m5gb5h3jcuevPjpisO92uNJi9M2pf+NH/Y+86wJpI9vgmlISWjgqKFHvv+hT1RBA9VATFepbzRO9sZwMVUSE06QQwIIieoIKIIL1jBxEUREQRpUMo0ot09iUbVDbZhMXDO/C9H99HsjOT2c1k5j//PjODtHc/vfE8IjPn1XHNtYB7pKvD7Q5w1cbtSgnXfUPCQm/Hx+VlNGV4PIIoDD4I1O3pbfrrYwLvLPM0kzMQo3Mzn6a2pC4FrMDOzqMAcKvt/ScQEj/xd8rReTbNS38wE7FC9j1nOTq7c+6WPR+xCT4O1EZzj7kvYvh3yTN+3Nct1r0KOXRdpBdtWl75qLdq1MEr34qTOxhqegw07Fma1wU6NsxkcZcobr+TjQv4cBywkNFwhb3sAhJ3HLXjJvHGeoDrUXyH3R1nBUg91ErO6KzZCPSwvkjAnQH9+9YoaFUhOUYML+SyCjr+wj47OvltLz7d7EpdL4q2urNHDokU5MSl2eX59fFEcy4APbZBGda2Xq32gAbCHoEDqbgaLYGV/tc/v/O6K7CRamb9GuH3kPTq2IBUTqrn0tiVbkI/LjK2/NSXKXb0bqt5rzqlF0nQODw25/sYhO0gzLiqX0xlS2muJDYLlwPbsnVAa+FxByuaEoTY1BRbzLk/xybwhOBWki4dZ4RpFJTS0wUYDjwTOXNZ5Mq7m8KP3tpa+5g6wZ3JWeS0D/Uw9bjE08fsb4jL+RPxg9af4L8hNi2Gu3o0GuPhLbXqgoWwCXjHxmNClA0TX0XF19kt32hZVuD0UZirxqo2IR4vc1JuCdoaRxQ+0V6vahCq3nCRNoImrzxbVZ4mT6UqTJJXHEWlyinQFGQpclQyWUzx5T3mi+haRalhBjmm1rA+cAnReECi8gJC9zivtzwadp2y4rKV0lKU0+1BWTfgVRNKBbMJ+AepSoK/ICDyyBkrfqS8Hcy2HAOo1woLLxidcUmQRLOrW/CGBCj7NjVVgxaAGVhcWFhcUlFVzGLlFxRXVlSUFRYUFZfW1NXUVDc0FBd8BGtnkCq6GhpYC03D4X2MyE7BAZf0+TsnxhVM4SlpOEBwrfpYWfl8J6DStRteKZUjyHljdvJFoesSGwz52jl+5MgqVNZ4YW2JiVWIZkWMYTMiefpST6KIH3QDbliIUmWHUykU2UlKFBpVccpElWE06rCxCzTVFy/VWTdqiqrCDir+0bEty0SB3214+hBPTJfj44bZiEjl3WVo+WzxnrC2hqPRInUZ8vYT5cr7ASwgjgXW1RlCR/kAIiIYLLsIw9VPc/56BNCgpZz/ZiGc/7LFCDOql4gmYlz/K8JA7E/rW5Za6KHkj/RZOAxWS3J2K9qkmXyee6Juz/mZF6zxbT4BSDabs3cPgzxiCI18M31CRyycTmncux8bfL8x1OT69YS46IjwgOjQh/7RYffCEkJjQsKjIkIjA2OiIyKCMx/d9I+MToiPC4+9Hf4pJCwxPiIhND40MDowJCYiPDQqNi46ISo49NbdkHu+bpYvwcwAF+9wv5uQdwDxos9lJ/rdRg8Pz0se0fG2Xn6hd7093Zwdne3O2LlfZHpa+F8NdL8e4OngGZDmmhPlZOPk4WZjbWFNN7czczC9YG5ubW9mfYFuTbexPG1qfd4gLtC2xuqQ2c0wpq+vqYmpidWpQydO7Dt//JCumtoiyzwjhS0njf6EZMfJZsZr92+9VrxsyRpVjYUjJ+5Zt2jbkv/Iymtu0C6fpbJex+aV/kTVWbQEutK0caOVd+ktnDVHljBpqgJJatKl17MliGz0nOXkebpw34vD+RNNzqeeYR2oNblw2S7W7OVfzw5W3m0xqT1adj/evTIqKdXd7pF/eYVLQYtrRft1u5aVVZEVUcyPAXX1rICa5PQyMK/aoKigLPxdWXm9eSorIDWppNG8KKzVjDt//apeFDYm3LudfO+5a8e1OtfWJ6nhmS+TCrMSIlMSC8pTSxOabTNSaxobX9Wa3MhKSixLK0lpyWh80dYc3RzakVvTkB7e9PJV8/v2lBwQzG0B37DKm1605+Z3v4nI/QiCYANYUgV2s980FnQlNXZ3t7Wz30MS31YQ7O4AwdZmsB5Me/Outqq9paWttb7+U2fnp9YmEGy6VdACttU1dXS3N3W1dLR1drQ1VX9qa/70sYzV0drQ1lTXWQBp/zDSIjKAkt40QIU6XWyMpKY0DicFaK2aoSImp7VGwUB5y4azK7RUp68ZN3+sntEKpZNhlF/GjFdfLXdaZvmuKREKdFfmylWLl57ZMW3fsP16er+t+dk5krj/p+17mT95jjxB+Gzd0Fyoujd79IZUuTFTZ+qM9aMwiOtmxqovUTuzwEZJf9+ZbUzlZbjIpcZ6+r8sPxd6irRNY+3Ko05aK5bdM9W1n/BglrbeFEMX7RVmszInG5sHq+W80A+ft0P77mhG2BLW6of3T16f67jAZ9fb1ft2b3a9YZwec+WOjm7cNWgLP5ZpHL/0U/bTmwlj8rSf736jeuCP19a5Gba5fz7dyTgbkL22bvOdx1c1liTlBRx99IRu9KL0Sf2p1LTqV5eKfksAm5+VNSb2UsufzhXMT8MPO9z/sHcVewsVhTFNWAwgju+p0lkL62dsHhkgQpMYy70Zjn2Bw34mhmwmiHuj2Xlci6Q4h6hI4LFYUai5JKdbDAEQw4pK0MSxkhgAJ3vYLXa0KyAtieHYW7BY6LhnOSmKNDD/IABQuHdZqoGjAufS5XA4QEaEwPE0kPiJvHCqvDaGOJskIkagFcgCEmyORRwnDsgoABjcf8bqYkkLVmOp+8UUfPVxcpt7UzyrRrQayvOvUNt1eAw2S8vQ2a4Vi9E67dDSrj4cl4ykBuO1FR+5j9CIzOIMQY97o66WCAJ/d4fXVG1YhtYEsXATyobsgXKBXc4sRefeJSfYD5YH1NRrUZR0JKuwYRfcTj4nAEFrSq3kMDw9A+XpDiDIE7d5hcbdNWg1uXIbUTZkSwzw4Am5RHQq0GGFqAfq+bUwUh5S65Nt8OFb9QRhFKjlnMPR8PrQHGF4It3Bg8FTcKQDraeCilCOEQYnnhmVhc5ZUvYD2qVHTfN+M/ED0jw1aocP1MTHCOuKWgax6rJQlTOiKM5DPQBgQ+MA+r58uctF2KXyG3T3kETtLkfNPnVODnH+HW6Er5CRTxFWDK2Iw/7KFO7hXDCuId3BjXegdjegnVEjtqFOfGADly5EUN5CygDtxkJKVwHIZ5FUFaeq4H1gpBBoFK0Y0rcrQxNd/yx/AwCw5RWQlJEUk5ONzKfwFapVI0z1xReQNJ48PhIYBHEcQ6Tx8SWyLqg179gFZ5DNd6afUCxzkU2cRtJPEb32uBBD44IiUwiCTL5SzVr+gZrSAtYgKMvHL4ddqqTy70/6Xa3evGVYpIebGxG/B6F4pCaW60BNOOt/FFjwJTBc3QHOxGDGc3+lEWdtdIFFsGUo/lyP80KGbJ8S0xbJkHr5PFN5VwEewfIg6pvRbcRXuj6T//dWZpaBCFpq+xDY5aJcfjqxpRXk3VcAxXSENbqtDbzCVyjps0JBDpJsgUWdYCou5osaijf+VTZPCXo1AEEXYm6P5kPmMvTL3YQUq2ZQ9+7gq9+PVX1llex4Z8oOhIAQsbiSdv7Alw3hfEXA1PdgO4LJkYc+jkzhXw5HqkBT3rKJSHEHOx/kpPARR3Lx2+gJXPZ0Yk1s8fCsL9YjtRQ4jaIVcieeXs3rONLLnjD4Hg7qMeTSxoBm9u7Iur2nyr8qDZi8xHzpM06lpCyFRKKQyWQCgUQiS0nIU0XEPosY7J9opIw4BlCHvpisLhnf67lnGMLjQsdAG5e5A6xQPpvMIUow1cX404d6TR8MgcSuVc6H5og4bFyWeDOX9b4W49RSP1j5K3B3vRlF729LJOz97MeoXQPfYT9HF/1RVxwj+bbH4apn9MIhZ5Y/ojj/DUubNhvUfp1R3rzznVwZHXTP931XTQOrpK6pLaMY7O5uepaX+qwwK+Pxswd3/MOLH4a2F773M7uU7OzondDc3VibFPcw3j/40d0r7gzr81YMhjPj4sNoX18n7zjm865ELzo9C66QpZR7GNv6NT62YTg4M7wuOzja2TBsjc87ODvaOzo4sD/vwKxqy4+2diqwNXP2cHp9mW68x/KCja2VhcXRQzs1lszWXTJbU0dt7px5Wkcn0/1NT8yb6rPVg/ZSmbL4oLvhpFnypBHD5Im7wi1WS+M3J8BpFK1wAmGU+jFt8tjxNILqWCldI/mRBLmXkD0nClJcL4qjSkurbdimJjrDkLNFKpupsl/4+Chanpud6/1PIfN3qU3R+2WH4pqzZ0/Q6ebHbaxtbO1trJ1sjGztLN92tpa/uefkHJ2Z8bHa0cLO3p5x0cHekeHs7OzifvOKE4PJZEQGezLsbZLAdhDMqoHbxinlEQ0gCD519Y72cWEG+oc8yfJ1DfZ2vhr0MCQm6tq1AJ+77W0VrI4vtOqnAAAO+klEQVSahletneyGtc1Fxa2V79OqQbCzvS01IaC0tqK2oaayorKuM68JBLvry5+aeRIrSovbQLCrIDu/IC+vqKiOo2ppBHm2CFJdJ6fLhvy80rL8/JKyLvYF2FIBzWZfyDdkdD2nqPNuWk1dYd6b5MQcsLslhlFlyTNQc2I4NEpGuIOCBIUowVF9AlgRaaJQr5pRs6VpBF6pYBKLiqOQd/QKecDydjJVXhqPn/qCJEEcMePcdBxeShovCkgQiSQyGSeKIVCpVDKFSqWQSRJGrlunjJUlbveVK5o0bBfd24ZCokFQu0Wnb1p/ksc2SCk/fMTCnKlHVZg7hzRx2oS4+2bmZs5cYngR+j1XttiZmV5/9qu+naWVtY2dRVxTVkp6SL0rzxPqRAgdol5Yloyay7GH24CUS9CJJqhio6AxJsQfcZyBGCCk/gC+OfFGQOI41ZhwaAeyg7TlOhwntF4aJRxFXAQLePI6OCmvA1BiOPpgJLsk+CdRCrvTn6DlzCmlboYqRUiCkU4BXACnZCFFF7lDwSTXIJeDyYgmtku8NAo9qD6ofetsM2BLS/ENOjULht8NSgDIuQ5Gi2q+9ir25X68GggMYmTQPGj0bjhxyMlMZyQ9m58dQiE6DEcfQb9QA3aJ/LD8kEbtnYsZbeAxyuwrYSV9WW/9ifM/sBEKO0F8ONK3ewqPyutHdOU3YbMx+rZbLiOXy2ejf8rvlAqGlv/3czIIx1ZT9G1/f4SsmBb994+0VkwamCw2grGJ12YLA1wlIT7A0ZsDCKV3Axe1hYyNQlxlvttCGXig12h/K1Zq9N1mCGAg8sYIhx6yc9NQw/DwfiSI+SZo/xgDJfodSRRWhrb4wI5duktmTx5G+f5JiYckMNTFJq4p9W9yKyuSworfs8qrWAnOuvj/DxYMGNpvt97mXTU5f2y4tLQMHkckUqeo7nNILS1NXjEA6U1+FGBXRxTHGil+MSjN+BypiJFcb5Va8tda1LLfDw3JfcllzAm9+WuN3kGCYj8zi7P0/z+tyPrxWfo8rL4Wj6cq4dfool3/28Rq8vmgS+p8pQgijHaI49YBCLgfoiB65Z5GsueuQ3KwJhmUWg9eue67QvSGgHBLxIECgHkpEUNGzhtIyD0WJPtqC3DZF7sZ9D9I1OVTggTt+usFZa6RCssSGgbwI0IzW1dg3RaBMWA4pzrBsV8/JLaVI6Yz4kJHSLTM3ibBA/wDQr9OU0jtOmGKuy3VaKIzfxDsebtUWPXPQrMRr+0amPTXQwAatcJVmGLCY23XNC0bwIcZxJha/TcJ8paa+QRZAoEqKSlBotJoVNLA5BMbbJCM39dHC1JfLu/6Hwufp6RXpiamVJaXFJfWpfjpj/nhNAwizCt98dcafeajmjyBOG7UzHmT5q+YpqSgvPG8VWC49/Gfv4MD+L8I/++Tj150xK7Ad6bfIzvyv4S1iCE+cJC/0Wa//G3uD8OO4tL0+m60o4/kmwIhtr/i8A9C2NfcQdFoi1CTulCsqA7pu9FQgDWanNKCtAdoMAt06LvR4MfIMDS5mbZ/+4wiBD5L+hHoFB3VXNH7VhoFqJU/wajm9CPp+yDFiBxUXkv9W3ri0qI96SAkj9S8VQGAWKSo2KGFvXzxQYjo10AtSKrbq/Ub9PYA2MxJfjOjuY9sQ4Me4mHTUbVb3x8adQQE9Y0hX8YFT9q54c4Hc4e4FWIdyi8wrz9pQ8fkgPpHDrPfqJcZ9DjjSbL+xrY5GODkiK4dtj9J0mf6hi5bsR4Q2ZvyVULczEI8VmeogPRkFLqGqtv6bsPjoih242XvFKVR3+ncrn8G09AeIUlE59Hbe6S8CmDyoXridzrX8x/BFd5AJUEQ7ff5BCZJ8DzPMrnCM7sOaki+R5uCQwv9QYRcaAbwupUmf3tkxr8O2Uy0Po3r+sztCMeC13wRT5d9+tfFYIJ8ENrDGXT7t7vPzeHfTS1T+9XFoMI6/oB3AVjUrzMhh1fz5nBg4z9//xDAfw0OKA5vlT5ON6Wfs7pt7GBubOtm7ujqcfUq055uepZ+7pzJeZNz9rZnjU7RzSwcfG4EeLn63Ap+HHg8mIGUx6dkAn/hEIENingEekvU7euBnwq9PAJSQtw8w4KuOrm6u/jEJMc+fBAQHR77LuV+SbOvy+WHbgxH95uBf924YpXSipQViVi3c8C/wD8EjEPfxzASoON4yA2c/LWwcGNO5kbOqygGwBPgE2hOJdJRhNhnQ1aKkQnrW0209i3k/7SX3p/IoHumSKVhCIRraGDYq765A7s/oJe1QqOrePFrBhIX7oNSrhxMECGSpLDA6EwSXkacPVWwBCK+56thCDJSEgS8pJgUJ5WK6PA0BQyeiAc2XZES6TGmcKLG+WL+4UAOYvLiy/gy+KHW1V2bkZ7L8sxrDaSeAHTKPnx45eLvd9FytER6bVVhSW5lXqaiCx6IZTWWvGaBrEd5Ga/fpEU+iAt0n77p4iqfJ6FBwYF+kfbA7i0uwTcuXk3wdr+prrnTlOnEYDg6OLk1+m3dQV55h+HqzLC3sR6vJjrOxpqe/tzU+oKFha2ttbXr9SGiRVc5d/Kcuekvh2avP7VdXAWQWzln3z6NA0Y7NKmA5h9GR3QO/re9c4+GMo3j+DOM8TJD7rvr7No2Vpfds512a7so3U5ilxOpRXYLCRVKJFuK3GYwRmV0UJHOQS5dhIahQtiwsVltlsqtdKTjMjbbptPsUOxc3nfmNRvNO97PH6/jeWae85znzPvcfr/f93fosIfqUhKwONTuuYca9vOvw51ZgYGxUfRYpvEaN4tEOoNHLNMNeNkfTUxgJpzMzMhcZe528ERK8plsNiPt5WU7HwObqgsXMs6zu+8u9iYuaH/W2Mxtb386zK25/bClsH2iR6L3ilaFxDlKiTUiDLqYQ/WdyKl4zhO+ywbl0VeWBIHYFN5TfYYigUgE2PLfUGNJXvWovIllVd9+iwlkOuWtkS/gnDOElC0xBClFcpJm38dKao2pYHOCxE/y4f8Q7vd3XFRKDStEmkj8CKXK+WIWAPZImSVgSYcVBWFILxXyvokQ0R0XxZT7mhEckVt+lOppGUSlMWjhtIggWjQthBoRHuLrFxx2NOCgY+DhkNAj+11dHGx/sjDbTf8L9o4uFrOvHnCFS4MgxBb2sY7u279zWv7uqB8cas9ue9HZ0nurpr51cHBgsLeXM9jf1/+kb4AzONDX1cwZft7f/7oV3oiH3TkKWN2SeI/tnKYMIGXwuQmgqEIUsjIgUUhKZN5Bj0TmQaGMPMhqlNF/yCAynqClpYnQqIiSGHYYE99GZkfBhDQ6QsX5rWB4oFSuS0jy53hRjHAoDAxxC1sxhg1WgWKSxfBOdU5xY6FTECpXTGLjdeRKzaFtqPslc8zMEndp7po3PjzL3NE0R+krR65cAKvnhhF0OsTk3FlS/J8Fk4DOD7NYWKePjwhMu/7kOomWmaVmLOf9geL4kj3ORsz5JkBQMmIVuU269LAyggPMTqqI27GE9yecf5HaiM6NancWYpUlUlY7bKBzRzTX69q8u7zfknMW/3nNGt3t5PYwQHbdoqwEE+hfnidlF2WEcyJuGsTEukd2YMN5A/5CW5rwx2DxjwShXO6+TNGpf/NL1Br7som+aIJeSFcbmN5bJVBmi86Csj0UeA0Nrq1zFq5QqEuUsoMyQxqcHuJHv60XLKCgE6j6NgI4VL72OvmjcEVwGZadfkZxhMmUQUlDn2hGAAM6WH2z2fiYsHC+9auV0jUoS4SI+AySTklrqtQPAEARAspCk/nMPicpG5QlzJlCBRo0OxFrFFlCIvS3WBXA3QEbsjG9hRqDVC8YOa1SAuOvae6Pqq0o7kKRMiXvQZG5HZtsZPGfeEkR4TAmEmt0IR4pDSI7KKNKVKmYMUE8/7Z7ZxKcKclyL6qW6ML50tUDX1Wgid7CBroN/+W+cr8EuxGYKyk6+w2hAgMFzU8b/sNanuSArNre+v8Q/MLhw9G/8ULV0NaxvQZF84tdST0D+e6TLRA6xXg/eHNincdFcFZcIzEWZmt26pnIlLa4+AslrIKynt6n/1z3MJD0JcxBuJY7MjMRi1lwLmA8TJDvT97w/UByTEw0LfwEk0GPjIncZaKvLk/v3DgqpZd5I5XDRrqEnHNevPLf8n77d98pmQQqyQE+eYh6DrPEr3orOQfeeY9kFYh1PwNZhe0rsaveojsoLKlyg2puKbKpZXaAmG+aNaMwzcsRhBV0KpIXlGEw4tf0Tl9dPSn9kWFmXE1A2PfoXEGKFP2u65wcya+gRSG9ZClshWY1wnpoU4c+o608oXjgyUG43472NbhgBEDcW2M0yT2SWWZdanYQnakgOFVg4payK5JjH+QXq/I2FxSGYYJVZc266S1ArbihqCBAX+C2Rf2QUAyZpieLLW8nXikgrDvbVOXCNw46N/nmKEU1+9TWq5vkRBbq//KhX04p4/A8dcro2VbrxpjLGaRhU9haGbVILo+80qHwiX96/b3utCMhTl8vr55l9OmXPn6h+Q1NOQGG2I3lnCzIui6xMUnsptTOS4WZGXeTo+lmmmjjkKchBJUP/vyYBCniQySRyc+OJSfgA4USfKBQgg8USvCBQol2F3bVHaYU7WeSI9ZwwFRkGZUTdBsxHHYwlaBNJY6Dg4ODg4ODg4ODg4ODg4ODg4MzCShoaGurECEAVGeMJEglEAGFOOIspiTolqFMUuCVQhPOLyA/7OQ0cfbsTgdWbT2hjkeAZ+S6R5msvSRwVkDeHqqu/YUBbO9XmYNN1Yzx0KA57Jz5U9/l90PYUFmFOrVQr8c1vsgjDERk2gwkxg6YGjc0COg77HjGTfqsf5ffY8OKsOfjiTGZUQ3TJoIhrD+JDqJSZ3YRPZq8Q8C2U6qdN4bY4HhtiYDqilIcO35FrTK47KgV9GA1ALrUxPUAaLlVoEj+KB9En+I96Ckg91r+nbUtzKZNrpXArmFNZ3pRD78GzemcEx1Gnd6+3Xrx+cs0ANAvuvHDyHu7FWU+HuyjN5f3MF4FIJ8gI2CdvA8YWgCi+0JTAEz43c/nMUsdgGVThinwzK0dDw61TMuWmzjrd4rSiAlLUYVvQcRtWjg404B/AUCw7UNiNPP6AAAAAElFTkSuQmCC)
+
+Figura 302-2
+
+# Anexo Nº 3 Utilizacion de muros o pantallas en instalaciones de tanques de GLP
+
+Las distancias de seguridad establecidas en el cuadro 301‑1 del ANEXO Nº 1, tanto para tanques aéreos como enterrados, para los lugares indicados como Referencia V, pueden reducirse con la utilización de muros o pantallas, según los siguientes criterios:
+
+1. El muro deberá ser recto, sin ninguna abertura y construido de hormigón armado de 0.20 metros de espesor y con una resistencia mínima al fuego de tres (3) horas.
+
+2. No se permitirá la utilización de mas de dos (2) muros.
+
+3. La altura mínima del muro quedará determinada por la hipotenusa del triángulo rectángulo que se forma al unir las tres puntas que se indican a continuación: (ver Figura 303‑1).
+
+Punto A.‑ Un metro por encima del orificio más alto.
+
+Punto B.‑ La proyección de dicho orificio sobre el suelo.
+
+Punto C.‑ El límite de las distancias (s) correspondiente al punto P, indicada en el cuadro de distancias número 301‑1 del ANEXO Nº 1.
+
+Punto P.‑ Punto cuya situación se desea proteger.
+
+El mínimo de la altura en cualquier caso será de 1.50 metros.
+
+4. La longitud del nuevo muro deberá ser tal que, el recorrido horizontal de una eventual fuga de gas, no sea más corto que la distancia indicada en el Cuadro de Distancia de Seguridad (Ver Figura 302‑2), o sea:
+
+d1 + d2 > S
+
+BP > S / 2
+
+![Figura 303-1](data:image/gif;base64,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)
+
+Figura 303-1
+
+![Figura 303-2](data:image/gif;base64,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)
+
+Figura 303-4
+
+# Anexo Nº 4 Especificaciones y caracteristicas de los tanques de almacenaje de GLP
+
+1. Tanques de Almacenaje
+
+1.1 Los Tanques de Almacenaje de GLP deberán ser aptos para operar a una presión de 20 bar y a una presión de prueba de 26 bar.
+
+1.2 Deberán responder a las exigencias del Código A.S.M.E. Sección VIII, División I.
+
+1.3 Deberán llevar en la placa de identificación la siguiente información:
+
+a) Superficie exterior en metros cuadrados.
+
+b) El volúmen geométrico en metros cúbicos.
+
+c) Presión de trabajo.
+
+d) Presión de prueba.
+
+1.4 El montaje de los tanques se hará de tal forma que evite la concentración de cargas excesivas en los apoyos o soportes, los que deberán ser de hormigón armado.
+
+1.5 El montaje sobre los soportes deberá permitir la libre expansión y contracción del tanque y sus conexiones.
+
+1.6 Los tanques para su funcionamiento deberán estar provistos como mínimo de los siguientes elementos:
+
+1.6.1 Dispositivo de llenado de doble cierre. Uno de los cuales será de retención (check) y estará situado siempre en el interior del tanque y el otro podrá ser manual, telecomandado o también de retención.
+
+1.6.2 Indicador de nivel de medida continúa y lectura directa.
+
+1.6.3 Indicador de nivel máximo de llenado. El grado de llenado en los tanques no excederá del 85% (ochenta y cinco por ciento) de su volúmen, considerando la masa especifica del producto líquido almacenado a 201C.
+
+1.6.4 Maxímetro.
+
+1.6.5 Válvula de seguridad de exceso de presión conectada a la fase gaseosa del tanque.
+
+1.6.6 Dos dispositivos destinados a la salida del GLP. Uno en fase líquida y otro en gaseosa. Cada uno de ellos deberá estar dotado con un doble sistema de cierre; uno automático por exceso de flujo o telecomando u otro manual. En la toma de la fase líquida, el de cierre automático o telecomando deberá estar necesariamente en el interior del tanque. En el caso de la no utilización de alguna de las fases, se podrá prescindir del segundo cierre situado en el exterior del tanque, pero en todo caso, se protegerá e cierre con un tapón roscado a brida ciega.
+
+1.6.7 Borne de toma de tierra.
+
+1.6.8 Drenaje situado en uno de los extrenos de las generatriz inferior, que en los de superficie etará dotado de una válvula interior de corte automático por exceso de flujo y de un tapón roscado de protección del mismo material que la válvula. Se ubicará una distancia mínima de 0,50 metros al suelo en los tanques de hasta 20 metros cúbicos y de 0.80 metros en los mayores. En los tanques enterrados este drenaje quedará cerrado por medio de un tapón roscado de acero.
+
+1.7 Para el fácil desplazamiento de los equipos de extinción deberán dejarse libres alrededor de la proyección sobre el terreno de los tanques y dentro del cerco, los espacios señalados en la Referencia I del Cuadro 301-1 de Distancia de Seguridad del ANEXO Nº 1.
+
+1.8 Tanto la superficie de terreno en la zona de ubicación de los tanques como el espacio libre indicado en 1.7, serán horizontales.
+
+1.9 Se rodeará el emplazamiento de los tanques y equipos por medio de una cerca de 2.00 metros de altura como mínimo y a una distancia de los tanques indicada en el Cuadro 301-1 del ANEXO Nº 1, Referencia II; que podrá ser de malla metálica o de cualquier otro material análogo incombustible, que permita una buena ventilación e impida el acceso de personas ajenas a los responsables de la operación. en caso de que este cerco está provisto de zócalo, su altura no podrá ser mayor a 0.30 metros. Las puertas del cerco se abrirán hacia el exterior y serán igual incombustible y los cierres serán de accionamiento rápido manipulable desde el interior sin necesidad de utilizar llaves. La utilización de muros o pantallas reglamentadas en el ANEXO Nº 2 puede ser considerada con cerramiento o cerco completamente con malla metálica de altura de 2.00 metros.
+
+1.10 Cuando en una instalación existan equipos de trasvase, de vaporización, regulación y medida, éstos deberán quedar dentro del cerco. Podrán prescindirse del cerco cuando de la instalación de GLP está ubicada en el interior de las plantas industriales destinadas al almacenamiento, producción y/o tratamiento de productos petrolíferos o combustibles gaseosas.
+
+1.11 Tanques de Superficie. Se considerán tanques de superficie los situados al aire libre y cuya generatriz inferior está a nivel superior al terreno. El desplazamiento de cualquiera de ellos en el sentido de su eje longitudinal no deberá encontrar cortada su trayectoria por otro tanque de la misma instalación.
+
+a) La distancia entre tanques no será nunca inferior a la semisuma de sus radios y como mínimo será de 1.00 metro.
+
+b) Se proyegerán mediante pinturas blancas reflectantes y serán puestos a tierra con una resistencia menor a 20 ohms.
+
+1.12 Tanques enterrados. Para que un tanque sea considerado enterrado debe estar situado enteramente por debajo del nivel del terreno circundante, de forma tal que la generatriz superior, diste entre 0.30 y 0.50 metros de dicho nivel.
+
+a) Los tanques enterrados se situarán sobre fundación firme y anclados de tal forma que se impida su flotación.
+
+b) La distancia entre tanques situados en la misma fosa será como mínimo de un metro.
+
+c) Deberá rodearse la proyección de la fosa sobre el terreno del tanque, con una protección de hormigón de al menos 0.30 metros de altura.
+
+d) En todos los casos la fosa se rellenará de arena fina exenta de piedras o elementos que puedan dañar el tanque.
+
+e) En caso que el tanque se aloje en una fosa de hormigón, las paredes de éste distarán del tanque como mínimo 0,50 metros en las paredes laterales, 0.20 metros al fondo y 0.30 metros a la tapa (si existe) o nivel del terreno.
+
+f) Con la finalidad de poder detectar cualquier acumulación de gas o agua en el fondo de la fosa se instalará en una esquina un tubo buzo de 2 pulgadas de diámetro que llegue hasta el fondo, cortado oblicuamente en su extremo inferior y dotado de un tapón en el superior.
+
+g) Las válvulas del tanque y los aparatos de control se protegerán con una tapa registro. Nº se permitirá circulación o parqueo de vehículos por o encima de la tapa. Las válvulas serán perfectamente accesibles desde el exterior y los aparatos de control fácilmente legibles.
+
+1.13 Tanques Semienterrados. Se denominán tanques semienterrados aquellos que teniendo la generatriz inferior por debajo del nivel del terreno circundante, debido a algún impedimento tales como: roca a escasa profundidad, terreno con pendiente pronunciada, nivel frenético próximo, no resulta posible cumplir la condición de profundidad en enterramiento prevista para los tanques enterrados. Para los efectos del cumplimiento de éste Reglamento y que puedan considerarse como tanques enterrados, deberá completarse la fosa por encima del terreno, mediante paredes de hormigón, hasta la altura necesaria para cumplir las condiciones exigidas para los tanques enterrados (Figura 304-1A y 304-1B).
+
+2. Cañerías de interconexión. 2.1 Las cañerías de interconexión en las instalaciones de GLP podrán ser aéreas o enterradas, pero no podrán ser enpotradas. Si se sitúan en canales, estos serán registrables en toda su longitud.
+
+2.2 Las cañerias de conexión entre tanques de superficie y equipos complementarios de la estación de GLP, o de ellos entre sí, serán aéreas.
+
+2.3 Cuando las cañerías deban atravesar paramentos, se los hará por medio de paramuros de forma tal que quede libre como mínimo un centímetro alrededor de la tubería.
+
+2.4 Los tramos de cañerías destinados a la fase líquida y que puedan quedar aislado entre válvulas de corte, dispondrán de una válvula de seguridad (alivio térmico) o de by-pass de funcionamiento automático que libere cualquier sobrepresión interior excesiva.
+
+2.5 Canalizaciones Aéreas:
+
+a) La distancia mínima de la generatriz inferior de las canalizaciones aéreas al suelo será de 5 centímetros.
+
+b) Cuando discurran por un muro, estarán separadas de éste como mínimo 3 centímetros.
+
+c) Deberán protegerse con pintura anticorrosiva. Las destinadas a la fase líquida se pintarán de color rojo y las destinadas a la fase gaseosa de color amarillo.
+
+2.6 Canalizaciones enterradas:
+
+a) Las uniones entre tuberías que puedan formar pares galvánicos, se efectuarán mediante juntas aislantes.
+
+b) La Empresa mantendrá un plano actualizado donde se refleje con precisión el tendido de la tubería enterrada.
+
+3. Equipos de trasvase
+
+3.1 Las tuberías conectadas a la bomba de impulsión de GLP deberán estar dotadas de disposiciones que, en caso de sobrepresión, provoquen automáticamente el retorno de GLP al tanque que alimenta la bomba o bien que permita la interconexión entre la impulsión y la succión.
+
+3.2 Cuando el trasvase se efectué por compresión de la fase gaseosa, el compresor debe disponer de presostatos de baja y alta.
+
+3.3 En el extremo de la instalación rígida y en los puntos de unión de las tuberías de las fase líquida con las mangueras flexibles de conexión con el camión cisterna se colocará una válvula antiretorno; además en cada uno de los puntos de unión tanto de la fase líquida como gaseosa, deberá instalarse una válvula de cierre rápido de accionamiento manual.
+
+4. Elemento Auxiliares
+
+4.1 Uniones. Cuando no se utilice soldaduras las uniones entre tuberías elementos auxiliares (válvulas, reguladores, manómetros u otros) y equipos o entre ellos entre sí, podrá realizarse por lo siguientes medios:
+
+a) Bridas con asiento trabajando a compresión.
+
+b) Rosca cónica Norma ANSI B-57.1. Este tipo de unión no será utilizado para diámetros nominales iguales o superiores a 3 pulgadas.
+
+c) Uniones metal-metal del tipo esfero-cónico, se utilizará solamente para conexiones accidentales como las realizadas por las mangueras de trasvase.
+
+4.2 Válvulas de Seguridad
+
+a) Las válvulas de seguridad serán del sistema de resorte y estarán taradas a 20 bar.
+
+b) La descarga de las válvulas se realizará en todos los casos a la atmósfera en sentido vertical y estará protegida para evitar la entrada de agua y suciedad a su interior, pero sin dificultar su funcionamiento.
+
+4.3 Llaves de Corte. Las llaves de corte serán estancas al exterior en todas sus posiciones, herméticas en su posición cerrada y precintables.
+
+5. Instalación Eléctrica
+
+5.1 Toda las instalaciones y equipos eléctricos deberán cumplir con los siguientes requerimientos:
+
+BS 4683 Aparatos eléctricos en atmósferas explosivas.
+
+BS 4137 Guía para la selección de equipo eléctrico para uso en áreas de División 1.
+
+5.2 Los interruptores generales de los circuitos de alimentación de bombas, compresoras, motores y alumbrado de toda la instalación, estarán centralizadas en un panel situado próximo a la entrada de la estación y de fácil acceso.
+
+5.3 Las instalaciones donde existan equipos de vaporización, trasvase o de medida, deberán estar dotadas de una iluminación mínima de 100 lux.
+
+![Figura 304-1A](data:image/gif;base64,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)
+
+Figura 304-1A
+
+![Figura 304-1B](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAP0AAAGkCAMAAADNHdNFAAAABGdBTUEAANkFq7XqlAAAAwBQTFRF/////v7+/f39/Pz8+/v7+vr6+fn5+Pj49/f39vb29fX19PT08/Pz8vLy8fHx8PDw7+/v7u7u7e3t7Ozs6+vr6urq6enp6Ojo5+fn5ubm5eXl5OTk4+Pj4uLi4eHh4ODg39/f3t7e3d3d3Nzc29vb2tra2dnZ2NjY19fX1tbW1dXV1NTU09PT0tLS0dHR0NDQz8/Pzs7Ozc3NzMzMy8vLysrKycnJyMjIx8fHxsbGxcXFxMTEw8PDwsLCwcHBwMDAv7+/vr6+vb29vLy8u7u7urq6ubm5uLi4t7e3tra2tbW1tLS0s7OzsrKysbGxsLCwr6+vrq6ura2trKysq6urqqqqqampqKiop6enpqampaWlpKSko6OjoqKioaGhoKCgn5+fnp6enZ2dnJycm5ubmpqamZmZmJiYl5eXlpaWlZWVlJSUk5OTkpKSkZGRkJCQj4+Pjo6OjY2NjIyMi4uLioqKiYmJiIiIh4eHhoaGhYWFhISEg4ODgoKCgYGBgICAf39/fn5+fX19fHx8e3t7enp6eXl5eHh4d3d3dnZ2dXV1dHR0c3NzcnJycXFxcHBwb29vbm5ubW1tbGxsa2trampqaWlpaGhoZ2dnZmZmZWVlZGRkY2NjYmJiYWFhYGBgX19fXl5eXV1dXFxcW1tbWlpaWVlZWFhYV1dXVlZWVVVVVFRUU1NTUlJSUVFRUFBQT09PTk5OTU1NTExMS0tLSkpKSUlJSEhIR0dHRkZGRUVFREREQ0NDQkJCQUFBQEBAPz8/Pj4+PT09PDw8Ozs7Ojo6OTk5ODg4Nzc3NjY2NTU1NDQ0MzMzMjIyMTExMDAwLy8vLi4uLS0tLCwsKysrKioqKSkpKCgoJycnJiYmJSUlJCQkIyMjIiIiISEhICAgHx8fHh4eHR0dHBwcGxsbGhoaGRkZGBgYFxcXFhYWFRUVFBQUExMTEhISEREREBAQDw8PDg4ODQ0NDAwMCwsLCgoKCQkJCAgIBwcHBgYGBQUFBAQEAwMDAgICAQEBAAAA7q7hlAAAAAlwSFlz//////////8Byk71FwAAIABJREFUeJzsXHdAFFcTnwPujl5FURQLYMOIxoYVFEVRVIigERGNlRILoBQNvSi9iKAoFhAQLChFiiBVmnSkgyLSVKpIMdG8b09pfvGWyxX8J78/9nb3zc7Mu31lZt68BfgP/+E//AcqEBb60Rr8MEz5/UCow49W4ofhAHqbcf7HiJaYx/5jBA9jTbVZqOuPES1XPu/HCB6Gqp/GFfexFnro8jLsuKvcdtYi3UNjLXwkrNAzL5cxlsnmEr8W+9FYbq2qevsJcYylj8TaXrvzPmMuVe0k28CZRPCiMZc+DDYh8PAcc6lbzbEBb7LZMQnYWBfGWlFcYvjlnl6slU8NK6zC/ERrkR5rpeyOwislgnMaa+VTAc95z5lEdsUtPKwVY12CM6/OLtlg8WLEwMNxUIK12gyB3ywxGgzc/zBnrZiD9Th/7/a/q6/FjbgWfq/6fULSYWHmqbQ+AGvvZtWmoPtnmw3z2H4PR7sFqBcuaXK/cGvEtXDn5u8TCnXvYJ5Kl0tfC4JvKy8IRuiz2Ms485abeuG6fbyOD4BbS23gWrh5yfcJhVtXM0+lzSo63DBOWhhONNizzNLkWDoDO6oWclKlIPoEb3QMDexEtoOPJG/6PqXIWyp/Cz3YchQ7HGsxhSNo/XTmsf0GhDBUi712vVrqtWc38FY3T36Ri6wGbvDVrP8+pUjzHOZpNmsxdjjgNw/4WvYxj+u3EGlWvC+Ljfl5BKokJHfXw/Yenk9zhvw8eT5qzGSYp9n8ldhBw2sV7Pyswjyu32JBFedNrIk5lrJRJSGfOj/H/lbxgVDvgRvsmt+d8Yh8s5pmMk2xw263fxf/lXJmh6gMsoxjdjzcswZwKKZee7BElx18739Gg34e8ZbsP2i4xX9PbKl6HZEY6bJIhHo7oh2SVt5bxdS2XeEBzkceTOD3XfBFW6Rf3QI2mTg02u2r7T3C2pDT4I0JXP9HIX4kPPSqgfnOTVrnfG6GJTvsHs+wYmJlqzAD6wpyAYXmfpa9fPIkXqEp4JSIQ3Kg7oDTtRw0NOpB8PZvyjlMWr3FlSJLU0trnhflhuuIz4kpXc6oXmyRnWrA/qBVBbZ09lgzyg0P+l7n43GKdQzgvLNUwF+WA9ec2etGFpOS+6bL5WWqSe42NtJfNln9RlOAhCbayZhKC52sYgfmVQIfD/UJiQnwcLbMwSnehQ4eeJ0XgLYMXPPXjZzxuDLTpnuXbth0NT+33NjqXkOS9hLbFtstry4ypBK/4lqDhaB6/tx8htjQAk+7syk4xSvRQcPMgi406GvwlCsPF7Jnx4/PiZH2SMm5lxpqeDS4+viHZAOFUIefXlxgRKWf/K1NJcEv4e4uRrjQBE8Ho2ScYiMU6Wqh35IxaG8KvB5u+Wz3YwQexGjnhBklPA66/te9h2mZb+Jfle9Ns1/cosOASkKX04rUAeQOT4Ilvo5SDHDCA2GqwibjUl2LR9RJRHP/3GVz51kPGhx7hN4pDhWeyyAkXTVBFcFVStjfUikDbNMsOvOeRU9/6i/350YGFOPbQfE63f72h0OFz88xwAgPHN7VUYGunL8FUydRSZUGi6SM28hg4IZw68rBMsW+OTYx+9vD0W0O7EqwXZ1yk9+v81GieIm6fj8DcQCBd836mKN3Nwjk8ir+oJ8PPriFOaS5Yd9d6hQq/a3HrF09y8wXD9wQ6lYfLEux2FeyvOFT256vBo4M/9fbms+dry2tlXni9P+8aAdXXrMFCHT3rYOf2/xZtqQRfsoEZYBFOHUK1TAROFd8ObIw18bZ8bQoZuvtG3ynGq9l0uXvZzQ7D1xLkAZO7ANy3PYnraqg3zmb23l2BZBPxhtAQF/NLLrZ4EO2QTLEOW6TzR3qJNwTAZY+TIqNS83LzfsYISe/20j3F51fKXNwiLnZFROEBgO+Qm8Hp0KxN3lVS1L2hPrTrRj383vYqKSsSgZuPhFKWI18SoRuZtTgkgxrRV1s/4ikkV7l7+6PvT1dn/5GRpjZEyWVdaK+tWowMsKhMuT8ab5BNpo3NnXQH5VxxGZMkc8PyIPXvGdwwk90YmXNHLZJ8QrWj2mkn+qhnD7OcOYl2wuXABSMdHxd7KKPDxZynBhadSNEtD6XT1p28yS9ignVaGhNXN5a3DeDZ/VMMYBDHttZENm173/zZg/Y44z53+Anu/VhxNRlDlpmfrC9XTFpZ5ZX+pBLx/NSc4hQrMT7jIqVRiy9enFV9fgvFa6sfyRt2vfEDLtEXeL08qIOtrVy/ASwS6eJWO5MemNqk8f7+I7i+vaXn3RcY7TiMhyHy0N0h/mmdD2ZWjqrZhy9iu04SQCyuAQRZmdGYF1r7oOF9HIaFedoWq1Y3nXNw9nNzFJvt6bJr1v3SMxKW3jXr1J7qJw9c/8IllUVklkyBYv/yYYmcBhcWgH3XzXrgt5FKzJwRPfsH/UZeuGM5+UMwbqOn1dM4afVOopzF2kcN77RpQZFNiXDDZKYuW2YeKeL93FLhTRDOjXivpyhBHN3qIhBSlGuORC9TAsF6WQ1KpyqOWigksupaix6h2o+N1Z/rC0uClUiixTYl4lzcvISgINM4oVrq4BAGIgSSfxhfuiYvD+9C/9zi14OLNufKi8wwDz9GuSN/wT98MgYlcQtPf5haMpLv6iMLYmhV58TFyhse9fT3P22v6q9vMcQ9K5d/RD5IjKsqLhqPRhL2bvfeCWjGWTrWebg4q5LR6hrJYoWBAKvMBl47Cyxac8N3V1DR8VogkvqaBRsx7xcbC76XDh48/rcl96RBTyTRQXVtHXe+9bvP7HHdAtMX7Hi0PLCGyYOTp4r4dRE99vx91WiEv0DqgKe1NAVl5sgzA4/N/UONACB10/LqESSGcd1mqwd2ez8ypftrfXoTWNjbWdF4EIQenP5xbBBw5U2wiQ9Hp2ibD/bCbMD2eg209f1hg4400LvEkLo5TIq/PDmZQ2XgcnG4Y3SXq0li9XLTBeMX2FpGdx2EtLKO+SGCIUbR0Ri3FGb8IUZeUcYUYvfxwZznHl4sdMb1acZ4YQLt3vUy0jPUNnXOM3pz3GJ6Q+KClqz818kV4dsm1Fz0OZK4rAjJ/RBY+icLc0jbUHF7Bp6o7vsy83mwvzy/N9hQ1P9cuB6YhiHs9RIJ6ZS1kk2SDvgeDlwo7Ggz4hywrlg9erjpZo71FX1qlvUHWrPzH1x88Wby0OEIo3DQRihliYfw+BFjfQa+iu72rxgSXefOdigD4YgUp/awE8nK+o49VZoDvh46D3EodFKO1lScnUgrupwL7wmM7foetEuEMpR8vWOK2gYqrJQ23A0x7j1nba3vvsVehWTCtLWB+77kePhSFcZZuGbtuuO/tC/xf7yKRUEV7sjeLU/g945YzYHpeGxh6OZWxL4zvrCHWQHi70kE4y7PwUOEhI0Jg2eyrcnpqiUSPbq06vYrGB7MeBNK1ws6Bv9UgCmtqAa5o/5e8unFoGLjRleTpbRq9KbwF11EUC0IfWo0Ykn4Ogg3fpL2ylIXpBjHVmK/jmy8WZ9RMfC9lpn0r2oZV1WYA9TItwEYNnp6rUwoS7pGfNbvtYnn8bNSTaHHHFoDru5Y6OeVFOIQsdjrslpni35L69HBcN2pOrpLZex80+UNeCE82cMWr17EIrReTS79zfsnL4/QDa3zBpI4ckScK6kyw6Ifnbaoz/0byFlU4eKohfaBuHQ3EF/U4LZqxDy4oRVH9t7Uf/bv7B52OSDbolYgKlbS2bkV+uWff5AZGvlWxSgnLk8iP5MLx7zDrQGNjcncMP45GxpEGxFGSyI7m2qbqhYCh7XqFMQsxGiDF6/dVC8d/e/dWCrwFKUhI2CFg9iLeeV6camI58vbgKn8tfar6pObfk58pRSK/2pHFNzUxKVwLjt9HyO04ZGU4D8HNE9gFKHUPdJ0Hgtfh6v3x+9etEfYCk6gJ2Pi/arMjTXy7vTYIddhQRWKs6tdeqoQwVLsdcv+grz5okLopC7y6aga5P7DjOgGBulw8zs/Ws1nClMWIR51+bM7/YgWYH5jeFmlnj+k+VzP8wcCP/SPNQeSqWiFvQQTvVjM/nekm2tMw++0HUva+4u0p2n3Oe40b7+qXNvieujcLBMYFS5aXUfupTAUm0BeXRaurAiHeN8zcIGb9HNoBZ5An/PKcp5pi/s+NjTqwk8lTqYedMkofth2ZnaRfYozaY3sTf2WUFE4W8Jxbu8TFc928RYEgMHAdjWpUiRiLl99QPZEgRm9/wNpUqzVtbuscXLw7V7j6xgQg8lF29LvwzWHtsprodhOQmEW1eAx4uVu+K9PVziGoM+eCc/Cq174nQqyHbjq4cTGVJMNM6VAFw2k3mAzIsNKhy6zor0Th/UsayjJ6O+W/I8Tu0P1d965AmkWheAuW8o+bwT2lZgR8GmCxNWtU/HZmakx3c3y8I9Mub2/YgM88PeKcmqygyHIhZ9MsfqevnBWtgb5SwKM3rQ5dEf+rcgCIjwCQqCF86ot790G2VKOPRZWb+1gjL0yPRuoNzX+fQBfVkA24Nuz5A6m5p1xcznekxxroO8pB+1bE7aQUoo4oU5jbYAv3fZccLsxo+s2xxz+QZOoePxAIohfCwhM/jLyhT5yJdGTeDesOFr7vLE87EXtX/9Rd3BzOLALv0j9xO9pRlVSPrYId2pYPBnpz1YvLWSAS1nswWM8qSKYLwlpzslUV+SlNmpdzv2aXoX059W9b/OS3ZXEWXCRhKRnKchuiDfUrEOjNCTWRBXk/WcZftTruO0fE7/mmdmNPDgJM9pkCaTRiekCQtb+g6AXTE2yKohbL4Vb0Gs2yAR5oZTeL5i2gyauMg2MTFDXXY9CaQfl86ES48qMTtroT4LlnIGkIZXe7frrr40cdn9nsmp5PNDrhHh3JM6vHw6JiDoEvUyrpStl3HcgBE43M+82ks5nyCDbf/7rbDE9uBGIGw+OsrWITpB4GWDEJxFB97ahMc3aeK0+Bkvk3QCCGh9pwvzK8t+AqWXHRtABQ0lyDMRHKbym5ATXMEJuY/PlvIIpYkZGxOzCi2KimQNazRFMYPs5mc1UO3D5j6mQ/mTRolnx/LbOKYEZ+aDW7QucDMPor0fSIvLO8v5wBOl8MarX0Bqoz/0b+EexF00uVo9DM+Q4gK3COZLHgVTKpxIsHCrOBtcQe3cd+svhjCc+vtPuAUuSxfIOlCAF9kCsaTbzJc8ClZ0J3ODZckOMmiHOhBjfU1c5Zkv5GRbhpvsK+kqvP31Qk8R/dlH9GJXDebTyVUVf41pTBTJfs/E/V6DINhHTtppRWrCyYYUKEi6wwL/ahRsR09JsLU0bjrMUl1FAuuaCmNWiOE1ab/GiVd7kbKqOAbSDunE4iutUhDc27Ya7r7uV4DdLz5YsECKeZNP4SRIMqFOQciJuzDmHx8AxdBKAeDKOA4QktAwA2St0hhJeqYCHTQHYidCNM4fK57f8HLsPzpijgIB9ncWToDzT39jA9fsOhbooNzgIPNKHPxwRj3hqo5GFlgao8AGFfKDXw0ylSmpSyDBrwgxEiGmhnFhTb1zIQCnaXOYKgTiOUGsgWllmhhE1+YYADc3F9b95Nfg7BpjALyBaeCDY+muLZ5ziWV7wqiCzMnNDkRKKJsswLKwBt/mebwC0+ABzsvlq8i6N9YfHRmJQJRNBtlVPzM/eQE2va+oqn875wZOy1+alf1u7Pv9FxAlVEhwBzVz8ZSWvFIenf7fgkOILJSdACE47351S3HdGeZLHgUK2bfHg8mThiWgWakCsOCMARPjRsNgD4gkQjhO7YnPzvrbsUIyLs7VuE4Avfuxu0D3ZQ4PuCHEghVsmFYQgB3v4xhzXPkdhSyILIwCw2ZPEmx7HS0N833eCYAJ6mZBsuLEiqQ169T47+AEbRddT480oF7MKixuNAWHnA4l7LVnLOGzK8tnwadO5kT5+MdEz/RUp0oh1uXLEzzmYz6BDLHOcBYlscHtx52SkBrczIp8PUlZIIiBN3UjWux975s6FniX+JhY0owMtN+/79wKYegmwMb+ahakaAuVZ/oFPRd7RP1rRoq9J1Sfjbmdz3dUe58UUURgMifMO0HJeFz4zz3/jONIxOT2K9PhEvVRT+gICXYw8WsitGF9DHEz679m6enKQckEw1vD/SFg32C2n/VSPN0n5Quwgc/YfTuRhyZv5ZcPiLb1I4Zg3Ff1OT+FdOcs60V9hUAuTavb+/p6x+CzbuxapzSP6QGenc80URRXjcujiaYtlRKql6pYththCFvUsLn1mmwA6/u9yO381QCb3/1BU+qRmydMY41DPxIeHksNBds2+LPegV/5vgdrYPKvHf//gy3fhQ2KuMm6JetBeDnIZwvXazgx/u4piR1EHiF2Eh+RR2z8hPGiIsLf5HoIt6OTmOsWaEyTn24aP28+q7L0huEeKPVofMTW63SGrqZoG5vb2ZgZG5ocszc1vHArKtXzalJITH5SRl5WXIPzSNJ57d32AGuasmla5/2lKsqV9f1eq7uptbNxeqzz6KTfg0PLNsWjWqtXzlwyXWzixAmiwnwiwgLjBDk4yJxcYP585CY/8ZoWFTbQ9K1cR5XbCHi6Qw/rNuIMgltcVHSNBDym041xGpgr2P7H3HWANXl14QsyRBFQsPyIraPuXdfvah3gKNVarVatotZRq6KIUKhsECHsBBEEZE9lC4YlU/ZGhgEChhHCTAhJiMzzg0KKqCSA+PM+PHz5kvt9yc29Ofecc895T/8fH98UfhHR6bMlJNaukvlq1rSrQTPncn7kfLMWzV1MEPytorOJlzFVJTyky3FvNk6ox7/9ceLHpO3M1i4ot/MKfOQRml9YlplW8urFCxK7hUV908FittUSG96U93Ay3YT8CSXaxBlSWsYNvDhp1gFxPJwlPMI84+3Bc0zr/Q1gsLt7cxivaNR0555XV5yZ9t8VgPu3ibAvFjYJFDw5DA2DAy30l+JR9ZY+1X0JRZqHW2/SyG+cKJ6Zf4GpUTe1VpsSPqaxv9Cd3XphW+sT5Asb+ai+6BY4okeAm4ZnaWUGBJnXvk5OrBkwVXZfy04P9aWJSa5QaOEpSe1U0U/cG40XBuBn7VMg+3RMvVepASw6BCmLomLd9eKynVKPZUWnL4oBt/mgwc9o2cnqsM0foIswgS3Sc84xhOS6oYMXWnQ1eGk8oexab4EJ6vs3BUWPaZP2JnhHXyIuxYEWegbf/AXuSA9s+ZRIDg9qkiKijxR7nIKSgUV76imP1pacGiF5ajf7Wx5uLfkHxpontWhcMMp4K/VSRozd+BRW2W+phNzFkTXBl3OCE0rUgw3NrkQ1WaHSnjXxVFkbsL4O9RwBf7qbEVMpMV3iJkwUf8zoMW2PiJTxdyhzTKEBSs4OzafvgxcKhP2IEIG2gxvyA/tDFU98C3f54Fe30cwqODbNdLcHB6r7zrYwJ8JLMzYsJ+1whDg+/I2xXKwJEIQU4fHsPKK3ZWKyWTjOryhClgSHxEF7b8+TY2XaxGZONk0g9cHuKgkxOUXq5Bl70xjZ+Nne20PHlCq9Fy7YU8j/fQp/o2DYPxc8kRY4rap/bfYsooU8zQp+P9m3CAziloPi6gqh0wCtk6f+irXrcj+E+z1RfywXb6g9dawkdrl7AeZOlnvgU03HnPyNOfCXbEfbtYjHGj6+SXgo45DkbKXUG5QL/5wURx8/6ebnwrm2Cj0pskzgmKwchV/c8H1rk26fxN+NspqWWLQnaWcqpZcqXyoX2Qv+a6hlbQ0cgiQJcsVy4lSFZtokGnukHSayTQ25j8m+/7mhm26QVV7umH2bmI09Bj7IB47wNfXq5jlXJErrwW1kW8gxdESJxSurhC6GtoxEWP6FsRZnZ+Noxx80prH/la16hZaGrEEDucC6o70pitEmETk2CmAgDfZIB+zWklI5DpofWw59VyvyfS6GMiGbsWPCmdT7WGMt4edjqgqyhXpZofC5a3hghvqz5yV1P3uA9gJyz59ukBdYS65oDqNnQ9X6wcbrmNnXyRsMHa2bJ8/M57+8AZ37AcV5cm86FN+p3Dhz6pwfq6eHVAgUn3bo+4m3EQmFZU2U0saWClJ5QV5WTnZ2TnpT3aAzYyvj+PamtZanH7VPGGvQqHGqZwvSJE2NH6V340GbbzdA7w9GSVvXzM0kfyu7bJGYpKSYkLikqIjY9GlTBacK8aPrfYbjRfbgSCswKs5Wydw1TG2bPL97nG1/8sXqglFquq6mu0PCceZHdPuDt2Uq3T7ayCwboeOcZBU+McFf22acK0plTp7eY137pHHJrthRjr3z3aM4O1uNo+pvtRmJ7GFfHp/ADFF+hCkXQVcbh7jxVtQL34xpYEyemb+vRV5ENUckbZS9t8+0bqOwi1x0nfX17mFUY8Fc29JI/2lwsBPG57GxpiOBQsmPJcCrrFrO+sYniKSrBG4nsSbRzEcuTbUN8ihklL4dLNTkZvgRAOhNQCFBrUURhFYCgZbclpl2txDwmCavW45g4gOdAwbEQpGTT+/41Av/0J4yiWQ+4pf4qk8ZtR2lPz/KFglMQapv4B8sXFjflLkM3+6dllr5kl8N9JEH6K5hx/4nDLztKynvprlAYbI2QFSZ0Mmiy82TZ70fgOMIGWkfwbrei/0HjeYGZui6GlDShOA9DIMd3Ta7orwSI1JkE2C1DRirdDmerB6wcOWCbz3HbSmf+leUC08+3S8Kq5G4lj5EJOFt8KgeVBSH/5BaFe30tQOcDWcQgA2OCfX2/y3xcSpdpQB3DgCF09VpJb5L6gRvWBiVfK5k1c8G61ElXQlWvlOM73aW3VYCJh2cBPHlMUxTpHy0AwqmOMHfMzuq/igmJRgAjSPiLnUf29gwbUNZU+skknrvYD2qGmyLWt+xBmNUtTMe1HW04xmdLrLd0Wrnb8mn5xYty+qMNYGArr9RUrc+iSPiDMFVlyx6Mta4cNLNfNwITNIf4g71ndWuVWAFLcmF9KTWhIfBxNQUe8KTNAq19ok0CZqldf33FGEySziuybu92JOkpcmOjNKJ91byjDWLhLeJowe8cim/RUj8u6M+4Lzd4XyuH+0YiX033+FVCfRCV024Q1ZqJ2ENGTK+5/h0EfqH5bendLe7OIk1eWb+1yzl8J445DoCf/4HkOgZ2F9U6clb/BNcsdMpKbU27fZf+jrbNACyhF/AZm1FylnSM2ZeMZWj2C20OL6fvCQzu6NygqvdjQKX0+dU7qlb7zkS09RwLGtZ9u4BVtsDXqi3QxGdLnUA6HptEJUABbcyPKrglp1bkgIUmNdwvJq61QWeReIBYJM48bsUvEIpbF3pwrrVDrxxKb+Dc+PA6GFPqkGoXDt0pJkXEff5QhcTWNu1YfNWgNabysQSubtQODjzxRJrC1WTT+Ov9mTyQl77ZaBUY5L4FXmpWzrvlwiTB8uh3E3Ll9cE52LwXN1TtgqvmZf1t6XBs3MK2ZdsIPgP8BN+2lg0ONDHm10MlhJ+ddkDVROQZDFGSOWA6kUCco7j/ZJ5LfsGHulB4UzDVpdC5Ti4rAK6KIUmsAfiZhb3bL2mfrDYI723wp1DB3m8tzD/fJlMfGsubfLYeEhaAR06gMJGqBwxHMqdgx9fFwogfk5nNDKDkzvBQjyBjQ30jmsL04a49WCHrJlyxZxpfhHklu0gS1hmajRNHj1fywrNECta6zuK4jb+HAmpAz0vH0feD4G4GblwOw5ub4OXi9ybHY+UPU+MxKe80MkEDmPGrCP8aH+LrK6JS8vksfGsnK7GCKad9eLdoy3TwkmSMAC44QtOybGJuhnq2fkOhILVmmCJ/EH+oK4QJn1XSIhJqpT4rD5ISokLzhRdT1nEj36kTZ6xx+mrpwhmHhwF2bcqcOLojJ+lvlGa15uG7sE+FJO4iN2+NzEyTes1tpVG76ZTeoHG7KUxac3N9MaGRhqNTu+gshiQNXlkvtWjq6HTqo6MxDwxDBYJnIdqTdlEw9uZRXbJlpHBj4LhjjJ4I1tQP9USx3RYqqRTzkzM3X9Cfsf2g5vW/3f/vp9+2blD8TfFybOJiTSgmfy4eXkI771P/zdhWQtcFrB6vz0DeGQJOz08kaxnmEqJRUbLkjM+KCpnR0V02YTWdhs3pu1Yv+8XSRTJc0Uz6SGVP/UAPGqa7hjg0o0S9Gvcj9e+CCKDvmhB7YXwcDc3Pcg6DRNV4+nzYFNCQnKAiZCtB68X7Mp8p7/0h3xoX/GAnV+9YUocAox4aVK7iWlvN8Mz/+Q6MLoPi2zj8Xj48rQFo8G8v76XeQyzcTx7N1QG+tPP+ml4K6zGxRiAoHw8kXW7LkXsumGaU3PDOb20CLZiPh6lAHz55O1R4l7OZuTPs3cDN4TOWgfu85HAr7LLBb1U1o5rIhIwfg+azkDuFE9IVjn84LkCjMRmMgkg+ChvBUKRvI69WPyQWEM95vOrycV/lFYx0zBS7apuRn86ArCD4jzUQ/+u2BgZG6MO/8/kbR7gkdFvhUV/QuZ/wCe44umQ1dq2GOCSsQrVMzdJ3o2dRfp9mULIpXZD5AURu0pNy2VoVNvnn5sI9LPiGARhXaz4/YM+/jL/8A+vO7SklAMDCtMqNUqty1fWMY8w2RfrdZKT7Daxq+XKuyhhrueDAiBpwoq7fQ4Ini8nlN3n9w7/4BW+j/QdobChmVIm5SmWWMCGd+bahjvlO5cB+IbABdXs9MQUoFu5tP+o/MnEqikrJz73gDuEk/3VMgJRwIcEsMIfS4v57s3eIWcGJ05A5JxadmdD+7HzNPun+o6dJ6czUxaXh16wvpjru5nWCsmfUGvFvGUnwaxQokshyYrDtjxaOdfJ/zrl+PlM2Y/oKYEP5TuVV7Fa5aivkSHTA+tjBze3vdlqB1cXtLi3VnzclSHjceVS5P9fJJgW9w0BVk2XtxVPoGzIfh9fn6YLd+/BXBWw3ZpPCPbG1AcKE7qXhIOpAAAgAElEQVS+9ko3wT+CEOQC1iik7uO9v8HerjXBdJFI6ATXjYMLZFEkHLfRLIunG8q27Rt6qg1JxGRcTMSqQjh3EWTP1vtbeluAuyir7FZK/M3E9Md4IH6899dA0XSiOfukqLu5NZlO0lr5NAZZ8+bbOfP+ToQuzagreAfELq94FRrh3Fgi9gLm/w1m/3g9bur7ZiyEmphA+ngO0m32PqsPBe3nhQRpPdc2u2qrraYgLG/EmbgAwaFbkAYqi761hEOWgBNhBKx98/J6vCNEIxtY7FshExabig9T+xQJ7h7iw4djChP7FPjEZ4kPkyPTC77netkvOnpaKsiKJxtPhNADRkhoyeBs1m6zXh3d6RlaGRapc69n6T3YrQGZXlF3ADeDbYdK2KmDup4YZjgxosxZ3HjybFcaD2MgEq+mtmx+/6mZ7PPcbiNWG2YV0zzLJISX9/ym4rDe7n8qqKsHzg17MGAtSAvjz+ldFVxv+kDT7ciyWDh1p+SZZeKTDK81dYykl30W4bSbxA9IMb/Zgx1PAuSx4eGuAmnmMbvef0qii2vgOf+cBUvltyHLT+h678PMFyFMHomjG2g2BReHW7r6hVrd7PbfDDGGVDOc+7U3jdOd60R9WRuXqAUX9V0hVJD8YrgBfap9793x9P4mZfh2mCbDc/jMT+ea1bW0ub6kulQIE8/DW/IXmiIUmlw+WAsdGXbn3dODm/GwcE9PsFEzw0vjcmL8+Rra6RivSDhhC5rz+0lwRcrCo92G3cqEvMpuPCXit/n3zSmxeUMVMoG+zgsKTBHmFxYUmDtbXHLGLGWuW2Yz/BpPiPdJvZFqJQ1CpKGvL5Jx8GowxNwAwu/l4aGz2y1zlUddeszSDRa3Ypn8v8H9dRBQXe/s6wpx/QqzCqtn+/u3+hN8xpX0LhPrYuHO6lG9aWNlboM1trawePjwvv2ewNjojIi0yFgK9FKpZBoPdUbkHJIvIpwj94ZoOqOffGTKWuwg842uvUHdYYvqGOXEtc99jfI2mWd6N+ezjtin55b2Bl2zXUlvrA2Qnv/1YhFRrX3v3+p89V6b8aR9z7G0wYZGR7s8cnb3vY+1ttIxtMHexyxcKyevcHD3zs1qWM3dihbMLdxvJKICGciR+/69xE+LWf8MnogvWLBh6ZYAn115lY0XiPI1Hl2EfGPbLg3F4nA6q6ueHvOicVNtQ209vZlcX/ehi2Oans880/HUlpB+yj0IQJLMPfnrCvnZxr6FnGt1l/mNENE+KESFUlnkRgq1q7uOnkg2aU3HeV5Mz1D6LUP1akVSuaTFm5nXGEzLYkzQpSUWsnNn636g1ek2OJTrqHH9bJ/GXh62RPbSuLI8rAD8b6d+QuZcoxekSa0hrYNerQOQICM1W8Dsnnkg8it+AvKbiVoX4ZGJnjlAqXZ+onsatYy5/gpcMeq375UKhgtoiziBrPbxsNYdZ3DfDrvaNZtbk3n23hnJxTPtuFo5ov5B6pTBrGglSO4Xt/r2ycyH5VGd9IWe4OrqWhtq9ho05QG/rbuZBY+3VKjdfqvteMHwpUe+3Cc0dDxSb8Ed7iEQold4CZMQ3Jwx34MrSfoaemtZ02DZy/ng2n/Qg4hL3WW3KU4Kpps6/NeReoFN+SMk6MXrqMOsuKBecHeC/i5aw/C8Y4k7GfIOX56l9kPw/5wGz5ET1+yEJTRacNOBgZP/wNtpawSUGt3Srm/sYYE9IaFadCuor4MwFAE//sk+/zI6DyLsiX1m0S/M4cT/KozK6tbPyNnHJy506PAYrltBJhwjKo/IqfoOs1p1JRknBk7Ee9+2t/SNhF0ZHbaljh3Zwg5wUoPh71SSE19iBSHLwBtZws9qVcIIHe0enn05dZaE8NhSgQbAN/09xe4yVJeOhQrsLqxE+croGdc43dmtXlebBm0VgdK3BppBqSmOeV8HDv4K4RjT7yFKOB6kDEHvaNvjQM+Y6Kd/FkB/XIBy18dElOfogmPfh0Tee4ncP2hFgf7wNnyzuG4W/4+264Br6mr7hylBICGKA6vWt2qtWr+3aj+ttdaNdeNs1bbi1iruiSBTQPYQUBBZAZkiQ5C9Iey99yZAAiRhk+fFqkhuEm9o7N+f4j1ez70n5+Q5z3nG//nWPlS9+xwKxZ0ICbdsXfqqD1emo9uV0ujKL6zooxRkN0B6FdjeZQU5jkApE5hN+algnQYBl6ohb/S/XG3hZ+KgxOE98hNY0sHF2ERMqm7n8RyQKxbhd3S2ETRQBK7XYUoO/VLdWHdnyqmxzLrq5trKpi5abVFbXW1lF620JsXgobHFAz0TaytN23uHKbG/bi8c7fibbTy9zT25zuAOT6vwWNDEtZeTG521eLiwp9YJQ/KADuVJ++JGqn4/BPZFH1Rc8YxI39ZMcEcEWTk5OXlpeYKsrBzhbSbSePxSr4D8+FZbmZQHNOd/lPj8HsqNX4y/1KbHqfGQ4E1/W6vw05A4vRL9qoUs8OL1xOaGBn3ZbHDHydrJykhPq3L/G9fSl+VztAWzEiJ0mEVCFP5hkPZg7z+BUCEeTGuaN/7yYqVLI8/cf0vDJWtS7Z2N5rSstwzDuW92I7P4VNP+H9fuOfjbiZMqyWfCk2rTMhQ838oLKWlZGQlxGSnZyfKyJBLxb0yWV5y0tXOueJAH3+5egJu9KBUJptC4plqlys2dZ/RKDbPxurnPISK58hUG2Xg3Xux85lz7QbmW60hPAIDoPypStSysSgtqmtNjacXVnd01I0M9Q11dwyNNvSz6wHA/451axIOQjlIfUUY/tZ6r9qB5tCuHJ1JgagMuC+svnYpoFWOKTQTejZIpxVdaxkTNUddH969fTeMkcTicJg/OgE5B2/XMgQtPwcGqN4QDnq7se7ZgOzcOAvnb1PXajjwVzpDKH+TuXeOuNnZUBofyZBTK3cINhZdIjDIoDkbWuCVh1tRF3qVjMuc1R2jHnGCFeI/DzJzAg1HJF72ibEKfSZS1S11qJ5jClX1R8IBvZ5Nq/ZGFKN97ReZ4CtyzAaqr7Xjmfo4LPqPXwsfuhnLIwgvvvoflAf1tmBhT3TJYE8i5rBWpD3/NAtv1wD6eS1e6V5xY/SakPEmnHeh9AoZ4tOwXkWjduL/3mpCfy+J5kmqdsEkgFrhxOxvr0x9gc8cDkx4CRSKvkWABh5f35rMilu4bqGpom71y9BhAC0WvXt4UFLly1XMeRRRNV7FnvJFYM42MnvIYyKdXC8XiOAozXMeK4ovtNgyMxvrqj03s7EvFQyWHZ2RydrZeniuuciGOs/aHmgdOphcfQctNDQGlvYi92cWp/4jk5sPbMMfzG08e3dif8ZiKyHSh2NzQWzI/vDu+rG8BTDaVZEgJqJmAakmW/uS4KErZHLbNBR+9qA3wAt2HvsE8XWKMoMJmf5VctBPlhEu4gT028h4b5HRwd7z30MjH86ZPDc5OauM2kkpGhzlQ4noc/e8ONpn/CPR5fmv3FowE6hSFahdZN+Vo6eRJmfL9ckveNLE3aP68/MzPRXCKmuHO/UFOe0M2d7yFWMJp6XZqUnF9e0riy4Ck0m2L/l81B6BOwgaKZjWsixkc0X/DN7tZXN/9lQ983jBOFxGMpPjZiCfppQ3N3CufSG8uiYoHdTcwUxjx3QYcWkPDUF1WhHe9ZuSChrsl2T62AnY8ZNBy/cVnCecSH9Uykdjo74VLEYE8bZqSktL0mTNnzpqlPFNZqNwv6bUnkRmuH29lq9budm6pR6otrHd0cwsPpO/2vfaA1gzUNXcBDh+B2OV291gP0+r7a3v5T7DkYTMjd2HqrAqCmJrm5RvX79+67Rzi6mZr6ejg7EwJikkryiwsLkoLf/Pa28s/KDIZ35shsTBi4Dmywi0Bt6k7J72BW3mSqS48OSrhXMH1Ua9FkWNMFbUbPDZVDSzXh3QwW1idGtjEa3P4G1JZ8DBJlBBeqcyb0+bN+3LevFkzlJVnKc+YPjXqiamJBEmBpEiSlyHISEhISUt9h6/tvOo5fno1ssQtASebVfkEY/SXikjpXOkKjl+D7tThyhmdAcgLTnzf0Xvdrjyvr64ewtTMBax8YqdLtIAPRjiQug5iWmJ9fDHOIfHoK3jdkBmqyEUHWeO6FM/3pUfFcm8MEpEtKaseQLBngLO/T2yYlUeJ+/R42LYIoqf0h/453G/a3dDLf8eTrXm1p1KUuZev341pidGzxljnFIbwPQbPKu5nqOOzD0jEDOZTC8cZyKeNqpHmjVqQtHuoaPS4vu0O/HgA/Ldm1Dg8z4h/42Tq/PJ4E3xvKKBffdATSdshMo5hWty7Xddyt0idXoZwcawH3JEV/4PoR5BqoMUq+cPcS0qjlVsR8oi8CbnPCxKTEwx6GHrdvT94wiNS59BsC1DVAx353K5NArhcZErA2Fsb/90EQpF1GNPyHLqCMVbMTUJV0txTp2yKZ9tRLOuLtU78cKWgtxX93xvSM+OgHdqwfzMYE0r7TjBo3zwb8tYvCS0vOcGu+K4K7h3tAv5sJsROuLPjV2HeTQDkyrFa7K9GRzD8u5M+VfLwPXa4fIEeTbLhte3Ic32SS1ktzlZxY5cz5NGKDdvLmgae5xm3dm0PhONbYJ86UJALrFaD7C8aqjZnFj+93Q8CgvL+KFCNFoWyX671PKYljMdYQgRcf8mMuvLU8BRkHMnzL5Jc/gLxk/GV6dw2OjH5AONb8Hxa59CZEDB/VOUR3J+nXRSc26EWAAZ/gRmKbAoEe94w7/fdV4oSui/H1MS0xOhfCOGOZJIuxpX566rm0LxlkSV+DrY4wQd7LrGNCE0sqDqlAklf0QZXldV+bQSH/zPUudiV4+UVmapV5+AJx/l3JvvtkkJRpB4JsJW7PICGoa6TrsSt7rUxTrlSCSFHJyEeyWOhtIG+VYFaSLss1isnjhqrX9Q9RC18qAnF0xNqZW0BHqcJKG4lVw7hpSKNfgTr/f/9Vlg65qT25BPFPt9BtWhOzRyEngqTge7SgIkqD451BWfNgcF1+qAj+9iT7XJChQFLr9DjzxSye9pOVoXuzOZvK5bKztWhihKvp9B5AtNi/coPK+QUcTXdFdWW9a6UyaYfz3iCa5r8yfmGu+Flvm9pQqkxuzN5ZxFYtoGRffCpgqE+Vd8mL/AOVnc7dFuASRdZ1R31FKVMC4l9EtOiMZiJmWqJFFy5KkaaJrtMQ/xR+FjDQsF0OCGY6bLh9C+2PK+R9HPaF1n26RDdtiU8tL9DkxOunPrKfyfnlzmlAjRdmZxk+0BRznhkBiYMCsnNw1rxZFqEsCAoe3ACkKdQIcNbu7gn3+/RRibs04RzjLZVKCSHfC1B/3xuzBfxad8lbKraU2jAzhCQj7ehBC54iTL3iiystuA9XISd6gxcTVfStL247SYK5u9ywUC2jutDIlQ+18+vuHS7MTTRON6nlJ3vDays/ErGImNI0mOoZsRnLs3hP/pb9vorXUWxapI42PPxjd17MYJQqgp37qcydqDwe8hRuMJEd2HJuCvpFCb8eZOm1jLkgfLhBKPFVSs9Fm4/oYa4xw3V2nISLht/woATI8rKJwF2v7fQ04rhlliEDlxdj5CRsjXrEnIRLnSQ2MelPkW2pubm9YXTwuOLvY5CWi6E1I3ALfmaYWUbVk8b687WAUHZiF/OEK8RRdshcbD+76D+4jTu0YvlC5EGuy4bbqBgvFPOe9iXjNd/qUbXIWMuFQ7ug2fXwG9eTeCTw1sqWqP1wOsKnCLQGoIFKJvyrUUbQ0Sp6q0wgj06u1uvwviTCTR8ysSpGouPlSMz3GjFd1jQO64uq0Rqe+4pU6r8BlbjzHBYSX2Nvuoqm+0ApsfAyabZ8Qi4CjJdSmWCuZUoUk++HyvR3F4cbcU42sJxieGJqSlRk+SRSSLeje8RPc73KBYBDWRjCDrQWGMXW++VrquTomXSn6tW2zHfs0vaA2wf+gjY8cR3BxH5G7uFhCwDK9GOnyTt596rpSpw5ermyhk158eKh+BDJe2jvieW4GaS/3B5LBxYA07Ko4uc3Sa2dzB9e372aZfEx/7GNcN+mfylqVlr8mFnUaSeRBlWTzbsV7/NbXaUqsL1k27IUsofPSpb4EYrvodM/H8/XkT9pg0h65IKHSn+OeFZcZpGoRWdKy+A7Q54sgVskRPM0OH/AvOpLzxTrgv5SH4gtGPluTHnd33u2EwCDfeEuy9jTvRPk5GlMKecv6H9UZRIpg6zt5mCmTy7l2AIpx7B4oUQMzeFGhuTkF575U1V7IV4Bv8XkIxibEsUyZuRhZXn2pyZu7hXPoGGu+MtrymvrklCj4XmWFsfM3aKJuR3FJx4FheXYvhbe9JeWsVpBhy1gTCFONjjXbXYoKbK6KUg286S5chDJFKKOKzUM+1bgKkRL9OC/wSFqUSyIvIWevQKHR9PV14UMidwYQ2cN8yPiKA25bxyra79ya/f7Ct4Sh6oQbcgi8k3JJFQCIw70Vh9ZSIgDmDluT0mKFBMGNvOe7j7C/1g25qxBaYzQHV/DefnD5aJPQB1c/A0BU/kDrqhqe4+qffXNJroAN8iysSGxDYdW1F8OTI8q/qbXQqY5EPhRx+EG7sxBhUYcyRcz4BjFPCjxL+mlB70HgHIKmYX+Pw4VCF9AxRly9hz7sJRvn28ThrWMBdF6skPYle+1oiZPrdlS/jRB04gaDZ+zGJhGeoKnS3NoL8eApBlmvrlG7b+kVHX0pOtzDutI5xePXvZz9+bsZ5iu4pyXPhH8oB3ZFcBW4JJ+NEnTiA9THX4u/d/M65zamWUlkJP5M2kotpcw+WzI9y3MOHIOkigDdCmbAFKjGBVO1Zd+EfygHdkeoDNO53cLWSEgETpBHhxZOkfVBjNDvjZtC2KDr7IDgY5wA7T6/Er9i3J9i+EhwadhbrW8HT1qo2rl53Tu3Xu9F011TM79/+8fM3iBUqzvlvXoy38I3nAe8bTBizPg1iOkHMvXjARViC74fehghYvdAtL9r82ch3Oy5xmFx0GwGzOKyQEwQ+Gf5awAXp6IxNZHe31jeyWJkZZd3/PQDeztaW2tq62roVJFSqGWADGiE3HYAB+GBuiPAs/DvrrqQpq8uM484TAPHi/aK2jN47ANn+rx83JsYT4kCX37ZpY7Ip8vwu0PLngOxkrqrtvbJ6spEgiE2UICjJyiuTRX4pkoiJ56hTyFJF4N0gcrL12s0M1RhCShi7jdbNm4PhrmgN6OSE+3biid+fcJ9FMR6fmIga4oEjwoCVIHfV7zTwHYT+Zhu+sPuB1NMZJJDf1J8C78rVaBzEqgOLAWbxubpV8Vb6kVN6HbyC5ICwb2vf3T3tt9oEboEaFgO+dWK/yB3vpDyqAsSEADl2CG3qtxVcXfubgnDHwSr0dhpcxkps0jLunmiRM91Fq3jzB8LGUd46vJ9AKg0fTQP0sPENedj+wmN0aTT2GjuB3ccSps7BffRvoTqhfocFr2zm3kY7RVxVZh/C6ucJwOLOjXclLKKvmGH4e2Pn2h13VnURPipu+cyDFw8b0JePApMR+1aU93at9yzZldi/UZ734t0YvXYBd1eGu9pisP+5IZv7Ycxup3UKWE+JQH5X2b97+6Xwt1eTHkbQF3oxFd0A9KIyi4bO/qeP3q2zPNVSnFeX0swY87rbPBMkSrBpllpqPSYDhlYz88PWoSvJqgiQYK5rnTibNKemuZfa9jAWq0eBwNof1kgWpdgOchgHoYEI/u2+wfURQxJqo4P3eu42YY55FGsHXpWdTGIPLUPyEZP7bzJLyroreMlug6jz2NvYw19U11NE11dM2ttB58EDzj6vap9VuL9jbq7s0WBSNTjAmNWItwhbAxogCITTdn8ofz6dOQ0+F5lZ8hxATG/bpJ3ZIY+Enbro+LCfdJYqn9hMIxqpnT3spmO89CV/oaMB/J6dPQw4T4FIehVSGbrJPgWqGjNin2KLO98pJ0UXJtP4EgrQxDf/Zcwaj1vPqgzyQ3JVYUT8DmU+odgKSTNWkOtw3SUSRF0b1aWnxv5ORyETiFEUiWVFhisp8uelkReKMXeT57f/O6HlPMIZ1WFuCEKMf1fH/hBRkKgzzxDiEDg4zCqDCBfKCAhNLEmnsXjazo7urvIlZ1dzLbGUOdLKYbFpDexvcn1jHQkKmBfupRpvZYmaQN8KBL765JWaLG6nKDRVTbX2ju9G9rZz6wbCMwfDmF80Vd5mcy1Fg6QCH9tKd2pv3nGJWXRjU/ndo9AjNWG3H/XdNTF6ZfDdu3I7CTQMzo3sEswnK/He417V9yVAKmZGI3GD7ATDaDDHr6V0/SbGjF/anyyyFxkVCGxgmCCJP2oNDviMm/kS+6xpeN5uB7uPiO80o9J+8gzUkX2lw0U3Lvh4Ot0+D38a+DJWaoXXHOovtT5iWJl2sDfu39HyZNqxdb9mvNzGaFWkId+7RkU67twx7/2juLZwdYfXa4V1fQth8egQKgR27wOxr8EVW1dLK/SzF5/BvaTsoA7vjacHAKe4W0uBf+P2QrdlPkOs/mnu9Tu0N9SeXx7lYOL4O1N9/1jPo/kPd496Ofp5nQqIPq3QkHPqw5Yp/7upQiVg/mMnIY0xFYwUW7spH6NvAhmPIOut/tF0HWFPJFp5IQEAgIaAi6hNdFdaua199dte1rGtb66rYFQUUBbFQBELvvVexgFIEBV0ERKquUlSK9B6KdBAizEsBDUPmEvM+z/f5EXNL5tw7c9qc8x9hhkB3DHM7XK2lybTSjPc83/fCArZa3mO6uMCX9M5aB+f8pogB/56ETYUSkoZwb/tAetzgb0ivhtU3IzyyVVl/7N8KA3J5AnYy84u7GHU9vbU5eW5WPm70mAB//1QH7wcXjezpt6vv1gqQJi0U/YNybwghMvNlu5AvhtJ8+NrQxQI4pgozBLHYMroURYYiTaXKkL9tIQ48yGMVZ1/9qH5oaegW2TydbUiyothb/qmSPETVtbC29ABmQnEvEkco05WPcTBLfwSNeI/6D79du4K0JZD8sFmAO4kdewVsBMzdGEwyWfrLCU8wrfpBmMGkLFTmq/WitoV0zZFh70M1roJXgdvQHG0BiPqOsJ35Pl36hx8FGZyCrvu9TVcRd148/+Rwd5nXFjXl4XRgKAi64BASf91KFD4xzbUr/VF40bFo1s/vT21vgom8VViixcNmhc1lbgW35wGzRKHGEAeJHAnLcJOPogTH/w/iQv3x0sGAck1QU8oDtyBRM+xuhsjFYs8CZWCWIswYRJIhUVrUrWLHXDLB8f+DRgzJ7jeAIRLgYNTHb/U6lB4B4nrzUmE4MPmeHmlfSfRFB9HkWnHE7EfJfNEi9IfXhJ5kAxLs63YZmG4yvQLFFrYmSNMFzVgbROJRS6cRnmCa9YOQwoeu6bNluznqXTGrkbvVIij3QHWe0QthxiD20P+2LFVWlvWPRpOTGzNGfvRo+fGTJ06eqvLT5AmKCx9ZdptfN9DR1Nfav3PN7k1zFi2YraysKC9LEQDucxiKR2X+soBwbp8G0XNpVpx3ItODKf5HyOeAoUDxfOkj59X87nq70C2d7Vw9fG2MPkZXtrR2drRUNTY2MSrLKmsqq2oZjOrKqsrKyorymp7a93me2/675IqVgaODzb3i0rqqqtr6mqqP70Of2t9e9T3covQG1ffnuvu+GpY769iR5FFNguXCev2pnyDIeVrQ38HFwy6485WXy0MX85heBjN83R+HD+xYtXnDhgVT5JV+njJltvLkCXJskpfeUHTzye1vM5RMpcrRaAoLVObMnbsxFsIDAo0NQyGoxtO8M+ubhF3e8G4GAJj0eIRE3mvqDos2xCa7/uhfMHeLiFbzKpnIibSrc3t+n29G5vQrf+1IIwKpGo5IKa8QwNQ/9jrxGDfKTqWWCrXDZqxRDayt3eHeaxmC/KYtO/o3l26Zd99Uk2VXTGkpUiI6fZahdcZtPqmqO8z83IHIu2F31wlobGcnUoy5RdVjEGzZlkd+Q/K4h5BCcmaQnTnJMEcQB5zTHs0LJnblF8JsCTC/fhedP1T16GPc5LnrmfeG5CLLaTIfUjdanHmJ1pB/B0lHfEEDhrdfkBBoJSU4vMxn90W5cU5XoK6gdp4AqHRsAknbgWavMlhVM+mtH98TlzGzbLaPGaNxJSwQSQwgm3eHKACZ5tqW0uHR7bFkG2iGlrjaMFEpyvKExNYLAKtqbz7jCc4sWWY7gGwzUvGBEwAXvQC4w9KoyQ5g6cfY+lz+hrySRmhpGyyxuHdncNHHmPini9m/5Au9UoXe5xDPTwZmaKsLR5iPVCGD58aKX3KGB9+wN1fJxDUovtfeyo2XkR62QtOz9iXp3uvdAtw93vR6zijPOqeKNeTFVz6qNH7mXWi18euMnHv7Q39G4Zbgn4fkGQtMqwpXAA9082mbcfiQLX1rsMjWestw5qa96dJq3DMyqWrsfmpD36Og2HkswFE7ICfMZ42GeZBTfdk1pcJZG4im76zUA49sM8zj3jmY71EAYFpAU2B/URP5jad/nLDcz7/EGqtNAvLttbAh4IoxbK24vOQRAbzmbid784rzf1bg3v34YFU7i9Ds9upK+NzNFgBdlqi22QYkq9SBXLluK5GVRAI6qQFWQGSlb3ZrobEWs+Hbo/KDIaFCVSdIKAB6B0vf2KMuue1QSC8uLP6Upz1/40Q6yTbE9NKFUSewWPPW0fc9JIEodcyh85ejfJMSIj6vl2JeBSmlkkC2lgGJMl5E5115n8b1xUbfhbGx7bnOs7mrYIFW5Jr7QtXlaLRVVBWwRJkvappvjRwSZrLtH9xv5Vn47inTj4csn1+PwSMjq8M3PgOYVoFuiy3Nktt96x49h5oAyFa+hkQZrtOKryTHW7LuMVM79skGQB6/w8Ivh1MvqvpvzsGY4Sum+NAxjW0e+Sx1ao5Gjf6usUNh1fW4iXWUw9Y9DTMBX1pfHJxuDeZFMeAAACAASURBVDZ/wiCyb26p2Gs+gNYVzDZdSGIit3ZzumjJl40+zJL+5BEioyRlKBQqy9+hUtguD5XdA1dOZkahrrPVHSAd06Itz3ZARFceWvuei3Oq/VknR6h6POOuQ/uSWZLTuBHB6HVqrkXD9xLcMOfWZtVGDNqZZJ0lsKaD/2ThZr5NwXqPAWzS4DzNC1qXNTVvnrho7B4WFMOMcdD0SPyY/aG9iQn7ent6ur986WH2dvXCT011jJqyz05Rb/3cYFB/TiqtGbo/5nwWsX+/P1SofjmO+VWQnZmm/xZZyy7BZ5cg5y48yvWvgxpX48petXMvhGqAmVU4JL4ZCVFPBnDoVdtqu3srs15Fx7+KCn9011rPhxFvbGVmYU43NTG+dVX9zOmLl8+pa6leo2/YsGTBLDkSrQh+eX5gYI5K5hWcS+TEQcfW9x29IVQY2bEm8y57180MbVt+PLUGDWIaQ44ik7x1eFckrjhtfVC3E9jSiGlMPvbZM/1Axf7/kKQkqVQJssjXjSk6ockifmnCU739396RQlXCrRjuPPCL8A7wI7gUS4tsl22rYzFl8gaJm6zecRoNMOsWc0yxmbn7kt/xX2Zy2TTw+2dVFQZm3cubB5rcGcf/GAAPe4lE1+i8HZW8t1Uo9DX0YD/Jq5dsobOT4MUwPOTpTDtfy9J4JqhbdokxBOngVinX4feNG1vB392TL2M9MUmwuhrXlP5QWPpbbMP6gCsoCAAvjc3fnDDIzjbKVLJgS1B13Sn/yhsLFUw7CfOvJ7GWkhm6T+ICDRYiokCDyR24EbwRyF+9UptfP47O2HWsjb/Um/7L/dbOEmwgKsp/IcFIJVT/LOa9lFrrP/Mld3p6QH9zoRBl6YzkfZGsSW/aiwxqi/4QBNWbfVwD9szckbn8E+dota6W1s4rV2A0nk77nOdrfBT5HmNR8DDZCUdaBk2bOKhjzUX/Doe61t+VFj5AsWHzjqaw3r0JE2FWQnWHPeLQmXRwNzce150q5b/u5Us5Clilmr/Mp27f1PwsFOsneRPm30u8jCrmvVSiAGrbcmyHaW1wgYNggAcI+TGOHmmXZecZIstRGzodRhaDSTn3iznH5rXwl84yTyYBihSYWT8J83MGsMKTf39DFj0gfPfSLzUG9YqRroFqtzjci0R3b7ASivsAzb9Ovme90iu9CPfLjR6XIG+pf2N6V5nhL2EYs/ov7znlxTOoJZjeMmJzrNf54Twg4N1HlBpDyTiQzTM/yZfzviipc5+yDczyEgpF/HHmR9uPFPaSRGb+9ppKd8T4pXMl4yilWQoG/B1KcsJuLx1t+oyPGMm2IDEpIgwbIAn3HdoW4RvJpOgV8IxRJJDZduMad6Nt1bMV5kJxvyc7ZqYe29LtRGAjjaCaBsK9cR+bKXHZF7ZXdfmXvcoVT4+gHvJfWY/rvHQd5vphNV5oO3GO56n6QQ/1Kdz/1XL6jrJvXgqL2fgr24jQhwiu8+8lfj0TBn9lyLH1XHd7dq015v9jEvnVmdS0a8sqcVrtOvxghuX+CSQCUJBQt2zkXYqK5X0WTlyfYbXjVnaQ8PvpGDNAeulIPn1Y1KDTZUQ+ne5mn7P28LWww54Y9bo65rdfUuV/acBpNdr1jb5YNO7wNiIPd0yN0XvehzqmuuyOOff93IGlD/0ILsXS7KKfyGdZK1EblXqa8Dx6rmoX5wlJt/veSOD/qMkGLM/3uC6lDGvNAskgHPcioRi3mUu0Gq3XvNyT/DP33uP+TjBM9Pu+pPh+OlO6aFUzjT2rEe6vQQNUNen0cc8JUgde/PMRZVt3igN64H+wPh6L+xBc7xFSxCWi5gzUosy8QTH2iMporo8HHFKAWQLBpTgiX4P0aWypp9uHzHwb70tNiBo418Phfp2rw08YsH7Zqu2v5dTvKlTi+otIXzn+BNuBIRoSLl4523LejDXJQujuN46T0fYwY6zp95UEcGleS2b6bFUyS552I9yb5V1WR+z8XxicV7quMUbit98BP5JOV7CQO2utUIV7v1YQ4jOaPKAfwVBF7H3+5X1w5DR4N4g7842gpoFQ+HqPclZy7NKz3cjMt0j58y2it3Zzm+iJvfO2tOGPMS7L+MtzZ7AJGdtZx6mhzR2bcugGiVALaGWOr3m5pza9exrO9e8XJ971EyqquTr11hi2cX7pC8K9aU5eB2LrLWngLLNRxZ+8XflPNFHf/LiHuZvFy1A0/gH6NUvbFduF0fkzUVBeruxCEi/3EoU9N55x1/2M99YewzYqwZDYVpbGU+tBuF/sQ9dEdlZon7i7O5s8JptiEHVENqiABROoWO4vhlFDsbXiNjuJhkk+cyKdl3vptgilbI5FvasKqhkmE12LI4kVS+R3s2y6C0yEezGqshbC/cS2r6vdDtPtWK0+37nl+EhsZ52lDU/8sfrAP/JX3CEOrW/klU0iKVAvnSNdZ9f53fOOwVxESLe+vFjMVqNqPYjUuwHb2pHQllLr113uQP7dEUaknfeIUwa0RlweyYqM+lyshxsMXxDtfF+1quVdNEq18c/fcZ+yPdQ3EiqP0ww6s4PpYE8HwuolqB6FWB8zO7jcLzw8zSqb7zjFMnZaK7P7z+CCNLLWzEps/9FbMJ0gHVG6NJE3bCCe1l7X8nwq+6NUo1+we7kQeZxSofQ8LbbK/KkJ2bZb17i5CcFXntzJAVofedfrlUMpfz81yeGpxmQFahOmY/b+VhiZjO2s6gnTCNIRJd6l1/A+uAXBMCSOK0NCssOtXwuTzbbPUV85lSXzp1Yjxuk8hiOKSCD7mQO8qtjgRlmMKUY/XpSQnmM0qhvTrW5WdnhQPnbdO8ECgl5UkhVFlbyXBlU9XGqlxPl4vmuJgUDJMiitKI+bk/Uz6y8T2a1XiQ78xMs9mQTmcJGcZWvNwE1MHrLo9XVg5R+SfTjs2R0l2UVYjeeSfJDgBY7Qtqulin1bGqcrWjXMODPfCDLUzITiHoiCBeyA0h9DUJqdkvfzTgeKCNjUt5r9idbofsrzE/+ZrwrLztfbimIDdHNgYi6Oe1LkGuKhTm335NWWU+8lpHI209fnusd5C6fvSWAu1GKZIRCJKpGD7qKLcGoZZ+aRfNu9Fv7N/y052LpV7wQUbNUmPb+5bJDzxLmNiMwoacqoUV6+gRIUKpUqJ0eTl5eTk5dbuGr9qkVbdM6q6V+1v22nF9QH/5koNSDbx+vkf+ln2QsamAgV3VjpXLrnw3qWDQ+RpbqsromJTAeVbk5KoHhMzRvc+ow+E6DDbm2Pq9a+wWjPH7iWYn07Oj4jI+2hV0ZvazfsKW+FX5phdw+zllFXVVpVWVrW3NVcxWDkhcekPH0bFd0Slnqvp6AvgK2cpC4lwwq1SVyj+VQrvKgnKKDhIDL/nPusdBkb9QZx5ye/2tyKBG7X9tfDLb7XsBCpWhkgz5Me6qznU40psBkTA6vTB+J6pjDW2dXC6MbzRvpNuskty8Kk+sdHr184f2HugiU/yU2bIj9u+vxxFBqFDEgkMAKMiDoZ4O4uqvGy3GGlRmaGzZ6vIoDs02VjOWx7Jn70Z+0h1fY97P1gpOhmesmaMiSLTZnD/Qi9z9DKKJb/7dwzk+ONdlOYmKRLlYrXXen9U5dkz8nqGytjmcTpQySTHtJNmHzj9SzGl+XJqWTAFEYFb08P0Zz36VHfWfbNpb2wYOupiSw11nN08IFpbZ9R2TWyir17J+r2ICDHDZOB/7sf3SjnkWQjXyA8Fmlkt6YOLNyLbON0YUd9R/enMiXW8y9O7CF20g3TXN3Hm5R8OAx+ju/KM1b5KpfU4WUdgaC7UTLNt+HUGqn0qQ4+IPrPoXSkj4oUt8n8lDjXeNtKbFx6Yd4D6U5M3ujIM/BBxICHu6OVZbwE/St+JJN2v0IK0EpjVxCDZe1Od4YtTE4TR/L4yyXtbwxHc8Tm1dePrp8TJroBLsMM+cQt7DWNNMyhNORHIuZfP/CGSChcqoMpEpE6ERVROVGiHbMtsTKpKcSfEzoXHS19mjVg5aIZ4Eo6kCy4CmQZZVemYMdJosxKa8q5Hz/ta+BddNLluDcmu6aTgS50j7XGNBQhJuvq3RPZTG3smjW4I4dilQNE6nCk2jnvXrki6aUrZub7p4+glVAkcdwD45SIOM67d2x+16MH/usb/uvkzTE7/nBNWETN2xmBq2JcZhdSkwu9wnwQOBPasaSWrNOT1Lf/bSrUDvaykhfLQ3VZrucnpPXf/OrljQgPlD5Ots6Ed9WW5q/5325bx1n5EqrYJ1w+8/GiwA8cHy++JbrdFcQ3lNcaTjwfWVMIbUc+OuSPe4H60H0WMLJ4EjSkubrIFI2C3gdTgQ3G5SamTT12crtYFpNi0+rBB6jNkQyEB6kOduEW6aDX05mG2RibdGtkzqdp5BoMSIK4ZvOTcI7EGK97ySVQ8lyaD8v4V5cCjj5g5Jt2iNuGlubsD8wsfMYXnnyLVa7nEDRkgUgfZh3YMo81hzqQ9gEjdWws0CKhWPa+9Qjn1OA3TthlRtoSHk9rwOj707ABJrH1HEl05jn7zoK3HqUbgWG36Ozqg0D8Tb0ednuXQ7uqXwyVbZSpy87ovYWF/MOsw9DfPRrgHsumk2tGskakYteuQetuIzj6WPaJm9kpgu6HIpJUHEDGCfjhS7KIjPyO2y1tjd3x40TBtQKK44fp5YGspxq5S4aw5exmrexE3p8l0SZuNvfKrW5qCTFE08sEI+nkvI9Za6T4BCRGFZ12RYHiuAWbIjZwvS6a5DSIRAv5W7piMxzVtSueN1Yzgg6PAzZsrPGRac3N/+PtugOaSNb4hDRKQoBQFLuHWM6Kp6IoZ32e5RQbtvP06WFFBQt6ggpyUqQjeHYEnoAFsSCKFQ9QBARRUBGUUBNqgABWmLcTiuymLKyev3/E3YVkdma++ervExfCndgvhZ9Tnrtx8WbCkZZ9z+byzd0vlpfWPPIew+MrDImT4pcgp20fsHWqWUw48ThRgnBiTCJVOvduErh9j3InYrKSYdgETGsucLWRevY5vUaZGPblsBmakdeb3HqMHfqD2fRB4+0cd9m47N/h4unjffbYhcvXIiJjo+okJU+xNcXuvvlUvrgiL3bvhL5aX1meOPZ25ep7KDEvmqDtaNVKEgnKPLO5PYPuZWitoyRPG9NFXneE1Xqa5JTn2QdRQckvEp9kvnmQUFZZJxSWi4orxM9eFSdkVHwqLi5PCAmO9D52xsPX76y/40EhjHf0yaxKCnD8Yzj1CW+HQfaZf/og0+02IVdO9U3B3N6Eh49JjT5eNXQcJxPixEGmuk8eVB1O+Xt7Oa7aartko/368b3oQYFAWn2mw+WqAQZHU1VNFec9ZD+Kuhd70b7vt2Pd2AGFU6TMZQ8Jo1fLKEohEjevb/b/RLy3NpFPW03Tw8xXxnAQSSlb/jiJjf7DK4Whf4rYD4XCwumIAZhwYGo3PKiUL7nVeUvBXijXL60hdARAr2xsCKXOxDHKbfSDvjkK3cEUcfh1FwMv5Ln+hzBdrNTUIuLunSwlfb7yUpAyxlp+NO6s/9wN7KIfYinli5+CSjvNJCa/URQiooqZ8LV2EOJQktmqlu4lRHO7+ZlImFywZad8z3vA/v1+9LdaNygRYh2G95Sdow/v5fam8meVILRgF+NoaKvt3g5apWEyXH6J0rkZMFXPYH6mfN+W5779firCkfGUKKEC4QtlBW+Xr2Z/DV20PLjAk6rnkV8kiRAC1s1X3UDg1VLJbJOMKgoiJxvz0+Ija3SvUdK6IzIUFvxIwS9UlARJFUYHDzKD0IKOJ4T/9QoH2BFkPuM1uTBbFpd8ci6IoNSzK0w5CbHFjooONWXtJG6j/X2PUNrBl2RXEGQXuwNN5k9nBT8aDWIpVUYe8VfU9BOBmZUgmqjgHs1wHCXth7vzyshoNPcyTcacZgYQSNRpT0lL/izK9MGGbNUHHaqQIpKFuX5UJtQZT1NE8o0ZuvHlKhke8A5h04f8vy+jLU+kmtJ/Ef/0EWEqbpMqMV6YANUR9AjuDIV8G3yhoko2BHpqYqm8wDhzXdn7oD6r4qmo/MaPt034B/kMEojT9dOct4RqDyZ5GzYHDzT6bv8LpfBVQEBjqTJlrt/MWtnshp88MsS+EzE1tIjK0u8R6q4f6ieHdoQR9E7GSo8jTQ2yStm+zbmUHdo5EvUWeMMAfR1dvd6j5ixeuXyL3fbltg57HR0POji5eB1y9fC0i20ghABpk+/WhT3MQ4evcy4VJiLnOoHnNVThSKSc4ZVcyidOtcJKrDZYNMJGmAwiKcn8rTD1rUAgKC6rqWuo/9TYWP3xcxMsrYRZD2MyXyZmwbh5uMdZhudhUA+wR5phbJ9HhYXK/mOBz2yk5xNrTXoXaQSGALxcukk6pXRUQ8mi2KeRYVM2lKfL76KrjWhnELC/pqaOjHg6HWjk4Xi/NJZlS/4ZC9gtWaaelIjNeh535k8cKEeeG4h2ZxI1tjsdTYqLo9avTSdbYV4HNtzCNg8Eu8+Kg3GXrI2Azlu4yEqab+V7hsLnqcWlpy24gaY0jfCF2U/zE4i1xqkdLXInmkwdBF80QvFNlefNYojGNs8oPzGMi84jvTo4/Lf3WjRV4E2lHo+GSRngj9R34mmmLVqSeYrw9KWOGq6PqI1erVAJZy0jq7ku2AJWWLUeDfz6d4Y2TWDHc5p3hxuTETEEBZACCN2deHXl84lZd7c6OvfHgsmfkQMtiRLWHPXibdi3GucYs8eo7dqgjIt/jq+h/xc+CX9JiXNzwJpml0EkIUikkQ+JnN2sQnKzXXun2xxaW6V+J6GjtDNHrJWBS1n93vYxp+65aefX1HP4Bdn+lFbbiFq4EqADk0g1pVnz9vg0/CWVLHJnZVTZ/XfHQGdpxFugLVGWq3rmmVCyF988mp8PTdd9pC8sy7x1hYq3bz80Bw4o8nKTkB+t80zcX0dVVZunrUUDalyejo62VqIHHdOoOHrI9aht2EVXHXB0dfh8HX6bsT8ovwv4SagaTK0fu06thaJbrDH3YNAI4pk+peTFPuMMhnHN3YUFVLxeG6Cw50ZkIXjhszF4gprakqr8nA9Nn4oHgD0iQVlFWXlt/YcUFjhcIywpKS2rKH+/A5xpKBKWlr1re3N7MbWRlTbTMY7CVwFAt36x3Oss6+PVIu9UU5kbBtVw3sw33CgYvPsFhX2vmSSGv45AZnMAPgNP8+mP6pxliVZW+6ymaoCuUyeajR093Nd79gTsI/sPNh40cvSokaM0QZ+xg4eajJrUxtG1C1M6OOVL91Ai2JPTib0ZPd6L7bvQElbI3BjxLHrFnhzGElHyaSJ/QIewLgraTEAkZ0vxwXqNeAMA7AjnwDlSbadviSndrV7PnhKxZnMBuxyoDOFhCkjmf2VuTHyavP7Px2B42t0EShlrB+B1y2koiLUPv1XV/+neWn74BUHkZvv27KeSVeAQpXxxwC/+QfFNRoKsSFRJhDq734Pt6ZeOdKIh4RdYF0eslHpUAvFSTzV+CAAuErzZGE0+erNbc1BFd6WShFvF0K6Ts+9NXLy8/f2nspgZG2TuDSmFmze/V9Ureu5NycqhsVl0DjpGwvCKHT0KGz0xCS6a9AUbvnwch+nqriWUeH+71+NkPk2TN8wuufJ5iLd70O1UqxTZBNB+hVdX2kD2UPHvG1IoeDdoPC4HcNAMR+KTQpiRhgC4fcAH1M+RJkT+9pj/EhPNHpQoZUGP2qnt/tf75LtqGJcFy4VHmYCunyzHeTXhfaPt73W0hfDWyjccmbuk4OdUV4+0Ri/1HF7XU43tiq18QmlyDGmh86owbk4vbO4FlPROw7ovYXQNx6bo859h9J2PhYWJH8UxYC2U9WuZN8LJ6zLAKrh5SgWV837150/9eyFnoQd+sXISDWWl3k1SmT83cWjVytmqe4mVnR3Dj02tGYJ0u2L42T8evuz/rEkougNhIWdJg5zxzZmDfUnWYJg1K4OKZ8tZYAuc0fb2/IgbKeeRQRvBThviSaVet6u3Tl1LM9lNbfTDP7Rk30xOqFy22OX81aI8P1FdtSQ9ZCngPhTIBnqQV9heDGZUvbifqzTrRQHsS4NMDqBct2B8WY96XBdMdBOoSOLI6R02hXgdP6pn30Dlu4AedShTiGlxU/JEkGhlO47TRX1Nd6aWoSGvj0+JSE72vlFxAHtXA1jUlH6xmAqnMDcpBbiiXDcCwR7z1jhs9IR9f4fUdKNt9fPy9evr8J7S6Gmx4gArr5zKPVo07hjbiOfFmYG+fn6Bd0rLC85byEsOndYIt03K1+A5T51fR2Xf75akLZqJrOrTePWMETdb9rxPIlWo9C9KD3oHaisfqG49ERBm2frm1Lua2Pzl7rfy59HDFAxt2KfPAzm5PdOLYzYqpHtQBqeP2XeCUBQzHK+as5Iw8XvwHX7ur5KmAutnSCXFgU9fz23dEWx/lbVYI4XuCSNWVVF43xq/pkfaeiHT/iienp3xeLksCc8V0mRYnZITXn6uPEfJN0kqIoXF3SRnrXPA2Df/QjaFTzRPe/Kkiw1S8wh7nJm6QlbmhyqoSfgCvfJQz+C3xvsL/63eLngYScTGI95ygU2uWycbkTbD9Odh+ucQa4OrEHfeMxMxpdNRgl/5PqSlviao0pIF3PK/z+gRhoroG2Gug4DKXvO57hlyBtU1EFRzVvxEzFqH+Iy9k6QUfkbPpPLpLyKDy78E1rYd+oNENKec9JsiKp8473ODhR+yRw9V4Mwy1q0RqMyv3ehpNHCU1GlB05CGfXc3fevcMvkwePjGa0oNVy903vpSCno+mAbhcnfkg/TEc1/TLpggp187b4MKE/h31Gk+RRGt6DdGv2xoufQ9mvUdlVRG75ZjAlxRgxdPwp6OsURzj4/mhHY0WDZf8l1Wft/EzFQwJQeNW4Y/oENYWJnW3MB1EUGPu78J+5MQH8841oHObwwk77ZQ+i6dhqWweCft53SD1RsXbkqmEMHuGf4kR8cDZS/sxDujaLGWyOGLb897+glpmXevxAw/U0wOK0nC+HZgDaiGY2ZWjC+G9+yosIzRd4ftZvohx4Yz3ilKu46ZW9YEMg5vcl782wkWfnCOqfi7jB70EcONllUs8/yNTpTq750wC8cXzf0uvEebdmM22vf4ErFjpDK/T0k3AELOm1V8H6nXv6xs67hXYC3M2dnJ5tPNWAELVNzQeW+bgTOiaNf/A4DZZzzhXTgpYfGgQmzYG5+bC7/P3Gscr1T77QEYcWkWpZUPFjUW8lwRN/oifEmXyrVJXyhmWhFFSuXVs9gQgFh/ToEiuqFviz+MUpfvFnV5URToQimK6XX2rMcBNCjbOPyNmN8A6F43C3ftDjmJ3YUHmmNFZprp32fud/cL27sJ0gOvPThFKVNo14fK51GoDI4QxwN3bbCZrMLXokYrzSCXQtcnfaMq6CX42lxy9Q4JsfWN4gFLn4EZDTcci5RXs8kHW0cbHEb7fjNBh4/F5r5rAT6P5iQpaa2mg/WfuxJncQpIsqlZhspHZyntnaMrFbo0OlDrpiv3efYkY2nCdHf6xD1Ue+d5IDVvwxO86+j2WgAGCvGDOEoalmf07GZw/xmXR9a7dYvC3hIIqpdhHBrMjiJkeyx4OjepuEAp8yBV0LS0mmMP7gQ97i42elOCu+ik3EJQAs5HMwDruCKCvRbMyVKyUJmPIZS24ptXjRTmy/BIyqkxax9SUeRJsKC60OQA2vJub/BL5xq28keX4YWXD0kCqgoAg29co2O2VwCJzJ/0WHEdwpI/o10iPbC/pjpO0IvLAyo/9XoOfcPg5YEKf4UqnD+UOJii2KGM/9YOgBnV+LkPIDlUtQAjMX/U9GVsPaHyPn9gQbbCuVfPEM2b/3TF4r/OF1WIMgsaLtiYqvy427QMir+qCZxcDIU5mk5IlBO9WHddAJhdi59Cb1J6h+5VhblV1VNVhYOUP2ciVKgMDhUmveq3LLk+dtN4s7kGpqvOFDfEj8RWhHNLYYb6N2wP6VSUPk0azSBGrVBO7rQ6fDz9kIKq+y+gaTLVf7iwTuVld4WP+OzHdra+QOHWGFGw/nqZ+ygkFVdnIINRjbO4snJnq8xnJxFbOH0Fgt3/ijFDWUvEuM0lb2Sm42fIowOuw2GXahO6cXIUp5xuWK1/IntbnkJ1iBEkONXy0ru0uhe6bhTltrDbecV8w6a428QZZ+xTsIPFohY/0uteLXprO+wjDUzTfOLWubu0MsnLx5IrBSFjFZrAPybHt2QnoSAdt3Wo6jvKPJFYDnikeFV1Hku2ALCmjAvAWMLphtKsdQvwxGtu2cr3nCbgimzBtkCgLVBcpaxdbXXUlZ8nZ98PxyZh1pu/pYl3Q53djt+LPP3i8b6DW82lDuIhRbGawOMVyVHaORysiRq9pRwTwOZFeFv+ARo9gSHSLk356LFvufDjlSgvwMjcqfipHVXw72nlclxf913BjEZpazIdt5ok7NCvgo9y4cvcuhPSw5gbf9elXFlvic6jT/jLwftzMDVvQQE+bnNfOvf4le/UpLw/HDrDeXaFr0eCzLWKn6JpzLgbLq8GZarwrkja+ms+jHe4nf1wm3dIzMWi23+b770uPY21Sj/2ArS5PWR/kyr2VIQPORCH/eBQgT+Bb2CaDb8I791wrVCejNTctYx9coeKcJbSB8Ev1QQzyGAyJuSDUe4GY/o/78Rl9/YPpwG9GXSgsfzI5YQPjx21wQjTIcdvDGFVXBw1i4pFIw9O0Ba4oYNs8T18ouvhc9gWrV+Ku2ZLEs0Y1vzP9mzdt2uUPGb2K9AnZuZdg5uBTyqYn94/AsLa0DHYWmfwQLNCSOsX19gk9q/eC8DOd1rT75SKHckH1iGMPym03oMIMLak4a0c32BsqdXguaac85QHqFpYSlYkMh8q6+3qfRnwiYeCSwZf5eZo7M28g/Baq0wwV8Rv+QAAETlJREFUb+WyVllb51Qr/evhESqv3/hRag0kB2OO1f7uEIf9YE9olOXnj3KmF+KuEbVhIlrelelZlSRl3AyuIjpPNBx3aYL3rZEzHbEf3N7Cm23TsDiiza4NSyiX8q30fG1kLekxROvb8C/8eiIYuKBohjOB5ekipu1ofcbXStiJlY++Jetm/BlG1hYlj43/C/AI7/X65/sXrsxHoaXMV1+KbVltSsHoV3EfGqWscu6bgJFldco3UXm6h2inzlqEPNpEGw/pekTenAMi5VIPO63Wnjj8d643KFVEMdcM9uBanL7KePDwaGOtEaZewed96GdaVbx5raRFxvXO4AAsR0bebxFgLoTU8v+JMIzRch6/F8399AK8pnsSM314YnwVtjUha5kIc2yxPvIdZ6YF4uTzcjRD07b0QSUu3Xz4YmOPwijslYcnuiOa+RaDplsL/5OB4DC25uveJ2FSkHVFn324seKb5IYwH33KoDkLmCjpE699HT4KtLVDJ3J1+LoIfIPJs7XMFlhaDBpovnLhqMV+vvNlXUm/Y4ZJ6RV2SzRAERyyqwVGkvaHAleUfb9HtjUYUzk0az1m1qx7bi69vu1F82eESv3Np25/RrR9VzcAMMj864bdiq5Tu4HhSJqOKMVr3lawKi+vrjA3O69AgJCXHD7maOLVy0cu/u/0meiHwWHvZNsnWAP1F9M97TE9tVIB7yZAlKMn50dqS3Bn6en6S9YZXBAVvfatdG8FSqRvb9Mr6faeHi8VN1MgRHlDAaQJJBTQvRB/Bq1P/qW3fuoadd0uXfWkk8+mgR6IdxVJW9Tw2Uc2sLMa6OapeGGrtH+5klTzlUn12WYVuI7tVkLtQ4FARzwlosV/4i7tVKQutRbmRjWfgCoJsJqHmk39CxHSAQK85h2GnXjqle1ZBNigW0jrCTRtJHCXbfW9GvCeMrywNaGasYB4rx0Ys4tCSnDJ9ipq4GdzzNqaVNV6EG5Ccq1fKLYS+qzY0/JBTh8llgAM/jfiRKZlBA/maey8x8l8GhiY1nLiDWiom2sruwLXYwZccOrr4EDWA0VU0s1g9Kyair+ibq0LPK+ufdOqww7IG8AEarOZYHNT2wm49ew5L6Cukz4QMFTVNTQ4mjw1OlNNQ42LFAQam0oYsxXdMvELKgKbe94nO9w115wWRcSk/tVsNXx0G2EuoP3h63Iw8BCTjGqKX0L4bStoAvzbVwD+v70rD2vi2uInYQsQtgRZLFq11lrUosXihk9RsVYRRYtatSpW0LortYAFBdkhIGFfRKWIUhW1QKl1qWgRBWRHsAIissu+iVu9byYJMZNJIAQe/ef9vg++zBBmcnLnnnvOuef8jqyzE0y7rLS79X2B4oQOxKKmnas87xJ7NfWPC1cfZF6LS825dfmOv1tIRFhSpEH/UoqDdhrRkokOwfmWthDOOTXzovDjPSOp9mTmav5cpuT2U7Wp+kao0vFwvQIkx9RMFji14al7SmCGgD+gXvrMA/Oi3ffL0HV0tZgjtDV1lKIjFY+u+zT2Z1U9xfB86Q3AMY1E2zMEG3vGC2IZ1JRE7tgrpj8uXfU9OcD7vmZ7qnidz4GaMLPBukwZuBRYxZRXUQE5RVDQ1Bi36BYqbd9ltsdq7Qrj5cuZ2uaqVSjU1HHfLV+PA/x4ONsPanscPPH1R9heGwh0G4gPDhu7oHYP0cuZ3tv5jTbGAOwekL5qyTiGDJRB8+BLQeltgv2u1Ia63E3MsOp4hZZaX4R1bbX1hb+0vL12s6yxubOjqathpmGCZh1KdUiMqniQcoNPvBNxCu4jgzA8Kj0Y6cfUEeM4OPkNo4dYBDapgCf9styaCdvIdVdHJLmRWumKSZNqXjsLnDp61Tf75Um7hPKyqc4eLqNGmYDypIk6sAzd+ZoiS1fVYDAYqpjSVW3iNFOKchQgpgmO3/yu4rNBS69TR9RDV05gdjAi0B3A6N493K1dpd8scgZh9GXe8sGoiojTSWgQek52VyjAVdQhGLWb0hSz90e2wBmNNvQzZuoWv2d7H61+9OTosj8Os/AP5pknvdZnNBKJjKJv402/iEwXSyp40S+lOTPBvZ60GXVYkhsp5MTdcOxBQqyr48vU4HJMiQAfp1GPO1Cp+QIWxyaEd6UXKNhUL804Fwyprz4/hfMneAxC+pH1xDCs3zVc5xPn/ZI2nj1oUtG21v45yeETbhsuGvZ/p7ayHwrNEs2nTDjp4vO+9doyzI/bdE9eVu8a3xsMjcrCFiK9Vj7vjF7J49IQUBkLF/DcBccs6aWf0kbU+QEX8VZUloRz/D1d5uTDk7dmkgK8fZs4vZiuC4pyj4Sk1+iyBOdzbvzgEfXBTTkwxKw85UR+k55k1D0DYG6zFshz1x6VphMsTsMuDtPF3nTppdd+QayD9MvCpO/eTjhn3s6Tfn9+Ugqb3NLLlnRGFOJWYL9OC6SB0OS4jDcWVT91j+WdM9qDTTKbNHncr9jI3bydUcWx83+oklPtLRKJiHONgF2XjDlcWe65g5j37USn1KdEBpSfE8PyHM53HNN+OHypmLyl2UcQXwBn8/wiDoW+J6+Rz8bnNusmKD+ef5ZHXj3VHrerfPI58lzhpgdf+tsdLyS4GApbUR1HAVFvsgJi5J8HT0zAi0QPFUmv85kdKwjHvngLliwik7ZpK2/snVD1GiAblhKteBBb4hW6XoCpWLXtJXappe0jwPGRHdd5ONIzhvMZMjhH8ml4Jod+/YaH2PsUim1gwnnuZrZFwXbfGMhpnc/C23SmSFWKywWjfTnh+PgD7JGsIWpmfvKxZ5a9wTgyT7q4XiFEOOP/GC0QHTCLtv91p2LOUlC8ntypj60orDyuWnco4ypW7b8wJ/cyqsTTBT+Lg4XpfyZxTG6b26zgGMhAm11OAn1d0W2Jbi8SWk1EaoPQh1SQybAmnNvRydvL0fUN+UCfnMAlGSXLfOTvXEgobHRGB56M+6pECQxeoXsaSkVXePpUhj+RV//mgBAnzHZuC7DeWDdzeFfMqtzc/CCze717EHz8AklFbcaFXjtxXzy8RwVkHhKtcUJgYWUVqeZOMks3MKvupFGY4He3EDmspus2GQJsRKg6PqDXkBi3vteYpqYibtPMZd1as9OcgrmxZuXfWa4u2zqRiUcgUBZd6LdyRDw+6SYyrDi+UwdaPZFkxSqJ90J26Vr1hdWkTT3JpD9zIlMTfAWllzkYFL8SLu7CpPwpK+kef/p+eZqnxzR/R8/ecFbf9DPYGLTyCtV1M+Kcdq/4+4iONxsUnOJTpffxpncbEY5346UemUTqsQV3eB/M6m3XQaMCkrUjmfTJZQ3R1kGEqKAlQh4w6Sx2dep19PryTF4YYRpPsX5UmPk8gR2JNwh5xMCkr+QNlHqxsbOPXGn4N64BoPH0iVSUhlzoNhoSjp2KZED2EVHrzWnl7Z/urL05b90jkqUrmfSfHvnJa+MJAl3biIuoXAH+wr4Rm6DknEevE8Zy5A/hLKoy4++ghCg6KEXO+fDlKmxla+d7JKaf+RyHc68NvNiY141E9+iVCDotxoTjgxU0oDUQibU+rePGGmjqVsFg00CKqUvIomuT+cA8gJjuLbNjC7amPZthNlEZfug+WN5xVZtGga+2A1V7c2Gj17M8fLGZvakB18Ly/DCM2YVdtm7z/LKV/dgwwn3/X3101+sHjJYFhGOnPMzK7CCuYTPbuKHaLTWF5Qsp5PQMyaR3S9PbVZosKvQ1/3U97tJZvE2dFVJd+ouHB8vlj4bavMZnIRxt+0EuIsbxFyYe2ua8ND5fyx+TvqA7W3prh9E0n3DsU0AhUQ4ubuMlI204vFiXQU6fk0z6UwGgVotEdFVR8ETFY/AXi04XhPtc77l7/uo/zx2fZpd8z1Fn00sCN1cRmllQPFYe84WCl7OPBwDN8YJUBINc0B8TuzmycNshmrimL+619db2xMDUYyTTSjLpWfeVN1XGiWDcjUAL3V9wOjeBUWLn667q4pLqmvQEO+7aYvE2Eu8JJehzq9//0NsPStHmU/6g+/yVVA2BuVB8wg2eUhXk6UwNOjUM9xmiE8dbzli29OsFS/TnrP7WyKlrOvOTqVNoQGFogEU7w3T75g3fCbiGdhLd6YPs582WoSLy6R1X4s3HHbizd8qymV/s/VGZzlOtlP2Isy3sjwTup1jtsccd0v+x8GQD7V67MB3gACBXVBzze9qF+Kz83MqWlspmhFMJh79r6Gxsa+tqaa1r6mhubmmqraxtrOVy+mrmj8x73dQq2LtaIg5hoEzXXmd6XlyJz+eNT/kKSJWfmfufkiyeorcV2ATSuh0XcwCKwuIC/WHtmYq0QWRxmsUFhibEOuxb++0q4y8tFnrgblOUuTIeVMN+mEwNVaaaKlOTyWRg6tBEC09xo6mrqDEEVn3J+I5silVWloekizNNdG0vRu2cxdHrBni4SVb14w1Byfu+NuVNNAE3VvHu6ShXuNszyy0ANsUmkNmIpMZH5pjW2y0mML2hq2ib5hmSpXtaoisHhYF6bkhfhQ46NmlVoQFOo3eGqa32SG17dEgTVBoRucssJb1iiz2UZ2zzCAB6eqZokq4BgUIBeUVs6pn6Y88RQ0tDRWuJuY623ogRguUEsgltq2RjSdKL645FxKzKoNwUW1LHKx7UXFfp/HZ9q6FHXHJaQc6fiSGHF9BhVPymFTbk1Vyt6KKlE+VhZq4DZvfrnxp0IqNVaEqm/fWGsuy7ed9gNsjd7hcIobKz99PLWwUCNxTXjBTVEbdJdr6ETN4moQHjrIPE/NEB1Zk1WO8diddi7I2icp7zKbWoO1JU4Gba5HU+sJF9IMwLdCuu9d1FWwI4XfD28W1OOebjHYs3SFs+Z4uXe7I5qCgztQVy5GS/d2PpK4aTknjEdMcShf3iWt2PdbPRa0F79xdYKnBXXcz9LMzZd7tMROiCfukYdwQCImHzm2qp2qQJg0LHbaZV2PqhkSimGmbOPDwKS8rDHsCS499H5o28V/lcW4RWA5vbi8z18RWnurki3qjW+dLSEK9aYofBxGr3/tmAJMaXB3DyPTGjuaY7XE+LXHE4gKwKVp+hCDn4MWkLDc5z/RaX1mAtkUEres6qo2wITDfy9QSd8j8lC6hLBJNLctY+bHGtGqKadEfWkHTsAKpBvftosoZDHlsQZUu4DDdMce0ytO/THD0pFTEnj4fDobZbws2NBoHpx6yR2E14s/RbtmBLSrPuv1iRD2EqH5FYvryfN0Q72rlBwW97XKJhduuLIZn3vTjS6SquCsqkJNMazpCe/AGM/Sei5vFAQfU5nuZu/ApZHzkDMPfGk6FKXsbhhO6JSwaX2eEKDLLWuzN0/bskgvbVK3f26Bmt0ffGFZ5h1FDefhsqFJMfRE8elXqMXkEa+xzpHWypIHsjzXwH/oIdjJm9tCEs1sLc7cwsMYmpE+uZR+NESP9YKi5R6aEQM9MnGEyN8dRK7eJrfTVaGjA+DvcWU0mtEJ3+8wTlJ8IU65A7fAxLHKhUHHfO1ih/czaEDWp2Vkb9/4fksEO7xOllqpYSUD4njXS9VKx60mP7fdq3bhrVyNjKGybmZt4eSq23BiWRRrdvlAzps9cvlEoKZa0dt72L9/f0g5Wv9vddNDQwyH9UjgbYZLZ0mOd9UvUCO0/Iivs14jioxfbdrHKA2Hrf9pk4N1QM2oby25cAh/Kve3vBd3VzPYPAtuzQYJI1SZdGht4DJLMYREhZOsiASwjuFQSxQWuxfsIQTjx6+Nb1ImhM+0KG9NsJ0mI3Z7/lHL4zpHNzmCeeEIbb1sPgytnZPYsXjcx++D9gZxgAaob/9n6cbetI3MFZUjvMakcIN4Z73gNYcDT9F3hQi751mI0tIfy7d/8//kX8F4gvhoI9x95CAAAAAElFTkSuQmCC)
+
+Figura 304-1B
+
+# Anexo Nº 5 Normas de proteccion y seguridad industrial de los tanques de almacenaje de GLP
+
+1. Protección contra la corrosión. Se debe tener especial cuidado en la protección contra la corrosión principalmente en los tanques enterrados o semienterrados. Se aplicarán los sistemas de: protección pasiva y protección activa.
+
+1.1 Protección pasiva. Los tanque de GLP enterrados o semienterrados deberán estar protegidos convenientemente con pintura anticorrosiva “Primer” y cubierta plástica o fibra de vidrio reforzada con plástico, de forma que la resistencia eléctrica, adherencia al metal, impermeabilidad al aire y agua y resistencia mecánica sean adecuadas a la naturaleza del terreno donde están enterrados.
+
+1.2 Protección activa. Como complemento del revestimiento externo, los tanques enterrados o semienterrados, irán provistos de un sistema de protección catódico.
+
+La finalidad de la protección catódica es garantizar un potencial entre tanque y el suelo, que medido respecto a electrodo de referencia: cobre-sulfato de cobre, sea igual o inferior a ‑0.85 voltios. Dicho potencial será de ‑0.95 voltios como máximo cuando haya riesgos de corrosión por baterías sulforeductoras.
+
+En aquellos casos en que existán corrientes vagabundas, ya sea por proximidad a líneas férreas u otras causas, deberán adoptarse medidas especiales para la protección catódica, según las exigencias de cada caso.
+
+Cuando las corrientes vagabundas puedan provocar variaciones en el potencial de la protección, el potencial podrá alcanzar valores mayores que 109 indicados, sin limitación de valor, para puntos casi instantáneos, durante un tiempo máximo de un minuto y valores máximos de hasta ‑0.50 voltios durante un tiempo máximo de cinco (5) minutos, siempre que la duración total acumulada de estos puntos en 24 horas no sobre pase una hora.
+
+2. Protección contra el fuego
+
+2.1 Extintores. Los extintores que se utilicen serán de polvo químico seco. Las cantidades de materia extintora, como mínimo serán las siguientes:
+
+a) Las instalaciones de GLP clasificadas A‑O y E‑O dispondrán como mínimo de dos (2) extintores de 6 kilómetros.
+
+b) Las clasificadas como A‑1, A‑2 y E‑1 dispondrán de una mínimo de dos (2) extintores de 12 kilogramos.
+
+c) Las clasificadas como A‑3 y E‑2 dispondrán de materia extintora en una proporción de un kilogramo de polvo químico seco por cada metro cubico de volúmen geométrico de capacidad de almacenaje con el mínimo establecido en b).
+
+d) Las clasificadas A‑4, A‑5 y E‑3, dispondrán de un mínimo de 100 kilogramos de polvo químico seco, incrementándose esta cantidad en un kilogramo por cada diez (10) metros cúbicos de volúmen geométrico que sobre pase los cien (100) metros cúbicos de volúmen de almacenamiento de la Estación.
+
+e) Siempre que la capacidad de almacenamiento sea superior a cinco (5) metros cúbicos, al menos dos (2) de los extintores serán de doce (12) kilogramos.
+
+f) El área de bombas y compresores de GLP deberá estar dotado de 2, 5 kilogramos de polvo químico seco por cada metro cubico por hora de capacidad de trasvase, con un mínimo de 50 kilogramos distribuidos, al menos, en dos (2) extintores. En caso de que el equipo de trasvase este situado en una caseta, estos extintores se situarán en el exterior de la misma.
+
+g) Las casetas de vaporizadores, si las hubiera, dispondrán al menos de un extintor de 12 kilogramos como dotación suplementaria a lo establecido anteriormente.
+
+1. Instalación de agua
+
+a) Las instalaciones de categoría A‑3, A‑4 y A‑5 deberán estar dotadas de una red de tubería y de los elementos precisos de acoplamiento rápido que permitan hacer llegar el agua a cualquier punto de Estaciones de GLP a la presión de 5 bar con un caudal mínimo de 15 metros por hora, para las del grupo A‑3; 30 metros cúbicos por hora para las del grupo A‑4 y 50 metros cúbicos hora para las clasificadas como A‑5.
+
+b) Cualquier tanque aéreo de volúmen geométrico unitario superior a cien (100) metros cúbicos, deberá disponer para su enfriamiento de un sistema propio de riego.
+
+c) Las instalaciones que no dispongan de suministro exterior de agua, estarán dotadas de tanques de almacenamiento y medios de bombeo que permitén el funcionamiento de la red durante una hora y treinta minutos, a la presión y a los caudales establecidos.d) Las instalaciones de la categoría A‑3 podrán no disponer de la instalación de agua, duplicando el número de materia extintora señalando para la zona de almacenamiento especificada en el numeral 2.1.e) Para las instalaciones de categoría A‑4 y A‑5 se dispondrán al menos de dos (2) hidrantes o tomas de agua en lugares distintos de la Estación.
+
+f) Las mangueras deberán poder descargar el agua pulverizada a chorro y bajo las especificaciones NFPA NE 14 “Standard for installation of standpipes and Hose Systems”.
+
+3. Elementos complementarios. En la Estación de GLP se dispondrá del siguiente material:
+
+3.1 Carteles. Carteles indicadores con el siguiente texto: “Gas Inflamable”, “Prohibido fumar y encender fuego”. Se situarán en la proximidad de los tanques y en cada uno de los lados del cerco y puertas de acceso.
+
+3.2 Equipo adicional. Las instalaciones de la categoría A‑4, A‑5 y E‑3 dispondrán del material siguiente:
+
+a) Una linterna portátil y antideflagrante;
+
+b) Tres (3) mantas ignífugas;
+
+c) Tres (3) cascos con pantallas de aproximación al fuego;
+
+d) Tres (3) caretas antigás;
+
+Además las de categorías A‑5 dispondrán:
+
+e) Un dispositivo de alarma acústico de accionamiento manual o automático‑manual;
+
+f) Un exposímetro.
+
+# Anexo Nº 6 Requisitos tecnicos de seguridad e higiene industrial en operaciones con cisternas de GLP
+
+El transporte de GLP involucra un riesgo potencial cuando circula por las calles y rutas durante las operaciones de carga y descarga, por lo tanto, deberán respetarse como mínimo el conjunto de requisitos y medidas que se detallan en los siguientes acápites:
+
+- Requisitos de aprobación y operación para cisternas de GLP.
+
+- Procedimientos de seguridad durante la carga y descarga de GLP de cisternas.
+
+- Cuidado y manipuleo de las mangueras.
+
+- Recomendaciones para conductores de cisternas de GLP.
+
+1. Requisitos de aprobación y operación para cisternas de GLP
+
+1.1 El vehículo que se utilice para transportar GLP a granel deberá ser previamente aprobado y habilitado por la IBNORCA.
+
+1.2 No se podrá hacer modificaciones en la parte correspondiente a GLP sin la autorización de la IBNORCA.
+
+1.3 La IBNORCA inspeccionará las unidades para verificar que las mismas se encuentren en condiciones.
+
+1.4 Todo camión tanque que haya sufrido un accidente o siniestro, aun sin consecuencias aparentes, deberá ser reportado de inmediato ante la Superintendencia e IBNORCA.
+
+1.5 La novedad de todo tanque que en cualquier etapa de su uso muestre evidencias de abolladuras, rompeolas o cañerías internas sueltas, áreas corroídas, hendiduras, perdidas u otra condición que denote peligro para su normal funcionamiento, deberá ser informada a IBNORCA, quien efectuará o determinará los pasos a seguir.
+
+1.6 Todo tanque que hubiese estado fuera de servicio por un período de un año o más, no podrá operar sin haber sido previamente rehabilitado para tal fin.
+
+1.7 Las cajas de válvulas deben encontrarse siempre limpias y sin ningún elemento extraño especialmente si es metálico, y antes de cualquier operación debe verificarse el perfecto estado de cierre de las válvulas del sistema, en su estado líquido Y qaseoso.
+
+1.8 Para cualquier reparación en el tanque solamente debe recurrirse a los talleres o fabricas habilitadas por IBNORCA para tal fin.
+
+1.9 Cuando la reparación deba efectuarse en la unidad motriz, es aconsejable dejar el tanque sin productos y efectuar las reparaciones fuera de la planta y en lugar abierto.
+
+1.10 El camión tanque debe cumplir la revisión periódica, tanto en lo concerniente a tanque y sistema de GLP, como en lo relativo al motor y sus elementos constitutivos.
+
+2. Procedimiento de seguridad durante la carga o descarga de GLP de cisternas. Cada conductor de camión tanque deberá cumplir con las siguientes indicaciones al llegar a la Planta.
+
+2.1 El conductor deberá usar ropa de trabajo de algodón, evitando las que contengan fibras sintéticas. Se colocará casco de seguridad y guantes.
+
+2.2 Al ingresar el vehículo a la Planta deberá ser inspeccionado por una persona responsable, verificará el estado general del camión tanque, carga y mantenimiento de los extintores, calzas, etc. El vehículo estará autorizado por IBNORCA, y el chofer tendrá la credencial correspondiente que lo habilite para manejar este tipo de vehículo, otorgado por la misma autoridad.
+
+2.3 Se deberá colocar el arrestallama construido de acuerdo a normas (se adjunta plano) y se inspeccionará todo el sistema de evacuación de gases desde el múltiple, para comprobar que no tenga roturas, fisuras, etc.
+
+2.4 Estando en condiciones el vehículo, ser permitirá su entrada a velocidad no superior a 5 km. por hora.
+
+2.5 Al llegar al lugar de descarga o carga, se estacionará a la distancia correspondiente de las bocas de conexión y se parará el motor.
+
+2.6 El vehículo se orientará hacia la salida de la Planta.
+
+2.7 Se colocarán las calzas respectivas (separadas 5 cm. aproximadamente de las ruedas del vehículo) para evitar el desplazamiento de la unidad.
+
+2.8 Deberá conectarse el vehículo a tierra con la instalación que a tal fin debe poseer la Planta, asegurándose que la misma se efectúe correctamente (conexiones bien apretadas).
+
+2.9 Se reforzará la dotación permanente de extintores de la zona con el matafuegos propio del camión tanque, colocándose preferentemente a favor del viento.
+
+2.10 Se verificará el adecuado estado de mantenimiento (ausencia de tetones, ensanchamientos, fisuras, grietas, signos de destrucción localizada o desgaste en la capa externa) y el buen ajuste de las conexiones en las mangueras para GLP. Cumplido lo cual, el operador de planta las conectará evitando que las mismas queden tensionadas o torsionadas, como asimismo que pasen por debajo del camión a operar o de cualquier otro vehículo.
+
+2.11 El personal a cargo del cargadero de camiones dará la orden de operar autorizando la apertura de válvulas, funcionamiento de bombas, compresores, etc.
+
+2.12 Vigilarán la operación hasta finalizar, verificando especialmente el nivel de carga, y que el personal de la planta y el chofer permanece en la zona del descargadero y camión respectivamente.
+
+2.13 Una vez iniciada la operación, esta no deberá interrumpirse salvo emergencias de riesgo.
+
+2.14 El conductor de la unidad permanecerá junto al camión con la atención a las operaciones de carga y descarga y con los guantes y casco colocados.
+
+2.15 Durante las operaciones de carga y descarga se restringirán, al mínimo indispensable, los venteos de control por los niples (rotativos y fijos de tanques móviles.
+
+2.16 Se tendrá implementado un rol de incendio y evacuación de vehículos para casos de siniestros en Planta, el que será comunicado al chofer antes de iniciar las operaciones.
+
+2.17 Terminada la carga ádescarga, se desconectarán las mangueras sin efectuar venteo de producto y la puesta a tierra, retirándose las calzas y ubicando nuevamente en el vehículo el matafuegos correspondiente.
+
+2.18 Se dará la orden de partida al chofer del camión, el cual verificará previamente la desconexión o retiro de los elementos señalados en el punto 1.17. En caso de escape de producto no se pondrá en marcha el vehículo hasta que se haya solucionado el problema y en el lugar no haya mezcla explosiva, constatada con el explosimetro.
+
+2.19 El vehículo transitará por la planta hasta la salida a la velocidad de 5 kilómetros por hora.
+
+2.20 Retornará a la ruta con las máximas precauciones, dando prioridad de paso a otros vehículos si los hubiese.
+
+2.21 De requerirse en los trabajos de conexión o desconexión de mangueras, por algún motivo herramientas, estas serán del tipo antichispas. Los elementos de iluminación de emergencias que se utilicen en la zona, serán del tipo seguro contra explosión (linternas portátiles, etc.).
+
+2.22 Durante la carga o descarga deben encontrarse en sus lugares y en condiciones de usarse, los matafuegos reglamentarios. El conductor debe conocer el mantenimiento y utilización de esos elementos.
+
+2.23 Deben revisarse las condiciones del camión tanque en su parte motriz, ya sea en los componentes mecánicos o eléctricos. Asimismo se deberá disponer de balizas calzas y linternas de uso aprobado y herramientas adecuadas a las necesidades operativas.
+
+2.24 Se debe prestar especial atención al estado del perno y plato de ensanche, denunciando al personal especializado cualquier anomalía que detecte en ellos.
+
+3. El cuidado y manipuleo de las mangueras. A las mangueras se les deberá efectuar pruebas hidráulicas, que consisten en lo siguiente:
+
+3.1 Se deberá medir el largo y ancho de la manguera.
+
+3.2 Se elevará la presión en la manguera por espacio de 2 minutos a una presión de 35 Kg/cm2 con una bomba de agua.
+
+3.3 Se baja la presión y se purga el agua. Se mide nuevamente el largo y el ancho de la manguera y se observa las alteraciones sufridas. En base a las mismas, se aprobará o rechazará la manguera.
+
+3.4 Estas pruebas se deberán realizar cada tres meses.
+
+3.5 Una vez finalizado el cargamento, la manguera deberá depositarse sobre un dispositivo que la mantenga en forma longitudinal y sobre el nivel del piso.
+
+4. Recomendaciones para conductores de Cisternas de GLP. Los conductores de estos vehículos deben tener en cuenta las siguientes recomendaciones:
+
+4.1 Prohibición absoluta de fumar en, o cerca del vehículo tanque.
+
+4.2 El camión tanque no podrá ser destinado a otro uso que no sea el de transportar GLP.
+
+4.3 El vehículo deberá ser conducido por el conductor autorizado, no pudiendo delegar esta función bajo ningún concepto.
+
+4.4 No podrá llevar en el camión, calentadores ni bebidas alcohólicas.
+
+4.5 No podrá empujar o arrastrar a otros vehículos que se encuentren detenidos en el camino.
+
+4.6 Los camiones tanque no deben estacionarse:
+
+a) A distancias menores de 50 metros de otra unidad similar, ni más de dos (2) unidades por cuadra.
+
+b) En pendientes pronunciadas para evitar que las válvulas de seguridad queden vinculadas con la de la faz liquida del GLP.
+
+c) Deberá estar conectado al sistema de tracción.
+
+d) Cerca de fuegos abiertos o lugares donde existe fuentes de color artificial.
+
+e) En lugares que no están iluminados en horas nocturnas. cuando ello no sea posible, se dejarán las luces de posición encendidas o se colocarán delante y detrás de la unidad las correspondientes balizas reglamentarias, no admitiéndose las de llama abierta.
+
+4.7 Los transportistas deberán circular a las velocidades de precaución máximas permitidas, es decir, 40 km/hora en zonas urbanas y 65 km/hora en ruta, cuando no existan disposiciones de autoridad que obliguen expresamente a respetar otras velocidades.
+
+4.8 Los vehículos deberán obligatoriamente utilizar autopistas o otras rutas principales y las vías de circunvalación de las poblaciones. Las unidades que obligatoriamente deban utilizar vías urbanas que están sometidas a prohibiciones de circulación para los vehículos que transportan sustancias inflamables, deberán obtener de la autoridad competente la autorización correspondiente.
+
+4.9 Los conductores deberán disfrutar de un descanso diario ininterrumpido adecuado. El tiempo de conducción continuado no podrá ser superior a cuatro horas, salvo que la utilización de media hora más permita la llegada al punto de destino. Si la conducción ha de prolongarse más de cuatro horas, deberá procederse a un descanso de treinta minutos a lo largo del recorrido. Durante este período de descanso, el conductor que lo disfrute no deberá efectuar ninguna actividad profesional que no sea, en su caso la vigilancia del vehículo y la carga.
+
+4.10 Cuando el recorrido exija seis o más horas, o cuando las condiciones del camino constituyan un riesgo, el vehículo contara con dos conductores.
+
+4.11 Los conductores no podrán ingerir bebidas alcohólicas durante el tiempo de conducción, ni en las seis horas que preceden a la misma.
+
+4.12 No se deberá transportar en la unidad a personas que no tengan ninguna relación con el servicio. Los vehículos tanques de GLP que circulen vacíos de liquido, (pero sí con vapor), tendrán el mismo tratamiento de seguridad que si estuviesen llenos.
+
+4.13 Al llegar a un paso a nivel el vehículo será detenido y previa comprobación de que no se acerca ningún tren o locomotora, lo cruzará con precaución, a menos de 15 km. por hora.
+
+4.14 El camión tanque debe transitar con las mangueras de GLP debidamente colocadas en sus tubos de transporte, para facilitar el trasvase a otro vehículo, en caso de un eventual siniestro.
+
+4.15 Los conductores deben estar adecuadamente entrenados para el manejo del vehículo y sus equipos accesorios. También deben conocer las principales características del GLP, la seguridad de su manipuleo y haber sido instruidos en roles de emergencia, para casos de accidentes con este producto.
+
+# Anexo Nº 7 Normas tecnicas minimas para plantas de engarrafado
+
+1. Edificio o Planta Engarrafadora
+
+1.1 La planta de engarrafado deberá estar separada de las restantes instalaciones industriales por lo menos a una distancia de 15 metros y tendrá que ser utilizada únicamente para tal propósito.
+
+1.2 No deberá colindar con propiedades ocupadas por escuelas, iglesias, hospitales, teatros, cines, campos deportivos y otros inmuebles que albergaría conglomerado de personas. La distancia mínima de separación con dichos locales será de 100 metros.
+
+1.3 La plataforma del galpón donde estarán ubicadas las instalaciones para el engarrafado, deberá ser elevada a una altura de 1.10 metros sobre el nivel del piso de la playa de maniobras.
+
+1.4 Deberá estar cubierta de estructura liviana con material incombustible a una altura mínima en los aleros de 5.00 metros.
+
+1.5 también las paredes y cielo raso deberán construirse con materiales incombustibles y diseñados para tener ventilación suficiente, que evite acumulación de vapores que puedan provocar explosión. Las aberturas superiores e inferiores deberán tener como mínimo una superficie de 1 m2 por cada 14 m3 de volúmen contenido dentro de la edificación.
+
+1.6 Las aberturas inferiores no deberán estar a una altura superior a 0.15 metros por encima del nivel del piso.
+
+1.7 Si se emplea ventilación mecánica, la circulación de aire deberá ser por lo menos: 0.3 m3/minuto/m2 de superficie del piso. Las salidas deberán estar alejadas de cualquier abertura de otras edificaciones por lo menos a 2.00 metros de distancia.
+
+1.8 Cuando se use la ventilación natural, cada pared exterior que tenga una longitud mayor a 6.00 metros, deberá proveerse de una ventilación adicional para cada 6.00 metros o fracción. Cada abertura deberá tener una superficie mínima de 129 cm2 y el total de todas las aberturas deberá ser por lo menos de 64.5 cm2/m2 de superficie del piso.
+
+2. Equipos y Máquinarias
+
+2.1 Transportador a cadena
+
+a) La carga de garrafas al transportador a cadena puede ser directamente del camión o del almacén o deposito de garrafas anexo a la planta engarrafadora.
+
+b) El transportador a cadena deberá ser apto para ser instalado en superficie del piso o en soportes metálicos especiales, a cualquier nivel que el diseño del fabricante de la planta engarrafadora pueda establecer.
+
+c) La cadena transportadora consistirá en eslabones de acero endurecido especialmente para evitar desgastes prematuros y su diseño debe asegurar un transporte ágil, aun en arreglos con muchas curvas. En el fondo deberá tener las rieles de desgaste intercambiables de acero especial contra el desgaste.
+
+d) El sistema de transporte puede estar compuesto de dos o tres cadenas paralelas, según el diámetro del anillo del fondo de las garrafas a transportar.
+
+e) El accionamiento de la cadena transportadora se la efectuará por estaciones motrices accionadas por motor eléctrico, en secciones a través de engranajes de tornillo sin fin y una cadena de rodillos. Las estaciones motrices deberán contar con dispositivos para tensar la cadena y un tanque de lubricación con agua jabonosa, lo que permitirá una lubricación y limpieza constante.
+
+f) El transportador a cadena podrá estar equipado por equipos de regulación, neumáticos, mecánicos o manuales. Estos equipos están constituidos principalmente por:
+
+- Paradas o de freno de las garrafas.
+
+- Empujados de garrafas, que permiten clasificarlas para operaciones secundarias .
+
+- Contadores, que permiten dosificar un número prefijado de garrafas.
+
+- Cambia vías, desvían a diferentes direcciones.
+
+- Dispositivo de servicio de aire.
+
+- Tableros de mando.
+
+2.2 Equipos de llenado de GLP a garrafas
+
+2.2.1 El llenado del GLP a las garrafas deberán efectuarse a través de balanzas automáticas y por control de peso, entendiéndose por tal aquellas que cumplan los siguientes requisitos técnicos manimos:
+
+a) La máquina deberá funcionar según el principio vascular, provisto de:
+
+- Dos contrapesos de rodillo que permitan el ajuste aproximado, tanto de la tara (peso de la garrafa) como el peso del gas licuado que se desea cargar.
+
+- Dos contrapesos de corredera para el ajuste de precisión, tanto en la tara de la garrafa como en el peso del GLP.
+
+b) La anterior disposición permite el llenado exacto deseado independiente de los residuos de gas de la garrafa y eliminando la posibilidad de sobrellenado.
+
+c) La máquina deberá cortar el carguos en forma automática al llegar al peso límite prefijado con una precisión de no mayor al + 1%.
+
+d) Deberá estar diseñada para trabajar a una presión máxima de 20 Kgs/cm2.
+
+e) Para el llenado de las garrafas se utilizarán las cabezas de llenado neumáticas, que garanticen la hermeticidad durante la operación de carguo. Se utilizarán diferentes tipos de cabezas de llenado y que dependerán de la capacidad, disposición y sistema de las válvulas de cierre de las garrafas. Las conexiones del sistema de cabezas de carguo deberán diseñarse y probarse para el doble de la presión de trabajo.
+
+2.2.2 Las balanzas con sistema automático de llenado del GLP podrán ser estacionarias o sea colocadas en hileras o estar montadas sobre carrusel. La disposición finalmente adoptada dependerá de las siguientes variables:
+
+a) Tiempo de llenado de cada garrafa en segundos por cada balanza automática, incluyendo toda operación previa de conexión, llenado y descarga de la garrafa. Esta información conduce a la determinación del número de balanzas de llenado automático que puede atender un operario.
+
+b) Necesidad de cumplir una cantidad de garrafas a ser cargadas por día, ya sea en un turno, dos o tres turnos. La determinación y decisión sobre el particular, la consideración del inciso a) y la superficie del galpón de llenado disponible, posibilitarán definir la conformación final de las máquinas de llenado y por lo tanto la capacidad de llenado por día de la planta engarrafadora.
+
+c) Los fabricantes y proveedores de plantas engarrafadoras, normalmente efectúan el estudio preliminar técnico más adecuado y conveniente para una capacidad dada y sus proyecciones futuras. La confirmación de balanzas de cargué dispuestas en carrusel permiten evidentemente mayores volúmenes de cargué de garrafas por hora de trabajo y por supuesto esta en función del número de balanzas de cargué automático sobre cada carrusel y los sistemas de transporte, su automatización, operaciones complementarías a realizar y número de operarlos.
+
+d) Cuando el engarrafado se efectúa a través del sistema de carrusel se utilizán normalmente los equipos denominados introductores y extractores automáticos de garrafas.
+
+2.3 Balanzas de control de llenado. Las balanzas de control efectúan el pesaje de las botellas que han sido llenadas con GLP. Estas balanzas de control son utilizadas en los sistemas de carrusel y se inserta en un sector del transportador a cadena y a la salida del sistema de carga. Los fabricantes y proveedores de plantas de engarrafado definen el lugar más aconsejable de la colocación de la balanza de control.
+
+2.4 Equipos probadores de hermeticidad. Los equipos probadores de hermeticidad son los que se utilizán para probar la hermeticidad del asiento de válvula de las garrafas, después de su llenado con el GLP. Se las efectúa mediante la inmersión de las garrafas dentro de depósitos con agua, por medio de portagarrafas que se llenan con un número determinado de las mismas para luego girar a una posición horizontal dentro del baño, lo que permite constatar posibles fugas de gas. La activación para la inmersión y a su posición inicial vertical, se efectúa utilizando válvulas manuales neumáticas. Son aceptables también otros sistemas semiautomáticos para la determinación de la hermeticidad de asientos y válvulas que trabajan a presión y vacío, con indicadores de fuga a través del cambio de nivel visual del aceite patrón o el burbujeo del gas a través de este último elemento.
+
+2.5 Equipos de evacuación de garrafas
+
+Son las instalaciones necesarias que se utilizán para vaciar el contenido de GLP de las garrafas, que deben ser sometidas a las pruebas de presión, o aquellas que tengan que ser separadas. Consistirán en los siguientes elementos:
+
+a) Dos tanques recolectores que trabajan en forma alternada, uno como receptor de líquidos, al crearse una presión diferencial (vacío) a través de su conexión con la succión a un compresor y el otro, el impulsor de líquidos a los tanques de almacenaje principales, por estar conectado a la conexión de descarga del compresor. Deberán tener manómetros de presión e indicadores de nivel de liquido en forma independiente.
+
+b) Cajas metálicas, donde se recibe un número variable de las garrafas a descargar, que se colocan en forma invertida y son conectadas a través de cañerías y válvulas a los tanques recolectores.
+
+c) Compresor que se conecta a los tanques recolectores para cumplir los objetivos indicados en a), a través de la operación simultánea de las válvulas inversoras del sentido de aspiración y compresión de gases.
+
+2.6 Compresores. Serán compresores a pistón y que permitan la evacuación de los vapores de los tanques, garrafas, cilindros y también para la recarga del gas licuado por medio de la diferencia de presiones entre la descarga y tanque receptor.
+
+a) Los anillos de sello de los pistones en los cilindros de compresión deberán ser de teflón, de tal modo que no requierán lubricación por aceite.
+
+b) La succión deberá poseer un filtro para recolectar las impurezas y el sistema de cerrado cuando ingresa líquido, cortando el suministro al compresor si la fase vapor se licúa o por un error, el gas licuado se introduce en la línea de succión. Deberá tener una válvula de drenado y una válvula de venteo.
+
+c) Deberán instalarse manómetros de presión tanto en la succión como en la descarga.
+
+d) Se instalará una válvula de seguridad en el lado de descarga del compresor.
+
+e) Cada compresor deberá identificarse en su placa con la siguiente información:
+
+- Fabricante compresor:
+
+- Compresor tipo:
+
+- Número de cilindros:
+
+- Capacidad de succión a .......r.p.m. en M3/H:
+
+- Presión de succión Mínima en bar:
+
+- Presión de descarga Máxima en bar:
+
+- Temperatura de descarga Máxima en 1C:
+
+- Relación de compresión:......
+
+- Potencia requerida del motor eléctrico en KW:
+
+2.7 Equipos para prueba de presión. Estas instalaciones deberán permitir el efectuar pruebas de presión a la garrafas, hasta un valor máximo de 45 Kg/cm2.
+
+a) La instalación puede consistir en uno o varios aparatos de pruebas, bombas de baja y alta presión y un tanque de agua de capacidad suficiente para atender las necesidades del total de aparatos de prueba.
+
+b) Cada aparato de pruebas está provisto de un marco giratorio para la sujeción de las garrafas. El marco deberá poder girar en 1801, de tal modo de poder inspeccionar la garrafa en su totalidad cuando se efectúa la prueba hidráulica.
+
+c) El equipo de bombas consiste en una bomba de baja presión y otra de alta presión. La bomba de baja presión normalmente es centrífuga, accionada por motor eléctrico y que sirve para llenar con agua las garrafas; mientras que la prueba de presión se la efectúa con una bomba a embolo de alta presión y que se pone en funcionamiento cuando la garrafa ha quedado llena de agua.
+
+d) Las conexiones entre las bombas y las garrafas, se las efectúa generalmente en forma neumática mediante una cabeza de llenado y vaciado (acción doble).
+
+e) El número de aparatos de prueba de presión están en función del tamaño de las garrafas, frecuencia y número de garrafas que se estima inspeccionar.
+
+2.8 Equipos de lavado de garrafas
+
+a) Estos equipos normalmente constituyen parte integrante del sistema de transportadores a cadena para las garrafas. Están constituidas por cabinas con esclusas de entrada y salida, donde se realizán las operaciones de lavado, enjuague y eventualmente el de secado.
+
+b) Las cabinas interiormente deberán tener suficiente cantidad de toberas de agua, en superficie, como en el fondo de las garrafas para cubrir eficazmente toda la superficie.
+
+c) El sistema de bombas deberá contar con dispositivos que permitan un filtrado y desagüe eficiente y rápido de toda la suciedad e impurezas arrastradas por el agua.
+
+2.9 Equipos para el pintado de garrafas
+
+a) El equipo es opcional y consistirá en cabinas convenientemente aisladas y donde las garrafas son colocadas en una torna mesa, la que esta provista por una campana de recolección de gases con tiro forzado que conduce el aire y gases tóxicos a través de sistemas de ciclones de separación de las partículas de pintura en suspensión, antes de expeler el aire a la atmósfera.
+
+b) El sistema de recolección del aire, aspiración, purificación y finalmente su expulsión a la atmósfera se la efectuará por conductos y canalizaciones cerradas y por lo tanto no contaminarán el ambiente donde están ubicadas las unidades de engarrafado.
+
+2.10 Motores eléctricos e instalaciones eléctricas
+
+a) Todos los motores eléctricos que accionán el sistema de transporte a cadena, bombas de cargué y transferencia de GLP, compresoras de aire y GLP, debern cumplir las especificaciones del National Electrical Code, Class I, Grupo D, División 1 o la Norma B.S. 4683 (aparatos eléctricos en atmósferas explosivas) y BS 4137 (guía para la selección de equipo eléctrico para uso en áreas de División 1).
+
+b) Las instalaciones eléctricas, tales como interruptores, cajas de comando eléctrico, sistema de iluminación, enchufes eléctricos, deberán ser a prueba de explosión y los cables de interconexión con estos elementos irán dentro de tuberías de acero y las cajas de distribución o empalme, igualmente deberán ser a prueba de explosión.
+
+# Anexo Nº 8 Norma de seguridad en plantas de engarrafado
+
+1. Extintores. Los extintores que se utilicen serán de polvo químico seco y su dotación deberá ser el resultado de tomar en cuenta las siguientes disposiciones:
+
+1.1 Las Plantas de engarrafado deberán estar dotadas de cinco (5) kilogramos de polvo químico seco por cada metro cubico de GLP por hora que se engarrafa.
+
+1.2 Si de acuerdo al cálculo establecido en el numeral anterior resultára una cantidad de químico seco inferior a cincuenta (50) kilogramos, tendrá que dotarse de por lo menos de cuatro (4) extintores de 12 kilogramos cada uno, los que deberán ubicarse en lugares de fácil accesibilidad y repartirlas en la Planta.
+
+2. Instalación de rociado agua
+
+2.1 Deberá instalarse en la parte superior de la Planta una red fija de agua para el rociado a través de un número suficiente de pulverizadores o dispersores, que puedan cubrir la totalidad de la superficie de la Planta. Las válvulas de accionamiento serán del tipo manual o automático‑manual ubicadas en el exterior del edificio.
+
+2.2 El caudal mínimo requerido será de veinte metros cúbicos (20 m3) de agua por hora.
+
+3. Elementos complementarios
+
+3.1 Carteles. Se colocarán en todas las paredes y lugares visibles carteles con el siguiente texto:
+
+“Gas Inflamable”
+
+“Prohibido Fumar y Encender Fuego”
+
+3.2 Equipos adicionales. Deberán estar disponibles el siguiente material:
+
+a) Dos (2) linternas portátiles y antideflagrantes.
+
+b) Tres (3) mantas ignífugas.
+
+c) Tres (3) cascos con pantallas de aproximación al fuego.
+
+d) Tres (3) caretas antigás.
+
+e) Un (1) dispositivo de alarma acústico de accionamiento manual o automático‑manual.
+
+f) Un exposímetro.
+
+# Anexo Nº 9 Norma BOLIVIANA N.B.‑441‑90
+
+(Primera Revisión)
+
+Dirección de Normas y Metrología
+
+Secretaría Nacional de Industria y Comercio
+
+Almacenamiento, Carga y Descarga, Transporte y Manipuleo
+
+de Garrafas y Cilindros de Acero para Gas Licuado
+
+de Petróleo 5 ‑ 100 Kg. de Capacidad
+
+0. Introducción. Esta norma es de cumplimiento obligatorio a nivel nacional para distribución y transporte de gas licuado de petróleo, tanto urbano como rural.
+
+1. Objetivo. Esta Norma establece los requisitos mínimos que se deben cumplir en las operaciones de almacenamiento, carga y descarga, transporte y manipuleo de garrafas y/o cilindros de acero para gas licuado de petróleo de procedencia nacional o extranjera con una capacidad (5 ‑ 100 Kg.) de propano‑butano y con una presión de trabajo hasta 1.666 Kilopascal (17 Kg/cm2) a temperatura ambiente.
+
+2. Referencias. N.B.‑439‑88 Cilindros de acero para gases licuados de petróleo (garrafas) 5‑45 Kg. de propano‑butano.
+
+N.B.‑440‑81 Inspección de cilindros nuevos de acero (garrafas) para gases licuados de petróleo.
+
+NE: 12/82 Mantenimiento y reparación de cilindros de acero para gases licuados de petróleo.
+
+3. Definiciones
+
+3.1 Almacenamiento. Acción de guardar las garrafas y/o cilindros en un local apropiado.
+
+3.2 Transporte. Traslado de garrafas y/o cilindros de un determinado lugar a otro, mediante cualquier medio.
+
+3.3 Manipuleo. Conjunto de operaciones manuales que se efectúan durante el almacenamiento, transporte y comercialización de las garrafas y/o cilindros.
+
+3.4 Planta. Establecimiento industrial.
+
+3.5 Deposito. Sitio o lugar donde se depositan o guardan las garrafas.
+
+4. Requisitos
+
+4.1 Requisitos de almacenamiento
+
+4.1.1 El depósito de garrafas debe ser de material incombustible y no debe utilizarse para almacenamiento ni siquiera temporalmente ningún material inflamable como tambores que contengan derivados de petróleo, cartones, cajones, etc.
+
+4.1.2 El depósito de garrafas no tendrá llamas abiertas ya sea para calentar o alumbrar.
+
+4.1.3 El sistema eléctrico será instalado en base a materiales a prueba de explosión, según 4.5.1.3 y 4.5.1.4.
+
+4.1.4 Se colocarán letreros visibles con las leyendas: “Peligro”, “Se prohíbe fumar”, “Prohibido encender fuego”, “Prohibido el ingreso a personas particulares” y otros.
+
+4.1.5 El depósito de garrafas será bien ventilado y el galpón o tinglado de almacenamiento deberá estar en un nivel sobre el piso circundante, todo espacio bajo el suelo deberá estar sólidamente rellenado.
+
+4.1.6 El depósito de garrafas estará a una distancia mínima de 50 metros respecto a edificios tales como hospitales, teatros, colegios, viviendas multifamiliares y cuarteles.
+
+4.1.7 El depósito de garrafas debe estar a 15 m como mínimo de otras edificaciones destinadas a viviendas y/o instalaciones industriales que almacenen y/o procesen materiales combustibles, y separados por paredes de altura mínima de 3 metros.
+
+4.1.8 El depósito de garrafas será independiente de los locales comerciales de la empresa distribuidora y estará completamente aislado de sus oficinas y demás dependencias.
+
+4.1.9 En caso que los depósitos y/o almacenes comerciales queden situados dentro los linderos del predio, deberán aislarse por medio de paredes de altura mínima de 3 m.
+
+4.1.10 El depósito de garrafas será diseñado de tal manera que resguarde de la acción de los rayos solares a las garrafas y/o cilindros y los aislará de cualquier otra fuente de calor, asimismo deberá estar construido con materiales incombustibles.
+
+4.1.11 El depósito quedará situado a un mínimo de 15 m de otros locales que almacenen materiales combustibles destinados a consumo propio.
+
+4.2 Requisitos de medio de transporte
+
+4.2.1 Transporte automotriz urbano y suburbano
+
+4.2.1.1 La plataforma de la carrocería será únicamente de madera, las compuertas de la carrocería serán abiertas de tal forma que permitan la circulación de aire entre madera y madera. Los letreros que indiquen Gas Licuado de Petróleo, precio y peligro serán colocados en los costados y parte trasera. El nombre de la empresa distribuidora y número interno en la parte delantera o percha. El color de las letras deberá contrastar con el de la carrocería.
+
+los de transporte la carrocería será únicamente de madera y se dejará en las compuertas laterales y traseras a la altura de las válvulas de la primera y segunda fila un espacio abierto para su ventilación (ver Figura 1).
+
+4.2.1.2 Las ruedas traseras deberán ser dobles y el caño de escape prolongado hacia el extremo posterior de la carrocería y provisto de protector de chispas.
+
+4.2.1.3 Los cables de instalación eléctrica deberán estar revestidos con aislantes apropiados (goma y tela).
+
+4.2.1.4 El sistema de frenado deberá garantizar un paro bajo cualquier circunstancia adversa.
+
+4.2.1.5 La parte delantera deberá estar provista de defensa metálica que sirva para proteger choques violentos.
+
+4.2.1.6 Las líneas de combustible para el motor, así como sus juntas y conexiones deberán instalarse de tal manera que se evite las fugas causadas por frotamiento o vibraciones.
+
+4.2.1.7 La carga estará limitada hasta 1500 Kg. de gas licuado de petróleo en no más de dos hileras de garrafas para los servicios de distribución urbana, en camiones de 4 toneladas de capacidad. Los de carga superior a 1500 Kg. de gas licuado de petróleo serán denominados camiones de transporte. En todo caso la carga no excederá la capacidad del vehículo.
+
+4.2.1.8 Cada vehículo de distribución deberá llevar un extinguidor de polvo químico seco de 4 Kg. de capacidad (40 BC) colocado en una parte accesible, los de transporte llevarán un extinguidor de polvo químico seco de 5 Kg. (60 BC).
+
+4.2.1.9 El vehículo en servicio de distribución a domicilio no excederá de 40 Km/h en zonas urbanas y densamente pobladas y de 60 Km/h en carretera.
+
+4.2.1.10 Los vehículos deberán estar provistos de un botiquín de emergencia que contenga todo lo indispensable para prestar servicios de primeros auxilios.
+
+4.2.1.11 Esta prohibido llevar a personas ajenas a la tripulación de servicio, como también objetos o productos ajenos a la función de los vehículos que transportan recipientes de gas licuado de petróleo.
+
+4.2.1.12 Esta prohibido el transporte de garrafas en acoplados y/o trailers.
+
+4.3 Requisitos que debe cumplir el conductor
+
+4.3.1 Estacionamiento, carga y descarga
+
+4.3.1.1 Deberá velar porque su vehículo no estacione a distancias menores de 50 m. de recintos escolares, hospitales, locales deportivos, teatros, cuarteles, a no ser el tiempo estrictamente necesario para prestar servicios a este tipo de instituciones.
+
+4.3.1.2 Deberá controlar la descarga y carga de recipientes llenos y vacíos de gas licuado de petróleo (ver Figura 2).
+
+4.3.1.3 La carga y descarga de los recipientes deberá efectuarse con luz solar o utilizando alumbrado eléctrico que este de acuerdo con 4.1.3.
+
+4.3.1.4 Deberá apagar el vehículo durante el aprovisionamiento de combustible.
+
+4.3.2 Supervisión en la colocación de las garrafas y/o cilindros de acero
+
+4.3.2.1 Deberá comprobar que los recipientes estén colocados correctamente.
+
+4.3.2.2 Deberá verificar el cierre de las válvulas de cada recipiente comprobando posibles fugas de gas y si están precintadas.
+
+4.3.2.3 El conductor deberá tener conocimiento mínimo sobre seguridad y manejo de extinguidores.
+
+4.4 Requisitos de manipuleo
+
+4.4.1 Las personas encargadas del manipuleo deberán tener conocimientos sobre seguridad, manejo de gas licuado de petróleo y manejo de extinguidores.
+
+4.4.2 Deberán tener mucho cuidado en las operaciones que realicen, evitando el desprendimiento de los precintos.
+
+4.4.3 Deberán evitar la calda de garrafas y/o cilindros al piso (véase Figura 2).
+
+4.4.4 Deberán evitar choques entre recipientes.
+
+4.4.5 Una persona no deberá llevar mas de dos recipientes.
+
+4.5 Requisitos especiales
+
+4.5.1 De almacenamiento
+
+4.5.1.1 El depósito deberá disponer de un equipo extinguidor de polvo químico seco, de 9 Kg por cada 100 m2 o su equivalente. En depósitos mayores de 70 toneladas de contenido de gas licuado de petróleo, en garrafas, se debe instalar una red de agua a presión contra incendios. El depósito deberá contar con un sistema fijo de enfriamiento por agua. Todos los extinguidores deberán colocarse en lugares fácilmente accesibles y dejando un espacio libre de 1.5 metros delante de cada extinguidor.
+
+4.5.1.2 La planta y/o almacén deberá contar con salidas de emergencia y fácil acceso.
+
+4.5.1.3 Los interruptores y cajas de fusibles, de instalación eléctrica deben colocarse fuera del depósito de almacenamiento de garrafas, usándose material a prueba de explosión. Los cables eléctricos que vayan a las lámparas situadas dentro de este depósito deberán ir dentro de tuberías de acero.
+
+4.5.1.4 Las lámparas en el depósito deberán ser a prueba de explosión. Se prohíbe la instalación de enchufes eléctricos dentro del depósito.
+
+4.5.1.5 Dentro de la planta esta prohibido:
+
+a) Trasvasar el producto de garrafas a otros envases mayores o menores, o bien de cilindros a qarrafas.
+
+b)Encender fuego en el área circundante al depósito en un radio de 15 m.
+
+c)La existencia de anafres, estufas, calentadores, faroles y todo otro artefacto a llama abierta, tomando en cuenta la distancia mencionada en b).
+
+d)Fumar.
+
+e)El acceso de cualquier automotor que no posea su correspondiente arrestallamas.
+
+f) El almacenamiento de materiales, substancias o elementos ajenos a la actividad específica.
+
+g) Realizar tareas distintas a la específica, no pudiendo destinar el predio a otros usos que no sean para las dependencias de la administración y para la vivienda del sereno.
+
+h) La guardia de automotores y otro tipo de vehículos ajenos a la actividad de la planta. Los que se guarden con carga de garrafas deberán mantenerse arrimados al lugar de carga de depósito y el total de su carga mas la existencia en el depósito no deberá exceder del total de la capacidad autorizada.
+
+i) El estacionamiento de vehículos sobre los caminos interno de la planta, debiendo quedar estos expeditos para cualquier contingencia.
+
+j) El almacenamiento de garrafas llenas o vacías en forma horizontal.
+
+k) Cruzar con cables eléctricos aéreos los lugares destinados al depósito de garrafas y estacionamiento de vehículos cargados con garrafas y/o cilindros.
+
+q)Y finalmente, el acceso del público a la planta.
+
+4.5.2 De manipuleo
+
+4.5.2.1 Las personas encargadas del manipuleo deben estar provistas de guantes y zapatos de seguridad, además no deberán usar ropa confeccionada con productos sintéticos.
+
+4.5.2.2 Las personas encargadas del manipuleo de garrafas y/o cilindros para gas licuado de petróleo durante cualquier operación están prohibidas de fumar, producir chispas o encender fuego.
+
+5. Concordancia con otras Normas. Esta Norma no concuerda con ninguna otra Norma.
+
+# Anexo No. 10 Agosto 1995 norma Boliviana N.B. /95
+
+Precintos de Inviolabilidad para Garrafas Transportables
+
+De 5 - 45 Kg. De Capacidad
+
+1. OBJETIVO. Garantizar al público usuario de GLP en garrafas, la inalterabilidad del producto, tanto en calidad, cantidad y seguridad.
+
+2.- ALCANCES Y CAMPOS DE APLICACION
+
+2.1. Esta norma establece los requisitos que deben cumplir los precintos de inviolabilidad o seguridad, a aplicarse en la conexión de salida de la válvula de las garrafas transportables de GLP.
+
+2.2. Consecuentemente, la presente norma no se aplica a las garrafas de GLP con capacidad de 5 - 45 Kg.
+
+3. DEFINICIONES
+
+3.1. GLP. Gas Licuado de Petróleo, mezcla de hidrocarburos livianos compuestos principalmente de cantidades variables de propano, butano e isobutanos, que bajo condiciones ambientales de presión y temperatura, se encuentra en estado gaseoso y es mantenido en estado líquido por aumento de presión.
+
+3.2 GARRAFA. Recipiente hermético y transportable, construido de acero al carbono de capacidad no mayor a 120 litros de agua, de una altura mínima de 1.5 metros y con diseño homologado por el Instituto Boliviano de Normas y Calidad (IBNORCA).
+
+3.3 PRECINTO. Dispositivo o conjunto de componentes, destinado a mantener la integridad del contenido de la garrafa, así como garantizar la inviolabilidad del mismo.
+
+4. REFERENCIAS
+
+NORMA NB-439/88 Cilindros de acero para gases licuados de petróleo.
+
+NORMA NB-440/90 Inspección de cilindros nuevos de acero para GLP.
+
+NORMA NB-441/90 Almacenamiento, carga y descarga, transporte y manipuleo de garrafas y cilindros de acero para GLP, de 5 a 45 Kg. de capacidad.
+
+NORMA NB-NE-11/82 Inutilización de garrafas o cilindros de acero.
+
+NORMA NB-NE-12/82 Reparación y mantenimiento de garrafas o cilindros de acero para GLP.
+
+NORMA NB-NE-13/82 Reinspección y vida útil de garrafas o cilindros de acero para GLP.
+
+NORMA NB-NE-14/82 Empadronamiento de garrafas o cilindros de acero para GLP.
+
+NORMA NB-155/77 Mecánica - Rosca Whitworth para cañerías.
+
+5. REQUISITOS
+
+5.1. Legales. El diseño del precinto, además de cumplir con los requisitos estipulados en la presente norma, deben ser aprobados por las autoridades competentes.
+
+5.2 Características del material
+
+a) El componente o conjunto que conforme el precinto, no debe romperse naturalmente, ni presentar alteraciones que modifique su aptitud de precinto inviolable, al ser sometido a ensayos especificados en la presente norma.
+
+b) El material o materiales de que esté construido el precinto, debe ser tal que no dañe a la válvula, a sus componentes ni a los usuarios.
+
+c) El material o materiales de que este construido el precinto, debe resistir la intemperie, las bajas y altas temperaturas (ver incisos b) y c) del punto 6) y las soluciones utilizadas para detectar fugas en la válvula.
+
+d) El precinto o conjunto que lo conforma, debe ser totalmente desechable, no aceptándose el rehuso ni de partes de él.
+
+5.3. Resistencia Física
+
+a) El precinto debe resistir las operaciones de instalación y de extracción, sin provocar daño a quien lo opere.
+
+b) La instalación y extracción del sello no debe provocar deterioro de la válvula o de alguno de sus componentes.
+
+c) El precinto no debe contener elementos que puedan quedar adheridos a la válvula o componentes de ella.
+
+d) El tiempo necesario para instalar el precinto en la conexión de salida de la garrafa, debe ser el menor posible con el objeto de no entorpecer el proceso de llenado y despacho de garrafas llenas.
+
+e) El precinto debe ser apto para instalarse fácilmente en la válvula de la garrafa, indistintamente en forma manual, semi-automática o automáticamente.
+
+f) Una vez instalado el precinto a la válvula de la garrafa, debe resistir la manipulación, almacenamiento y transporte de la garrafa, sin que se rompa y/o se desprenda, a menos que sea impactado directamente.
+
+g) Además debe ser fácilmente desprendible por el usuario, sólo en forma manual, sin la necesidad de utilizar elementos extraños o algún tipo de herramienta.
+
+El acto de extraer el precinto de su ubicación en la garrafa, debe provocar la destrucción del precinto o conjunto que lo conforme, no permitiéndo su posterior reutilización.
+
+h) El precinto no debe interferir el funcionamiento normal del dispositivo de seguridad de la válvula de la garrafa.
+
+i) El componente o conjunto que conforme el precinto, debe ser construido de manera tal que, de ser violado, posibilite detectar que fue intervenido y/o reparado. En particular, cuando se intente violar el precinto, mediante variaciones de temperatura.
+
+5.4. Garantía de inviolabilidad. Los precintos deben conservar sus características físicas en diferentes condiciones de almacenamiento e instalados en la válvula de la garrafa, garantizando la inviolabilidad del sistema:
+
+a) A bajas temperaturas, especificado en inciso b) del punto 6.
+
+b) A altas temperaturas, especificado en inciso c) del punto 6.
+
+c) En gases licuados de petróleo, especificado en inciso d) del punto 6.
+
+d) En soluciones utilizadas para detectar fugas en la válvula, especificadas en inciso f) del punto 6.
+
+e) En intemperie, especificados en inciso g) del punto 6.
+
+f) En ozono, especificado en inciso, e) del punto 6.
+
+5.5 Resistencia al ciclo térmico. Los precintos deben resistir el ciclado térmico especificado en inciso h) del punto 6, garantizando la inviolabilidad del sistema.
+
+5.6. Resistencia al Ciclo Mecánico. Los precintos deben resistir el ciclado mecánico especificado en inciso i) del punto 6, garantizando la inviolabilidad del sistema.
+
+6. METODOS DE ENSAYO. Los precintos deben estar construidos de forma a soportar con eficiencia los ensayos detallados abajo:
+
+a) Resistencia al deterioro por impacto, previo a su Instalación. Se debe dejar caer libremente el precinto, por diez veces consecutivas, desde dos metros de altura sobre un suelo de cemento y en posiciones diferentes. Luego examinar el precinto, no debiendo presentar muestras de deterioro que afecte su aptitud como precinto inviolable.
+
+b) Resistencia Física a bajas temperaturas. Estando el precinto instalado en la válvula, se mantiene durante 24 hrs. en un ambiente a (15 +/- 2°C). Transcurrido dicho período de tiempo y con la menor dilación posible, se examina el precinto, no debiendo presentar deterioro que afecte su aptitud como precinto inviolable.
+
+c) Resistencia Física a altas temperaturas. Estando el precinto instalado en la válvula, se mantiene durante 24 hrs. en un ambiente a (70 +/- 2°C). Transcurrido dicho período de tiempo y con la menor Dilación posible, se examina el precinto, no debiendo presentar deterioro que afecte su aptitud como precinto inviolable.
+
+d) Resistencia a los gases licuados de petróleo. Estando el precinto instalado en la válvula, se mantiene durante 24 hrs. en un ambiente de fase gaseosa de GLP a una temperatura de (20 +/- 2°C). Transcurrido dicho período de tiempo y con la menor dilación posible, se examina el precinto, no debiendo presentar deterioro que afecte su aptitud como precinto inviolable.
+
+e) Resistencia al ozono. Estando el precinto instalado en la válvula, se mantiene durante 6 hrs. en un ambiente de 25 +/- 5 partes por cien millones de ozono a una temperatura de (30 +/- 2°C). Transcurrido dicho período de tiempo y con la menor dilación posible, se examina el precinto, no debiendo presentar deterioro que afecte su aptitud como precinto inviolable.
+
+f) Resistencia a las soluciones utilizadas para detectar fugas en el conjunto válvula-garrafa. Estando el precinto instalado en la válvula, se sumerge durante 1 hra. en una solución salina saturada de detergente comercial u otras soluciones para detección de fugas que se utilicen normalmente. Sin dilación, sobre este conjunto se realiza el ensayo especificado en el inciso c) del presente punto.
+
+g) Resistencia a la Intemperie.
+
+El sello debe someterse al ensayo de niebla salina durante 24 hrs. Transcurrido dicho período de tiempo y con la menor dilación posible, se examina el precinto, no debiendo presentar deterioro que afecte su aptitud como precinto inviolable.
+
+h) Resistencia al ciclo térmico. Estando el precinto instalado en la vlvula, se mantiene en un ciclo térmico de un ambiente de (-15 +/- 2°C), durante 12 hrs. y pasando rápidamente a un ambiente de (70 +/- 2°C) durante 12 hrs. Y así sucesivamente, durante tres ciclos. Transcurrido dicho período de tiempo y con la menor dilación posible, se examina el precinto, no debiendo presentar deterioro que afecte su aptitud como precinto inviolable.
+
+i) Resistencia al ciclo Mecánico. Estando el precinto instalado en la válvula, se monta en un marco vibrador con una frecuencia de 25 Hz., una amplitud de 0,5 mm., con una componente vertical comprendida entre el 70% y el 95% de su magnitud y un efecto rotacional complementario en el plano horizontal; se mantiene en vibración durante 48 hrs. a una temperatura ambiente. Transcurrido dicho período de tiempo y con la menor dilación posible, se examina el precinto, no debiendo presentar deterioro que afecte su aptitud como precinto inviolable.
+
+7. CERTIFICACION
+
+7.1. Cuando la Autoridad Competente o el comprador lo especifique, el productor debe proporcionar una certificación de conformidad, indicando que los sellos producidos cumplen con los requisitos especificados en esta norma.
+
+7.2. A efectos de la certificación debe quedar claramente establecida una relación biunívoca entre la identificación del producto y el certificado.
+
+7.3. La certificación debe ser ejecutada por una Entidad reconocida por la Autoridad Competente.
+
+8. MERCADO, ROTULADO, ENVASES Y EMBALAJE
+
+8.1. El precinto o conjunto que lo conforma debe llevar la marca o sigla de identificación del fabricante, en una parte visible en forma legible e indeleble y en forma tal que no perjudique la aptitud para el uso del precinto.
+
+a) De igual manera debe llevar la fecha de fabricación, la industria de origen y el nombre de la empresa distribuidora de GLP. Este último requisito puede ser substituido por la diferenciación de colores previamente establecido por el ente regulador.
+
+8.3. Cada envase de precintos o sellos debe llevara en forma destacada el año y el mes de fabricación de los mismos.
+
+8.4. Los envases y embalajes utilizados para el precinto deben ser tales, que garanticen una protección total de éste, durante su almacenamiento.
+
+8.5. Los precintos envasados deben almacenarse de acuerdo con las especificaciones de las normas ISO, según el tipo de material de que estén fabricados.
+
+9. DE LA DIFUSION Y CONTROL. Los Organismos, Empresas, Instituciones y las Autoridades Competentes relacionados con la aplicación y uso del precinto, deben fomentar la educación del consumidor, en el sentido de siempre verificar las condiciones en que está recibiendo la garrafa del distribuidor, esto es:
+
+a) A simple vista el sello debe encontrarse intacto y no presentar indicios de haber sido manipulado;
+
+b) A simple vista el precinto no debe presentar alteración de ninguna especie, ya sea deformación o evidencia de reparación.
+
+c) El precinto debe guardar las características originales del prototipo, previamente autorizado por el Organismo o Autoridad Competente y hecho público por cada Empresa Engarrafadora .
+
+d) La violación o deterioro de un precinto en la válvula de la garrafa, será motivo suficiente para exigir el cambio o devolución de la garrafa por otra en buenas condiciones.
+
+Al mismo tiempo, el público usuario podrá denunciar telefónicamente entregas anómalas, a la Planta Engarrafadora correspondiente que este operando en la ciudad o localidad o a la Autoridad Competente para los correctivos necesarios.
+
+# Anexo Nº 11 Julio 1982 norma Boliviana N.B.440‑81
+
+Inspección de Cilindros Nuevos de Acero (Garrafas)
+
+para Gases Licuados de Petróleo
+
+1. Objetivo y campo de aplicación
+
+1.1 Esta Norma establece los requisitos mínimos que se debe cumplir para efectuar la inspección de los cilindros nuevos de acero (garrafas).
+
+1.2 Los cilindros de acero (garrafas) considerados en esta Norma son tanto de fabricación nacional como importados, de capacidad (5‑45/Kg.) de propano-butano, con una presión de trabajo de 1666 kilopascal (17 Kg/cm2) a temperatura ambiente.
+
+2. Referencias. NE: 12/82 Mantenimiento y reparación de cilindros de acero para gases licuados de petróleo. N.B.‑439‑81 Cilindros de acero para gases licuados de petróleo (garrafas): 5‑45 Kg. de propano‑butano.
+
+3. Definiciones
+
+3.1 Certificado de calidad. Documento que acredita conformidad con Norma‑Boliviana.
+
+3.2 Inspección. Proceso de examinar, medir y comparar con los requisitos mínimos exigidos.
+
+3.3 Habilitación. Procedimiento mediante el cual un cilindro nuevo se aprueba para su funcionamiento.
+
+3.4 Aprobación. Dar visto bueno al cumplimiento de requisitos mínimos, establecidos por Norma.
+
+3.5 Empadronamiento. Identificación material del cilindro de acero mediante un código preestablecido.
+
+3.6 Inspector. Persona designada por la IBNORCA u otra institución autorizada por la misma para realizar la inspección.
+
+4. Requisitos
+
+4.1 Requisitos de Inspección
+
+4.1.1 Todo cilindro de acero (garrafas) antes de su utilización deberá ser aprobado y registrado (empadronado) por la IBNORCA u otra institución autorizada por la misma.
+
+4.1.2 Todo cilindro de acero importado deberá estar respaldado por un Certificado de calidad otorgado por la institución oficial del país productor y reconocido por IBNORCA (Ej. Brasil‑ABNT; Argentina‑IRAM, etc).
+
+4.1.3 Todo cilindro será sometido a un examen visual minucioso de las siguientes partes:
+
+a) Acabado del cilindro (marcado, rotulado, pintado y otros).
+
+b) Soldadura principal (soldadura, circunsferencial, longitudinal y de brida) con ayuda de un lente amplificador y un martillo de punta.
+
+c) Soldaduras secundarias (aro base y aro protector de válvula).
+
+d) Comportamiento de la válvula.
+
+e) Comparación del peso con la tara indicada del cilindro.
+
+4.2 Requisitos del Inspector
+
+4.2.1 El inspector deberá acreditar su condición como tal, mediante una credencial otorgada por la IBNORCA.
+
+4.2.2 El inspector en base a 4.1.3 de esta Norma calificara a los cilindros de acero y de acuerdo al estado que presenta el cilindro, determinará la reparación o inutilización respectiva.
+
+4.2.3 Una vez realizado el trabajo de inspección y de acuerdo realizado en los cilindros, el inspector habilitará los mismos utilizan, una marcación y un código preestablecido, según indica la NE: 14/82 Empadronamiento de cilindros de acero (garrafas).
+
+5. Concordancia con otras normas
+
+5.1 Esta Norma no concuerda con ninguna Norma en particular.
+
+# Anexo Nº 12 Febrero 1982 norma Boliviana N.B. 11/82 inutilizacion de cilindros de acero (garrafas)
+
+1. Objetivo
+
+1.1 Esta Norma establece los requisitos y procedimientos que deben cumplir los cilindros de acero (garrafas) para su inutilización.
+
+2. Campo de aplicación
+
+2.1 Esta Norma es aplicable a todos los cilindros de acero (garrafas) de fabricación nacional e importada, de capacidad (5‑45) Kg. de propano‑butano con una presión de trabajo de 1,666 kilopascal (17 Kg/cm2) a temperatura ambiente.
+
+3. Referencias
+
+N.B.‑439‑81 Cilindros de acero para gases licuados de petróleo.
+
+N.B.‑440‑81 Inspección de cilindros nuevos de acero (garrafas) para gases licuados de petróleo.
+
+NE: 14/82 Empadronamiento de cilindros de acero (garrafas) para gases licuado de petróleo.
+
+4. Definiciones
+
+4.1 Inutilización. Procedimiento por el cual una garrafa deja de ser definitivamente apta como envase de gas licuado de petróleo.
+
+4.2 Abolladura. Depresión producida por un golpe cualquiera en el cilindro.
+
+4.3 Soldadura. Unión resistente de dos piezas por medio de un aglomerante.
+
+4.3.1 Soldadura principales. Uniones resistentes y sometidas a esfuerzos por tensiones (soldadura circunferencial, soldadura longitudinal y soldadura de brida).
+
+4.3.2 Soldadura secundaria. Uniones resistentes y sometidas a esfuerzos por tensiones (soldadura aro asa y aro base).
+
+4.3.3 Soldadura circunferencial. Soldadura que une el casquete superior con el inferior.
+
+4.3.4 Soldadura longitudinal. Soldadura que une la parte cilíndrica en garrafas que tienen esta pieza.
+
+4.3.5 Soldadura de brida. Soldadura que une el casquete superior con la brida.
+
+4.4 Casquete. Pieza en forma de casco obtenido mediante el proceso de embutido.
+
+4.5 Brida. Pieza que permite la unión roscada de la válvula con el cuerpo del cilindro (casquete superior).
+
+5. Requisitos
+
+5.1 Requisitos de Inspección. Una vez realizada la Inspección o reinspección de las garrafas según la Norma Boliviana N.B.‑440‑81 y la Norma de Emergencia NE: 13/82 y después que esta garrafa ha sido observada, será inutilizada, si tiene los siguientes defectos y características:
+
+5.1.1 Deformación saliente de cualquier naturaleza y/o abombamiento.
+
+5.1.2 Zona corroída, exfoliación, aplastamiento, entalladura, puntonamiento y en general, toda avería que signifique una disminución apreciable del espesor de la plancha.
+
+5.1.3 Abolladura con ángulos entrantes.
+
+5.1.4 Abolladura que afectán cualquiera de las soldaduras principales (soldadura entre casquetes, brida casquete, y de la costura de la parte cilíndrica).
+
+5.1.5 Cuando la relación del dimetro (D) y profundidad máxima (F) de las abolladuras (D/F) > 20, según se indica en 7.1.
+
+5.1.6 Más de dos abolladuras, aunque cumplan las condiciones 5.1.5.
+
+5.1.7 Perforación en los casquetes, sean de cualquier tamaño.
+
+5.1.8 Todos los cilindros que han cumplido 15 años de la vida útil después de su fabricación (previa verificación).
+
+5.1.9 Grietas:
+
+a) Grietas longitudinales de más de 15 mm. de longitud en cualquiera de las soldaduras principales.
+
+b) Más de una grieta en la soldadura principal cualquiera sea su longitud.
+
+5.1.10 Zonas porosas:
+
+a) Zona porosa de más de 15 mm. de longitud en cualquier soldadura principal .
+
+b) Dos zonas porosas de 15 mm. o menos de longitud separada entre si por una distancia menos de 15 mm.
+
+c) Más de dos zonas porosas cualesquiera sea la longitud individual y las distancias entre ellas.
+
+5.1.11 Rosca de brida gastada, de tal forma que imposibilite el roscado de la válvula.
+
+5.1.12 Cualquier defecto no contemplado anteriormente que permite asegurar la garrafa no cumple su función para la cual fue creada, según N.B.439‑81 Cilindros de acero para gases licuado de petróleo.
+
+6. Inutilización y su proceso
+
+6.1 Una vez realizada la Inspección de garrafas según 5.1 y después que esta haya sido declarada irreparable se procede de la siguiente manera:
+
+6.1.1 Desmontar la válvula para efectuar la operación purgado.
+
+6.1.2 Limpiar internamente la garrafa, debiendo eliminar todo resto de gas (inertizado). Para este objeto usar agua, vapor de agua, anhídrido carbónico y otro gas inerte.
+
+6.1.3 Una vez realizado los pasos 6.1.1 y 6.1.2 efectuar cualquiera de los siguientes procesos de inutilización (destrucción).
+
+a) Con la ayuda de una llama de acetileno, efectuar perforación de 50 mm. de diámetro en ambos casquetes.
+
+b) Con la ayuda de un mazo, combo u otra herramienta manual, efectuar una abolladura profunda en ambos casos casquetes (superior e inferior) de 50 mm. de longitud.
+
+c) Mediante una prensa apropiada, aplastar el cilindro o garrafas hasta un 30% de su forma original.
+
+7. Métodos de ensayo
+
+7.1 Ensayo de abolladura
+
+7.1.1 Para determinar el contorno de la abolladura y consecuentemente determinar su diámetro mínimo, podrá adoptarse el siguiente procedimiento:
+
+a) Se pintará la zona afectada por la abolladura.
+
+b) Se aplicará sobre la misma un papel limpio.
+
+c) La región del papel que parezca sin pintura será considerada como representativa de la abolladura y sobre su contorno de determinará el diámetro (D) mínimo a que se hizo referencia.
+
+d) Como mínimo se efectúan dos mediciones de dicho diámetro, aceptándose el valor promedio de ambas medidas.
+
+7.1.2 Para determinar la profundidad (F), se utilizarán instrumentos de medición de profundidades (vernier, etc.), comparadores y cualquier instrumento de medida apropiada para tal efecto.
+
+8. Del registro
+
+8.1 Los talleres de reparación de YPFB y los autorizados la Superintendencia e IBNORCA, deben llevar un registro de la cantidad de las garrafas inutilizadas, con las siguientes características.
+
+a) Número, ano de fabricación y su procedencia (nacional o extranjera).
+
+b) Causas por las que fue inutilizada.
+
+9. Concordancia con otras normas
+
+9.1 Esta Norma no concuerda con ninguna norma en particular.
+
+# Anexo Nº 13 Febrero 1982 norma Boliviana N.B. 12/82
+
+Reparación y Mantenimiento de Cilindros de Acero (GARRAFAS)
+
+Para Gases Licuados de Petróleo
+
+1. Objetivo. Esta Norma establece los requisitos mínimos y procedimiento que debe cumplir los cilindros de acero (garrafas) para su mantenimiento o reparación y las condiciones a cumplir por los talleres de reparación.
+
+2. Campo de aplicación
+
+2.1 Esta Norma es aplicable a todo los cilindros de acero (garrafas) de procedencia nacional e importados de capacidad (5‑45) Kg. de propano‑butano, de 1,667 kilopascal (17 Kg/cm2) de presión de trabajo a temperatura ambiente.
+
+3. Referencia
+
+N.B.‑439‑81 Cilindros de acero para gases licuados de petróleo.
+
+N.B.‑440‑81 Inspección de cilindros nuevos de acero (garrafas) para gases licuados de petróleo.
+
+NE:11/82 Inutilización de cilindros de acero (garrafas).
+
+4. Definiciones
+
+4.1 Mantenimiento. Procesos que establece el buen comportamiento funcional de la garrafa y presentación única.
+
+4.2 Reparación. Proceso mecánico a que es sometido una garrafa observada en la Inspección o reinspección, para la eliminación de su defecto y luego ser rehabilitada.
+
+4.3 Rehabilitación. Proceso por el cual una garrafa destinada a reparación o mantenimiento, es autorizada a circular nuevamente bajo una nueva identificación.
+
+4.4 Purgado. Expulsión de residuos de gas licuado de petróleo y otras sustancias que contiene el cilindro o garrafa.
+
+4.5 Soldadura. Unión resistente de dos piezas por medio de un aglomerante.
+
+4.6 Soldadura principal. Unión resistente y sometida a esfuerzos por tensión (soldadura circunferencial, longitudinal y de brida).
+
+4.7 Soldadura secundaria. Unión resistente no sometida a esfuerzo por tensiones (soldadura aro asa y aro base).
+
+5. Requisitos
+
+5.1 Requisitos de inspección
+
+5.1.1 Una vez realizada la inspección o reinspección de los cilindros de acero según las Normas Bolivianas N.B.‑4004‑81 y N.E. 13/82, y luego de ser observada será destinada a mantenimiento o reparación.
+
+5.2 Requisitos de reparación
+
+5.2.1 Todos los cilindros de acero o garrafas, cuyo defectos no se encuentren en el párrafo 5.1 de la Norma Boliviana de emergencia N.B. 11/82 Inutilización de garrafas, son aptas para su reparación.
+
+5.3 Procesos de reparación
+
+5.3.1 Todo proceso sometido a reparación debe pasar por las siguientes operaciones:
+
+a) Desmontar la válvula.
+
+b) Limpiar internamente el cilindro, debiendo eliminarse todo resto de gas (inertizado). Para este objeto utilizar agua, vapor de agua, anhidro carbónico u otro gas fuerte.
+
+c) Determinar el tipo de reparación, que puede ser entre otros de soldadura, de válvula, etc.
+
+5.3.1.1 Reparación de soldadura. Si el cilindro requiere de reparación de soldadura, deberá efectuarse las siguientes operaciones:
+
+a) Remover la parte afectada mediante un escoplo mecánico, esmeril y otro medio físico, teniendo especial cuidado de no dañar la chapa, ni disminuir sus propiedades fisicomecanicas.
+
+b) La reparación se efectuara mediante soldadura arco eléctrico (manual o eléctrico), utilizando el electrodo apropiado (resistencia mínima a la tracción de 60 da N/mm2), previa clasificación de soldador.
+
+c) Si hay desprendimiento de aro base o aro asa se soldará manualmente con arco eléctrico y electrodo apropiado (resistencia mínima a la tracción de 60 da N/mm2).
+
+d) Si hay desprendimiento total o perdida de aro base se procederá a reparación y/o sustitución mediante soldadura manual por arco eléctrico.
+
+e) Si hay desprendimiento total y perdida del aro protector de la válvula de cilindro, deberá ser rehabilitado de acuerdo a lo indicado en 7.1.1 y 7.1.2 de la Norma Boliviana N.B.‑439‑81: Cilindros de acero para gases licuados de petróleo.
+
+5.3.1.2 Reparación de válvula. Si el cilindro requiere la reparación de válvula, deberán efectuarse las siguientes operaciones:
+
+a) La válvula deberá limpiarse cuidadosamente.
+
+b) Someter a la válvula a una prueba de hermeticidad y a una presión de 2,157 kilopascal (22 Kg/cm2).
+
+c) Debe controlarse el estado del las roscas visualmente y controlando con un macho patrón.
+
+5.3.2 Luego de reparar el cilindro deberá verificarse a las pruebas funcionales de acuerdo a los incisos 4.2.4, 7.1.1 y 7.1.2 de la Norma Boliviana N.B. 439‑81.
+
+5.3.3 Una vez reparado y aceptado el cilindro se someterá a un pintado general de acuerdo al inciso 4.1.7 de la Norma Boliviana N.B.‑439‑81.
+
+5.4 Requisitos de mantenimiento
+
+5.4.1 Todos los cilindros destinados a mantenimiento según 5.1, deben cumplir las siguientes operaciones:
+
+a) Deben purgarse sin remover la válvula (si estas no son automáticas).
+
+b) Si son válvulas automáticas (válvulas compact), necesariamente se debe desarticular los accesorios de la válvula, para su purgado.
+
+c) Las correcciones de abolladura de los aro asa y aro base, deben efectuarse con herramientas que no produzcan chispas (martillo de bronce, plástico, etc.). Si se produce en esta corrección desprendimiento de aro asa y/o aro base deberá desmontarse la válvula y procederse según indica en 5.3, 5.3.2, de esta Norma.
+
+d) En caso de observar que los sellos o asientos de válvula están dañados, o tengan alguna irregularidad, deben cambiarse por otras nuevas.
+
+e) Se debe verificar el buen ajuste y cierre de válvula.
+
+5.5 Requisitos de los talleres de Reparación
+
+5.5.1 La reparación de los cilindro de acero (garrafas), solo podrán efectuarse en talleres especialmente autorizados para este fin por la Superintendencia.
+
+5.5.2 Los talleres de reparación deben tener los siguientes instrumentos y equipos para el efecto.
+
+a) Equipo de soldadura eléctrica (TIG, MIG, MAG, oxiacetilenica, etc.).
+
+b) Equipo para efectuar la prueba hidráulica a 3,334 kilopascal (34 Kg/cm 2).
+
+c) Horno para tratamiento térmico con controles automáticos de temperatura (Temperatura máxima 650 EC y temperatura mínima 250 °C).
+
+d) Báscula con capacidad de 50 Kg. y una exactitud aproximada de =50 gr.
+
+e) Equipo de limpieza y pintado
+
+f) Herramientas manuales y demás accesorios para reparación de garrafas.
+
+g) Equipo para inertizado, venteo y purgado de garrafas.
+
+5.5.3 La disposición de seguridad y funcionalidad del taller de reparación de garrafas, deberá satisfacer los requisitos exigidos por el reglamento básico de higiene y seguridad industrial que indica el Ministerio de Trabajo.
+
+6. Métodos de ensayo
+
+6.1 Prueba Hidráulica
+
+6.1.1 Según indica la Norma Boliviana N.B. 430‑81, inciso 6.4.
+
+6.2 Tratamiento Térmico
+
+6.2.1 Según indica la Norma Boliviana N. B.‑439‑81, inciso 4.1.6.
+
+7. Marcado
+
+7.1 En el aro asa se efectuará el marcado respectivo de los cilindros de acero (garrafas) reparadas y sometidos a mantenimiento, según indica la Norma Boliviana de Emergencia NE. 14/82 Empadronamiento de los cilindros de acero (garrafas).
+
+8. Concordancia con otras Normas
+
+8.1 Esta Norma no concuerda con ninguna norma en particular.
+
+# Anexo Nº 14 Febrero 1982 norma Boliviana N.B. 13/82
+
+Reinspección y Vida Util de Cilindros de Acero (garrafas)
+
+Para Gas Licuados de Petróleo
+
+1. Objetivo
+
+1.1 Esta norma establece las condiciones mínimas que deben cumplir los cilindros de acero (garrafas) para ser reinspeccionados y determinar su vida útil.
+
+2. Campo de aplicación
+
+2.1 Esta norma esta destinada a cilindros de acero (garrafas) de capacidad 5‑45 kg. de propano‑butano de procedencia nacional o extranjera, con una presión de trabajo de 1,666 kilopascal (17 Kg/cm2) a temperatura ambiente.
+
+3. Referencia
+
+N.B.‑439‑81 Cilindro de acero para gases licuados de petróleo.
+
+NE:11/82 Inutilización de cilindros de acero (garrafas).
+
+N.B.‑440‑81 Inspección de cilindros nuevos (garrafas) para gases licuados de petróleo.
+
+N.E. 14/B2 Empadronamiento de cilindros de acero (garrafas) para gas licuado de petróleo.
+
+NE: 12/82 Reparación y mantenimiento de cilindros de acero para gas licuado de petróleo.
+
+4. Definiciones
+
+4.1 Reinspección. Proceso visual y mecánico, por el cual una garrafa es verificada después de los cinco (5) y diez (10) años de circulación, o cuando haya alguna duda acerca de su aptitud de uso.
+
+4.2 Vida útil. Período en el cual las garrafas es apta para su uso. En Bolivia la vida útil de las garrafas esta limitada a quince (15) años.
+
+4.3 Destrucción. Proceso mecánico por el cual una garrafa es deformada, lográndose una inutilización completa.
+
+5. Requisitos:
+
+5.1 Requisitos generales
+
+5.1.1 Toda garrafa que tiene cinco (5) años de circulación (tiempo que se contabilizará desde que la garrafa ha sido fabricada, ver el estampado en alto relieve en el casquete superior) debe ser reinspeccionada en forma obligatoria para verificar su aptitud de uso y debe cumplir con los siguientes requisitos:
+
+a) No debe presentar defectos de soldadura y/o abombamiento.
+
+b) No debe tener desprendidos o separados los aro asa y/o aro base del cuerpo de la garrafa.
+
+5.1.2 La reinspección se verificará en los talleres de reparación a cargo de técnicos autorizados por la Superintendencia.
+
+5.1.3 Los cilindros que han sido reinspeccionados a los cinco (5) anos después de su fabricación y aquellos cilindros que ya tienen 10 y 13 años de vida, también deben inspeccionarse de acuerdo a 5.1.1, 5.1.2 y 5.1.3 de ésta Norma.
+
+5.2 Requisitos especiales
+
+5.2.1 Todos los cilindros que han cumplido los quince (15) años de vida después de su fabricación, deben inutilizarse totalmente por haber cumplido su cielo de vida útil y deben darse de baja inmediatamente por los técnicos responsables de la Superintendencia o IBNORCA, según indica la Norma Boliviana de emergencia N.E: 11/82 Inutilización de garrafas.
+
+5.2.2 Todos los cilindros que han sido reinspecionados visualmente deben de ser ensayados de acuerdo al inciso 4.2.4 de la Norma Boliviana N.B.‑ 439‑81 Cilindros de acero para gases licuados de petróleo, antes de su habilitación.
+
+5.2.3 Todos los cilindros o garrafas que fueron reinspeccionados y rechazados, deben someterse a mantenimiento, reparación o inutilización según la Norma Boliviana de Emergencia N.E: 12/82 Mantenimiento y reparación de garrafas y N.B. 11/82 Inutilización de garrafas.
+
+6. Métodos de ensayo
+
+6.1 Prueba de estanqueidad. De acuerdo al inciso 6.4 de la Norma Boliviana N.B. ‑439‑81 Cilindros de acero para gases licuado de petróleo.
+
+7. Concordancia con otras normas
+
+Esta Norma no concuerda con ninguna Norma.

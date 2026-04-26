@@ -1,0 +1,42 @@
+# Bolivia: Decreto Supremo Nº 25834, 7 de julio de 2000
+
+HUGO BANZER SUÁREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1330](https://www.lexivox.org//norms/BO-L-1330.html) de 24 de abril de 1992 (Ley de Privatización) autoriza a las instituciones, entidades y empresas del sector público enajenar los activos, bienes, valores, acciones y derechos de su propiedad y transferirlos a personas naturales o jurídicas, nacionales o extranjeras, o aportar los mismos a la constitución de nuevas sociedades anónimas mixtas;
+* Que la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de 16 de septiembre de 1997, establece, entre las atribuciones del Ministerio de Comercio Exterior e Inversión, la de ejecutar las actividades correspondientes a los procesos de privatización y capitalización de las empresas del sector público;
+* Que la [Ley Nº 1981](https://www.lexivox.org//norms/BO-L-1981.html) de 27 de mayo de 1999 excluye de los alcances de la Ley de Capitalización Nº 1544 de 21 de marzo de 1994, las actividades de refinación, transporte, almacenaje y comercialización de hidrocarburos que la empresa Yacimientos Petrolíferos Fiscales Bolivianos desarrolla a la fecha;
+* Que por [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html) de 10 de abril de 1995 se reglamenta la Ley de Privatización disponiendo que todas las empresas y demás entidades públicas propietarias de unidades económicas, activos, bienes, valores, acciones y derechos, se deben someter a procesos de reordenamiento de acuerdo a sus normas;
+* Que por [Decreto Supremo Nº 24855](https://www.lexivox.org//norms/BO-DS-24855.html) de 22 de septiembre de 1997, se reglamenta la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) y se encarga al Ministerio de Comercio Exterior e Inversión, las funciones de formular y ejecutar las políticas y normas de privatización de las empresas del sector público en coordinación con los Ministerios sectoriales;
+* Que el [Decreto Supremo Nº 24873](https://www.lexivox.org//norms/BO-DS-24873.html) de 20 de octubre de 1997, dispone que el Consejo Nacional de Política Económica (CONAPE) cumplirá las funciones establecidas para el CONEPLAN en la [Ley Nº 1330](https://www.lexivox.org//norms/BO-L-1330.html) y las que se encargan por [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html) al Consejo de Desarrollo Nacional (CODENA), en tanto que las funciones y atribuciones del Ministro Sin Cartera Responsable de Capitalización, señaladas en dicho decreto supremo serán cumplidas por el Ministro de Comercio Exterior e Inversión;
+* Que el Consejo Nacional de Política Económica, por Acta Nº 21/99 de 22 de julio de 1999, ha definido la estrategia de Transferencia de los Activos de las Plantas de Almacenaje de Carburantes y Poliductos de propiedad de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB);
+* Que por Resolución del Directorio de YPFB Nº 20/99 de 27 de mayo de 1999, se autoriza a la Presidencia Ejecutiva de YPFB realizar los actos jurídicos necesarios para el reordenamiento de las unidades de negocios de refinación, transporte, almacenaje y comercialización de YPFB y ceder y transferir a terceros los bienes correspondientes a estas unidades, comprendiendo entre ellas las siguientes:
+  - Refinerías y Poliductos
+  - Plantas de Almacenamiento
+  - Estaciones de Servicios de Carburantes
+  - Estaciones de Servicio de Aeropuertos
+  - Engarrafadoras de Gas Licuado de Petróleo
+  - Redes de Distribución de Gas Natural
+  - Plantas de Colpa y Caranda
+* Que por Resolución Ministerial Nº 219/99 de 7 de octubre de 1999, el Ministerio de Comercio Exterior e Inversión ha aprobado el Plan Específico y el Pliego de Condiciones de la Licitación Pública Nacional e Internacional Ref. MCEI/YPFB/UR/LIC - 012/99 en cumplimiento del artículo 11 inc. b) del [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html).
+* Que mediante la Convocatoria Pública Nacional e Internacional Ref. MCEI/YPFB/UR/LIC - 012/99, se invita a las personas jurídicas nacionales y/o extranjeras a presentar propuestas para la transferencia definitiva de la unidad de negocio en marcha que comprende los activos correspondientes a los Poliductos y las Plantas de Almacenaje de Carburantes de propiedad de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), en favor de la Compañía Logística de Hidrocarburos Boliviana que deberá ser conformada por el adjudicatario del presente proceso.
+* Que de acuerdo a lo previsto en las Convocatorias y Pliego de Condiciones, en 20 de junio de 2000, la Comisión Calificadora procedió con la recepción de sobres y apertura de Ofertas de la Licitación Pública Ref. MCEI/YPFB/UR/LIC - 012/99, habiéndose recibido la oferta del Consorcio mil TANKING GmbH/GMP SA/GRAÑA Y MONTERO S. A. A.
+* Que el Ministro de Comercio Exterior e Inversión ha presentado a consideración del Presidente de la República en Consejo de Ministros el informe de la Comisión Calificadora, que en uso de las atribuciones establecidas en la Resolución Suprema 215521, de acuerdo al análisis efectuado y por unanimidad, recomienda la adjudicación de la Licitación Pública Nacional e Internacional Ref. MCEI/YPFB/UR/LIC - 012/99 para la transferencia definitiva de la unidad de negocio en marcha que comprende los activos correspondientes a los Poliductos y las Plantas de Almacenaje de Carburantes de propiedad de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), se efectúe en favor del Proponente mil TANKING GmbH/GMP S. A./GRAÑA Y MONTERO S. A. A. por el monto de $us 12.054.321.- (Doce Millones Cincuenta y Cuatro mil Trecientos veintiún 00/100 Dólares de los Estados Unidos de Norteamérica).
+* Que la adjudicación debe efectuarse mediante decreto supremo, conforme establece el artículo séptimo de la Resolución Suprema 215521 de 13 de abril de 1995 concordante con el [Decreto Supremo Nº 24873](https://www.lexivox.org//norms/BO-DS-24873.html) de 20 de octubre de 1997.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Adjudícase la Licitación Pública Nacional e Internacional Ref. MCEI/YPFB/UR/LIC - 012/99 de transferencia de la unidad de negocio en marcha que comprende los activos correspondientes a los Poliductos y las Plantas de Almacenaje de Carburantes de propiedad de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), en favor del Proponente mil TANKING GmbH/GMP S. A./GRAÑA Y MONTERO S. A. A. por el monto de $us 12.054.321 (Doce Millones Cincuenta y Cuatro mil Trecientos veintiún 00/100 Dólares de los Estados Unidos de Norteamérica), quien para la suscripción del contrato de transferencia debe constituir una empresa a ser denominada Compañía Logística de Hidrocarburos Boliviana (CLHB).
+
+---
+
+El señor Ministro de Estado, en el Despacho de Comercio Exterior e Inversión, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los siete días del mes de julio del año dosmil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, Ronald Mac Lean Abaroa, Juan Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vásquez Villamor, Oswaldo Antezana Vaca Diez, José Luis Carvajal Palma, Carlos Saavedra Bruno, Rubén Poma Rojas, Manfredo Kempff Suárez.

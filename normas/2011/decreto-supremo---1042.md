@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 1042, 16 de noviembre de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 29 del [Decreto Supremo Nº 28565](https://www.lexivox.org//norms/BO-DS-28565.html), de 22 de diciembre de 2005, dispone que la Dirección de Liquidación de Entes Gestores de Seguridad Social se constituye en un área organizacional del Servicio Nacional de Patrimonio del Estado - SENAPE, que tendrá vigencia hasta la conclusión de su liquidación. Dentro de esta competencia transitoria, administrará, supervisará y controlará los procesos de liquidación de los ex Entes Gestores de Seguridad Social dispuesta por la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html), de 29 de noviembre de 1996.
+* Que la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html), de 20 de julio de 1990, de Administración y Control Gubernamentales, modifica las funciones de la Contraloría General de la República. Asimismo, con la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), de 7 de febrero de 2009, la Contraloría General de la República, pasa a denominarse Contraloría General del Estado, como una institución técnica que ejerce la función de control de la administración de las entidades públicas, tiene autonomía funcional, financiera, administrativa y organizativa.
+* Que la Contraloría General del Estado, requiere contar con infraestructura adecuada para el cumplimiento de sus objetivos, para lo cual es necesario que adquiera a título oneroso un inmueble para el funcionamiento de sus oficinas en la ciudad de Oruro.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, a través de la Directora o Director de Liquidación de los ex Entes Gestores de Seguridad Social del Servicio Nacional de Patrimonio del Estado - SENAPE, en su calidad de Liquidadora o Liquidador, transferir a título oneroso el inmueble ubicado en la Avenida 6 de Octubre, entre calles Murguía y Sucre de la ciudad de Oruro, con una superficie de 537,23 mts2, con Testimonio de Propiedad N° 51/1989, de 30 de junio de 1989, inscrito en Derechos Reales del Distrito Judicial de Oruro bajo la Matrícula 4.01.1.01.0032074, Asiento A-2, de propiedad del ex Fondo Complementario de Seguridad Social de Comercio, a favor de la Contraloría General del Estado, para el funcionamiento de sus oficinas.
+2. La Contraloría General del Estado cancelará en un solo pago el monto de $us146.729,64 (CIENTO CUARENTA Y SEIS mil novecientos veinte y nueve 64/100 DÓLARES ESTADOUNIDENSES), con cargo a las partidas presupuestarias 41100 “Edificios” y 41200 “Tierras y Terrenos”, inscrita en el presupuesto de la Contraloría General del Estado. Los recursos obtenidos por la transferencia a título oneroso del bien inmueble, serán depositados a la cuenta del Tesoro General de la Nación - TGN, asignada para el efecto.
+3. La Directora o Director de Liquidación de los ex Entes Gestores de Seguridad Social del SENAPE, en su calidad de Liquidadora o Liquidador, es responsable de los procedimientos previos a la transferencia; así como de la suscripción de la minuta por cuenta del Ministro de Economía y Finanzas Públicas.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de noviembre del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Carlos Romero Bonifaz, Wilfredo Franz David Chávez Serrano, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Daniel Santalla Torrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola MINISTRA DE DES. RURAL Y TIERRAS E INTERINA DE HIDROCARBUROS Y ENERGÍA, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

@@ -1,0 +1,76 @@
+# Bolivia: Decreto Supremo Nº 1496, 20 de febrero de 2013
+
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 35 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud.
+* Que el Parágrafo I del Artículo 45 del Texto Constitucional, establece que todas las bolivianas y los bolivianos tienen derecho de acceder a la seguridad social.
+* Que el Artículo 1 de la [Ley Nº 252](https://www.lexivox.org//norms/BO-L-N252.html), de 3 de julio de 2012, dispone que todas las Servidoras Públicas y Trabajadoras, mayores de dieciocho (18) años, que desarrollan sus actividades con funciones permanentes o temporales en instituciones públicas, privadas o dependientes de cualquier tipo de empleador, gozarán de tolerancia remunerada de un (1) día hábil al año, a objeto de someterse a un examen médico de Papanicolaou y/o Mamografía.
+* Que con la finalidad de prevenir el cáncer de cuello cérvico uterino y el cáncer de mama, se requiere implementar políticas que contribuyan a disminuir la morbi - mortalidad en mujeres, protegiendo la salud de servidoras públicas y trabajadoras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la aplicación de la [Ley Nº 252](https://www.lexivox.org//norms/BO-L-N252.html), de 3 de julio de 2012, que establece la tolerancia de un (1) día hábil al año para las servidoras públicas y trabajadoras que se sometan al examen médico de Papanicolaou y/o Mamografía.
+
+**Artículo 2°.- (Procedimiento)** 
+
+1. El día de tolerancia será coordinado entre la servidora pública o trabajadora y el empleador, siendo fraccionado en dos (2) medias jornadas de la siguiente forma:
+   1. Media jornada laboral para la realización de la prueba de Papanicolaou y si corresponde la obtención de orden del examen de Mamografía;
+   2. Media jornada para conocer los resultados médicos de la prueba de Papanicolaou, en conformidad a normas y protocolos de atención vigente.
+2. Conocidos los resultados médicos correspondientes, la servidora pública o trabajadora presentará ante el empleador la constancia que evidencie la utilización de la tolerancia para los fines establecidos.
+
+**Artículo 3°.- (Consulta privada)** 
+
+1. Las servidoras públicas o trabajadoras podrán realizar los exámenes y pruebas referidas en el Artículo precedente, acudiendo a la consulta médica privada a cuenta de los recursos de la servidora o trabajadora.
+2. Se aprueba el Formulario de Autorización de Consulta Privada - ACP, que en Anexo forma parte integrante del presente Decreto Supremo.
+3. La servidora pública o trabajadora, presentará a la Unidad de Recursos Humanos o al responsable de cada empleador el Formulario ACP, a objeto de acreditar la tolerancia.
+
+**Artículo 4°.- (Incumplimiento por parte de los entes gestores y centros de salud autorizados)** 
+
+1. El Ministerio de Salud y Deportes, realizará la fiscalización y control a los entes gestores y a los centros de salud autorizados, para el cumplimiento del presente Decreto Supremo.
+2. Los entes gestores y los centros de salud autorizados garantizarán a las servidoras públicas o trabajadoras la prestación de servicios para la realización de la prueba de Papanicolaou y examen de Mamografía, en conformidad a normas y protocolos médicos de atención vigente, siendo responsables del seguimiento de las pacientes que presenten señales de riesgo para su tratamiento correspondiente.
+
+**Artículo 5°.- (Control y seguimiento)** 
+
+1. Los entes gestores y los centros de salud autorizados, remitirán informes semestrales sobre el cumplimiento del presente Decreto Supremo al Ministerio de Salud y Deportes.
+2. El Ministerio de Salud y Deportes remitirá información sistematizada de forma anual al Ministerio de Trabajo, Empleo y Previsión Social, a objeto de programar las inspecciones que correspondan.
+
+**Artículo 6°.- (Promoción y prevención)** El Ministerio de Salud y Deportes generará espacios de información, orientación, educación y sensibilización sobre la importancia de la prevención del cáncer de cuello cérvico uterino y el cáncer de mama.
+
+# Disposiciones adicionales
+
+**Artículo adicional Único.-** Los entes gestores de salud y los centros de salud autorizados, en el plazo máximo de doscientos veinte (220) días hábiles, a partir de la publicación del presente Decreto Supremo adecuarán su capacidad resolutiva, garantizando la realización de pruebas de Papanicolaou y exámenes de Mamografía.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Trabajo, Empleo y Previsión Social; y de Salud y Deportes, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de febrero del año dos mil trece.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES Y DE PLANIFICACIÓN DEL DESARROLLO, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL E INTERINA DE MEDIO AMBIENTE Y AGUA, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo MINISTRO DE SALUD Y DEPORTES E INTERINO DE DESARROLLO RURAL Y TIERRAS, Roberto Iván Aguilar Gómez, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.
+
+# Anexo Formulario Único de autorización de consulta médica privada
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Nombre de la paciente** | | | |
+| Apellido Paterno | Materno | Nombres | Matrícula |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **Nombre y registro del Centro Médico autorizado** | | | |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | | |
+| **Examen de:** Papanicolau [ \_ ] Mamografía [ \_ ] Colposcopía [ \_ ] | | | |
+| **Fecha de consulta** | | | |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | | |
+| **Fecha de próxima cita médica** | | | |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | | |
+| **Fecha de entrega de los resultados del examen** | | | |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | | |
+| **Nombre y matrícula del médico** | | | |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | | |
+| **Firma y sello del médico** | | | |
+|  | | | |

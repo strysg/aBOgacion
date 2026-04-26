@@ -1,0 +1,503 @@
+# Bolivia: Decreto Supremo Nº 23469, 7 de abril de 1993
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, mediante [Ley Nº 1403](https://www.lexivox.org//norms/BO-L-1403.html) de 18 de diciembre de 1992 se ha promulgado el Código del Menor conteniendo 324 artículos; cuya finalidad es la de establecer un régimen legal acorde con los principios universales de protección, atención y prevención integrales que el Estado debe brindar a todo niño.
+* Que, el artículo 5to de las disposiciones transitorias del mencionado Código instruye al Poder Ejecutivo la elaboración de un reglamento en el que se determine el marco institucional del Organismo Nacional del Menor, Mujer y Familia, entidad que reemplaza a la ex Junta Nacional de Solidaridad y Desarrollo Social.
+* Que, el Poder Ejecutivo considera importante no sólo reglamentar el régimen administrativo institucional sino además aclarar y complementar disposiciones contenidas en el Código del Menor, en especial aquellas referidas a los derechos fundamentales y a la protección y prevención de situaciones que atenten contra el menor, de modo que pueda lograrse efectivizar tales derechos, garantías y normas protectivas enunciadas por ley.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Título PRELIMINAR Disposiciones fundamentales
+
+**Artículo 1°.- (Comunicación al Organismo Nacional)** Para efectos de validez de los procesos que involucran a menores, a los que se refiere el artículo 10 del Código del Menor, las citaciones y notificaciones serán realizadas por los jueces y autoridades a las Direcciones Ejecutivas Departamentales del ONAMFA, instancias que a su vez derivarán ante Asesoría Legal para que asuma conocimiento del caso.
+  
+En provincias, el Juez o autoridad que conozca de procesos que involucren a menores, citará a la oficina Provincial del Organismo Nacional del Menor, Mujer y Familia. En los lugares donde no exista o no sea posible la acción del Organismo Nacional, el Juez de la causa nombrará de oficio a un promotor fiscal para que actúe en defensa del menor.
+  
+El Organismo Nacional del Menor, Mujer y Familia, que en adelante, y para efectos del presente reglamento se denominará ONAMFA, participará coadyuvando en la elaboración de diligencias de policía judicial a través de sus equipos técnicos, en caso de delitos cometidos contra menores.
+
+**Artículo 2°.- (Reserva y publicidad)** La reserva en los procesos que involucren a menores, referida en el artículo 11 del Código del Menor, tiene la finalidad de proteger la dignidad del menor y evitar su estigmatización. Los órganos de comunicación social solicitarán autorización expresa del juez que conoce de la causa, para realizar publicaciones al respecto.
+  
+En audiencia privada sólo se admitirá la presencia del menor, sus padres, tutores o familiares que el Juez acepte, además del Fiscal de la materia y el representante del ONAMFA, así como de equipos técnicos de apoyo al Juzgador cuando exista la necesidad.
+  
+Por reserva profesional de los organismos técnico-administrativos se entiende que los profesionales asignados al trabajo específico estarán prohibidos de emitir opiniones y otorgar información a terceros bajo sanción administrativa.
+
+**Artículo 3°.- (Acción u omisión)** A efectos de dar cumplimiento a lo dispuesto por el artículo 14 del Código del Menor, toda persona podrá denunciar conductas de negligencia, discriminación, crueldad y opresión a menores, dirigiéndose indistintamente al Juez del Menor, al Ministerio Público, o a la Dirección Ejecutiva Departamental del ONAMFA, no siendo obligatoria la denuncia escrita.
+
+## Título I De la efectivizacion de los derechos fundamentales del menor
+
+### Capítulo I Del derecho a la vida y a la salud
+
+**Artículo 4°.- (Protección a la maternidad)** El Ministerio de Previsión Social y Salud Pública, a través de la coordinación intersectorial elaborará, ejecutará y fomentará programas de alimentación complementaria para la madre en las etapas pre y post natal.
+  
+Los organismos gubernamentales y no gubernamentales dedicados al campo de la salud tienen la obligación de incorporarse a los planes, programas y proyectos bajo la competencia del Ministerio de Previsión Social y Salud Pública, ente normador y ejecutor de las políticas nacionales de salud.
+  
+Para fines del artículo 16 del Código, el embarazo de las menores de edad es considerado de alto riesgo obstétrico y en consecuencia de atención gratuita en los centros hospitalarios estatales. Para el efecto, la menor embarazada recabará un formulario de solicitud de gratuidad en dichos centros, el mismo que contendrá los datos más importantes equivalentes a una ficha social. Dicho formulario sustituirá al Informe Social al que se refiere el citado artículo 16.
+
+**Artículo 5°.- (Carnet del Niño Sano)** Con el fin de dar cumplimiento a lo dispuesto por el artículo 21 del Código del Menor, referido a los Programas de prevención en salud, el Ministerio de Previsión Social y Salud Pública deberá implementar de manera progresiva, en las áreas urbana y rural, el Carnet del Niño Sano.
+
+**Artículo 6°.- (Menores discapacitados)** Los Ministerios de Previsión Social y Salud Pública, de Educación y Cultura y el ONAMFA, coordinarán planes, programas y proyectos que tengan por objeto la atención del menor con discapacidades, debiendo impulsar y fomentar la participación de las ONGs, otras organizaciones y la sociedad en su conjunto en ese trabajo.
+  
+Las denuncias acerca de la existencia de un menor impedido deberán realizarse ante las Direcciones Ejecutivas Departamentales del ONAMFA, repartición que a su vez llevará a cabo la investigación correspondiente.
+
+### Capítulo II De los menores farmacodependientes y adictos a sustancias psicotropicas
+
+**Artículo 7°.- (Atribuciones del Organismo Nacional)** La competencia del ONAMFA señalada en el artículo 27 del Código del Menor se refiere a los casos en los cuales menores de edad hayan participado en la comisión de delitos tipificados por la [Ley Nº 1008](https://www.lexivox.org//norms/BO-L-1008.html). Las Direcciones Ejecutivas Departamentales del ONAMFA se constituyen en los órganos que participarán directamente en los procesos judiciales en defensa de los menores.
+
+**Artículo 8°.- (Políticas de prevención y rehabilitación)** El Ministerio de Previsión Social y Salud Pública a través del órgano ejecutivo del Consejo Nacional de Prevención sobre el Uso Indebido de Estupefacientes (CONAPRE) es la entidad estatal encargada de las políticas de prevención sobre el uso de sustancias psicotrópicas, en especial de menores de edad. Asimismo, es la entidad encargada de los centros de tratamiento y rehabilitación estatales y de supervisión de los centros privados.
+
+**Artículo 9°.- (Autorización judicial)** El ONAMFA, a través de las Direcciones Ejecutivas Departamentales, solicitará autorización del Juez del Menor para efectos de las atribuciones contenidas en el artículo 30 del Código del Menor.
+
+### Capítulo III Del derecho a la familia y la convivencia comunitaria
+
+#### Sección I Familia de origen
+
+**Artículo 10°.- (Circunstancias especiales)** Las circunstancias especiales a que se refiere el artículo 31 del Código del Menor son las definidas como situación de riesgo en el artículo 177 del mismo cuerpo legal.
+
+**Artículo 11°.- (Programas)** Los programas de apoyo y promoción familiar señalados en el artículo 34 del Código, serán asumidos tanto por instituciones estatales como por organizaciones no gubernamentales habilitadas para el efecto y registradas ante el ONAMFA.
+
+#### Sección II Familia sustituta
+
+**Artículo 12°.- (Incompatibilidad)** No se concederá colocación en familia sustituta, si la misma es incompatible con la naturaleza de la medida o no ofrece un ambiente familiar que reúna las condiciones afectivas, emocionales y materiales más convenientes para asegurar al niño el desarrollo integral de su personalidad.
+
+**Artículo 13°.- (Exclusividad)** A efecto de interpretar los artículos 48 y 49 del Código del Menor, se entenderá la guarda como la institución jurídica exclusiva para los menores que se hallen bajo la tutela del Estado y sean previamente declarados en estado de abandono según lo establecen los artículos 58 al 62 y 245 al 250 del Código.
+
+**Artículo 14°.- (Programas en guarda de menores)** El ONAMFA, a través de las Direcciones Ejecutivas Departamentales implementará los programas a los que se refiere el artículo 52 del Código del Menor, ya sea en forma directa o a través de organizaciones no gubernamentales.
+
+#### Sección III Del estado de abandono
+
+**Artículo 15°.- (Obligación de informar)** Para una correcta aplicación del capítulo IV del Código del Menor referido al Estado de Abandono, las Direcciones de Hospitales, Clínicas, Centros de Salud o de acogimiento u hogares estatales y privados, así como terceras personas, quedan obligadas a informar casos de abandono de menores a las Direcciones Departamentales del Menor, Mujer y Familia, en el término de 48 horas de conocido el hecho.
+
+**Artículo 16°.- (Conducta disocial de los padres)** Se entenderá por conducta disocial de los padres, a efectos de interpretación del artículo 58 inc 3 del Código:
+  
+Todas las causales indicadas en el artículo 277 del Código de Familia.
+  
+Otras que coloquen al menor en inminente riesgo físico y psicológico que pueda derivar en daños irreversibles.
+
+**Artículo 17°.- (Obligación de informar)** Para el cumplimiento de los artículos 58 y 61 del Código del Menor, todas las instituciones que trabajan con el sistema de acogimiento u hogares y conozcan de la situación de abandono de un menor, estarán obligadas a proporcionar información mensual a la Dirección Departamental del Menor, Mujer y Familia a efectos de tramitar la declaración de estado de abandono.
+
+#### Sección IV De la adopcion
+
+##### Subsección I De la adopcion simple
+
+**Artículo 18°.- (Requisitos para adoptantes)** A efectos de dar cumplimiento a lo dispuesto en el artículo 70 del Código del Menor, los adoptantes deben presentar los siguientes documentos:
+  
+- Certificado de Nacimiento del o los solicitantes.
+  
+- Certificados Médicos de salud física y mental, psicológico y social, expedidos por profesionales afiliados a los Colegios correspondientes.
+  
+Para la comprobación real y efectiva de lo previsto en el artículo 76 del Código del Menor, el solicitante deberá adjuntar Certificado de Registro Civil que acredite su estado civil.
+
+**Artículo 19°.- (Requisitos del adoptado)** Para los adoptados, se exigirán los siguientes requisitos complementarios a lo dispuesto por el artículo 71 del Código:
+  
+- Certificado de nacimiento del menor
+  
+- Presencia de los padres, si existieren, en la audiencia
+  
+- Consentimiento en audiencia pública citada para tal efecto por el Juez de Menores, en presencia de dos testigos.
+  
+- Ambos padres deben dar su consentimiento. En caso de fallecimiento de uno de ellos se presentará el respectivo Certificado de Defunción.
+  
+- No se admitirá actuación mediante poder u otro instrumento de delegación.
+  
+- En caso de madres solteras, el Juez del Menor valorará tal extremo para permitir la presencia de la madre únicamente en la audiencia. En estos casos, dos testigos jurarán la inexistencia o desconocimiento del padre del menor.
+  
+- Si no existen padres, el tutor debe dar su consentimiento en audiencia pública y con tres testigos.
+  
+- En caso de ser menor abandonado, el ONAMFA otorgará su consentimiento a través de un representante de la Dirección Ejecutiva Departamental, quien para el efecto elevará informe escrito pormenorizado ante el Juez y ratificará el informe en audiencia pública.
+
+**Artículo 20°.- (Impugnación)** La impugnación a la que se refiere el artículo 81 del Código del Menor, tendrá lugar únicamente en los siguientes casos:
+
+1. Que los adoptantes hubiesen ocasionado malos tratos al adoptado.
+2. Que los adoptantes hubiesen faltado a los deberes de asistencia y atención en favor del adoptado.
+3. Que hubiesen atentado contra la vida del adoptado.
+
+**Artículo 21°.- (Revocación)** Complementando a la previsión del artículo 83 del Código del Menor, para los casos de revocación judicial de una adopción de menores en estado de abandono o que hayan perdido su familia de origen, el Juez dispondrá que dichos menores pasen a la tutela del Estado conforme a lo previsto en el artículo 56 del Código del Menor.
+
+##### Subsección II Adopcion plena para solicitantes extranjeros y nacionales residentes en el exterior
+
+**Artículo 22°.- (Sujeción)** Para una correcta interpretación del artículo 98 del Código, se entiende que los solicitantes extranjeros y nacionales residentes en el exterior solamente podrán adoptar menores bolivianos a través de la adopción plena que se establece entre los artículos 97 al 106 del Código del Menor y lo dispuesto por el presente reglamento.
+
+**Artículo 23°.- (Personería Jurídica)** A los efectos de dar cumplimiento a los artículos 99, 100 y 101 del Código del Menor, toda organización o institución de adopción internacional para operar en Bolivia deberá tramitar el reconocimiento de su personería jurídica en nuestro país, de conformidad al Código Civil y a disposiciones legales vigentes.
+
+**Artículo 24°.- (Cartas de intenciones)** Sin perjuicio de las Cartas de Intenciones suscritas y vigentes con anterioridad a la promulgación del presente reglamento, dichas organizaciones deberán regularizar su permanencia y operación en Bolivia ateniéndose a lo dispuesto por el artículo anterior.
+
+**Artículo 25°.- (Departamento Nacional de Adopciones)** El Departamento Nacional de Adopciones dependiente de la Dirección Nacional del Menor, Mujer y Familia del ONAMFA será la única entidad facultada para recibir y remitir toda documentación relativa a adopciones, coordinar con los jueces del menor de toda la República y otras reparticiones públicas y privadas que tengan que ver con la materia, así como efectuar el seguimiento de las adopciones nacionales e internacionales.
+
+**Artículo 26°.- (Uniformidad de costos)** La Dirección Nacional del Menor, Mujer y Familia del ONAMFA coordinará con los organismos que intervienen en las diferentes etapas de la tramitación de adopciones con el fin de establecer conjuntamente las medidas necesarias para garantizar uniformidad en los costos.
+
+**Artículo 27°.- (Registro)** Queda a cargo del Departamento Nacional de Adopciones dependiente del ONAMFA, el Registro Nacional de Instituciones de Adopción Internacional.
+
+**Artículo 28°.- (Requisitos)** Para inscribirse en el Registro Nacional de Instituciones de Adopción Internacional se exigirán los siguientes requisitos:
+  
+- Solicitud mediante memorial dirigido al Departamento Nacional de Adopciones dependiente de la Dirección Nacional del Menor, Mujer y Familia.
+  
+- Carta de intenciones
+  
+- Personería jurídica
+  
+- Un representantes legal con residencia permanente en Bolivia.
+  
+- Solvencia Fiscal de la entidad y de los representantes legales.
+  
+- Informes que respalden lo dispuesto por el artículo 101 del Código de Menor, que serán faccionados por el personal responsable del Departamento Nacional de Adopciones.
+
+**Artículo 29°.- (Requisitos para solicitantes extranjeros)** Todos los documentos señalados como requisitos para los solicitantes en casos de adopción plena internacional, en el artículo 102 del Código del Menor, deberán ser legalizados en el país de orígen y/o de residencia por autoridad competente, ante el Consulado de Bolivia y visados por el Ministerio de Relaciones Exteriores y Culto.
+
+**Artículo 30°.- (Informes)** Complementando los artículos 74, 100 y 105 del Código de Menor, la institución internacional de adopción, está obligada a remitir ante el Departamento Nacional de Adopciones, informes trimestrales durante el primer año siguiente a la adopción pronunciada judicialmente, a objeto de que dicho Departamento verifique el cambio de nacionalidad del menor adoptado, así como su adaptación psico-social, cultural y estado de salud.
+  
+A partir del segundo año tales informes deberán presentarse anualmente, por el lapso de cinco años.
+
+### Capítulo IV Del derecho a la nacionalidad e identidad
+
+**Artículo 31°.- (Protección al menor boliviano en el extranjero)** Para el cumplimiento del artículo 108, las representaciones diplomáticas bolivianas acreditadas en el exterior, se hallan obligadas a prestar atención y protección a todo menor boliviano que se halle domiciliado en el exterior.
+
+**Artículo 32°.- (Menor extranjero)** El Estado boliviano se halla obligado a prestar protección y asistencia a todo menor extranjero que por cualquier motivo se halle en territorio boliviano, con arreglo a la Convención Internacional de los Derechos del Niño ratificada por nuestro país.
+  
+El ONAMFA prestará especial atención a los menores extranjeros en estado de abandono, haciendo conocer de este hecho a la representación diplomática correspondiente con la finalidad de que ésta asuma sus responsabilidades inherentes y consecuentemente retorne a su país de origen.
+
+**Artículo 33°.- (Inscripción en el Registro Civil)** Para mejor comprensión del artículo 111 del Código, todo menor recién nacido deberá ser inscrito en el plazo de 30 días después de su nacimiento.
+
+**Artículo 34°.- (Nombres Convencionales)** La Dirección Nacional del Registro Civil acreditará un Oficial de Registro en cada Dirección Ejecutiva Departamental del ONAMFA, constituyéndose en el único funcionario público habilitado para realizar inscripción de menores sujetos a tutela especial y de menores en situación de riesgo. Queda absolutamente prohibido que otras entidades gubernamentales y no gubernamentales cumplan estas funciones.
+
+### Capítulo V Del derecho a la libertad, al respeto y la dignidad
+
+#### Sección I
+
+**Artículo 35°.- (Derechos)** Además de lo señalado en el artículo 114 del Código del Menor, todo menor tiene derecho a:
+  
+- Figurar entre los primeros que reciban protección y socorro en situación de peligro.
+  
+- No ser internado ni detenido innecesariamente.
+  
+- Ser asistido, defendido, gratuitamente en su persona, intereses y derechos ante cualquier autoridad y por cualquier causa y motivo.
+
+**Artículo 36°.- (Respeto e igualdad)** Interpretando los artículos 113 y 115 del Código, ningún menor puede ser objeto de discriminación étnica, social o por razón de creencias religiosas. El Estado se halla en la obligación de garantizar un trato de respeto e igualdad a todos los niños que habitan en el territorio nacional.
+
+#### Sección II Del maltrato
+
+**Artículo 37°.- (Obligación de denuncia)** En caso de que el Organismo Nacional conozca de una denuncia de maltrato, efectuará un pre diagnóstico psico social y preverá la atención del menor, remitiendo los antecedentes a conocimiento del Juez en el plazo de 48 horas de acuerdo al artículo 118 del Código del Menor para que se prosiga con lo establecido por los artículos 232 al 237 del mencionado Código. Para tal fin el ONAMFA instituirá la Oficina del Menor Maltratado en cada una de sus Direcciones Departamentales, repartición que a su vez está obligada a mantener un Libro de Registro, donde se asentará el nombre o datos del menor maltratado, domicilio y tipo de maltratos que recibe, no siendo requisito indispensable el registro del nombre de la persona denunciante.
+
+**Artículo 38°.- (Ocultación maliciosa)** En caso de ocultación maliciosa de un menor objeto de maltrato, la Oficina del Menor Maltratado solicitará al Juez del Menor expida las órdenes necesarias para garantizar la presencia física del menor.
+
+**Artículo 39°.- (Certificado médico legal)** Interpretando el inciso 3º del artículo 118 del Código, los certificados médicos expedidos por el Médico Forense o por el médico del Organismo Nacional tendrán la misma fuerza legal probatoria.
+  
+En los lugares donde no exista médico forense, se dará como válido el Certificado Médico expedido por el médico del lugar.
+
+**Artículo 40°.- (Seguimiento)** La protección y ciudado a que hace referencia el artículo 119 del Código del Menor será objeto de un seguimiento periódico por parte de la repartición correspondiente del ONAMFA.
+
+### Capítulo VI Del derecho a la educacion a la cultura y al esparcimiento
+
+**Artículo 41°.- (Supervisión y reglamentación)** Para la efectiva aplicación de los artículos 120 y siguientes del Código del Menor, se entenderá que el Ministerio de Educación y Cultura es la entidad estatal encargada de la supervisión y reglamentación de los aspectos inherentes a la educación y cultura del menor.
+
+**Artículo 42°.- (Denuncia)** En caso de incumplimiento del artículo 120 del Código, los afectados harán la denuncia correspondiente ante el Juez del Menor, de acuerdo a los artículos 222 al 231.
+
+**Artículo 43°.- (Apoyo alimentario a escolares)** En aplicación del inciso 7 del artículo 122 del Código del Menor, el Ministerio de Educación y Cultura, en coordinación con el Ministerio de Previsión Social y Salud Pública, desarrollarán programas de apoyo alimentario a escolares, priorizando los núcleos escolares vulnerables.
+
+**Artículo 44°.- (Tarifa escolar)** Las Alcaldias Municipales, con la opinión de las Direcciones Ejecutivas Departamentales del ONAMFA fijarán las tarifas escolares en cada departamento de la República. El control permanente de las mismas será atribución de las unidades operativas de tránsito del país, quienes sancionarán a los infractores de conformidad con normas y reglamentos en vigencia.
+
+**Artículo 45°.- (Promoción de actividades recreativas)** Para la efectiva aplicación del artículo 132 del Código del Menor, el ONAMFA coordinará con las alcaldías municipales y otras entidades que promuevan espectáculos deportivos y culturales. De igual manera se promoverá la creación de bibliotecas zonales para el área urbana y rural.
+  
+El Instituto para la Promoción Boliviana del Turismo (PROBOTUR) formulará programas de turismo recreativo dirigidos a menores.
+
+**Artículo 46°.- (Políticas de recreación y esparcimiento)** El Directorio del ONAMFA es el órgano responsable de la formulación de la política nacional de recreación y esparcimiento a partir de las propuestas formuladas por los Comités Consultivos Departamentales en respuesta a las particularidades regionales.
+
+### Capítulo VII Del derecho a la proteccion en el trabajo
+
+#### Sección I Disposiciones generales
+
+**Artículo 47°.- (Supervisión estatal)** El Estado, a través del ONAMFA, Ministerios del Trabajo y Desarrollo Laboral y Ministerio de Previsión Social y Salud Pública, supervigilarán constantemente el respeto a las normas protectivas sobre trabajo de menores, en especial aquellas atingentes a jornada de trabajo, alimentación y esparcimiento del menor trabajador.
+
+**Artículo 48°.- (Competencia)** El ONAMFA, a través de las Direcciones Departamentales del Menor, Mujer y Familia velará por el cumplimiento de las normas y principios de protección al trabajo de menores establecidos en el Código del Menor y el presente reglamento.
+
+**Artículo 49°.- (Registro)** En cada Dirección Ejecutiva Departamental, se habilitará un Registro del Menor Trabajador, que permita identificar el tipo de trabajo que realiza para a su vez permitirle su acceso a programas de capacitación laboral.
+
+**Artículo 50°.- (Autorización)** Complementando e1 parágrafo segundo del artículo 134 del Código, en la Cédula del Trabajo deberá constar la autorización de los padres o responsables, o en su defecto del ONAMFA.
+
+#### Sección II Del trabajo de menores en regimen de dependencia
+
+**Artículo 51°.- (Inversión de la prueba)** Para el cumplimiento de las disposiciones contenidas en éste capítulo, se presume la existencia de contrato de trabajo verbal, correspondiendo al empleador desvirtuar lo contrario.
+
+**Artículo 52°.- (Seguridad social)** Complementando el artículo 142 del Código, el ONAMFA y el Instituto Boliviano de Seguridad Social (IBSS) tienen la obligación de verificar su cumplimiento. En caso de infracción se recurrirá al Juez del Menor, quien ordenará la inclusión del menor trabajador en el seguro social.
+
+**Artículo 53°.- (Normas de higiene y seguridad ocupacional)** Para el efectivo cumplimiento del inciso 1 artículo 140 del Código, los empleadores se hallan obligados a cumplir las normas de higiene y seguridad ocupacional en favor de los menores trabajadores. En caso que por falta de tales medidas resultare accidentado un menor, sin perjuicio de las responsabilidades emergentes y del pago de seguros y derechos sociales, el Juez del Menor impondrá multas equivalentes al doble de los montos que se imponen en casos de trabajadores que no sean menores de edad.
+
+**Artículo 54°.- (Jornada de Trabajo)** En aplicación del artículo 144 del Código del Menor, se entiende que la jornada de trabajo de máximo de 6 horas diarias deberá estar dividida en dos períodos de tres horas cada uno, con interrupción de al menos dos horas entre uno y otro período.
+  
+En caso de trabajo en horario continuado, éste no podrá ser mayor a cinco horas, debiendo el empleador cancelar el salario como jornada completa. Asimismo, en tal caso, se otorgará un lapso de 30 minutos para descanso.
+  
+En caso que la naturaleza del trabajo exija al menor la prestación de labores más allá de la jornada de 6 horas, se establece un máximo de dos horas como horas de trabajo extraordinarias para menores. Caso en el cual el empleador se halla obligado a cancelar las horas extraordinarias, con arreglo a lo dispuesto por la [Ley General del Trabajo](https://www.lexivox.org//norms/BO-L-19390524.html).
+
+#### Sección IV De los menores trabajadores por cuenta propia
+
+**Artículo 55°.- (Protección)** La protección del Estado señalado en el artículo 156 del Código del Menor se efectivizará en el marco de las políticas de prevención y atención integral establecidas en los arts 277 al 279 y 315 inciso 1 y 2 del mismo cuerpo legal.
+
+## Título II De la prevencion, la atencion y la proteccion
+
+### Capítulo I Disposiciones generales
+
+**Artículo 56°.- (Prohibición de venta de armas)** Para los efectos y alcances del artículo 161 inciso 1 del Código, los centros comerciales, que se dediquen a la venta de armas, municiones y explosivos deberán declarar expresamente ante la Policía Nacional que se dedican a esta actividad y no podrán realizar su venta a menores de edad bajo ninguna causa debiendo necesariamente requerir la identificación al comprador a objeto de verificar su edad.
+  
+Los Centros Comerciales, que se dediquen a está actividad deberán obligatoriamente mantener un registro donde se contemple los nombres, apellidos y domicilio del comprador.
+
+**Artículo 57°.- (Juegos electrónicos)** Las Alcaldías Municipales del país y el ONAMFA establecerán las normas de funcionamiento de los locales de juegos electrónicos y de azar, priorizando el interés del menor.
+
+**Artículo 58°.- (Del expendio de bebidas alcohólicas a menores)** Queda terminantemente prohibido el expendio de bebidas alcohólicas a menores de edad en locales públicos, tales como discotecas, bares, cantinas, etc. Si un menor es sorprendido consumiendo bebidas alcohólicas, en estado de embriaguez o intoxicación crónica aguda será remitido por la Policía ante la Dirección Departamental del Menor, Mujer y Familia, para que a su vez éste órgano tome las medidas de protección social señaladas en el artículo 180 del Código del Menor.
+
+**Artículo 59°.- (Avisos)** En todos los locales públicos, se colocará en lugar visible la prohibición de venta de bebidas alcohólicas a menores de edad mediante avisos que serán recabados de las Direcciones Ejecutivas Departamentales del ONAMFA.
+
+**Artículo 60°.- (Prohibición de venta de fármacos a menores)** La venta de fármacos y otros productos cuyos componentes constituyan un peligro y puedan causar dependencia física o psíquica deberá ser expedida previa presentación de receta médica y cédula de identidad del comprador a fin de verificar la edad de éste.
+
+**Artículo 61°.- (Programas de radio y televisión)** La Dirección General de Telecomunicaciones dependiente del Ministerio de Transportes y Comunicaciones, deberá realizar la normativización, a fin de dar cumplimiento al art. 162 del Código del Menor.
+
+**Artículo 62°.- (Cintas de video)** Las personas o empresas que vendan, alquilen o truequen cintas de video clasificadas en censura para menores, deberán requerir, para realizar las transacciones citadas, la cédula de identidad para verificar la edad del cliente.
+
+**Artículo 63°.- (Revistas y publicaciones)** Las revistas y publicaciones que contengan material inadecuado e impropio para menores, deberán ser comercializados sin exhibirse y su venta obligatoriamente deberá realizarse previa presentación del carnet de identidad con el fin de verificar la edad del comprador.
+
+**Artículo 64°.- (Revistas y publicaciones para menores)** De comprobarse que en revistas y publicaciones destinadas a menores se incluyen ilustraciones, fotografías, leyendas, crónicas o anuncios de bebidas alcohólicas, cigarrillos, armas y/o municiones, el ONAMFA, a través de sus Direcciones Ejecutivas Departamantales solicitará al Juez del Menor se expida orden de decomiso de conformidad al articulo 9 del presente reglamento.
+
+### Capítulo II De la autorizacion para viajar
+
+**Artículo 65°.- (Requisitos para autorización de viaje en territorio nacional)** En relación a lo dispuesto por el artículo 168 del Código, en caso que el menor viaje sólo o en compañía de personas que no ejercen autoridad paterna, deben cumplirse los siguientes requisitos:
+  
+- Autorización expresa de ambos padres o responsables del menor a través de un formulario único.
+  
+- Certificado de Nacimiento o cédula de identidad del menor.
+  
+- Cédulas de identidad de los padres o responsables.
+  
+- En ausencia de ambos padres o responsables, el ONAMFA solicitará adicionalmente garantías de una persona con domicilio y trabajo conocidos.
+  
+Tales documentos en fotocopias serán incorporados al archivo que para el efecto constituirá el ONAMFA.
+
+**Artículo 66°.- (Excursiones)** En caso de excursiones y viajes colectivos de menores auspiciados por centros educativos o de otra índole la autorización será tramitada por la Dirección del Centro o Asociación, a través de solicitud escrita adjuntando la nómina de los menores que realicen el viaje y fotocopias de carnet de identidad de los responsables quienes asumirán, y garantizarán la seguridad y retorno de los menores.
+
+**Artículo 67°.- (Requisitos para viajes al exterior)** En aplicación del artículo 169 del Código, cuando un menor viaje sólo o en compañía de uno de sus padres, se requiere autorización expresa del otro progenitor o responsable del menor expresada a través de un formulario único que otorgará el ONAMFA y autenticará el Juez del Menor.
+
+**Artículo 68°.- (Autorización Judicial)** El Juez del Menor otorgará autorización de viaje al exterior para un menor de edad a petición del padre o madre que se encuentre al cuidado del menor y siempre y cuando el otro progenitor no pueda ser habido.
+  
+La autorización judicial tendrá en cuenta la declaración jurada de desconocimiento del paradero de uno de los progenitores, y asegurará por todos los medios posibles el retorno del menor al país.
+  
+El Juez podrá negar la solicitud cuando los fundamentos no sean convincentes y velando por el interés del menor.
+
+**Artículo 69°.- (Gratuidad)** La gratuidad a la que se refiere el artículo 170 del Código del Menor se entenderá fuera de los costos de reposición de papelería que estarán a cargo de los solicitantes.
+
+**Artículo 70°.- (Autorización judicial)** Para una correcta interpretación del artículo 171 del Código, se entiende por expresa autorización judicial la Resolución emanada del Juez del Menor en caso de adopción plena, documento que debe ser presentado al ONAMFA para que por la repartición correspondiente se emita la respectiva autorización de viaje.
+
+**Artículo 71°.- (Coordinación)** Para una efectiva aplicación del artículo 172 del Código, el Ministerio del Interior, Migración, Justicia y Defensa Social y ONAMFA, en cada Departamento de la República, tienen la obligación de intercambiar información respecto a viajes de menores de edad al exterior en forma mensual. Dicho Ministerio mediante la repartición correspondiente, está obligado a ejercer control de salida de menores exigiendo la debida autorización de viaje al exterior emanada del ONAMFA.
+
+### Capítulo IV De las medidas de proteccion social
+
+**Artículo 72°.- (Normas complementarias)** A fin de dar cumplimiento a lo dispuesto por el artículo 180 del Código del Menor, con relación a las medidas de protección social a los menores en situación de riesgo, se establecen las siguientes normas complementarias:
+  
+- La derivación a programas de ayuda a la familia o al menor se realizará a través de ONAMFA en cada Departamento, institución que directamente o a través de organizaciones no gubernamentales dedicadas al rubro, prestará asistencia, orientación, y un apoyo integral al menor en situación de riesgo.
+  
+- Para la inscripción y asistencia obligatoria a establecimientos de enseñanza primaria, las Direcciones Departamentales del ONAMFA tramitarán la liberación de matrículas por ante el Ministerio de Educación y derivarán al menor a programas de asistencia integral.
+  
+- La orientación, apoyo y acompañamiento temporales, estará a cargo de los equipos multidisciplinarios de las Direcciones Departamentales del Menor, Mujer y Familia
+  
+- La atención médica, psicológica o psiquiátrica a la que hace referencia el inciso 5 del Art. 180°, se efectivizará en centros estatales, los que otorgarán asistencia gratuita de acuerdo al caso, previo informe social emanado de la Dirección Departamental del Menor, Mujer y Familia. En caso necesario, los centros privados están obligados a prestar la atención requerida, con tarifa diferenciada.
+  
+- La atención a menores con problemas de consumo de alcohol y sustancias psicotrópicas será asumida por los centros dependientes del CONAPRE u ONGS que se ocupen de atender tal problemática.
+
+## Título III Estructura administrativa del organismo nacional del menor, mujer y familia y de las direcciones ejecutivas departamentales
+
+### Capítulo I Del Organismo Nacional del Menor, Mujer y Familia
+
+**Artículo 73°.- (Estructura administrativa)** El Organismo Nacional del Menor, Mujer y Familia (ONAMFA) para el cumplimiento de sus funciones, atribuciones y responsabilidades, señaladas en el Código del Menor y el presente reglamento, contará con los siguientes niveles:
+
+1. Nivel de Dirección Superior
+2. Nivel de Planificación y Asesoramiento
+3. Nivel Administrativo
+4. Nivel Operativo
+
+**Artículo 74°.- (Nivel de dirección superior)** Forman parte del Nivel de Dirección Superior:
+
+1. Directorio Nacional
+2. Presidencia
+3. Dirección Ejecutiva Nacional
+4. Dirección Nacional del Menor, Mujer y Familia
+5. Dirección Nacional Administrativa y Financiera
+
+**Artículo 75°.- (Atribuciones)** Los órganos de dirección superior tendrán bajo su responsabilidad las atribuciones específicas que se hallan contempladas en los arts 287, 289 y 293 del Código del Menor.
+  
+La Presidencia del ONAMFA, como órgano de dirección superior, ejerce tanto las funciones y atribuciones ejecutivas señaladas en el artículo 289 del Código del Menor así como las facultades inherentes a su investidura como Presidente del Directorio Nacional.
+
+**Artículo 76°.- (Incorporación al CONEPLAN y al CONAPSO)** A los efectos del artículo 283 del Código, la Presidencia del Directorio Nacional del ONAMFA formará parte del Consejo Nacional de Planificación (CONEPLAN) y el Consejo Nacional de Políticas Sociales (CONAPSO).
+
+**Artículo 77°.- (Duración de funciones)** El tiempo de ejercicio del cargo en la Presidencia del ONAMFA será de cinco años.
+
+**Artículo 78°.- (Destitución)** En casos de incumplimiento, previamente comprobado, a las disposiciones del Código del Menor, el presente reglamento y/o reglamento interno del ONAMFA, el Presidente Constitucional de la República tiene la facultad de destituir al Presidente del ONAMFA.
+  
+En tal caso, para una nueva nominación, el H. Congreso Nacional elevará una terna de acuerdo a lo dispuesto en el artículo 286 inciso 1) del Código del Menor.
+
+**Artículo 79°.- (Dirección Nacional del Menor, Mujer y Familia)** La Dirección Nacional del Menor, Mujer y Familia es dependiente de la Dirección Ejecutiva Nacional.
+  
+Se halla encargada de asegurar el cumplimiento de las políticas orientadas al desarrollo integral que el Estado y la sociedad deben garantizar al menor, la mujer y la familia.
+
+**Artículo 80°.- (Requisitos)** El Director Nacional del Menor, Mujer y Familia será nombrado por la Presidencia del ONAMFA. Para ocupar el cargo se requiere:
+
+1. Título en Provisión Nacional en el área social.
+2. Tener una experiencia mínima de cinco años en su profesión.
+3. Acreditar experiencia laboral en programas dirigidos al menor, la mujer y la familia.
+
+**Artículo 81°.- (Atribuciones)** Son atribuciones del Director Nacional del Menor, Mujer y Familia, las siguientes:
+  
+- Planificar, normar, coordinar y supervisar las políticas, planes, programas y proyectos dirigidos a menores, mujeres y familias, a partir de criterios y necesidades regionales.
+  
+- Participar en la Unidad de Análisis de Políticas Sociales (UDAPSO) en representación del ONAMFA.
+  
+- Diseñar las políticas dirigidas al Menor, Mujer y Familia en forma conjunta con Jefes Nacionales de los Departamentos de su dependencia.
+  
+- Asegurar la adecuada ejecución de las políticas antes señaladas.
+  
+- Velar por el cumplimiento de las disposiciones contenidas en el Código del Menor.
+  
+- Coordinar con las instituciones gubernamentales y no gubernamentales, el desarrollo de programas y proyectos dirigidos al menor, la mujer y la familia.
+  
+- Velar por el cumplimiento de las convenios firmados por el ONAMFA con otras entidades públicas y privadas.
+  
+- Presentar anualmente la programación y requerimiento presupuestario al Directorio Nacional, a través de la Dirección Ejecutiva Nacional.
+
+**Artículo 82°.- (Dirección Nacional Administrativa y Financiera)** La Dirección Nacional Administrativa y Financiera tiene bajo su responsabilidad garantizar la adecuada utilización de los recursos financieros, logísticos y humanos en todas las reparticiones del ONAMFA, a partir de las políticas aprobadas por el Directorio Nacional en base a normas y reglamentos vigentes para la Administración Pública y el Código del Menor.
+  
+Esta Dirección se halla bajo dependencia de la Dirección Ejecutiva Nacional.
+
+**Artículo 83°.- (Del Director Nacional Administrativo y Financiero)** La Presidencia del Organismo Nacional designará al Director Nacional Administrativo y Financiero. Para acceder a tal cargo se precisa:
+
+1. Poseer título en provisión nacional en el área económico-financiera.
+2. Tener una antigüedad mínima de cinco años de ejercicio y acreditar experiencia en el ramo.
+
+**Artículo 84°.- (Atribuciones)** Son atribuciones de la Dirección Nacional Administrativa y Financiera:
+  
+- Elaborar el presupuesto y programación anual del ONAMFA conforme a lo dispuesto por la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html), en coordinación con la Dirección Nacional del Menor, Mujer y Familia.
+  
+- Diseñar las políticas de administración de los recursos financieros, logísticos y humanos.
+  
+- Asignar y controlar los recursos solicitados por las unidades técnicas y operativas del ONAMFA.
+  
+- Normar y regular la adecuada implementación de procedimientos administrativos y técnicos de manera uniforme en todas las Direcciones Ejecutivas Departamentales.
+  
+- Definir la política de selección y contratación de personal.
+  
+- Todas aquellas previstas en los manuales de funciones y reglamentos internos del ONAMFA.
+
+**Artículo 85°.- (Nivel de planificación y asesoramiento)** Forman parte del Nivel de Planificación y Asesoramiento:
+
+1. Comité de Planificación
+2. Asesoría Legal
+3. Auditoría Interna
+4. Comunicación Social
+5. Sistemas y apoyo institucional
+6. Plan Decenal de Acción para la Niñez y la Mujer
+
+**Artículo 86°.- (Jerarquía)** Los órganos de planificación y asesoramiento descritos en el artículo anterior tienen jerarquía y competencia en todo el territorio nacional. Dependen directamente de la Presidencia y de la Dirección Ejecutiva Nacional del ONAMFA.
+  
+Sus titulares serán funcionarios idóneos que cumplan los requisitos señalados por ley y reglamentos.
+
+**Artículo 87°.- (Nivel Administrativo)** Forman parte del Nivel Administrativo:
+
+1. Departamento Nacional Financiero:
+     
+   - División Nacional de Presupuestos
+     
+   - División Nacional de Contabilidad
+     
+   - División Nacional de Activos Fijos
+2. Departamento Nacional Administrativo:
+     
+   - División Nacional de Almacenes
+     
+   - División Nacional de Servicios Generales y Adquisiciones
+     
+   - División Nacional de Personal.
+
+**Artículo 88°.- (Dependencia y jerarquía)** Todas las reparticiones enumeradas en el artículo anterior dependen de la Dirección Nacional Administrativa y Financiera, tienen competencia a nivel nacional y su personal jerárquico es designado de acuerdo a reglamentos internos de la entidad.
+
+**Artículo 89°.- (Nivel Operativo)** Forman parte del Nivel Operativo del Organismo Nacional:
+
+1. Departamento Nacional de Desarrollo Infantil
+2. Departamento Nacional de Atención a la Comunidad y Servicios Tutelares
+3. Departamento Nacional del Programa de la Mujer
+4. Departamento Nacional de Centros Estatales y Privados
+5. Departamento Nacional de Adopciones Todas estas reparticiones dependen jerárquicamente de la Dirección Nacional del Menor, Mujer y Familia.
+
+**Artículo 86°.- (Funciones)** El Directorio Nacional, a través de normas reglamentarias internas aprobará las funciones específicas de todas y cada una de las reparticiones de Planificación y Asesoramiento, Administrativas y Operativas descritas en los artículos anteriores.
+
+### Capítulo II De las Direcciones Ejecutivas Departamentales
+
+**Artículo 91°.- (De las Direcciones Ejecutivas Departamentales)** A efecto de dar cumplimiento a las normas contenidas en el Código del Menor y el Presente Reglamento, las Direcciones Regionales de la ex Junta Nacional de Solidaridad y Desarrollo Social se constituirán en Direcciones Ejecutivas Departamentales del ONAMFA en cada una de las capitales de departamento de la República.
+  
+Los titulares de dichas reparticiones, serán designados por el Presidente del Directorio del ONAMFA, a propuesta en terna del Comité Consultivo Departamental.
+  
+Las Direcciones Ejecutivas Departamentales se constituyen en reparticiones desconcentrados del ONAMFA, son órganos de dirección superior con competencia a nivel departamental en el orden técnico, administrativo y operativo. Dependen jerárquicamente de la Dirección Ejecutiva Nacional.
+
+**Artículo 92°.- (Atribuciones)** Las atribuciones de las Direcciones Ejecutivas Departamentales del ONAMFA son las mismas señaladas en el artículo 293 del Código del Menor para la Dirección Ejecutiva Nacional. Las ejecutarán a nivel departamental y en estrecha coordinación con el Comité Consultivo Departamental.
+
+**Artículo 93°.- (Estructura Administrativa)** Las Direcciones Ejecutivas Departamentales tendrán la siguiente estructura administrativa:
+
+1. Nivel de Dirección Superior.- Comprende a su vez a:
+     
+   - Dirección Ejecutiva Departamental
+     
+   - Dirección Departamental del Menor, Mujer y Familia
+     
+   - Dirección Departamental Administrativa y Financiera.
+2. Nivel de Asesoramiento
+     
+   - Comité Consultivo Departamental
+     
+   - Asesoría Legal
+3. Nivel Administrativo
+     
+   - División de Contabilidad y Presupuestos
+     
+   - División de Activos Fijos
+     
+   - División de Personal
+4. Nivel Operativo:
+     
+   - Departamento de Desarrollo Infantil
+     
+   - Departamento de Atención a la Comunidad y Servicios Tutelares
+     
+   - Departamento Programa de la Mujer
+     
+   - Departamento Centros Estatales y Privados
+
+**Artículo 94°.- (Jerarquía y funciones)** Las Divisiones Administrativas dependen directamente de la Dirección Departamental Administrativa y Financiera que a su vez depende de la Dirección Ejecutiva Departamental.
+  
+Los Departamentos de Desarrollo Infantil, de Atención a la Comunidad y Servicios Tutelares, Programa de la Mujer y Centros Estatales y Privados, dependerán jerárquicamente de la Dirección Departamental del Menor, Mujer y Familia.
+
+**Artículo 95°.- (Oficinas Provinciales)** De acuerdo a lo dispuesto por los artículos 285, inciso 6 y 291 del Código del Menor, el Directorio del ONAMFA, en mérito a las necesidades de cada población, provincia, sección de provincia o cantón, creará Oficinas Provinciales del Menor, Mujer y Familia para la consecución de los fines y funciones señalados en el Código del Menor y el presente reglamento.
+
+### Capítulo III De las instituciones no gubernamentales y privadas de atencion al menor y la familia
+
+**Artículo 96°.- (Registro de instituciones)** A fin de dar cumplimiento a las normas contenidas en los arts 314 al 323 del Código del Menor se instituye el Registro Nacional de instituciones no gubernamentales y privadas a cargo de la Dirección Nacional del Menor, Mujer y Familia.
+  
+Las entidades no gubernamentales que se hallen dedicadas a la defensa de los derechos del menor, mujer y familia, y ejecuten programas de atención, asistencia, protección, prevención y otras relativas enmarcadas en las políticas de atención y desarrollo integral del menor, mujer y familia, se hallan obligadas a inscribirse ante el ONAMFA, independientemente de otros registros a los que estuvieran obligadas por ley.
+
+**Artículo 97°.- (Requisitos de inscripción)** A efecto de su inscripción, las instituciones no gubernamentales deberán adjuntar los siguientes requisitos:
+
+1. Memorial de solicitud
+2. Resolución de reconocimiento de personería jurídica.
+3. Dos representantes legales residentes en el país.
+4. Plan de Trabajo a desarrollar, donde se incluyan con precisión los programas a implementarse y el tiempo previsto de trabajo en tales programas
+
+**Artículo 98°.- (Facultades de fiscalización)** El Organismo Nacional tiene plenas atribuciones de fiscalización técnica y operativa de las entidades no gubernamentales y privadas sujetas a las normas del presente capítulo.
+  
+Para el caso de las ONGS que en el decurso de su vida institucional incumplieran normas legales atingentes o presten servicios deficientemente o distorsionen sus objetivos, el ONAMFA cancelará su registro de funcionamiento.
+
+---
+
+Los señores Ministros en los Despachos del Interior, Migración, Justicia y Defensa Social, de la Presidencia de la República, de Educación y Cultura, de Trabajo y Desarrollo Laboral y de Previsión Social y Salud Pública, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los siete días del mes de abril de mil novecientos noventa y tres años.
+  
+FDO. JAIME PAZ ZAMORA, Ronald MacLean Abaroa, Marco A. Oviedo Huerta Min. Interior Migración Justicia y Defensa Social a.i., Gustavo Fernández Saavedra, Alberto Saenz Klinsky, Roberto Peña Rodriguez, Samuel Doria Medina Auza, Pablo Zegarra Arana, Olga Saavedra de Querejazu, Carlos Aponte Pinto, Roberto Camacho Sevillano Min. M.E.C.E. a.i., Eusebio Gironda Cabrera, Carlos Dabdoub Arrien, Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Herbert Muller Costas, Fernando Kieffer Guzmán, José Luis Lupo Flores.

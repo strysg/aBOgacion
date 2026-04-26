@@ -1,0 +1,437 @@
+# Bolivia: Reglamento complementario al Reglamento operativo para la empresas privadas de vigilancia, 13 de septiembre de 2013
+
+REGLAMENTO COMPLEMENTARIO AL REGLAMENTO OPERATIVO PARA LAS EMPRESAS PRIVADAS DE VIGILANCIA APROBADO MEDIANTE [RESOLUCIÓN MINISTERIAL Nº 21B/2013 DE 4 DE FEBRERO DE 2013](https://www.lexivox.org//norms/BO-RS-N21B-2013.html)
+  
+El presente documento tiene por objeto complementar el Reglamento Operativo para las Empresas Privadas de Vigilancia aprobado mediante Resolución Ministerial Nº 021B/2013, de 4 de Febrero de 2013.
+
+**Artículo 1°.- (Modificaciones)** 
+
+1. Se modifica el Artículo 4 (DEFINICIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “Sanción al contratante. Es la sanción pecuniaria equivalente a la mitad del monto de la boleta de garantía de la Empresa Privada de Vigilancia ilegal que debe ser erogada por las empresas, organizaciones, instituciones, reparticiones, personas naturales o jurídicas sean públicas o privadas, en cuenta fiscal de la Policía Boliviana, como consecuencia de contratar los servicios de una Empresas Privada de Vigilancia ilegal que no cuente con la debida resolución de autorización y licencia de funcionamiento.”
+2. Se modifica el Parágrafo I y II del Artículo 11 (REGISTRO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “I. Las acciones de supervisión y control policial de los servicios privados de vigilancia de las diferentes empresas y sus dependientes, podrán ser registradas en los siguientes libros:
+   >   
+   > a) Libro de partes diarios: donde se registran diariamente las novedades del servicio;
+   >   
+   > b) Libro de supervisión y control: donde se hará constar diariamente los comprobantes efectuados del contenido reflejado en los libros de la empresa, así como las deficiencias que se observare; y
+   >   
+   > c) Libro de registro de servicios y del personal designado a los mismos. ii. el registro de las empresas privadas de vigilancia, estarán a disposición de los servidores públicos de las jedecev y el denacev de la policía boliviana, para que realicen el control y fiscalización correspondiente.”
+3. Se modifica el Artículo 12 (ACCESO A LAS INSTALACIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “El personal de las Empresas Privadas de Vigilancia facilitará el acceso a sus diferentes instalaciones a los servidores públicos del DENACEV y de las JEDECEV debidamente identificados, a objeto de que puedan realizar las inspecciones pertinentes, previa coordinación.”
+4. Se modifica el Parágrafo II del Artículo 15 (CONSTITUCIÓN) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. Además, las Empresas Privadas de Vigilancia deberán mantener un capital social de acuerdo al siguiente detalle:
+   >   
+   > a) Empresas Unipersonales: Bs91.202.- (Noventa y un mil doscientos dos 00/100 BOLIVIANOS).
+   >   
+   > b) Empresas constituidas en cualquiera de las forma de Sociedades Comerciales Bs182.403.- (Ciento ochenta y dos mil cuatrocientos tres 00/100 BOLIVIANOS).
+   >   
+   > c) Empresas constituidas como Sociedades Anónimas, en el servicio de Transporte y Custodia de Valores, Caudales y Monedas Bs486.575.- (Cuatrocientos ochenta y seis mil quinientos setenta y cinco 00/100 BOLIVIANOS).”
+5. Se modifica el Numeral 5 del Parágrafo II del Artículo 16 (RESPONSABILIDAD) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. Se otorgará boleta de garantía en cuenta fiscal a favor de la Policía Boliviana, la que será ejecutada en los siguientes casos:
+   >   
+   > 5) Se elimina.”
+6. Se modifica el Numeral 7 del Artículo 18 (PROHIBICIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “Además de las establecidas en la [Ley Nº 264](https://www.lexivox.org//norms/BO-L-N264.html) de 31 de julio de 2012 del Sistema Nacional de Seguridad Ciudadana, las Empresas Privadas de Vigilancia están sujetas a las siguientes prohibiciones:
+   >   
+   > 7) El propietario o socio de una Empresa Privada de Vigilancia no podrá constituir o formar parte de otra Empresa de la misma naturaleza, cuando haya sido objeto de clausura definitiva.”
+7. Se modifica el Artículo 22 (REGISTROS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “Las operaciones y actividades administrativas desarrolladas por las Empresas Privadas de Vigilancia deben obligatoriamente registrarse en libros de actas debidamente notariados u otros medios electrónicos o sistematizados reconocidos por el DENACEV a través de las JEDECEV, documentos que pueden ser requeridos por autoridad competente a fin de verificar o constatar información necesaria.”
+8. Se modifica el Artículo 23 (PERSONAL) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “Las Empresas Privadas de Vigilancia de acuerdo al tipo de servicio que presten deberán contar con personal necesario y suficiente para el cumplimiento de sus servicios.”
+9. Se modifica el Parágrafo II del Artículo 26 (CAPACITACIÓN) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. Los costos derivados de la capacitación al personal operativo y de vigilancia de las Empresas Privadas de Vigilancia serán erogados por los propietarios de las mismas, según la modalidad a adoptar, conforme al Anexo H del presente Reglamento Operativo.”
+10. Se modifica el Artículo 28 (JEFE DE OPERACIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Las Empresas Privadas de Vigilancia necesariamente deberán contar con un Jefe de Operaciones, con idoneidad académica certificada y experiencia en el área.”
+11. Se modifica el Artículo 35 (MONTO DE LA LICENCIA DE FUNCIONAMIENTO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El importe a pagar por concepto de licencia de funcionamiento, será efectuado en moneda de circulación nacional (bolivianos) y está clasificado de acuerdo al servicio ofertado, tipo de sociedad y oficina, tal como se detalla a continuación:
+    >   
+    > 1) SERVICIO: Protección Física o Electrónica a Personas e Instalaciones Privadas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Unipersonal | Central | Bs5.462,00.- |
+    > | Unipersonal | Sucursal | Bs3.641,00.- |
+    > | Sociedades Comerciales | Central | Bs14.564,00.- |
+    > | Sociedades Comerciales | Sucursal | Bs10.923,00.- |
+    >
+    >   
+    > 2) SERVICIO: Custodia y Vigilancia de bienes muebles e inmuebles, así como de locales destinados a la recreación, comercio u otras actividades privadas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Unipersonal | Central | Bs5.460,00.- |
+    > | Unipersonal | Sucursal | Bs4.095,00.- |
+    > | Sociedades Comerciales | Central | Bs13.649,00.- |
+    > | Sociedades Comerciales | Sucursal | Bs10.920,00.- |
+    >
+    >   
+    > 3) SERVICIO: Transporte y Custodia de Valores, Caudales y Monedas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Sociedad Anónima | Central | Bs21.847,00.- |
+    > | Sociedad Anónima | Sucursal | Bs18.206,00.- |
+    >
+    >   
+    > XII. Se modifica el Artículo 36 (IMPORTE A PAGAR POR RENOVACIÓN DE LICENCIA DE FUNCIONAMIENTO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    >   
+    > “Toda Empresa Privada de Vigilancia que haya sido legalmente autorizada para prestar servicios, tiene el derecho a solicitar la renovación de la licencia de funcionamiento, para el efecto deberá efectivizar el siguiente importe:
+    >   
+    > 1) SERVICIO: Protección Física o Electrónica a Personas e Instalaciones Privadas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Unipersonal | Central | Bs5.462,00.- |
+    > | Unipersonal | Sucursal | Bs3.641,00.- |
+    > | Sociedades Comerciales | Central | Bs14.564,00.- |
+    > | Sociedades Comerciales | Sucursal | Bs10.923,00.- |
+    >
+    >   
+    > 2) SERVICIO: Custodia y Vigilancia de bienes muebles e inmuebles, así como de locales destinados a la recreación, comercio u otras actividades privadas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Unipersonal | Central | Bs5.460,00.- |
+    > | Unipersonal | Sucursal | Bs4.095,00.- |
+    > | Sociedades Comerciales | Central | Bs13.649,00.- |
+    > | Sociedades Comerciales | Sucursal | Bs10.920,00.- |
+    >
+    >   
+    > 3) SERVICIO: Transporte y Custodia de Valores, Caudales y Monedas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Sociedades Anónima | Central | Bs21.847,00.- |
+    > | Sociedades Anónima | Sucursal | Bs18.206,00.- |
+    >
+    >   
+    > XIII. Se modifica el importe contenido en el Parágrafo I del Artículo 37 (IMPORTE A PAGAR POR LAS TARJETAS DE IDENTIFICACIÓN Y DE OPERACIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    >   
+    > “I. El importe por las Tarjetas de Identificación debe ser cubierto por las Empresas Privadas de Vigilancia de acuerdo a siguiente detalle:
+    >   
+    > 1) SERVICIO: Protección Física o Electrónica a Personas e Instalaciones Privadas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Unipersonal | Central | Bs24,00.- |
+    > | Unipersonal | Sucursal | Bs24,00.- |
+    > | Sociedades Comerciales | Central | Bs24,00.- |
+    > | Sociedades Comerciales | Sucursal | Bs24,00.- |
+    >
+    >   
+    > 2) SERVICIO: Custodia y Vigilancia de bienes muebles e inmuebles, así como de locales destinados a la recreación, comercio u otras actividades privadas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Unipersonal | Central | Bs24,00.- |
+    > | Unipersonal | Sucursal | Bs24,00.- |
+    > | Sociedades Comerciales | Central | Bs24,00.- |
+    > | Sociedades Comerciales | Sucursal | Bs24,00.- |
+    >
+    >   
+    > 3) SERVICIO: Transporte y Custodia de Valores, Caudales y Monedas.
+    >
+    > |  |  |  |
+    > | --- | --- | --- |
+    > | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    > | Sociedad Anónima | Central | Bs73,00.- |
+    > | Sociedad Anónima | Sucursal | Bs73,00.- |
+    >
+    >   
+    > XIV. Se modifica el Parágrafo I del Artículo 38 (MONTO DE LA BOLETA DE GARANTÍA) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    >   
+    > “I. El monto establecido en la boleta de garantía corresponde al 1% del capital social de acuerdo al tipo de Empresa previsto en el presente Reglamento de Ejecución, tal como se especifica a continuación: ”
+
+    |  |  |  |
+    | --- | --- | --- |
+    | TIPO DE SOCIEDAD | TIPO DE OFICINA | IMPORTE A PAGAR |
+    | Unipersonal | Central | Bs912.- (Novecientos doce 00/100 Bolivianos) |
+    | Sociedades Comerciales | Central | Bs1.824.- (Mil novecientos vienticuatro 00/100 Bolivianos) |
+    | Sociedades Anónimas | Central | Bs4.866.- (Cuatro mil novecientos sesenta y seis 00/100 Bolivianos) |
+12. Se modifica el Artículo 39 (DOCUMENTACIÓN PARA LA LICENCIA DE FUNCIONAMIENTO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Se incluye al Inciso a) de Expediente Empresarial, los numerales 2 y 3 del Inciso b) Expediente de Recursos Humanos y Materiales. A efectos de la tramitación y obtención de la Licencia de Funcionamiento, se establece el siguiente orden de presentación de los expedientes:
+    >   
+    > - Expediente Empresarial al inicio del trámite incluyendo la documentación de propietarios, representantes legales, directivos y funcionarios administrativos.
+    >   
+    > - Expediente de Recursos Humanos (Vigilantes y Operativos) al momento de la tramitación de las Tarjetas de Identificación.
+    >   
+    > a) EXPEDIENTE EMPRESARIAL:
+    >   
+    > 6) Certificado de Propietario de la gestión;
+    >   
+    > 12) Certificado de propiedad, contrato de alquiler o anticrético debidamente protocolizado o con reconocimiento de firmas, de los inmuebles que ocupa la Empresa Privada de Vigilancia que acredite el domicilio para aquellas empresas que prestan el servicio de Transporte y custodia de valores, caudales y monedas;
+    >   
+    > 14) Estados Financieros: Balance de Apertura para empresas nuevas y Balance General Comparativo de las dos últimas gestiones para empresas establecidas, debidamente refrendados por el Servicio de Impuestos Nacionales. (Ampliado conforme al Anexo A)
+    >   
+    > b) EXPEDIENTE DE RECURSOS HUMANOS Y MATERIALES:
+    >   
+    > El Expediente deberá acompañar la siguiente documentación:
+    >   
+    > Propietarios, Representantes Legales, Directivos y Funcionarios Administrativos.
+    >   
+    > 4. Fotocopia simple de la Libreta de Servicio Militar, certificado emitido por el Ministerio de Defensa en caso de extravío o constancia de trámite de redención.
+    >   
+    > 9. Se elimina.
+    >   
+    > Vigilantes y Operativos
+    >   
+    > 4. Fotocopia simple de la Libreta de Servicio Militar, certificado emitido por el Ministerio de Defensa en caso de extravío o constancia de trámite de redención.
+    >   
+    > Para extranjeros
+    >   
+    > 4. Certificado de permanencia, emitido por la Dirección General de Migración.
+    >   
+    > XVI. Se modifica el Parágrafo I del Artículo 43 (RENOVACIÓN O CONCLUSIÓN DE LAS ACTIVIDADES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    >   
+    > “I. Las Empresas Privadas de Vigilancia en los servicios de Protección Física o Electrónica a Personas e Instalaciones Privadas y Transporte y Custodia de Valores, Caudales y Monedas que hayan cumplido los Tres (3) años de la autorización de funcionamiento, tiempo establecido en la Resolución Administrativa, deben de manera obligatoria durante los ultimo Tres (3) meses de vigencia de la autorización de funcionamiento renovarla. Mientras que el servicio de Custodia y Vigilancia de Bienes Muebles e Inmuebles, así como de locales destinados a la recreación, comercio u otras actividades privadas que hayan cumplido los Cuatro (4) años de la autorización de funcionamiento, tiempo establecido en la Resolución Administrativa, deben de manera obligatoria durante los últimos Tres (3) meses de vigencia de la autorización de funcionamiento renovarla.”
+13. Se modifica el Artículo 45 (REQUISITOS ESPECÍFICOS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Toda empresa para desarrollar el Servicio de transporte y custodia de valores, caudales y monedas, además de los requisitos comunes a todas las Empresas Privadas de Vigilancia, deberá cumplir con los siguientes requisitos:
+    >   
+    > a) Contar con un bien inmueble con los siguientes documentos y las siguientes especificaciones:
+    >   
+    > DOCUMENTOS:
+    >   
+    > 1. Tarjeta de Propiedad o Folio Real del bien inmueble a nombre de la Sociedad Comercial constituida como Sociedad Anónima que solicita realizar el Servicio de Transporte y Custodia de valores, caudales y monedas, caso contrario deberá presentar contrato de arrendamiento o anticrético debidamente protocolizado o con reconocimiento de firmas.
+    >   
+    > ESPECIFICACIONES:
+    >   
+    > 7. Sistema contra incendios:
+    >   
+    > Alarma general contra incendios.
+    >   
+    > Planes de evacuación.
+    >   
+    > Extintores y equipo contra incendios.
+    >   
+    > Hidrantes estratégicamente ubicados, siempre y cuando existan matrices en inmediaciones.
+    >   
+    > b) Contar con dos o más unidades blindadas en los departamentos del eje troncal, en los demás departamentos con por lo menos una unidad blindada, con los siguientes documentos y las siguientes especificaciones:
+    >   
+    > ESPECIFICACIONES
+    >   
+    > 6. Las llantas de las unidades blindadas deben contar con un sistema de seguridad que garantice la marcha, aún si las mismas reventasen por impactos de bala, elementos corta punzantes o golpes severos.”
+14. Se modifica el Artículo 49 (PROPIEDAD DE LOS BIENES INMUEBLES Y MUEBLES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Toda Empresa que se dedique al servicio de Transporte y custodia de valores, caudales y monedas, deberá ser propietaria de los bienes muebles sujetos a registro que utilice o emplee en la prestación de este servicio, en caso de los bienes inmuebles deberá demostrar su legal posesión.”
+15. Se modifica el Artículo 69 (JEFE DE SEGURIDAD) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Toda Empresa de Transporte y Custodia de valores, caudales y monedas deberá contar necesariamente con un Jefe de Seguridad de la Policía Boliviana, en el grado de Mayor o Capitán, dependiente de los Batallones de Seguridad Física en los departamentos del eje troncal, quien determinará el incremento del número de policías de seguridad para este tipo de servicio tomando en cuenta: la capacidad del medio de transporte, los objetos de valor a ser trasladados y el riesgo al que están expuestos, de ninguna manera podrá determinar la disminución del personal.”
+16. Se modifica el Artículo 70 (INSPECCIONES DE SEGURIDAD) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El DENACEV y las JEDECEV, realizarán inspecciones de seguridad de forma periódica a las Empresas de Transporte y Custodia de valores, caudales y monedas para verificar las condiciones de eficiencia y seguridad, previa coordinación.”
+17. Se modifica el Parágrafo II del Artículo 71 (TRANSPORTE TERRESTRE) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “II. Solamente se puede realizar el transporte terrestre de un departamento a otro en caso de no existir transporte aéreo, férreo, fluvial o lacustre, entre el departamento de origen y el de destino, u otros motivos debidamente justificados, requiriendo indispensablemente para el efecto autorización expresa del DENACEV que tendrá vigencia mientras la empresa se encuentre legalmente autorizada, debiendo actualizar al concluir el trámite de renovación de autorización.”
+18. Se modifica el Artículo 76 (REGISTRO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Por cada operación de transporte y custodia de valores, caudales y monedas que realice cada unidad blindada, diariamente consignará un registro que contenga los siguientes datos: placa de control del vehículo, número de registro de la tarjeta de operaciones, nombre del portavalores, responsable, beneficiario del servicio, lugar donde se traslada, fecha, hora, cantidad y valoración de los objetos entregados o recogidos, además de la relación nominal del personal y responsabilidades.”
+19. Se modifica el Artículo 80 (PERSONAL NECESARIO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “I. Las unidades blindadas de transporte y custodia de valores, caudales y monedas, deberán ser custodiadas por dos policías armados como mínimo, sin tomar en cuenta al conductor y al portavalores. El Jefe de Seguridad podrá incrementar, o disminuir el número de Policías solo para el servicio PYME, criterio que también podrá ser aplicado al personal de la empresa.
+    >   
+    > II. Los policías que realicen la custodia de valores, caudales y monedas en unidades blindadas, deberán estar ubicados de modo tal que brinden seguridad permanente.”
+20. Se modifica el Inciso a) y k) del Artículo 81 (PROCEDIMIENTO DIARIO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “a) El conductor de la unidad blindada, deberá estacionar en el lugar adecuado para la carga y descarga de los valores, caudales y monedas, debiendo realizar el desembarque de tal modo que permita mantener un nivel adecuado de seguridad permanente.
+    >   
+    > k) El personal policial asignado deberá cumplir con todo el trayecto de transporte y custodia, desde la recepción hasta la entrega de los valores, caudales y monedas, aun cuando las operaciones sean fuera de los límites jurisdiccionales, siempre y cuando la empresa cuente con la autorización respectiva.”
+21. Se modifica el Inciso c) del Artículo 87 (FUNCIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El Jefe de Operaciones desempeñará las siguientes funciones:
+    >   
+    > c) Deberá llevar un libro notariado u otros medios electrónicos o sistematizados reconocidos por el DENACEV, donde registrará periódicamente los servicios y el personal designados a los mismos”
+
+      
+    XXVISe modifica el Artículo 88 (MEDIDAS DE SEGURIDAD) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El Jefe de Operaciones deberá ejecutar las medidas de seguridad necesarias y oportunas, para subsanar las deficiencias que observen o los sea comunicada por el Jefe de Seguridad, policías, portavalores, choferes, etc., en relación a los servicios y sistemas de seguridad, asegurándose de registrar el lugar, la hora, la fecha y la novedad.”
+
+      
+    XXVIISe modifica el Parágrafo II del Artículo 104 (CARACTERÍSTICAS DEL BLINDAJE) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “II. El nivel de blindaje debe brindar protección contra un disparo de proyectil 7.62 mm NATO, con masas nominales de 9.7 gr., disparado por cañones de 56 cm de largo que impacten a una velocidad promedio de 838+/-15 m/s.”
+
+      
+    XXVIIISe modifican los Incisos a) e i) del Artículo 109 (ESPECIFICACIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Las Empresas dedicadas al blindaje de vehículos deberán sujetarse a la siguiente descripción:
+    >   
+    > a) BLINDAJE: Nivel 5 protección contra munición 7.62; a excepción de piso y techo que deberán contar con nivel 3 de protección.
+    >   
+    > i) LLANTAS: Todas las llantas incluida la de repuesto deben contar con un sistema que garantice la marcha.”
+22. Se modifica el Artículo 122 (LÍMITE JURISDICCIONAL) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “La oficina central o las sucursales de las Empresas de custodia y vigilancia de bienes muebles e inmuebles autorizadas, podrán ofertar servicios dentro del límite de su jurisdicción departamental, pudiendo ampliar los mismos cuando existan motivos debidamente justificados, requiriendo indispensablemente para el efecto, autorización expresa del DENACEV.”
+23. Se modifican los Incisos c) y o) del Artículo 124 (FUNCIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El Jefe de Operaciones ejercerá las siguientes funciones:
+    >   
+    > c) Deberá llevar un registro periódico de los servicios y el personal designado;
+    >   
+    > o) Comunicar oportunamente las anomalías encontradas durante la supervisión dejando constancia escrita y rindiendo los informes correspondientes; ”
+24. Se modifica el Inciso a) del Artículo 127 (DEBERES DE LOS VIGILANTES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Constituyen deberes de los vigilantes:
+    >   
+    > a) Comprobar el estado de funcionamiento de los sistemas de seguridad y de comunicación, debiendo informar a los propietarios o administrador del inmueble y al jefe de operaciones de la Empresa Privada De Vigilancia, las anomalías observadas y registradas; ”
+25. Se modifican los Incisos c) y o) del Artículo 166 (FUNCIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El Jefe de Operaciones, ejercerá las siguientes funciones:
+    >   
+    > c) Deberá llevar un registro periódico de los servicios y personal designado;
+    >   
+    > o) Comunicar oportunamente a sus superiores las anomalías encontradas durante la supervisión, dejando registro y rindiendo los informes correspondientes; ”
+26. Se modifica el Inciso c) del Artículo 185 (OBLIGACIONES DEL JEFE DE OPERACIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El Jefe de Operaciones tiene las siguientes obligaciones:
+    >   
+    > c) Deberá llevar un registro periódico de los servicios y personal designado; ”
+27. Se modifica el Artículo 189 (PRUEBAS NECESARIAS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “La empresa que instale dispositivos y sistemas de seguridad electrónica o conecte a centrales de alarmas, efectuará las demostraciones necesarias para asegurar que cumple su función preventiva y protectora, debiendo entregar al usuario un certificado del trabajo realizado, cuando así sea requerido.”
+28. Se modifica el Artículo 199 (GUÍA DE INSTALACIÓN) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Las empresas de protección electrónica, proporcionarán al usuario una guía de la instalación, con planos y explicaciones de la distribución de las canalizaciones, el cableado, las conexiones de los equipos y alarmas, así como el detalle de los elementos y aparatos instalados y soportes utilizados, cuando así sea requerido.”
+29. Se modifica el Artículo 204 (ESTADO DE FUNCIONAMIENTO) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Los sistemas de alarmas monitoreados, deberán estar en perfecto estado de funcionamiento.”
+30. Se modifica el Artículo 210 (REGISTRO del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El registro de las empresas de protección electrónica, estarán a disposición de los miembros del DENACEV y las JEDECEV, para que realicen el control y la fiscalización correspondiente.”
+31. Se modifica el Artículo 217 (GARANTÍA DE LOS EQUIPOS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Las empresas dedicadas al suministro de equipos electrónicos de seguridad deben ofrecer un año de garantía para los equipos electrónicos de seguridad, siempre que hayan sido respetadas las normas de uso y mantenimiento, el tiempo de un año es computable a partir de su instalación.”
+32. Se modifica el Artículo 224 (CERTIFICADO DE CAPACITACIÓN) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El personal de las Empresas Privadas de Vigilancia autorizadas deben cumplir satisfactoriamente con los módulos de capacitación y entrenamiento teórico-práctico, a cuya conclusión se los otorgará el correspondiente certificado de capacitación que el servirá para la otorgación de la correspondiente Tarjeta de Identificación.”
+33. Se modifica el Artículo 225 (OTROS CERTIFICADOS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Los certificados de capacitación que emitan las universidades, institutos y otros, no serán considerados para la tramitación de la Tarjeta de Identificación.”
+34. Se modifica el Numeral 4, 14, 25, 34 y 52 del Artículo 230 (INFRACCIONES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “Serán pasibles de sanciones las Empresas Privadas de Vigilancia que incurran en alguno de los siguientes supuestos:
+    >   
+    > 4. No incorporar en los dispositivos exteriores expuestos, el nombre y el número de teléfono actualizado de la empresa que realice la instalación o mantenimiento de los dispositivos electrónicos y sistemas de seguridad, para servicios que comprendan Circuito Cerrado de Televisión - CCTV.
+    >   
+    > 14. No llevar registro de contratos de servicios, especificando la naturaleza, tipo, lugar de prestación de los servicios, detalle de características y número de contrato;
+    >   
+    > 25. Se elimina.
+    >   
+    > 34. Se elimina.
+    >   
+    > 52. No contar con registros o que los mismos no estén actualizados.”
+35. Se modifica el Numeral 1 del Artículo 232 del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “1. Suspensión Temporal: Tres (3) meses, cuando se incurra por segunda vez en el incumplimiento de las obligaciones, prohibiciones, infracciones y demás disposiciones establecidas en normativa en vigencia mientras dure la suspensión, se prohíbe comercializar el servicio, realizar marketing, publicidad y la suscripción de nuevos contratos, cuyo incumplimiento dará lugar a la clausura definitiva.”
+36. Se modifica el Artículo 234 (CONFORMACIÓN DE LA COMISIÓN Y PROCEDIMIENTO PARA LA SUSPENSIÓN TEMPORAL DE LAS EMPRESAS PRIVADAS DE VIGILANCIA) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “I. La comisión de ejecución deberá estar conformada de la siguiente manera:
+    >   
+    > Con derecho a voz y voto:
+    >   
+    > Jefe del DENACEV, como presidente.
+    >   
+    > Jefe de la División de Supervisión y Control, como primer vocal.
+    >   
+    > Representante de la Empresa Privada de Vigilancia del rubro, como segundo vocal.
+    >   
+    > b) Con derecho a voz:
+    >   
+    > Jefe de la División Jurídica, como secretario.
+    >   
+    > c) Sin derecho en audiencia:
+    >   
+    > Jefe de Sección del DENACEV, como oficial de diligencias
+    >   
+    > II. El procedimiento para la Suspensión Temporal de las Empresas Privadas de Vigilancia, es el siguiente:
+    >   
+    > La JEDECEV asume conocimiento de la comisión de una falta por segunda vez consecutiva en la misma gestión, debiendo al efecto reunir todos los elementos de prueba necesarios y adjuntarlos a los informes correspondientes de Supervisión y Control, y Jurídico, debiendo ser enviados al DENACEV a través del Jefe de la JEDECEV de origen, solicitando se inicie el proceso para la correspondiente suspensión temporal, que a efectos del presente procedimiento se considera como denuncia.
+    >   
+    > Radicados los antecedentes en el DENACEV, a través del presidente de la comisión de ejecución y del secretario, se admitirá o rechazará la misma, en caso de rechazar se dará un plazo de 5 días hábiles para que la JEDECEV de origen corrija las observaciones realizadas, de no ser efectuadas se tendrá por no presentada la denuncia.
+    >   
+    > En caso de recibir la causa a prueba se concederá 5 días hábiles para que se conteste la denuncia, contestada la misma o transcurrido el plazo para hacerla, el presidente de la comisión fijara día y hora para la audiencia de saneamiento, pruebas y fallo, la que deberá realizarse dentro de los diez días hábiles siguientes de contestada la denuncia o del plazo para hacerla bajo responsabilidad.
+    >   
+    > La audiencia se desarrollará en presencia de las partes y de la comisión en pleno, ante la ausencia de alguna de ellas se suspenderá por única vez, debiendo fijarse nuevo día y hora, que de ninguna manera deberá sobrepasar los cinco días hábiles de suspendida la audiencia, bajo responsabilidad.
+    >   
+    > En caso de que en la segunda audiencia no se presenten el representante de las Empresas Privadas de Vigilancia y/o la parte denunciada, la audiencia se desarrollará aun en ausencia de las mismas, hasta la resolución final.
+    >   
+    > En el desarrollo de la audiencia, se debe comenzar resolviendo los incidentes y excepciones presentadas en la contestación de la denuncia, posteriormente las partes deben comparecer primeramente la parte denunciante (JEDECEV), posteriormente la parte denunciada. En caso de no asistir la parte denunciada todos los hechos expuestos por el denunciante deben tenerse por controvertidos.
+    >   
+    > Finalmente y en la misma audiencia la comisión decretará cuarto intermedio con la finalidad de deliberar y llegar a una resolución final que deberá ser de manera obligatoria por unanimidad de la comisión, que hará conocer a las partes en la misma audiencia, en caso de que se pronuncie por la aplicación de la suspensión temporal, se instruirá al secretario de la comisión para que proyecte la correspondiente resolución de suspensión temporal en el término de 5 días calendario.
+    >   
+    > El proyecto de resolución más los antecedentes serán remitidos ante el Comando General de la Policía Boliviana, para su correspondiente suscripción, en el término de diez días calendario.
+    >   
+    > Concluido el término por ante el secretario de la Comisión se deberá notificar con la resolución de suspensión temporal a la empresa sancionada.
+    >   
+    > A efectos de los recursos que la ley franquea se aplicará lo establecido en la sección segunda y tercera, de la [Ley Nº 2341](https://www.lexivox.org//norms/BO-L-2341.html) de 23 de abril de 2002, de Procedimiento Administrativo.”
+37. Se modifica el Artículo 235 (CONFORMACIÓN DE LA COMISIÓN Y PROCEDIMIENTO PARA LA CLAUSURA DEFINITIVA DE LAS EMPRESAS PRIVADAS DE VIGILANCIA) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “La conformación de la comisión de ejecución y el procedimiento para la clausura definitiva de las Empresas Privadas de Vigilancia, se regirá por el Artículo 234 para la Suspensión Temporal, debiendo iniciar cuando la JEDECEV asuma conocimiento de la comisión de una falta por tercera vez consecutiva en la misma gestión.”
+
+**Artículo 2°.- (Incorporaciones)** 
+
+1. Se incorpora el Parágrafo III al Artículo 11 del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “III. En ausencia de los libros de registro contenidos en el parágrafo I, se podrá realizar el mismo en uso de medios magnéticos u otros.”
+2. Se incorpora el Numeral 5) al Artículo 20 (BENEFICIOS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “5) Recabar la documentación necesaria del personal a contratar, debiendo retornarla cuando haya fenecido su relación laboral.”
+3. Se incorpora el Parágrafo II del Artículo 29 (CONTRATANTES DE LAS EMPRESAS PRIVADAS DE VIGILANCIA) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. A efectos de convocatorias, licitaciones o invitaciones públicas en el rubro de servicios de seguridad privada, se deberá incluir como requisito, la Licencia de Funcionamiento otorgado por la Policía Boliviana.”
+4. Se incorpora el Parágrafo II y III del Artículo 38 (MONTO DE LA BOLETA DE GARANTÍA) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. La Boleta de Garantía será requerida a nivel de empresa y no por sucursales.”
+   >   
+   > “III. La Empresa Privada de Vigilancia, deberá contar en todo momento con la referida boleta, aún sea ésta ejecutada debiendo reponerla de forma inmediata.”
+5. Se incorpora el Inciso k) del Artículo 46 (PROCEDIMIENTO PARA LA PRUEBA BALÍSTICA) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “k) Las empresas que al momento de la tramitación cuenten con informes periciales emitidos por los laboratorios de la Policía Boliviana, anteriores a la creación del ITTCUP o los emitidos por el ITTCUP, tendrán plena validez sean originales o fotocopias.”
+6. Se incorpora el Parágrafo II del Artículo 62 (EMPRESAS ESPECIALIZADAS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. En el marco de la nueva política económica, estas empresas especializadas también podrán brindar servicios a las medianas y pequeñas empresas a través de unidades blindadas de menor tamaño.”
+7. Se incorpora el Parágrafo II del Artículo 67 (BATALLONES DE SEGURIDAD FÍSICA) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. Los Batallones de Seguridad Física de la Policía Boliviana deberán garantizar el cumplimiento del citado servicio a través de la presencia activa del personal policial, aun en condiciones que no permitan la continuidad de la prestación del mismo, por lo que contarán obligatoriamente con planes de contingencia, en coordinación con las empresas de transporte y custodia de valores, caudales y monedas.”
+8. Se incorpora el Numeral 15 y 16 del Artículo 96 (ESPECIFICACIONES TÉCNICAS) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “Las Unidades blindadas además de las especificaciones técnicas requeridas en el presente reglamento deberán contar con:
+   >   
+   > 15. Techo y piso con nivel 3 de blindaje.
+   >   
+   > 16. Las llantas de las unidades blindadas deben contar con un sistema de seguridad que garantice la marcha, aún si las mismas reventasen por impactos de bala, elementos corta punzantes o golpes severos.”
+9. Se incorpora el Parágrafo II y III del Artículo 100 (CONTENEDORES INTELIGENTES) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+   > “II. La mensajería valorada deberá realizarse a través de unidades blindadas, en los lugares que sea imposible el acceso a las mismas, se podrá hacer uso de contenedores inteligentes.”
+   >   
+   > “III. El portavalores que transporte el maletín u otro contenedor inteligente en los lugares que sea imposible el acceso a las unidades blindadas, necesariamente deberá estar acompañado de un Policía armado desde el desembarque de la unidad blindada hasta su retorno a la misma.”
+10. Se incorpora el Parágrafo II del Artículo 103 (CERTIFICADO DE AUTORIZACIÓN) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “II. Los requisitos para la otorgación del certificado de autorización a las empresas dedicadas al blindaje de unidades y/o equipos de seguridad son:
+    >   
+    > - Memorial dirigido al Jefe del DENACEV, especificando la actividad.
+    >   
+    > - Número de Identificación Tributaria (NIT)
+    >   
+    > - Licencia de Funcionamiento de la Honorable Alcaldía Municipal
+    >   
+    > - Certificación de Trazabilidad
+    >   
+    > - Manual de Procedimiento de Blindaje
+    >   
+    > - Informe Pericial del ITTCUP
+    >   
+    > - Boleta de Depósito Bancario, por un monto de Bs2.000.- (Dos mil bolivianos 00/100) depositados a Cuenta Fiscal.”
+11. Se incorpora el Parágrafo II del Artículo 214 (CERTIFICADO DE AUTORIZACIÓN) del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “II. Los requisitos para la otorgación del certificado de autorización a las empresas dedicadas al suministro de equipos de seguridad electrónica son:
+    >   
+    > - Memorial dirigido al Jefe del DENACEV
+    >   
+    > - Número de Identificación Tributaria (NIT)
+    >   
+    > - Licencia de Funcionamiento de la Honorable Alcaldía Municipal
+    >   
+    > - Certificación de Trazabilidad
+    >   
+    > - Boleta de Depósito Bancario, por un monto de Bs250.- (Doscientos cincuenta bolivianos 00/100) depositados a Cuenta Fiscal.”
+12. Se incorpora la Disposición Transitoria Octava del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “La División de Capacitación del DENACEV, en el plazo de Treinta (30) días calendario computables desde la publicación del presente Reglamento Complementario, elaborará el nuevo programa de capacitación parte del Anexo H, en coordinación con cada uno de los servicios comprendidos en el Reglamento Operativo para las Empresas Privadas de Vigilancia, debiendo publicar el texto a través de la página oficial del DENACEV, en consideración a los siguientes aspectos:
+    >   
+    > - Modalidades: Presenciales, semi presenciales o virtuales.
+    >   
+    > - A través de conferencias, seminarios, cursos u otros.
+    >   
+    > - Teórico - práctico
+    >   
+    > - En instalaciones de las Empresas Privadas de Vigilancia, JEDECEV o a designar.
+    >   
+    > - Los facilitadores serán personal propio de las Empresas, JEDECEV, DENACEV u otros invitados.
+    >   
+    > - Los costos se limitarán a material audiovisual y de escritorio
+    >   
+    > - La duración será estructurada en coordinación con las Empresas Privadas de Vigilancia, a fin de no perjudicar su normal desenvolvimiento.”
+13. Se incorpora la Disposición Transitoria Novena del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “La Policía Boliviana a través de la UNIPOL deberá realizar ofertas académicas orientadas a la capacitación de los Directivos, Representantes Legales y Ejecutivos de las empresas privadas de Vigilancia, con la finalidad de satisfacer las demandas de la seguridad privada, cuyos certificados serán exigidos como requisito, parte del Expediente de Recursos Humanos, desde la gestión 2015.”
+14. Se incorpora la Disposición Transitoria Décima del Reglamento Operativo, de 4 de Febrero de 2013, con el siguiente texto:
+    > “El servicio de serenazgo, protección de ingreso a instalaciones privadas o públicas y otros afines, son considerados servicios privados de vigilancia, por lo que necesariamente deberán ser regulados por el DENACEV.”
+
+      
+
+    # Disposiciones derogatorias y abrogatorias
+
+**Artículo abrogatorio Único.-** Quedan abrogadas la Disposición Transitoria Primera y Anexo H del Reglamento Operativo para las Empresas Privadas de Vigilancia, aprobado por Resolución Ministerial Nº 021B/2013 de 4 de Febrero de 2013, y demás disposiciones contrarias al presente Reglamento Complementario.
+
+---
+
+Modificaciones a reglamento aprobadas por [Resolución Ministerial Nº 168/2013 de 13 de septiembre de 2013](https://www.lexivox.org//norms/BO-RS-N168-2013.html).

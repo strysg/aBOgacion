@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 29459, 27 de febrero de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que los Artículos 136, 137 y 138 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html) establecen que el suelo y el subsuelo con todas sus riquezas naturales, las aguas lacustres, fluviales y medicinales, así como los elementos y fuerzas físicas susceptibles de aprovechamiento, son de dominio originario del Estado y constituyen propiedad pública inviolable; asimismo, pertenecen al patrimonio de la Nación, los grupos mineros nacionalizados como una de las bases para el desarrollo y diversificación de la economía del país, y que la dirección y administración superiores de la industria minera estatal estarán a cargo de una entidad autárquica con las atribuciones que determina la Ley.
+* Que el [Decreto Supremo Nº 3196](https://www.lexivox.org//norms/BO-DS-3196.html) de 2 de octubre de 1952 crea la Corporación Minera de Bolivia - COMIBOL y mediante [Decreto Supremo Nº 3223](https://www.lexivox.org//norms/BO-DS-3223.html) del 31 de octubre de 1952, elevado a rango de Ley el 29 de octubre de 1956, el Gobierno instituye la Nacionalización de las Minas y dispone que COMIBOL sea la encargada de la explotación de las empresas nacionalizadas.
+* Que el Artículo 1 del [Decreto Supremo Nº 28901](https://www.lexivox.org//norms/BO-DS-28901.html) de 31 de octubre de 2006, elevado a rango de Ley mediante [Ley Nº 3719](https://www.lexivox.org//norms/BO-L-3719.html) de 31 de julio de 2007, dispone que la COMIBOL asume la dirección y administración directa sobre los yacimientos nacionalizados del Centro Minero Huanuni.
+* Que la Política Minero Metalúrgica del Gobierno, tiene la misión de restituir a la Industria Minera Estatal, como uno de los pilares fundamentales del desarrollo económico, técnico y social, con el objeto de reactivar la actividad productiva, captar inversiones, incorporar tecnologías, generar divisas para el Tesoro General de la Nación, diversificar la economía nacional y crear empleo sostenible.
+* Que el Plan Nacional de Desarrollo en el área productiva, sector minería y metalurgia, señala que el Estado tendrá una participación estratégica, activa y directa en todo el proceso productivo minero metalúrgico mediante sus instituciones fundamentales y las entidades normativas reguladoras y de investigación, por lo que este rol activo se expresará en su función de protagonista y promotor de una actividad minera planificada, racional, inclusiva, moderna y que por tratarse de un sector estratégico para el desarrollo nacional, el Estado brindará la seguridad necesaria para su desarrollo y expansión.
+* Que el Artículo 54 del [Decreto Supremo Nº 29190](https://www.lexivox.org//norms/BO-DS-29190.html) de 11 de julio de 2007, Normas Básicas de Administración de Bienes y Servicios, establece que de acuerdo a sus procesos productivos y disponibilidad de recursos, las empresas públicas nacionales estratégicas, podrán efectuar contrataciones directas de maquinaria, equipo, materias primas e insumos necesarios para la producción, en base a su función de producción.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se califica a la Empresa Minera Huanuni, como Empresa Pública Nacional Estratégica, en el marco del Plan Nacional de Desarrollo, aprobado mediante [Decreto Supremo Nº 29272](https://www.lexivox.org//norms/BO-DS-29272.html) de 12 de septiembre de 2007.
+
+---
+
+Los Señores Ministros de Estado en los despachos de Hacienda y de Minería y Metalurgia, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de febrero del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Alfredo Rada Vélez, Walker San Miguel Rodríguez MINISTRO DE DEFENSA NACIONAL E INTERINO DE LA PRESIDENCIA, Celima Torrico Rojas, Graciela Toro Ibáñez, Luis Alberto Arce Catacora, Walter Valda Rivera, Angel Javier Hurtado Mercado, Oscar Coca Antezana, Susana Rivero Guzmán, Carlos Villegas Quiroga, Walter J. Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE MINERÍA Y METALURGIA, Maria Magdalena Cajias de la Vega, Walter Selum Rivero.

@@ -1,0 +1,38 @@
+# Bolivia: Decreto Supremo Nº 19378, 31 de enero de 1983
+
+DECRETO SUPREMO N° 19378
+  
+DR. HERNAN SILES ZUAZO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, el Gobierno Constitucional en su propósito de corregir el desarrollo de una política indiscriminada de dotación y concesión de tierras hechas al amparo del favor político o familiar; y para hacer que la Reforma Agraria cumpla con sus objetivos económicos fundamentales en beneficio exclusivo de la Nación, mediante D. S. No 19274 de 5 de noviembre del año en curso, ha reformulado sus disposiciones determinando la reversión de tierras fiscales dotadas y concedidas mediante el Consejo Nacional de Reforma Agraria y el instituto Nacional de Colonización, durante los años 1971 a 1982, para cuya eficacia y cumplimiento corresponde dictar la respectiva reglamentación.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Las tierras fiscales revertidas a dominio originario del Estado por imperio del Art.1 del D. S.19274, vale decir dotadas por el Consejo Nacional de Reforma Agraria o concedidas por el Instituto Nacional de Colonización, entre el 17 de julio de 1980 al 10 de octubre de 1982, serán objeto de una estadística levantada por ambos organismos, a fin de contar con datos exactos sobre superficies y extensiones ilegalmente dispuestas, constituyendo al presente reservas fiscales con destino a futuras dotaciones que se determinarán conforme a ley. Se declara expresamente la nulidad en toda forma de derecho, de todos los trámites, Resoluciones Supremas y Títulos Ejecutoriales emergentes de dichos instrumentos legales expedidos en el mencionado período.
+
+**Artículo 2°.-** Para efectos del Art.3 del citado D. S. No 19274, el Ministerio de Asuntos Campesinos y Agropecuarios, instruirá al Consejo Nacional de Reforma Agraria y al Instituto Nacional de Colonización para que estos organismos en el término de sesenta días improrrogables, eleven a su conocimiento relación de expedientes conteniendo datos sobre ubicación y zonificación, extensión superficial; fechas de la demanda, Autos de Vista y Extraordinario; Resolución Suprema, Títulos Ejecutoriales, etc. de todas las dotaciones y concesiones efectuadas sobre tierras fiscales, durante los años 1971 a 1980 La reversión de estas tierras a dominio del Estado, procederá en los siguientes casos:
+
+1. Incumplimiento de la última parte del Art.77 del D. L. No 03464, elevado a categoría de Ley en 29 de octubre de 1956, La implementación de trabajos agropecuarios y mejoras dentro de la dotación o concesión de tierras, no pueden ser recientes, debiendo para la ratificación de derechos, demostrarse que la producción y establecimiento fueron implantados en el término de dos años señalados como condición en el Art. citado, computables de la Resolución Suprema pertinente.
+2. La reservión será total cuando los interesados no hayan probado la implantación de trabajos y mejoras en los términos del inciso precedente. En caso de que dichos trabajos y mejoras sean parciales, las dotaciones y concesiones serán reducidas a los límites establecidos por Ley; debiendo la comprobación efectuarse mediante el Consejo Nacional de Reforma Agraria, de acuerdo al procedimiento señalado en la Ley de 22 de diciembre de 1956 y el Instituto Nacional de Colonización conforme al procedimiento estatuído por el D. S. No 05702 de 10 de febrero de 1961, elevado a categoría de Ley en 22 de diciembre de 1967.
+3. Con carácter general, se declaran nulas de pleno derecho todas las transferencias de tierrras fiscales efectuadas durante los años 1971 a 1982, revirtiéndose las mismas a dominio del Estado. Se faculta a los compradores ejercer el derecho de repetición en contra de sus vendedores.
+4. Los casos de flagrantes violaciones jurídicas e injusticias cometidas en contra de trabajadores campesinos y superposiciones de tierras dentro de procesos agrarios legalmente fenecidos que fueron objeto de revisión, incurriendo en negativa regresión de la Reforma Agraria, entre los años 1971 al 10 de octubre de 1982, probada que sea esta situación, serán corregidas y enmendadas en ejercicio de la facultad potestativa y fiscalizadora del Presidente de la República, de conformidad con los Art.96, atribución 24 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19670202.html) y el 164 de la Ley Fundamental de Reforma Agraria.
+
+**Artículo 3°.-** Quedan revertidas a dominio originario del Estado, todas las dotaciones y concesiones de tierras fiscales efectuadas por el Consejo Nacional de Reforma Agraria y el Instituto Nacional de Colonización, en contravención del D. S. No 12236 de 12 de febrero de 1975, que determinó la suspensión de trámites agrarios en las provincias Franz Tamayo e Iturralde del departamento de La Paz, hasta la conclusión de los estudios de CORDEPAZ y COFADENA, para el aprovechamiento integral de la zona, continuando en vigencia, la excepción del Art.2 del mismo Decreto Supremo. La reversión determinada en el presente artículo se halla igualmente dentro del tratamiento dispuesto en el Art.1 del presente Decreto Reglamentario.
+
+**Artículo 4°.-** Se establece la responsabilidad penal y de carrera administrativa en contra de todos los funcionarios del Servicio Nacional de Reforma Agraria y del Instituto Nacional de Colonización, cuya complicidad sea probada, dentro de los trámites irregulares de dotación y concesión de tierras.
+
+**Artículo 5°.-** Quedan derogadas todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Asuntos Campesinos y Agropecuarios, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de enero de mil novecientos ochenta y tres años.
+  
+Fdo. DR. HERNAN SILES ZUAZO, Mario Roncal Antezana, Arturo Núñez del Prado, Ernesto Aranibar Quiroga, Alfonzo Camacho Peña, Hernando Poppe Martínez, Jorge Crespo Velasco, Roberto Arnez Villarroel, Mario Argandoña Yañez, Carlos Barragán Vargas, Zenón Barrientos Mamani, Jorge O’Connor D’Arlach, Jaime Ponce García, Horacio Tórres Guzmán, Hormando Vaca Diez, Oscar Villa Urioste, Jorge Gonzáles Roda.

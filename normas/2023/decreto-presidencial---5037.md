@@ -1,0 +1,40 @@
+# Bolivia: Decreto Presidencial Nº 5037, 3 de octubre de 2023
+
+[Decreto Presidencial Nº 5037](https://www.lexivox.org//norms/BO-DP-N5037.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que es facultad del señor Presidente Constitucional del Estado Plurinacional y Capitán General de las Fuerzas Armadas designar al Comandante en Jefe de las Fuerzas Armadas, Jefe de Estado Mayor General de las Fuerzas Armadas y a los Comandantes del Ejército, de la Fuerza Aérea y de la Armada Boliviana, de conformidad a lo establecido en el numeral 17 del Artículo 172 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) y Artículos 46, 48, 64 y 66 de la [Ley Nº 1405](https://www.lexivox.org//norms/BO-L-1405.html), de 30 de diciembre de 1992, Orgánica de las Fuerzas Armadas.
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se designa a los siguientes ciudadanos en los cargos que a continuación se detallan:
+     
+   - V. ALMTE. GONZALO VICTOR VIGABRIEL SANCHEZ
+     
+   JEFE DE ESTADO MAYOR GENERAL DEL COMANDO EN JEFE DE LAS FUERZAS ARMADAS DEL ESTADO PLURINACIONAL DE BOLIVIA
+     
+   - GRAL. DIV. JUAN JOSE ZUÑIGA MACIAS
+     
+   COMANDANTE GENERAL DEL EJÉRCITO DE BOLIVIA
+     
+   - GRAL. DIV. AE. MARCELO JAVIER ZEGARRA GUTIERREZ
+     
+   COMANDANTE GENERAL DE LA FUERZA AÉREA BOLIVIANA
+     
+   - V. ALMTE. JUAN ARNEZ SALVADOR
+     
+   COMANDANTE GENERAL DE LA ARMADA BOLIVIANA
+2. Las autoridades militares asumirán los cargos a partir de la publicación del presente Decreto Presidencial.
+3. Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Presidencial.
+
+---
+
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los tres días del mes de octubre del año dos mil veintitrés.
+  
+FDO. Luis Alberto Arce Catacora, Maria Nela Prada Tejada, Edmundo Novillo Aguilar.

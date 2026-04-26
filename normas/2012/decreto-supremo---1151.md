@@ -1,0 +1,37 @@
+# Bolivia: Decreto Supremo Nº 1151, 29 de febrero de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 5 del Artículo 9 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que son fines y funciones esenciales del Estado, garantizar el acceso de las personas a la educación, a la salud y al trabajo.
+* Que el Artículo 46 del Texto Constitucional, establece que toda persona tiene derecho al trabajo digno, con seguridad industrial, higiene y salud ocupacional, sin discriminación, y con remuneración o salario justo, equitativo y satisfactorio, que el asegure para sí y su familia una existencia digna; a una fuente laboral estable, en condiciones equitativas y satisfactorias. El Estado protegerá el ejercicio del trabajo en todas sus formas.
+* Que el Artículo 106 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), señala que el Estado garantiza el derecho a la comunicación y el derecho a la información. El Estado garantiza a las bolivianas y los bolivianos el derecho a la libertad de expresión, de opinión y de información, a la rectificación y a la réplica, y el derecho a emitir libremente las ideas por cualquier medio de difusión, sin censura previa. El Estado garantiza a las trabajadoras y los trabajadores de la prensa, la libertad de expresión, el derecho a la comunicación y a la información.
+* Que el Artículo 10 de la Ley General del Trabajo, dispone que cuando el trabajo se verifique en lugar que diste más de 2 kilómetros de la residencia del trabajador; el Estado podrá, mediante resoluciones especiales, imponer a los patronos la obligación del traslado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)**   
+- El presente Decreto Supremo tiene por objeto garantizar el transporte nocturno a las trabajadoras y a los trabajadores de todos los medios de comunicación, disponiendo para el efecto que los propietarios, administradores y responsables de los medios de comunicación garanticen el transporte nocturno, desde Hrs.22: 00 a Hrs.07: 00, en los viajes de ida y vuelta, y de puerta a puerta.
+  
+- El horario laboral nocturno se computa desde el momento en que las trabajadoras y los trabajadores de todos los medios de comunicación salen de sus domicilios con destino a su fuente laboral y de retorno a éste.
+
+**Artículo 2°.- (Incumplimiento)** El incumplimiento de esta disposición será sancionado con el pago de un (1) salario mínimo nacional en favor de las trabajadoras y los trabajadores de todos los medios de comunicación y, en caso de reincidencia, la sanción se acrecentará en progresión aritmética, siempre a favor del trabajador y a ser pagado en la boleta de sueldo mensual correspondiente al mes del incumplimiento.
+  
+
+# Disposiciones abrogatorias y derogatorias
+
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Trabajo, Empleo y Previsión Social, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte y nueve días de febrero del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo MINISTRO DE SALUD Y DEPORTES E INTERINO DE EDUCACION, Felipe Quispe Quenta, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

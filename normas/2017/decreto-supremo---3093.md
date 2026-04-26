@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 3093, 15 de febrero de 2017
+
+[Decreto Supremo Nº 3093](https://www.lexivox.org//norms/BO-DS-N3093.html)  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 104 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que toda persona tiene derecho al deporte, a la cultura física y a la recreación. El Estado garantiza el acceso al deporte sin distinción de género, idioma, religión, orientación política, ubicación territorial, pertenencia social, cultural o de cualquier otra índole.
+* Que el Artículo 105 del Texto Constitucional, establece que el Estado promoverá, mediante políticas de educación, recreación y salud pública, el desarrollo de la cultura física y de la práctica deportiva en sus niveles preventivo, recreativo, formativo y competitivo, con especial atención a las personas con discapacidad. El Estado garantizará los medios y los recursos económicos necesarios para su efectividad.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, dispone que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 3034](https://www.lexivox.org//norms/BO-DS-N3034.html), de 28 de diciembre de 2016, que reglamenta la aplicación de la [Ley Nº 856](https://www.lexivox.org//norms/BO-L-N856.html), de 28 de noviembre de 2016, del Presupuesto General del Estado Gestión 2017, señala que en el marco de sus competencias, se autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo, la inscripción y/o incremento de las partidas de gasto 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión no Capitalizables” y 46000 “Estudios y Proyectos para Inversión”, con recursos de financiamiento externo de crédito, donación y/o contraparte nacional establecidos en los convenios específicos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento el incremento de estas partidas deberá aprobarse mediante Decreto Supremo.
+* Que el Ministerio de Deportes requiere la contratación de consultorías por producto, a objeto de coadyuvar en la implementación de infraestructura deportiva en el territorio del Estado Plurinacional de Bolivia.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Deportes, incrementar la subpartida 25210 “Consultorías por Producto” en Bs4.081.868.- (CUATRO MILLONES OCHENTA Y UN mil novecientos SESENTA Y OCHO 00/100 BOLIVIANOS), financiada con Fuentey Organismo 10-111 “Tesoro General de la Nación”, a través de un traspaso presupuestario interinstitucional proveniente del Tesoro General de la Nación - TGN, para coadyuvar en la implementación del Centro de Alto Rendimiento Gral. Federico Román.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Deportes, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de febrero del año dos mil diecisiete.
+  
+Fdo. ALVARO MARCELO GARCÍA LINERA, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES Y DE DEFENSA, Luis Alberto Arce Catacora MINISTRO DE ECONOMÍA Y FINANZAS PÚBLICAS E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Eugenio Rojas Apaza, Milton Claros Hinojosa MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA E INTERINO DE ENERGIAS, Félix Cesar Navarro Miranda MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE HIDROCARBUROS, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACIÓN E INTERINO DE JUSTICIA Y TRANSPARENCIA INSTITUCIONAL, DE LA PRESIDENCIA Y DE MEDIO AMBIENTE Y AGUA, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

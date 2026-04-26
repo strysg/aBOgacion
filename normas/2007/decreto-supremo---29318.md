@@ -1,0 +1,107 @@
+# Bolivia: Decreto Supremo Nº 29318, 24 de octubre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que por disposición del Artículo 145 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), las explotaciones a cargo del Estado deben realizarse de acuerdo a planificación económica y se ejecutarán preferentemente por entidades autónomas, autárquicas o sociedades de economía mixta.
+* Que el Artículo 29 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006, Reglamentario a la Ley de Organización del Poder Ejecutivo, clasifica las instituciones y empresas públicas.
+* Que el Capítulo II del Título VII del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html), establece las características, forma de creación y regula el funcionamiento de las Instituciones y Empresas Públicas.
+* Que el Artículo 34 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html), determina que las empresas del sector público se hallan constituidas por capital del Estado. Su estructura empresarial estará sujeta a las normas de su creación y el desarrollo de sus actividades al control del Ministerio del sector. Sus operaciones obedecerán a los mandatos constitucionales y las leyes respectivas del sector, deben desarrollar sus actividades con criterios de eficiencia económica y administrativa y tener la capacidad de ser autosostenibles.
+* Que el Artículo 54 del [Decreto Supremo Nº 29190](https://www.lexivox.org//norms/BO-DS-29190.html) de 11 de julio de 2007, establece que la nómina de Empresas Públicas Nacionales Estratégicas será establecida mediante Decreto Supremo.
+* Que el Artículo 3 de la [Ley Nº 2902](https://www.lexivox.org//norms/BO-L-2902.html) de 29 octubre de 2004, de Aeronáutica Civil de la República de Bolivia, determina que el Estado podrá realizar actividades aeronáuticas civiles y comerciales, previa autorización y cumplimiento de los requisitos establecidos.
+* Que el Artículo 88 de la [Ley Nº 2902](https://www.lexivox.org//norms/BO-L-2902.html), establece que la actividad aerocomercial en el orden internacional se determinará mediante servicios de transporte aéreo de empresas nacionales y extranjeras, a tales fines el Poder Ejecutivo celebrará acuerdos bilaterales o multilaterales de transporte aéreo o autorizará las respectivas operaciones a transportistas nacionales o extranjeros.
+* Que las actividades del transporte aéreo constituyen un servicio público que goza de la protección efectiva del Estado, debiendo prestarse en forma continua, eficiente, con calidad, igualdad, oportunidad y seguridad, en beneficio de todos los usuarios.
+* Que el Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien”, aprobado mediante [Decreto Supremo Nº 29272](https://www.lexivox.org//norms/BO-DS-29272.html) de 12 de septiembre de 2007, plantea recuperar el rol conductor del Estado en el sector aeronáutico, el mismo que se manifestará en el reforzamiento de los mecanismos de aseguramiento de calidad de los servicios de transporte entregados a la población, así como con la participación directa en la prestación de servicios de transporte, con inversiones bajo una perspectiva de sostenibilidad y responsabilidad por la calidad y seguridad de los servicios.
+* Que en cumplimiento de lo anterior, es necesario democratizar el servicio de transporte aéreo, garantizando un mayor acceso de la población, integrando las distintas zonas de la República, contribuyendo al desarrollo económico de los pueblos a través del impulso a los sectores productivos y de turismo.
+* Que mediante Resolución Ministerial N° 081 de 5 de abril de 2007 emitida por el Ministerio de Obras Públicas, Servicios y Vivienda se dispuso la conformación de la Unidad Ejecutora con el objeto de elaborar el proyecto de creación de la empresa de transporte aéreo estatal.
+* Que el Gobierno Nacional considera necesario crear una empresa pública que atienda las necesidades de transporte aéreo de la población de Bolivia, prestando servicios en rutas nacionales e internacionales en un marco de eficiencia, competitividad y transparencia.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto crear la Empresa Pública Nacional Estratégica denominada “Boliviana de Aviación” cuya sigla es “BoA”, determinar su naturaleza jurídica, objeto, patrimonio, creación y atribuciones de su Directorio y su Gerente General.
+
+**Artículo 2°.- (Creación y naturaleza jurídica)** 
+
+1. Se crea la Empresa Pública Nacional Estratégica denominada “Boliviana de Aviación - BoA”, como una persona jurídica de derecho público; de duración indefinida; patrimonio propio; autonomía de gestión administrativa, financiera, legal y técnica; bajo tuición del Ministerio de Obras Públicas, Servicios y Vivienda.
+2. La organización y funcionamiento de la Empresa “Boliviana de Aviación - BoA” estará sujeta a la normativa legal vigente.
+3. Las operaciones de la Empresa “Boliviana de Aviación - BoA” estarán sujetas a lo dispuesto en la [Ley Nº 2902](https://www.lexivox.org//norms/BO-L-2902.html) de 29 de octubre de 2004, de Aeronáutica Civil de la República de Bolivia, la [Ley Nº 1600](https://www.lexivox.org//norms/BO-L-1600.html) de 28 de octubre de 1994, del Sistema de Regulación Sectorial - SIRESE y sus disposiciones reglamentarias.
+
+**Artículo 3°.- (Objeto de la empresa)** “BoA” tiene por objeto la explotación de servicios de transporte aéreo regular y no regular, interno e internacional, de pasajeros, carga y correo, así como la explotación de cualquier servicio colateral.
+
+**Artículo 4°.- (Patrimonio y presupuesto)** 
+
+1. El Patrimonio de “BoA” está constituido por los recursos y bienes que el Estado disponga, así como por los recursos remanentes a la conformación de la empresa y activos asignados a la Unidad Ejecutora constituida para la conformación de la empresa.
+   > “BoA”
+
+   podrá coordinar la gestión de financiamientos provenientes de otras fuentes internas o externas con las instancias públicas competentes que el permitan ampliar, modernizar y/o mejorar sus servicios, de acuerdo a disposiciones vigentes.
+2. Sustentada en la documentación que corresponda “BoA” a través del Ministerio de Obras Públicas, Servicios y Vivienda, presentará ante el Ministerio de Hacienda el presupuesto necesario para su organización e inicio de operaciones, solicitando se transfieran los recursos de acuerdo a las normas vigentes.
+
+**Artículo 5°.- (Domicilio legal)** El domicilio legal de “BoA” es la ciudad de Cochabamba, pudiendo establecer bases de operación, oficinas y sucursales en el interior como el exterior de la República.
+
+**Artículo 6°.- (Derechos)** Desígnase a “BoA” co - ejecutora de los convenios sobre transporte aéreo internacional de pasajeros, carga y correo. El Ministerio de Relaciones Exteriores y Cultos deberá hacer conocer a los gobiernos de los diferentes países con los que Bolivia tenga suscritos convenios bilaterales y multilaterales respecto a la designación de “BoA”, como co - ejecutora de la política aeronáutica nacional e internacional.
+
+**Artículo 7°.- (Estructura orgánica)** La dirección superior de “BoA” estará a cargo de un Directorio como órgano máximo de decisión.“BoA” contará con un Gerente General quien ejercerá la representación institucional, siendo la Máxima Autoridad Ejecutiva.
+
+**Artículo 8°.- (Directorio)** El Presidente y miembros del Directorio serán designados mediante Resolución Suprema. El Directorio estará conformado por su Presidente y además por cuatro (4) Directores, cada uno a ser propuesto por los siguientes Ministerios:
+  
+- Ministerio de Relaciones Exteriores y Cultos.
+  
+- Ministerio de la Presidencia.
+  
+- Ministerio de Planificación del Desarrollo.
+  
+- Ministerio de Producción y Microempresa.
+  
+- Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 9°.- (Atribuciones del Directorio)** Son atribuciones del Directorio:
+
+1. Ejercer la dirección de la empresa, supervisando todos los actos relativos al cumplimiento de sus finalidades;
+2. Aprobar la política general de la empresa en el marco del Plan Nacional de Desarrollo y el Plan Estratégico Institucional;
+3. Aprobar reglamentos internos, manuales y toda norma necesaria para que la empresa cumpla sus finalidades;
+4. Aprobar el presupuesto de ingresos y gastos de la empresa y sus modificaciones para su consideración en el Ministerio de Hacienda para el Anteproyecto y reformulado del Presupuesto General de la Nación de acuerdo a la normativa vigente;
+5. Establecer y suprimir sucursales, agencias, representaciones y otras oficinas en el interior y exterior del país;
+6. Aprobar la estructura orgánica de la empresa;
+7. Autorizar, en el marco de la ley, acuerdos interinstitucionales y empresariales para fines de apoyo a las actividades de la Empresa;
+8. Autorizar al Gerente General la suscripción de contratos relativos a la actividad aérea comercial;
+9. Precautelar el patrimonio y los intereses de la empresa;
+10. Aprobar los estados financieros y la memoria anual de cada gestión;
+11. Aprobar la escala salarial;
+12. Disponer la reinversión total o parcial de utilidades y la creación de reservas especiales;
+13. Constituir comisiones especiales de acuerdo a las necesidades de la empresa;
+14. Solicitar informes al Gerente General sobre el desempeño de cualquier Gerencia de Área de la empresa;
+15. Aprobar los informes de Auditoria Interna; y
+16. Otras actividades inherentes a su cargo.
+
+**Artículo 10°.- (Gerente General)** El Gerente General será designado por el Presidente de la República por Resolución Suprema. El mandato del Gerente General es de cinco (5) años. En caso de impedimento temporal del Gerente General en ejercicio, ausencia o enfermedad que no supere los treinta (30) días, el Directorio nombrará de entre los Gerentes del segundo nivel jerárquico a un Gerente General interino.
+
+**Artículo 11°.- (Atribuciones del Gerente General)** Son atribuciones del Gerente General:
+
+1. Ejercer la representación legal de la empresa;
+2. Cumplir y hacer cumplir las resoluciones del Directorio;
+3. Ejercer la calidad de máxima autoridad ejecutiva de la empresa;
+4. Supervisar a los Gerentes de Área y a todas las unidades de la empresa en el cumplimiento de sus obligaciones;
+5. Aprobar las tarifas, itinerarios y horarios de los servicios aéreos;
+6. Firmar planillas de sueldos, viáticos, dietas y otras asignaciones reconocidas por Reglamentos Internos para el personal de la empresa;
+7. Organizar y dirigir las actividades administrativas, operativas y técnicas de la empresa, en el marco de las Leyes y de las políticas, normas y reglamentos aprobados por el Directorio;
+8. Negociar contratos y acuerdos relacionados con la actividad aeronáutica y suscribirlos previa autorización del Directorio;
+9. Someter a consideración del Directorio proyectos, planes y programas relativos a la actividad empresarial;
+10. Presentar al Directorio para su aprobación el proyecto de Programa Operativo Anual, Plan Estratégico institucional, el presupuesto de cada gestión, los estados financieros debidamente auditados y la memoria anual; y
+11. Otras actividades inherentes a su cargo.
+
+**Artículo 12°.- (Aprobación de Estatutos)** Los Estatutos de “BoA” serán aprobados mediante Decreto Supremo, debiendo el Directorio presentar los mismos en un plazo máximo de treinta (30) días calendario computables a partir de la designación del Directorio y del Gerente General de la empresa.
+
+**Artículo 13°.- (Empresa estratégica)** En el marco de lo establecido en el Artículo 54 del [Decreto Supremo Nº 29190](https://www.lexivox.org//norms/BO-DS-29190.html) de 11 de julio de 2007, se califica a “BoA” como Empresa Pública Nacional Estratégica.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Relaciones Exteriores y Cultos; de la Presidencia; de Hacienda; de Planificación del Desarrollo; de Producción y Microempresa; y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de octubre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RR. EE. Y CULTOS, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca MINISTRO DEL AGUA É INTERINO DE SALUD Y DEPORTES, Celinda Sosa Lunda, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, María Magdalena Cajías de la Vega.

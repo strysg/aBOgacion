@@ -1,0 +1,34 @@
+# Bolivia: Decreto Supremo Nº 2258, 30 de enero de 2015
+
+[Decreto Supremo Nº 2258](https://www.lexivox.org//norms/BO-DS-N2258.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 9 Parágrafo II del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece como competencia exclusiva del Nivel Central del Estado, la planificación, diseño, construcción, conservación y administración de carreteras de la Red Fundamental.
+* Que el numeral 1 del Parágrafo II del Artículo 96 de la [Ley Nº 031](https://www.lexivox.org//norms/BO-L-N31.html), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibañez”, señala que de acuerdo a las competencias exclusivas de los numerales 9 y 10 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), el Nivel Central del Estado tiene competencia exclusiva el planificar, diseñar, construir y administrar las carreteras, líneas férreas y ferrocarriles de la red fundamental.
+* Que el Capítulo IV “Bolivia Productiva” del Plan Nacional de Desarrollo, aprobado por [Decreto Supremo Nº 29272](https://www.lexivox.org//norms/BO-DS-29272.html), de 12 de septiembre de 2007, dispone que la política de vertebración interna e integración externa está basada en el desarrollo, mantenimiento y rehabilitación de carreteras, ferrovías, aeropuertos e hidrovías que permitan a Bolivia una mayor vertebración interna y lograr el acceso estratégico de sus exportaciones a los mercados de destino. Asimismo establece que a través de un Programa de Integración al Norte se construirá el ramal hacia Trinidad (Proyecto: Construcción de la carretera Yucumo - San Borja - San Ignacio - Puerto Ganadero - Trinidad).
+* Que el objetivo del Proyecto Construcción de la Carretera Yucumo - San Borja es contar con un eje de comunicación entre las localidades de Yucumo y San Borja que garantice una transitabilidad ininterrumpida. A partir de la rehabilitación y pavimentación del tramo carretero se contribuirá al desarrollo socioeconómico del área de influencia del Proyecto, favoreciendo el intercambio de mercancías y servicios de los poblados aledaños con otros centros de mayor desarrollo del país, a la vez que se fomentará la actividad productiva y comercial del área de influencia de la obra a partir de la ampliación y mejora del acervo vial existente.
+* Que el Gobierno del Estado Plurinacional de Bolivia ha gestionado ante la Corporación Andina de Fomento - CAF, un préstamo por un monto de hasta $us62.855.290.- (SESENTA Y DOS MILLONES novecientos CINCUENTA Y CINCO mil DOSCIENTOS NOVENTA 00/100 DÓLARES ESTADOUNIDENSES), destinados al financiamiento parcial del Proyecto Construcción de la Carretera Yucumo - San Borja.
+* Que es necesario autorizar la suscripción del Contrato de Préstamo con la CAF, a objeto de materializar el financiamiento parcial para la ejecución del Proyecto Construcción de la Carretera Yucumo - San Borja.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministro de Planificación del Desarrollo, a suscribir con la Corporación Andina de Fomento - CAF, en nombre y representación del Estado Plurinacional de Bolivia, el Contrato de Préstamo por un monto de hasta $us62.855.290.- (SESENTA Y DOS MILLONES novecientos CINCUENTA Y CINCO mil DOSCIENTOS NOVENTA 00/100 DÓLARES ESTADOUNIDENSES), destinados al financiamiento parcial del Proyecto Construcción de la Carretera Yucumo - San Borja.
+2. Suscrito el Contrato de Préstamo deberá ser remitido a consideración y aprobación de la Asamblea Legislativa Plurinacional, en cumplimiento al numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+3. Se autoriza al Ministerio de Economía y Finanzas Públicas la suscripción del respectivo Convenio Subsidiario para la transferencia de recursos externos y ejecución del Contrato de Préstamo con la Administradora Boliviana de Carreteras - ABC en su condición de Organismo Ejecutor, a solicitud del Ministerio de Planificación del Desarrollo, a través del Viceministerio de Inversión Pública y Financiamiento Externo.
+4. La ABC, como Organismo Ejecutor, deberá gestionar ante el Gobierno Autónomo Departamental del Beni el aporte local establecido en el Contrato de Préstamo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo, de Economía y Finanzas Públicas, y de Obras Públicas Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de enero del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, José Hugo Moldiz Mercado, Jorge Ledezma Cornejo, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Pablo Cesar Groux Canedo, Marianela Paco Duran, Tito Rolando Montaño Rivera.

@@ -1,0 +1,61 @@
+# Bolivia: Decreto Supremo Nº 3638, 3 de agosto de 2018
+
+[Decreto Supremo Nº 3638](https://www.lexivox.org//norms/BO-DS-N3638.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que los Parágrafos I y II del Artículo 330 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establecen que el Estado regulará el sistema financiero con criterios de igualdad de oportunidades, solidaridad, distribución y redistribución equitativa; y a través de su política financiera, priorizará la demanda de servicios financieros de los sectores de la micro y pequeña empresa, artesanía, comercio, servicios, organizaciones comunitarias y cooperativas de producción.
+* Que el Artículo 336 del Texto Constitucional, determina que el Estado apoyará a las organizaciones de economía comunitaria para que sean sujetos de crédito y accedan al financiamiento.
+* Que el Parágrafo I del Artículo 4 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), de 21 de agosto de 2013, de Servicios Financieros, dispone que los servicios financieros deben cumplir la función social de contribuir al logro de los objetivos de desarrollo integral para el vivir bien, eliminar la pobreza y la exclusión social y económica de la población.
+* Que los incisos a) y b) del Parágrafo II del Artículo 4 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), señalan que el Estado Plurinacional de Bolivia y las entidades financieras comprendidas en la citada Ley, deben velar porque los servicios financieros que presten, cumplan con los objetivos, entre otros, promover el desarrollo integral para el vivir bien; y facilitar el acceso universal a todos sus servicios.
+* Que el Artículo 97 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), establece que el crédito dirigido al sector productivo con destino a la inversión, deberá contemplar un periodo de gracia en su estructura de reembolso, el cual se establecerá mediante regulación de la Autoridad de Supervisión del Sistema Financiero - ASFI.
+* Que el Parágrafo I del Artículo 99 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), determina que las garantías aceptables para financiar actividades productivas rurales y no rurales, deberán incluir alternativas de aseguramiento no convencionales propias de estas actividades. Entre otros, los tipos de garantía no convencionales aceptables son: fondos de garantía, seguro agrario, documentos en custodia de bienes inmuebles y predios rurales, maquinaria sujeta o no a registro con o sin desplazamiento, contratos o documentos de compromiso de venta a futuro en el mercado interno o para la exportación, avales o certificaciones de los organismos comunitarios u organizaciones territoriales, productos almacenados en recintos propios o alquilados, garantías de semovientes, la propiedad intelectual registrada y otras alternativas no convencionales que tienen carácter de garantía.
+* Que el Parágrafo I del Artículo 115 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), dispone que las entidades de intermediación financiera, destinarán anualmente un porcentaje de sus utilidades, a ser definido mediante Decreto Supremo, para fines de cumplimiento de su función social, sin perjuicio de los programas que las propias entidades financieras ejecuten.
+* Que el Artículo 182 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), señala que el Banco de Desarrollo Productivo - Sociedad Anónima Mixta - BDP - S. A. M. con la finalidad de orientar y canalizar de manera óptima y oportuna los recursos y esfuerzos para el otorgamiento de manera directa o indirecta de servicios financieros y no financieros a los diferentes actores del sector productivo y del sector de comercio y servicios complementarios a la producción en el país, coordinará y articulará la gestión, promoción, coordinación y colocación de financiamiento para el desarrollo productivo en todo el territorio nacional, pudiendo interactuar con otras entidades, instituciones, reparticiones e instancias tanto del sector público como del privado en el país, a fin de lograr mayores impactos sociales y mejores resultados económicos.
+* Que el Parágrafo I del Artículo 3 del [Decreto Supremo Nº 2136](https://www.lexivox.org//norms/BO-DS-N2136.html), de 9 de octubre de 2014, establece que cada una de las entidades de intermediación financiera alcanzadas por el citado Decreto Supremo, deberán destinar el seis por ciento (6%) del monto de sus utilidades netas correspondientes a la gestión 2014, para la constitución de un Fondo de Garantía de Créditos para el Sector Productivo.
+* Que el [Decreto Supremo Nº 2614](https://www.lexivox.org//norms/BO-DS-N2614.html), de 2 de diciembre de 2015, determina el porcentaje de las utilidades netas de la gestión 2015 de los Bancos Múltiples y Bancos Pyme que deberá ser destinado a los Fondos de Garantía de Créditos para el Sector Productivo que estarán bajo administración de cada uno de ellos.
+* Que dada la finalidad con la que fueron constituidos los Fondos de Garantía de Créditos para el Sector Productivo, es necesario permitir el acceso del BDP - S. A. M. a los Fondos de Garantía de Crédito para el Sector Productivo, a efectos de respaldar las operaciones de crédito de Organizaciones Económicas Comunitarias - OECOM, de productores agropecuarios y forestales que pertenezcan a OECOM, de productores de una propiedad comunitaria o colectiva y micro, pequeños y medianos productores, como una medida de profundización de la inclusión financiera.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto:
+
+1. Posibilitar el acceso del Banco de Desarrollo Productivo - Sociedad Anónima Mixta - BDP - S. A. M. a los Fondos de Garantía de Crédito para el Sector Productivo, administrados por los Bancos Múltiples y Pymes, a efectos de respaldar las operaciones de crédito de Organizaciones Económicas Comunitarias - OECOM, de productores agropecuarios y forestales que pertenezcan a OECOM, de productores de una propiedad comunitaria o colectiva y micro, pequeños y medianos productores, mediante la modificación de los Decretos Supremos [Nº 2136](https://www.lexivox.org//norms/BO-DS-N2136.html), de 9 de octubre de 2014 y [Nº 2614](https://www.lexivox.org//norms/BO-DS-N2614.html), de 2 de diciembre de 2015;
+2. Establecer que la producción de los productores de OECOM o de propiedades comunitarias o colectivas constituirá un tipo de garantía no convencional;
+3. Establecer que las operaciones de crédito de los productores de OECOM o de propiedades comunitarias destinadas a inversión deberán contemplar dentro de su estructura de plazo periodos de gracia para el reembolso del capital.
+
+**Artículo 2°.- (Modificaciones)** 
+
+1. Se modifica el Artículo 5 del [Decreto Supremo Nº 2614](https://www.lexivox.org//norms/BO-DS-N2614.html), de 2 de diciembre de 2015 y el Artículo 5 del [Decreto Supremo Nº 2136](https://www.lexivox.org//norms/BO-DS-N2136.html), de 9 de octubre de 2014 modificado por la Disposición Adicional Primera del [Decreto Supremo Nº 2614](https://www.lexivox.org//norms/BO-DS-N2614.html), con el siguiente texto:
+   > “ARTÍCULO 5.- (CARACTERÍSTICAS DE LOS FONDOS DE GARANTÍA).
+   >   
+   > I. Los Fondos de Garantía tendrán por objeto garantizar operaciones de crédito de Organizaciones Económicas Comunitarias - OECOM, de productores agropecuarios y forestales que pertenezcan a las mismas, conforme el [Decreto Supremo Nº 2849](https://www.lexivox.org//norms/BO-DS-N2849.html), de 2 de agosto de 2016 y de productores de una propiedad comunitaria o colectiva.
+   >   
+   > II. Los Fondos de Garantía tendrán por objeto garantizar operaciones de microcrédito y crédito Pyme destinados al sector productivo para capital de operaciones y/o capital de inversión, incluidas operaciones de crédito para financiamiento del sector turismo y producción intelectual según definiciones y normativa emitida por ASFI, otorgadas por la misma entidad bancaria administradora de un Fondo de Garantía o de otros Bancos Múltiples o Bancos Pyme, así como para operaciones de crédito del Banco de Desarrollo Productivo - Sociedad Anónima Mixta - BDP - S. A. M. o de cualquier otro actor autorizado por el Ministerio de Economía y Finanzas Públicas mediante Resolución Ministerial. También podrán garantizar operaciones de crédito para fines productivos otorgadas a cooperativas de producción.
+   >   
+   > III. Los recursos de los Fondos de Garantía constituyen un patrimonio autónomo, independiente del patrimonio de los Bancos Múltiples y Bancos Pyme, debiendo por ello ser administrados y contabilizados en forma separada.
+   >   
+   > IV. La administración de los Fondos de Garantía estará a cargo de la entidad bancaria aportante de los recursos, pudiendo delegar la administración a otra entidad regulada por la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), o por la [Ley Nº 1834](https://www.lexivox.org//norms/BO-L-1834.html), de 31 de marzo de 1998, del Mercado de Valores, previa no objeción del Ministerio de Economía y Finanzas Públicas.”
+2. Se modifica el inciso a) del Artículo 10 del [Decreto Supremo Nº 2614](https://www.lexivox.org//norms/BO-DS-N2614.html), de 2 de diciembre de 2015 y el inciso a) del Artículo 10 del [Decreto Supremo Nº 2136](https://www.lexivox.org//norms/BO-DS-N2136.html), de 9 de octubre de 2014, con el siguiente texto:
+   > “a) Otorgar garantías a simple requerimiento para operaciones de crédito de OECOM, de productores agropecuarios y forestales que pertenezcan a las mismas y de productores de una propiedad comunitaria o colectiva; así como para los créditos destinados al sector productivo, aprobados y desembolsados por una entidad bancaria, incluido el BDP - S. A. M., también podrán otorgar garantías para créditos destinados al sector productivo concedidos por otros actores que sean autorizados por el Ministerio de Economía y Finanzas Públicas mediante Resolución Ministerial.”
+
+**Artículo 3°.- (Garantia no convencional)** Se establece que las operaciones de crédito de productores de OECOM o de propiedades comunitarias o colectivas podrán ser garantizadas con la producción de los productores, conforme al Artículo 99 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), de 21 de agosto de 2013, de Servicios Financieros.
+
+**Artículo 4°.- (Periodo de gracia)** Las operaciones de crédito, de productores de OECOM o de propiedades comunitarias o colectivas, destinadas a capital de inversión deberán contemplar dentro de su estructura de plazo, periodos de gracia para el reembolso del capital, de acuerdo al rubro y ciclo productivo.
+
+# Disposiciones adicionales
+
+**Disposición Adicional Única.-** La Autoridad de Supervisión del Sistema Financiero - ASFI en el plazo de treinta (30) días de la publicación del presente Decreto Supremo deberá incluir, en la reglamentación que norma las garantías no convencionales establecidas en el Artículo 99 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), la producción de productores de OECOM o de propiedades comunitarias o colectivas, incorporándola como otro activo sujeto a ser considerado garantía no convencional.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Municipio de Yapacaní del Departamento de Santa Cruz, a los dos días del mes de agosto del año dos mil dieciocho.
+  
+FDO. EVO MORALES AYMA, Fernando Huanacuni Mamani, Alfredo Rada Vélez, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Mario Alberto Guillén Suárez, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Rodolfo Edmundo Rocabado Benavides, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

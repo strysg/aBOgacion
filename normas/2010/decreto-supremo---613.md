@@ -1,0 +1,60 @@
+# Bolivia: Decreto Supremo Nº 613, 25 de agosto de 2010
+
+Decreto Supremo Nº 0613
+  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 306, concordante con el Parágrafo II del Artículo 311 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que el modelo económico boliviano, comprende entre otros aspectos, que el Estado podrá intervenir en toda la cadena productiva de los sectores estratégicos, buscando garantizar su abastecimiento para preservar la calidad de vida de todas las bolivianas y todos los bolivianos.
+* Que el Artículo 363 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que la Empresa Boliviana de Industrialización de Hidrocarburos - EBIH será responsable de ejecutar, en representación del Estado y dentro de su territorio, la industrialización de los hidrocarburos.
+* Que el inciso a) del Artículo 39 del Presupuesto General del Estado - Gestión 2010, aprobado por expresa disposición del numeral 11 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), autoriza al Órgano Ejecutivo constituir fideicomisos, los cuales deben ser aprobados mediante Decreto Supremo.
+* Que el Artículo 20 del [Decreto Supremo Nº 0430](https://www.lexivox.org//norms/BO-DS-N430.html), de 10 de febrero de 2010, reglamenta los aspectos generales de los fideicomisos y la recuperación de los recursos en fideicomiso.
+* Que el [Decreto Supremo Nº 0368](https://www.lexivox.org//norms/BO-DS-N368.html), de 25 de noviembre de 2009, establece la naturaleza institucional de la EBIH, como una Empresa Pública Nacional Estratégica, autárquica de derecho público y duración indefinida, con patrimonio y capital propios, con sede en la ciudad de Cochabamba y presencia a nivel nacional en todas las actividades de la industrialización de los hidrocarburos, bajo tuición del Ministerio de Hidrocarburos y Energía y de Yacimientos Petrolíferos Fiscales Bolivianos.
+* Que el Artículo 4 del citado Decreto Supremo, establece que la EBIH es responsable de cambiar el patrón primario exportador de los hidrocarburos, desarrollando la industrialización de hidrocarburos buscando un mayor valor agregado, que abastezca con prioridad la demanda de productos de industrialización del mercado nacional y la exportación de los excedentes, en el marco de la Política Nacional de Hidrocarburos.
+* Que de acuerdo al Plan Nacional de Desarrollo, es prioridad del Estado Plurinacional de Bolivia: i) La recuperación e industrialización de los hidrocarburos; ii) La apertura de los mercados internos y externos para el sector; iii) Proyectos prioritarios para la Industrialización: Desarrollo de la Petroquímica; y iv) Cambio de la matriz energética.
+* Que entre las principales funciones de la EBIH está: i) Desarrollar la industria de hidrocarburos en el país a través de procesos de transformación físicos y químicos del petróleo y del gas natural en productos básicos, intermedios y finales; ii) Instalar, implementar, poner en marcha, operar y administrar complejos petroquímicos y plantas industriales de hidrocarburos, petroquímica básica, que den el mayor beneficio al país integrando criterios de priorización económicos, sociales y ambientales.
+* Que para determinar la viabilidad de los proyectos de la EBIH, se requiere constituir un Fideicomiso, que tenga por objeto financiar los Estudios de Ingeniería Conceptual, Básica, de Factibilidad y/o de Preinversión de Proyectos de Industrialización de Hidrocarburos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Hidrocarburos y Energía a constituir un fideicomiso, en calidad de fideicomitente, por la suma equivalente de hasta Bs34.850.000.- (TREINTA Y CUATRO MILLONES novecientos CINCUENTA mil 00/100 BOLIVIANOS), en el Banco Unión S. A., como fiduciario.
+
+**Artículo 2°.- (Autorización)** Se autoriza al Ministerio de Hidrocarburos y Energía transmitir de manera temporal y no definitiva al Banco Unión S. A., en calidad de fiduciario los recursos señalados en el Artículo precedente, a través de la suscripción de un Contrato de Constitución de Fideicomiso.
+
+**Artículo 3°.- (Fuente de recursos)** Para la constitución del fideicomiso, se autoriza al Ministerio de Economía y Finanzas Publicas, con cargo a los recursos del Tesoro General de la Nación realizar un traspaso interinstitucional al Ministerio de Hidrocarburos y Energía por la suma señalada en el Artículo 1 del presente Decreto Supremo.
+
+**Artículo 4°.- (Finalidad y beneficiario)** Los recursos del fideicomiso autorizado por el presente Decreto Supremo estarán destinados a financiar los Estudios de Ingeniería Conceptual, Básica, de Detalle, y/o de Preinversión de Proyectos de Industrialización de Hidrocarburos, por parte de la Empresa Boliviana de Industrialización de Hidrocarburos - EBIH, como beneficiario del fideicomiso, a ser priorizados por ésta, en el marco de la política sectorial.
+
+**Artículo 5°.- (Plazo del fideicomiso)** El plazo de vigencia del fideicomiso será de hasta cinco (5) años a partir de la firma del contrato de fideicomiso.
+
+**Artículo 6°.- (Restitución de los recursos del fideicomiso)** 
+
+1. La forma y condiciones de restitución de los recursos del fideicomiso, serán establecidas en el Contrato de Constitución del mismo.
+2. El Fideicomitente, una vez recuperados los recursos del Beneficiario, reembolsará los recursos que constituyeron el patrimonio autónomo del fideicomiso, al Ministerio de Economía y Finanzas Públicas de manera inmediata y dentro del plazo de duración fijado para el fideicomiso.
+
+**Artículo 7°.- (Aspectos administrativos)** 
+
+1. Todos los aspectos operativos y administrativos del fideicomiso serán establecidos en el respectivo contrato de constitución. Los costos operativos y administrativos del fideicomiso serán cubiertos por la EBIH.
+2. Los recursos del fideicomiso serán desembolsados al beneficiario en función a la priorización determinada por el Directorio de la EBIH.
+
+**Artículo 8°.- (Responsabilidad)** El beneficiario es responsable por el uso adecuado de los recursos, para el cumplimiento de la finalidad del fideicomiso, así como de su resultado, en el marco de la normativa legal vigente que rige el manejo de recursos públicos.
+
+**Artículo 9°.- (Seguimiento y evaluacion)** La supervisión, seguimiento y evaluación del logro de la finalidad del Fideicomiso, de la ejecución e impacto de los Proyectos de Industrialización de Hidrocarburos, estarán a cargo del Ministerio de Hidrocarburos y Energía.
+
+**Artículo 10°.- (Autorización para traspaso y registro presupuestario)** 
+
+1. Se autoriza, al Ministerio de Economía y Finanzas Públicas a afectar el grupo presupuestario correspondiente para efectuar el traspaso presupuestario interinstitucional por el monto señalado en el Artículo 1 del presente Decreto Supremo a favor del Ministerio de Hidrocarburos y Energía para la constitución del fideicomiso.
+2. El Ministerio de Economía y Finanzas Públicas, Ministerio de Hidrocarburos y Energía, y EBIH deberán registrar, en sus respectivos presupuestos las operaciones y constitución relacionadas al fideicomiso, y de su resultado, en el marco de la normativa vigente que rige el manejo de recursos públicos.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Economía y Finanzas Públicas; y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de agosto del año dos mil diez.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Luís Fernando Vincenti Vargas, Antonia Rodríguez Medrano, Walter Juvenal Delgadillo Terceros MINISTRO DE OO. PP., SERVICIOS Y VIVIENDA E INTERINO DE PLANIFICACION DEL DESARROLLO, José Antonio Pimentel Castillo, Nilda Copa Condori, Carmen Trujillo Cárdenas, Nila Heredia Miranda, María Esther Udaeta Velásquez, Roberto Iván Aguilar Gómez, Nemecia Achacollo Tola, Carlos Romero Bonifaz MINISTRO DE AUTONOMÍA E INTERINO DE DEFENSA LEGAL DEL ESTADO, Nardy Suxo Iturry, Zulma Yugar Párraga.

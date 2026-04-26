@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 25010, 13 de abril de 1998
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+Considerando:
+
+* Que la política general del Estado de protección del medio ambiente y sus recursos naturales prevé la estrategia de protección, conservación y utilización racional de la biodiversidad. para lo cual se ejecutan diversas acciones destinadas a cumplir la finalidad señalada;
+* Que los criterios y conceptos que orientan y sustentan la conservación de la diversidad biológica, incluyen como uno de los componentes a los fósiles, conceptuados restos de organismos vivientes de épocas geológicas pasadas y que forman parte del patrimonio natural del país;
+* Que es deber del Gobierno nacional proteger y conservar el patrimonio paleontológico para las futuras generaciones;
+* Que el Gobierno promoverá actividades definidas, como el establecimiento de un Parque Nacional Paleontológico en Tarija, para cumplir el objetivo de proteger el patrimonio paleontológico de Bolivia;
+* Que la constitución de ese parque es necesaria para la protección, conservación e investigación de sus especímenes paleontológicos, en cumplimiento de las estrategias de conservación y preservación de la biodiversidad enmarcadas en el contexto de la Ley del Medio Ambiente;
+* Que la cooperación técnica financiera de organismo internacionales especializados, como la Organización de las Naciones Unidas para la Educación la Ciencia y la Cultura (UNESCO), será requerida por el Ministerio de Desarrollo Sostenible y Planificación, para el caso del Parque Nacional Paleontológico de Tarija;
+* Que la Dirección General de Biodiversidad. dentro la estructura del Ministerio de Desarrollo Sostenible y Planificación, es la dependencia con plena competencia para la realización de actividades relacionadas con la protección, conservación y utilización racional de la biodiversidad;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Constituyese el PARQUE NACIONAL PALEONTOLOGICO DE TARIJA. cuya ubicación y limites exactos serán definidos en base al estudio que se efectuará, conforme a la planificación de la dependencia gubernamental encargada de su realización.
+
+**Artículo 2°.-** Se encomienda al Viceministerio de Medio Ambiente y Desarrollo Sostenible ejercer, mediante la Dirección General de Biodiversidad. la tuición sobre el Parque Nacional Paleontológico de Tarija así como también la obtención de la cooperación científica, técnica y financiera de la Organización de las Naciones Unidas para la Educación la Ciencia y la Cultura (UNESCO), con destino a la planificación, ejecución y seguimiento del Parque Nacional Paleontológico de Tarija.
+
+---
+
+El señor Ministro de Estado en el despacho de Desarrollo Sostenible y Planificación queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los trece días del mes de abril de mil novecientos noventa y ocho años.
+  
+FDO. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada. Fernando Kieffer Guzmán, Edgar Millares Ardaya, Ana María Cortéz de Soriano, Ivo Kuljis Futchner. Tito Hoz de Vila Quiroga, Tonchy Marinkovic Uzqueda, Leopoldo López Cossio, Luis Freddy Conde López. Erick Reyes Villa Bacigalupi. Jorge Crespo Velasco, Javier Escobar Salguero.

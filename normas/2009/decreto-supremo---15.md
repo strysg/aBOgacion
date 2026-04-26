@@ -1,0 +1,37 @@
+# Bolivia: Decreto Supremo Nº 15, 19 de febrero de 2009
+
+Decreto Supremo Nº 0015
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL
+
+CONSIDERANDO:
+
+* Que siendo política del Gobierno el fortalecimiento de la participación activa del Estado Plurinacional Boliviano en la economía nacional, mediante Decretos Supremos [Nº 29318](https://www.lexivox.org//norms/BO-DS-29318.html) de 24 de octubre de 2007 y [Nº 29694](https://www.lexivox.org//norms/BO-DS-29694.html) de 3 de septiembre de 2008, se crearon las Empresas Públicas Nacionales Estratégicas, Boliviana de Aviación - BoA, para la explotación de servicios de transporte aéreo regular y no regular, interno e internacional, de pasajeros, carga y correo y Depósitos Aduaneros Bolivianos - DAB, para la prestación de los servicios logísticos, de almacenaje y de asistencia al control de tránsitos.
+* Que la [Ley Nº 1990](https://www.lexivox.org//norms/BO-L-1990.html) de 28 de julio de 1999, Ley General de Aduanas establece la constitución de garantías para los operadores de transporte internacional y depósitos aduaneros, y para la aplicación de los regímenes suspensivos en el pago de los tributos aduaneros de importación, pudiendo ser globales, para amparar las operaciones aduaneras de rutina o específicas, para casos especiales, mediante boletas bancarias, garantías hipotecarias o prendarias, o fianza de compañías de seguros.
+* Que los tributos aduaneros de importación recaudados por la Aduana Nacional, constituyen ingresos del Tesoro General de la Nación - TGN y son utilizados para financiar el sostenimiento del Estado Plurinacional Boliviano y el cumplimiento de los diversos servicios a su cargo, a favor de la población civil.
+* Que a fin de asegurar el uso eficaz y eficiente de los recursos públicos no corresponde que las Empresas Públicas Nacionales Estratégicas que operen en las áreas de transporte nacional e internacional y de servicios de depósito aduanero, constituyan garantías a favor del mismo Estado por operaciones aduaneras rutinarias o eventuales que realicen, debido al costo financiero que representa para el Estado la obtención de las boletas de garantía bancaria.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto determinar que las Empresas Públicas Nacionales Estratégicas, Boliviana de Aviación - BoA y Depósitos Aduaneros Bolivianos - DAB, quedan exentas de constituir garantías ante la Aduana Nacional - AN, a fin de asegurar el uso eficiente y eficaz de los recursos públicos.
+
+**Artículo 2°.- (Exención de garantias por BoA)** La Empresa Pública Nacional Estratégica Boliviana de Aviación - BoA, queda exenta de la constitución de garantías ante la AN, previa supervisión del Ministro de Obras Públicas, Servicios y Vivienda, por los siguientes conceptos:
+
+1. Admisión temporal con suspensión en el pago de tributos aduaneros de las aeronaves que requiera para el desarrollo de sus actividades.
+2. Registro y autorización de la Aduana Nacional para el desarrollo de operaciones de transporte internacional.
+
+**Artículo 3°.- (Exención de garantias por la operación de depósitos aduaneros)** La Empresa Pública Nacional Estratégica Depósitos Aduaneros Bolivianos - DAB, queda exenta de la constitución de la garantía establecida en el inciso c) de la Disposición Final Única del [Decreto Supremo Nº 29694](https://www.lexivox.org//norms/BO-DS-29694.html) de 3 de septiembre de 2008, para la concesión de depósitos aduaneros, previa supervisión del Ministro de Economía y Finanzas Públicas.
+
+**Artículo 4°.- (Responsabilidad por incumplimiento)** Con excepción de lo establecido en el presente Decreto Supremo, las Empresas Públicas Nacionales Estratégicas BoA y DAB, deberán cumplir la [Ley Nº 1990](https://www.lexivox.org//norms/BO-L-1990.html) de 28 de julio de 1999, Ley General de Aduanas y sus reglamentos, en sujeción a la responsabilidad por la función pública.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Economía y Finanzas Públicas y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de febrero del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta Noel Ricardo Aguirre Ledezma, Luis Alberto Arce Catacora, Oscar Coca Antezana, Susana Rivero Guzmán, Walter Juvenal Delgadillo Terceros, Luis Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callizaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo César Groux Canedo.

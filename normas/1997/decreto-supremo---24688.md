@@ -1,0 +1,45 @@
+# Bolivia: Decreto Supremo Nº 24688, 30 de junio de 1997
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Considerando:
+
+* Que mediante [Decreto Supremo Nº 24434](https://www.lexivox.org//norms/BO-DS-24434.html) el Poder Ejecutivo, dispuso la extinción de la Administración Autónoma de Almacenes Aduaneros, en el plazo de ochenta días a partir de la vigencia de dicho Decreto, disposición modificada por el [Decreto Supremo Nº 24555](https://www.lexivox.org//norms/BO-DS-24555.html), que establece ampliar por otros ochenta días el plazo para la liquidación y vigencia institucional de AADAA, para que durante el periodo de liquidación transfiera la totalidad de su patrimonio bienes, activos y pasivos al Tesoro General de la Nación.
+* Que la Administración Autónoma de Almacenes Aduaneros, durante el plazo establecido en el [Decreto Supremo Nº 24555](https://www.lexivox.org//norms/BO-DS-24555.html) ha continuado sus propias y especificas tareas de administración, habiéndose tomado medidas parciales de liquidación, siendo absolutamente necesario disponer normas y mecanismos para una efectiva liquidación de AADAA. sin que esta asuma responsabilidades de administración sino exclusivamente de liquidación.
+* Que en mérito a las disposiciones contenidas en los mencionados Decretos, la Administración de Servicios Portuarios Bolivia (ASP-B), como entidad pública descentralizada ejerce funciones y atribuciones de acuerdo a las especificaciones del [Decreto Supremo Nº 24434](https://www.lexivox.org//norms/BO-DS-24434.html), al vencimiento del plazo de ampliación establecido por el primer artículo del [Decreto Supremo Nº 24555](https://www.lexivox.org//norms/BO-DS-24555.html).
+* Que para la extinción y término de la vida institucional de AADAA, debe liquidársela cerrando previamente sus operaciones, dictándose normas relativas a la forma de liquidación, manteniendo la personalidad jurídica de AADAA mientras dure su liquidación y únicamente a efectos de su liquidación.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza el funcionamiento de AADAA en Liquidación, manteniéndose su personalidad jurídica y su status jurídico de empresa pública estatal únicamente a efectos de su liquidación.
+
+**Artículo 2°.-** AADAA en Liquidación, será representada legalmente por un Director Liquidador, que deberá ser designado mediante Resolución Ministerial, asumiendo, en todo lo relativo, las facultades y atribuciones que tenia el Director Ejecutivo de AADAA y las propias señaladas en el presente Decreto Supremo a efectos exclusivos de liquidación.
+
+**Artículo 3°.-** AADAA en Liquidación, entre otras, tendrá las siguientes atribuciones:
+
+1. Sanear la documentación correspondiente a efectos de transferirte al Tesoro General de la Nación todo su patrimonio, bienes, activos y pasivos con las formalidades legales requeridas, debiendo al efecto suscribir los documentos que sean necesarios.
+2. Presentar en un plazo no mayor de 60 días, a la Secretaría Nacional de Hacienda, el listado de los activos que no serán objeto de transferencia a ASP-B, a efectos de que la Secretaria Nacional de Hacienda tome la decisión de su transferencia.
+3. Contratar abogados, auditores, contadores, consultores, o empresas de consultoría o auditoria externa y personal en general necesarios para el proceso de liquidación.
+4. Continuar con la tramitación de lodos los procesos judiciales que se encuentren pendientes de resolución.
+5. Proceder al castigo contable y baja de activos que así resultaren por fraudes, dolo, abuso de confianza, pérdida y extravió, informando en lodos los casos sobre los responsables de estos actos al Ministerio de Hacienda y a la Contraloría General de la República, e iniciando los procesos que correspondan, contra los responsables. Transferir al Tesoro General de la Nación gradualmente los saldos de las cuentas corrientes de AADAA.
+6. Cancelar documentadamente las deudas y obligaciones que tenga pendientes.
+
+**Artículo 4°.-** El Ministerio de Hacienda queda facultado a dictar las normas reglamentarias al presente Decreto Supremo, necesarias para facilitar la liquidación, pudiendo considerar los proyectos que a ese fin eleve AADAA en Liquidación.
+
+**Artículo 5°.-** AADAA en Liquidación tramitará las modificaciones presupuestarías necesarias, a efectos de la aplicación del presente Decreto Supremo.
+
+**Artículo 6°.-** AADAA en Liquidación en el plazo máximo de 180 días a partir de la vigencia del presente Decreto Supremo, elevará su informe final de conclusión de su liquidación, con dictamen de auditoria externa, al Ministerio de Hacienda y a la Contraloría General de la República, a esta última a efectos del dictamen que corresponde.
+
+**Artículo 7°.-** Se derogan todas las disposiciones legales contrarías al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los treinta días del mes de junio de mil novecientos noventa y siete años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Victor Hugo Canelas Zannier. Alfonso Erwin Kreidler Guillaux. José Guillermo Justiniano Sandoval. René Oswaldo Blattmann Bauer. Fernando Candía Castillo, Franklin Anaya Vásquez. Moisés Jarmúsz Levy. Alberto Vargas Covarrubias, Mauricio Antezana Villegas. Alfonso Revollo Thenier. Jaime Villalobos Sanjinés.

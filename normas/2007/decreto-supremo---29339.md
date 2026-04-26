@@ -1,0 +1,58 @@
+# Bolivia: Decreto Supremo Nº 29339, 14 de noviembre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Plan Nacional de Desarrollo - PND, determina que el desarrollo productivo se basa en la seguridad y soberanía alimentaria entendida como el derecho de nuestro país a definir sus propias políticas y estrategias de producción, consumo e importación de alimentos básicos, garantizando así el acceso oportuno en cantidad y calidad de alimentos sanos, nutritivos y culturalmente apropiados a la población para “Vivir Bien”.
+* Que el patrón productivo implantado por el modelo neoliberal desestructuró las capacidades del Estado para intervenir en el proceso productivo, provocó el desincentivo a la producción de alimentos e impulsó a través de la inyección de recursos financieros, la producción de cultivos industriales destinada a mercados de exportación.
+* Que en el país se cultivan 2.4 millones de hectáreas, de las cuales 1.4 corresponden a la producción de alimentos y 1.1 a cultivos industriales empresariales, lo que hace imprescindible que las medidas y políticas públicas se reorienten para impulsar la seguridad y soberanía alimentaria y a potenciar a los productores de alimentos.
+* Que se requiere una mayor producción de alimentos para acompañar la oferta con el crecimiento previsible de la demanda generada por las mejoras de la economía nacional.
+* Que el Gobierno Nacional a través del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente viene implementando el nuevo modelo de desarrollo rural en la Revolución Rural, que implica un cambio en el patrón de desarrollo rural basado en la seguridad y soberanía alimentaria; en la recuperación del protagonismo del Estado en la planificación y en el apoyo al proceso productivo; en la diversificación de la producción; en la priorización del conjunto de los actores rurales, mediante intervenciones integrales en tres (3) niveles, el de las empresas públicas estratégicas como es la Empresa Pública de Apoyo a la Producción de Alimentos - EMAPA, el compuesto por empresas mixtas (público - privadas) en las que las organizaciones territoriales y organizaciones económicas conjuntamente con el Estado, participan en sociedad en la producción, transformación y comercialización de productos agroalimentarios y de apoyo a emprendimientos productivos privados y comunitarios vía transferencias directas no reembolsables y créditos productivos a través del Banco de Desarrollo Productivo.
+* Que el capítulo de alimentos y bebidas 49% en el Índice de Precios al Consumidor - IPC, lo que influye de manera determinante en las tasas de inflación.
+* Que existiendo en el país problemas de fluctuación y alza de precios en los productos alimenticios básicos, debido a la libre oferta y demanda en la comercialización, al control de la producción por intereses privados que generan especulación y ocultamiento de los productos, a la demanda de exportación y al contrabando, en el marco del nuevo rol del Estado, se hace necesario aprobar el Programa Productivo para la Seguridad y Soberanía Alimentaria, que comprende el fortalecimiento de la producción nacional, las importaciones controladas y temporales y el registro de exportaciones.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto aprobar el Programa Productivo para la Seguridad y Soberanía Alimentaria 2008, que contribuya a la estabilidad de precios de los alimentos básicos en el marco del nuevo modelo de desarrollo productivo establecido en el Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien” y asignar hasta $us58.994.538.- (CINCUENTA Y OCHO MILLONES novecientos NOVENTA Y CUATRO mil QUINIENTOS TREINTA Y OCHO 00/100 DÓLARES ESTADOUNIDENSES) para su implementación, provenientes del Tesoro General de la Nación - TGN y recursos de la Cooperación Internacional.
+
+**Artículo 2°.- (Fortalecimiento de la producción nacional)** El Programa Productivo para la Seguridad y Soberanía Alimentaria 2008, en aplicación del nuevo modelo de desarrollo productivo rural, intervendrá en tres (3) niveles:
+  
+- Primer nivel: Empresa de Apoyo a la Producción de Alimentos - EMAPA, apoyará la producción trigo, arroz, maíz, soya y proveerá insumos agropecuarios mediante una agrotienda, con una inversión de hasta $us42.469.612.- (CUARENTA Y DOS MILLONES CUATROCIENTOS SESENTA Y NUEVE mil SEISCIENTOS doce 00/100 DÓLARES ESTADOUNIDENSES).
+  
+- Segundo nivel: Semilla de Papa - SEPA, trabajará en apoyo a la producción y provisión de semilla de papa, con una inversión de hasta $us1.641.372.- (UN MILLÓN SEISCIENTOS CUARENTA Y UN mil TRESCIENTOS SETENTA Y DOS 00/100 DÓLARES ESTADOUNIDENSES).
+  
+- Tercer nivel - privado comunitario: Transferencias no Reembolsables, apoyo a la producción de maíz, choclo, papa, tomate y cebolla, con una inversión de hasta $us4.883.554.- (CUATRO MILLONES novecientos OCHENTA Y TRES mil QUINIENTOS CINCUENTA Y CUATRO 00/100 DÓLARES ESTADOUNIDENSES).
+  
+- Créditos productivos: Segunda fase del Programa de Repoblamiento Ganadero, con una inversión de hasta $us10.000.000.- (DIEZ MILLONES 00/100 DÓLARES ESTADOUNIDENSES).
+  
+El Banco de Desarrollo Productivo priorizará los financiamientos para la infraestructura productiva y producción de alimentos.
+
+**Artículo 3°.- (Diferimiento del gravamen arancelario)** Se difiere temporalmente a cero (0%) por ciento el Gravamen Arancelario, hasta el 31 de marzo de 2008, a la importación de los siguientes productos alimenticios estratégicos: arroz, azúcar, maíz, aceite de soja y sus fracciones, otros aceites, trigo y sus derivados, animales vivos, y carne y sus fracciones, de acuerdo al Anexo 1.
+
+**Artículo 4°.- (Importación y comercialización de alimentos)** 
+
+1. En caso de necesidad debido al alza de precios de productos alimenticios básicos, se autoriza a la Secretaría Ejecutiva PL - 480, a la Empresa de Apoyo a la Producción de Alimentos - EMAPA y a la Unidad de Proyectos Especiales - UPRE, la importación directa controlada, el acopio y la comercialización de alimentos, según sea el caso. Para este efecto, se autoriza la utilización de los recursos que dispongan.
+2. Los criterios de compra, acopio y comercialización, serán definidos por los Ministerios de Producción y Microempresa y de Desarrollo Rural, Agropecuario y Medio Ambiente mediante Resolución Ministerial, según corresponda.
+
+**Artículo 5°.- (Registro estadístico de exportaciones)** 
+
+1. Se dispone el registro obligatorio de los siguientes rubros alimenticios: arroz, maíz, trigo, carne de res, tomate, papa, azúcar y aceites, en el Registro de Exportaciones que habilitará el Ministerio de Producción y Microempresa.
+2. El Ministerio de Producción y Microempresa, mediante Resolución Ministerial, reglamentará el procedimiento de Registro Estadístico de Exportaciones en un plazo no mayor a treinta (30) días desde la publicación del presente Decreto Supremo.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+**Artículo abrogatorio Único.-** Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Relaciones Exteriores y Cultos, de la Presidencia, de Planificación del Desarrollo, de Hacienda, de Producción y Microempresa, y de Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de noviembre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, Maria Magdalena Cajias de la Vega , Nila Heredia Miranda MINISTRA DE SALUD Y DEPORTES E INTERINA DE JUSTICIA.

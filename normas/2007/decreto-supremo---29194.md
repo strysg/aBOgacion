@@ -1,0 +1,64 @@
+# Bolivia: Decreto Supremo Nº 29194, 18 de julio de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que de acuerdo al Artículo 158 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), el Estado tiene la obligación de defender el capital humano, asegurando la continuidad de los medios de subsistencia de la población.
+* Que el Artículo 33 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), establece que la Ley sólo dispone para lo venidero y no tiene efecto retroactivo, excepto en materia social cuando lo determine expresamente.
+* Que la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establece el número y atribuciones de los Ministros de Estado y otras normas relacionadas con la Organización del Poder Ejecutivo.
+* Que el Artículo 63 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996, de Pensiones, dispone que los Afiliados que hubieran realizado al menos sesenta (60) cotizaciones en el Sistema de Reparto, en forma previa la fecha de inicio, tienen derecho a la Compensación de Cotizaciones, a cargo del Tesoro General de la Nación - TGN.
+* Que el Artículo 68 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html), establece que la misma será reglamentada mediante Decreto Supremo.
+* Que el [Decreto Supremo Nº 26069](https://www.lexivox.org//norms/BO-DS-26069.html) de 9 de febrero de 2001, reglamenta los aspectos relacionados a la determinación de la Compensación de Cotizaciones, para la emisión y el pago de las prestaciones del Seguro Social Obligatorio de largo plazo, con Compensación de Cotizaciones.
+* Que el inciso b) del Artículo 18 del [Decreto Supremo Nº 26069](https://www.lexivox.org//norms/BO-DS-26069.html), dispone que para la actualización de salarios, anteriores o iguales al 31 de diciembre de 1986, se tomará en cuenta el valor que resulte mayor entre: i) La actualización que se efectúe como el resultado de dividir el valor del salario entre el indicador que establezca el Ministerio de Hacienda a través de Resolución Ministerial, multiplicado por el Tipo de Cambio Oficial de Venta del último día del mes anterior a la fecha de emisión del Certificado de Compensación de Cotizaciones, o ii) El valor del Salario Mínimo Nacional vigente a la fecha de la emisión del Certificado de Compensación de Cotizaciones.
+* Que el inciso b) del Artículo 11 del [Decreto Supremo Nº 27542](https://www.lexivox.org//norms/BO-DS-27542.html) de 31 de mayo de 2004, referente a la concreción de los pagos establecidos en dicha norma, dispone la presentación ante el Servicio Nacional del Sistema de Reparto - SENASIR, de una carta notariada, elaborada según modelo, en la cual el asegurado manifieste que acepta de manera voluntaria, individual e irrevocable el Pago Mínimo Mensual o Pago Único, según corresponda, como pago definitivo e irrevocable en lugar de la Compensación de Cotizaciones consignada en el Documento Comparativo.
+* Que el Informe Técnico 03/2007 de 27 de marzo de 2007, del Viceministerio de Pensiones y Servicios Financieros dependiente del Ministerio de Hacienda, ha establecido un referente económico en la gestión 1987 por ser el primer año de estabilidad económica posterior al período hiperinflacionario, para permitir establecer el monto de la Compensación de Cotizaciones, en cuyo cálculo intervengan salarios cotizables correspondientes a períodos desde enero de 1982 a diciembre de 1986.
+* Que se ha evidenciado la existencia de asegurados que vienen enfrentando dificultades para acceder a la jubilación en el Seguro Social Obligatorio de largo plazo a través de la Compensación de Cotizaciones, por lo que es necesario complementar y adecuar la reglamentación de la Compensación de Cotizaciones y de los pagos sustitutivos.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 17 de julio de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Hacienda.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto complementar y modificar la reglamentación concerniente al Sistema de Reparto, Compensación de Cotizaciones, Pago Mínimo Mensual y Pago Único.
+
+**Artículo 2°.- (Salario cotizable para la compensación de cotizaciones)** Para determinar el monto de la Compensación de Cotizaciones, cuando en su cálculo se utilice el Salario Cotizable comprendido en el período desde enero de 1982 hasta diciembre de 1986, el Servicio Nacional del Sistema de Reparto - SENASIR, deberá proceder de la siguiente forma:
+
+1. Cálculo referencial I. Se debe realizar un primer cálculo referencial del monto de la Compensación de Cotizaciones actualizando los salarios cotizables, aplicando lo dispuesto en el inciso b) del Artículo 18 del [Decreto Supremo Nº 26069](https://www.lexivox.org//norms/BO-DS-26069.html) de 9 de febrero de 2001 y su reglamentación.
+2. Cálculo referencial II. Se debe realizar un segundo cálculo referencial del monto de la Compensación de Cotizaciones, utilizando como único salario cotizable el monto de Bs356, 82.- (TRESCIENTOS CINCUENTA Y SEIS 82/100 BOLIVIANOS) y para su actualización al tipo de cambio inicial de Bs1, 98.- (UN 98/100 BOLIVIANOS), de acuerdo a lo siguiente:
+     
+   ![SCA=\frac{T_2}{T_1} \cdot Mo](data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+     
+   Donde:
+
+   |  |  |
+   | --- | --- |
+   | SCA | Salario Cotizable Actualizado |
+   | Mo | Bs356, 82.- |
+   | T1 | Tipo de cambio inicial Bs1, 98.- |
+   | T2 | Tipo de cambio del dólar americano a la fecha del cálculo de la Compensación de Cotizaciones. |
+3. El SENASIR tomará como cifra de la Compensación de Cotizaciones, el monto que resultare más alto de entre los dos calculados, según los incisos a) y b) precedentes.
+
+**Artículo 3°.- (Solicitud de recálculo de compensación de cotizaciones)** Los Asegurados podrán solicitar de manera individual, libre, expresa y voluntaria el recálculo de su Compensación de Cotizaciones, independientemente del estado del trámite y de que el mismo ya hubiere sido concluido con la otorgación de un Certificado de Compensación de Cotizaciones, Pago Mínimo Mensual o Pago Único.
+  
+La Superintendencia de Pensiones, Valores y Seguros deberá coordinar con el SENASIR la emisión de la normativa necesaria para adecuar los casos de Compensaciones de Cotizaciones en curso de pago, que hubieren sido recalculadas de acuerdo a lo dispuesto por la presente disposición.
+
+**Artículo 4°.- (Elección de compensación de cotizaciones)** Los asegurados que en su Documento Comparativo tengan calculada una Compensación de Cotizaciones con un monto mayor a un Pago Mínimo Mensual y que hubieren elegido con Carta Notariada el Pago Mínimo Mensual o el Pago Único en lugar de la Compensación de Cotizaciones, podrán solicitar al SENASIR, de manera individual, expresa y voluntaria, deje sin efecto la elección contenida en la referida Carta Notariada para acceder, si así el conviniere, mediante elección en un nuevo Documento Comparativo, a la Compensación de Cotizaciones.
+  
+El acceso a la Compensación de Cotizaciones, según lo descrito en el párrafo precedente, implica la renuncia al Pago Mínimo Mensual. En este caso, el Pago Mínimo Mensual, se pagará hasta el mes en que el beneficiario hubiere efectuado la elección de Compensación de Cotizaciones.
+  
+Los asegurados que hubieren elegido el Pago Único, en lugar de una Compensación de Cotizaciones, accederán a lo dispuesto en este Artículo, previa devolución total del monto percibido como Pago Único.
+  
+El SENASIR deberá elaborar la reglamentación correspondiente, a efectos del cumplimiento del presente Artículo.
+
+**Artículo 5°.- (Vigencia de normas)** Se derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno en la ciudad de La Paz, a los dieciocho días del mes de julio del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, Maria Magdalena Cajías de la Vega, Nila Heredia Miranda.

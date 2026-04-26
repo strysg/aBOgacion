@@ -1,0 +1,201 @@
+# Bolivia: Decreto Supremo Nº 2993, 23 de noviembre de 2016
+
+[Decreto Supremo Nº 2993](https://www.lexivox.org//norms/BO-DS-N2993.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 323 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que la Política Fiscal se basa en los principios de capacidad económica, igualdad, progresividad, proporcionalidad, transparencia, universalidad, control, sencillez administrativa y capacidad recaudatoria.
+* Que la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, establece el régimen legal del sistema tributario aplicable a las personas naturales y jurídicas, sometidas a la potestad tributaria del Estado, en la imposición y recaudación de tributos.
+* Que la [Ley Nº 812](https://www.lexivox.org//norms/BO-L-N812.html), de 30 de junio de 2016, realiza modificaciones a la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), en cuanto a la deuda tributaria, notificaciones, arrepentimiento eficaz y reducción de sanciones en materia de ilícitos tributarios.
+* Que el [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), regula su aplicación operativa por las administraciones tributarias del nivel central del Estado y de las entidades territoriales autónomas.
+* Que para la aplicación de las modificaciones a la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), efectuadas mediante la [Ley Nº 812](https://www.lexivox.org//norms/BO-L-N812.html), es necesario adecuar el Reglamento al Código Tributario Boliviano contenido en el [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto realizar modificaciones al [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano.
+
+**Artículo 2°.- (Modificaciones)** 
+
+1. Se modifica el Artículo 8 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 8.- (DETERMINACIÓN Y COMPOSICIÓN DE LA DEUDA TRIBUTARIA). La deuda tributaria se configura al día siguiente de la fecha de vencimiento del plazo para el pago de la obligación tributaria, sin necesidad de actuación alguna de la Administración Tributaria y debe incluir su actualización en Unidades de Fomento de Vivienda - UFV’s e intereses de acuerdo a lo dispuesto en el Artículo 47 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html).
+   >   
+   > El período de la mora para el pago de la deuda tributaria, se computará a partir del día siguiente a la fecha de vencimiento del plazo para el pago de la obligación tributaria, hasta el día de pago.
+   >   
+   > La deuda tributaria expresada en UFV’s, al momento de hacerse efectivo el pago deberá ser convertida en moneda nacional, utilizando la UFV de la fecha de pago.
+   >   
+   > A efectos del cálculo de los montos indebidamente devueltos, se considerará el mantenimiento de valor e intereses, desde la fecha de la devolución indebida hasta la fecha de su restitución, sin perjuicio de la aplicación de la multa por contravención de omisión de pago que corresponda.”
+2. Se modifica el Artículo 9 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 9.- (INTERESES). El importe del interés (I) generado en todo el período de la mora, será resultado de la sumatoria de los intereses calculados con la tasa que corresponda a cada uno de los períodos de tiempo establecidos en el Artículo 47 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), y se determinarán de acuerdo al cálculo establecido en el Anexo 1 que forma parte íntegra e indivisible del presente Reglamento.”
+3. Se modifica el Parágrafo I del Artículo 10 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 10.- (PAGOS PARCIALES Y PAGOS A CUENTA).
+   >   
+   > I. Los pagos parciales de la deuda tributaria, incluidas las cuotas pagadas en facilidades de pago incumplidas, serán convertidos a valor presente a la fecha de vencimiento del plazo de pago de la obligación tributaria, de acuerdo a lo establecido en el Anexo 2 del presente Decreto Supremo y se deducirán como pago a cuenta de dicha deuda.”
+4. Se modifica el Artículo 12 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 12.- (NOTIFICACIÓN ELECTRÓNICA).
+   >   
+   > I. Para efectos de lo dispuesto en el Artículo 83 Bis de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), la Vista de Cargo, Auto Inicial de Sumario, Resolución Determinativa, Resolución Sancionatoria, proveído que dé inicio a la ejecución tributaria y cualquier Resolución Definitiva, podrán ser notificados por correo electrónico u otros medios electrónicos, en una dirección electrónica fijada por el contribuyente o tercero responsable o asignada por la Administración Tributaria.
+   >   
+   > La notificación electrónica se tendrá por efectuada en los siguientes casos, lo que ocurra primero:
+   >   
+   > En la fecha en que el contribuyente o tercero responsable proceda a la apertura del documento enviado;
+   >   
+   > A los cinco (5) días posteriores a:
+   >   
+   > La fecha de recepción de la notificación en el correo electrónico; o
+   >   
+   > La fecha de envío al medio electrónico implementado por la Administración Tributaria.
+   >   
+   > El soporte físico de la apertura del documento notificado o de la constancia de recepción en el correo electrónico o envío al medio electrónico, según corresponda, deberá ser adjuntado al expediente, consignando la firma, nombre y cargo del servidor público responsable de la notificación.
+   >   
+   > Cuando no sea posible la notificación por medios electrónicos, la Administración Tributaria procederá a la notificación del sujeto pasivo o tercero responsable de acuerdo al procedimiento establecido en los Artículos 84, 85 y 86 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), según corresponda.
+   >   
+   > II. La Administración Tributaria, a través de medios electrónicos, teléfono fijo o móvil, proporcionará a los contribuyentes o terceros responsables información referida a fechas de vencimiento, existencia de actuaciones administrativas, alertas, recordatorios y cualquier otra de naturaleza tributaria. De igual manera, deberá habilitar los medios para que el contribuyente efectúe consultas, reclamos, denuncias, trámites administrativos y otros por los mismos mecanismos.
+   >   
+   > III. A efectos de la aplicación del presente Artículo, la Administración Tributaria emitirá norma administrativa reglamentaria.”
+5. Se modifica el Parágrafo I del Artículo 27 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 27.- (RECTIFICATORIAS A FAVOR DEL FISCO).
+   >   
+   > I. El contribuyente o tercero responsable podrá rectificar su Declaración Jurada con saldo a favor del fisco en cualquier momento.
+   >   
+   > Las Declaraciones Juradas rectificatorias presentadas una vez iniciada la fiscalización o verificación, no tendrán efecto en la determinación de oficio. Los pagos a que den lugar estas declaraciones, serán considerados como pagos a cuenta de la deuda a determinarse por la Administración Tributaria.
+   >   
+   > La presentación de la Declaración Jurada Rectificatoria no suspende el proceso de ejecución iniciado por la Declaración Jurada original o la última presentada.
+   >   
+   > Cuando la Declaración Jurada Rectificatoria sea por un importe mayor al tributo determinado en la Declaración Jurada Original o la última presentada, la Administración Tributaria procederá a su ejecución únicamente por la diferencia del impuesto determinado.”
+6. Se modifican los Parágrafos I, II y IV del Artículo 28 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 28.- (RECTIFICATORIAS A FAVOR DEL CONTRIBUYENTE).
+   >   
+   > I. La Declaración Jurada Rectificatoria que incremente saldos a favor del contribuyente podrá ser efectuada por una sola vez, por cada impuesto y período fiscal.
+   >   
+   > II. Esta rectificatoria, conforme lo dispuesto en el párrafo segundo del Parágrafo II del Artículo 78 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), deberá ser aprobada por la Administración Tributaria antes de su presentación. La aprobación será resultado de la verificación de los documentos que respalden la determinación del tributo, conforme se establezca en la reglamentación que emita la Administración Tributaria.
+   >   
+   > IV. La solicitud de rectificación de la Declaración Jurada podrá ser presentada hasta antes de que concluya el período de prescripción, o hasta antes del inicio de la Fiscalización o Verificación, lo que ocurra primero.”
+7. Se modifica el Artículo 38 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 38.- (REDUCCIÓN DE SANCIONES). La reducción de sanciones por la contravención de omisión de pago establecida en el Artículo 156 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), procederá previo pago o constitución de facilidades de pago de la deuda tributaria.
+   >   
+   > De efectuarse el pago de la deuda tributaria, la Administración Tributaria emitirá la Resolución Determinativa que declare pagada la misma. De no estar pagadas las sanciones por contravenciones tributarias, la resolución establecerá la existencia de las mismas e impondrá las sanciones que correspondan.
+   >   
+   > De solicitarse facilidades de pago por la deuda tributaria y/o multas, la Administración Tributaria emitirá la Resolución Administrativa aceptando el beneficio, si corresponde. El incumplimiento de la facilidad de pago, dará lugar a la pérdida del beneficio de la reducción de sanción y a la ejecución de la Resolución Administrativa que acepta las facilidades de pago.
+   >   
+   > Cuando exista una pluralidad de deudas, el pago de la deuda tributaria por uno o más períodos y/o tributos determinados, dará lugar a la reducción de sanciones respecto al o los tributos pagados.”
+8. Se modifica el Parágrafo I del Artículo 39 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 39.- (ARREPENTIMIENTO EFICAZ).
+   >   
+   > I. La extinción automática de la sanción pecuniaria por arrepentimiento eficaz, previsto en el Artículo 157 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), procederá en los siguientes casos:
+   >   
+   > La deuda tributaria en proceso de fiscalización, verificación o con Vista de Cargo, siempre que se realice el pago o se acoja a facilidades de pago, por período fiscal y/o tributo, hasta el décimo día de notificada la Vista de Cargo;
+   >   
+   > La deuda tributaria determinada por el contribuyente en la declaración jurada, siempre que realice el pago o se acoja a facilidades de pago, hasta el décimo día de notificado el Auto Inicial de Sumario Contravencional o hasta la notificación del proveído que dé inicio a la ejecución tributaria, lo que ocurra primero, de acuerdo a la norma administrativa reglamentaria.
+   >   
+   > La Administración Tributaria podrá ejercer posteriormente su facultad de fiscalización a la declaración jurada, pudiendo establecer diferencias a favor del fisco, en cuyo caso, la sanción por contravención de omisión de pago aplicable, sólo será establecida respecto al monto del tributo por determinarse de oficio;
+   >   
+   > En la Declaración Jurada con errores aritméticos que ocasionen diferencias a favor del fisco establecidas en la Resolución Determinativa, la contravención por omisión de pago se establecerá por la diferencia. De pagarse la deuda tributaria hasta el décimo día de notificado el Auto Inicial, el contribuyente o tercero responsable se beneficiará con el arrepentimiento eficaz.”
+9. Se modifica el Artículo 42 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+   > “ ARTÍCULO 42.- (OMISIÓN DE PAGO). La multa por la contravención de omisión de pago a la que se refiere el Artículo 165 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), será determinada en el importe equivalente al tributo omitido actualizado en UFV’s, por tributo y/o período pendiente de pago al vencimiento del décimo día de notificada la Vista de Cargo, al vencimiento del décimo día de notificado el Auto Inicial de Sumario Contravencional o al inicio de la ejecución tributaria de las declaraciones juradas, lo que ocurra primero.”
+10. Se modifica el Artículo 45 del [Decreto Supremo Nº 27310](https://www.lexivox.org//norms/BO-DS-27310.html), de 9 de enero de 2004, que reglamenta la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, con el siguiente texto:
+    > “ ARTÍCULO 45.- (DEUDA ADUANERA).
+    >   
+    > I. La deuda aduanera se genera al día siguiente del vencimiento del plazo para el cumplimiento de la obligación tributaria aduanera o de la obligación de pago en aduanas.
+    >   
+    > La deuda aduanera se determinará con los siguientes componentes:
+    >   
+    > El monto de los tributos aduaneros expresados en UFV’s;
+    >   
+    > El interés definido en el Artículo 9 del presente Reglamento.
+    >   
+    > II. Las disposiciones del Capítulo II del presente Reglamento, serán aplicadas en materia aduanera en cuanto sean compatibles.”
+
+      
+
+    # Disposiciones adicionales
+
+**Artículo adicional 1°.-** Conforme a lo establecido en la Disposición Final Primera de la [Ley Nº 812](https://www.lexivox.org//norms/BO-L-N812.html), de 30 de junio de 2016, las deudas tributarias con el Servicio de Impuestos Nacionales y la Aduana Nacional, existentes con anterioridad a la vigencia de la citada Ley, que no sean regularizadas hasta el 31 de diciembre de 2016 o se encuentren excluidas por la Disposición Transitoria Primera, serán calculadas de acuerdo a lo previsto en el Artículo 47 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), modificado por la [Ley Nº 812](https://www.lexivox.org//norms/BO-L-N812.html).
+
+**Artículo adicional 2°.-** A efecto de lo establecido en el Artículo 59 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), modificado por la [Ley Nº 812](https://www.lexivox.org//norms/BO-L-N812.html), y lo dispuesto en los Artículos 45, 45 bis y 45 ter de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-N843.html) (Texto Ordenado Vigente), se consideran países o regiones de baja o nula tributación a aquellos que se encuentren identificados como países o regiones no cooperantes de acuerdo a la Organización para la Cooperación y el Desarrollo Económico - OCDE y aquellos que estén listados como tales en cuatro o más legislaciones de Sud América.
+  
+Las Administraciones Tributarias, mediante norma administrativa establecerán y actualizarán el listado de los países o regiones considerados de baja o nula tributación a efectos del control y fiscalización de los precios de transferencia.
+
+**Artículo adicional 3°.-** Las Administraciones Tributarias de las entidades territoriales autónomas, podrán adecuar sus sistemas informáticos para la aplicación de la presente norma.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de noviembre del año dos mil dieciséis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Félix Cesar Navarro Miranda, Virginia Velasco Condori, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado MINISTRO DE AUTONOMÍAS E INTERINO DE DEFENSA Y DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA, Lenny Tatiana Valdivia Bautista MINISTRA DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCIÓN E INTERINA DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.
+
+# Anexo 1 Cálculo de la deuda tributaria
+
+El interés de la deuda tributaria se calculará de acuerdo a la siguiente metodología:
+Interés de la deuda tributaria para los primeros cuatro años de mora
+![I=TO\left [\left (1+\frac{4\%}{360} \right )^{n_1}-1 \right ]](data:image/gif;base64,R0lGODlh1gAuAOMAAP///wAAAO7u7nZ2diIiIlRUVKqqqjIyMpiYmLq6utzc3BAQEGZmZkRERMzMzIiIiCH5BAEAAAAALAAAAADWAC4AAAT+EMhJq7046827/2CYCc+QIIwirmzrdk4gB4OmIG/+KQ9nAAEHYIDTdRqzgMDI/DgOgqitsWyGEoaExSGslDiOhqTQTTC01kpUoEy7L0+OglB9cxI1B6NuIGAYPRoPgQsUJnYVbYh2cRsHP4tbNRIHXQ9YBgZkGQRdGA1CCQUKaIeRQHWnTY0ZAwWqFQQME4qBAA6TGA4LqRViAAIFRUNokYqwTKwXCrzIEggFsxLNAMO/GgW5H6bGvc4uyhYN2qoJetIAmwCQDJ4ZCgEqHwkN7afH3y/hFDHeiwI4GKDjAUwFHg8FXuXrgG8hi30TEn4LJBCDgF9YisFp6NACx47+ICACC+IsgbyKF+wl6MFFAwFbID36iwnjAIYHhZABnICywkpK8oZdGOCHpkyjIkQ2UAjLwICnRA8McHeR1gShW+IhpfBxawaRAbA6q2dhlNVnGxaIpdnVKxybFhJodUiWggGYB4I6Qre1rdsKEB8EcKgnwIIUEqpSONhSA4OiXo8JIBqgAKQcCBZkG7BgwdMChyvwIIJC3tsLBSBbBAXLZNwsHBAMXnjRHa1eB5jqKFDH84QThvZMELDA9gSIBK5ZUEAkgMavphfKNR6JueznEhqGZaLgMrxiDoqNs/BANT+4FXxvcN4BAXZn8C5/Y3/091wd8mUvrsIA/eKPEAX+ABMG9G3gHkhsrKVKgVylwpkdBfhn33sGkLSFhNkpyNV7FhwIkoAOMXgbBQfwZcUCA0rQQE4WDHDfeRYkyIGIGHjYEQ0hvidZAPJZwEBCQAaZjQ0WJqIcieYdh2F8M3JYgY0OhbYQjahMUOFMOQh2ARvkSACPgvswuR6HPwJ5QG5AdglEEmy26WYSGUgJTgN01mlnirToWMdjdtBJoJoNYKjkctuN2Z6TsOA4pZ4TyLJBmUKmqQGIF/jpBR1fYSijobEhuiCeCzIKgJhpxEAdMAto5AqWtwhK6aSePhOrMRoao+dkBwTQQK0rPPCYrgNENxwgCJRwKoweqZnYAEj+SHWsrAjy+M1kzU6VCKt/DWqBo0YY8OwpMczqjF/ZSgBRhPkgUKwwFdxVrCfuXqJBhcKyhW25gc2GDBGJFQoAIGMoRM8ElWSgpVvk4iuoXPdawcA1mkmQAHoKyNPAZdBkgC7CDf8FERviurGpVBcUmQCLFqgXWcduiUSAsqcwS4u6d0ECj2n9LENlTAlnKxJR+RjwYxXwoHPxLffFUG81+q5c7gYiKb3QLkLEMExmSOP84gR1cfy0BiIB8JJDoI1UzJXweMJwjEU6/bUugkrQBzLqDKGVtHK3UaABKE8AdLY9exz3NLxyh3c6sxVgS3kqDvOAbnmWG3jLg6/TNyJdA1RBXCBzEIzGwEB1WDnPLHsVNiWFM1HC4/Lp4atGNXMzXHFPT2766HMs/XYDoCJl+1anSzz6XwYc+dfvSAUvga9v82P88aUDnwTMAAzS/KhUlIvEDNFf7/33GEQAADs=)
+Donde:
+
+|  |  |
+| --- | --- |
+| TO | es el Tributo Omitido expresados en UFVs |
+| n1 | número de días de mora transcurridos a partir del día siguiente del vencimiento del plazo para el cumplimiento de la obligación tributaria hasta la fecha de pago, que no excederá el último día del cuarto año. |
+
+Interés de la deuda tributaria para el quinto, sexto y séptimo año de mora
+![I=TO\left [\left (1+\frac{4\%}{360} \right )^{n_1}+\left (1+\frac{6\%}{360} \right )^{n_2}-2 \right ]](data:image/gif;base64,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)
+Donde:
+
+|  |  |
+| --- | --- |
+| TO | es el Tributo Omitido expresados en UFVs |
+| n1 | número de días transcurridos a partir del día siguiente del vencimiento del plazo para el cumplimiento de la obligación tributaria hasta el último día del cuarto año de mora. |
+| n2 | número de días transcurridos a partir del primer día del quinto año de mora, hasta la fecha de pago, que no excederá el último día del séptimo año. |
+
+Interés de la deuda tributaria a partir del octavo año de mora
+![I=TO\left [\left (1+\frac{4\%}{360} \right )^{n_1}+\left (1+\frac{6\%}{360} \right )^{n_2}+\left (1+\frac{10\%}{360} \right )^{n_3}-3 \right ]](data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Donde:
+
+|  |  |
+| --- | --- |
+| TO | es el Tributo Omitido expresados en UFVs |
+| n1 | número de días transcurridos a partir del día siguiente del vencimiento del plazo para el cumplimiento de la obligación tributaria hasta el último día del cuarto año de mora. |
+| n2 | número de días transcurridos a partir del primer día del quinto año de mora, hasta el último día del séptimo año. |
+| n3 | número de días transcurridos a partir del primer día del octavo año de mora hasta la fecha de pago. |
+
+Cada período anual citado precedentemente se computará a partir del día siguiente de vencimiento del plazo de pago de la obligación tributaria o del día equivalente del año que corresponda.
+
+# Anexo 2 Cálculo del valor presente para la deuda tributaria (VP)
+
+El valor presente para la deuda tributaria se calculará de acuerdo a la siguiente metodología:
+Valor presente para deudas tributarias de hasta 4 años de mora
+![VP=\frac{PP}{\left(1+\frac{4\%}{360} \right)^{n_1}}](data:image/gif;base64,R0lGODlhjAAuAOMAAP///wAAAIiIiCIiImZmZszMzJiYmKqqqu7u7lRUVLq6unZ2djIyMhAQEERERNzc3CH5BAEAAAAALAAAAACMAC4AAAT+EMhJq704683zGsEiEk5RfeFYdmzrvnBsOQmlBE9F27js/8DgJWCgIAKCCtGIFDqfUM0tNykEFDyqxIqNer/CRaNCYJzGlDJ4zYYxahMBA1F5U+T0tn6PCTgEgAJdSn+Bg3yIfDcmUgGMiZCJYhyTkZZ8A3AamZedbEcHG6CepFELDH6hGKepfAIgBI8ABgEDqhMoIgsksqW+HQIBFgiaOsVTv8kcBwF5cRlLE0dJytUXVrIKvRPIVVfW4Ey3CNQXlRNq4eoAIc8ZdnFz6+rwB9sUfoGCGQQJ/v8AF8zbk8AMuUb3nARYyLChw4cQI0qcSLFiRFxjBGo4N3AgLQP+CSdwYtEPoEmNHVuQW6DAAAEtGG6UwzAqpY8CBsbNzBDKEYAFRTQgMLMRlYNbeh6E9ALHAQABOQ0wCCrtUBWnABIwUkDAqroHxdrIAVCAAIAHWApgPYFUAiAJaCSwTOnAWZsCB8w8MPsgBwOYFOrqMKEgAVq5XsEZQKnHwFC5ZJ9StVBYhwRiVOcOHAAYAIIVUIo8vnzW6QHHFzh30LxOAdEJD4B+41Cg84XDoyfUjT3LHOOYDmLNI/B7wuwNBhJbMABITDkDRQSEaitBQVybGWz1UV4huYsCr4m5nX7hiF3sFnwO4U7BO4sCCZpkzcN7MoUG7G0esc0uvwT3MCDrcMhp54lkH3qwNbNdBwCywcBOCG4hzIIXlOQPA2/8Uxw7Fj1UB4QRPqDgegz6J8QAB0a4H4XImXjAAQKY5RZzORQAFYgANEBdhDkqd5wGDUIjgQNFzCWAQERBNwR/CP5RAQILOBAAAwssNYuJVPyBwABVwaGWBQVcx+MEBoQFgz0qzaEAkYs9BccDYs6y1pjSxLnGAUc9hcZiMUogogUMmGgTATuukYB0RCkwgABeivkAl3QOMycYUv03AHjVDbBmdZN2FekFMLbRklw1JInkjBSU9SkGAlgZBHO70FHWkdUBxRgCMq6qKwcRAAA7)
+Donde:
+
+|  |  |
+| --- | --- |
+| PP | Pago Parcial |
+| n1 | Número de días de mora transcurridos a partir de la fecha de vencimiento del plazo para el cumplimiento de la obligación tributaria hasta la fecha de pago, que no excederá el cuarto año. |
+
+Valor presente para deudas tributarias de hasta 7 años de mora:
+![VP=\frac{PP}{\left(1+\frac{4\%}{360} \right)^{n_1}+\left(1+\frac{6\%}{360} \right)^{n_2}-1}](data:image/gif;base64,R0lGODlhFwEuAOMAAP///wAAAIiIiCIiImZmZszMzJiYmKqqqu7u7lRUVLq6unZ2djIyMhAQEERERNzc3CH5BAEAAAAALAAAAAAXAS4AAAT+EMhJq7046827/2BILUOwnIRTVKSJqmIsz3Rt33iuU05CKYFHpfcL7o7IpHLJTAYMFERAUHlGp82sdsvt2oDCSSGgKIYl47J3zW67l4tGhcBgySn0t37P728YPhMCDAgVgBSDhX6LjI1dAQ4CkgJqVZGTlY6am5xfASsaQKCdpKWmHnEcqaesra4DgRqwrrS1m1IHG7i2vL16CwyQuRjAwr5LAiUEowAGAQPDEy0nCynMx9jZNgIBFgixQ+Bg2uTlIgcBioIZVhNSVObx8hhjzArXE+NiZPP9/rsSEMC7sGpCHn8I5ZlYl+GQIEIJI5ZzeAAfBUiTKGUgkKCjx4/+CySKdJSgjsBQn5QEWMmypcuXMGPKnEmzps2bOHPq3MmzJ05pckJqKDiyaDZnBixSmOWB48enQrMJXKDAAIEzRitMrXrVC5CBGADKK2Ag2kkOuVIugEKOrFmwGtKuWOsFQZ2hwRxEa/JAKZJADgAIKGuAAVt3mcQEBpAAlAICiXH0bTJYgJDAgw8UPoz4QoHFjSWUhVz0ATgmgwAUIADgQZnPBPdKkCThjgSqR0w3wS1gwerWrxdbWCBbMLw7Bag8GFDUgTomBQ7UecD6gRAGWHk8BwBDQQLXtyPbcM4EAfOA1Ftfz659yArv4CV4H2kgahMDdm+rFsy5wnweASX+cBhuOtTXhAIOGGAgACGtMFgopy32zWEIELAdQgOwhwAMBQKQX0CtBabZhQBk2AGBOZioFYc3CHDHgoU8ICJ+GKiowQNQiCfDhn71ocBdEzywFj8cFMDeBeB9OIFzQjZDkH0YILhMkUda8GMFQjqjYwVGonWXAudJwGRI/UkDpQUPNDAAUzVkSeQmBJwpwZsaGLAlBQZIEsdACgqWS3EAKGDbDXZ2ECcGdGZQ6AYFfBlmnwL8GeWgXCTaCDSI3jnBoh406k4gkQIAqBQkysCpLIACYOkFpzYkmlDfzCbpBaSuseoiKV1wawWtalBAAlgwpkiTZdamKQi96qrUrnj+HqsaAb1NkMCwZGbQgLNHMLuHFFVqKxq23mQyYo3Fmnost5l2kCwHCIhLI7m2gsvGA+mky8G6OzAAFw34Blmvrs72m4O+8XIyBjs6OtURA4B4JGdPhuwLgsIlNdyRnAfbawHFDINkAcQR0/CZAySXXLLEc8q7Br2letuMyjIMUG4MArf278cBwxyDzAXfYgTA6jp7wAECsDZbnkIklycGDaRK87k/4xw0WkQbzZ9lqlVmrdNLuPzGtRrX6Ww33EHBW0h39flxlU93ADbQ9x5LdoIMlhFt2uVGXanOXUSi1QIOBMCAbxvU3JqYApiHWCCwcUlpDYb7HQXgghMuNgfhYUSieED/Ne54FwhQPniPehhw2jmkR0EIggqGJEAgaVpggHA3VKTu6SHY3oFd7SZo4OsSxC477VmF9bgSB+gl2IsLFB082RQwwHcNCByPRPK5uPiq8zZfIH3xHBDA9REJROoo8KpRulwb4m9RvnTyDYB+AY+vD74uxCNRmGgDeBroAAiSD/FIw4YNMWF/zeifowIYqPwR8H5xQVkOqnIbH6QNbUejwG/cQLQlUJBBFnwVAO7yIA1aDYIaEEDqINcbCz0rWoFai30qtAcVLiFP1SjEamCoABlq5YQoDKIQcxABADs=)
+Donde:
+
+|  |  |
+| --- | --- |
+| PP | Pago Parcial |
+| n1 | Número de días de mora transcurridos a partir de la fecha de vencimiento del plazo para el cumplimiento de la obligación tributaria hasta el último día del cuarto año de mora. |
+| n2 | Número de días transcurridos a partir del primer día del quinto año de mora, hasta la fecha de pago, que no excederá el séptimo año. |
+
+Valor presente para deudas tributarias de 8 años de mora en adelante:
+![VP=\frac{PP}{\left(1+\frac{4\%}{360} \right)^{n_1}+\left(1+\frac{6\%}{360} \right)^{n_2}+\left(1+\frac{10\%}{360} \right)^{n_3}-2}](data:image/gif;base64,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)
+Donde:
+
+|  |  |
+| --- | --- |
+| PP | Pago parcial |
+| n1 | Número de días de mora transcurridos a partir de la fecha de vencimiento del plazo para el cumplimiento de la obligación tributaria hasta el último día del cuarto año de mora. |
+| n2 | Número de días transcurridos a partir del primer día del quinto año de mora, hasta el último día del séptimo año. |
+| n3 | Número de días transcurridos a partir del primer día del octavo año de mora hasta la fecha de pago. |
+
+Cada período anual citado precedentemente se computará a partir del día siguiente de vencimiento del plazo de pago de la obligación tributaria o del día equivalente del año que corresponda.

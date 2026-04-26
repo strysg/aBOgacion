@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 23927, 23 de diciembre de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que se acordó entre las Cancillerías de las Repúblicas de Boliyia y Perú, por notas reversales de 12 de diciembre de 1992, la creación y funcionamiento de la Autoridad Autónoma Binacional encargada del manejo y conducción del plan director del Sistema Titicaca Desaguadero Poopó Coipasa, TDPS, que comprende recursos y áreas geográficas de ambos países;
+* Que se determina, mediante notas reversales de 15 de junio de 1993, (SBAPEDGA/1042), el inicio de funciones de Autoridad Binacional Autónoma de la Cuenca del Sistema Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa, Con el objetivo principal de promover y conducir las acciones, programas y proyectos, así como dictar las normas de ordenamiento, manejo, control y protección del sistema TDPS según el plan director binacional boliviano peruano;
+* Que la Autoridad Binacional Autónoma adquirirá vigencia cuando el plan director global binacional del Sistema Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa esté debidamente aprobado;
+* Que se conforma en las citadas notas un comité ad hoc transitorio con un presidente designado por los ministerios de Relaciones Exteriores de ambos países e integrado por los directores ejecutivos de los proyectos especiales Lago Titicaca del Perú y Bolivia cuya función es gestionar la aprobación del plan director global binacional, así como su promoción y aplicación previa al funcionamiento de la Autoridad Binacional Autónoma;
+* Que el artículo octavo de las indicadas notas reversales de 15 de junio de 1993 determina que decretos supremos en ambos países incorporarán los términos, contenido y alcances de tales notas, al orden jurídico interno de cada país;
+* Que el Gobierno de Bolivia ha emitido el 4 de marzo de 1994 la resolución suprema 213658, determinando el funcionamiento de la Autoridad Binacional Autónoma dependiente del Ministerio de Desarrollo Sostenible y Medio Ambiente, en lo técnico administrativo;
+* Que la República del Perú ha promulgado el 16 de junio de 1994 el [Decreto Supremo Nº 14](https://www.lexivox.org//norms/BO-DS-14.html)-94-RE, poniendo en práctica los acuerdos asumidos con Bolivia mediante las notas reversales de 15 de junio de 1993;
+* Que corresponde a la República de Bolivia cumplir, como la República del Perú, el artículo octavo de las notas reversales de 15 de junio de 1993, promulgando el respectivo decreto supremo que incorpore el contenido y alcances de esas notas reversales al orden jurídico interno.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorízase al Ministerio de Relaciones Exteriores y Culto poner en ejecución los acuerdos asumidos en las notas reversales suscritas por los gobiernos de la República de Bolivia y de la República del Perú, relativas al funcionamiento de la Autoridad Binacional Autónoma del sistema Titicaca Desaguadero Lago Poopó y Salar de Coipasa.
+
+**Artículo 2°.-** Se autoriza al Ministerio de Desarrollo Sostenible y Medio Ambiente efectuar las acciones correspondientes, para el estricto cumplimiento de los acuerdos asumidos en las notas reversales citadas en el artículo primero.
+
+---
+
+Los señores Ministros de Estado en los despachos de Relaciones Exteriores y Culto así como Desarrollo Sostenible y Medio Ambiente quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de diciembre de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Carlos Sánchez Berzain MIN. INTERINO DE GOBIERNO, Raúl Tovar Piérola, Carlos A. Miranda Gumucio MIN. SUPLENTE DE JUSTICIA, Gaby Candia de Mercado MIN. SUPLENTE DE HACIENDA, Alberto Bailey Gutiérrez MIN. SUPLENTE DE DESARROLLO HUMANO, Carlos Hugo Molina MIN. SUPLENTE DE DESARROLLO SOSTENIBLE Y MEDIO AMBIENTE, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier Jaime Villalobos Sanjinés.

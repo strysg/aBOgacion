@@ -1,0 +1,42 @@
+# Bolivia: Decreto Supremo Nº 29162, 13 de junio de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 208 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), determina que las Fuerzas Armadas de la Nación están sujetas a las leyes y reglamentos militares.
+* Que el Artículo 1 de la [Ley Nº 1759](https://www.lexivox.org//norms/BO-L-1759.html) de 26 de febrero de 1997, referida a convenios sobre Aviación Civil Internacional, eleva a rango de Ley el [Decreto Supremo Nº 722](https://www.lexivox.org//norms/BO-DS-722.html) de 13 de febrero de 1947, por el que Bolivia se adhiere al convenio sobre Aviación Civil Internacional, suscrito el 7 de diciembre de 1994, mediante el cual se compromete a implementar y proporcionar la asistencia, búsqueda, rescate y salvamento de personas, tripulaciones y aeronaves públicas o privadas, nacionales o extranjeras, en el territorio nacional, en casos de accidentes e incidentes aéreos, debiendo contar para el efecto con personal especializado y voluntarios capacitados en las diferentes especialidades
+* Que el Artículo 168 de la [Ley Nº 2902](https://www.lexivox.org//norms/BO-L-2902.html) de 29 de octubre de 2004, de Aeronáutica Civil, determina que de conformidad con el Convenio de Chicago sobre Aviación Civil Internacional, el Estado prestará el Servicio de Búsqueda, Asistencia y Salvamento de Aeronaves, dentro del territorio nacional, señalando en su segundo parágrafo que la Fuerza Aérea Boliviana es la responsable de la organización y la operación del Servicio de Búsqueda, Asistencia y Salvamento, para lo cual incluirá a los organismos necesarios.
+* Que la Fuerza Aérea Boliviana, en cumplimiento al compromiso asumido por el Estado, ha participado en operaciones de Búsqueda, Asistencia y Salvamento, habiéndose creado oficialmente el primer Grupo SAR, sobre la base del Grupo de Búsqueda y Salvamento “51” dependiente de la FAB, con sede en la ciudad de Cochabamba, contando a la fecha con Grupos de Voluntarios especializados SAR en todo el territorio nacional.
+* Que en forma complementaria y como apoyo a la comunidad, los grupos SAR de la Fuerza Aérea Boliviana desarrollan sus actividades en situaciones preventivas y atención de desastres, luchando por salvar la mayor cantidad de vidas posibles y de esta forma brindar una ayuda necesaria y totalmente desinteresada a la sociedad.
+* Que actualmente existen otros grupos de voluntarios en búsqueda y rescate que distorsionan la verdadera esencia de los Grupos SAR, además de confundir a organismos nacionales e internacionales que brindan su colaboración y apoyo, interpretando que son parte integrante de la Fuerza Aérea Boliviana, aspecto que debe modificarse para un adecuado cumplimiento de las operaciones y tareas.
+* Que es necesario normar las actividades que desarrollan los Grupos de Voluntarios SAR y delimitar el uso de la sigla.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 11 de junio de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Defensa Nacional.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto normar el uso de la sigla SAR, cuyo nombre internacionalmente conocido es “Search And Rescue” (Búsqueda y Rescate), en las actividades que realizan los Grupos de Búsqueda, Asistencia y Salvamento.
+
+**Artículo 2°.- (Sigla SAR)** La denominación SAR es de uso exclusivo de los Grupos de Búsqueda, Asistencia y Salvamento de la Fuerza Aérea Boliviana - FAB, institución responsable de la organización y operación del Servicio de Búsqueda, Asistencia y Salvamento.
+
+**Artículo 3°.- (Registro)** La FAB, para implementar y proporcionar la asistencia, búsqueda, rescate y salvamento de personas, tripulaciones y aeronaves públicas o privadas, registrará a los Grupos de Voluntarios SAR.
+
+**Artículo 4°.- (Donaciones)** Los recursos, equipos y otros insumos de donación que provienen de organismos nacionales e internacionales para los Grupos de Voluntarios SAR, deben ser canalizados a la FAB, a través del Ministerio de Defensa Nacional.
+
+**Artículo 5°.- (Reglamentación)** El Ministerio de Defensa Nacional, a través del Comando General de la FAB, reglamentará el registro y las actividades de los Grupos de Voluntarios SAR, mediante Resolución Ministerial.
+
+**Artículo 6°.- (Prohibición)** Queda prohibido el uso de la denominación SAR por aquellos Grupos que no se encuentren registrados y no estén bajo dependencia de la FAB.
+
+**Artículo 7°.- (Vigencia de normas)** Se abrogan y derogan, todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Defensa Nacional, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de junio del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Magdalena Cajias de la Vega, Nila Heredia Miranda MINISTRA DE SALUD Y DEPORTES E INTERINA DE TRABAJO.

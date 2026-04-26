@@ -1,0 +1,57 @@
+# Bolivia: Decreto Supremo Nº 2503, 2 de septiembre de 2015
+
+[Decreto Supremo Nº 2503](https://www.lexivox.org//norms/BO-DS-N2503.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Parágrafo I del Artículo 6 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, señala que sólo la Ley puede crear, modificar y suprimir tributos, definir el hecho generador de la obligación tributaria; fijar la base imponible y alícuota o el límite máximo y mínimo de la misma; y designar al sujeto pasivo.
+* Que el numeral 3 del Parágrafo I del Artículo 6 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), establece que sólo la Ley puede otorgar y suprimir exenciones, reducciones o beneficios.
+* Que el Parágrafo I del Artículo 4 de la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), de 17 de diciembre de 2014, Tratamiento Tributario Aplicable a los Convenios, Acuerdos y Otros Instrumentos Jurídicos Internacionales suscritos por el Estado Plurinacional de Bolivia, dispone que las mercancías donadas a entidades públicas directamente desde el exterior o aquellas importadas con recursos provenientes de cooperación financiera no reembolsable o de donación, estarán exentas del pago total de los tributos aduaneros de importación.
+* Que los Parágrafos II y III del Artículo 4 de la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), establecen que las mercancías señaladas en el Parágrafo I de la citada Ley, podrán ser transferidas a título gratuito, con la exención total del pago de tributos aduaneros de importación y del impuesto a las transacciones, a los destinatarios finales de proyectos y/o programas, entidades públicas, entidades territoriales, descentralizadas o autónomas; organizaciones económico productivas, organizaciones indígenas, campesinas y movimientos sociales, sin fines de lucro; Para el cumplimiento de los Parágrafos I y II del mencionado Artículo, las exenciones y las transferencias se autorizarán mediante Decreto Supremo.
+* Que el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 2308](https://www.lexivox.org//norms/BO-DS-N2308.html), de 25 de marzo de 2015, que reglamenta la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), determina que la autorización de exención del pago de tributos aduaneros a las mercancías donadas en especie, y aquellas adquiridas en el extranjero con recursos provenientes de donación o cooperación no reembolsable, se realizará a través de un Decreto Supremo mensual en el que se consolidarán las solicitudes de exención que sean presentadas por las entidades públicas ejecutoras o beneficiarias de las donaciones hasta el día quince (15) de cada mes. Excepcionalmente, se podrá emitir más de un Decreto Supremo, cuando la exención tributaria tenga carácter de urgencia y requiera atención inmediata.
+* Que los Ministerios de Salud, de Deportes, de Desarrollo Productivo y Economía Plural, y de Autonomías presentaron solicitudes de exención tributaria de importación a la donación de insumos médicos, medicamentos, Sistema de Planificación de Radioterapia 3D, material especial para personas ciegas; balones de fútbol; máquina armadora automática de 9 puntas máquina armadora de calzados camboriana y equipos médicos, con la presentación de los requisitos técnico - legales establecidos en la normativa vigente. Por lo que es necesario emitir un Decreto Supremo, que autorice la exención del pago total de tributos de importación de las donaciones mencionadas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la exención del pago total de los tributos de importación a la donación de mercancías a favor del Ministerio de Salud, Ministerio de Deportes, Gobierno Autónomo Departamental de Cochabamba, Gobierno Autónomo Municipal de Cochabamba y PRO - BOLIVIA.
+
+**Artículo 2°.- (Autorización de exención al Ministerio de Salud)** Se autoriza las siguientes exenciones a favor del Ministerio de Salud:
+
+1. Exención del pago total de los tributos de importación de dos (2) envíos de insumos médicos y medicamentos, donación realizada por la República de Cuba, con Partes de Recepción Nº 711 2013 43153 - 136-61711845 y N° 211 2015 193590 - 729-85449081 a favor del Ministerio de Salud.
+     
+   La donación, será destinada al Programa Operación Milagro de la Cooperación de Cuba, quedando la misma exenta del pago de tributos de importación y de los impuestos por transferencia.
+2. Exención del pago total de los tributos de importación de dos (2) envíos de medicamentos Glivec HGC 100 mg., donados por la Empresa Novartis Pharma AG de Suiza, con Partes de Recepción Nº 211 2015 99705 - 3004147845 y N° 211 2014 619686 - 3000650763, a favor del Ministerio de Salud, para el Programa Nacional de Enfermedades No Transmisibles.
+3. Exención del pago total de los tributos de importación de un (1) envío de medicamentos, donados por la Organización Mundial de la Salud - OMS, con Parte de Recepción Nº 211 2010 196418 - 129-55200762, a favor del Ministerio de Salud, para el Programa Nacional de Zoonosis.
+4. Exención del pago total de los tributos de importación de un (1) envío de medicamentos Glivec HGC 100 mg., donados por la Empresa Novartis Pharma AG de Suiza, con Parte de Recepción Nº 711 2011 541616 - 3141993374, a favor del Ministerio de Salud.
+     
+   En el marco del Convenio Interinstitucional entre el Ministerio de Salud y Deportes, actual Ministerio de Salud y la Facultad de Medicina, Enfermería, Nutrición y Tecnología Médica de la Universidad Mayor de San Andrés - Proyecto de Lucha Contra el Cáncer, la donación será destinada al Centro de Oncohematología Paolo Belli de la Universidad Mayor de San Andrés, quedando la misma exenta del pago de tributos de importación y de los impuestos por transferencia.
+5. Exención del pago total de los tributos de importación de un (1) Sistema de Planificación de Radioterapia 3D, donación realizada por el Organismo Internacional de Energía Atómica - OIEA de Viena - Austria, con Parte de Recepción Nº 211 2013 478204 - 000-00769099, a favor del Ministerio de Salud.
+     
+   La donación, será destinada a la Caja Nacional de Salud para el Hospital Obrero N° 2 de Cochabamba, quedando la Caja Nacional de Salud exenta del pago de tributos de importación y de los impuestos por transferencia.
+6. Exención del pago total de los tributos de importación de un (1) envío de material especial para personas ciegas, donación realizada por la Fundación ONCE - América Latina - FOAL de España, con Parte de Recepción Nº 211 2011 361055 - 275-01361360, a favor del Ministerio de Salud.
+     
+   La donación, será destinada al Instituto Boliviano de la Ceguera, quedando la misma exenta del pago de tributos de importación y de los impuestos por transferencia.
+
+**Artículo 3°.- (Autorización de exención al Ministerio de Deportes)** Se autoriza la exención del pago total de los tributos de importación de un (1) envío de balones de fútbol, donados por One World Play Project, con Parte de Recepción Nº 201 2015 191749-1TP197756 a favor del Ministerio de Deportes, para programas de desarrollo deportivo a cargo del referido Ministerio.
+
+**Artículo 4°.- (Autorización de exención al Gobierno Autónomo Departamental de Cochabamba)** Se autoriza la exención del pago total de los tributos de importación de un (1) envío de equipos médicos, donación realizada por la Agencia de Cooperación Internacional del Japón - JICA, en el marco del Proyecto de Fortalecimiento del Sistema de Atención Hospitalaria Materno Infantil, con Parte de Recepción Nº 301 2015 214195 TYOSGF711, a favor del Gobierno Autónomo Departamental de Cochabamba para el Hospital Materno Infantil German Urquidi de la ciudad de Cochabamba.
+
+**Artículo 5°.- (Autorización de exención al Gobierno Autónomo Municipal de Cochabamba)** Se autoriza la exención del pago total de los tributos de importación de un (1) envío de equipos médicos, donación realizada por JICA, en el marco del Proyecto de Fortalecimiento del Sistema de Atención Hospitalaria Materno Infantil, con Parte de Recepción Nº 301 2015 214195 - TYOSGF712, a favor del Gobierno Autónomo Municipal de Cochabamba para los Centros de Salud “Alalay”, “Norte” y “Cochabamba”.
+
+**Artículo 6°.- (Autorización de exención a Pro - Bolivia)** 
+
+1. Se autoriza la exención del pago total de los tributos de importación de una (1) máquina armadora automática de nueve (9) puntas y una (1) máquina armadora de calzados camboriana (laterales y talones), para el Centro de Innovación Productiva de Cuero de Cochabamba, con Parte de Recepción Nº 201 2015 368737-TWTPE0000047071, adquiridas con recursos de donación de la Unión Europea en el marco del Convenio de Financiación Nº DCI-ALA/2009/019-774 suscrito el 22 de noviembre de 2010, para el Programa de Apoyo al Plan Sectorial Desarrollo Productivo con Empleo Digno a favor de PRO - BOLIVIA institución dependiente del Ministerio de Desarrollo Productivo y Economía Plural.
+2. Las máquinas serán destinadas al Gobierno Autónomo Municipal de Cochabamba, quedando el municipio exento de pago de los tributos de importación y del impuesto por transferencia.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de septiembre del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado MINISTRO DE AUTONOMÍAS E INTERINO DE DEFENSA, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic MINISTRO DE CULTURAS Y TURISMO E INTERINO DE EDUCACIÓN, Marianela Paco Duran, Tito Rolando Montaño Rivera.

@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 3917, 29 de mayo de 2019
+
+[Decreto Supremo Nº 3917](https://www.lexivox.org//norms/BO-DS-N3917.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 321 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, establece que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Artículo 3 del [Decreto Supremo Nº 1858](https://www.lexivox.org//norms/BO-DS-N1858.html), de 8 de enero de 2014, señala que la Institución Pública Desconcentrada “SOBERANÍA ALIMENTARIA”, es una institución pública técnica y operativa, con independencia de gestión administrativa, financiera, legal y técnica, bajo dependencia del Ministerio de Desarrollo Rural y Tierras y dependencia funcional del Viceministerio de Desarrollo Rural y Agropecuario.
+* Que el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 3766](https://www.lexivox.org//norms/BO-DS-N3766.html), de 2 de enero de 2019, que reglamenta la aplicación de la [Ley Nº 1135](https://www.lexivox.org//norms/BO-L-N1135.html), de 20 de diciembre de 2018, del Presupuesto General del Estado Gestión 2019, dispone que en el marco de sus competencias, autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo, la inscripción y/o incremento de las partidas de gasto 25200 "Estudios, Investigaciones, Auditorías Externas y Revalorizaciones", 25800 "Estudios e Investigaciones para Proyectos de Inversión No Capitalizables" y 46000 "Estudios y Proyectos para Inversión", con recursos de financiamiento externo de crédito, donación, y su contraparte nacional establecidos en los convenios específicos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento el incremento de estas partidas deberá aprobarse mediante Decreto Supremo.
+* Que la Institución Pública Desconcentrada “SOBERANÍA ALIMENTARIA” requiere realizar auditorías externas a los proyectos “Apoyo a la Producción de Papa en Siembras de Invierno y Temprana a Nivel Nacional”, “Fortal. la Producción de Manzana y Durazno en los Municipios de Luribay, Sapahaqui y Licoma. Depto. La Paz” e “Implem. Programa Desarrollo Sostenible de la Ganadería Bovina en Bolivia”; contar con el estudio de diseño técnico de pre inversión del proyecto “Const. y Equipamiento de la Planta de Producción de Abonos Orgánicos en el Municipio de Caranavi, La Paz”; y capacitar y asistir técnicamente a los beneficiarios del proyecto “Mej. de la Producción Lechera en el Municipio de Guayaramerin, en el departamento de Beni”; y el Ministerio de Desarrollo Rural y Tierras precisa efectuar el pago a sumariantes externos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Desarrollo Rural y Tierras y a la Institución Pública Desconcentrada “SOBERANÍA ALIMENTARIA”, incrementar las subpartidas de Auditorías Externas y Consultorías por Producto a través de traspasos presupuestarios intrainstitucionales.
+
+**Artículo 2°.- (Autorización)** Se autoriza al Ministerio de Desarrollo Rural y Tierras y a la Institución Pública Desconcentrada “SOBERANÍA ALIMENTARIA”, incrementar en la gestión 2019, mediante traspasos presupuestarios intrainstitucionales, las siguientes subpartidas:
+
+1. 25230 “Auditorías Externas” en Bs478.161.- (CUATROCIENTOS SETENTA Y OCHO mil CIENTO SESENTA Y UNO 00/100 BOLIVIANOS), financiado con fuente y organismo 10 - 111 “Tesoro General de la Nación”, afectando la partida 25900 “Servicios Manuales”, para la ejecución de Auditorías Externas de los proyectos “Implem. Programa Desarrollo Sostenible de la Ganadería Bovina en Bolivia”, “Apoyo a la Producción de Papa en Siembras de Invierno y Temprana a Nivel Nacional” y “Fortal. la Producción de Manzana y Durazno en los Municipios de Luribay, Sapahaqui y Licoma. Depto. La Paz”.
+2. 46110 “Consultoría por Producto para Construcciones de Bienes Públicos de Dominio Privado” en Bs109.500.- (CIENTO NUEVE mil QUINIENTOS 00/100 BOLIVIANOS), financiado con fuente y organismo 10 - 111 “Tesoro General de la Nación”, afectando la partida 25900 “Servicios Manuales”, para el estudio de diseño técnico de pre inversión del proyecto “Const. y Equipamiento de la Planta de Producción de Abonos Orgánicos en el Municipio de Caranavi, La Paz”.
+3. 25810 “Consultorías por Producto” en Bs182.645.- (CIENTO OCHENTA Y DOS mil SEISCIENTOS CUARENTA Y CINCO 00/100 BOLIVIANOS), financiado con fuente 41 “Transferencias T. G. N.” y organismo 119 “Tesoro General de la Nación - Impuesto Directo a los Hidrocarburos”, afectando la partida 25900 “Servicios Manuales”, para la ejecución de los componentes de asistencia técnica y/o capacitación, supervisión y servicio de inseminación artificial en el marco del proyecto “Mej. de la Producción Lechera en el Municipio de Guayaramerin, en el departamento de Beni”.
+4. 25210 “Consultorías por Producto” en Bs12.000.- (DOCE mil 00/100 BOLIVIANOS), financiado con fuente y organismo 10 - 111 “Tesoro General de la Nación”, afectando la partida 26990 “Otros”, para el pago de sumariantes externos.
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Rural y Tierras, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Casa Grande del Pueblo de la ciudad de La Paz, a los veinte y nueve días del mes de mayo del año dos mil diecinueve.
+  
+FDO. EVO MORALES AYMA, Diego Pary Rodríguez, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Luis Alberto Arce Catacora, Rafael Alarcón Orihuela, Nélida Sifuentes Cueto, Oscar Coca Antezana, Félix Cesar Navarro Miranda, Milton Gómez Mamani MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE JUSTICIA Y TRANSPARENCIA INSTITUCIONAL, Lilly Gabriela Montaño Viaña, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, José Manuel Canelas Jaime, Tito Rolando Montaño Rivera MINISTRO DE DEPORTES E INTERINO DE HIDROCARBUROS.

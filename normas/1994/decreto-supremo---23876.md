@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 23876, 5 de octubre de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la Secretaría Nacional de Cultura tiene, entre sus atribuciones, la de preservar y difundir el mejor conocimiento del patrimonio cultural de la nación;
+* Que el país tendrá la oportunidad de realizar importantes exposiciones, de octubre a diciembre de 1,994 en Houston, Texas, y de enero a febrero de 1,995 en Dallas, Estados Unidos de América, con el único propósito de mostrar en el exterior la gran riqueza histórica y cultural de Bolivia;
+* Que el artículo 4 del [Decreto Supremo Nº 5918](https://www.lexivox.org//norms/BO-DS-5918.html) de 6 de noviembre de 1961 permite la salida temporal de objetos de la riqueza artística, histórica, cultural y arqueológica, para exposiciones bajo convenios internacionales, previa constitución de garantía y seguros adecuados para su perfecta preservación y restitución.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorízase a la Secretaría Nacional de Cultura, bajo su exclusiva responsabilidad, la salida temporal de treinta y siete (37) cuadros coloniales pertenecientes a museos y colecciones privadas, detalladas en la lista anexa que forma parte del texto del presente decreto, exclusivamente para su exposición temporal en el Menil Museum y Allen Center de Houston y Meadows Museum de Dallas, U. S. A., desde octubre de 1.994 hasta febrero de 1,995.
+
+**Artículo 2°.-** La salida y permanencia temporal de las referidas obras en el exterior, así como su puntual retorno al país referidas, serán garantizadas satisfactoriamente por la póliza de seguro que los organizadores deben presentar necesariamente antes de su embarque, con un plazo suficiente de vigencia.
+  
+Las obras mencionadas permanecerán fuera del país únicamente a partir del 1 de octubre de 1,994, al 28 de febrero de 1,995 improrrogablemente, bajo la fiscalización y responsabilidad de la Secretaria Nacional de Cultura.
+
+**Artículo 3°.-** Se exime y libera la salida del país de los treinta y siete (37) cuadros coloniales y su reingreso del pago de todo gravamen o tributo aduanero asi como impuesto de cualquier especie, incluidos el gravamen aduanero consolidado (GAC), y el 0.5% por almacenaje y servicios de AADAA.
+
+---
+
+Los señores Ministros de Estado en los despachos de Relaciones Exteriores y Culto, Gobierno, Justicia, Hacienda y Desarrollo Económico y Desarrollo Humano quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cinco días del mes de octubre de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Germán Quiroga Gómez, Raúl Tovar Piérola, Carlos Sánchez Berzaín, Rene Oswaldo Blattmann Bauer, Gaby Candía de Mercado, MIM. SUPILENTF DE HACIENDA Y DESARROLLO ECONÓMICO, Enrique Ipiña Melgar, José Justiniano Sandóval, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revol1o Thenier.

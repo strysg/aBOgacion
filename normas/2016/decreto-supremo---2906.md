@@ -1,0 +1,56 @@
+# Bolivia: Decreto Supremo Nº 2906, 21 de septiembre de 2016
+
+[Decreto Supremo Nº 2906](https://www.lexivox.org//norms/BO-DS-N2906.html)  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 32 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que es competencia exclusiva del nivel central del Estado el transporte, terrestre, aéreo, fluvial y otros cuando alcance a más de un departamento.
+* Que el inciso f) del Artículo 70 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece que el Ministro de Obras Públicas, Servicios y Vivienda tiene entre sus atribuciones el formular, promover, coordinar y ejecutar políticas y normas de transporte terrestre, aéreo, marítimo, fluvial, lacustre, ferroviario y otros, cuando el alcance abarque más de un departamento y/o tenga carácter internacional.
+* Que la Segunda Conferencia de las Naciones Unidas sobre los Países en Desarrollo sin Litoral - PDSL, celebrado en Viena en noviembre de 2014 revitalizó el compromiso de la comunidad internacional para hacer frente a las necesidades y retos de los Países en Desarrollo Sin Litoral. La Conferencia aprobó el Programa de Acción de Viena de los PDSL para el decenio 2014-2024 del Plan de Acción de Viena - PAV.
+* Que durante la Segunda Conferencia de las Naciones Unidas sobre los PDSL en Viena en noviembre de 2014, el Estado Plurinacional de Bolivia anunció la intención para ser anfitrión de la REUNIÓN DE ALTO NIVEL SOBRE TRANSPORTE SOSTENIBLE DE PAÍSES EN DESARROLLO SIN LITORAL, por lo que se considera de importancia la realización del mencionado evento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la transferencia de recursos y la contratación directa de bienes y servicios, para la realización de la REUNIÓN DE ALTO NIVEL SOBRE TRANSPORTE SOSTENIBLE DE PAÍSES EN DESARROLLO SIN LITORAL.
+
+**Artículo 2°.- (Transferencia de recursos)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, transferir recursos del Tesoro General de la Nación - TGN, por un monto de hasta Bs1.361.761,00 (UN MILLÓN TRESCIENTOS SESENTA Y UN mil novecientos SESENTA Y UNO 00/100 BOLIVIANOS), destinados a financiar los gastos de la REUNIÓN DE ALTO NIVEL SOBRE TRANSPORTE SOSTENIBLE DE PAÍSES EN DESARROLLO SIN LITORAL, a los siguientes Ministerios de Estado y conforme a los montos que se refieren a continuación:
+
+   | Ministerio | Bolivianos |
+   | --- | --- |
+   | Obras Públicas, Servicios y Vivienda | 1.203.041 |
+   | Relaciones Exteriores | 16.800 |
+   | Gobierno | 61.920 |
+   | Culturas y Turismo | 80.000 |
+   | Total | 1.361.761 |
+2. Los recursos deben destinarse exclusivamente para la preparación y desarrollo de la REUNIÓN DE ALTO NIVEL SOBRE TRANSPORTE SOSTENIBLE DE PAÍSES EN DESARROLLO SIN LITORAL; la ejecución de los recursos será responsabilidad de las entidades ejecutoras del mencionado evento.
+
+**Artículo 3°.- (Contrataciones directas)** 
+
+1. Se autoriza al Ministerio de Obras Públicas, Servicios y Vivienda, efectuar la contratación directa de bienes y servicios para la realización de la REUNIÓN DE ALTO NIVEL SOBRE TRANSPORTE SOSTENIBLE DE PAÍSES EN DESARROLLO SIN LITORAL.
+     
+   Las contrataciones directas efectuadas en el marco del presente Decreto Supremo, son responsabilidad de la Máxima Autoridad Ejecutiva - MAE de la entidad contratante desde su inicio hasta su conclusión.
+2. El procedimiento para la contratación directa de bienes y servicios será reglamentado por el Ministerio de Obras Públicas, Servicios y Vivienda, y aprobado mediante Resolución Ministerial.
+3. Para contrataciones mayores a Bs20.000.- (VEINTE mil 00/100 BOLIVIANOS) el Ministerio de Obras Públicas Servicios y Vivienda solicitará al proveedor el Certificado del Registro Único de Proveedores del Estado - RUPE, para la formalización de la contratación, según lo establecido en la Reglamentación del RUPE.
+4. Una vez realizadas las contrataciones directas, el Ministerio de Obras Públicas Servicios y Vivienda deberá:
+   1. Presentar la información de la contratación a la Contraloría General del Estado, de acuerdo con la normativa emitida por la Contraloría General del Estado;
+   2. Registrar la contratación directa en el Sistema de Contrataciones Estatales - SICOES, cuando el monto sea mayor a Bs20.000.- (VEINTE mil 00/100 BOLIVIANOS).
+        
+
+      # Disposiciones adicionales
+
+**Artículo adicional Único.-** En aplicación de la [Ley Nº 465](https://www.lexivox.org//norms/BO-L-N465.html), de 19 de diciembre de 2013, del Servicio de Relaciones Exteriores, concordante con la Disposición Final Única de la [Ley Nº 396](https://www.lexivox.org//norms/BO-L-N396.html), de 26 de agosto de 2013, que modifica la Disposición Final Sexta de la [Ley Nº 211](https://www.lexivox.org//norms/BO-L-N211.html), de 23 de diciembre de 2011, vigente por disposición del inciso k) de la Disposición Final Segunda la [Ley Nº 769](https://www.lexivox.org//norms/BO-L-N769.html), de 17 de diciembre de 2015, del Presupuesto General del Estado Gestión 2016, se autoriza al Ministerio de Relaciones Exteriores cubrir los costos de pasajes y viáticos de personalidades y/o invitados especiales, que asistan a la REUNIÓN DE ALTO NIVEL SOBRE TRANSPORTE SOSTENIBLE DE PAÍSES EN DESARROLLO SIN LITORAL.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Relaciones Exteriores; de Gobierno; de Obras Públicas, Servicios y Vivienda; y de Culturas y Turismo, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de septiembre del año dos mil dieciséis .
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Reymi Luis Ferreira Justiniano, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

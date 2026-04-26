@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 881, 18 de mayo de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 16 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que el Estado tiene la obligación de garantizar la seguridad alimentaria, a través de una alimentación sana, adecuada y suficiente para toda la población.
+* Que el Artículo 6 de la [Ley Nº 050](https://www.lexivox.org//norms/BO-L-N50.html), de 9 de octubre de 2010, vigente por disposición del Artículo 41 de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, autoriza al Órgano Ejecutivo a través del Ministerio de Economía y Finanzas Públicas, utilizar los recursos de crédito interno otorgados por el Banco Central de Bolivia - BCB, en el marco del [Decreto Supremo Nº 29453](https://www.lexivox.org//norms/BO-DS-29453.html), de 22 de febrero de 2008, como apoyo presupuestario del Tesoro General de la Nación - TGN, para atender necesidades provocadas por efectos hidrometereológicos y climáticos, situaciones de encarecimiento de precios, desabastecimiento, inseguridad alimentaria, fomento a la producción, nuevos emprendimientos productivos, infraestructura caminera, rehabilitación de viviendas, así como otros fines productivos, a ser implementados por el Órgano Ejecutivo.
+* Que el numeral 4.2.2 del Plan Nacional de Desarrollo, aprobado por [Decreto Supremo Nº 29272](https://www.lexivox.org//norms/BO-DS-29272.html), de 12 de septiembre de 2007, establece el nuevo enfoque de la política comercial estratégica que implica el uso racional y oportuno de los aranceles, de las licencias previas y cupos de importación para estabilizar la producción nacional y el mercado interno frente a la competencia internacional.
+* Que el [Decreto Supremo Nº 29727](https://www.lexivox.org//norms/BO-DS-29727.html), de 1 de octubre de 2008, modifica la denominación de la ex-Secretaría Ejecutiva PL-480 por INSUMOS-BOLIVIA, estableciendo como funciones entre otras, la de comprar en el mercado interno y/o importar materias primas e insumos estratégicos y de alto impacto para la producción con destino a la provisión de las Unidades Productivas del país, y comercializar productos e insumos en el mercado interno.
+* Que el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 0677](https://www.lexivox.org//norms/BO-DS-N677.html), de 20 de octubre de 2010, autoriza al Ministerio de Economía y Finanzas Públicas, transferir recursos a INSUMOS-BOLIVIA por la suma de hasta Bsl41.400.000.- (CIENTO CUARENTA Y UN MILLONES CUATROCIENTOS mil 00/100 BOLIVIANOS), con cargo a los recursos para la Reconstrucción, Seguridad Alimentaria y Apoyo Productivo, en el marco de lo dispuesto en el Artículo 6 de la [Ley Nº 050](https://www.lexivox.org//norms/BO-L-N50.html), de Modificaciones al Presupuesto General del Estado 2010, para la compra, importación y comercialización de azúcar, que incluyen costos operativos y logísticos.
+* Que el [Decreto Supremo Nº 0787](https://www.lexivox.org//norms/BO-DS-N787.html), de 4 de febrero de 2011, autoriza al Ministerio de Economía y Finanzas Públicas, transferir recursos a INSUMOS-BOLIVIA por la suma de Bs64.303.930.- (SESENTA Y CUATRO MILLONES TRESCIENTOS TRES mil novecientos TREINTA 00/100 BOLIVIANOS), con cargo a los recursos para la Reconstrucción, Seguridad Alimentaria y Apoyo Productivo, en el marco de lo dispuesto en el Artículo 6 de la [Ley Nº 050](https://www.lexivox.org//norms/BO-L-N50.html), de Modificaciones al Presupuesto General del Estado 2010, vigente por el Artículo 41 de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), para la compra, importación y comercialización de azúcar, monto que incluye costos operativos y logísticos.
+* Que a efecto de cumplir con los principios y lineamientos establecidos por la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), el Gobierno del Estado Plurinacional conforme al objetivo estratégico de garantizar la Seguridad Alimentaria y como consecuencia del incremento de los precios internacionales del azúcar; asume la responsabilidad de otorgar una asignación adicional a INSUMOS-BOLIVIA, a fin de garantizar el abastecimiento de este producto a la población boliviana.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, transferir recursos a favor de INSUMOS-BOLIVIA, por Bs8.724.217.- (OCHO MILLONES novecientos vienticuatro mil DOSCIENTOS diecisiete 00/100 BOLIVIANOS), con cargo a los recursos para la Reconstrucción, Seguridad Alimentaria y Apoyo Productivo, en el marco de lo dispuesto en el Artículo 6 de la [Ley Nº 050](https://www.lexivox.org//norms/BO-L-N50.html), de 9 de octubre de 2010, vigente por disposición del Artículo 41 de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011.
+2. Los recursos establecidos en el Parágrafo precedente, son adicionales a los dispuestos por los Decretos Supremos Nº 0677, de 20 de octubre de 2010 y Nº 0787, de 4 de febrero de 2011, debiendo ejecutarse estos recursos conforme a lo dispuesto por la normativa señalada.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Desarrollo Productivo y Economía Plural, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de mayo del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, María Cecilia Chacón Rendón, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACIÓN E INTERINO DE SALUD Y DEPORTES, Y DECULTURAS, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Iván Jorge Canelas Alurralde.

@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 28907, 3 de noviembre de 2006
+
+ALVARO MARCELO GARCIA LINERA
+  
+PRESIDENTE INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 154 del Capitulo V de la Constitución Política del Estado, norma las atribuciones y funciones de la Contraloría General de la República, atribuciones que fueron determinadas mediante la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) de 20 de julio de 1990 - Ley de Administración y Control Gubernamentales, que establece el marco jurídico que regula los Sistemas de Administración y de Control Gubernamental de los Recursos del Estado y su relación con los Sistemas Nacionales de Planificación e Inversión Pública, creando los sistemas de administración y control destinados a: a) Programar y organizar las actividades, b) Ejecutar las actividades programadas y c) Controlar la gestión del Sector Público.
+* Que corresponde al Ministerio de Gobierno plantear, dirigir, coordinar y administrar políticas precautelando el ejercicio de los derechos y garantías constitucionales, el orden público y la paz social, inherentes al Estado Social y Democrático de Derecho, planificar y coordinar con los Prefectos y la Policía Nacional el Régimen de Políticas de Seguridad Pública de los Departamentos, dirigir a la Policía Nacional de acuerdo a lo dispuesto por el Artículo 216 de la Constitución Política del Estado, así como administrar, formular y dirigir políticas, en los ámbitos Migratorio, Seguridad Pública y de Prevención y Represión del Delito, concordante con el Artículo 48 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006.
+* Que el Artículo 22 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) y la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006 - Ley de Organización del Poder Ejecutivo, establecen que el Ministerio de Hacienda es el Organo Rector del Sistema de Presupuesto.
+* Que el Artículo 20 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, establece prohibición expresa a las entidades públicas para la compra o alquiler de vehículos, no obstante, el parque automotor de motocicletas de la seguridad presidencial ha cumplido su ciclo de vida útil, la compra de motocicletas para la seguridad del Presidente de la República es de prioridad nacional, por lo que es necesario dictar el presente Decreto Supremo con igual jerarquía al anteriormente citado.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 30 de octubre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Gobierno.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Gobierno la compra de seis (6) motocicletas debidamente equipadas, para la seguridad del Presidente de la República, con recursos propios, cumpliendo las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Gobierno, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los tres días del mes de noviembre del año dos mil seis.
+  
+Fdo. ALVARO MARCELO GARCIA LINERA PRESIDENTE INTERINO DE LA REPUBLICA, Alicia Muñoz Alá Ministra de Gobierno e Interina de RR. EE. y Cultos y de la Presidencia, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Hernando Larrazabal Córdova, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda

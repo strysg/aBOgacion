@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 2818, 29 de junio de 2016
+
+[Decreto Supremo Nº 2818](https://www.lexivox.org//norms/BO-DS-N2818.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, determina que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el inciso a) del Artículo 36 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece entre las atribuciones del Viceministerio de Defensa Social y Sustancias Controladas dependiente del Ministerio de Gobierno, proponer, desarrollar y aplicar políticas, leyes, reglamentos e instructivos para la lucha contra el tráfico lícito de sustancias controladas.
+* Que el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 2644](https://www.lexivox.org//norms/BO-DS-N2644.html), de 30 de diciembre de 2015, reglamenta la aplicación de la [Ley Nº 769](https://www.lexivox.org//norms/BO-L-N769.html), de 17 de diciembre de 2015, del Presupuesto General del Estado Gestión 2016, dispone que en el marco de sus competencias se autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo, la inscripción o incremento de las partidas de gasto 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y 46000 “Estudios y Proyectos para Inversión”, con recursos de financiamiento externo de crédito, donación y/o contraparte nacional establecidos en los convenios específicos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento el incremento de estas partidas deberá aprobarse mediante Decreto Supremo.
+* Que el Viceministerio de Defensa Social y Sustancias Controladas requiere incrementar la subpartida de consultorías por producto para la ejecución de la Fase II - Revisión de Datos del Registro de Productores de Coca del Trópico de Cochabamba, como parte importante de la estabilización de cultivos de coca.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Gobierno incrementar la subpartida 25210 “Consultorías por Producto” en Bs160.000.- (CIENTO SESENTA mil 00/100 BOLIVIANOS), financiados con fuente 11 “TGN Otros Ingresos”, a través de un traspaso presupuestario intrainstitucional, afectando las subpartidas 22120 “Pasajes al Exterior del País”, 22220 “Viáticos por Viajes al Exterior del País”, 24120 “Mantenimiento y Reparación de Vehículos, Maquinaria y Equipos” y la partida 25500 “Publicidad”, destinado a cubrir la ejecución de las actividades de la Fase II - Revisión de Datos del Registro de Productores de Coca del Trópico de Cochabamba.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Gobierno, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la ciudad de La Paz, a los veinte y nueve días del mes de junio del año dos mil dieciséis .
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Reymi Luis Ferreira Justiniano, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

@@ -1,0 +1,53 @@
+# Bolivia: Decreto Supremo Nº 3626, 25 de julio de 2018
+
+[Decreto Supremo Nº 3626](https://www.lexivox.org//norms/BO-DS-N3626.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 3 del Artículo 9 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que son fines y funciones esenciales del Estado, además de los que establece la Constitución y la ley, reafirmar y consolidar la unidad del país, y preservar como patrimonio histórico y humano la diversidad plurinacional.
+* Que el Parágrafo II del Artículo 99 del Texto Constitucional, establece que el Estado garantizará el registro, protección, restauración, recuperación, revitalización, enriquecimiento, promoción y difusión de su patrimonio cultural, de acuerdo con la ley.
+* Que la [Ley Nº 292](https://www.lexivox.org//norms/BO-L-N292.html), de 25 de septiembre de 2012, General de Turismo “Bolivia Te Espera”, establece las políticas generales y el régimen del turismo del Estado Plurinacional de Bolivia, a fin de desarrollar, difundir, promover, incentivar y fomentar la actividad productiva de los sectores turísticos público, privado y comunitario, a través de la adecuación a los modelos de gestión existentes, fortaleciendo el modelo de turismo de base comunitaria, en el marco de las competencias exclusivas asignadas al nivel central del Estado por la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+* Que el inciso a) del Artículo 3 de la [Ley Nº 292](https://www.lexivox.org//norms/BO-L-N292.html), determina que el turismo es una actividad económica estratégica que deberá desarrollarse de manera sustentable, respondiendo al objetivo entre otros de promover, desarrollar y fomentar el turismo interno, para fortalecer la identidad plurinacional y las riquezas inter e intraculturales.
+* Que los incisos b) y d) del Parágrafo I del Artículo 4 de la [Ley Nº 292](https://www.lexivox.org//norms/BO-L-N292.html), señalan que la importancia estratégica del turismo radica entre otros en contribuir en el establecimiento de relaciones de carácter social, cultural y económico entre los visitantes y las poblaciones receptoras; y constituirse en una actividad económica integrante de la matriz productiva nacional, estratégica y exportadora de servicios turísticos. El inciso a) del Parágrafo II del Artículo 4 de la cita ley, determina que el posicionamiento estratégico del turismo implica que el Estado Plurinacional de Bolivia, en el marco de sus competencias de nivel central, compromete la provisión de recursos financieros destinados al desarrollo del sector turístico en sus diversos componentes, en procura de su posicionamiento como actividad estratégica, productiva y sustentable.
+* Que los numerales 2 y 3 del Artículo 3 de la [Ley Nº 300](https://www.lexivox.org//norms/BO-L-N300.html), de 15 de octubre de 2012, Marco de la Madre Tierra y Desarrollo Integral Para Vivir Bien, determinan que son fines de la citada Ley, entre otros, establecer los objetivos del desarrollo integral que orientan la creación de las condiciones para transitar hacia el Vivir Bien en armonía y equilibrio con la Madre Tierra; y orientar las leyes específicas, políticas, normas, estrategias, planes, programas y proyectos del Estado Plurinacional de Bolivia para el Vivir Bien a través del desarrollo integral en armonía y equilibrio con la Madre Tierra.
+* Que el [Decreto Supremo Nº 1980](https://www.lexivox.org//norms/BO-DS-N1980.html), de 23 de abril de 2014, crea la Empresa Pública de Transporte por Cable “Mi Teleférico”, en el marco del régimen transitorio para la creación de empresas públicas de tipología estatal, establecido en el [Decreto Supremo Nº 1978](https://www.lexivox.org//norms/BO-DS-N1978.html), de 16 de abril de 2014.
+* Que es necesaria la autorización a la Empresa Estatal de Transporte por Cable “Mi Teleférico”, para llevar adelante la ejecución de la primera fase del Proyecto denominado “Parque de las Culturas y de la Madre Tierra”, ubicado en la Ex-Estación Central de Ferrocarriles de La Paz.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el [Decreto Supremo Nº 1980](https://www.lexivox.org//norms/BO-DS-N1980.html), de 23 de abril de 2014 modificado por el [Decreto Supremo Nº 3514](https://www.lexivox.org//norms/BO-DS-N3514.html), de 21 de marzo de 2018.
+
+**Artículo 2°.- (Incorporación)** Se incorporan los incisos e) y f) en el Artículo 3 del [Decreto Supremo Nº 1980](https://www.lexivox.org//norms/BO-DS-N1980.html), de 23 de abril de 2014, modificado por el Artículo 3 del [Decreto Supremo Nº 3514](https://www.lexivox.org//norms/BO-DS-N3514.html), de 21 de marzo de 2018, con el siguiente texto:
+> “e) Construir, implementar y/o administrar obras y proyectos que se encuentren dentro de los terrenos que son parte de las estaciones de la Empresa Estatal de Transporte por Cable “Mi Teleférico;
+>   
+> f) Construir, implementar y administrar el “Parque de las Culturas y de la Madre Tierra.”
+
+# Disposiciones adicionales
+
+**Disposición Adicional Única.-** 
+
+1. Se autoriza a la Empresa Estatal de Transporte por Cable “Mi Teleférico”, emitir la Certificación Presupuestaria para el Proyecto denominado “Parque de las Culturas y de la Madre Tierra”, por un monto de hasta $us13.500.000.- (TRECE MILLONES QUINIENTOS mil 00/100 DÓLARES ESTADOUNIDENSES).
+2. Se autoriza de manera excepcional a la Empresa Estatal de Transporte por Cable “Mi Teleférico”, utilizar recursos propios por un monto de hasta Bs23.664.000.- (VEINTITRES MILLONES SEISCIENTOS SESENTA Y CUATRO mil 00/100 BOLIVIANOS), para llevar adelante la ejecución de la primera fase del Proyecto denominado “Parque de las Culturas y de la Madre Tierra”.
+3. El Ministerio de Planificación del Desarrollo gestionará recursos de financiamiento externo para el Proyecto denominado “Parque de las Culturas y de la Madre Tierra”.
+     
+
+   # Disposiciones transitorias
+
+**Disposición Transitoria Única.-** Se autoriza al Ministerio de Economía y Finanzas Públicas y al Ministerio de Planificación del Desarrollo, efectuar las modificaciones presupuestarias que correspondan en el marco de la normativa vigente, para el cumplimiento del presente Decreto Supremo.
+
+# Disposiciones finales
+
+**Disposición Final Única.-** Se autoriza de manera excepcional a la Empresa Estatal de Transporte por Cable “Mi Teleférico”, realizar los procesos de contratación de obras, bienes y servicios para la ejecución del proyecto denominado “Parque de las Culturas y de la Madre Tierra”, aplicando la normativa del organismo financiador externo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; de Economía y Finanzas Públicas; y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de julio del año dos mil dieciocho.
+  
+FDO. EVO MORALES AYMA, Fernando Huanacuni Mamani, Alfredo Rada Vélez, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Mario Alberto Guillén Suárez, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Andrés Hinojosa Rodríguez MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE JUSTICIA Y TRANSPARENCIA INSTITUCIONAL, Rodolfo Edmundo Rocabado Benavides, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

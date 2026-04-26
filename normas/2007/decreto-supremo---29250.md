@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 29250, 29 de agosto de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 28866](https://www.lexivox.org//norms/BO-DS-28866.html) de 25 de septiembre de 2006, modifica el mes de pago del Bono Económico a favor del magisterio nacional sin alterar las condiciones utilizadas para el proceso del cálculo, cuyo Parágrafo II del Artículo 2, señala que a partir de la gestión 2006, las actualizaciones anuales del monto del Bono Institucional o Económico se realizarán en función a la variación del índice de Precios al Consumidor - IPC, registrada en el año anterior.
+* Que el [Decreto Supremo Nº 28690](https://www.lexivox.org//norms/BO-DS-28690.html) de 26 de abril de 2006, autoriza la fusión del Bono Pro - Libro y del Bono al Cumplimiento, para que se realice como pago único al magisterio nacional a partir de la gestión 2006. En su Artículo 4, dispone que el monto será actualizado en cada gestión, en función a la tasa promedio anual de inflación de la gestión precedente.
+* Que la Resolución Ministerial N° 96/03 de 16 de junio de 2003, amplía a partir de la gestión 2003 el Incentivo a la Permanencia - IP, beneficio que consiste en el pago anual destinado al personal docente y administrativo del magisterio nacional del Servicio de Educación Pública; posteriormente, la Resolución Ministerial N° 264/05 de 5 de septiembre de 2005, emitida por el Ministerio de Educación, establece que a partir de la gestión 2005 el monto de este incentivo será actualizado en función a la tasa promedio de inflación anual de la gestión precedente.
+* Que el Convenio de fecha 8 de mayo de 2007, suscrito entre el Ministro de Educación y Culturas y, la Confederación de Trabajadores de la Educación Urbana de Bolivia, establece que los bonos existentes serán cancelados con un incremento del seis por ciento (6%) en relación a la gestión 2006.
+* Que el Gobierno Nacional ha iniciado la implementación de una nueva política económica y social, como base del Estado Social y Democrático de Derecho, consagrado por la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html) con la finalidad de alcanzar un desarrollo social y mejorar sustancialmente las condiciones de vida de los bolivianos.
+* Que la tasa de inflación anual de la gestión 2006 alcanzó a cuatro punto noventa y cinco por ciento (4, 95%); sin embargo, el Gobierno Nacional con sensibilidad social y con el propósito de mantener el poder adquisitivo de los sueldos para el sector educación, ha efectuado un análisis para incorporar un mayor incentivo económico porcentual.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 2 de julio de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Hacienda.
+* Que por lo anteriormente señalado, es necesario emitir el presente Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto y alcance)** El presente Decreto Supremo tiene por objeto establecer, para la gestión 2007, el criterio de incremento a los Bonos Económico, Fusionado e Incentivo a la Permanencia - IP, a favor de los trabajadores del magisterio fiscal nacional.
+
+**Artículo 2°.- (Incremento porcentual)** Con carácter excepcional, para la presente gestión fiscal se fija un incremento de hasta el seis por ciento (6%) para los Bonos Económico, Fusionado e Incentivo a la Permanencia - IP, en sustitución a su actualización anual, en función a la tasa de inflación de la gestión precedente.
+
+# Disposiciones transitorias
+
+**Artículo transitorio Único.-** Para la gestión 2007, quedan adecuadas al Artículo 2 del presente Decreto Supremo todas las disposiciones legales que definen el criterio de incremento anual de estos bonos.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Hacienda y Educación y Culturas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno en la ciudad de La Paz, a los veinte y nueve días del mes de agosto del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, María Magdalena Cajías de la Vega, Nila Heredia Miranda.

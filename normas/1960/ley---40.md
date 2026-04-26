@@ -1,0 +1,29 @@
+# Bolivia: Ley Nº 40, 23 de noviembre de 1960
+
+VICTOR PAZ ESTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+  
+POR TANTO: El Honorable Congreso Nacional ha sancionado la siguiente Ley:
+  
+EL CONGRESO NACIONAL,
+  
+DECRETA:
+
+**Artículo 1°.-** Autorízase a la Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca, a contratar en cualquier institución de crédito del país o del exterior, un préstamo hasta la suma de doce mil dólares o su equivalente en moneda nacional, con destino a la adquisición del fundo rústico de Villa Carmen, para la Escuela de Agronomía, con garantía de sus propios bienes muebles, inmuebles y los recursos ordinarios de su presupuesto, El préstamo podrá ser colocado parcial o totalmente de acuerdo a sus necesidades.
+
+**Artículo 2°.-** Se exonera a la operación de todo impuesto nacional, departamental o municipal.
+
+---
+
+Comuníquese al Poder Ejecutivo para los fines Constitucionales.
+  
+Sala de sesiones del H. Congreso Nacional.
+  
+La Paz, 17 de noviembre de 1960.
+  
+Fdo. Mario Torres C., Presidente del H. Senado Nacional; E. Ayala Mercado, Presidente de la Cámara de Diputados; Ciro Humboltd., Senador Secretario; Alberto Lavadenz, Senador Secretario; Horacio Torres G., Diputado Secretario; Armando Mollinedo, Diputado Secretario.
+  
+POR TANTO: La promulgo para que se tenga y cumpla como Ley de la República.
+  
+Palacio de Gobierno en la ciudad de La Paz, a los veintitrés días del mes de diciembre de mil novecientos sesenta años

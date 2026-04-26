@@ -1,0 +1,101 @@
+# Bolivia: Decreto Supremo Nº 445, 10 de marzo de 2010
+
+Decreto Supremo Nº 0445
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 70 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que las personas con discapacidad tienen derecho, entre otros, a ser protegidas por el Estado Plurinacional y, a desarrollar sus potencialidades individuales. Asimismo, los Parágrafos II y III del Artículo 71, determinan que el Estado adoptará medidas de acción positiva para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural sin discriminación alguna, generando las condiciones que permitan el desarrollo de sus potencialidades individuales.
+* Que la Ley de 22 de enero de 1957 y la [Ley Nº 1678](https://www.lexivox.org//norms/BO-L-1678.html), de 15 de diciembre de 1995, regulan los derechos, deberes y garantías de las personas con discapacidad, estantes y habitantes en el territorio del Estado boliviano.
+* Que la [Ley Nº 3925](https://www.lexivox.org//norms/BO-L-3925.html), de 21 de agosto de 2008, elimina el financiamiento estatal a los Partidos Políticos, Agrupaciones Ciudadanas y Pueblos Indígenas, en los años electorales y no electorales y crea el Fondo Nacional de Solidaridad y Equidad a favor de las personas con discapacidad, financiado con un aporte anual de Bs40.000.000.- (CUARENTA MILLONES 00/100 BOLIVIANOS) con recursos provenientes del Tesoro General de la Nación, y dispone que la utilización de los recursos serán establecidos mediante Decreto Supremo Reglamentario.
+* Que el [Decreto Supremo Nº 28671](https://www.lexivox.org//norms/BO-DS-28671.html), de 7 de abril de 2006, establece el Plan Nacional de Igualdad y Equiparación de Oportunidades para Personas con Discapacidad, como política de Estado orientada a la vigencia y ejercicio pleno de los derechos de las personas con discapacidad.
+* Que el [Decreto Supremo Nº 256](https://www.lexivox.org//norms/BO-DS-N256.html), de 19 de agosto de 2009, reglamenta transitoriamente la utilización de los recursos del Fondo Nacional de Solidaridad y Equidad, en beneficio de las personas con discapacidad, mediante la creación de un Consejo para la aprobación, coordinación y utilización de los recursos, conformado por los Ministerios de Desarrollo Productivo y Economía Plural, de Justicia, de Trabajo, Empleo y Previsión Social, de Salud y Deportes, y de Educación, y la Federación Boliviana de Sordos, Federación Nacional de Ciegos de Bolivia, Confederación Nacional de Padres con Hijos con Discapacidad y la Confederación Boliviana de Personas con Discapacidad Física.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, dispone que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 29881](https://www.lexivox.org//norms/BO-DS-29881.html) de 7 de enero de 2009, establece los procedimientos y responsables para elaborar, presentar, aprobar y registrar las modificaciones al Presupuesto General del Estado, así como las competencias de aprobación según el tipo y alcance de las modificaciones presupuestarias.
+* Que el [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, determina la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, incorporando cambios en el orden estructural del sector público que viabilicen la aplicación de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) vigente.
+* Que el Artículo 17 del Presupuesto General del Estado - Gestión 2010, aprobado por expresa disposición del numeral 11 del Artículo 158 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), autoriza al Viceministerio del Tesoro y Crédito Público, dependiente del Ministerio de Economía y Finanzas Públicas, a realizar la reversión automática de aquellos saldos no comprometidos, ni devengados en caja y bancos al cierre de la presente gestión fiscal, financiados con recursos del Tesoro General de la Nación, no afectando aquellas transferencias establecidas por norma legal específica.
+* Que el Artículo 26 del citado Presupuesto General del Estado - Gestión 2010, autoriza al Ministerio de Economía y Finanzas Públicas, a inscribir y/o incrementar el gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos; y que para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el inciso a) del Artículo 44 del Presupuesto General del Estado - Gestión 2010, autoriza al Órgano Ejecutivo transferir recursos públicos en efectivo y/o en especie a organizaciones económico - productivas, a organizaciones territoriales y a personas naturales, con el objeto de estimular la actividad y generación de proyectos de desarrollo, seguridad alimentaria, reconversión productiva, educación y salud en el marco del Plan Nacional de Desarrollo y Planes Sectoriales, y señala que el uso y destino de estos recursos será autorizado mediante Decreto Supremo.
+* Que a fin de ejecutar los recursos del Fondo Nacional de Solidaridad y Equidad, creado mediante [Ley Nº 3925](https://www.lexivox.org//norms/BO-L-3925.html), en beneficio de las personas con discapacidad a partir de la gestión 2010, se requiere incrementar las partidas de gasto 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y del Subgrupo 46000 “Estudios y Proyectos para Inversión”, y autorizar al Ministerio de Economía y Finanzas Públicas a efectuar la transferencia de los saldos presupuestarios no utilizados en la gestión 2009 de los Programas aprobados por el Consejo del Fondo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la utilización de los recursos del Fondo Nacional de Solidaridad y Equidad - FNSE, en beneficio de las personas con discapacidad en el marco de lo dispuesto en la [Ley Nº 3925](https://www.lexivox.org//norms/BO-L-3925.html), de 21 de agosto de 2008, a partir de la gestión 2010, y disponer la agilización en la ejecución de los Programas y Proyectos financiados con los recursos del FNSE.
+
+**Artículo 2°.- (Instancia de coordinación)** Se designa al Ministerio de Justicia como la instancia responsable de coordinar, priorizar y aprobar el uso de los recursos del FNSE, así como realizar el seguimiento de la ejecución de los programas y proyectos financiados con estos recursos. Para el efecto el Ministerio de Justicia deberá:
+  
+Coordinar con los Ministerios involucrados y las organizaciones sociales de personas con discapacidad, los programas y proyectos a ser financiados con los recursos del FNSE.
+  
+Analizar y priorizar los programas y proyectos remitidos por los Ministerios involucrados en la ejecución de los recursos.
+  
+Aprobar mediante Resolución Ministerial los programas y proyectos priorizados para su ejecución.
+
+**Artículo 3°.- (Pilares del FNSE)** 
+
+1. Se establecen los siguientes pilares:
+   1. Generación de ingresos. Generar emprendimientos productivos que permitan la inclusión de las personas con discapacidad en la matriz productiva del Estado Plurinacional e incrementar las probabilidades de inserción laboral en empleo y autoempleo en mujeres y hombres con discapacidad.
+   2. Oportunidades. Desarrollar acciones, programas y proyectos de facilitación del acceso a la salud en sus componentes de promoción, prevención, atención y rehabilitación biopsicosocial, asistencia legal y social, así como educación de las personas con discapacidad.
+   3. Habitabilidad. Mejorar la calidad de vida a través de la generación de proyectos de desarrollo habitacional que posibiliten el acceso a la vivienda en condiciones de habitabilidad favorables, en el marco del Plan Nacional de Desarrollo para el Vivir Bien de las personas con discapacidad.
+2. Para la ejecución de los programas enmarcados en los Pilares señalados anteriormente, los Ministerios responsables contratarán con prioridad a personas con discapacidad en la conformación de los equipos de trabajo a constituirse, tanto en los niveles de dirección como en las instancias operativas.
+
+**Artículo 4°.- (Mecanismos de distribucion de los recursos del FNSE)** 
+
+1. El Ministerio de Justicia en coordinación con los Ministerios responsables de ejecutar los programas y proyectos elaborados en el marco de los Pilares señalados en el Artículo precedente, emitirá una Resolución Ministerial aprobando los programas y proyectos y determinando los montos necesarios para la ejecución de los mismos.
+2. En base a la Resolución Ministerial emitida por el Ministerio de Justicia, cada Ministerio responsable de la ejecución de los programas y proyectos solicitará al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo, cuando corresponda, la transferencia de recursos en el marco del Reglamento de Modificaciones Presupuestarias vigente.
+3. El Ministerio de Economía y Finanzas Públicas asignará los recursos correspondientes en función a la programación de actividades y desembolsos.
+4. Los Ministerios ejecutores deberán informar trimestralmente sobre sus actividades al Ministerio de Justicia, instancia que reglamentará la metodología de evaluación y seguimiento mediante Resolución Ministerial.
+
+**Artículo 5°.- (Recursos del FNSE)** Se autoriza al Ministerio de Economía y Finanzas Públicas a efectuar las transferencias presupuestarias de los recursos correspondientes al FNSE de la gestión 2010 y posteriores, a las entidades ejecutoras en función a la Resolución Ministerial emitida por el Ministerio de Justicia, según lo dispuesto en el inciso c) del Artículo 2 del presente Decreto Supremo, y en función a la programación de sus actividades y desembolsos.
+
+**Artículo 6°.- (Consultorías)** 
+
+1. Se autoriza a los Ministerios responsables de la administración de los programas y proyectos elaborados en el marco de los Pilares del FNSE, a incrementar las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión no Capitalizables” y el subgrupo 46000 “Estudios y Proyectos para Inversión”, con los presupuestos anuales del FNSE, inscritos en cada Ministerio ejecutor, de acuerdo a los procedimientos establecidos en el Reglamento de Modificaciones Presupuestarias vigente.
+2. La utilización de recursos destinados a consultorías, por parte de los Ministerios ejecutores, será hasta el doce por ciento (12%) del monto total asignado anualmente al Fondo Nacional de Solidaridad y Equidad.
+3. Para la realización de las consultorías, los Ministerios responsables contratarán preferentemente a personas con discapacidad.
+
+**Artículo 7°.- (Transferencias público privadas)** De acuerdo a lo dispuesto en el Artículo 44 del Presupuesto General del Estado - Gestión 2010, se autoriza a los Ministerios ejecutores, a transferir recursos del FNSE, en efectivo o en especie, a favor de las personas con discapacidad y padres o tutores de personas con discapacidad intelectual, debiendo para el efecto cumplir lo establecido en Parágrafo II del Artículo 22 del [Decreto Supremo Nº 430](https://www.lexivox.org//norms/BO-DS-N430.html), de 10 de febrero de 2010, que Reglamenta la aplicación del Presupuesto General del Estado - Gestión 2010.
+
+**Artículo 8°.- (Beneficiarios)** Son beneficiarios del presente Decreto Supremo:
+
+1. Las personas con discapacidad que cuentan con el respectivo certificado o carnet de discapacidad, expedido por el Ministerio de Salud y Deportes a través de los Servicios Departamentales de Salud - SEDES y el Comité Departamental de Personas con Discapacidad - CODEPEDIS.
+2. El tutor legal o familiar responsable reconocido como tal en el carnet de discapacidad.
+3. Las organizaciones económico productivas conformadas por personas con discapacidad, que cuenten con personalidad jurídica.
+     
+
+   # Disposiciones transitorias
+
+**Artículo transitorio 1°.-** 
+
+1. Los recursos correspondientes a los programas y proyectos aprobados por el Consejo del FNSE en el marco del [Decreto Supremo Nº 256](https://www.lexivox.org//norms/BO-DS-N256.html), de 19 de agosto de 2009, que a la fecha se encuentren inscritos en el Presupuesto General del Estado - Gestión 2010 y cuya ejecución no se encuentre comprometida, serán reasignados en otros programas o proyectos por el Ministerio de Justicia.
+2. Los programas y proyectos aprobados por el Consejo del FNSE en el marco del [Decreto Supremo Nº 256](https://www.lexivox.org//norms/BO-DS-N256.html) que a la fecha se encuentren en la etapa de diseño, deberán iniciar su ejecución hasta su conclusión.
+3. Los Ministerios ejecutores tienen un plazo máximo de tres (3) meses, a partir de la publicación del presente Decreto Supremo para el inicio de la ejecución de los programas con recursos correspondientes a los saldos presupuestarios de la gestión 2009, caso contrario el Ministerio de Justicia previa evaluación y análisis deberá reasignar los recursos en otros programas o proyectos que considere prioritarios.
+4. Para el cumplimiento de los objetivos propuestos se autoriza al Ministerio de Economía y Finanzas Públicas, transferir a los Ministerios ejecutores los saldos presupuestarios no utilizados en la gestión 2009 de programas aprobados por el Consejo del FNSE, debiendo los mismos solicitar los traspasos presupuestarios conforme a normativa vigente.
+
+**Artículo transitorio 2°.-** 
+
+1. Durante el periodo de ejecución del programa destinado a la identificación y carnetización de personas con discapacidad, a cargo del Ministerio de Salud y Deportes, también serán beneficiarios del presente Decreto Supremo aquellas personas con discapacidad que no cuenten con el carnet o certificado de discapacidad pero que hubieran sido identificadas como parte de la población con discapacidad por los programas o proyectos enmarcados en los tres (3) Pilares.
+2. Las personas con discapacidad que no fueron registradas o identificadas mediante los programas señalados, deben seguir su registro conforme a procedimientos vigentes.
+     
+
+   # Disposiciones adicionales
+
+**Artículo adicional Único.-** La implementación o ejecución de los programas y proyectos en el Pilar de Habitabilidad se realizará de acuerdo a reglamentación específica que será aprobada mediante Resolución Ministerial del Ministerio de Obras Públicas, Servicios y Vivienda, en el plazo de sesenta (60) días a partir de la publicación del presente Decreto Supremo.
+  
+
+# Disposiciones abrogatorias y derogatorias
+
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de marzo del año dos mil diez.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Rubén Saavedra Soto MINISTRO DE DEFENSA E INTERINO DE GOBIERNO, Elizabeth Arismendi Chumacero, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, Luís Fernando Vincenti Vargas, Antonia Rodríguez Medrano, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Carmen Trujillo Cárdenas, Sonia Polo Andrade, María Esther Udaeta Velásquez, Roberto Iván Aguilar Gómez, Nemecia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Zulma Yugar Párraga.

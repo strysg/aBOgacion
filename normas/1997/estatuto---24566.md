@@ -1,0 +1,152 @@
+# Bolivia: Estatuto de la Superintendencia Forestal, 10 de abril de 1997
+
+## Capítulo I Bases del Estatuto
+
+**Artículo 1°.- (Constitución y Naturalezas)** La Superintendencia Forestal, creada por [Ley Nº 1700](https://www.lexivox.org//norms/BO-L-1700.html) (Ley Forestal) de 12 de julio de 1996, es un órgano autárquico, con personalidad jurídica, jurisdicción nacional, patrimonio propio e independencia técnica, administrativa y económica, es parte integrante del Sistema de Regulación de Recursos Naturales Renovables (SIRENARE) y tendrá duración indefinida.
+
+**Artículo 2°.- (Objeto y Responsabilidades)** La Superintendencia Forestal tiene como objeto promover, facilitar y controlar la conservación y el uso sostenible de los bosques y tierras forestales del país, asegurando el estricto cumplimiento del Régimen Forestal de la Nación en el otorgamiento, supervisión y control de los derechos forestales, bosques de protección, servidumbres y reservas ecológicas y reservas privadas del patrimonio natural.
+
+**Artículo 3°.- (Organización)** Para el cumplimiento de sus responsabilidades, la Superintendencia Forestal tendrá la siguiente estructura básica:
+  
+I, Dirección Ejecutiva Superintendente Forestal Intendencia de Desarrollo Institucional
+
+1. Control Interno Auditoria Interna,
+2. Dirección Operativa Intendencia Técnica Intendencia de Operaciones f)Intendencia Jurídica. Gerencia de Administración y Finanzas.
+3. Regiones Forestales Unidad Operativa de Bosque.
+   1. Apoyo Técnico
+   2. Apoyo Legal y Logístico.
+
+**Artículo 4°.- (Domicilio y desconcentración)** El domicilio legal de la Superintendencia Forestal es la ciudad de Santa Cruz de la Siena. De conformidad con la Ley Forestal y mediante resolución expresa del Superintendente, se procederá a la desconcentración territorial de sus operaciones.
+
+**Artículo 5°.- (Instrumentos normativos de carácter interno)** Para el cumplimiento de las finalidades de la Entidad y en ejercicio de la independencia de gestión técnica, administrativa y económica que establece la Ley Forestal, el Superintendente Forestal aprobará los manuales, reglamentos internos y las directrices que sean necesarias.
+
+## Capítulo II De la Dirección Ejecutiva y Control
+
+**Artículo 6°.- (Superintendente Forestal)** El Superintendente Forestal es la máxima autoridad ejecutiva, administrativa y representante legal de la Entidad Aprobará la reglamentación interna, supervisará el desempeño de las diferentes instancias institucionales y dictará las resoluciones correspondientes, de acuerdo a la Ley Forestal, sus Reglamentos y demás normas aplicables. Responde por el resultado de su gestión ante las instancias establecidas por Ley y a estos fines tiene, entre otras, las siguientes atribuciones:
+
+1. Aprobar el Plan Operativo a mediano plazo y el Presupuesto Anual para elevarlos a consideración de las instancias pertinentes establecidas por Ley y realizar las actualizaciones que estime pertinentes.
+2. Contratar consultarías y auditorias especializadas, a fin de implantar oportunamente el Régimen Forestal.
+3. Otorgar mediante licitación o directamente, según corresponda, concesiones forestales, prorrogarlas, renovarlas, declarar su caducidad, nulidad o resolución y aprobar los permisos de desmonte mayores a 1.000 ha.
+4. Conocer las denuncias y reclamos referidos al manejo de los recursos forestales y resolverlos de acuerdo a Ley.
+5. Disponer la realización de auditorias forestales externas calificadas e independientes a las concesiones forestales otorgadas.
+6. Conocer y resolver los recursos que le sean presentados, incluyendo conflictos por derechos forestales, de conformidad a la Ley Forestal y su Reglamento.
+7. Delegar bajo su responsabilidad las funciones que estime pertinentes a las Municipalidades o Mancomunidades Municipales con conocimiento de la Prefectura del Departamento, previo dictamen técnico-legal Controlar su cumplimiento a través de las intendencias respectivas.
+8. Presentar un informe anual de gestión al Presidente de la República, con copia al Honorable Congreso Nacional e informes semestrales a la Contraloría General de la República.
+9. Designar y remover al personal de la Superintendencia Forestal, fijando sus funciones y remuneraciones, de conformidad al Reglamento Interno.
+10. Las demás señaladas en la Ley Forestal y su Reglamento,
+
+**Artículo 7°.- (Auditoria Interna)** Auditoria Interna es la unidad de control posterior interno que asesora en forma directa y con plena independencia al Superintendente Forestal, sobre la eficacia, eficiencia, transparencia y responsabilidad por los resultados de la gestión de la Entidad. A este fin tendrá, entre otras, las siguientes funciones y atribuciones:
+
+1. Evaluar el grado de cumplimiento y eficacia de los sistemas de operación, administración, información y de control interno, pudiendo solicitar al Superintendente Forestal la contratación de consultorias especificas, calificadas e independientes.
+2. Opinar sobre la confiabilidad de la información operativa y administrativa, registros contables y estados financieros.
+3. Opinar sobre los resultados y la eficiencia de las operaciones desarrolladas por la Entidad.
+4. Presentar informes de auditoria al Superintendente forestal, a la máxima autoridad que ejerce tuición sobre la Superintendencia y a la Contraloría General de la República.
+
+**Artículo 8°.- ( Intendencia de Desarrollo Institucional)** El Intendente de Desarrollo Institucional es responsable de promover, compatibilizar e integrar las estrategias, políticas y proyectos de desarrollo institucional. Para ello propondrá mecanismos de seguimiento y evaluación de las operaciones de la Entidad
+  
+Elaborará, en coordinación con las Direcciones Operativas, programas de divulgación y capacitación, así como normas para el manejo forestal sostenible. Colaborara en la implementación y seguimiento dé los mismos y en las relaciones con instituciones públicas y privadas, nacionales e internacionales.
+  
+A estos fines responde por el resultado de su gestión ante el Superintendente Forestal y tendrá, entre otras, las siguientes funciones y atribuciones:
+
+1. Asistir al Superintendente Forestal en su relación con el órgano rector y otras reparticiones del Estado para la implementación y desarrollo de estrategias, políticas, planes y normas relacionadas con el Régimen Forestal de la Nación y realizar: el seguimiento de su ejecución por las distintas áreas operativas de la Superintendencia.
+2. Compatibilizar con las Prefecturas de Departamento, las Municipalidades, Mancomunidades Municipales y Comunidades Indígenas, el cumplimiento de las competencias asignadas a cada entidad por ta Ley Forestal, su Reglamento y otras disposiciones relacionadas, promoviendo conjuntamente el desarrollo forestal sostenible.
+3. Desarrollar y coordinar con las instituciones públicas, privadas y agencias nacionales e internacionales de cooperación y financiamiento, acciones, programas y proyectos vinculados al cumplimiento de los objetivos del desarrollo forestal sostenible.
+4. Desarrollar, en coordinación con las intendencias, programas de educación y divulgación de la Ley Forestal, su Reglamento y los programas destinados a promover el desarrollo forestal sostenible.
+5. Promover con el apoyo de las otras intendencias, programas de capacitación para la evaluación del uso de la tierra forestal, efectuar inventarios, elaboración de planes de manejo, planes operativos, programas de procesamiento y abastecimiento de materias primas y otros que conduzcan a lograr los objetivos del desarrollo forestal sostenible.
+6. Compatibilizar e integrar los sistemas de información y base de datos integrándolos con el sistema de información gerencial para contribuir al cumplimiento de las atribuciones conferidas a la Superintendencia Forestal.
+7. Facilitar la información de Régimen Forestal al público en general en sus distintos niveles e intereses. Las demás que le sean asignadas de forma expresa por el Superintendente Forestal
+
+## Capítulo III De las Direcciones Operativas
+
+**Artículo 9°.- (Intendencia Técnica)** El Intendente Técnico es responsable de los aspectos técnicos y científicos, en la formulación e implementación de requisitos, términos de referencia, procesamiento de derechos forestales y contratación de los controles para el manejo sostenible de los recursos forestales, además de llevar los registros estadísticos de la Superintendencia y evaluar el resultado de las políticas y acciones para promover el desarrollo sostenible.
+
+1. A estos fines responde por el resultado de su gestión ante el Superintendente Forestal y tiene, entre otras, las siguientes funciones y atribuciones:
+2. Proponer normas técnicas para inventarios forestales, planes de manejo, planes operativos anuales y procedimientos para programas de abastecimiento y procesamiento de materias primas y otras autorizaciones que correspondan.
+3. Mantener un sistema de información geográfico, en base al cual se emitirán los certificados de uso de la tierra forestal. Desarrollar y proponer estrategias y términos de referencia para el otorgamiento de derechos forestales y otros.
+4. xRevisar y aprobar, mediante informe circunstanciado y de acuerdo a reglamento, los permisos de desmonte de 100 ha a 1.000 ha.
+5. Dictaminar sobre solicitudes de desmonte mayores a 1.000 ha, para su posterior consideración del Superintendente Forestal.
+6. Recomendar al Superintendente la aprobación de los instrumentos que sirvan de titulo para su inscripción en el registro público de concesiones, autorizaciones, permisos forestales; servidumbres, reservas ecológicas y las reservas privadas del patrimonio natural.
+7. Preparar instructivos para inspecciones especiales, elaborar los términos de referencia para las auditorias externas y otras consultorías, realizando el seguimiento de su cumplimiento.
+8. Calificar y llevar los registros de las instituciones elegibles para postular al financiamiento del Fondo Nacional de Desarrollo Forestal (FONABOSQUE) y el de profesionales, técnicos y empresas consultoras forestales, para habilitarse en la contratación de servicios técnicos.
+9. Emitir los dictámenes técnicos que le correspondan conforme a ley, reglamentos, directrices y manuales internos, incluyendo aquellos que se refieren a la procedencia de la caducidad del derecho otorgado y para el establecimiento de servidumbres ecológicas.
+10. Procesar las solicitudes de derechos forestales y de aprobación de inventarios, planes de manejo, planes operativos anuales forestales y programas de abastecimiento y procesamiento de materias primas, para la consideración del Superintendente Forestal.
+11. Apoyar en lo técnico a la Intendencia de Desarrollo Institucional, la Intendencia de Operaciones e Intendencia Jurídica para el cumplimiento de sus respectivas funciones.
+12. Las demás que correspondan a su naturaleza y las que de forma expresa le asigne el Superintendente.
+
+**Artículo 10°.- (Intendencia de Operadores)** El Intendenta de Operaciones es responsable ante el Superintendente Forestal del control posterior de las operaciones forestales y cumplimiento de la Ley Forestal y su Reglamento a nivel de campo. A estos fines, entre otras, tiene las siguientes funciones y atribuciones.
+
+1. Formular y proponer las estrategias y programas de operación de las Unidades Operativas de Bosque en sus labores de inspección y control de las actividades forestales, así como de apoyo técnico, logístico y legal ordenando, supervisando y ajustando oportunamente su cumplimiento.
+2. Verificar en el campo la información relacionada con las solicitudes de derechos forestales y solicitudes de aprobación de ordenamientos prediales, servidumbres ecológicas, inventarios, planes de manejo y plan anual operativo y otros.
+3. Llevar el registro de los aserraderos, barracas y demás industrias de procesamiento de productos forestales maderables y no maderables.
+4. Efectuar el seguimiento e inspecciones para establecer el cumplimiento de las obligaciones que emanan de los derechos forestales, así como verificar las denuncias y en su caso recomendar auditorias forestales externas calificadas e independientes y verificar su cumplimiento y validar los dictámenes para someterlos a consideración del Superintendente Forestal.
+5. Registrar, supervisar y controlar las declaraciones juradas referidas a origen, transpone y comercialización de los productos forestales.
+6. Proponer modificaciones a las directrices, procedimientos, manuales y sugerir otras que considere necesarias a la Intendencia Técnica, con base en la experiencia de campo.
+     
+   Elevar registros actualizados de los informes de ejecución de los planes de manejo, planes operativos anuales, programas de abastecimiento y procesamiento de materias primas e instrumentos subsidiarios y conexos.
+     
+   Las demás que le correspondan por la naturaleza de sus funciones y las que de forma expresa le delegue el Superintendente.
+
+**Artículo 11°.- (Intendencia jurídica)** El Intendente Jurídico es responsable de cumplir y hacer cumplir las disposiciones jurídicas relativas al Régimen Forestal de la Nación en el ámbito de su competencia. A este efecto, podrá proponer la emisión de instructivos y directrices, recomendar y ejecutar las acciones legales pertinentes, verificar y controlar la legalidad de las operaciones forestales, llevar registros y proyectar enmiendas a la normativa especializada en procura de alcanzar una mayor correspondencia entre la norma y la realidad objetiva. Responde por el resultado de su gestión ante el Superintendente Forestal y tendrá entre otras, las siguientes funciones y atribuciones:
+
+1. Proponer las directrices para la adecuada aplicación de las disposiciones legales en las las diferentes instancias de la Superintendencia Forestal.
+2. Prestar apoyo legal al Superintendente Forestal, Intendencia de Desarrollo Institucional, Intendencia Técnica, Intendencia de Operaciones y demás instancias de la entidad, recomendando y adoptando las acciones que correspondan en materia jurídica y otros aspectos que sean sometidos a su consideración.
+3. Dirigir y supervigilar el desempeño de los abogados responsables de las unidades de apoyo legal, para garantizar la correcta aplicación de la ley Forestal y demás disposiciones legales y administrativas inherentes a su función.
+4. Emitir dictámenes jurídicos y dictar resoluciones conforme a ley, reglamentos, directrices y manuales internos.
+5. Llevar el registro de las concesiones, autorizaciones, permisos forestales, servidumbres y reservas ecológicas, tierras comunitarias de origen bajo manejo forestal reservas privadas del patrimonio natural y expedir los certificados y copias que corresponda.
+6. Verificar y evaluar el sistema normativo forestal y proponer modificaciones en procura de alcanzar los objetivos de desarrollo forestal sostenible. Las demás funciones y atribuciones propias de su naturaleza y las que le asigne expresamente el Superintendente Forestal.
+
+**Artículo 12°.- (Gerencia de administración y finanzas)** La Gerencia, de Administración y Finanzas es responsable de la implantación y funcionamiento de los sistemas financieros y no financieros, de administración y control interno incorporados a ellos, de acuerdo a lo dispuesto en la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html). reglamentos y normas concordantes y conexas con el objetivo de lograr el funcionamiento eficaz, eficiente y transparente en las operaciones de la Superintendencia,
+  
+A este fin, responde por el resultado de su gestión ante el Superintendente Forestal y, entre otras, tendrá las siguientes funciones y atribuciones:
+
+1. Proponer, en consulta con las direcciones ejecutiva y operativa, el diseño, organización y actualización de los sistemas de programación y administración de los recursos financieros y no financieros, de información gerencial y contable y controles, de acuerdo a las normas vigentes y en base a los objetivos de la Superintendencia Forestal.
+2. Elaborar en consulta con las direcciones ejecutiva y operativa el Plan Operativo a mediano plazo y Presupuesto Anual de Ingresos y Gastos para su posterior aprobación, controlar su ejecución y mantenerlos actualizados.
+3. Planificar y organizar, en consulta con las otras instancias operativas de la Entidad el desarrollo y administración de personal, los procesos de compras, contrataciones, suministros y el mantenimiento de las instalaciones y equipos de la Superintendencia Forestal.
+4. Realizar las labores de tesorería, cobro de patentes y otros ingresos, administrar los recursos de los entes cooperantes y ejecutar los egresos en cumplimiento del Plan Operativo, el Presupuesto aprobado y la programación financiera.
+5. Diseñar y supervisar el sistema de información gerencial, que integra analíticamente la información operativa, administrativa, contable y otra financiera, en cumplimiento de las normas vigentes, en procura de los objetivos de la Superintendencia Forestal.
+6. Establecer y supervisar el sistema de- recepción, prevención, distribución, seguimiento y Despacho de documentación, así como el manejo de archivos.
+
+## Capítulo IV De las operaciones desconcentradas
+
+**Artículo 13°.- (Unidades operativas de bosques)** Las Unidades Operativas de Bosque son las instancias operativas de promoción y control del manejo sostenible de las tierras forestales, de conformidad a lo establecido en la Ley Forestal y su Reglamento.
+  
+Las Unidades Operativas de Bosque para este fin responden a la Intendencia Operativa y tienen entre otras, las siguientes funciones y atribuciones:
+
+1. Recibir y revisar dentro de su área de trabajo, las solicitudes de ordenamiento predial, inventarios, planes de manejo forestal, solicitudes de desmonte, planes operativos anuales forestales y programas de abastecimiento y procesamiento de materias primas, remitiéndolos a la Intendencia Técnica por intermedio del Intendente de Operaciones con los respectivos comentarios, observaciones y recomendaciones.
+2. Aprobar las solicitudes de desmonte hasta 100 ha, solicitadas por un solo titular y por lapsos no menores de un año entre solicitud y solicitud, de acuerdo a reglamento. Para superficies mayores o más de una solicitud anual, remitirá dichas solicitudes a la Intendencia de Operaciones con los respectivos comentarios, observaciones y recomendaciones.
+3. Verificar replanteos de campo y deslindes necesarios.
+4. Verificar en el campo la implementación de los planes de manejo, planes operativos anuales forestales, programas de abastecimiento y procesamiento de materias primas y permisos de desmonte, de servidumbres ecológicas y planes de ordenamiento predial.
+5. Realizar inspecciones forestales de oficio o por denuncias; disponer las medidas pertinentes; ejercer las atribuciones establecidas en el Reglamento sobre decomisos, multas, clausuras y poner en conocimiento de la Intendencia de Operaciones los resultados y recomendaciones.
+6. Supervigilar los puestos de control fijos y móviles que se establezcan para la verificación de volúmenes y especies de los productos forestales extraídos del área de su acción.
+7. Realizar, en forma permanente, la verificación del suministro y procesamiento de materias primas de acuerdo a sus respectivos programas.
+8. Supervisar a los municipios en las funciones que la Superintendencia Forestal le delegue.
+9. Recopilar la información primaria para la estimación y actualización de las listas referenciales de precios y otros que requieran las instancias superiores.
+10. Recopilar los datos estadísticos y proveerlos a la instancia correspondiente,
+11. Las demás que les sean asignadas.
+
+**Artículo 14°.- (Regiones forestales y apoyo técnico)** 
+
+1. La desconcentración territorial de la Superintendencia Forestal tomará en cuenta los límites de las subcuencas y las diferentes formaciones ecológicas dentro de días. La delimitación de las Regiones Forestales debe ajustarse en base a los limites antes indicados tomando en cuenta la amplitud del área boscosa, infraestructura de acceso vial, la ubicación de los municipios o mancomunidades de municipios donde se genera el aprovechamiento forestal En base a ello, se determinará la ubicación y composición de las unidades operativas de bosque.
+2. Entre las Unidades Operativas de Bosque de cada región forestal y en función de los requerimientos operativos se podrá reforzar con técnicos y especialistas una de aquellas unidades a fin de que preste apoyo técnico especializado a todas las unidades operativas de bosque de la Región Forestal. Según el requerimiento y las actividades a desarrollar, estas unidades reforzadas tendrán el apoyo de la Intendencia Técnica, Intendencia Jurídica e Intendencia de Desarrollo Institucional a través de la Intendencia de Operaciones. Las funciones específicas para cada Unidad Operativa de Bosque reforzada será establecida mediante resolución expresa del Superintendente, a propuesta del Intendente de Operaciones. ILas Unidades Operativas de Bosque reforzadas o no, podrán contar según sus necesidades con Unidades Móviles en forma temporal o permanente.
+
+**Artículo 15°.- (Unidades de apoyo legal y logístico)** Las unidades de apoyo legal y/o logístico serán establecidas por resolución del Superintendente Forestal en las poblaciones que permitan eficiente y oportuno apoyo legal y logístico a las Unidades Operativas de Bosque y faciliten el acceso de la población rural a los servicios de la Superintendencia Forestal. Las funciones de estas unidades serán establecidas en el reglamento interno.
+
+## Capítulo V Del financiamiento, patrimonio y control externo
+
+**Artículo 16°.- (Financiamiento)** Son recursos de la Superintendencia Forestal los señalados en la [Ley Nº 1700](https://www.lexivox.org//norms/BO-L-1700.html) y el [Decreto Supremo Nº 24453](https://www.lexivox.org//norms/BO-DS-24453.html), las asignaciones presupuestarias del Tesoro General de la Nación, legados, donaciones, el producto de empréstitos concesionales, aportes no reembolsables, contraprestaciones por servicios, recuperaciones de cuentas por cobrar y otros que le sean asignados por disposiciones legales,
+
+**Artículo 17°.- (Patrimonio)** El patrimonio de la Superintendencia Forestal está constituido por todos los bienes muebles e inmuebles que pertenecían a la Dirección Nacional del Centro de Desarrollo Forestal y a las Unidades Técnicas Descentralizadas, los que obtenga por compra, expropiación, legados y donaciones.
+
+**Artículo 18°.- (Control posterior externo)** La Superintendencia Forestal está sujeta al control posterior externo de la Contraloría General de la República, en cumplimiento de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) del 20 de julio de 1990. de otras instancias señaladas por Ley y por auditorias externas calificadas e independientes, contratadas por la misma Superintendencia, por lo menos anualmente.
+
+## Capítulo VI Disposiciones transitorias
+
+**Artículo transitorio 1°.-** En tanto se definan los limites de las regiones forestales, la Intendencia de Operaciones, establecerá por lo menos una Unidad Operativa de Bosque en lo posible reforzada en áreas en las que se encuentran importantes superficies de aprovechamiento y conservación forestal, disponiendo para este efecto de Unidades Móviles, si fuera necesario. La Intendencia de Operaciones, establecerá puestos de control enjugares estratégicos.
+
+**Artículo transitorio 2°.-** En tanto se establece el Régimen de Personal, el Superintendente tendrá la facultad de contratar personal a plazo fijo, por lapsos no mayores a dos años.
+
+---
+
+Estatuto Anexo al [Decreto Supremo Nº 24566](https://www.lexivox.org//norms/BO-DS-24566.html) promulgado a los diez días del mes de abril de mil novecientos noventa y siete años.
+  
+GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Victor Hugo Canelas Zannier, Alfonso Erwin Kreidler Guillaux, Rudy Araujo Medinacelli. René Oswaldo Blattmann Bauer, Gonzalo Afcha de la Parra, Oscar Sandoval Morón, Moisés Jarmúsz Levy, Alberto Vargas Covarrubias, Mauricio Antezana Villegas, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

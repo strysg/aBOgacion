@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 25935, 10 de octubre de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el artículo 4 del Reglamento de Transporte de Hidrocarburos por Ductos aprobado por [Decreto Supremo Nº 24398](https://www.lexivox.org//norms/BO-DS-24398.html) de 31 de octubre de 1996 define el Período Transitorio, como el período de cuatro (4) años a partir de la conclusión del proceso de capitalización de la unidad de transporte, donde el socio capitalizador asume la responsabilidad plena de la administración de la concesión. Durante este período de cuatro (4) años regirá en todo el país una tarifa única promedio ponderada para cada tipo de ducto o conjunto de ductos existentes y nuevos.
+* Que el artículo 46 de la norma legal precitada establece que los términos, condiciones y tarifas de transporte, serán revisadas por la Superintendencia cada cuatro (4) años. Esta revisión será realizada ciento ochenta (180) días antes de finalizado este período y aprobado treinta (30) días antes de fenecido el mismo.
+* Que el Supremo Gobierno, a la fecha viene revisando las estructuras y tipos de tarifas a aplicarse pasado el período transitorio, por lo que se hace necesario posponer el término de revisión de los términos, condiciones y tarifas de transporte ya próximo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Modificase el artículo 46 del Reglamento de Transporte de Hidrocarburos por Ductos, aprobado mediante [Decreto Supremo Nº 24398](https://www.lexivox.org//norms/BO-DS-24398.html) de 31 de octubre de 1996, en la forma que se indica a continuación:
+> “Artículo 46.- Las revisiones se sujetarán a los párrafos siguientes:
+>   
+> I.- La revisión tarifaria de los términos, condiciones y tarifas de transporte de la unidad de transporte resultante del proceso de capitalización, serán realizados por la Superintendencia cada CUATRO (4) años. La primera revisión será realizada NOVENTA (90) días antes de finalizado el período transitorio y aprobado TREINTA (30) días antes de fenecido el mismo. La Superintendencia mediante resolución fundada podrá modificar los plazos anteriormente mencionados. Las restantes revisiones se sujetarán a lo dispuesto en el siguiente parágrafo.
+>   
+> II.- Los términos, condiciones y tarifas de transporte, serán revisados por la Superintendencia cada CUATRO (4) años. Esta revisión será realizada CIENTO OCHENTA (180) días antes de finalizado este período y aprobado TREINTA (30) días antes de fenecido el mismo.”
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Económico queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de octubre del año dos mil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, Ronald Mac Lean Abaroa, Juan Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vásquez Villamor, Oswaldo Antezana Vaca Diez, José Luis Carvajal Palma, Carlos Saavedra Bruno, Rubén Poma Rojas, Manfredo Kempff Suárez,

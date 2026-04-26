@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 29841, 10 de diciembre de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 22 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) de 20 de julio de 1990, de Administración y Control Gubernamentales, y el Artículo 12 de la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006, de Organización de Poder Ejecutivo, establecen que el Ministerio de Hacienda es el órgano rector del sistema de presupuesto.
+* Que el inciso g) del Artículo 3 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006, estimula la implementación de políticas fiscales que eviten gastos superfluos y dispendiosos, debiendo hacer uso racional y adecuada disposición de todos los bienes, servicios y recursos económicos del Estado.
+* Que el Artículo 2 del [Decreto Supremo Nº 29364](https://www.lexivox.org//norms/BO-DS-29364.html) de 5 de diciembre de 2007, modificatorio del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, prohíbe a las entidades públicas la compra o alquiler de vehículos y autoriza excepcionalmente ese tipo de adquisiciones solo en casos de extrema necesidad, previa justificación y certificación del Servicio Nacional de Patrimonio del Estado - SENAPE, que acredite la inexistencia de los vehículos requeridos.
+* Que el inciso a) del Artículo 20 de la [Ley Nº 1654](https://www.lexivox.org//norms/BO-L-1654.html) de 28 de julio de 1995, de Descentralización Administrativa, establece que las regalías departamentales creadas por ley se constituyen en recursos de dominio y uso departamental, que serán administrados por los Prefectos de Departamento.
+* Que el inciso f) del Artículo 5 de la [Ley Nº 1654](https://www.lexivox.org//norms/BO-L-1654.html), establece que el Prefecto tiene, entre otras, las atribuciones de formular y ejecutar Programas y Proyectos de Inversión Pública en el marco de Plan Departamental de Desarrollo y de acuerdo a las normas del Sistema Nacional de Inversión Pública.
+* Que los proyectos productivos en minería, ganadería, agricultura, piscicultura, manejo de recursos naturales y capacitación, contribuyen al fortalecimiento de la base productiva del desarrollo regional debido a que estos proyectos y programas se encuentran en áreas dispersas e inaccesibles del área rural, donde las movilidades realizaran el traslado de materiales y personal técnico.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se Autoriza a la Prefectura del Departamento de Oruro, la compra de diez (10) camionetas 4x4 y diecinueve (19) motocicletas, modelo estándar, destinadas al cumplimiento de la ejecución de diferentes proyectos, de acuerdo al Anexo adjunto, en el marco de las disposiciones y normas vigentes del Sistema de Administración de Bienes y Servicios.
+2. La compra de los vehículos se financiará con recursos provenientes del Impuesto Especial a los Hidrocarburos y sus Derivados, Regalías Departamentales y otros Recursos Específicos, presupuestados en la gestión 2008.
+3. Una vez concluidos los proyectos, los vehículos serán dispuestos a otros proyectos de la Prefectura del Departamento de Oruro.
+
+---
+
+El señor Ministro de Estado, en Despacho de la Presidencia, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de diciembre del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RR. EE. Y CULTOS, Walker Sixto San Miguel Rodríguez, MINISTRO DE DEFENSA NACIONAL E INTERINO DE GOBIERNO, Celima Torrico Rojas, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Susana Rivero Guzmán, Oscar Coca Antezana, Carlos Romero Bonifaz, Saúl Ávalos Cortez, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, Jorge Ramiro Tapia Sainz, Roberto I. Aguilar Gomez, Héctor E. Arce Zaconeta.

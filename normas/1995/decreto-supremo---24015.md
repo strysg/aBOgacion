@@ -1,0 +1,45 @@
+# Bolivia: Decreto Supremo Nº 24015, 20 de mayo de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1544](https://www.lexivox.org//norms/BO-L-1544.html) de 21 de marzo de 1994 (Ley de Capitalización) en su artículo primero autoriza al Poder Ejecutivo a la constitución de nuevas sociedades de economía mixta, con los activos y/o derechos de las empresas públicas y los aportes de los trabajadores bolivianos de dichas empresas, hasta el monto de sus beneficios sociales.
+* Que la [Ley Nº 1604](https://www.lexivox.org//norms/BO-L-1604.html) de 21 de diciembre de 1994 (Ley de Electricidad) dispone en su artículo 15 que las empresas eléctricas en el Sistema Interconectado Nacional deberán estar desagregadas en empresas de generación, transmisión y distribución y dedicadas a una sola de estas actividades.
+* Que el inciso c) del mencionado artículo establece que las empresas de generación no podrán ser titulares de derecho propietario equivalente a más del 35% de la capacidad instalada del Sistema Interconectado Nacional.
+* Que al Empresa Nacional de Electricidad S.A. (ENDE) ha cursado a sus trabajadores la propuesta para la formación de tres sociedades de economía mixta, por la conversión de las unidades económicas Corani, Valle Hermoso y Guaracachi, con el objeto de realizar la actividad de generación eléctrica.
+* Que la mencionada propuesta consiste en la suscripción y pago de una acción por cada trabajador que lo desee, para la formación de las sociedades economía mixta, con un contrato de opción, en favor del mismo, para comprar acciones del Sector Público de cualquiera de dichas sociedades, a su valor en libros, hasta el límite establecido en el artículo primero de la Ley de Capitalización.
+* Que dicha opción deberá ser ejercida dentro del plazo establecido, una vez conocidas las propuestas económicas de los socios inversionistas para la capitalización a ser seleccionados mediante licitación pública internacional, de conformidad a la Ley de Capitalización.
+* Que en fecha 17 de mayo de 1995, se han suscrito los convenios de formación de las respectivas sociedades de economía mixta, entre el interés privado, constituido por los trabajadores de ENDE y el sector público, constituido por ENDE, aprobando los proyectos escritura de constitución y estatutos.
+* Que el artículo segundo de la Ley de Capitalización autoriza y aprueba los acuerdos requeridos para la conversión en sociedades de economía mixta de acuerdo a disposiciones en vigencia, de las empresas públicas, incluyendo a ENDE, que especifiquen como aportes del Estado el valor en libros del patrimonio de dichas empresas.
+* Que el inciso 3) del artículo 428 del Código de Comercio establece como requisito para la constitución de una sociedad de economía mixta la autorización de la formación de la sociedad y aprobación de los documentos constitutivos mediante decreto supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorízase la formación de la Empresa Eléctrica Guaracachi Sociedad de Economía Mixta (Empresa Guaracachi S.A.M.) y apruebase su proyecto de contrato de constitución en sus 9 cláusulas y estatutos en sus 8 títulos y 95 artículos.
+
+**Artículo 2°.-** Dispónese la protocolización de sus documentos constitutivos ante notaría de fe pública del distrito correspondiente, como persona de derecho privado, de conformidad al artículo 425 del Código de Comercio.
+
+**Artículo 3°.-** Reconócese la personalidad jurídica de la Empresa Eléctrica Guaracachi Sociedad de Economía Mixta (Empresa Guaracachi S.A.M.).
+
+**Artículo 4°.-** Apruébase el aporte del Sector Público constituido por ENDE, por el valor en libros del patrimonio que asciende a Bs167.886.300. (ciento sesenta y siete millones ochocientos ochenta y seis mil trescientos 00/100 Bolivianos), equivalente al 99,983% (noventa y nueve coma novecientos ochenta y tres por ciento) del capital social, de la Empresa Guaracachi S.A.M., de acuerdo al balance de apertura que forma parte de su escritura constitutiva.
+
+**Artículo 5°.-** El valor señalado en el artículo anterior, será ajustado de acuerdo a las ofertas económicas del inversionista, a ser seleccionado para la capitalización de la Empresa Guaracachi S.A.M., mediante licitación pública internacional de conformidad con la Ley de Capitalización
+
+**Artículo 6°.-** Autorizase a ENDE la transferencia de las acciones estatales emitidas por la Empresa Guaracachi S.A.M., en favor de los trabajadores de ENDE, al valor en libros, hasta el limite de sus beneficios sociales, de acuerdo a los contratos de opción suscritos.
+
+**Artículo 7°.-** Dispónese la transferencia, a título gratuito, de las acciones de propiedad de ENDE en la Empresa Guaracachi S.A.M., en favor del Ministerio sin Cartera Responsable de Capitalización, a partir de la fecha de entrada en vigencia de la Ley de Electricidad.
+
+**Artículo 8°.-** Procédase con los actos necesarios para la capitalización de la Empresa Guaracachi S.A.M., de conformidad con el [Decreto Supremo Nº 23985](https://www.lexivox.org//norms/BO-DS-23985.html) y resolución suprema 215485, de 30 de marzo de 1995.
+
+---
+
+El Señor Ministro en el despacho sin Cartera Responsable de Capitalización queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de mayo de mil novecientos noventa y cinco años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Carlos Sánchez Berzaín, Raúl Tovar Piérola, José G. Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

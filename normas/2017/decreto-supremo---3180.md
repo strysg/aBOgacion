@@ -1,0 +1,52 @@
+# Bolivia: Decreto Supremo Nº 3180, 10 de mayo de 2017
+
+[Decreto Supremo Nº 3180](https://www.lexivox.org//norms/BO-DS-N3180.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 76 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que el Estado garantiza el acceso a un sistema de transporte integral en sus diversas modalidades. La ley determinará que el sistema de transporte sea eficiente y eficaz, y que genere beneficios a los usuarios y a los proveedores.
+* Que el [Decreto Supremo Nº 24315](https://www.lexivox.org//norms/BO-DS-24315.html), de 14 de junio de 1996, dispuso que los Servicios Públicos Aeroportuarios puedan ser otorgados en concesión a personas individuales o colectivas nacionales o extranjeras mediante licitación pública, habiéndose firmado el 28 de febrero de 1997, el Contrato de Concesión para la administración, operación, mantenimiento, explotación económica y expansión de los aeropuertos internacionales de: “El Alto” del Departamento de La Paz, “Jorge Wilstermann” del Departamento de Cochabamba y “Viru Viru” del Departamento de Santa Cruz, entre la Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea - AASANA y la empresa Airport Group International A. G. I.
+* Que la Empresa Servicios de Aeropuertos Bolivianos Sociedad Anónima - SABSA, de acuerdo a lo establecido en el Contrato de Concesión, formaba parte de la compañía Airport Group International, Grupo que a su vez estaba encabezado por la sociedad Airport Group International Holdings LLC-AGIH, la cual fue adquirida por la Corporación TBI el 20 de septiembre de 1999. El 31 de diciembre de 2004, el paquete accionario del Grupo TBI PLC fue adquirido por Airport Concessions & Development Limited - ACDL, sociedad que se encuentra encabezada actualmente por Abertis Infraestructuras S. A.
+* Que el [Decreto Supremo Nº 1494](https://www.lexivox.org//norms/BO-DS-N1494.html), de 18 de febrero de 2013, nacionaliza a favor del Estado Plurinacional de Bolivia, representado por el Ministerio de Obras Públicas, Servicios y Vivienda, el paquete accionario que poseía la compañía TBI Overseas Bolivia, perteneciente a la sociedad ACDL encabezado por Abertis S. A. en SABSA.
+* Que la [Ley Nº 2360](https://www.lexivox.org//norms/BO-L-2360.html), de 7 de mayo de 2002, ratifica el Acuerdo para la Promoción y Protección Recíproca de Inversiones, suscrito entre el Reino de España y la República de Bolivia, en la ciudad de Madrid el 29 de octubre de 2001.
+* Que por carta notariada de 18 de mayo de 2009, Abertis Infraestructuras S. A. solicitó al Estado Plurinacional de Bolivia el inicio de consultas amistosas, de conformidad con el Artículo 11 del Acuerdo para la Promoción y Protección Recíproca de Inversiones, citado precedentemente.
+* Que Abertis Infraestructuras S. A. ha iniciado ante la Corte Permanente de Arbitraje, una demanda arbitral en contra del Estado Plurinacional de Bolivia, por $us85.573.349.- (OCHENTA Y CINCO MILLONES QUINIENTOS SETENTA Y TRES mil TRESCIENTOS CUARENTA Y NUEVE 00/100 DÓLARES ESTADOUNIDENSES), Caso CPA Nº 2011-14, conforme al Reglamento de Arbitraje de la Comisión de Naciones Unidas para el Derecho Mercantil Internacional, y que a la fecha se encuentra a la espera que el Tribunal Arbitral emita el correspondiente Laudo.
+* Que en los acercamientos llevados adelante por el Ministerio de Obras Públicas, Servicios y Vivienda, la AASANA, la empresa SABSA nacionalizada y la Procuraduría General del Estado, se logró que Abertis Infraestructura S. A., por sí misma, y a nombre de sus empresas subsidiarias, controladas, controlantes y afiliadas, acepte como indemnización adecuada, efectiva y definitiva el monto de $us23.000.000.- (VEINTITRÉS MILLONES 00/100 DÓLARES ESTADOUNIDENSES).
+* Que la consultora independiente PKF García Veramendi & Asociados estimó el valor de mercado del cien por ciento (100%) del capital accionario de la empresa SABSA, señalando un monto mayor al establecido como indemnización en favor de la empresa Abertis Infraestructuras S. A.
+* Que el Informe PGE/SPDRLE/DGD2 Nº 018/2017, de 5 de mayo de 2017, emitido por la Procuraduría General del Estado, con base en el análisis realizado y las conclusiones señaladas, recomienda la suscripción en los términos establecidos en el principio de acuerdo del Contrato Transaccional de Solución Definitiva de Controversia, Terminación de Arbitraje Internacional de Inversiones, Reconocimiento de Derechos, y Liberación General Recíproca de Obligaciones, para la solución de la controversia y la consolidación del proceso de nacionalización de la empresa SABSA.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministro de Obras Públicas, Servicios y Vivienda, y al Director General Ejecutivo de Aeropuertos y Servicios Auxiliares a la Navegación Aérea - AASANA, suscribir el “Contrato Transaccional de Solución Definitiva de Controversia, Conclusión de Arbitraje Internacional de Inversiones, Reconocimiento de Derechos y Liberación General y Recíproca de Obligaciones”, reconociendo como indemnización adecuada, efectiva y definitiva, la suma de $us23.000.000.- (VEINTITRÉS MILLONES 00/100 DÓLARES ESTADOUNIDENSES) en favor de Abertis Infraestructuras S. A., por la nacionalización del paquete accionario que poseía la compañía TBI Overseas Bolivia, perteneciente a la sociedad Airport Concessions & Development Limited - ACDL encabezado por Abertis Infraestructuras S. A. en Servicios de Aeropuertos Bolivianos Sociedad Anónima - SABSA, pagaderos en fondos de libre e inmediata disponibilidad, según valuación independiente y actualizada.
+2. El Contrato deberá especificar el cumplimiento total y definitivo por parte del Estado Boliviano de las obligaciones emergentes de la nacionalización de SABSA, la renuncia expresa de Abertis Infraestructuras S. A., por sí misma y a nombre de sus empresas subsidiarias, controladas, controlantes y afiliadas, a cualquier reclamación posterior, y la consolidación definitiva de SABSA a favor del Estado Boliviano.
+3. Conforme a lo establecido en el “Contrato Transaccional de Solución Definitiva de Controversia, Conclusión de Arbitraje Internacional de Inversiones, Reconocimiento de Derechos y Liberación General y Recíproca de Obligaciones”, se instruye a AASANA a realizar el pago indemnizatorio a Abertis Infraestructuras S. A., por la nacionalización de la totalidad de las acciones que poseía en SABSA.
+     
+
+   # Disposiciones adicionales
+
+**DISPOSICIÓN ADICIONAL ÚNICA.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, realizar el traspaso presupuestario interinstitucional del Tesoro General de la Nación - TGN al Ministerio de Obras Públicas, Servicios y Vivienda, por un monto de Bs160.080.000.- (CIENTO SESENTA MILLONES OCHENTA mil 00/100 BOLIVIANOS) equivalente a $us23.000.000.- (VEINTITRÉS MILLONES 00/100 DÓLARES ESTADOUNIDENSES) al tipo de cambio de Bs6,96 (SEIS 96/100 BOLIVIANOS) para su transferencia a AASANA destinados al cumplimiento de lo establecido en el Parágrafo III del Artículo Único del presente Decreto Supremo.
+2. Los costos administrativos y financieros emergentes de lo dispuesto en el Parágrafo I, serán asumidos por AASANA.
+3. Se autoriza al Ministerio de Economía y Finanzas Públicas, realizar las modificaciones presupuestarias necesarias para dar cumplimiento al presente Decreto Supremo.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de mayo del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, Fernando Huanacuni Mamani, René Martínez Callahuanca, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Mariana Prado Noya, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela MINISTRO DE ENERGÍAS E INTERINO DE MINERÍA Y METALURGIA, Eugenio Rojas Apaza, Milton Claros Hinojosa, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

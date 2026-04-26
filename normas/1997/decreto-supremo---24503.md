@@ -1,0 +1,54 @@
+# Bolivia: Decreto Supremo Nº 24503, 21 de febrero de 1997
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que, el Tratado de Montevideo 1980, suscrito por la República de Bolivia en 12 de agosto de 1980 y ratificado por [Decreto Supremo Nº 18508](https://www.lexivox.org//norms/BO-DS-18508.html) de 23 de julio de 1981, instituyó la Asociación Latinoamericana de Integración (ALADI), en sustitución de la Asociación Latinoamericana de Libre Comercio (ALALC);
+* Que se requiere especificar el contexto jurídico e institucional de cooperación, integración y complementación económica a establecerse con los países de la Región, contribuyendo al establecimiento de un espacio económico ampliado y a la plena utilización de los factores productivos;
+* Que en el marco de las negociaciones sostenidas por Bolivia con los Estados Partes del MERCOSUR (Argentina, Brasil, Paraguay y Uruguay), mediante el Acuerdo de Complementación Económica No.34 se acordó la multilateralización de las preferencias que se tenía negociadas bilateralmente con cada uno de los Estados Partes del MERCOSUR;
+* Que el señalado Acuerdo de Complementación Económica No.34, fenece en su vigencia el 28 de febrero de 1997;
+* Que el Gobierno de Bolivia y los Gobiernos de los Estados Partes del MERCOSUR, en el marco del Tratado de Montevideo 1980 suscribieron en la ciudad brasileña de Fortaleza, el 17 de diciembre de 1996, el Acuerdo de Complementación Económica No.36, conducente a la conformación de una Zona de Libre Comercio entre Bolivia y el señalado bloque subregional del MERCOSUR.
+* Que mediante el indicado Acuerdo se consolidó el mercado de los países miembros del MERCOSUR y de Bolivia, para su intercambio comercial, estableciendo las normas necesarias para el oportuno desarrollo del comercio y la inversión, conducente a la optimización de las relaciones económicas y comerciales entre ambas partes.
+* Que el Acta de Fortaleza suscrito el 17 de diciembre de 1996, simultáneamente a la suscripción del Acuerdo de Complementación Económica No.36, establece que este Acuerdo está constituido, por los siguientes documentos: a) El texto normativo de Acuerdo originalmente rubricado en la provincia argentina de San Luis, el 25 de junio de 1996, con las modificaciones acordadas; b) Los anexos 1 al 8 en los que se inscriben los listados de productos del Programa de Liberación Comercial, sujetos a desgravaciones arancelarias específicas; c) Anexo No.9 sobre Régimen de Origen; d) Anexo No.10 sobre Aplicación de Medidas de Salvaguardia; e) Anexo No.11 sobre Régimen de Solución de Controversias; f) Notas Complementarias de los artículos 5, 6 y 7 del Acuerdo y g) Protocolo sobre Integración Física.
+* Que es necesario disponer la vigencia administrativa del Acuerdo de Complementación Económica No.36 para el cumplimiento de los compromisos internacionales asumidos por el Gobierno de Bolivia, de conformidad a lo establecido en el inciso d) del artículo 127 del [Decreto Supremo Nº 21660](https://www.lexivox.org//norms/BO-DS-21660.html) de 10 de julio de 1987.
+
+EL CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Dispónese la vigencia administrativa del Acuerdo de Complementación Económica No.36 suscrito en la ciudad brasileña de Fortaleza, entre el Gobierno de Bolivia y los Gobiernos de los Estados Partes del MERCOSUR (Argentina, Brasil, Paraguay y Uruguay), el 17 de diciembre de 1996, conducente a la conformación de una Zona de Libre Comercio entre Bolivia y el Mercado Común del Sur, a partir del 28 de febrero de 1997.
+
+**Artículo 2°.-** El Gobierno de Bolivia se compromete, en cumplimiento del mencionado Acuerdo de Complementación Económica No.36, aplicar las concesiones arancelarias del Gravamen Aduanero Consolidado (GAC) otorgadas a la importación de los productos originarios de los Estados Partes del MERCOSUR, de conformidad a los porcentajes y al cronograma de desgravación arancelaria establecidos en los siguientes Anexos del Programa de Liberación Comercial:
+  
+- Anexo 2: Los productos del Acuerdo de Complementación Económica No 34 con márgenes de preferencia entre 30% y 80%, y los productos sujetos a un cronograma de desgravación particular.
+  
+- Anexos 3 al 6: Listas de productos sensibles.
+  
+- Anexo 7: Productos de desgravación arancelaria inmediata al 100%.
+
+**Artículo 3°.-** Las concesiones arancelarias del Gravamen Aduanero Consolidado (GAC) para los productos no incluidos en las listas que integran los Anexos 2 al 7 del mencionado Acuerdo, se regirán de conformidad a los porcentajes y al cronograma de desgravación arancelaria previstos en el inciso a) del artículo 2 del Acuerdo de Complementación Económica No.36.
+
+**Artículo 4°.-** Se dispone la no aplicación de restricciones no arancelarias a la importación de los productos señalados en los artículos 2 y 3 del presente Decreto Supremo, salvo lo dispuesto en los Acuerdos de la Organización Mundial del Comercio, y manteniéndose las medidas existentes que constan en las Notas Complementarias del mencionado Acuerdo.
+
+**Artículo 5°.-** Se debe cumplir, para los fines de los artículos 2 y 3 de este Decreto Supremo, con las condiciones sobre Normas de Origen previstas en el Régimen de Origen, contenido en el Anexo 9 del Acuerdo.
+
+**Artículo 6°.-** Asimismo, Bolivia podrá aplicar las medidas de salvaguardia establecidas en el Anexo 10 del Acuerdo.
+
+**Artículo 7°.-** Las controversias que surjan entre Bolivia y el MERCOSUR con relación a la interpretación, aplicación o incumplimiento de las disposiciones contenidas en el Acuerdo de Complementación Económica No.36 y en los instrumentos y Protocolos suscritos o que se suscriban en el marco del mismo, serán sometidas al procedimiento de Solución de Controversias establecido en el Anexo 11 del Acuerdo.
+
+**Artículo 8°.-** Dispónese que no se aplicará, para los efectos del artículo 2 de este Decreto, el artículo único del [Decreto Supremo Nº 14582](https://www.lexivox.org//norms/BO-DS-14582.html) del 15 de mayo de 1977 ni la consiguiente disposición de la resolución ministerial 639/77 de 15 de julio de 1977, así como toda otra disposición legal contraria a este Decreto Supremo.
+
+**Artículo 9°.-** Se abrogan los Decretos Supremos [Nº 23827](https://www.lexivox.org//norms/BO-DS-23827.html) y [Nº 24059](https://www.lexivox.org//norms/BO-DS-24059.html) de fechas 2 de agosto de 1994 y 6 de julio de 1995, respectivamente, referidos a la vigencia del Acuerdo de Alcance Parcial para la Liberación del Comercio de Hidrocarburos y sus derivados entre la República Argentina y la República de Bolivia.
+
+**Artículo 10°.-** Se deroga el artículo 2, incisos a), c) y d) del [Decreto Supremo Nº 22850](https://www.lexivox.org//norms/BO-DS-22850.html) de 9 de julio de 1991 para los productos procedentes de Argentina, Brasil, Paraguay y Uruguay, regulados por el mecanismo de la Preferencia Arancelaria Regional (PAR).
+
+---
+
+Los señores Ministros de Estado en los Despachos de Relaciones Exteriores y Culto, Hacienda y Sin Cartera Responsable de Desarrollo Económico, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de febrero de mil novecientos noventa y siete años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Victor Hugo Canelas Zannier, MINISTRO SUPLENTE DE GOBIERNO, Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Oscar Sandoval Morón, MIN. SUPLENTE DE DESARROLLO HUMANO, Moisés Jarmúsz Levy, Hugo San Martín Arzabe, Mauricio Balcazar G., Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

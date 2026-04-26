@@ -1,0 +1,199 @@
+# Bolivia: Decreto Supremo Nº 28271, 28 de julio de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 10 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) de 20 de julio de 1990 – Ley de Administración y Control Gubernamentales, determina que el Sistema de Administración de Bienes y Servicios establecerá la forma de contratación, manejo y disposición de bienes y servicios.
+* Que el Artículo 20 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html), establece las atribuciones básicas de los órganos rectores, entre las cuales se encuentra la de emitir las normas y reglamentos básicos para cada sistema.
+* Que la [Ley Nº 2446](https://www.lexivox.org//norms/BO-L-2446.html) de 19 de marzo de 2003 – Ley de Organización del Poder Ejecutivo, establece que es atribución del Ministro de Hacienda ejercer las facultades de autoridad fiscal y órgano rector del Sistema de Administración de Bienes y Servicios.
+* Que el Artículo 18 del [Decreto Supremo Nº 27732](https://www.lexivox.org//norms/BO-DS-27732.html) de 15 de septiembre de 2004, establece que la Dirección General de Sistemas de Administración Gubernamental, por delegación del órgano rector, es responsable de reglamentar, ejecutar y controlar el cumplimiento de lo establecido en el Artículo 20 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) y sus Decretos Reglamentarios, para el Sistema de Administración de Bienes y Servicios.
+* Que la política estatal de apoyo a la producción nacional y a la generación de empleo sostenible, debe garantizar igualdad de oportunidades para todos los sectores económicos.
+* Que el [Decreto Supremo Nº 28136](https://www.lexivox.org//norms/BO-DS-28136.html) de 16 de mayo de 2005, establece modificaciones al [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de Contrataciones de Bienes, Obras, Servicios Generales y de Consultoría, las mismas que deben ser ampliadas y mejoradas a fin de lograr eficiencia y transparencia en los procesos de contratación del Estado.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica – CONAPE en fecha 20 de julio de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto realizar modificaciones al [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html) de 31 de enero de 2004, referido a los Procesos de Contratación de Bienes, Obras, Servicios Generales y de Consultoría.
+
+**Artículo 2°.- (Modificacion del Articulo 7)** I. Se modifican los incisos d) y h) del Artículo 7 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html) de 31 de enero de 2004, de la siguiente manera:
+> d) Las personas individuales y colectivas que tengan deudas tributarias con título de ejecución tributaria firme, según lo establecido en el Numeral 4 del Artículo 110 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html) de 2 de agosto de 2003 – Código Tributario Boliviano.
+>   
+> h) Los servidores públicos y las empresas controladas por éstos, con la dependencia de la entidad pública en la que prestaron servicios, hasta un año después del cese de sus funciones.
+
+1. Se incluye el inciso i) en el Artículo 7 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html) de 31 de enero de 2004, con el siguiente texto:
+   > i) Las personas individuales o colectivas que presenten más de una propuesta dentro del mismo proceso de contratación, sea de forma individual o asociada.
+
+**Artículo 3°.- (Modificacion del Articulo 12)** Se modifica el Artículo 12 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de la siguiente manera:
+> Artículo 12° (Cancelacion, suspension y anulacion del proceso de contratacion). La Máxima Autoridad Ejecutiva mediante Resolución Administrativa expresa, técnica y legalmente motivada podrá, hasta antes de la suscripción del contrato cancelar, anular o suspender un proceso de contratación, de acuerdo con el procedimiento establecido en el Reglamento.
+>   
+> La Resolución Administrativa emitida, deberá ser notificada a los proponentes y publicada en la Gaceta Oficial de Convocatorias y el Sistema de Información de Contrataciones Estatales. La entidad convocante en estos casos, no asumirá responsabilidad alguna respecto a los proponentes afectados por esta decisión.
+
+**Artículo 4°.- (Modificacion del Articulo 14)** Se incluye como cuarto párrafo en el inciso a) del Parágrafo II del Artículo 14 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), el siguiente texto:
+> En la contratación de servicios de consultoría, el valor de la garantía de seriedad de propuesta deberá corresponder al cero punto cinco por ciento (0.5%) del valor de la propuesta presentada.
+
+**Artículo 5°.- (Modificacion del Articulo 18)** Se modifica el Artículo 18 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de la siguiente manera:
+> ARTICULO 18.- (Transparencia en la informacion sobre los procesos de contratacion).
+>   
+> I. Las entidades públicas, independientemente de la fuente de financiamiento y de la norma utilizada para las contrataciones, tendrán la obligación de registrar en el Sistema de Información de Contrataciones Estatales la siguiente información de cada uno de los procesos de contratación:
+>   
+> 1. Programa Anual de Contrataciones.
+>   
+> 2. Inicio de proceso de contratación mediante convocatoria pública para procesos realizados bajo las siguientes modalidades: Contratación Menor por Comparación de Precios desde Veinte Mil Uno (Bs. 20.001) hasta Ciento Sesenta Mil Bolivianos (Bs. 160.000), cuya publicación es obligatoria en el SICOES, Licitación Pública, Contratación por Concurso de Propuestas, Contratación Menor de Firmas Consultoras, Contratación de Servicios de Consultoría Individual y cualquier modalidad definida por la normativa del financiador siempre que requiera de publicación.
+>   
+> 3. Pliego de Condiciones, Solicitud de Propuestas, Requisitos de Precalificación o expresiones de interés y demás documentos que especifiquen condiciones para una convocatoria pública.
+>   
+> 4. Ampliación de plazos, cancelación, anulación y suspensión de los procesos de contratación.
+>   
+> 5. Resultados de los procesos de precalificación, expresiones de interés y licitación en dos etapas.
+>   
+> 6. Finalización de los procesos de contratación o declaratoria desierta.
+>   
+> 7. Recursos administrativos interpuestos y resueltos.
+>   
+> 8. Contrataciones por excepción.
+>   
+> 9. Resolución de contratos.
+>   
+> 10. Información sobre la recepción de bienes, obras, servicios generales y de consultoría.
+>   
+> 11. Listado de Contrataciones Menores por Comparación de Precios de bienes, obras y servicios generales desde dos mil bolivianos (Bs. 2.000) hasta veinte mil bolivianos (Bs. 20.000), de manera bimestral.
+>   
+> 12. Otra información relevante de los procesos de contratación.
+>   
+> Todas las entidades públicas deberán utilizar de manera obligatoria los programas informáticos desarrollados para el registro de información, salvo autorización expresa del Organo Rector.
+>   
+> Los proponentes que presenten recursos administrativos, remitirán una copia al Organo Rector para su publicación en el Sistema de Información de Contrataciones Estatales.
+>   
+> Las condiciones, procesos y operativización del Sistema de Información de Contrataciones Estatales serán establecidas en el Reglamento del presente Decreto Supremo.
+>   
+> II. De la misma manera, las entidades públicas deberán publicar en la Gaceta Oficial de Convocatorias, las convocatorias para procesos de contratación bajo las modalidades de Licitación Pública y Concurso de Propuestas y los resultados de las contrataciones por excepción.
+>   
+> III. Para publicar las convocatorias, las entidades públicas deberán presentar obligatoriamente la convocatoria y el Pliego de Condiciones, Solicitud de Propuestas o el documento que corresponda aprobado en medio magnético al Organo Rector.
+>   
+> IV. Todas las entidades públicas, en forma obligatoria, pondrán a disposición de los proveedores, contratistas y sociedad civil, en una mesa de partes, para entrega a simple requerimiento verbal, copias fotostáticas del Programa Anual de Contrataciones y del Programa Mensual de Contrataciones Menores por Comparación de Precios.
+>   
+> V. El registro obligatorio en línea de la información establecida en el presente Artículo se realizará a partir del 2 de enero de 2006.
+
+**Artículo 6°.- (Modificacion del Articulo 19)** Se modifica el Artículo 19 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de la siguiente manera:
+> Articulo 19° (Licitacion publica).
+>   
+> I. Es la modalidad de contratación de bienes, obras y servicios generales que permite la libre participación de un número indeterminado de proponentes, mediante Convocatoria Pública para Compras Nacionales, Convocatoria Pública Nacional o Convocatoria Pública Internacional. La Licitación Pública es la modalidad de uso normal y obligatorio salvo que se reúnan las condiciones establecidas en la Sección II, Capítulo I del Título II del presente Decreto Supremo.
+>   
+> II. La Convocatoria Pública para Compras Nacionales de bienes se la realiza cuando el presupuesto aprobado para la contratación sea desde Ciento Sesenta Mil Un Bolivianos (Bs. 160.001) hasta Ocho Millones de Bolivianos (Bs. 8.000.000).
+>   
+> Estas Convocatorias serán dirigidas a empresas de producción nacional o empresas comercializadoras de productos nacionales legalmente establecidas en Bolivia, en base a criterios de calidad y precio, salvo que no exista producción nacional de los bienes a ser contratados.
+>   
+> En caso de que la Convocatoria Pública Para Compras Nacionales sea declarada desierta, de acuerdo con las causales previstas en el Artículo 28 del presente Decreto Supremo, se procederá a realizar otra convocatoria pública que permita la participación de proponentes de bienes extranjeros.
+>   
+> III. La Licitación Pública con Convocatoria Nacional se realizará cuando:
+>   
+> a) El presupuesto aprobado para la contratación de bienes sea desde Ocho Millones de Bolivianos (Bs. 8.000.000) hasta Quince Millones de Unidades de Fomento a la Vivienda (UFV´s 15.000.000.-)
+>   
+> b) El presupuesto aprobado para la contratación de servicios generales sea desde Ciento Sesenta Mil Un Bolivianos (Bs. 160.001.-) hasta Quince Millones de Unidades de Fomento a la Vivienda (UFV´s 15.000.000.-)
+>   
+> 1. El presupuesto aprobado para la contratación de obras sea desde Ciento Sesenta Mil Un Bolivianos (Bs. 160.001.-) hasta Cuarenta Millones de Unidades de Fomento a la Vivienda (UFV´s 40.000.000.-).
+>   
+> IV. La Licitación Pública con Convocatoria Internacional se realizará cuando el presupuesto aprobado de las contrataciones supere los límites señalados en el parágrafo anterior.
+
+**Artículo 7°.- (Modificacion del Articulo 20)** I. Se suprime en el inciso d) del Parágrafo I del Artículo 20 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), el texto “o imposición de la sanción administrativa”.
+
+1. Se amplía el plazo establecido en el inciso f) del Parágrafo I del Artículo 20 y en el Parágrafo II del Artículo 40 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), referido al plazo para la suscripción de contratos a veinticinco (25) días calendario, computables desde el día hábil siguiente de transcurrido el plazo para interponer Recurso Administrativo de Impugnación.
+2. Se amplía el plazo establecido en el Parágrafo II del Artículo 20 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), para la suscripción de contratos en licitaciones hasta Quinientos Mil Bolivianos (Bs. 500.000.-), a veinte (20) días calendario, computables desde el día hábil siguiente de transcurrido el plazo para interponer Recurso Administrativo de Impugnación.
+
+**Artículo 8°.- (Modificacion del Articulo 22)** Se sustituye la palabra “legalizada” del inciso d) del Parágrafo II del Artículo 22 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), por la de “simple”
+
+**Artículo 9°.- (Modificacion del Articulo 23)** Se modifica el Parágrafo II del Artículo 23 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de la siguiente manera:
+> II. La apertura de las propuestas se realizará inmediatamente después del cierre de presentación de propuestas anunciando el nombre de cada proponente y el valor de su propuesta económica, y concluirá con la elaboración del Acta de Apertura que deberá ser firmada por todos los integrantes de la Comisión de Calificación y los proponentes que así lo deseen. Una copia del Acta será entregada a aquellos proponentes, asistentes y/o representantes de las Organizaciones Empresariales y la Sociedad Civil que así lo soliciten.
+
+**Artículo 10°.- (Modificacion del Articulo 25)** Se modifica el Artículo 25 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de la siguiente manera:
+> Artículo 25.- (FACTORES DE AJUSTE). La Comisión de Calificación aplicará los siguientes factores numéricos de ajuste.
+>   
+> 1. Margen de preferencia nacional en contratación de bienes. En la contratación de bienes, excepto en las convocatorias públicas para compras nacionales, se considerará un margen de preferencia equivalente al diez por ciento (10%) sobre el precio de oferta en aquellos bienes producidos en el país, independientemente del origen de los insumos y del monto de la contratación. El factor numérico de ajuste será de noventa centésimos (0.90).
+>   
+> Las empresas farmacéuticas presentarán el Certificado de Registro Sanitario (NN) otorgado por el Ministerio de Salud y Deportes.
+>   
+> b) Margen de preferencia nacional en convocatorias públicas para compras nacionales. En la contratación de bienes de cuyo porcentaje de componentes de origen nacional (insumos y mano de obra) del costo bruto de producción sea igual o mayor al cincuenta por ciento (50%), se beneficiaran con un margen de preferencia del diez por ciento (10%). El factor numérico de ajuste aplicado al precio de la oferta evaluada será de noventa centésimos (0.90) para los bienes que cumplan este requisito.
+>   
+> c) Margen de preferencia nacional para convocatorias públicas nacionales e internacionales de bienes. En la contratación de bienes, se aplicará un margen de preferencia del veinticinco por ciento (25%), sobre el precio de la oferta, cuando los bienes ofertados tengan un porcentaje de componentes de origen nacional (insumos y mano de obra) del costo bruto de producción, mayor al cincuenta por ciento (50%). El factor numérico de ajuste será de setenta y cinco centésimos (0.75).
+>   
+> En la contratación de bienes, se aplicará un margen de preferencia del quince por ciento (15%), sobre el precio de la oferta, cuando los bienes ofertados tengan un porcentaje de componentes de origen nacional (insumos y mano de obra) del costo bruto de producción, que oscile entre el treinta por ciento (30%) y el cincuenta por ciento (50%). El factor numérico de ajuste será de ochenta y cinco centésimos (0.85).
+>   
+> d) Plazo de entrega (cuando no sea un plazo fijo obligatorio) Al precio de la propuesta de bienes cuyo plazo de entrega sea mayor al referencial, se le aplicará un factor numérico de ajuste de cinco por mil (0,005) por día adicional para obtener el precio evaluado más bajo. Al precio de las propuestas con plazos iguales o inferiores al plazo referencial no se les aplicará el factor de ajuste.
+>   
+> e) Otros factores de ajuste. En la contratación de bienes, se podrán aplicar adicionalmente los siguientes factores de ajuste: costos de operación y de mantenimiento para maquinaria y equipo; disponibilidad de servicio técnico y provisión de repuestos. Cualquiera de estos factores deberá ser expresado de modo cuantitativo para una incidencia monetaria en la evaluación.
+
+**Artículo 11°.- (Modificacion del Articulo 26)** I. Se incluye en el cuarto párrafo del Parágrafo I del Artículo 26 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), el siguiente texto:
+> La experiencia efectiva, podrá ser demostrada por cualquier medio documentado a nombre del proponente o las personas individuales que conformen la empresa proponente. Este tratamiento también se aplicará a los titulares de la Tarjeta Empresarial y a todos los sujetos participantes del proceso de contratación mencionados en el Artículo 6 del presente Decreto Supremo.
+
+1. Se incluye en el segundo párrafo del Parágrafo III del Artículo 26 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), el siguiente texto:
+   > La Autoridad Responsable del Proceso de Contratación, hasta tres (3) días calendario de recibido en Informe de Calificación y Recomendación, emitirá la correspondiente Resolución Administrativa o en su caso, devolverá a la Comisión de Calificación el informe solicitando la complementación y/o sustentación del mismo. Una vez emitida la Resolución Administrativa de Adjudicación o de Declaratoria Desierta, la Autoridad Responsable del Proceso de Contratación notificará a los proponentes en el plazo de (2) días hábiles, adjuntando el informe de Calificación y Recomendación.
+
+**Artículo 12°.- (Modificacion del Articulo 32)** I. Se incluye en el primer párrafo del Parágrafo II del Artículo 32 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), el siguiente texto:
+> Las contrataciones menores de bienes, obras y servicios generales, deberán ser dirigidas a todos los sujetos participantes del proceso de contratación legalmente constituidos y detallados en el Articulo 6 del presente Decreto Supremo, cuya producción sea nacional, en base a criterios de calidad y precio, salvo que no exista producción nacional de los bienes, obras y servicios generales a ser contratados.
+
+1. En el Artículo 32 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), se incluye al final del primer párrafo del Parágrafo I, el siguiente texto:
+   > Margen de preferencia nacional en contrataciones menores por comparación de precios. Se considerará un margen de preferencia equivalente al diez por ciento (10%) sobre el precio de la oferta, independientemente del origen de los insumos. El factor numérico de ajuste será de noventa centésimos (0.90).
+   >   
+   > En estas contrataciones, se aplicará un margen de preferencia del veinticinco por ciento (25%), sobre el precio de la oferta, cuando los bienes ofertados tengan un porcentaje de componentes de origen nacional (insumos y mano de obra) del costo bruto de producción, mayor al cincuenta por ciento (50%), El factor numérico de ajuste será de setenta y cinco centésimos (0.75).
+   >   
+   > Asimismo, se aplicará un margen de preferencia del quince por ciento (15%), sobre el precio de la oferta, cuando los bienes ofertados tengan un porcentaje de componentes de origen nacional (insumos y mano de obra) del costo bruto de producción, que oscile entre el treinta por ciento (30%) y el cincuenta por ciento (50%) del costo bruto de producción. El factor numérico de ajuste será de ochenta y cinco centésimos (0.85).
+
+**Artículo 13°.- (Modificacion del Articulo 35)** Se modifica el Artículo 35 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de la siguiente manera:
+> Artículo 35.- (GENERALIDADES). La Contratación por Concurso de Propuestas es la modalidad de contratación competitiva de servicios de consultoría, que por su naturaleza multidisciplinaria requiere la participación de firmas consultoras.
+>   
+> Esta modalidad de contratación tendrá dos formas de convocatoria:
+>   
+> a) Convocatoria a Solicitud de Propuestas, cuando el monto presupuestado para la contratación sea de Doscientos Mil Un Bolivianos (Bs. 200.001.-) hasta Ochocientos Mil Bolivianos (Bs. 800.000.-), de acuerdo con el procedimiento establecido en el Reglamento del presente Decreto Supremo.
+>   
+> b) Convocatoria a Expresiones de Interés, cuando el monto presupuestado para la contratación sea superior a Ochocientos Mil Bolivianos (Bs. 800.000.-), de acuerdo con el procedimiento establecido en el Reglamento del presente Decreto Supremo.
+>   
+> Bajo esta modalidad de contratación, el Método de Selección Basada en Calidad y Costo es el de uso general para seleccionar firmas consultoras, salvo en los casos descritos en la Sección II Otros Métodos de Selección.
+
+**Artículo 14°.- (Modificacion del Articulo 36)** Se modifica la cuantía establecida en el Artículo 36 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), para la contratación de empresas consultoras a Ochocientos Mil Bolivianos (Bs. 800.000.-)
+
+**Artículo 15°.- (Modificacion del Articulo 41)** Se suprime del Parágrafo II del Artículo 41 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), el siguiente párrafo:
+> La Autoridad Responsable del Proceso de Contratación descalificará una propuesta, cuando no se llegue a un acuerdo satisfactorio en la negociación.
+
+**Artículo 16°.- (Modificacion del articulo 45)** Se modifica el Parágrafo III del Artículo 45 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), de la siguiente manera:
+> III. La apertura de propuestas será en acto público y la calificación se realizará en forma reservada por la Comisión de Calificación en acto único, debiendo el Máximo Ejecutivo del Area Solicitante adjudicar a la propuesta mejor calificada.
+
+**Artículo 17°.- (Modificacion del Articulo 48)** En el inciso c) del Parágrafo I del Artículo 48 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), se rectifica el número de la [Ley Nº 535](https://www.lexivox.org//norms/BO-L-N535.html), Ley General de Sociedades Cooperativas de 13 de septiembre de 1958.
+
+**Artículo 18°.- (Modificacion del Articulo 54)** En el segundo párrafo del Artículo 54 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), se remplaza la frase
+  
+“al fijado por la Contraloría General de la República” por “Ochocientos Mil Unidades de Fomento a la Vivienda (800.000 UFV´s)”.
+
+**Artículo 19°.- (Contrataciones estatales dirigidas a la produccion nacional)** Se establece que las contrataciones estatales de bienes deberán estar dirigidas a todos los sujetos participantes del proceso de contratación legalmente constituidos y detallados en el Articulo 6 del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), cuya producción sea nacional, en base a criterios de calidad y precio, cuando el presupuesto aprobado sea igual o menor a Ocho Millones de Bolivianos (Bs. 8.000.000.-), en las siguientes modalidades: Licitación Pública con Convocatoria Nacional para Compras Nacionales; Contratación Menor por Comparación de Precios; o Contratación por Excepción salvo que no exista producción nacional de los bienes a ser contratados.
+
+**Artículo 20°.- (Texto ordenado subsistema de contrataciones estatales)** Se aprueba el texto ordenado de las Normas Básicas del Subsistema de Contrataciones Estatales que contiene los principios, normas y condiciones que regulan los procesos de contratación de Bienes, Obras, Servicios Generales y de Consultoría aprobados por [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), [Decreto Supremo Nº 27877](https://www.lexivox.org//norms/BO-DS-27877.html) de 26 de noviembre de 2004, [Decreto Supremo Nº 28136](https://www.lexivox.org//norms/BO-DS-28136.html) de 16 de mayo de 2005 y el presente Decreto Supremo.
+
+**Artículo 21°.- (Texto ordenado subsistemas de manejo y disposicion de bienes)** Se aprueba el texto ordenado de las Normas Básicas de los Subsistemas de Manejo y Disposición de Bienes aprobadas por el [Decreto Supremo Nº 25964](https://www.lexivox.org//norms/BO-DS-25964.html) de 21 de octubre de 2000 y sus modificaciones aprobadas por el [Decreto Supremo Nº 28136](https://www.lexivox.org//norms/BO-DS-28136.html).
+
+**Artículo 22°.- (Modificacion Decreto Supremo Nº 28136)** Se modifica el número de Decreto Supremo señalado en el Artículo 7 del [Decreto Supremo Nº 28136](https://www.lexivox.org//norms/BO-DS-28136.html), por el [Decreto Supremo Nº 25963](https://www.lexivox.org//norms/BO-DS-25963.html).
+
+**Artículo 23°.- (Procesos en curso)** Los procesos de contratación iniciados con anterioridad a la vigencia del presente Decreto Supremo, deberán ser concluidos conforme a las normas vigentes al momento de su inicio.
+
+**Artículo 24°.- (Vigencia de normas)** I. Los ajustes y modificaciones al [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html), incorporados por el [Decreto Supremo Nº 28136](https://www.lexivox.org//norms/BO-DS-28136.html) y por el presente Decreto Supremo, entrarán en vigencia a partir de la emisión de la reglamentación que será elaborada, aprobada y publicada por el Ministerio de Hacienda.
+
+1. Se deroga la Disposición Adicional Cuarta del [Decreto Supremo Nº 27328](https://www.lexivox.org//norms/BO-DS-27328.html) de 31 de enero de 2004.
+2. Se derogan los Artículos 1, 4, 9,10, 12, 13 y 14 del [Decreto Supremo Nº 28136](https://www.lexivox.org//norms/BO-DS-28136.html) de 16 de mayo de 2005.
+3. Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+     
+   El Señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de julio del año dos mil cinco.
+  
+FDO. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte Ministro Interino de Hacienda, Martha Bozo Espinoza, Carlos Melchor Díaz Villavicencio, Mario Moreno Viruéz, Jaime Eduardo Dunn Castellanos, Maria Cristina Mejia Barragán, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Ernesto Muñoz Pereyra Ministro Interino de Asuntos Campesinos y Agropecuarios, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.
+
+# Anexo 1 Decreto Supremo Nº 27328 de 31 de enero de 2004 con modificaciones incorporadas
+
+Texto ordenado del Decreto Supremo Nº 27328 de 31 de enero de 2004 con las modificaciones incorporadas por el Decreto Supremo Nº 27540 de 27 de mayo de 2004, Decreto Supremo Nº 27877 de 26 de noviembre de 2004, Decreto Supremo Nº 28136 de 17 de mayo de 2005 y Decreto Supremo Nº 28271 de 28 de julio de 2005, elaborado de acuerdo con lo dispuesto en el Artículo 20° del Decreto Supremo Nº 28271 de 28 de julio de 2005.
+
+[Ver documento](https://www.lexivox.org//norms/BO-DS-27328R1.html)

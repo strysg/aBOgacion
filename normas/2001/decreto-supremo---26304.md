@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 26304, 10 de septiembre de 2001
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Ley de Pensiones Nº 1732 de 29 de noviembre de 1996 dispuso la liquidación de los entes gestores de cualquier naturaleza que de manera exclusiva administren los regímenes y seguros especiales de la Seguridad Social Boliviana, encomendando el proceso a liquidadores designados actualmente por el Ministerio de Comercio Exterior e Inversión conforme al artículo 25 de la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de 16 de septiembre de 1997.
+* Que la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) dispuso que todos los activos disponibles, valores y otros recursos por la administración y liquidación, serán destinados al Tesoro General de la Nación, previa deducción de los pagos pasivos, obligaciones laborales y de los costos y gastos correspondientes.
+* Que el artículo 57 de la citada Ley, dispuso que a partir de su promulgación, los afiliados al sistema de reparto con rentas en curso de pago, cobrarán sus rentas del T. G. N. en bolivianos con mantenimiento de valor.
+* Que el artículo 2 del [Decreto Supremo Nº 24433](https://www.lexivox.org//norms/BO-DS-24433.html) de 12 de diciembre de 1996, dispuso que el manejo y disposición de los recursos económicos de los entes gestores se ejecutarán por la Unidad de Reordenamiento, a través del Tesoro General de la Nación, para el pago de haberes y beneficios sociales al personal de los mismos, así como para el pago de las rentas en curso de pago, rentas devengadas, pago por servicios indispensables y el Reembolso al Tesoro General de la Nación de los recursos anticipados para estos propósitos.
+* Que el Poder Legislativo, en ejercicio de la atribución contenida en el numeral 8 del artículo 59 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html), mediante [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de Administración Presupuestaria de 21 de diciembre de 1999, artículo 18, autorizó al Ministerio de Hacienda a recibir de la liquidación de las entidades comprendidas en los artículos 55 y 56 de la Ley de Pensiones, la transferencia de bienes inmuebles por concepto de reposición de los recursos del Tesoro General de la Nación asignada al cumplimiento de las obligaciones establecidas por Ley de Pensiones.
+* Que en la consideración a lo dispuesto por el [Decreto Supremo Nº 25052](https://www.lexivox.org//norms/BO-DS-25052.html) de 23 de mayo de 1999, el valor obtenido de la liquidación de los activos patrimoniales debe ser entregado al Tesoro General de la Nación.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se instruye al Ministerio de Comercio Exterior e Inversión a través de la unidad de Reordenamiento entregar a título gratuito a la Confederación Sindical de Colonizadores de Bolivia (CSCB) el inmueble situado en la Av. Busch Nº 1981, zona de Miraflores de la ciudad de La Paz, que forma parte de los entes gestores de la seguridad social boliviana en liquidación, con destino a su sede sindical.
+
+**Artículo 2°.-** Mientras se realicen los trámites de Ley expresa, transferencia, protocolización e inscripción en Derechos Reales se autoriza la entrega provisional del inmueble a la Confederación Sindical de Colonizadores de Bolivia (CSCB) quienes hasta que concluya el trámite legal y definitivo, lo ocuparan en calidad de depositario.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Comercio Exterior e Inversión y de Asuntos Campesinos, Pueblos Indígenas y Originarios, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de septiembre del año dos mil uno.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, José Luís Lupo Flores, Leopoldo Fernández Ferreira, Oscar Guilarte Lujan, Jacques Trigo Loubiere, Mario Serrate Ruíz, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña, Jorge Pacheco Franco, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mancilla Peña, Xavier Nogales Iturri, Mauro Bertero Gutiérrez, Wigberto Rivero Pinto.

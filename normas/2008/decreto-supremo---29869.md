@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 29869, 24 de diciembre de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), establece que las asignaciones presupuestarias de gasto aprobadas por el Presupuesto General de la Nación, constituyen límites máximos de gasto y su ejecución se sujetará a los procedimientos legales que en cada partida sean aplicables, por lo que toda modificación dentro de estos límites deberá efectuarse según establece en el reglamento de modificaciones presupuestarias.
+* Que el Artículo 12 del Presupuesto General de la Nación - Gestión 2008 aprobado por fuerza de Ley dispone la necesidad de emitir un Decreto Supremo para autorizar la inscripción de recursos adicionales para la partida 46200 “Estudios y Proyectos para Inversión”. Asimismo, en su Artículo 27, autoriza a las entidades públicas, comprometer gastos por períodos mayores a un (1) año, de acuerdo a la naturaleza del gasto, siempre que cuente con el financiamiento asegurado.
+* Que el Contrato de Préstamo Nº 1057/SF-BO, suscrito el 23 de mayo de 2000, con el Banco Interamericano de Desarrollo, es destinado al establecimiento del Sistema Boliviano de Tecnología Agropecuaria - SIBTA y la ejecución del Programa de Servicios Agropecuarios por parte del Servicio Nacional de Sanidad Agropecuaria e Inociudad Alimentaria, dependientes del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente. Asimismo, conforma la Unidad de Coordinación del Programa de Servicios Agropecuarios que entre sus funciones cerrará el Programa de Servicios Agropecuarios siendo necesario contratar auditorías operativas y financieras.
+* Que el Banco Interamericano de Desarrollo aprobó una prórroga del último desembolso del contrato de préstamo 1057/SF-BO hasta el 31 de julio de 2008 y comunicó la no objeción para la contratación de la firma PriceWaterhouse Coopers S. R. L., a objeto de realizar la Auditoría de los Estados Financieros del Cierre del Programa de Servicios Agropecuarios.
+* Que el [Decreto Supremo Nº 29816](https://www.lexivox.org//norms/BO-DS-29816.html) de 26 de noviembre de 2008, establece que la Unidad de Coordinación del Programa de Servicios Agropecuarios debe traspasar los recursos, bienes, activos y saldos presupuestarios al Instituto Nacional de Innovación Agropecuaria y Forestal - INIAF hasta el 31 de diciembre de 2008.
+* Que para cerrar el Contrato de Préstamo 1057/SF-BO a cargo de la Unidad de Coordinación del Programa de Servicios Agropecuarios, cumplir las obligaciones que demandan la ejecución de la auditoría de cierre y evitar el traspaso de pasivos al INIAF, se requiere realizar traspaso intrainstitucional para incrementar recursos en la partida 46200 “Para Construcciones de Bienes de Dominio Público”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, incrementar la partida 46210 “Consultoría por Producto para Construcciones de Bienes de Dominio Público” por Bs500.000.- (QUINIENTOS mil 00/100 BOLIVIANOS), a través de traspaso intrainstitucional afectando la partida 42230 “Otras Construcciones y Mejoras de Bienes Públicos de Dominio Privado” financiado con Fuente70: Crédito Externo, Organismo Financiador 411: Banco Interamericano de Desarrollo - BID a favor de la Unidad de Coordinación del Programa de Servicios Agropecuarios, para el Proyecto “Sistema Boliviano de Tecnología Agropecuaria - SIBTA” de acuerdo a Anexo adjunto y de conformidad a lo establecido en el Artículo 12 de la Ley del Presupuesto General de la Nación - Gestión 2008.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Hacienda y de Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de diciembre del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Celima Torrico Rojas, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Susana Rivero Guzmán, Oscar Coca Antezana MINISTRO DE OO. PP. SERVICIOS Y VIVIENDA E INTERINO DE HIDROCARBUROS Y ENERGÍA, Carlos Romero Bonifaz, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, Roberto I. Aguilar Gómez, Jorge Ramiro Tapia Sainz, Héctor E. Arce Zaconeta.

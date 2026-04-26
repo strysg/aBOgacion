@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 4969, 28 de junio de 2023
+
+Decreto Supremo Nº 4969
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 37 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) determina que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
+* Que el numeral 2 del Parágrafo II del Artículo 299 del Texto Constitucional establece que la gestión del sistema de salud y educación, se ejerce de forma concurrente por el nivel central del Estado y las entidades territoriales autónomas.
+* Que por la naturaleza de la transferencia y las características del bien inmueble, el mismo no será utilizado por la entidad y su venta no es factible, razón por la cual y a fin de viabilizar la disposición del bien inmueble a título gratuito entre entidades públicas, es necesaria la aprobación de una norma de igual jerarquía al [Decreto Supremo Nº 0181](https://www.lexivox.org//norms/BO-DS-N181.html), de 28 de junio de 2009, Normas Básicas del Sistema de Administración de Bienes y Servicios.
+* Que con el propósito de fortalecer la atención en salud en el Departamento de Chuquisaca, es necesario autorizar al Ministerio de Salud y Deportes realizar la transferencia a título gratuito de un lote de terreno a favor del Gobierno Autónomo Departamental de Chuquisaca, en el marco del Proyecto «Construcción de Establecimiento Hospitalario para el Hospital de Tercer Nivel del Departamento de Chuquisaca».
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Salud y Deportes realizar la transferencia a título gratuito de un lote de terreno con una superficie de 46.063,80 metros cuadrados (m2), de la superficie total de 329.864,51 metros cuadrados (m2), de acuerdo a Folio Real con Matrícula Computarizada N° 1.01.1.99.0077765, registrado ante las oficinas de Derechos Reales de la ciudad de Sucre, ubicados en el Ex - Fundo Ura-Lajastambo, Cantón San Sebastián, Provincia Oropeza del Departamento de Chuquisaca, a favor del Gobierno Autónomo Departamental de Chuquisaca, en el marco del Proyecto «Construcción de Establecimiento Hospitalario para el Hospital de Tercer Nivel del Departamento de Chuquisaca».
+2. Para el cumplimiento del Parágrafo precedente, el Ministerio de Salud y Deportes reglamentará el procedimiento mediante Resolución Expresa.
+
+---
+
+La señora Ministra de Salud y Deportes en su respectivo Despacho, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintiocho días del mes de junio del año dos mil veintitrés.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Marcelino Quispe López, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada, María Renee Castro Cusicanqui, Rubén Alejandro Méndez Estrada, Edgar Pary Chambi, Remmy Rubén Gonzales Atila, Sabina Orellana Cruz.

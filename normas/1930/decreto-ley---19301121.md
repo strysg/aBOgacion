@@ -1,0 +1,175 @@
+[*Aumentar el tamaño del texto*![](data:image/gif;base64,R0lGODlhIAAgAOMIAEUjAGNFIYhxU5x5GriUMLOihtnFiuvhx////////////////////////////////yH5BAEKAAgALAAAAAAgACAAAATCEMlJq7046827/2AojmQgkFkBAAd6CWvhVscKBO0swbas1zbASacKsmaHgBHg6xwIhkrRiPMYCITcjrlsbrDZSQ3HswWc4OhWBgxqM4YrtgXMKYPDzPOJjaryUzZvFnEIcllKWm09GmF8BCpnFGUrkhd7EnJKXgiLK4MThZkEA0umK3kUj2AEd6dLoFcVBitqNF00UBUwAWEWlDeKfYorA3MWnkwTrAQTPKygwFUYRdPUS6lilAIHoN3AqIOuRrevKxEAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#normText)[*Reducir el tamaño del texto*![](data:image/gif;base64,R0lGODlhIAAgAOMIAEkoBItnF4BoSrSNILqnhcitX9vHje3jyP///////////////////////////////yH5BAEKAAgALAAAAAAgACAAAAS7EMlJq704l5J7P8NweGRVhEapgqGokkY7pG/GtlyNxbKrVzcZ7Tfh9XxExMnYGv5Yh5MsR1wigqHRMyuR4ogxKpNbg06wM13Y1KOqrBT06AAQeNDHLwEA0GK8eUcHAnwENmRARwZ8dRlrOz0BhHx+cYgWWH2ThhZSHl4BAAh7jRU8BZUWRgABV4x+UUIHqVexIQADEpsTgbmWMgEBvqSiSa6MyH3GBHYUk81PAJxnr0+EBJV01TXJE8SMEQA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#normText)[*Ver el documento PDF*![](data:image/gif;base64,R0lGODlhIAAgAIQQAEwmAFstAHY6AJZSCKVoJq53O7mLVMWdbdOzi+LNrPLhyPTq1vjy3fv36P388/3//Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4CH5BAEKABAALAAAAAAgACAAAAX+ICSKDWOeaDqu7KokcCzPSdm0bPPSfOyYuBFj1+M1fgscA3E4GJ7QKFTGeCBZisGAUOh6v10CQYCAKRglRnJU2BJqDMNhwUgUEAxHgqClKRY3ImNaCAF3dwEIBU0BAloDCS8Kk5GBEGMBiWVbBwIFXDCYA5OkpAwjBJkBBgKZAwarAmIAqgKlpWuXAQAAqbsCTwMAWpm0trekJAi8zLvMtM+8BQt/1NW5dgLa29zdjpEL4eLhQglMTejp6WXU4+IKOdbh1ZPzf3LX7i0N7v3hDF0S+Ms1QkeKg2oCIoSX4wzCFFwcpmC4gt/DFF3oHCRIQuLFOAZ+HKRYUEGDkyiOT5pIkxHNiRIkSQBKSTMPAjkG6KRUs28mzZQLCgjsgqBoAjQxIeg48pOpHQNiPnkxoKPnEQdYszpooOiOAqx1nBzgt++rVqYKxBjIoxXrAytJ+bUFS0BRgrltOSpd4OCtFawKiL5167ewXn6FtRpAkLWw4wdxFzyeTPltXEViMmvezJmAgaQQiBQZfVRECAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Ver el documento sin formato*![](data:image/gif;base64,R0lGODlhIAAgAIQQACkdFFUsAXc8AGNBIIhjQJ9hHK12OrqLVsuleNzAnOPQr/Pkzevs6ffw2/v36P399urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIAAABf4gJIpOY55o+qxj6z5LoiR0bc9y6Tyu2ywzhXA4pBEfJl5P9CM6n8Jdcok4WK/YLLGxmrYKhrB4TDYUEMJFo+SFjBlw+CAOB4gLT7VjVOj7GQMFCwx2gH59CguKiol7Iod9DAEFhAIGkpAJCJubig18AqGhkgwEhJcBoqE2MougqgQBpKmxqgKLuIojBwG9vr/AvgYpJrqvtsiiZ2UIxi2c0NGciWrFuEvVxNoons4tC2XhYgeLJwvYuem52uc92dvw5tgmCtFC0tDV7S7VrAkLCPzZkOcunsFiS9Y4WMiwoUOHCN1lmUjRCoIS+74dhLcw4wiFD0OK9ChiwYqTKDN3oFz5oCO2ijCxJICBDYpNJzNp9uDCsqdPnT5+CkVJEkICM5CSKu1zQAE2GTejCvkEIQQAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Ficha Técnica*![](data:image/gif;base64,R0lGODlhIAAiAIQQAGUzAI1IAZtZEqVqKa95PreFTryQW8SYZsqkdtKvg9K1jtq9mOPOre7dwvXs1/388+rq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIgAABf4gJI5kOTKBY64sWxhLK7eI0gxzTiKG4xy60iFgYhgeDoYiSAoQAgkSwdGgLpZMQoFgCBhEhOqj2jh8g4PDdlhAMBwPAyLZKDB0CAJhIBgYBAVIClANhQwICQgyDgEFAwULewNvDQELCIYMDAubBwkNJgOSV5EBCg5aCgVUDZqaC1duJQIGAwsJCbBbCAO4BaeGnKQIiiNqAgkKscoGAMkECZOZsLeHMRAMAwE1uApKCuB9yJEFyd6bCsk4EE+5yQkMDekKiKZ5ugcEgOCRigsA5d4taJDs1q0EfQgsONCqSh4EBQqIEADt4AIH53AlwjUAQT5NhZKIGjGuxilYBMgTEeOhQJumASGTAIGQ5lCyBrccqCR2oGdPAwd6NXADh4CIBQLSIUonT45PM2rU8HGA1MeDbCIOCDjAE9ZTMwYMRBQ7YFKAMXDqkADEkwfQsGJfOHriAGYDAQ0eDJrFxa2ZiIDH4hWw4IHCBwuImKj1ImxELVpebCX2IACDq0ZZ6HsRectYPg+QwLwKYMYTLoEjO5lDVe+6Gf9QR+4SA1LoBa9zIPUj+PVZBQKYjAiwVU9uNsLXBhhiInPyEdrOPJcRZbr169ZDAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#dcmi)[*Contenido*![](data:image/gif;base64,R0lGODlhIAAgAIQQABAFARoPACoXAzwfAE4vDF5AHHBUM3daOXVdOn1lQZKAXbWif+LWtu/szPf44f3/+u3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzCH5BAEKABAALAMAAwAbABsAAAX+YGIcSGmeKEKaI6OmayojBmPQbzyvccIkiAKAcEgUAoCkcrkciGyFxYNBMCgSj6x2uw2ofgDt4DDimh1ZQOJgIzAeDQLCuKjb73cvm0YQVA03gIKDgCUGBV8GCUBzRTMmjHNfQUcDgUyYSwKTUXBVi2ahDwBfCWEND2OIoltopGyHUnFzBAq2t7i4pAg/BgQAljSRj4UkLic3CLW5zLZevMjCCKxZaKNADCRFyaDUWq/HJIUISJmYAgd7hsJAi+7vi5IlsIaK9oSENONsIlEKcsrwCLQDroCAB2g+TfPmatJBNE66eRuV6BCDBQUAlTOnJMCAL+IKIHpEEpqidCoQxOFbOaIGg5cwY8qcKbNBCAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#toc)[*Enlaces con otros documentos*![](data:image/gif;base64,R0lGODlhIAAgAIQQAEAgAGExAG83AHg9AINAAJBHAJdSBqFjIKtyNLWDScKVY8yne9S1jeDHpebTtPft2+rq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH5BAEKABAALAAAAAAgACAAAAX+ICSOZPmUaKqSiLG+7xIECmyXxjAUzr0uPYiDQNA1hIOaT+QQDBbCgo5wRACgSwjDKVg8EE4XJIEYHW9bgsDwcAwEjBLjIEj4pISCSGGHnBdvAmU3CwIBYiMKAw4POWpKKgkDfQsFgyJbAUBEAwRBKgsAmmYkMnANAgIFUAwIcSkKBH2lWgEHfggKPUMCZ2YLryIJCWcKcUApC77CTjtYBgEEx7NBClgpW506cQkzZQ0GPQxQBgB2DgkHBwq+CU4EhyIH8RCrEAcODAO3DgZco4kMCJy1AIs6MiLOQCsiKMsYJ9eEGcgzq4QCBMQgKICkQFWxYA0+lZhnaACEBwliDDB4UEiPg3UJYSiYSKCMAwdgrBFJWQZBAQIHgoHCUvCegANE1sgLYEjPjY6DCgggQuBaSpiEIEkq4tThCimdhHod2anqWBUHykY8O8KRNLYWtSGCKwKBtlt0RQByEqDiihAAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#references)[*Comentar el contenido*![](data:image/gif;base64,R0lGODlhIAAgAIQQAD8gAFIpAGc0AHc7AH0/AIxGAJhUCKJkIatzNbJ/Q7iHUL+TX8mjddKyidzBnfTo0urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH5BAEKABAALAAAAAAgACAAAAX+ICSOZGmeaKqubIm8R7s+SWHc93ErcpnkiAMMlus9DIWDEJFoOhNKQ6x1IEiZimw2oUi8kAXWQnDlKhboxbkbNBAWqYdjMJCa0+k1FDklIW4FNjlKBwoMeVptBAMkYwQ2hC9ebQd4W4oCIwIDkEJNWWpsOgmhTX8GA1MDAVaeZ2kMh2pBBQhsbQUCDBAAAAKQZ7HCDA2xswe1QVF1EAgArFfBDdPTDtOHXnxgAwkiBr42TAux1Q7m1sUKtEiLuyLPvwa249Tn5sUM6kicBt0jvfFskWtg794hfUmUPRixKqC0cuiKLdhDwEEbf818teJCj9o1WVAKMIIw0YA7XgFcOAl5NcwYmmxvSjQYsUBjmVeWTCExsAJBgHhKmJgRpSRJizmbBhEitO9ki1ybBOEQaYBHDwhzcIB5ZGCBg6sjEHBFADbFHE4JFpY9QefA17UnFjRQC7eu3bsjQgAAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Etiquetar o categorizar la norma*![](data:image/gif;base64,R0lGODlhIAAgAOftAHI5AHs9AH8/AIRCAIdDAH5JFIhIB5FJAJdUDZRXG5lXEZhZGp1dGZ9hHptiJ5djLqpxM5t0Sa12O6t7R658R7iIUruNWLuNWryOWb2QXcGWZcGXZcGXZ8KYaMKZa8KaasObasSba8ScbcScbsWcbcGddMSdbsWdb8aecMafcMagcciidciidsmkdsqkeMqlesumesymesuofMuofsyofc2ofcypfs2qf86qfs6qgM6qgc2rgc6rgc+rgM2sgc+tgsmui8ivj8+uhdCwiNGwiNGxh9GxiNGxis60kdS1jdW1jtW2kNa2kNa3kNW4kta4kta5kta5lNa5lde6lNe6lde7ldi7ldi7l9e8l9i8ldi8mNi9mNm9mNm+mdq+mtm/mtq/mtq/nNvAmtvAm9vAnNvAndzBndXCqNzBntvCoNzCn9zCoNzDod3Dn93DoN3Dod3Eot3Fot3Fpd3GpN7GpN7Gpd7Hpd/Hp9/HqN7Ip9/Ipd/Ipt/Ip+DIqN/JqN/JqeDJqODJqeDKqeDKquHKqOHKqeHKquHLq+LLrOLMrOLMrePMreDNseLNruLNr+PNrePNruTNrePOruTOrePOsOTOruPOsePPsOTPsOTPseTQseTQsuXQseXQsuLRtuTRs+TRtOXRtObRsuXRtebRs+XStOXStebStebTtebTtubTt+bUt+fUtefUtufUt+fUuOfUu+fVuOfVuejVuOjVuujWuOjWuejWuujWu+nWu+jXu+nXu+nYvOnYverYvenZvurZverZv+vZvebaw+ravuvawOrbwevbwOzbwOvcwezdxO3exO3exe3fxe7fxu7gyO7hyO/hye/hyuzizPDiy/Djy/DkzO/kz/DkzfHlzvLm0PPo0vTo0fXo0/Tp0/Tq1PTr1/Xr1fXr1vbs2Pbt2Pbt2vfu2vfu2/fv2vfv2/fw3fnx3fny3/rz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4CH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoA/wAsAAAAACAAIAAACP4A/wkcSLBgwW2asNi48YXYOoMQI/7TZkICgwUOEhAQACGYRInpriGZQKGEJ4KzHhxw9dHgsDNBgDBSF/GDgpYGp4H7920GiT2oDs1pIwibNQN+cBo0dyLHuXPauIUbR65ctwY+lBI0p6PGt2y+hAnjRQuXLlQIjmgd6OSHtGe1YsV6VQoVnxcVACxby+6NkWTVSIUS1alTJlgFAgxo0WytIR6rmE2K9EiRokOGLMlw0eqOMa2CaCSCZsgQoD599tipE+dQrDVufildpYJMsdVy4sCB82aNGTRlxIDxogvnMRRRgMGps3v3mjFdtnDRkqUKFZYfnYEYUspQH0OFUP4DArQHTx0pTJosUXLq4zYNNF49wlwIUH3Ue/bcIdQHihEjoUgkjgcpOFLZIQgaQkh4fZB3xx2ohSGENxGhI0IHfShSCSSVXYYZeOOh1ocddsgSkTkhZGBGIZhQ4uIjkCyiSCIJKtgHH4cgIhERGDzRhymdcMJJJplQ8sgikEAyI4KBGEKHRFeEkIQepIxySmFDFjlJJZMoeRklaZgT0Ss4FAGHKaqgouYppASZZSWURDKZGuRItEMPZnQy1yuosILKKWxiSSQlmeSxzUfHsGDFILjgMtdcav4ZaGGFOIPTLSiAAYmjcu3J55+dgFJKNFqlMoIZjuSiS6Ox2LKnml+5lLLWP5dswEYnuvCSS6OuxlKKMr3MKlAjHNgRii++7JILL7jQQo0kwg50SQeBvIJssrpQs0m0BP1xQiKxIHsLNZ9wW9AUMFCiiy3MHGKuQRfEkAkyf7wLUQQWrDBrQAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Compartir la norma en las redes sociales*![](data:image/gif;base64,R0lGODlhIAAgAIQQAJ1eGax1OLOARLmLVMSXZsijdM+tgta5kt/EouPQsOvavvTky/bo1fHq1fTu2fv57Orq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIAAABf4gJI5kKSqHkZhsayJFYRCra5uGURDFcf8iB28gEBSAJkVhYBDNCIJAIDpAQg47guqQGAwCA8SisRgQgKkl4sE2TMOKhGKR4P2Y0MOjQTDPuAmBCggBPztLAQAAMjEEgIJ1QDkJBghGhzwJCIEIbgMHPjcqCgZmBFBhCWkEASmhLgYLcQgDi6WmWqUBDgI3nXSBBgCVfWA6BQIEDgCGwJpeDm5Rp3kJyTcFm4GUBwzSbwYCC1m+KsEBY+ECRKAFQj0HDjaVCKcDCwtuUsnuCp8HyRC4OKROAYM4+Bw4eJCPQCcZr1jw6HOvQQMGDBY4AGjEwIFPNGzsyFGAgcWLZJsGeTFV6k4dBA4umpSp0MEgS0C6FGgQE6NFQXNkXbtxAIaCmCgt4oPyZsARF1oM1jyJEt/BTqBMlDllwCIDByYxjjkpBwGXOWec5OBS08HYi28zapSVIMtTCAvZPJhKlcwYOps2rWUQsS3YvicxapKzoNOpGDVEjJ3pdSZGBpCWNHGBOLHfBUUfAlHq9+Rf0EWtQOhcOd8C1SJCAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Sugerir mejoras en el documento*![](data:image/gif;base64,R0lGODlhIAAgAIQQAJlXDqNlIatyNbF+QreHULqOW8KVZMagccypftO2jN7Fou3cwfbv2vr25/388/3//Orq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIAAABf6gwkBkaZ5oSiqK6r6lkixwjSZ4Y+9QgiA0Xs2HSKgYMpxyuVQEiYjRifE7/K7Y7IGGOHiDpoR3TC6TjV2v8SQ2u8mIBsJAX4fp+Lw+Hz/g7SUJe4N6fXQFgCRzhIwHDQYFkQVSJQiSl5iZjgYEnQQGlBAIBAWepaeYpJ+Pnp0GJgetsrOlq7WeA6AksbIDBL6/uJ0FDQUDx8i5OgfJxwUKwQm+gs4Mv80DAiMG2AkOCQIJD34OCwIDkwQC6+u+jhAH5+wCBND0CseC68TZ89ol5vwJ9BegRT92AcBAWHCQXiZJBoIICBBg4sREBCgGiGNjosaNoRYAqJjohUeKrz5OCAAgQGGNACM1DjChIACBUDZgAti5U0qDT0JK6OQpoASSoEJ57gyANIVSni6bPu3Z9AQASJ0GtKgahuuLEAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Enviar esta norma por correo electrónico*![](data:image/gif;base64,R0lGODlhIAAgAIQQAKBdE692N7yJUsicbtCsgda5ktvAnuDFo9/KpuXStOfWserZuuzbw+/jwfTjyvLtyvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwziH5BAEKABAALAAAAAAgACAAAAX+ICSOZGmeaEo2j+qiRlE0bw0hhUEMBG2jjcKhMCgOZj+TooDjGY+KVjJo0BFkMsKuEP0hDENCDOFIHBKFnQEhVS3DhLMudnCU0wd26oHop+NmXwwGDoQOCzoHB20rZwdaYgxyOAwLDggMdmgIiyUNkDxXkgukBWWSDAkGmZKcPiJ8O0UECwiqkgkIC6m2tZaXOCQPdo8EugYJAgIDAmBDCwkJC3mWCT0jdnYMfVUIAQUCAMbIqwmX5g5CbQ3ZmkMG3wEB09IH5fa+Dq/s7XZpAMwQCCBgbswBBkIYZNrXL1uyAASUBThyKE+BBJV2rVO4S2G2VAQmCpjYJ5pJk/uVKilUuRJkuAFDONk6mWAfqZs4b0o6kqMPpzwy99EcalJHDmeK7Cl6pYDozGiPLmLBUuXoK59A+5zhhEeRqqlgmSb96VPGmqR5hqQJO0KBUrRrz44luxbS1alVxXx5q6hKFTgyrsbAcqWqX79H6YD502ZJlitHc+RQ5FOXggaYH2hu/AfyAQWgMbPYbOPB6M2MkqhWHQIAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Imprimir la norma*![](data:image/gif;base64,R0lGODlhIAAgAOMIADUpC4xqIc2eM7iynty1ZOjMk/Har+vhw////////////////////////////////yH5BAEKAAgALAAAAAAgACAAAATqEMlJq72Yks27J9lFHGRpmmBYjWdLpuokuK4QT8FMn0JwI7kdz3cLGo7I5PHQ+xmVUCYxloNaDc3MoUDoCQyFsHgcxuYIhUPlgC54weS4uZ2mjHuBvH7PzwvGdnGCg2QwbHCEiWIGIxJhW4qRkBJfQpYnWJQHV5xKWwYkNggznaVgaKGaZEhCSmVMlIhuALS1trcAf3CZBwGyAQB9wsABYwYBJMV3fmF0G1xuOWTIW39k1tBizthhfyUFfdyEeHppJwPoA9mKf+kmFN/ii8beJBglXaCXAjpqWvwAAwoMWCLEJRo/EipciCECADs=)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Cerrar la ventana*![](data:image/gif;base64,R0lGODlhIAAhAIQQALOARLqHUbmMU7yQXcOWY8WabMWfb8mjc8unfNGsgtGziNO1iNa5kty/mN3DoeHMqv///////////////////////////////////////////////////////////////yH5BAEKABAALAAAAAAgACEAAAX+ICSOZGmeaKquJcO+5uPAz/PWzrzW8u7gDRUPh0rkZEfX6YdDmhIMZG6qJDka02yQxGgwco0w1rGwjq9iR3XUZbjf7kZCBIerdSZFvb7Y11UJfQuBC4UKhQyIiAoKLAmPkJGRCgmUjS8IkpqTMCIHCKChoqFznSIGBggHq6MIBqYjAwartLWzsBACBKi8vbwDpgEGBAXFxcTHBcQEMADHBNDR0srEwCsA0tna0tYo2NkDBOHi49rdJc4D6uvkBAHr8OwBJ+TxAuEAIvfx8PMk7/sG3NtXIiC8gflICFyo7t4JgAIiEjwhAKK6FBIlnjMRAOBGExkFJEwRoOILiTAL/J3ExbKly5ckQgAAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)
+
+[*Conectarse al sistema*![](data:image/gif;base64,R0lGODlhkgAgAOMIAEMiAFEzEGlOLX9oSZyHaremicq7ouLZv////////////////////////////////yH5BAEKAAgALAAABACSABgAAAT+EMlJq61nhCB2MFcojmRpnmiqSkdbAIC3CWtt33jOtnxrFARBbNbZ6I7IJO4AJDgHA0FRJq1+DL3sQcntHg8wT1Ua5XCqGsGAUCgY3r/C1kuvo8AANHRNSJOjaWtubzxYdjgwhzVgZ3tObBqAjhyCbXCEijaJmSM/j30zUI9tQGpqTwRXWFotnCubrhZMUFVDoqNtQVGfBTQovTMgLEEzBHMIMBkbBBXAecYUwBzCMNUAEgYa0xXJQQAHoAEDwhLOAtAXBXtqtpWkpUFsQL0oA9abB0L3A3Mw9tUFJvyzJmDOwGoS7l1Ddo8cw4Ev7glUWFDLD1FrbDl5l+vcuVz+9ExEHHfAgC8CMcZlg8GMYQA39ny9CEAASy8AzEZiMTkBlgSSJgEMoBAGWgCcO2XGqMlEiDxSfdQNUDdT3MYfceJ9BMLThJChFpxSiJkQQEAEBmJIEHIWWx4EX0P4rJA2AFGcE88ZWmuWQloBHKOqmaeRDdY3WuXV9FXiqMMJjv2qZTgHj4SjChNFvuATXAdrd8kFDSMMc+ZLb9pAIbyBDymsiUEyJrG5Qm20k31uMq0Qwe27FFD27rnQrwahlzPPLbcmTrunlnRtZTN7RNywePOWBQ6374XrFpJBRlpSd3G6b7u3HTHr3fONUE3xqi5CZ8mTSxEfbWm+HMtVBgTNgYB9Xflm1hxHyTEad2vJAc5kETFVkoAYcCSNGq7FBwgqAZS0ihYTZDBcPgrxsx1xEwjXm4gS/QSaikL1R5w1YCEAI2iyZFEXGfCpJg6GolhlGGp7IeBZMCESwwE6DDGIVhQxqCHMkduwcNw1R/IjIzbaTHXMk0JQ8lgIePzhjh8YqkFJTXAU8mUscCaBhxh/gNLBGIE8hdqbcfa5RB+mjGHGEGN0MMiHWfipqA4WefIZnR6wwsOilHbRg3AycFDpprEYcJQHLHEq6ggRAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Suscribirse a LexiVox*![](data:image/gif;base64,R0lGODlhfAAgAOMIAEYlAWlPL4t1V62cgMa3n9fNtOnhyPX06v///////////////////////////////yH5BAEKAAgALAAAAAB8ACAAAAT+EMlJkTE16827/2AoekeJjWiqruzlXuUwHK/L3ngeGmXv/72BgKArGovAEkEgExR8iMLlSK2Knj+BwFeYlSYFq3ic4fmYMdnAQIhhpuS4FdYLtLUHvPcgJZzkgEV0BwQBJYaHhE8Ga1KBIgAAE5EclEcXfkoBBQWIB4YEbWsEjo8glgioGao6mFI8dp9eAUJ8rn+mkJKPnEtoAFsCmwMBAVtrbKW5uqYDnBdaAwCcAQCbTwN+mLgSjAKRdpO7Epbe4EQTxOfiBsKSqJHt1U7i7O7m1ugSheACJ8mvDHQC4OdVHgAmBIapIC2Sw3oQGzocV23iuEjfKMEDZvHExoz+ACQ+lADSYYATzgKaKMZEWBsaFwromzCvTwCI5HbVZHMTQcMhPMUBW7gxZBeMOYXS21lIQsNsXebte+bCBykfLjhxqlDNmB8Kqix1BUoT2AakOCMNSGctaU4BZb3+qbZ2AoG2UUgFNPOjhsBQFfiBW5hqXOF9Fa0RJXh2GtiLjiUUsLSRsGDFOS2OpEV1EBdS07R+DZwRbs5/qpagjTTzcYXKYChDzqDabGHNlCY72Yu1gJZiCntxi90TQTV0DTNM7ilVA6uNdX3i3bhhuQS6G75dU8lGSL5XpAis4ao34wTtUcWWt/TTT1O3adUetU2d5vpdT0l1P+lOb0wtwmy1AtMFMrSWmUOmSYegbBOZZkBiIx3m2lsdwReWRQmWNJFvdqTkQoF7KeTMBrUxgUtpBlhS4njdqJMPThYCIM9Q8VGwIi5LVOQVh0toJZAQu2W11TJEosCjTM8wwZlWohXpZAg8MsLJb1DJFIpMwz2pJQW+aeGTEMYUGMqYoWS55ZYPCsNhmGq0GYaZZ245nzAAtqQGYXHmWYY6LAGYjZ6AdlCMNUMoE+ihFAiBJ6KMUgBHo4hGAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](https://www.lexivox.org/suscripcion.html)
+
+# Bolivia: Decreto Ley de 21 de noviembre de 1930
+
+LA JUNTA MILITAR DE GOBIERNO
+
+Considerando:
+
+* Que en servicio de la pureza del sufragio y en bien de la democracia es de urgencia modificar algunas disposiciones de la Ley Electoral vigente.
+* En ejercicio de la facultad contenida en el Estatuto de Gobierno de 29 de junio pasado, dicta el siguiente:
+
+Decreto Ley:
+
+**Artículo 1°.-** El inciso III del artículo 26 dirá:
+> “Cancelarán igualmente, a base de informes o certificados legales, las partidas de los fallecidos, de los que estando subjudice se hubiesen inscrito, así como las de los deudores fiscales con auto de solvendo ejecutoriado.”
+
+**Artículo 2°.-** El inciso II del artículo 27 dirá:
+> “En las que se cancelen se sentará al margen la nota que acuse el motivo de su cancelación, indicando la fecha y origen del respectivo comprobante, así como el número y folio de la nueva partida con la que ha quedado reemplazado. Para que las cancelaciones hechas surtan efecto, publicará el registrador aviso o cartel por lo menos 8 días antes de elecciones y hará constar la fecha de uno u otro en la nota cancelatoria. Toda cancelación ilegal será reclamable ante el Juez de Partido con recurso de alzada a la Corte de Distrito, que impondrán una multa de cien bolivianos al registrador. Los registradores legajarán debida y ordenadamente los comprobantes de las partidas que cancelen.”
+
+**Artículo 3°.-** El artículo 62 dirá:
+> “En las sesiones a que se refiere el artículo anterior, las mesas receptoras señalarán con plena autonomía el recinto electora para sus funciones. En las capitales de departamento y si fuese posible en los distritos electorales que tengan más de tres mesas receptoras, se ubicarán por zonas, prefiriendo los sitios públicos donde existan establecimientos de enseñanza fiscal, municipal o particular, lo que se hará saber con anticipación al electorado por la prensa o carteles.”
+
+**Artículo 4°.-** El artículo 65 dirá:
+> “las mesas receptoras funcionarán con debida autonomía dentro de locales de instrucción donde hubieren. En los distritos en que fuesen insuficientes estos establecimientos elegirán fundos municipales. En un mismo local podrá funcionar más de una mesa si tiene habitaciones separadas para el sufragio libre. El ingreso será controlado por la policía civil.”
+
+**Artículo 5°.-** El artículo 55 dirá:
+> “I.- El presidente de cada mesa elegirá, antes de las votaciones, una o más habitaciones del edificio que ocupe para que sirvan a la emisión del voto; debiendo tomar todas las seguridades para evitar que el elector sea perturbado en ese acto y quede totalmente libre de influencias. Después de que se sufrague un ciudadano penetrará otro a la habitación por orden del presidente de la mesa.
+>   
+> II.- Los delegados de partido o grupo político y aún los candidatos podrán controlar el cumplimiento de lo establecido en esta disposición.
+>   
+> III.- Los presidentes de concejos y juntas municipales o los que hagan sus veces, harán instalar, con oportunidad, el mobiliario que se necesite para el funcionamiento de las mesas, bajo la multa, en caso contrario, que quinientos bolivianos que será impuesta por la Corte Superior del distrito, a denuncia de cualquier ciudadano. Los partidos políticos o los candidatos podrán subsanar la omisión.”
+
+**Artículo 6°.-** El artículo 67 dirá:
+> “Será nula la elección hecha e contravención con lo dispuesto en el primer inciso del artículo anterior.”
+
+**Artículo 7°.-** El artículo 68 dirá:
+> “Si las autoridades, partidos, grupos políticos, o individuos particulares obstaculizarán el funcionamiento de las mesas receptoras a efecto de provocar la nulidad de la elección, el presidente o la mayoría de los jurados mediante voto mandará la detención inmediata de los promotores por la policía civil o la fuerza pública y oficiará a la autoridad judicial inmediata para el enjuiciamiento del caso y aplicación de la multa de trescientos bolivianos por persona, fuera de la pena de prisión por seis meses que impondrá la autoridad respectiva.”
+
+**Artículo 8°.-** El artículo 73 dirá:
+> “I.- Las mesas receptoras podrán suspender sus funciones por acuerdo de sus miembros presentes, cuando, por desorden que no pudiese dominar, les fuese imposible continuar recibiendo los votos de los electores o estos estuviesen impedidos por fuerza mayor de aproximarse a la mesa a sufragar.
+>   
+> II.- Una vez cesado el desorden la mesa receptora reanudará sus funciones en el mismo día, hasta completar el número de horas señaladas para recibir los votos de los ciudadanos. Si vencidas las horas de ley no fuese posible continuar, procederá al escrutinio sentando acta con precisión de los hechos que impidieron proseguir las votaciones.
+>   
+> III.- Las mesas receptoras, individual o colectivamente, son las únicas autoridades facultadas para suspender la elección total o parcial. La fuerza pública y las autoridades políticas no tiene más potestad que conservar el orden público; si se extralimitaren, la mesa receptora sentará el acta respectiva.”
+
+**Artículo 9°.-** Queda suprimido el inciso III del artículo 75.
+
+**Artículo 10°.-** El artículo 76 dirá:
+> “Los partidos políticos por intermedio de sus directorios, comités o delegados y los candidatos aislados o independientes o sus delegados depositarán con anticipación oportuna al comienzo de la elección y en el interior de la habitación del sufragio, fórmulas impresas en vista de ellas. Los presidentes de las mesas vigilarán el cumplimiento de esta disposición.”
+
+**Artículo 11°.-** El inciso II del artículo 78 dirá:
+> “En los distritos donde las elecciones sean por zonas, los registradores entregarán esos libros a la administración de correos para que empleados de ese ramo colaborados por agentes de policía entreguen a su vez cada presidente de mesa, mediante recibo, y los mismos recogerán después del escrutinio para ponerlos a disposición del registrador.”
+
+**Artículo 12°.-** El artículo 81 dirá:
+> “I.- Abierto el sufragio se procederá a la elección de esta manera:
+>   
+> a) Hasta veinte ciudadanos por mesa penetrarán al edificio destinado al funcionamiento de mesa o mesas receptoras para presentar sus libretas de registro a los secretarios;
+>   
+> b) Después que hayan sufragado, esos ciudadanos abandonarán el local para el ingreso de otros. Este ingreso será controlado por la policía civil;
+>   
+> c) Los secretarios o los miembros de las mesa confrontarán una a una las libretas de registro con la partida respectiva y una vez reconocida su conformidad, harán firmar al elector en el libro respectivo.
+>   
+> d) Confrontada la firma, el presidente de la mesa entregará al que debe votar una cédula de sufragio que la firmará en el cato y en el reverso con firma íntegra. No podrá firmarla en otro momento ni en otro lugar distinto de la mesa pena de nulidad reclamable de inmediato por cualquier delegado o jurado. Si el presidente negase dar paso a la reclamación, el voto de la mayoría de los jurados impondrá el cumplimiento de este inciso, sin lugar a observación por el presidente;
+>   
+> e) De un talonario impreso que constará de cien hojas desprenderá el presidente de la mesa la cédula de sufragio.
+>   
+> II.- Los delegados sellarán con sus contraseñas en el dorso de la cédula de sufragio;
+>   
+> a) Si la confrontación de firmas y generales del elector con la respectiva partida no fuese suficiente a satisfacer las sospechas de frade, podrá exigirse al elector la presentación de su libreta de servicio militar o algún otro comprobante escrito;
+>   
+> b) Una vez que el elector haya recibido de manos del presidente de la mesa la cédula de sufragio, pasará a la habitación destinada al voto secreto, donde la escribirá con tinta o lápiz con entera libertad;
+>   
+> c) No podrá votar por ninguna razón fuera de la habitación, ni tampoco podrá permanecer dentro de ella más de dos minutos. El presidente de la mesa controlará el cumplimiento de este inciso, para que después de un elector penetro otro;
+>   
+> d) Antes de salir de la habitación el elector doblará su cédula de voto dejando al descubierto el reverso para comprobar su legalidad sin permitírsele que enseñe el voto a ninguna persona y la insaculará en el ánfora colocada al efecto en medio de la mesa;
+>   
+> e) En las mesas receptoras habrá dos listas por orden alfabético de los ciudadanos inscritos debiendo uno de los secretarios tarjar los nombres a medida que vayan sufragando, a fin de evitar la duplicación del voto.
+>   
+> III.- Todo voto emitido fuera de la habitación será nulo y lo rechazará la mesa. El elector será castigado incontinenti por el presidente de la mesa con tres días de cárcel, mediante mandamiento que expedirá en el acto.
+>   
+> IV.- Igual rechazo de voto y de pena aplicará al elector que al salir de la habitación o en otro momento enseñara su voto a alguna persona. Para evitar esto, la habitación de sufragio estará inmediatamente contigua al sitio del presidente.
+>   
+> V.- Una vez que haya sufragado el elector, el presidente de la mesa la devolverá su libreta de inscripción y los documentos que hubiese presentado para comprobar su identidad personal; así como la cédula o certificado por el que conste el sufragio.”
+
+**Artículo 13°.-** Al artículo 82 se agrega este inciso:
+> “II.- Fuerzas de policía existirán permanentemente a cien metros del recinto electoral, que estarán a órdenes de los presidentes de mesa y cuidarán exclusivamente de amparar las garantías individuales.”
+
+**Artículo 14°.-** Del inciso II del artículo 85 y artículo 86 se suprimen las frases “o con la deposición jurada de dos testigos de reconocida probidad”, “testigos de probidad o”.
+
+**Artículo 15°.-** El inciso II del artículo 87 dirá:
+> “Si un elector votase más de una vez será penado con la multa de cincuenta bolivianos y sufrirá diez días de cárcel que inmediatamente impondrá el presidente de la mesa expidiendo el mandamiento de ley.”
+
+**Artículo 16°.-** Del inciso II del artículo 89 quedan suprimidas las frases “romperá los sobres y”, “juntamente con sus respectivas cubiertas” y “y los sobres”.
+
+**Artículo 17°.-** El artículo 90 dirá:
+> “Serán nulos:
+>   
+> I.- Los votos sin firma del presidente de la mesa o los que resultasen con la firma falsificada;
+>   
+> II.- Los votos que no lleven la contraseña de alguno de los delegados constituidos según el acta de instalación;
+>   
+> III.- Los votos que contengan más de una cédula de sufragio;
+>   
+> IV.- Los que no mencionen clara y concretamente al elegido y con respecto a cada nombre;
+>   
+> V.- Los que tengan marcas o distintivos. NO se considerará señal el borrón;
+>   
+> VI.- El nombre y apellido borrado.
+>   
+> VIII.- El nombre y apellido que exceda del número de ciudadanos a elegirse.”
+
+**Artículo 18°.-** Queda suprimido el artículo 91.
+
+**Artículo 19°.-** El inciso V del artículo 99, dirá:
+> “En el ánfora se guardarán debidamente empaquetados los votos, talonarios de cédulas y de certificados de sufragio, los libros de actas y de firmas. Cerrada y lacrada que sea ella, el presidente de la mesa la remitirá en el día al notario registrador, quién conservándola en su poder, bajo su responsabilidad, deberá enviarla a las mesas computadoras.”
+
+**Artículo 20°.-** El artículo 144, dirá:
+> “I.- Es prohibido absolutamente a los funcionarios públicos con excepción de senadores y diputados, cualesquiera que sean su categoría y función, el suscribir actas, asistir a clubs o manifestaciones políticas, servir de delegados o agentes electorales.
+>   
+> II.- El desobedecimiento de esta prohibición determinará el retiro del empleado a sola denuncia justificada ante el jefe de la oficina en que sirva aquel. Si este retiro no se produjere, el juez a instancia de cualquier ciudadano aplicará la multa de cien a trescientos bolivianos al jefe de la oficina que se haya complicado en el desobedecimiento al no ordenar el retiro y mandará la separación del empleado.
+>   
+> III.- Los funcionarios que tengan que sufragar lo harán con circunspección retirándose inmediatamente de llenado su deber.”
+
+**Artículo 21°.-** El inciso I, del artículo 145, dirá:
+> “Ninguna autoridad política, municipal, administrativa, fiscal o judicial, ni agente o fuerza pública intervendrá bajo ninguna forma ni pretexto en el funcionamiento de las mesas receptoras.”
+
+**Artículo 22°.-** El artículo 158 se agrega este inciso:
+> “III. El presidente de la mesa por sí o por resolución de la mayoría de los jurados ordenará la detención inmediata de ambos en la cárcel, expidiendo el mandamiento de ley para el juzgamiento por la autoridad respectiva.”
+
+**Artículo 23°.-** El artículo 164 dirá:
+> “Aparte de la policía civil establecida en el artículo 63, la fuerza pública resguardará el orden en las funciones electorales;
+>   
+> I.- Las autoridades políticas o policiarias ubicarán en las zonas de lección y a cien metros del recinto electoral la fuerza pública que fuese necesaria, a órdenes de los presidentes de las mesas.
+>   
+> II.- Harán uso de ella los presidentes de mesa solo para el caso de que otros procedimientos no sean suficientes al amparo del sufragio libre y tranquilo, debiendo retirarse la fuerza del recinto electoral inmediatamente que haya sido restablecido el orden.
+>   
+> III.- La Policía civil podrá hacer las veces de la fuerza pública a requerimiento del presidente de la mesa receptora y los componentes de aquella deben llevar una escarapela tricolor en el sombrero u otro distintivo notorio.
+>   
+> IV.- La Policía civil hará retirar a los ebrios y a los que fomenten violencias o las realicen, pidiendo, en caso necesario, la ayuda del presidente de la mesa para la cooperación de la fuerza pública.
+>   
+> V.- Para evitar el ingreso de los ciudadanos al local de las mesas receptoras en el acto del escrutinio, la policía civil podrá requerir el auxilio de la fuerza pública, si ella fuese insuficiente. Dicho escrutinio se realizará por las mesas receptoras con la presencia de los delegados o de los candidatos únicamente.
+>   
+> VI.- El Mediador Electoral será designado para los distritos donde no hayan zonas electorales o cuando los partidos pidiesen anticipadamente su designación. Esta tendrá lugar el domingo anterior a cada elección en junta del prefecto, subprefecto, intendente o corregidor en su caso y un representante por cada partido, o grupo político a invitación de la autoridad política; ese nombramiento será hecho, precisamente, por acuerdo de la mayoría de los representantes, en persona neutral y de probidad. Un acta pormenorizada legalizará los acuerdos.
+>   
+> VII.- Sus funciones serán:
+>   
+> a) Amparar la libertad de los ciudadanos;
+>   
+> b) Conservar la normalidad de las funciones electorales;
+>   
+> c) Gestionar la presencia de la fuerza pública y servirse de ella así como de la policía civil para la conservación del orden y de las garantías ciudadanas, si otros procedimientos no fuesen suficientes.
+>   
+> d) Ordenar el arresto de ebrios y promotores de desórdenes;
+>   
+> e) Mandar la desocupación del recinto electoral para el escrutinio;
+>   
+> f) Impedir la intervención de los funcionarios públicos y de la fuerza pública.”
+
+**Artículo 24°.-** En los artículos pertinentes de la Ley Electoral, la palabra “caseta” sera sustituída por “habitación de sufragio” y la palabra “sobre” por la de “cédula de sufragio”.
+
+---
+
+El Miembro de la Junta Militar de Gobierno a cargo del Despacho de Gobierno queda encargado del cumplimiento del presente Decreto Ley.
+  
+Dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de noviembre de mil novecientos treinta años.
+  
+C. Blanco. Oscar Mariaca Pando. F. Osorio. Tte. Cnl. B. Bilbao R. J. L. Lanza. E. Gonzáles Q.
+  
+Es conforme:
+  
+C. CABRERA GARCÍA
+  
+Oficial Mayor de Gobierno.

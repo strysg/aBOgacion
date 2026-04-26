@@ -1,0 +1,209 @@
+# Bolivia: Decreto Supremo Nº 4904, 5 de abril de 2023
+
+[Decreto Supremo Nº 4904](https://www.lexivox.org//norms/BO-DS-N4904.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+REGLAMENTO DE LA UNIDAD DE INVESTIGACIONES FINANCIERAS - UIF
+
+CONSIDERANDO:
+
+* Que el numeral 44 del Artículo 2 de la [Ley Nº 1768](https://www.lexivox.org//norms/BO-L-1768.html), de 10 de marzo de 1997, de Modificaciones al Código Penal, incorpora el Artículo 185 Ter al Código Penal, que crea la Unidad de Investigaciones Financieras.
+* Que el inciso a) del Artículo 1 de la [Ley Nº 2341](https://www.lexivox.org//norms/BO-L-2341.html), de 23 de abril de 2002, de Procedimiento Administrativo, determina como objeto establecer las normas que regulan la actividad administrativa y el procedimiento administrativo del sector público.
+* Que la [Ley Nº 4072](https://www.lexivox.org//norms/BO-L-4072.html), de 27 de julio de 2009, aprueba el «Memorando de Entendimiento entre los Gobiernos de los Estados del Grupo de Acción Financiera de Sudamérica contra el Lavado de Activos (GAFISUD)», suscrito en la ciudad de Cartagena de Indias a los 8 días del mes de diciembre del año 2000 y la «Modificación del Memorando de Entendimiento entre los Gobiernos de los Estados del Grupo de Acción Financiera de Sudamérica contra el Lavado de Activos (GAFISUD)», rubricado en Santiago de Chile el 6 de diciembre de 2001. Actual Grupo de Acción Financiera de Latinoamérica - GAFILAT.
+* Que el Parágrafo I del Artículo 19 de la [Ley Nº 004](https://www.lexivox.org//norms/BO-L-N4.html), de 31 de marzo de 2010, de Lucha Contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», establece que no se podrá invocar secreto o confidencialidad en materia de valores y seguros, comercial, tributario y económico cuando la Unidad de Investigaciones Financieras, Ministerio de Transparencia Institucional y Lucha Contra la Corrupción actual Ministerio de Justicia y Transparencia Institucional, Ministerio Público y la Procuraduría General del Estado requieran información para el cumplimiento de sus funciones; esta información será obtenida sin necesidad de orden judicial, requerimiento fiscal ni trámite previo alguno.
+* Que el Parágrafo I del Artículo 21 de la [Ley Nº 004](https://www.lexivox.org//norms/BO-L-N4.html), dispone que tienen el deber de remitir toda la información solicitada por la Unidad de Investigaciones Financieras, dentro de una investigación que se esté llevando a cabo, las siguientes entidades y sujetos dedicados a: a) Compra y venta de armas de fuego, vehículos, metales, obras de arte, sellos postales y objetos arqueológicos; b) Comercio de joyas, piedras preciosas y monedas; c) Juegos de azar, casinos, loterías y bingos; d) Actividades hoteleras, de turismo y de agencias de viaje; e) Actividades relacionadas con la cadena productiva de recursos naturales estratégicos; f) Actividades relacionadas con la construcción de carreteras y/o infraestructura vial; g) Despachadores de aduanas, y empresas de importación y exportación; h) Organizaciones no gubernamentales, fundaciones y asociaciones; i) Actividades inmobiliarias, y de compra y venta de inmuebles; j) Servicios de inversión; k) Partidos políticos, agrupaciones ciudadanas y pueblos indígenas; l) Actividades con movimiento de efectivo susceptibles de ser utilizadas para el lavado de dinero y otras actividades financieras, económicas, comerciales establecidas en el Código de Comercio. Que el Parágrafo I del Artículo 495 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), de 21 de agosto de 2013, de Servicios Financieros, señala que la Unidad de Investigaciones Financieras - UIF, es una entidad descentralizada, con autonomía de gestión administrativa, financiera, legal y técnica, bajo tuición del Ministerio de Economía y Finanzas Públicas, encargada de normar el régimen de lucha contra el lavado de dinero y financiamiento del terrorismo en consulta con el Ministerio de Economía y Finanzas Públicas y las autoridades de supervisión; investigar los casos en los que se presuma la comisión de delitos de legitimación de ganancias ilícitas, financiamiento al terrorismo y otros de su competencia; y realizar el análisis, tratamiento y transmisión de información para prevenir y detectar los delitos señalados en el citado Artículo.
+* Que el Parágrafo III del Artículo 495 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), modificado por la Disposición Adicional Décima de la [Ley Nº 856](https://www.lexivox.org//norms/BO-L-N856.html), de 28 de noviembre de 2016, del Presupuesto General del Estado Gestión 2017, establece que la Autoridad de Supervisión del Sistema Financiero - ASFI, la Autoridad de Fiscalización y Control de Pensiones y Seguros - APS, la Autoridad de Fiscalización y Control Social del Juego actual Autoridad de Fiscalización del Juego - AJ y demás autoridades de supervisión cuyos supervisados sean designados por la UIF como sujetos obligados, deberán vigilar el cumplimiento por parte de las entidades bajo su regulación de las normas emitidas por la UIF. Las infracciones incurridas por los sujetos obligados serán objeto de sanción a través de un proceso en el que la sustanciación para la determinación de la responsabilidad y la aplicación de la sanción correspondiente serán efectuadas por la entidad de supervisión respectiva.
+* Que el Artículo 496 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), dispone que el Órgano Ejecutivo mediante Decreto Supremo establecerá la organización, atribuciones, el régimen de infracciones administrativas y procedimientos para la imposición de sanciones administrativas y los recursos.
+* Que el [Decreto Supremo Nº 24771](https://www.lexivox.org//norms/BO-DS-24771.html), de 31 de julio de 1997, aprueba el Reglamento de la Unidad de Investigaciones Financieras, creada mediante [Ley Nº 1768](https://www.lexivox.org//norms/BO-L-1768.html), de 10 de marzo de 1997, de Modificaciones al Código Penal.
+* Que el [Decreto Supremo Nº 0910](https://www.lexivox.org//norms/BO-DS-N910.html), de 15 de junio de 2011, reglamenta el régimen de infracciones y los procedimientos para la determinación y aplicación de sanciones administrativas en lo concerniente a la Legitimación de Ganancias Ilícitas por parte de la UIF, la ASFI y la APS, a las personas naturales y jurídicas que se encuentren bajo el ámbito de las Leyes que regulan el sistema financiero y sus correspondientes reglamentos.
+* Que es necesario reglamentar la organización, atribuciones de la UIF, el régimen de infracciones administrativas y procedimientos para la imposición de sanciones administrativas en cumplimiento al Artículo 496 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), así como definir elementos generales de los Sujetos Obligados, a efecto de coadyuvar al cumplimiento de las recomendaciones del Grupo de Acción Financiera Internacional - GAFI.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la organización, atribuciones de la Unidad de Investigaciones Financieras - UIF, el régimen de infracciones administrativas y los procedimientos para la imposición de sanciones administrativas; y definir elementos generales sobre las medidas preventivas aplicadas por los Sujetos Obligados regulados por esta entidad.
+
+**Artículo 2°.- (Unidad de Investigaciones Financieras - UIF)** La UIF es una entidad técnica y autónoma, que desempeña sus funciones sin influencias o interferencias políticas o gubernamentales indebidas que puedan poner en riesgo su independencia operativa en el marco de lo dispuesto del Artículo 495 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), de 21 de agosto de 2013, de Servicios Financieros, aplicando el enfoque basado en Gestión de Riesgos; garantizando la confidencialidad, seguridad y protección de la información, disponiendo el acceso limitado a sus instalaciones y a los sistemas de tecnologías de la información.
+
+**Artículo 3°.- (Alcance)** Las disposiciones del presente Reglamento se aplicarán a la UIF y a toda persona natural o jurídica considerada como Sujeto Obligado regulado por esta entidad, así como a las instituciones públicas y privadas relacionadas con el cumplimiento de su misión y atribuciones.
+
+**Artículo 4°.- (Máxima Autoridad Ejecutiva)** El o la Director(a) General Ejecutivo(a) es la Máxima Autoridad Ejecutiva - MAE de la UIF.
+
+**Artículo 5°.- (Prohibiciones)** No podrá ser Director(a) General Ejecutivo(a) de la UIF:
+
+1. El síndico, ejecutivo(a), administrador(a), accionista, director(a), apoderado(legal, asesor(y empleado(o dependiente de sociedades o entidades dedicadas a las actividades sometidas a la competencia de la UIF;
+2. El que tuviese conflicto de interés, participación directa o indirecta en cualquier actividad sujeta al ámbito de ejercicio de la UIF.
+
+**Artículo 6°.- (Funciones)** El o la Director(a) General Ejecutivo(a) de la UIF tiene las siguientes funciones:
+
+1. Representar a la UIF ante instituciones públicas o privadas, nacionales e internacionales;
+2. Suscribir acuerdos interinstitucionales nacionales o internacionales para el mejor desarrollo de las funciones asignadas a la UIF, en el marco de la normativa vigente;
+3. Oponerse por cuarenta y ocho (48) horas a la ejecución de una operación o transacción, cuando se determine que se trata de una operación sospechosa;
+4. Remitir a las autoridades competentes la información de inteligencia resultante, que a su criterio amerite investigación penal;
+5. Coordinar y ejecutar las acciones necesarias para el cumplimiento de las Resoluciones del Consejo de Seguridad de las Naciones Unidas, conforme a reglamentación emitida por la UIF;
+6. Definir los asuntos de competencia de la entidad mediante Resoluciones Administrativas;
+7. Otras establecidas en reglamentación interna, de acuerdo a la normativa vigente.
+
+**Artículo 7°.- (Equipo Técnico Especializado)** El Equipo Técnico Especializado de la UIF estará integrado por profesionales auditores, economistas, abogados, contadores, informáticos y otros que cumplan con requisitos de idoneidad y experiencia en el área de su competencia. La organización, designación y remoción de este equipo serán establecidas en los procedimientos internos, acorde a lo previsto en las normas de administración de personal.
+
+**Artículo 8°.- (Obligación de reserva)** 
+
+1. Las y los servidores públicos de la UIF no podrán revelar la información que llegue a su conocimiento en el desempeño de sus funciones, salvo orden judicial motivada, expedida por autoridad competente dentro del proceso formal y de manera expresa. ILa obligación de reserva no se aplica a la información espontánea o requerida en el contexto de la cooperación mutua de conformidad a los tratados internacionales ratificados por el Estado Plurinacional de Bolivia, ni en el intercambio recíproco con organizaciones internacionales y/o entidades análogas a la UIF y que se encuentren sujetas a las mismas obligaciones de secreto.
+2. Las y los servidores públicos de la UIF que incumplan esta obligación de reserva, sin perjuicio de la responsabilidad civil y administrativa, serán sancionados de conformidad a lo establecido en los Artículos 300 al 302 del Código Penal.
+
+**Artículo 9°.- (Confidencialidad)** 
+
+1. Toda información recepcionada por la UIF tiene carácter confidencial en su tratamiento y no será de procesamiento obligatorio por esta entidad, la cual podrá disponer la investigación en función al análisis efectuado de la misma en cumplimiento al procedimiento interno. ILa revelación de hechos o datos conocidos por el Director(a) o las y los servidores públicos en el ejercicio de su función, aún después de cesar en sus funciones será sancionada de conformidad a lo establecido en los Artículos 300 al 302 del Código Penal.
+
+**Artículo 10°.- (Atribuciones)** La UIF tiene las siguientes atribuciones:
+
+1. Normar el régimen de prevención y lucha contra la legitimación de ganancias ilícitas, financiamiento del terrorismo y el financiamiento de la proliferación de armas de destrucción masiva, en consulta con el Ministerio de Economía y Finanzas Públicas y las autoridades de supervisión;
+2. Emitir instrucciones, requerimientos de información, recomendaciones y otros a los Sujetos Obligados en el ámbito de su competencia;
+3. Solicitar cooperación técnica, logística o funcional a cualquier entidad pública, manteniendo la confidencialidad y reserva de la información generada en la entidad;
+4. Recabar información pública o confidencial de cualquier entidad de registro público, la cual está obligada a colaborar, dentro del término que se el fije, con carácter preferente, urgente y de manera activa e inmediata;
+5. Acceder a cualquier base de datos, expediente, informe y cualquier otra forma de documentación de entidades públicas a fin de obtener la información necesaria que el permita cumplir con sus objetivos, no pudiendo negársele tal acceso;
+6. Cooperar, a solicitud o de forma espontánea, con unidades de inteligencia financiera u otras autoridades internacionales análogas para el intercambio de información relativa a la legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva y otros derivados en el marco de su competencia, incluso de manera indirecta;
+7. Coordinar, promover y ejecutar incluido el intercambio de experiencias y buenas prácticas, asistencia técnica, pasantías y medios de retroalimentación, tendientes a viabilizar acciones rápidas y eficientes, de conformidad con acuerdos previamente suscritos u otros instrumentos o modalidades acordes al principio de reciprocidad y amplia cooperación;
+8. Remitir a las autoridades competentes elementos necesarios debidamente fundamentados para la investigación y persecución penal correspondiente si, como resultado de las actividades de inteligencia financiera o patrimonial, la UIF determina la existencia de una operación sospechosa;
+9. Solicitar, a través de las respectivas autoridades de supervisión, la realización de auditorías externas para verificar el cumplimiento de las obligaciones atribuidas a los Sujetos Obligados;
+10. Organizar programas de capacitación en prevención y lucha contra la legitimación de ganancias ilícitas, el financiamiento del terrorismo y el financiamiento de la proliferación de armas de destrucción masiva y otros derivados en el marco de su competencia, dirigidos al personal de los Sujetos Obligados; así como retroalimentación al personal de las entidades públicas y privadas relacionadas con esta materia;
+11. Requerir a los Sujetos Obligados información de reportes de operaciones generales, así como información adicional, a fin de cumplir con sus objetivos, no pudiendo negársele tal solicitud, dentro del plazo que la entidad determine;
+12. Desarrollar y aprobar sus procedimientos internos de forma técnica y autónoma, incluyendo aquellos necesarios para proteger la seguridad y la confidencialidad de la información que maneja;
+13. Ejercer la Secretaría Técnica del Consejo Nacional de Lucha Contra la Legitimación de Ganancias Ilícitas y el Financiamiento del Terrorismo;
+14. Promover y suscribir acuerdos interinstitucionales o interactuar independientemente con otras autoridades competentes nacionales o contrapartes extranjeras para el intercambio de información, observando las formalidades de los tratados y convenios internacionales de los cuales el Estado Plurinacional de Bolivia es parte;
+15. Realizar actividades de inteligencia y análisis financiero y patrimonial, de oficio o a solicitud de autoridad competente, para identificar actividades o transacciones en las que exista sospecha de su relacionamiento con la legitimación de ganancias ilícitas, sus delitos precedentes o el financiamiento del terrorismo, conforme a reglamentación interna;
+16. Efectuar análisis, investigaciones y estudios estratégicos para identificar o determinar patrones, tendencias, amenazas y vulnerabilidades relacionadas con la legitimación de ganancias ilícitas, sus delitos precedentes y financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva, conforme a reglamentación interna;
+17. Requerir a los Sujetos Obligados y registros públicos, reportes con o sin umbral, de transacciones en efectivo, transferencias electrónicas y cualquier otra información adicional, en la forma y condiciones que la UIF defina al efecto;
+18. Solicitar información estadística o de otra índole a cualquier entidad pública o privada;
+19. Ejercer supervisión en materia de legitimación de ganancias ilícitas y financiamiento del terrorismo de aquellos Sujetos Obligados que no se encuentran bajo supervisión de una entidad que ejerza de manera específica tal atribución.
+
+## Capítulo II Tratamiento de la información
+
+**Artículo 11°.- (Requerimiento de información)** La información que requiera la UIF en el marco de sus atribuciones para los procesos de inteligencia financiera tiene carácter confidencial. Las personas naturales y jurídicas, públicas o privadas se encuentran en el deber de guardar la confidencialidad de la información y el hecho de su transmisión a la UIF.
+
+**Artículo 12°.- (Tratamiento del informe de inteligencia financiera y patrimonial)** 
+
+1. La UIF remitirá, espontáneamente o por solicitud, al Ministerio Público y a las autoridades competentes correspondientes, el informe de inteligencia financiera y patrimonial, cuando existan suficientes elementos que el permitan inferir que existan indicios vinculados a la legitimación de ganancias ilícitas sus delitos precedentes o financiamiento del terrorismo, empleando canales seguros y protegidos para esta comunicación, con la debida codificación de seguridad respecto a los nombres del equipo técnico especializado encargado de su elaboración.
+2. Los informes de inteligencia financiera y patrimonial de la UIF y toda la información relacionada a éstos, son confidenciales, no tienen valor probatorio y no formarán parte de ningún expediente administrativo, investigativo o judicial, su uso es exclusivo de las autoridades competentes y sólo servirá para investigar la legitimación de ganancias ilícitas y el financiamiento del terrorismo, por lo que ningún servidor público, particular o entidad no autorizada, puede divulgar, compartir, publicar o manipular de manera total o parcial, la información contenida en los informes o efectuar interpretaciones a interés propio o de terceros, bajo advertencia de aplicarse lo establecido en los Artículos 300 al 302 del Código Penal.
+3. Los informes de análisis estratégico son confidenciales y su manejo será definido por la UIF en coordinación con las instancias competentes.
+
+**Artículo 13°.- (Seguridad y resguardo de la información)** La UIF desarrollará políticas, procedimientos, reglamentos y mecanismos para garantizar la seguridad, confidencialidad y resguardo de la información, incluidos los procedimientos de acceso, manejo, almacenamiento, divulgación y protección de la información, y acceso a las instalaciones de la entidad por parte del personal dependiente y de terceras personas; esto abarca el acceso y uso de los sistemas tecnológicos y base de datos que serán de uso exclusivo y confidencial de las y los servidores públicos de la UIF.
+
+## Capítulo III Sujetos obligados y debida diligencia
+
+**Artículo 14°.- (Sujetos obligados)** 
+
+1. Los Sujetos Obligados son responsables del cumplimiento de las medidas de prevención y mitigación de los riesgos de legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva, conforme a la reglamentación específica que emita la UIF.
+2. La UIF establecerá las obligaciones de los Sujetos Obligados, basándose en el riesgo, naturaleza y/o características propias de cada sector.
+
+**Artículo 15°.- (Disposición común)** Los Sujetos Obligados deberán cumplir con las instrucciones, requerimientos de información, recomendaciones y otras disposiciones emitidas por la UIF.
+
+**Artículo 16°.- (Debida diligencia)** 
+
+1. Los Sujetos Obligados aplicarán y actualizarán los procedimientos y medidas de debida diligencia del cliente y/o usuario y del beneficiario final, con enfoque basado en gestión de riesgos, de acuerdo a disposiciones emitidas por la UIF, en el marco de los estándares internacionales emitidos por el Grupo de Acción Financiera Internacional - GAFI, relacionados a la prevención de la legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva y no convencionales.
+2. Las medidas de debida diligencia del cliente y/o usuario incluyen como mínimo identificar y verificar la identidad del cliente y/o usuario y del beneficiario final de las personas jurídicas, así como de estructuras jurídicas entendidas como fideicomisos y/u otras estructuras similares, cuando corresponda obtener la información sobre el propósito y el carácter que se pretende dar a la relación comercial; y realizar un monitoreo continuo de la relación comercial y de las transacciones a lo largo de la relación comercial.
+
+**Artículo 17°.- (Beneficiario final)** 
+
+1. Es o son la(s) persona(s) natural(es) que finalmente posee(n) o controla(n) a un cliente y/o la persona natural en cuyo nombre se realiza una transacción. Incluye también a las personas que ejercen el control efectivo final sobre una persona jurídica u otra estructura jurídica.
+2. Para identificar el beneficiario final de una persona jurídica u otra estructura jurídica, se aplicarán progresivamente los siguientes criterios:
+   1. Es la(s) persona(s) natural(es) que sea(n) accionista(s) o socio(s) con porcentaje igual o mayor al veinte por ciento (20%) de participación accionaria o societaria directa o indirecta;
+   2. Cuando exista una duda o ninguna persona natural cumpla con el criterio señalado en el inciso a) del presente Parágrafo, se considerará como beneficiario final la persona natural que ejerza el control de la persona jurídica o estructura jurídica a través de otros medios;
+   3. Cuando no se identifique a ninguna persona natural de acuerdo con los incisos a) o b) del presente Parágrafo, el beneficiario final será la(s) persona(s) natural(es) que ocupa el puesto del funcionario de mayor rango gerencial de la persona jurídica.
+3. Para la identificación del beneficiario final de fideicomisos o estructuras jurídicas similares, se debe incluir información sobre la identidad del fideicomitente, fiduciario y los beneficiarios, y cualquier otra persona natural que ejerza el control final efectivo sobre el fideicomiso.
+
+**Artículo 18°.- (Conservación)** 
+
+1. Los Sujetos Obligados deberán conservar toda la información obtenida de las medidas de debida diligencia del cliente y/o usuario, registros de transacciones nacionales o internacionales y que permita la reconstrucción de cada una de las transacciones, archivos de cuentas y correspondencia comercial, y los resultados de sus análisis, por un período no menor a diez (10) años después de realizada la transacción o después de finalizada la relación comercial.
+2. La información será conservada a través de medios físicos, electrónicos o digitales, de modo tal que puedan ser reproducidas idóneamente para aportar pruebas a las investigaciones delictivas y estar a disposición de las autoridades competentes.
+
+**Artículo 19°.- (Monitoreo de listas internacionales)** Los Sujetos Obligados deben monitorear de manera constante y permanente las listas relacionadas con el Consejo de Seguridad de las Naciones Unidas y otras listas internacionales.
+
+**Artículo 20°.- (Reporte de operaciones sospechosas - ROS)** 
+
+1. Los Sujetos Obligados que tengan motivos razonables para sospechar que los fondos de una operación proceden de una actividad delictiva o están relacionados al financiamiento del terrorismo, con independencia del monto de las mismas, incluidos los intentos o tentativas de realizar dichas operaciones, deben reportar con prontitud a la UIF, como única entidad encargada de recepcionar esta información.
+2. Queda prohibido revelar el hecho de que se está entregando a la UIF un Reporte de Operaciones Sospechosas - ROS o la información relacionada al mismo, por el carácter confidencial y la obligación de reserva del cual gozan los mismos, sin limitar el intercambio de información entre las instituciones que pertenecen a un mismo grupo financiero y las labores de supervisión en legitimación de ganancias ilícitas y financiamiento del terrorismo.
+
+**Artículo 21°.- (Exención de responsabilidad)** Los Sujetos Obligados, así como sus directores, gerentes, administradores, funcionario responsable, miembros de la Unidad de Cumplimiento y/o cualquier empleado dependiente, cuando reporten a la UIF de buena fe operaciones sospechosas estarán exentos de responsabilidad administrativa, civil y penal, por transgresión de alguna restricción de revelación de información a la que estuvieran obligados al momento de efectuar el reporte, cualquiera fuera su naturaleza, siempre que el ROS cumpla los criterios técnicos, plazos y procedimientos establecidos por la UIF.
+
+**Artículo 22°.- (Reportes generales)** Los Sujetos Obligados deben enviar a la UIF los reportes de transacciones con y sin umbrales, de acuerdo a las características que defina la UIF en sus instructivos para sus labores de inteligencia financiera y estratégica.
+
+## Capítulo IV Régimen de infracciones administrativas
+
+**Artículo 23°.- (Cumplimiento)** 
+
+1. El presente régimen de infracciones administrativas se aplicará a los Sujetos Obligados, a sus directores, gerentes, administradores, funcionarios responsables, miembros de la Unidad de Cumplimiento y/o cualquier empleado dependiente, de acuerdo con las normas sectoriales de cada autoridad de supervisión.
+2. La UIF reglamentará el régimen de infracciones administrativas y los procedimientos para la determinación y aplicación de sanciones administrativas de aquellos Sujetos Obligados que no se encuentren bajo supervisión de una entidad que ejerza de manera específica esa atribución.
+
+**Artículo 24°.- (Procedimiento sancionatorio)** 
+
+1. El procedimiento aplicable por parte de la Autoridad de Supervisión del Sistema Financiero - ASFI, la Autoridad de Fiscalización y Control de Pensiones y Seguros - APS, la Autoridad de Fiscalización del Juego - AJ, la Autoridad de Fiscalización de Empresas - AEMP, la Dirección del Notariado Plurinacional, y demás supervisores de los Sujetos Obligados no financieros, para la sustanciación del procedimiento administrativo sancionador, la determinación y ejecución de sanciones, así como la interposición de recursos administrativos y el régimen de prescripción, en lo concerniente a la legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva se regirán por la normativa propia de cada sector de supervisión ante la comisión de las infracciones administrativas previstas en el presente Decreto Supremo y normas administrativas supletorias.
+2. La ASFI, APS, AJ, AEMP, Dirección del Notariado Plurinacional y demás autoridades de Sujetos Obligados no financieros ejercen la supervisión de sus regulados en lo concerniente a la legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva, y publicarán en sus sitios web información estadística de las Resoluciones Sancionatorias emitidas, conforme a sus procedimientos internos.
+
+**Artículo 25°.- (Infracciones administrativas)** Constituirán infracciones administrativas de los Sujetos Obligados el incumplimiento a las siguientes obligaciones:
+
+1. Designar, con la aprobación del Directorio u órgano equivalente, a un funcionario responsable encargado de la coordinación entre la entidad y la UIF;
+2. Establecer las funciones del funcionario responsable, observando que no generen conflicto de intereses con las funciones de auditoría interna;
+3. Comunicar a la UIF el cambio del funcionario responsable, debiendo adjuntar el nombramiento que designa al nuevo funcionario responsable y su hoja de vida profesional, para fines de acreditación de la idoneidad;
+4. Identificar y verificar al cliente y/o usuario y al beneficiario final según las condiciones establecidas por instrucción o recomendación de la UIF;
+5. Registrar y remitir los formularios previstos en la normativa de la UIF;
+6. Establecer el perfil de la actividad económica del cliente, de las personas naturales y/o jurídicas establecidas por instrucciones o recomendaciones emitidas por la UIF;
+7. Verificar por medios fehacientes respecto del cliente registrado, su identidad o personería jurídica, domicilio, identidad del representante legal, ocupación, actividad u objeto social, según se trate de una persona natural o jurídica, nivel de ingreso percibido, así como cualquier otra información o documentación que fuere requerida por la UIF mediante instrucciones o recomendaciones;
+8. Actualizar periódicamente los datos del cliente, conforme instrucciones o recomendaciones emitidas por la UIF;
+9. Comunicar a la UIF acerca de todas las operaciones, sin límite de monto, de personas naturales o jurídicas que rehúsen proporcionar información o documentación requerida, así como las operaciones que hagan imposible la verificación de la procedencia de sus recursos financieros y de la información proporcionada;
+10. Desarrollar y ejecutar políticas, normas y procedimientos de control interno para prevenir y detectar la legitimación de ganancias ilícitas, en las que deben incluir como mínimo las condiciones establecidas en las instrucciones y recomendaciones emitidas por la UIF;
+11. Realizar y remitir informes de auditoría interna, en las condiciones y plazos establecidos en las instrucciones y recomendaciones emitidas por la UIF;
+12. Mantener en reserva ante los clientes o terceros, excepto a solicitud de autoridad competente, los reportes o información relacionada a procesos de investigación de delitos de legitimación de ganancias ilícitas;
+13. Elaborar y aprobar el Manual Interno de Prevención, Detección, Control y Reporte de Legitimación de Ganancias Ilícitas, basándose en disposiciones vigentes y políticas internas de cada Sujeto Obligado y que contemple los requisitos mínimos establecidos por instrucciones y recomendaciones emitidas por la UIF;
+14. Poner en conocimiento de todo el personal del Sujeto Obligado, el Manual Interno de Prevención, Detección, Control y Reporte de Legitimación de Ganancias Ilícitas señalado en el inciso m) del presente Artículo;
+15. Desarrollar programas de control y seguimiento del personal interno;
+16. Aplicar los Procedimientos de Debida Diligencia, establecidos por la UIF;
+17. Aplicar la Política de Conozca a su Cliente, establecida por la UIF;
+18. Reportar a la UIF operaciones y transacciones consideradas como sospechosas;
+19. Remitir, dentro del plazo que determine la UIF, toda la información que ésta requiera, no pudiendo ampararse en el derecho a la reserva y confidencialidad de la información, la reserva en materia de valores, seguros o secreto profesional;
+20. Conservar los documentos relativos a las operaciones efectuadas y correspondencia comercial, conforme a normativa vigente;
+21. Conservar los documentos relativos a sus operaciones, la debida diligencia y sus análisis, por el período establecido en el presente Decreto Supremo y en la normativa vigente;
+22. Cumplir con las normas, instructivos, manuales o instrucciones emitidas por la UIF, ASFI, APS, AJ y demás autoridades de supervisión de los Sujetos Obligados no financieros, en el marco de sus competencias relacionadas a la legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva;
+23. Elaborar y remitir listas actualizadas de personas expuestas políticamente, nacionales, extranjeras y de personas que hayan alcanzado fama o notoriedad, de acuerdo a los parámetros establecidos por la UIF;
+24. Proporcionar información requerida en una inspección;
+25. Remitir los informes de auditoría externa a la UIF, en las condiciones y plazos establecidos por ésta;
+26. Desarrollar programas de capacitación anual para sus funcionarios en temas de legitimación de ganancias ilícitas y financiamiento del terrorismo; aa) Obtener información del cliente sobre el origen y el destino de los fondos, así como sobre el objeto de la operación y la identidad del beneficiario final, cuando una operación presente condiciones de complejidad inusitada o injustificada, o parezca que no tiene objeto lícito, conforme lo establecido por la UIF; bb) Dejar constancia en sus archivos de aquellos datos que remitan a la UIF, de acuerdo a sus instrucciones; cc) Cumplir las medidas establecidas por la UIF en el marco de las Resoluciones del Consejo de Seguridad de Naciones Unidas.
+
+**Artículo 26°.- (Cooperación para la supervisión)** 
+
+1. La UIF y las autoridades de supervisión podrán cooperar e intercambiar información útil para el proceso de supervisión en materia de prevención de legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva.
+2. Las autoridades de supervisión podrán promover y suscribir Acuerdos Interinstitucionales en el ámbito nacional y a nivel internacional con sus contrapartes extranjeras, en materia de prevención de la legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva, cumpliendo la normativa vigente.
+3. Las autoridades de supervisión podrán brindar guía, retroalimentación y capacitación a sus supervisados, en materia de prevención de legitimación de ganancias ilícitas, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva.
+     
+
+   ## Disposiciones adicionales
+
+**Disposición Adicional Única.-** Las infracciones administrativas establecidas en el Artículo 25 del presente Decreto Supremo serán consideradas como infracción leve en el caso de la AJ.
+
+## Disposiciones transitorias
+
+**Disposición Transitoria Primera.-** Los procesos administrativos sancionatorios iniciados con anterioridad a la publicación del presente Decreto Supremo deberán concluir conforme a las normas vigentes al momento de su inicio.
+
+**Disposición Transitoria Segunda.-** Las infracciones administrativas que se hubieran producido antes de la publicación del presente Decreto Supremo serán sancionadas conforme a la normativa vigente al momento de su comisión u omisión.
+
+## Disposiciones abrogatorias y derogatorias
+
+**Disposiciones Abrogatorias.-** Se abrogan las siguientes disposiciones:
+
+1. [Decreto Supremo Nº 24771](https://www.lexivox.org//norms/BO-DS-24771.html), de 31 de julio de 1997;
+2. [Decreto Supremo Nº 0910](https://www.lexivox.org//norms/BO-DS-N910.html), de 15 de junio de 2011.
+
+**Disposiciones Derogatorias.-** Se deroga la Disposición Adicional Segunda del [Decreto Supremo Nº 3434](https://www.lexivox.org//norms/BO-DS-N3434.html), de 13 de diciembre de 2017, Reglamento de la Ley de Lucha Contra el Tráfico Ilícito de Sustancias Controladas.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, de Desarrollo Productivo y Economía Plural, y de Justicia y Transparencia Institucional, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los cinco días del mes de abril del año dos mil veintitrés.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza MINISTRO DE PLANIFICACIÓN DEL DESARROLLO E INTERINO DE ECONOMÍA Y FINANZAS PÚBLICAS, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Ramiro Félix Villavicencio Niño De Guzmán, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Edgar Pary Chambi, Remmy Rubén Gonzales Atila, Sabina Orellana Cruz.

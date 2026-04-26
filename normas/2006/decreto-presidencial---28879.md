@@ -1,0 +1,21 @@
+# Bolivia: Decreto Presidencial Nº 28879, 6 de octubre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que de conformidad a lo establecido por el Artículo 99 de la Constitución Política del Estado, es atribución privativa del Presidente de la República designar Ministros de Estado mediante Decreto Presidencial.
+* Que la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006 - Ley de Organización del Poder Ejecutivo y el [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006 - Reglamento a la Organización del Poder Ejecutivo, establecen el número y atribuciones de los Ministros de Estado, así como la estructura orgánica y funcional del Poder Ejecutivo.
+* Que la organización del Poder Ejecutivo constituye un proceso dinámico, de ajustes y adecuaciones que se generan a partir de las políticas a implementarse por parte del Gobierno Nacional; motivo por el cual, se hace necesario dictar el presente Decreto Presidencial.
+
+DECRETA:
+
+**Artículo Único.-** Se designa Ministro de Minería y Metalurgia al ciudadano José Guillermo Dalence Salinas, quien tomará posesión del cargo con las formalidades de ley.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los seis días del mes de octubre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga.

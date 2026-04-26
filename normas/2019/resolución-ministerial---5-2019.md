@@ -1,0 +1,50 @@
+# Bolivia: Resolución Ministerial Nº 5-2019, 30 de enero de 2019
+
+RESOLUCIÓN MINISTERIAL N° 005
+  
+La Paz, 16 de enero de 2019
+
+VISTOS Y CONSIDERANDO
+
+* Que la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), en su Artículo 20, establece que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+* Que el citado Artículo señala que la provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria.
+* Que la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) de 08 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, tiene por objeto establecer el régimen general de telecomunicaciones y tecnologías de información y comunicación, del servicio postal y el sistema de regulación en procura del vivir bien garantizando el derecho humano individual y colectivo a la comunicación.
+* Que la citada Ley en su Artículo 14 numerales 3 y 4, refiere a la regulación del régimen general de las tarifas y precios de los servicios de telefonía fija, móvil, larga distancia, telecomunicaciones y tecnologías de información y comunicación.
+* Que la [Ley Nº 031](https://www.lexivox.org//norms/BO-L-N31.html) de 19 de julio de 2010, Marco de Autonomías y Descentralización, en su Artículo 85 Parágrafo I numeral 5 señala como competencia del nivel central fijar los topes de precio cuando así corresponda para los servicios de telefonía fija, móvil, larga distancia, telecomunicaciones y tecnologías de información provistas en todo el territorio nacional, independientemente de su cobertura.
+* Que el Reglamento a la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), para el sector de telecomunicaciones aprobado mediante [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) de 24 de octubre de 2012, establece entre otras en su Artículo 4 numeral 2 las definiciones respecto a la regulación tarifaria:
+  Mercado Relevante.- Es el área geográfica en la que se proveen los servicios de Telecomunicaciones y Tecnologías de Información y Comunicación, tomando en cuenta los servicios sustitutos desde el punto de vista tanto técnico como económico, las restricciones de acceso y el nivel comercial existente.
+  Posición Dominante.- Es el control del Mercado Relevante que ejerce un operador o proveedor de servicios de telecomunicaciones y que el permite actuar de modo independiente de sus competidores, usuarias, usuarios o proveedores, debido a la ausencia de competencia efectiva en dicho mercado.
+  Tarifa.- Es el valor fijado por el operador o proveedor para la prestación de un servicio de telecomunicaciones.
+  Tope de Precios.- Es el límite máximo de precios, tarifas o cargos de servicios de telecomunicaciones fijados en base a una metodología de regulación tarifaria.
+* Que el Artículo 122 del Reglamento a la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), para el sector de telecomunicaciones, aprobado mediante [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html), señala que el mercado relevante será establecido en función al ámbito geográfico y del ámbito de servicio, de acuerdo a criterios y condiciones establecidos por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+* Que la Resolución Ministerial Nº 088 de 29 de abril de 2013 aprobó en anexo el Reglamento de Régimen de Regulación Tarifaria de los Servicios Públicos de Telecomunicaciones y Tecnologías de Información y Comunicación.
+* Que el Artículo 6 del citado Reglamento establece el criterio y condiciones para determinar el mercado relevante, señalando en su Parágrafo III que el ámbito del servicio comprenderá las condiciones de uso y precio del o de los servicios que hacen al Mercado Relevante, y se determinará en función a los siguientes criterios:
+  a) El ámbito del servicio del mercado relevante, estará constituido al menos por una canasta de servicios correspondiente al servicio de telecomunicaciones al público.
+  b) Cuando desde la perspectiva de los usuarios, un servicio tenga condiciones de uso, funcionalidad, prestaciones tecnológicas más ventajosas y precios similares a otro u otros servicios y, por tanto, llegue a ser sustituto o desplace a otros servicios, el ámbito del servicio del Mercado Relevante estará constituido también por los servicios considerados sustitutos.
+  c) La venta de los servicios de telecomunicaciones al por mayor y al por menor no serán considerados servicios sustitutos. Se entiende por venta al por mayor aquellas que no son realizadas al usuario final.
+* Que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, propone que para el análisis de sustitución de servicios la condición de precio similar sea opcional y que la misma sea evaluada de acuerdo a las condiciones y la evolución de cada servicio.
+* Que la ATT, mediante Informe Técnico ATT-DTLTIC-INF TEC LP 315/2018 de fecha 02 de mayo de 2018, analiza la modificación a la Resolución Ministerial N° 088/2013, señalando que el objetivo del informe es identificar las variables y condiciones sustentables para determinar si un servicio es sustituto de otro centrándose en servicios tradicionales como el Servicio Local, en el contexto del marco legislativo aplicable a cada uno de los operadores dominantes, permitiendo identificar el comportamiento del sector, en aspectos referidos a la determinación de Mercado Relevante y sustitución de Servicios. El citado informe señala dentro de su análisis de la condición de precio similar que: “medir la sustitución desde el punto de vista del precio similar, centrando el análisis en la comparación simple de precio por unidad de medida, es decir, tarifa por minuto o tarifa por pulso resulta complejo.”
+* Que la ATT, mediante Informe Técnico ATT-DTLTIC-INF TEC LP 724/2018 de fecha 25 de octubre de 2018, complementa y aclara el análisis de sustituibilidad entre el servicio de acceso público y el servicio móvil en las áreas de servicio urbanas de Cochabamba y Santa Cruz, indicando entre sus conclusiones: “considerando las evidencias empíricas derivadas del presente análisis de sustituibilidad, si un servicio se encuentra en decadencia, los sustitutos del mismo podrían estar en función de las condiciones de uso, funcionalidad y prestaciones tecnológicas y no necesariamente en función de la similitud de precios entre los mismos.”
+* Que el Informe Técnico MOPSV/VMTEL/DGTEL Nº 0120/2018 de 21 de diciembre de 2018 la Dirección General de Telecomunicaciones del Viceministerio de Telecomunicaciones, señaló la viabilidad técnica de la propuesta de modificación planteada por el regulador.
+* Que el referido Informe Técnico concluyó recomendando dar curso a la modificación del Inciso b) del Parágrafo III del Artículo 6 del Reglamento del Régimen de Regulación Tarifaria de Los Servicios Públicos de Telecomunicaciones y Tecnología de Información y Comunicación aprobado a través de la Resolución Ministerial Nº 088 de 29 de abril de 2013.
+* Que el Informe INF/MOPSV/VMTEL/DESP Nº 002 de 07 de enero de 2019 emitido por el Viceministerio de Telecomunicaciones, se pronuncio por la procedencia de modificar el inciso b) del Parágrafo III del Artículo 6 del Reglamento del Régimen de Regulación Tarifaria de los Servicios Públicos de Telecomunicaciones y Tecnologías de Información y Comunicación, aprobado por Resolución Ministerial N° 088 de 29 de abril de 2013.
+* Que el numeral 22, Parágrafo I, Artículo 14 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html) de 07 de febrero de 2009, de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, establece como atribución de los Ministros de Estado, emitir resoluciones ministeriales en el marco de sus competencias.
+
+POR TANTO:
+
+El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones,
+
+RESUELVE:
+
+**Primero .-** Modificar el inciso b) del Parágrafo III del Artículo 6 del Reglamento del Régimen de Regulación Tarifaria de los Servicios Públicos de Telecomunicaciones y Tecnologías de Información y Comunicación, aprobado por Resolución Ministerial N° 088 de 29 de abril de 2013, con la siguiente redacción:
+> “b) Cuando, desde la perspectiva de los usuarios, un servicio tenga condiciones de uso, funcionalidad, prestaciones tecnológicas más ventajosas a otro u otros servicios y; por tanto, llegue a ser sustituto o desplace a otros servicios, el ámbito del servicio del Mercado Relevante estará constituido también por los servicios considerados sustitutos. Adicionalmente se podrá considerar la condición de precio similar, dependiendo del servicio a ser evaluado.”
+
+**Segundo .-** La presente Resolución Ministerial entrará en vigencia a partir de su publicación.
+
+**Tercero .-** Encargar el cumplimiento de la presente Resolución Ministerial y su publicación al Viceministerio de Telecomunicaciones y a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+FDO. Milton Claros Hinojosa MINISTRO OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA.

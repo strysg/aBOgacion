@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 28977, 20 de diciembre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1715](https://www.lexivox.org//norms/BO-L-1715.html) de 18 de octubre de 1996, crea el Instituto Nacional de Reforma Agraria - INRA, estableciéndolo como el Organo Técnico - Ejecutivo encargado de dirigir, coordinar y ejecutar las políticas establecidas por el Servicio Nacional de Reforma Agraria, siendo sus atribuciones las de dirigir, coordinar y ejecutar políticas planes y programas de distribución, reagrupamiento y redistribución de tierras, priorizando a los pueblos y comunidades indígenas, campesinas y originarias que no las posean o las posean insuficientemente, de acuerdo a la capacidad de uso mayor de la tierra.
+* Que sus funciones son las de efectuar saneamiento de tierras a través de las diferentes modalidades y proyectos existentes, entre los que se encuentra el Proyecto “Apoyo a la Continuidad del Saneamiento en el Departamento de Santa Cruz”, al cual, en el mes de agosto de la presente gestión, se efectuó un traspaso presupuestario debido a la insuficiencia de recursos y financiamiento, por cuanto se estaba entorpeciendo al normal desenvolvimiento de las actividades de saneamiento en ese Departamento, habiéndose previsto la necesidad de adquirir un (1) vehículo y dos (2) cuadratracks, que los permita continuar con los distintos procesos de saneamiento iniciados, principalmente bajo la modalidad de SAN SIM a pedido de parte, a objeto de concluirlos y posibilitar la emisión de los títulos de propiedad o los certificados de saneamiento.
+* Que la obsolescencia de los escasos vehículos con que cuenta el INRA en algunos casos requieren ser dados de baja, justificando la necesidad de adquirir vehículos nuevos con destino al cumplimiento de las actividades programadas en el Departamento de Santa Cruz, en el Proyecto “Apoyo a la Continuidad del Saneamiento en el Departamento de Santa Cruz”.
+* Que el [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, establece un marco de austeridad, racionalizando el gasto de las entidades públicas con toda fuente de financiamiento; asimismo, establece en su Artículo 20 la prohibición expresa de la compra o alquiler de vehículos para las entidades publicas. Sin embargo, por la obsolescencia de los vehículos existentes y con el objeto de dar continuidad al proceso de saneamiento en el Departamento de Santa Cruz, es necesaria la compra de un (1) vehículo y dos (2) cuadratracks, con recursos propios del INRA.
+* Que la atención de los conflictos de tierra y la conclusión de los procesos de saneamiento, tanto en tierras altas y bajas, es una de las prioridades y uno de los grandes retos del gobierno, razón por la cual se dictó el [Decreto Supremo Nº 28736](https://www.lexivox.org//norms/BO-DS-28736.html) de 2 de junio de 2006, declarando Emergencia Nacional la conclusión del proceso de saneamiento de la propiedad agraria.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 18 de diciembre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Instituto Nacional de Reforma Agraria - INRA, entidad descentralizada del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, la compra de un (1) vehículo (camioneta 4X4) y dos (2) cuadratracks, para llevar a cabo el trabajo de campo programado dentro de los procesos de saneamiento del Proyecto “Apoyo a la Continuidad del Saneamiento en el Departamento de Santa Cruz”, de acuerdo a las Normas Básicas de Administración de Bienes y Servicios.
+2. La compra del vehículo y de los dos (2) cuadratracks, se financiará con recursos propios consignados en el presupuesto del Instituto Nacional de Reforma Agraria.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Desarrollo Rural, Agropecuario y Medio Ambiente, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de diciembre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Hernando Larrazábal Córdova, Luís Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

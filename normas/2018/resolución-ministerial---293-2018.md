@@ -1,0 +1,62 @@
+# Bolivia: Resolución Ministerial de 18 de octubre de 2018
+
+RESOLUCIÓN MINISTERIAL Nº 293
+  
+La Paz, 1 de octubre de 2018
+
+CONSIDERANDO:
+
+* Que el parágrafo I del artículo 20 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) prescribe que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+* Que el Parágrafo II del citado artículo, señala que es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el servicio mediante contratos con la empresa privada. La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencias, tarifas equitativas y cobertura necesaria; con participación y control social.
+* Que el numeral 5 del artículo 54 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) de 08 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, establece que recibir de forma oportuna, comprensible y veraz la factura mensual desglosada de todos los cargos y servicios del cual es usuario, en la forma y por el medio en que se garantice su privacidad, es uno de los derechos de las usuarias y usuarios de los servicios de telecomunicaciones y tecnologías de información y comunicación.
+* Que el numeral 1 del artículo 55 de la mencionada Ley determina que pagar las facturas por los servicios recibidos, de conformidad con los precios o tarifas establecidas es una obligación de las usuarias y usuarios.
+* Que el numeral 6 del artículo 59 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) prevé dentro de las obligaciones de los operadores y proveedores el entregar en servicios de modalidad post-pago de forma oportuna, comprensible y veraz, la factura mensual desglosada de todos los cargos y servicios del cual es proveedor, en la forma y por el medio en que se garantice la privacidad de la usuaria o del usuario y facilitar los medios de pago por los servicios prestados y que en servicios de modalidad pre-pago o al contado deberán entregar la factura según corresponda.
+* Que el parágrafo II del artículo 155 del Reglamento General a la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) para el Sector de Telecomunicaciones, aprobado por el [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) de 24 de octubre de 2012, prescribe que los ciclos de facturación, contenido de la factura, el detalle del estado de cuenta para los servicios de telecomunicaciones y tecnologías de información y comunicación, el tratamiento de las omisiones en la facturación, el límite de consumo, entre otros, serán establecidos en Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que el artículo 157 del referido Reglamento establece como fecha límite para el pago de cualquier servicio de telecomunicaciones el plazo correspondiente a treinta (30) días calendario a partir de la fecha de disposición de las facturas en los puntos de cobranza. Asimismo, que el procedimiento de corte será establecido en Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que el [Decreto Supremo Nº 3404](https://www.lexivox.org//norms/BO-DS-N3404.html) de 29 de noviembre de 2017, establece la entrada en operación de la Portabilidad Numéricas para el servicio móvil, a partir del 01 de octubre de 2018.
+* Que el inciso g) del artículo 70 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html) de 07 de febrero de 2009 señala que el Ministro de Obras Públicas, Servicios y Vivienda tiene la atribución de formular, promover y ejecutar políticas y normas de telecomunicaciones, tecnologías de información y el uso del espectro electromagnético.
+
+CONSIDERANDO:
+
+* Que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT remitió al Ministerio de Obras Públicas, Servicios y Vivienda la propuesta de modificación de la Resolución Ministerial Nº 351/2012 Reglamento de Facturación, Cobranza y Corte, a través de los informes Jurídico ATT-DJ-INF JUR N LP 530/2018, Técnico ATT-DTLTIC-INF TEC LP 556/2018 y Técnico ATT-DTLTIC-INF TEC LP 591/2018.
+* Que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, señalo que es necesario considerar la actualización del Reglamento de Facturación, Cobranza y Corte, por la entrada en operación de la Portabilidad Numérica del Servicio Móvil.
+* Que mediante Informe Técnico MOPSV/VMTEL/DGTEL Nº 0087/2018 de 05 de septiembre de 2018 el Viceministerio de Telecomunicaciones se pronunció respecto a la viabilidad de la propuesta de modificación al Reglamento de Facturación, Cobranza y Corte y recomendó la emisión de la correspondiente Resolución Ministerial.
+* Que por Informe INF/MOPSV/VMTEL/DESP Nº 011/2018 de 12 de septiembre de 2018 el Viceministerio de Telecomunicaciones se pronunció por la procedencia de la modificación del Reglamento de Facturación, Cobranza y Corte a través de una Resolución Ministerial.
+* Que en cumplimiento a las previsiones del [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) y a fin de establecer un marco normativo acorde a las políticas del sector corresponde la emisión de la presente Resolución Ministerial.
+* Que el numeral 22 del parágrafo I del artículo 14 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html) de 07 de febrero de 2009, de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, establece como atribución de los Ministros de Estado, emitir resoluciones ministeriales en el marco de sus competencias.
+
+POR TANTO:
+
+El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones,
+
+RESUELVE:
+
+**Primero .-** La presente Resolución Ministerial tiene por objeto realizar modificaciones al Reglamento de Facturación, Cobranza y Corte aprobado por la Resolución Ministerial Nº 351 de fecha 21 de diciembre de 2012.
+
+**Segundo .-** I. Se modifica el Artículo 8 del Reglamento de Facturación, Cobranza y Corte aprobado por la Resolución Ministerial Nº 351 de fecha 21 de diciembre de 2012, con el siguiente texto:
+> “Artículo 8.- (PROCEDIMIENTO DE CORTE DE SERVICIO POR INCUMPLIMIENTO DE PAGO). I. Si la usuaria o usuario, pasados los treinta (30) días de la fecha límite de pago, no paga su factura, esta se constituirá en mora y el operador o proveedor de servicios podrá proceder al corte parcial o total del servicio, previa comunicación a la usuaria o usuario mínimamente con cuarenta y ocho (48) horas de anticipación.
+>   
+> II. En el caso de los servicios de voz, pasados los quince (15) de la fecha límite de pago, los operadores o proveedores en primera instancia, podrán realizar la restricción de llamadas salientes a las usuarias o usuarios que incumplieron el pago, previa comunicación con una anticipación de al menos cuarenta y ocho (48) horas y posteriormente, pasados los siguientes quince (15) días, podrán realizar el corte total del servicio.
+>   
+> III. Si una usuaria o usuario hubiese portado a otro operador o proveedor con deuda, entrando posteriormente en mora, el operador donante podrá solicitar al operador o proveedor receptor el corte del servicio conforme los Parágrafos I y II descritos precedentemente. El operador o proveedor receptor debe notificar el corte del servicio a la usuaria o usuario portado, con al menos cuarenta y ocho (48) horas de anticipación a la ejecución y comunicar al operador o proveedor donante una vez realizado el corte.”
+
+1. Se modifica el Artículo 12 del Reglamento de Facturación, Cobranza y Corte aprobado por la Resolución Ministerial Nº 351 de fecha 21 de diciembre de 2012, con el siguiente texto:
+   > “Artículo 12.- (RECLAMACIONES SOBRE FACTURACIÓN). I. Una usuaria o usuario podrá presentar su reclamación sobre el monto consignado en una factura en cualquier momento; sin embargo, a objeto de evitar el corte de servicio, debe pagar oportunamente el promedio del monto de las tres (3) últimas facturas pagadas.
+   >   
+   > II. Para el caso de portabilidad numérica, la usuaria o usuario deberá presentar cualquier reclamación sobre la facturación al operador o proveedor que el brindo el servicio durante el periodo observado.
+   >   
+   > III. Si la reclamación directa es declarada improcedente por el operador o proveedor y la usuaria o usuario no presenta reclamación administrativa en los plazos establecidos en la normativa aplicable, deberá pagar el monto total de la factura observada o en su caso la diferencia con el monto pagado que hubiera realizado para evitar el corte en un plazo máximo de veinte (20) días de notificada con la determinación de la reclamación directa.”
+2. Si la reclamación fuera declarada procedente por el operador o proveedor o fundada en la reclamación administrativa, la usuaria o usuario debe pagar el monto restante si corresponde, en un plazo no mayor a veinte (20) días; caso contrario, si el monto real de la factura fuera menor que el monto pagado, el operador o proveedor deberá efectuar la devolución de los montos indebidamente facturados a la usuaria o usuario; es decir, podrán ser devueltos en efectivo o acreditado por el operador o proveedor en la próxima factura.
+3. En caso de que la reclamación administrativa sea declarada infundada, o rechazada por la ATT, la usuaria o usuario deberá pagar el monto facturado o la diferencia con el monto promedio pagado, en el plazo máximo de veinte (20) días de notificada la resolución de la reclamación administrativa.”
+4. La reclamación quedará sin efecto alguno, en caso de desistimiento por parte de la usuaria o usuario o el proceso de reclamo sea desestimado o rechazado por la instancia pertinente.
+5. El consumo de los meses siguientes al periodo objeto de la reclamación debe ser pagado por la usuaria o usuario de manera regular.”
+
+**Tercero .-** La presente Resolución Ministerial entrará en vigencia a la fecha de su publicación, conforme a las normas legales vigentes.
+
+**Cuarta .-** Encargar el cumplimiento de la presente Resolución Ministerial y su publicación a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT y al Viceministerio de Telecomunicaciones.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+FDO. Milton Claros Hinojosa MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA

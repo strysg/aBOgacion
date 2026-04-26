@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 3366, 18 de octubre de 2017
+
+[Decreto Supremo Nº 3366](https://www.lexivox.org//norms/BO-DS-N3366.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Parágrafo I del Artículo 46 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que toda persona tiene derecho al trabajo digno, con seguridad industrial, higiene y salud ocupacional, sin discriminación, y con remuneración o salario justo, equitativo y satisfactorio, que el asegure para sí y su familia una existencia digna. Asimismo, el Parágrafo II del citado Artículo, establece que el Estado protegerá el ejercicio del trabajo en todas sus formas.
+* Que el Parágrafo I del Artículo 54 del Texto Constitucional, dispone que es obligación del Estado establecer políticas de empleo que eviten la desocupación y la subocupación, con la finalidad de crear, mantener y generar condiciones que garanticen a las trabajadoras y los trabajadores posibilidades de ocupación laboral digna y de remuneración justa.
+* Que el numeral 1 del Artículo 334 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), señala que en el marco de las políticas sectoriales, el Estado protegerá y fomentará las organizaciones económicas campesinas, y las asociaciones u organizaciones de pequeños productores urbanos, artesanos, como alternativas solidarias y recíprocas. La política económica facilitará el acceso a la capacitación técnica y a la tecnología, a los créditos, a la apertura de mercados y al mejoramiento de procesos productivos.
+* Que el numeral 6.1.2.“Complejos Productivos Territoriales” del Pilar 6 del Plan de Desarrollo Económico y Social 2016-2020 en el marco del Desarrollo Integral para Vivir Bien, aprobado por [Ley Nº 786](https://www.lexivox.org//norms/BO-L-N786.html), de 9 de marzo de 2016, determina como una de las acciones para el Desarrollo de los Complejos Productivos Territoriales el: “Fortalecer a los actores productivos público, privados, comunitarios, y social cooperativos, así como su articulación y coordinación en el marco de Consejos de Coordinación Sectorial, regulando y dinamizando las interrelaciones de los actores de la economía plural”; asimismo, señala que uno de los resultados de la Meta 10 “Empleo para una Vida Digna”, es que se ha reducido a 6,3% la tasa de desempleo en jóvenes de dieciséis (16) a veintiocho (28) años y se ha logrado incrementar la población ocupada que cuenta con seguridad social de corto y largo plazo.
+* Que el inciso b) del Artículo 46 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece que una de las atribuciones de la Ministra de Planificación del Desarrollo es definir políticas para fortalecer la presencia del Estado Plurinacional como actor económico, productivo y financiero para la redistribución equitativa de la riqueza, excedentes, ingresos y oportunidades.
+* Que el inciso m) del Artículo 46 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), señala como atribución de la Ministra de Planificación del Desarrollo plantear y coordinar la ejecución de políticas y estrategias de erradicación de la pobreza y extrema pobreza, así como de otros Planes Estratégicos Nacional e Intersectoriales, en interacción con Entidades Territoriales Autónomas y Descentralizadas, Organizaciones Sociales, Comunitarias y Productivas, y autoridades del ámbito correspondiente.
+* Que con el fin de combatir el desempleo y generar oportunidades de acceso a fuentes laborales, se ha generado la política del Plan Nacional de Empleo a la cabeza del Ministerio de Planificación del Desarrollo.
+* Que el Ministerio de Medio Ambiente y Agua ha presentado propuestas para dinamizar la economía del municipio de Riberalta en el Departamento del Beni a través de la generación de empleo temporal a través de la mejora de Centros de Acopio de Castaña; Producción de Plantines Agroforestales.
+* Que en este marco, se requiere un Decreto Supremo que autorice la asignación de recursos del Tesoro General de la Nación - TGN al Ministerio de Medio Ambiente y Agua para la ejecución de los mencionados proyectos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** En el marco del Plan Nacional de Empleo, se autoriza al Ministerio de Economía y Finanzas Públicas, transferir recursos del Tesoro General de la Nación - TGN a favor del Ministerio de Medio Ambiente y Agua, por el monto de hasta Bs6.000.000.- (SEIS MILLONES 00/100 BOLIVIANOS) para la ejecución de proyectos de dinamización de la economía en el Municipio de Riberalta del Departamento del Beni, a través de la Unidad Desconcentrada SUSTENTAR, mediante la mejora del acopio de castaña y la producción de plantines agroforestales.
+
+# Disposiciones transitorias
+
+**Artículo transitorio Único.-** Se autoriza a los Ministerios de Economía y Finanzas Públicas y de Planificación del Desarrollo, en el marco de sus competencias, efectuar las modificaciones presupuestarias que correspondan, emergentes de la emisión del presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; de Economía y Finanzas Públicas; y de Medio Ambiente y Agua, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de octubre del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, Fernando Huanacuni Mamani, René Martínez Callahuanca MINISTRO DE LA PRESIDENCIA E INTERINO DE DEFENSA, Carlos Gustavo Romero Bonifaz, Mariana Prado Noya, Mario Alberto Guillén Suárez, Fdo. Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera MINISTRO DE DEPORTES E INTERINO DE HIDROCARBUROS.

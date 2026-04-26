@@ -1,0 +1,49 @@
+# Bolivia: Resolución Ministerial de 11 de mayo de 2016
+
+RESOLUCIÓN MINISTERIAL N.º 124 La Paz, 4 de mayo de 2016
+  
+El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones,
+
+VISTOS Y CONSIDERANDO
+
+* Que el Parágrafo I del Artículo 348 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) establece que el espectro electromagnético es un recurso natural. El Parágrafo II del mencionado Artículo señala que los recursos naturales son de carácter estratégico y de interés público para el desarrollo del país.
+* Que el numeral 5 del Parágrafo II del Artículo 6 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) de 08 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, establece que el Espectro Radioeléctrico es el conjunto de frecuencias del espectro electromagnético usadas para los servicios de radiodifusión, de telecomunicaciones y tecnologías de información y comunicación.
+* Que el Parágrafo I del Artículo 8 de la mencionada Ley señala que el Plan Nacional de Frecuencias reglamentará el uso equitativo y eficiente del espectro radioeléctrico a nivel nacional, considerando, entre otros, los aspectos económicos, de seguridad, educativos, científicos, de interés público y técnicos conforme a políticas de Estado, intereses nacionales y compromisos internacionales aprobados, con el objeto de optimizar su uso y evitar interferencias perjudiciales. Asimismo, el parágrafo II del referido artículo establece que la administración, asignación, autorización, control, fiscalización y supervisión del uso de las frecuencias electromagnéticas en redes de telecomunicaciones, radiodifusión y otras en el territorio nacional corresponde al nivel central del Estado a través de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, de acuerdo al Plan Nacional de Frecuencias.
+* Que el Parágrafo I del Artículo 10 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) indica que la distribución del total de canales de la banda de frecuencias para el servicio de radiodifusión en frecuencia modulada y televisión analógica a nivel nacional donde exista disponibilidad, se sujetará a lo siguiente:
+  Estado, hasta el treinta y tres por ciento (33%) Comercial, hasta el treinta y tres por ciento (33%) Social comunitario, hasta el diecisiete por ciento (17%) Pueblos indígena originario campesinos, y las comunidades interculturales y Afrobolivianas hasta el diecisiete por ciento (17%)Que el Parágrafo I del Artículo 32 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) para el Sector de Telecomunicaciones, aprobado por el [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) de 24 de octubre de 2012 señala que el Plan Nacional de Frecuencias, establece la atribución de las bandas de frecuencias del espectro radioeléctrico en el Estado Plurinacional de Bolivia entre los diferentes tipos de servicios de radiocomunicaciones.
+* Que el Parágrafo I del Artículo 19 del referido Reglamento señala que la asignación de frecuencias para el servicio de radiodifusión sonora en frecuencia modulada y televisión analógica se realizará respetando la distribución establecida en el Artículo 10 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) para cada área de servicio de una frecuencia a la vez por sector de acuerdo a la disponibilidad de frecuencias, hasta alcanzar los porcentajes establecidos por Ley.
+* Que el Parágrafo II del referido Artículo determina que el orden en la asignación de frecuencias de radiodifusión se realizará de la siguiente manera: i) Primero Sector Estatal; ii) Segundo Sector Pueblo Indígena Originario Campesino y Comunidades Interculturales y Afrobolivianas; iii) Tercero Sector Social Comunitario; y iv) Cuarto Sector Comercial.
+* Que el Parágrafo I del Artículo 20 del Reglamento aprobado por el [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) señala que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, mediante Resolución Administrativa, asignará el uso de frecuencias para el servicio de radiodifusión de acuerdo a los Planes de Asignación de Frecuencias:
+* Para el Estado, se asignará el uso de frecuencias de forma directa en función a los Planes de Asignación de Frecuencias, emitidos por el Ministerio de Obras Públicas, Servicios y Vivienda, la disponibilidad de frecuencias reportadas por la ATT y el orden de presentación de solicitudes. Para el Sector Comunitario y sector Pueblos Indígena Originario Campesinos y Comunidades Interculturales y Afrobolivianas, deberá procederse a la asignación de frecuencias mediante el procedimiento de Concurso de Proyectos. Para el sector Comercial, deberá procederse a la asignación de frecuencias mediante el procedimiento de Licitación Pública.Que el Parágrafo II del referido artículo determina que la ATT podrá tomar conocimiento de expresiones de interés con fines informativos para reportarlo al Ministerio de Obras Públicas, Servicios y Vivienda, para la elaboración de los planes de asignación de frecuencias.
+* Que el Parágrafo II del Artículo 39 del Reglamento General a la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) establece que las licencias para servicios que requieran el uso de frecuencias deberán sujetarse a los Planes de Asignación de Frecuencias que serán emitidos por el Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que a través de la Resolución Ministerial Nº 294 de 08 de noviembre de 2012 del Ministerio de Obras Públicas, Servicios y Vivienda, se aprobó el Plan Nacional de Frecuencias del Estado Plurinacional de Bolivia, instrumento que define la atribución de las bandas de frecuencias del espectro radioeléctrico destinadas a los servicios de radiodifusión sonora y televisiva.
+* Que mediante Informe Técnico VMTEL/DGTEL Nº 0033/2016 de 28 de marzo de 2016, la Dirección General de Telecomunicaciones del Viceministerio de Telecomunicaciones presentó la propuesta del Plan de Asignación de Frecuencias de Radiodifusión, señalando para que la ATT proceda a la adjudicación de frecuencias para el sector estatal, se requiere la aprobación de un nuevo Plan de Asignación de Frecuencias para Servicios de Radiodifusión, mismo que debe ser aprobado mediante Resolución Ministerial.
+* Que el referido Informe Técnico concluyó que existe la necesidad de otorgar frecuencias para servicios de radiodifusión para el sector estatal en las bandas de frecuencia modulada, amplitud modulada y onda corta de acuerdo al informe técnico remitido por la ATT y de acuerdo a lo establecido en el Artículo 10 de la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html), General de Telecomunicaciones, Tecnologías de Información y Comunicación.
+* Que por Informe Jurídico MOPSV - DGAJ Nº 0299/2016 de 21 de abril de 2016, la Dirección General de Asuntos Jurídicos del Ministerio de Obras Públicas, Servicios y Vivienda se pronunció por la procedencia de aprobar, mediante Resolución Ministerial el Plan de Asignación de Frecuencias de Radiodifusión, en atención a la solicitud efectuada por el Viceministerio de Telecomunicaciones.
+* Que el numeral 22 del Parágrafo I del Artículo 14 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html) de 07 de febrero de 2009, de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, establece como atribución de los Ministros de Estado, emitir resoluciones ministeriales en el marco de sus competencias.
+
+POR TANTO:
+
+RESUELVE:
+
+**Artículo 1°.-** Aprobar el Plan de Asignación de Frecuencias de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas disponibles para su asignación, en el marco del [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html) de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado por la Resolución Ministerial Nº 294 de 08 de noviembre de 2012.
+
+**Artículo 2°.-** Establecer que la presente Resolución Ministerial se aplicará a las asignaciones de frecuencias destinadas a los servicios de radiodifusión sonora.
+
+**Artículo 3°.-** 
+
+1. En el marco de los requisitos y procedimientos establecidos en la [Ley Nº 164](https://www.lexivox.org//norms/BO-L-N164.html) y su Reglamento aprobado por el [Decreto Supremo Nº 1391](https://www.lexivox.org//norms/BO-DS-N1391.html), la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT aplicará los procesos y procedimientos para asignar frecuencias de acuerdo a lo siguiente:
+   1. Una (1) frecuencia en la banda de Frecuencia Modulada - FM (88 a 108 MHz), por cada área de servicio para el sector estatal.
+   2. Una (1) frecuencia en la banda de Amplitud Modulada - AM (535 a 1.625 KHz), por área de servicio para el sector estatal.
+   3. Una (1) frecuencia en la banda Internacional de Onda Corta en 49 metros (5.950 a 6.200 KHz), por cada área de servicio para el sector estatal.
+2. La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT en un plazo no mayor a quince (15) días hábiles, desde la publicación de la presente Resolución Ministerial, deberá establecer el cronograma de asignación de frecuencias de acuerdo a los procedimientos previstos.
+
+**Artículo 4°.-** La presente Resolución Ministerial entrará en vigencia a partir de su publicación y tendrá una vigencia de tres (3) meses.
+
+**Artículo 5°.-** Encargar el cumplimiento de la presente Resolución Ministerial y su publicación al Viceministerio de Telecomunicaciones y a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+Fdo. Milton Claros Hinojosa.

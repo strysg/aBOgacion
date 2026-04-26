@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 23847, 24 de agosto de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 19249](https://www.lexivox.org//norms/BO-DS-19249.html) de 3 de noviembre de 1982 dispuso la desdolarización de las obligaciones en moneda extranjera, encomendando su reglamentación al Banco Central de Bolivia;
+* Que el Fondo Complementario Minero de Seguro Social (FONCOMIN), tenedor de certificados de depósito a plazo fijo en moneda extranjera, interpuso el año 1989 ante 1a Corte Suprema de Justicia una demanda de inconstitucionalidad e inaplicabilidad de la referida disposición legal, dirigiendo su acción contra el Banco Central de Bolivia, con el fin de obtener el reconocimiento y pago de los indicados depósitos en la moneda pactada;
+* Que la Corte Suprema de Justicia de la Nación ha fallado en única instancia, declarando procedente el recurso planteado y la inconstitucionalidad e inaplicabilidad para el caso de FONCOMIN del [Decreto Supremo Nº 19249](https://www.lexivox.org//norms/BO-DS-19249.html) de 3 de noviembre de 1982, que dispuso la desdolarización;
+* Que FONCOMIN instauró juicio coactivo social contra el Banco Central de Bolivia para hacer efectivo el cobro de sus depósitos a plazo fijo por un total de $US.12.263.432.20 por concepto de capital, intereses y gastos;
+* Que FONCOMIN se avino a la vía del acuerdo extrajudicial y consiguiente negociación, para establecer los montos adeudados y su forma de pago;
+* Que se estableció como obligación total, mediante auditoría especial practicada por el Banco Central de Bolivia, el monto de siete millones seiscientos noventa y siete mil novecientos cincuenta y tres 66/100 dólares americanos (US$.7.697.953.66), de los cuales cuatro millones novecientos treinta y dos mil trescientos ocho 91/100 dólares americanos (US$.4.832.308.91) corresponden a capital y dos millones novecientos sesenta y cinco mil seiscientos cuarenta y cuatro 75/100 (US$.2.865.644.75) corresponden a intereses, al 31 de diciembre de 1994;
+* Que es deber del Gobierno nacional aprobar el total de la obligación consolidada y los pagos a cuenta efectuados por el Banco Central de Bolivia, disponiendo al mismo tiempo el pago del saldo que deberá efectuar el Tesoro General de la Nación, por cuanto las obligaciones en moneda extranjera desdolarizadas por la referida disposición legal, declarada inconstitucional e inaplicable sólo para el caso de FENCOMIN, corresponde al propio Estado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Apruébase la obligación consolidada en favor del Fondo Complementario Minero de Seguro Social (FONCOMIN) que alcanza a la suma de siete MILLONES SEISCIENTOS NOVENTA Y siete mil novecientos CINCUENTA Y TRES, 66/100 DOLARES AMERICANOS (US$.7.697.953.66) por concepto de capital e intereses calculados al 31 de diciembre de 1993, por concepto de devolución de depósitos a plazo fijo en moneda extranjera afectados por la desdolarización y pertenecientes a la entidad aseguradora nombrada, en cumplimiento de la sentencia de 24 de abril de 1992 de la Corte Suprema de Justicia de la Nación.
+
+**Artículo 2°.-** Se aprueba, igualmente, los pagos a cuenta de la obligación efectuados por el Banco Central de Bolivia en favor de FONCOMIN por DOS MILLONES novecientos mil 00/100 DÓLARES AMERICANOS (US$.2.800.000.00) en 22 de enero de 1993, en virtud del documento de entendimiento y pago a cuenta de 22 de enero de 1993 y los pagos efectuados en cumplimiento del acta de entendimiento de 28 de febrero de 1994, por CIENTO veintiséis mil novecientos CUARENTA Y siete 18/100 DÓLARES AMERICANOS (US$.126.747.18) que corresponden a redención de saldos transferidos por el Banco del Estado por concepto de depósitos desdolarizados. Se autoriza al Banco Central de Bolivia cubrir el saldo de CIENTO CINCUENTA Y TRES mil DOSCIENTOS CINCUENTA Y DOS 82/100 DÓLARES AMERICANOS (US$.153.252.82) restantes, en cumplimiento de la cláusula tercera del acta de entendimiento señalada.
+
+**Artículo 3°.-** El Ministerio de Hacienda y Desarrollo Económico asumirá y pagará por cuenta del Estado boliviano el saldo de la obligación equivalente a CUATRO MILLONES SEISCIENTOS diecisiete mil novecientos CINCUENTA Y TRES 66/100 DÓLARES AMERICANOS (US$.4.617.953.66) por concepto de devolución de depósitos a plazo fijo en moneda extranjera en favor de FONCOMIN, en el plazo de cuatro años, a cuyo fin el Tesoro General de la Nación emitirá los respectivos bonos de tesorería con cupones redimibles semestralmente, previa devolución de los certificados de depósito.
+
+**Artículo 4°.-** El Ministerio de Hacienda y Desarrollo Económico debe incluir las partidas presupuestarias respectivas en cada gestión, hasta cubrir la presente obligación del Estado.
+
+---
+
+El señor Ministro de Estado, en el despacho de Hacienda y Desarrollo Económico, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de agosto de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Germán Quiroga Gómez, Raúl Tovar Piérola, Carlos Sánchez Berzain, Rene Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, José G. Justiniano Sandoval, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier.

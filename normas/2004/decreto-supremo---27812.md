@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 27812, 22 de octubre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2446](https://www.lexivox.org//norms/BO-L-2446.html) de 19 de marzo de 2003 - Ley de Organización del Poder Ejecutivo, establece las normas que rigen la organización y funcionamiento del Poder Ejecutivo, determinando su estructura y competencias.
+* Que la Resolución Ministerial Nº 105/03 de 20 de noviembre de 2003, crea la Unidad de Coordinación para la Asamblea Constituyente, con el objeto de coordinar todas las acciones necesarias para llevar adelante la Asamblea Constituyente.
+* Que la [Ley Nº 2627](https://www.lexivox.org//norms/BO-L-2627.html) de 30 de diciembre de 2003, establece en su Artículo 7, que las metas institucionales de resultados fiscales, solo podrán ser modificadas mediante Resolución expresa del Consejo Nacional de Política Económica y Social - CONAPES - y, cuando dicha modificación no vulnere el resultado fiscal global previsto en el Presupuesto General de la Nación.
+* Que el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, establece que cualquier incremento en la Partida 25200 “Estudios e Investigaciones”, debe ser aprobado mediante Decreto Supremo.
+* Que la Resolución Ministerial Nº 144/04 de 9 de septiembre de 2004 emitida por el Ministerio de la Presidencia, autoriza la tramitación para la inscripción de un presupuesto para la Unidad de Coordinación para la Asamblea Constituyente, por un monto total de Bs.681.252.- (SEISCIENTOS OCHENTA Y UN mil DOSCIENTOS CINCUENTA Y DOS 00/100 BOLIVIANOS); así como, aprueba el Informe Técnico Nº 15/04 de 25 de agosto de 2004 de la Unidad Financiera de Presupuesto, el mismo que homologa la escala salarial para la contratación de consultores.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba la inscripción de la Partida 25200 “Estudios e Investigaciones” en el Presupuesto de la Unidad de Coordinación para la Asamblea Constituyente, por el monto de Bs.267.600.- (DOSCIENTOS SESENTA Y siete mil SEISCIENTOS 00/100 BOLIVIANOS), con recursos de contravalor.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de octubre del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Carlos Silvestre Alarcón Mondonio Ministro Interino de Servicios y Obras Públicas, Guillermo Torres Orías, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

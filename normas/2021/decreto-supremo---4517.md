@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 4517, 2 de junio de 2021
+
+[Decreto Supremo Nº 4517](https://www.lexivox.org//norms/BO-DS-N4517.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1267](https://www.lexivox.org//norms/BO-L-N1267.html), de 20 de diciembre de 2019, aprueba el Presupuesto General del Estado, para la Gestión Fiscal comprendida entre el 1 de enero y el 31 de diciembre de 2020, en el marco de lo establecido por el numeral 11 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+* Que las modificaciones presupuestarias que incrementan el presupuesto inicial se encuentran amparadas por la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria.
+* Que el Artículo 10 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), dispone que el Ministerio de Hacienda, actual Ministerio de Economía y Finanzas Públicas, a través del Viceministro de Presupuesto y Contaduría, actual Viceministro de Presupuesto y Contabilidad Fiscal, mediante disposiciones de administración financiera, reglamentará y regulará la ejecución, seguimiento, supervisión, evaluación, ajustes y traspasos intra e interinstitucionales de los presupuestos aprobados, dentro de los términos y límites de la citada Ley.
+* Que el Artículo 4 de la [Ley Nº 396](https://www.lexivox.org//norms/BO-L-N396.html), de 26 de agosto de 2013, vigente por el inciso k) de la Disposición Final Quinta de la [Ley Nº 1267](https://www.lexivox.org//norms/BO-L-N1267.html), de 20 de diciembre de 2019, autoriza al Órgano Ejecutivo a través de los Ministerios de Economía y Finanzas Públicas, y de Planificación del Desarrollo, de acuerdo a sus competencias, incorporar en los Presupuestos Institucionales los recursos provenientes de donación externa e interna, así como de crédito externo e interno, y saldos de gestiones anteriores por los mencionados conceptos, para financiar gastos de capital, gastos corrientes, aplicaciones financieras, e inversiones, debiendo los referidos ministerios informar sobre la inscripción de estos recursos a la Asamblea Legislativa Plurinacional anualmente.
+* Que los Estados Financieros del Órgano Ejecutivo gestión fiscal 2020, muestran la situación económica - financiera, el resultado del ejercicio, la evolución del patrimonio y su participación en las entidades públicas, los flujos de efectivo, la ejecución del presupuesto de recursos y gastos, y el origen y aplicación de recursos corrientes, de capital y de financiamiento de las entidades que componen el Órgano Ejecutivo, cuyo propósito es proporcionar información para la toma de decisiones por las autoridades y constituyen un medio para la rendición de cuentas de los recursos públicos.
+* Que los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia, de la gestión fiscal 2020, deben ser aprobados mediante instrumento legal correspondiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto aprobar los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia de la gestión fiscal 2020.
+
+**Artículo 2°.- (Aprobación)** 
+
+1. Se aprueban los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia de la gestión fiscal 2020, que comprenden la agregación de la ejecución presupuestaria, tesorería y contabilidad de los Ministerios de Estado, incluida la Vicepresidencia del Estado Plurinacional, el Tesoro General de la Nación y Unidades Desconcentradas, que conforman el Órgano Ejecutivo.
+2. La aprobación de los Estados Financieros, mencionados en el Parágrafo precedente, no deslinda de responsabilidad por la administración directa de los recursos fiscales, realizada por las Máximas Autoridades Ejecutivas - MAEs y las servidoras y servidores públicos de los Ministerios y entidades señaladas en el Parágrafo I del presente Artículo.
+
+**Artículo 3°.- (Publicación)** Los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia, correspondiente a la gestión fiscal 2020, serán publicados en el sitio web del Ministerio de Economía y Finanzas Públicas.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los dos días del mes de junio del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Marcelo Alejandro Montenegro Gomez Garcia MINISTRO DE ECONOMÍA Y FINANZAS PÚBLICAS E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE HIDROCARBUROS Y ENERGÍAS, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Remmy Ruben Gonzales Atila, Sabina Orellana Cruz.

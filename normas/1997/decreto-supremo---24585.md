@@ -1,0 +1,41 @@
+# Bolivia: Decreto Supremo Nº 24585, 29 de abril de 1997
+
+VICTOR HUGO CARDENAS CONDE
+  
+PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA
+
+Considerando:
+
+* Que la [Ley Nº 1544](https://www.lexivox.org//norms/BO-L-1544.html) de 21 de marzo de 1994 (Ley de Capitalización), dispone la capitalización de sociedades de economía mixta conformadas con el apone de activos y derechos de las siguientes empresas publicas: Yacimientos Petrolíferos Fiscales Bolivianos (YPFB). Empresa Nacional de Electricidad S.A. (ENDE). Empresa Nacional de Telecomunicaciones (ENTEL), Empresa Nacional de Ferrocarriles (ENFE) y Empresa Metalúrgica Vinto.
+* Que el artículo séptimo de la Ley de Capitalización autoriza al Poder Ejecutivo a disponer, mediante decreto supremo, que las acciones del Estado obtenidas de la capitalización de las sociedades de economía mixta mencionadas sean constituidas en fideicomiso, hasta que Las sociedades encargadas de la administración de los fondos de pensiones de capitalización individual inicien su funcionamiento.
+* Que en cumplimiento de la Ley de Capitalización, mediante [Decreto Supremo Nº 24076](https://www.lexivox.org//norms/BO-DS-24076.html) de 24 de julio de 1995, se dispone la constitución en fideicomiso de las acciones de propiedad del Estado en las sociedades de economía mixta capitalizadas.
+* Que el Ministro sin Cartera Responsable de Capitalización, en representación de la República de Bolivia y para el debido cumplimiento de la Ley de Capitalización, ha suscrito en fecha 26 de julio de 1995 un contrato de fideicomiso con la entidad fiduciaria Cititrust (Bahamas) Limited, denominado “Declaración de Fideicomiso Bolivian Capitalization Holding Trust”, de conformidad al cual se constituyen en fideicomiso las acciones estatales de las sociedades de economía mixta capitalizadas, los dividendos y otros recursos provenientes de dichas acciones, en beneficio de los beneficiarios especificados en su Cláusula II B,.
+* Que el artículo 3 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996 (Ley de Pensiones) dispone que los recursos provenientes de las acciones de propiedad del Estado en las empresas capitalizadas de conformidad a la Ley de Capitalización, serán destinados al pago de una anualidad vitalicia denominada Bono Solidario (Bonosol) y al pago de gastos funerarios, en favor de los beneficiarios previstos en dicha Ley de Pensiones.
+* Que el tercer párrafo del artículo 22 de la Ley de Pensiones establece que los recursos constituidos en fideicomiso de conformidad con la Ley de Capitalización, serán asignados mediante decreto supremo entre las Administradoras de Fondos de Pensiones (AFP) que hayan sido elegidas en la licitación pública internacional prevista en la Ley de Capitalización, constituyendo de esta forma los fondos de capitalización colectiva.
+* Que mediante [Decreto Supremo Nº 24470](https://www.lexivox.org//norms/BO-DS-24470.html) de 23 de enero de 1997 se adjudica en favor del Consorcio Invesco-Argentaria la Licitación Pública Internacional para la Selección de Administradoras Privadas de Fondos de Pensiones Ref.: MC/AFP-O1/96, de conformidad al informe de recomendación presentado por el Ministro sin Cartera Responsable de Capitalización. Dicho Consorcio ha conformado la Administradora de Fondos de Pensiones Futuro de Bolivia S.A.
+* Que mediante [Decreto Supremo Nº 24470](https://www.lexivox.org//norms/BO-DS-24470.html) de 23 de enero de 1997. se adjudica en favor del Consorcio Previsión BBV (Banco Bilbao Vizcaya S.A.) la Licitación Pública Internacional para la Selección de Administradoras Privadas de Fondos de Pensiones Ref: MC/AFP-O1/96, de conformidad al informe de recomendación presentado por el Ministro sin Cartera Responsable de Capitalización, Dicho Consorcio ha conformado la Administradora de Fondos de Pensiones Previsión BBV S.A..
+* Que los trabajadores de las empresas públicas objeto de capitalización han suscrito contratos de compra-venta de acciones emitidas por las sociedades capitalizadas, que estipulan que, en caso de que el trabajador-accionista no complete el pago del precio de las acciones dentro del plazo señalado, las acciones que no hubieran sido pagadas serán inmediatamente transferidas al Fiduciario Cititrust (Bahamas) Limited sin necesidad de consentimiento previo por parte del trabajador-accionista, ni se requerirá el endoso de los títulos u otras formalidades, quedando entendido que el trabajador perderá la propiedad de las acciones impagas.
+* Que el artículo 106 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html) de. 22 de enero de 1997 (Reglamento a la Ley de Pensiones), determina que las acciones y dividendos mantenidos en fideicomiso, resultantes de la capitalización de las empresas públicas, serán transferidos en partes iguales entre las empresas inicialmente licenciadas a funcionar como Administradoras de Fondos de Pensiones, de acuerdo a la cláusula de terminación de la Declaración de Fideicomiso.
+* Que la cláusula VI A. de la Declaración de Fideicomiso Bolivian Capitalization Holding Trust establece que el fideicomiso terminará en conformidad con un Decreto Supremo, denominado “Decreto Supremo de Terminación” a ser decretado por el Presidente de la República de Bolivia luego que el Congreso de dicha República tenga promulgada legislación estableciendo los fondos de pensiones de capitalización individual conforme al articuló séptimo de la Ley de Capitalización.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** De conformidad a la Cláusula VI A y a la Clausula II B (ii) de la Declaración de Fideicomiso Bolivian Capitalization Holding Trust, se dispone la terminación del fideicomiso contratado por la República de Bolivia con la entidad fiduciaria Cititrust (Bahamas) Limited, de conformidad a las normas del presente decreto supremo.
+
+**Artículo 2°.-** La totalidad de los recursos constituidos en fideicomiso serán transferidos en forma definitiva a los fondos de capitalización colectiva administrados por la Administradora de Fondos de Pensiones Futuro de Bolivia S.A. y la Administradora de Fondos de Pensiones Previsión BBV S.A., en partes iguales y conforme instruya el Comité de Administración del Fiduciario previsto en la Cláusula V de la Declaración de Fideicomiso.
+
+**Artículo 3°.-** Las acciones estatales y los recursos provenientes de las mismas, correspondientes a sociedades de economía mixta cuya capitalización ocurra en fecha posterior a la dictación del presente decreto supremo, serán constituidas en fideicomiso por el Ministro sin Cartera Responsable de Capitalización, para su inmediata transferencia definitiva a los fondos de capitalización colectiva especificados en el artículo anterior, conforme a las instrucciones emitidas por el Comité de Administración del Fiduciario.
+
+**Artículo 4°.-** Las acciones que no sean pagadas por los trabajadores de las empresas públicas sometidas al proceso de capitalización, serán constituidas en fideicomiso y transferidas a los fondos de capitalización colectiva en la forma descrita en los artículos anteriores.
+
+**Artículo 5°.-** El Comité de Administración del Fiduciario deberá realizar todos los actos necesarios para el debido cumplimiento de la Declaración de Fideicomiso, del presente decreto supremo y de la finalidad del Fideicomiso prevista en la Ley de Pensiones.
+
+---
+
+El Señor Ministro de Estado en el despacho sin Cartera Responsable de Capitalización queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los veintinueve días del mes de abril de mil novecientos noventa y siete años.
+  
+FDO. VICTOR HUGO CARDENAS CONDE, PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA. Amonio Aranibar Quiroga. Victor Hugo Canelas Zannier. Alfonso Erwin Kreidler Guillaux. José Guillermo Justiniano Sandoval. René Oswaldo Blattmann Bauer, Fernando Candía Castillo, Franklin A naya Vásquez, Moisés Jarmúsz Levy. Alberto Vargas Covarrubias, Cathia Rodriguez Clavijo. MINISTRO SUPLENTE DE COMUNICACION SOCIAL Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

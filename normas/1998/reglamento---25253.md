@@ -1,0 +1,1877 @@
+# Bolivia: Reglamento Orgánico de la Ley General de Concesiones de Obras Públicas de Transporte Nº 1874, 18 de diciembre de 1998
+
+REGLAMENTO ORGÁNICO DE LA LEY GENERAL DE CONCESIONES DE OBRAS PÚBLICAS DE TRANSPORTE Nº 1874
+
+## Título I DISPOSICIONES GENERALES
+
+**Artículo 1°.- (Campo de aplicación)**   
+El presente Reglamento Orgánico, en cumplimiento de la [Ley General de Concesiones de Obras Públicas de Transporte N° 1874](https://www.lexivox.org//norms/BO-L-1874.html), de fecha 22 de Junio de 1998, en adelante la Ley, fija las normas y regulaciones generales y específicas para que la Administración Nacional, las Prefecturas y las Municipalidades preparen, liciten, otorguen, contraten, desarrollen, modifiquen y pongan termino a las concesiones de obras públicas de transporte vial, ferroviario, aéreo, fluvial o lacustre, incluidos los puertos, aeropuertos, o sólo las terminales de pasajeros y/o carga de unos y otros, que se refieran a la construcción, rehabilitación, reparación, mejoramiento, mantenimiento, operación y explotación y sus servicios principales, adicionales y complementarios, incluidos el uso y goce sobre los bienes públicos o municipales y los que se expropien o adquieran destinados a desarrollar esas obras y sus áreas de servicio a cambio de la concesión temporal de la explotación del servicio que presta al público.
+  
+La Ley y el presente Reglamento Orgánico formarán parte de los contratos de concesión celebrados por el Ministerio de Desarrollo Económico, a través del Viceministerio de Transporte, Comunicación y Aeronáutica Civil, por las Prefecturas y por las Municipalidades.
+
+**Artículo 2°.- (Definiciones)**   
+Para la correcta interpretación del presente Reglamento se entenderá por:
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Adjudicatario | El oferente al que se adjudicó la propuesta y que está obligado a constituir la sociedad concesionaria que será titular de los derechos del contrato, en carácter de sucesora de sus derechos. |
+| 2. | Area de Concesión, Area Operativa o Derecho de Vía | El área conformada por los terrenos utilizados para prestar los servicios básicos que están ubicados en bienes públicos, fiscales o municipales y los que se expropien. En las concesiones de calles, caminos u otras obras viales, el área de concesión asume el nombre de derecho de vía. Y en las concesiones de ferrocarriles, aeropuertos, fluviales y lacustres y sus puertos, asume el nombre de Area Operativa. |
+| 3. | Area principal | Es la conformada por los terrenos utilizados para prestar los servicios básicos de la concesión. |
+| 4. | Areas de servicio | El área conformada por los terrenos susceptibles de ser ocupados por las instalaciones destinadas a prestar los servicios complementarios, especiales o adicionales, convenidos en el contrato de concesión; los que pueden estar ubicados en bienes públicos, fiscales, municipales o en terrenos particulares. |
+| 5. | Asignaciones | Aportes o pagos en dinero de la Administración Central del Estado, Prefecturas o Municipalidades, previamente estudiados y autorizados, que en el contrato de concesión se comprometen para la fase de construcción y/o explotación, cuyo uso estará sujeto a la fiscalización correspondiente, diferentes y adicionales a la infraestructura pública que se incorpore a la concesión. |
+| 6. | Bases de Licitación | Todos los documentos licitatorios, Estudios, Investigaciones, y Proyectos Técnicos con los cuales la entidad pública concedente hace el llamado a licitación de acuerdo al articulo 9 de la [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html). |
+| 7. | Costo total de la obra | Es el valor total de la obra contenida en la oferta adjudicada, y consignada en el contrato de Concesión. |
+| 8. | Días | Días Calendario. |
+| 9. | Diseño Final de Ingeniería | Corresponde al diseño y proyecto de la obra que se licita, el que debe tener un nivel de desarrollo técnico que permita dimensionar la inversión y los plazos para su ejecución, el que deberá incluir o estar acompañado de claras definiciones de los estándares exigibles a las obras y a los niveles de servicio que ellas permitirán. En el desarrollo de las obras que se contratan por concesión este diseño final de la licitación sólo podrá ser modificado para superar imprevistos que aparezcan o con la expresa autorización del ente concedente para igualar o mejorar la calidad de las obras o de los estándares técnicos de niveles de servicio, sin que por ello el concesionario pueda reclamar compensación al ente concedente. |
+| 10. | Especificaciones y Planos Definitivos de Obra | Son los planos y especificaciones que resultan de la construcción de la obra y de sus correcciones o mejoramientos efectuados con la debida autorización en el curso del contrato, que el concesionario está obligado a entregar a la entidad publica concedente. |
+| 11. | La Dirección | Se entiende por tal a la Dirección General de Concesiones de Obras Públicas de Transporte dependiente del Viceministerio de Transporte, Comunicación y Aeronáutica Civil; a las Direcciones Departamentales de Concesiones de Obras Públicas de Transporte o a las Secretarias Municipales, Direcciones Municipales u otros organismos técnicos especializados de Concesiones de Obras Públicas de Transporte que se creen al efecto, o grupo de funcionarios al que Agrupaciones de Prefecturas, Mancomunidad de Municipalidades y agrupaciones de unos y otros, autoricen y deleguen facultades para el desarrollo de estas concesiones en general o de una en particular. |
+| 12. | El Director | Es la máxima autoridad ejecutiva de la Dirección definida precedentemente. |
+| 13. | El Contrato | Es el contrato de concesión suscrito y que se perfecciona entre la entidad publica concedente y la sociedad concesionaria, como sucesora del adjudicatario. Dicho contrato se integrará siempre con los derechos y obligaciones contenidos en la Ley, este Reglamento, las bases de licitación y oferta adjudicada en cada concesión, según la forma especifica en que se adjudica, la que en sus diversas modalidades constará en el contrato. |
+| 14. | El Ministerio | Es el Ministerio de Desarrollo Económico, actuando mediante el Viceministerio de Transporte, Comunicación y Aeronáutica Civil. |
+| 15. | El Viceministerio | Es el Viceministerio de Transporte, Comunicación y Aeronáutica Civil, actuando por sí o mediante la Dirección General de Concesiones de Obras Públicas de Transporte. |
+| 16. | Entidad Publica Concedente | Son el Ministerio de Desarrollo Económico, por intermedio del Viceministerio de Transporte, Comunicación y Aeronáutica Civil; las Prefecturas, Municipalidades, Mancomunidad de Municipalidades, o agrupaciones de estos. El Ministerio por intermedio del Viceministerio actuará por competencia propia en los niveles de la administración nacional o bajo convenio de mandato con cualquier otra entidad publica. |
+| 17. | Estructura Tarifaria | Conjunto de tarifas que se regulan para ser cobradas y percibidas por los servicios básicos prestados por el concesionario. |
+| 18. | Inspector Fiscal de la Concesión | Es el funcionario público de la Administración Nacional, Departamental o Municipal, según corresponda; profesional universitario que la entidad pública concedente designa para que lo represente en el desarrollo del contrato, con las facultades y obligaciones que el presente reglamento y el contrato de concesión le otorgan. |
+| 19. | Inspección de la Concesión | Es la unidad de trabajo que dirige el inspector fiscal de la concesión; se conforma por aquel más los funcionarios públicos adscritos de la Administración Nacional, Prefecturas o Municipalidades, según corresponda y por la Asesoría de InspecciónTécnica de las obras, que se podrá contratar para cada concesión. |
+| 20. | La Ley | [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html) de fecha 22 de Junio de 1998, que contiene la Ley General de Concesiones de Obras Públicas de Transporte. |
+| 21. | Mantenimiento | Se considera como Mantenimiento y Conservación. Corresponde a las actividades necesarias de las obras y/o instalaciones construidas por el concesionario o preexistentes en el área de la concesión, con el propósito de que éstas conserven el patrimonio invertido en condiciones aceptadas o recuperen el nivel de servicio originalmente proyectado, tanto en su cantidad como en su calidad de acuerdo a lo estipulado en las bases de licitación. También se entienden incluidas dentro de este concepto las medidas preventivas necesarias para que no se deterioren los obras o instalaciones. Ellas pueden ser rutinarias, periódicas o ambas, entendiéndose como la conservación Mayor prevista por el proyecto o las bases de licitación. |
+| 22. | Mejoramiento Sustancial | Es la modificación sustancial de los estándares de una obra o instalación preexistente y que ejecuta el concesionario en el área de concesión, con el propósito de elevar significativamente los niveles de servicio que ella presta. |
+| 23. | Niveles de Servicio | Las Condiciones cuantitativas y cualitativas inherentes a la prestación del servicio para la Obra y/o Obras Principales, Anexas, Auxiliares y Complementarias de toda Concesión de Obra Publica de Transporte. |
+| 24. | Oferente | Persona natural o jurídica o grupo de ellas que se presenta a una licitación obligándose a mantener los derechos mayoritarios de la Sociedad Concesionaria, según lo establecido en el presente Reglamento. |
+| 25. | Organos Públicos de Control de las Concesiones | En cada contrato lo serán la entidad pública concedente y la Superintendencia de Transportes, de conformidad a las normativas de la Ley, este Reglamento y el Contrato que rige cada concesión. El ejercicio de estas funciones se hará sin perjuicio de las que por ley correspondan a otras entidades públicas según la materia y el territorio sobre los que recae cada concesión. |
+| 26. | Obra singular | Es una obra pública de transporte que se licita y contrata aislada y separadamente, como objeto único de la concesión, tales como un túnel, un puente, un viaducto, una determinada terminal o facilidad en un aeropuerto o puerto, etc. |
+| 27. | Oferta | El conjunto de documentos que forman las ofertas técnica y económica del oferente incluida la documentación complementaria y los antecedentes generales |
+| 28. | Oferta adjudicada | El conjunto de documentos que forman las ofertas técnica y económica del oferente, incluida la documentación complementaria y los antecedentes generales a la que se le adjudica el contrato por la entidad pública concedente, bajo la modalidad en que fue aceptada ésta. |
+| 29. | Presupuesto Oficial de la Obra | Es el valor total de la obra estimado por la entidad pública concedente de acuerdo a determinados estándares que se incluyen en las bases de licitación, a un título meramente referencial, ya que el concesionario queda obligado a ejecutar la obra objeto del contrato a su entero riesgo en relación con su costo final, resulte este superior o inferior al Presupuesto Oficial o al estimado por el concesionario en su oferta o consignado en el contrato de Concesión. |
+| 30. | Proponente | Persona natural o jurídica que presenta, con carácter de propia, una iniciativa de Construcción, Mejoramiento Sustancial, o combinaciones de ellas, para ser licitada por concesión. |
+| 31. | Rehabilitación | Son los trabajos de reconstrucción mayor de las obras o en la parte de ellas en que fuere necesario según lo indique el estudio y las bases de licitación. Reconstrucción Mayor consiste en rehacer la obra mas dañada. |
+| 32. | Servicios Básicos o Servicio Principal | Todos aquellos que comprenden el objeto o los objetos centrales y específicos que debe prestar la obra en concesión, los que son imprescindibles, atendida la naturaleza de las obras y el contrato de concesión. |
+| 33. | Servicios Adicionales y/o Complementarios | Aquellos servicios útiles y necesarios, u otros que viabilicen la concesión, que el concesionario esté autorizado a prestar en virtud del contrato de concesión, siempre que hubiesen formado parte de las bases de licitación y consten expresamente en el contrato de concesión o en posterior autorización del ente concedente. |
+| 34. | Servicios Especiales Obligatorios | Cualesquiera otros servicios establecidos con carácter obligatorio en las bases de licitación y contrato en dicho carácter. Respecto a los usuarios, éstos podrán ser onerosos o gratuitos según se determine en las bases de licitación y contrato de concesión. |
+| 35. | Sistema de Reajuste Tarifario | Mecanismo de modificación de la tarifa definida en el contrato de concesión. |
+| 36. | Sociedad Concesionaria o Concesionario | Sociedad Anónima, constituida de acuerdo a la legislación nacional vigente, con la cual se celebra el contrato de concesión para la Construcción, Mejoramiento, Rehabilitación, Reparación, Mantenimiento, Financiamiento, Operación o combinaciones de estas, referidas a las obras públicas de transporte, Públicas, fiscales o municipales y de los servicios complementarios objeto de la concesión, a cambio de su explotación. Tendrá el carácter de tal desde el perfeccionamiento del contrato de Concesión. |
+| 37. | Superintendencia | La Superintendencia de Transportes es un órgano del sistema de regulación sectorial (SIRESE), cuyas funciones y atribuciones se establecen en la [Ley Nº 1600](https://www.lexivox.org//norms/BO-L-1600.html) del 28 de octubre de 1994, en el [Decreto Supremo Nº 24178](https://www.lexivox.org//norms/BO-DS-24178.html) y en el [Decreto Supremo Nº 24753](https://www.lexivox.org//norms/BO-DS-24753.html). |
+| 38. | Tarifa | Precio que pagan los usuarios o beneficiarios del servicio básico prestado por el concesionario, en función de categorías de los usuarios o de su uso, que se regula en el contrato de concesión. |
+| 39. | Usuarios | Todas las personas, sin discriminación alguna, que usen los servicios de una concesión, pagando al concesionario la tarifa o peaje establecidos y respetando el Reglamento de Servicio. |
+
+  
+En las licitaciones y en los contratos de concesión de obras públicas de transporte, las palabras o conceptos antes definidos, tendrán necesaria y obligatoriamente el sentido que se les asigna en este artículo, con la única y exclusiva salvedad de que conste expresamente en el texto de las bases de licitación o del contrato de concesión, que dicha expresión ha sido utilizada en otro sentido natural o técnico diferente.
+
+**Artículo 3°.- (De las normas aplicables a las concesiones que se otorguen y contraten)**   
+De conformidad con lo dispuesto en el artículo N° 70 de la Ley, sus normas y las del presente Reglamento Orgánico, prevalecerán sobre cualquier otra disposición legal o reglamentaria del mismo rango que las contradijeren en relación con los regímenes de competencia de las entidades públicas concedentes y de los encargados del control y fiscalización de los contratos, en sus normas sustantivas y en las que regulan los diversos procedimientos definidos para el régimen licitatorio y contractual de la concesión y en todas las normas especiales sectoriales que regulan los caminos, ferrocarriles, puertos, aeropuertos, obras de vialidad urbana u otras obras de transporte, sobre las que recaiga cada concesión.
+
+**Artículo 4°.- (De la aplicabilidad de las normas legales y de este reglamento a las concesiones de obras públicas de transporte)**   
+Los Ministerios involucrados y los Servicios de la Administración Central del Estado, las Prefecturas, las Municipalidades, Mancomunidades de Municipalidades, los acuerdos entre unos y otros de estos entes públicos y la Superintendencia de Transportes quedan sujetos a las normas de la Ley y de este Reglamento Orgánico.
+  
+El presente Reglamento Orgánico, prevalecerá sobre toda norma de naturaleza y rango jurídico equivalente, en materias de competencia, atribuciones, procedimientos y contenidos, con las salvedades indicadas en el artículo 70 de la [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html).
+
+**Artículo 5°.- (Contenido de las concesiones que se otorguen y contraten)**   
+Cada concesión de obra pública de transporte que se licite, otorgue y contrate, con plena sujeción a las normas de la Ley y al presente Reglamento Orgánico para Concesiones de Obras Públicas de Transporte, comprenderá siempre:
+
+1. El uso y goce sobre bienes públicos, fiscales o municipales y de los que se expropien o adquieran para la concesión destinados a desarrollar la obra entregada en concesión, y los servicios adicionales y complementarios que se incluyan en ellas.
+2. La ejecución de las inversiones, nuevas inversiones o reinversiones pactadas y de las obras que se constituyen en el Plan de Inversión para el Desarrollo del Proyecto y de sus modificaciones;
+3. La prestación del servicio básico, servicios especiales obligatorios y de los servicios adicionales y complementarios para la que fue construida, mejorada o rehabilitada la obra, dentro del área de concesión;
+4. La conservación de la obra y la prestación de los servicios contratados, en óptimas condiciones;
+5. El cobro de tarifas que pagarán los usuarios de los servicios básicos y de los servicios adicionales y complementarios pactados;
+6. El derecho de percibir, en la fase de construcción o en la de explotación o en ambas, los aportes, asignaciones, garantías y seguros que la entidad pública concedente otorgue y pacte para dicha concesión, siempre y cuando estén expresa y tácitamente definidos en el contrato. y;
+7. Además, la inclusión en cada contrato de las normas y particularidades que correspondan a cada modo de transporte y las especificidades propias de las obras bajo contrato.
+
+**Artículo 6°.- (Objeto de la concesión)**   
+Cada Contrato de Concesión de obra pública de transporte podrá tener como objeto, conjunta o separadamente, las funciones de construcción, mejoramiento, rehabilitación, reparación, mantenimiento o combinaciones de ellas, de una o más obras públicas de transporte,
+  
+incluyendo siempre a cargo del concesionario el financiamiento requerido para ello y la operación y explotación de las obras y de los servicios principales y adicionales que ellas prestan.
+  
+Como contrapartida el contrato le faculta al concesionario la explotación de dichas obras, para el pago de la inversión y de los servicios que ella preste así como su operación, sin perjuicio de los aportes, asignaciones o garantías que la entidad pública concedente incluya en dicho régimen.
+  
+Estas concesiones podrán otorgarse y contratarse indistintamente sobre obras ya existentes, o nuevas o combinaciones de ellas y podrán recaer sobre él todo o parte de una obra singular, o sobre una red de transporte o parte de ella, o referirse a varias obras de un mismo o similar tipo que sea susceptible de otorgarse en concesión.
+
+**Artículo 7°.- (Uso del subsuelo y derechos de construcción en el espacio aéreo en concesión de obras públicas de transporte)**   
+Las bases de licitación y contrato de concesión de obras públicas de transporte podrán extenderse a los derechos de construcción en el subsuelo y en el espacio aéreo sobre bienes públicos, fiscales o municipales destinados a ellas, conjunta o separadamente con una concesión, en virtud de lo establecido en el Artículo 4 de la Ley.
+  
+Dichos derechos, se podrán licitar y pactar como accesorios de la concesión o en concesión separada, estableciéndose en ambos casos su conexión física y accesos con la o las obras que se contratan por concesión o con las previamente existentes, estén otorgadas en concesión o no.
+  
+Si las bases de licitación no hubieran dispuesto expresamente su inclusión en la concesión, el ente público podrá licitarlos y contratarlos por concesión separada mediante el procedimiento establecido en el presente Reglamento, delimitando sus derechos y fijando su conexión física y accesos con la o las obras que se licitan o se encuentren previamente otorgadas en concesión.
+
+**Artículo 8°.- (Del contrato y normas que lo rigen)**   
+Los contratos de concesión de obras públicas de transporte que se pacten, se regirán y su texto se entenderá integrado por:
+
+1. La Ley, General de Concesiones de Obras Públicas de Transporte N° 1874, de fecha 22 de Junio de 1998 y demás legislación general o especial aplicable según la materia.
+2. El presente Reglamento Orgánico;
+3. La Resolución Suprema, la Resolución Prefectural o la Resolución Municipal de adjudicación, según corresponda
+4. El Texto del contrato suscrito.
+5. Las correspondientes bases de licitación y sus circulares aclaratorias.
+6. La oferta técnica y económica presentada por el adjudicatario de la licitación, en la forma y bajo las modalidades en que fuere aprobada por el ente público concedente, siempre de conformidad a las opciones permitidas por las bases de licitación.
+
+**Artículo 9°.- (Del plazo total máximo para las concesiones de obras públicas de transporte, que se contraten)**   
+El plazo de las concesiones a que se refiere el Artículo 24 de la Ley, en ningún caso podrá exceder de 40 años y en él siempre se incluirá el tiempo necesario para la etapa inicial de construcción cuando corresponda, asi como el que se requiera para la ejecución y recuperación de toda nueva inversión prevista de desarrollar en el período de duración del contrato.
+
+**Artículo 10°.- (Plazo de cada concesión)**   
+Cada concesión tendrá el plazo de duración que resulte de las bases de la licitación y en su caso, el aplicable según la oferta adjudicada, del cual se dejará expresa constancia en la respectiva Resolución de Adjudicación y en el contrato de concesión.
+  
+El plazo de la concesión se computará siempre de acuerdo a lo establecido en las bases de licitación, Resolución de Adjudicación, de lo que dará cuenta el contrato. Pero, el inicio de su contabilización, en ningún caso, podrá comenzarse antes de la fecha de publicación de la respectiva Resolución de Adjudicación en la Gaceta Oficial o en el medio de comunicación escrita que señalen las bases de licitación según corresponda.
+  
+No obstante, la sociedad concesionaria podrá siempre iniciar la construcción, antes del inicio del cómputo del plazo de concesión o de la fase de construcción.
+
+**Artículo 11°.- (Perfeccionamiento del contrato y plazo de la concesión)**   
+Cuando para el avance de la ejecución de las expropiaciones que se requieran, se haga necesario un período previo y especial para ejecutarlas, sin perjuicio de la fecha en que se perfecciona el contrato de una concesión, las bases de licitación y el respectivo contrato podrán disponer el inicio del cómputo del plazo efectivo de la concesión a partir de la fecha que se establezca en dichos instrumentos, pero en ningún caso dicho período previo podrá ser superior a un año, contado desde el perfeccionamiento del contrato.
+
+**Artículo 12°.- (Tratamiento de pagos compensatorios que puedan estar pendientes al término del plazo total de una concesión)**   
+Sólo en aquellos casos en que a la llegada del plazo total de 40 años para una concesión fuese superado por aumentos definidos en el plazo del contrato para compensar daños, perjuicios, causas sobrevinientes o nuevas inversiones, de acuerdo a las normas de la Ley y de este Reglamento Orgánico, el ente público concedente deberá pagar el valor presente de los ingresos que esos días, meses o años producirían al concesionario, con deducción de todos los costos en que éste incurriría en el período excedente de tiempo por sobre el plazo total de 40 años.
+  
+Sólo en el caso que esa concesión se licite nuevamente, el ente público concedente podrá incluir en esas bases de licitación y en el nuevo contrato de concesión la obligación del pago de dichos valores de modo directo por el nuevo concesionario, en nombre del concedente. En este evento, si dicho pago no se efectúa antes de suscribir el contrato, el documento en que conste la cesión de la obligación de pago deberá tener mérito ejecutivo y necesariamente incluirá la obligación solidaria para su pago por el ente público concedente en subsidio en los casos de incumplimiento o mora del nuevo concesionario en el plazo que indicarán las Bases de Licitación y en el contrato de concesión, el que en ningún caso podrá exceder de 6 meses desde la suscripción del nuevo contrato de concesión.
+  
+Artículo 13:° (Renovación de la concesión)
+  
+A lo menos, con dos años de anterioridad de la llegada del plazo contractual de terminación de un contrato de concesión de obra pública de transporte, la o las entidades públicas competentes deberán decidir si dicha concesión será licitada de nuevo en los términos que dispone al artículo 7 de la Ley.
+  
+La o las entidades públicas concedentes podrán licitar una nueva concesión para una o varias obras cuyo contrato se encuentre próximo a concluir, definiendo si ella o ellas se otorgarán como obra separada, dividida en uno o más contratos o integrada en un conjunto con otras obras y los estándares para ampliar, conservar, rehabilitar, reparar o mejorar esas obras así como las condiciones de su explotación.
+
+**Artículo 14°.- (Fundamentación y plazo para la decisión y declaración de que no se licitará nuevamente una concesión por este sistema)**   
+Para decidir que una obra no se licitará ni contratará de nuevo por concesión, la entidad pública concedente deberá declarar de modo fundado, formal y por escrito, con anterioridad a los 2 años de su término natural, las razones por las que no se otorgará en concesión nuevamente.
+  
+En dicho evento, en el mismo acto se deberá designar al ente o autoridad responsable de representar a la o a las entidades públicas concedentes en la terminación del contrato, en el control de su recepción acorde a las normas de la Ley, de este Reglamento Orgánico y a las contractuales y quien será responsable de su operación desde el término de la concesión.
+
+**Artículo 15°.- (Licitación pública obligatoria para nueva contratación de una concesión)**   
+La correspondiente licitación deberá efectuarse con la anticipación necesaria para asegurar la continuidad entre las concesiones y para el cabal cumplimiento de todos los requisitos que establecen la Ley y este Reglamento Orgánico en su licitación y contratación.
+
+**Artículo 16°.- (Otorgamiento o renovación indebida de una concesión, por falta de la debida licitación pública)**   
+Declárase la nulidad absoluta de la renovación de una concesión de obra pública de transporte que no sea licitada o contratada de acuerdo con la normativa de la Ley General de Concesiones de Obras Públicas de Transporte y del presente Reglamento Orgánico.
+
+**Artículo 17°.- (Responsabilidades administrativas, civiles y penales por el otorgamiento o renovación indebida de una concesión)**   
+La o las autoridades unipersonales y todos los integrantes de un órgano colectivo de la o las entidades públicas concedente que renovaren o participaren en la renovación de una concesión de obra pública de transporte en contravención de la disposición del Artículo 9 de la Ley, que obliga a su licitación pública y de las demás normativas y requisitos de forma y fondo obligatorios en su contratación, serán pasibles de las responsabilidades administrativas que implica la violación de una norma legal. Igualmente, se les podrá perseguir la responsabilidad civil por los daños y perjuicios que ese acto cause a la entidad pública concedente y la penal, que corresponda.
+  
+Cualquier persona podrá accionar ante la autoridad administrativa y judicial competente para hacer efectiva esas responsabilidades.
+
+## Título II Entes públicos competentes en las concesiones de obras públicas de transporte
+
+**Artículo 18°.- (Ente público competente para estas concesiones)**   
+Para licitar y contratar bajo el régimen jurídico de concesión de obra pública de transporte será competente el ente público de la Administración Nacional, Prefectural o Municipal o agrupaciones de ellos, a que corresponda la propiedad de dichas obras o a aquel al que según la legislación vigente este encomendada su tuición o administración.
+
+**Artículo 19°.- (Competencia propia del Ministerio de Desarrollo Económico para las concesiones de obras públicas de transporte)**   
+En la Administración Nacional, el único ente público legalmente habilitado para licitar y contratar concesiones de obras públicas de transporte es el Ministerio de Desarrollo Económico, a través del Viceministerio de Transporte, Comunicación y Aeronáutica Civil, con firma del Ministro de Hacienda y demás autorizaciones previas y formalidades que indica la Ley y el presente Reglamento Orgánico.
+  
+El Ministerio de Desarrollo Económico a través de Viceministerio de Transporte, Comunicación y Aeronáutica Civil podrá licitar y contratar toda obra, red o sistema públicos de transporte o una parte de ellas, que sea de su competencia directamente funcional y territorial o de las entidades o servicios de la Administración Central de su dependencia.
+
+**Artículo 20°.- (Competencia delegada al Ministerio de Desarrollo Económico para las concesiones de obras públicas de transporte)**   
+Mediante convenio de mandato al Viceministerio de Transporte, Comunicación y Aeronáutica Civil, este será competente para licitar y contratar toda obra singular, o una red de transporte o parte de ella, o varias obras del mismo tipo o similares, que sean susceptibles de otorgarse en concesión, mediante delegación que le otorgue una o más entidades públicas originalmente competentes, sean éstas de la Administración Nacional, una o más prefecturas, o una municipalidad o mancomunidad de ellas o agrupaciones de estos entes públicos.
+  
+Dicho convenio de mandato deberá expresar la delegación de la facultad de dar y contratar en concesión una obra, con pleno respeto a la normativa legal y reglamentaria aplicable, con clara indicación de:
+
+1. La obra de transporte y el servicio que presta, con una precisa delimitación física y funcional de su estado y de los objetivos en obra y niveles de servicio que deberán buscarse mediante la contratación por concesión;
+2. Los objetivos y principios técnicos, económicos y operacionales para la entrega en concesión de tales obras.
+3. Las responsabilidades que asume el ente público mandante, incluyendo expresamente los aportes económicos y garantías de tráfico mínimo para incluir en el contrato de concesión a título de pago o asignación, las garantías que otorga y los grados de riesgo que asume con su patrimonio propio.
+     
+   En dicho convenio se expresará cualquier otra materia, función o requisito que se delega para la concesión y las materias que correspondan a la obra u obras que se desea otorgar en concesión.
+
+**Artículo 21°.- (De la Dirección General de Concesiones de Obras Públicas de Transporte)**   
+Crease la Dirección General de Concesiones de Obras Públicas de Transporte del Ministerio de Desarrollo Economico, bajo la dependencia del Viceministro de Transportes, Comunicaciones y Aeronáutica Civil, de acuerdo al articulo 61 de la Ley General de Concesiones de Obras Públicas de Transporte N° 1874 y el presente Reglamento Orgánico. Cuya organización responderá a lo dispuesto por la Ley de Organización del Poder Ejecutivo y su Reglamento. La Direccion tendrá a su cargo la preparacion de los planes y programas nacionales de Concesión, su licitación, evaluación, contratacion y la relación con otros entes de la administracion del Estado, de las Prefecturas y de las Municipalidades.
+  
+La Dirección General de Concesiones de Obras Públicas de Transporte se encargará de los planes, programas, proyectos, investigaciones y estudios especificos de origen público y de los que se propongan por iniciativa privada; recomendando al Viceministro de Transporte, Comunicacion y Aeronautica Civil las obras a licitar; así como todas las demás facultades que la ley le asigna.
+  
+En la etapa de licitación sera la responsable de los estudios y actuaciones preliminares hasta la suscripcion del contrato. Desde el perfeccionamiento de cada contrato de concesión la Dirección General de Concesiones de Obras Públicas de Transporte, sera la contraparte que representara al estado en el desarrollo del contrato en la etapa de construcción. En la etapa de explotación será la Dirección General de Concesiones de Obras Públicas de Transporte la encargada de fiscalizar la parte tecnica de cada contrato, en cambio sera la Superintendencia de Transporte, la entidad que fiscalizara el cumplimiento de las obligaciones, Regimen Económico del contrato, el respeto de los derechos de la sociedad concesionaria y de los usuarios.
+  
+La maxima autoridad tecnico - operativa de la Direccion es el Director General de Concesiones de Obras Públicas de Transporte. En la Administración Nacional el Director General será nombrado mediante Resolución Ministerial. La Dirección General de Concesiones de Obras Públicas de Transporte estará conformada como mínimo por las siguientes Unidades Tecnico - Operativas:
+  
+- Unidad de Planificación e Impacto Territorial
+  
+- Unidad de Licitación y Evaluación Técnico - Economica
+  
+- Unidad de Ejecuccion, Construcción y Explotación de Obras por Concesión.
+  
+Los Jefes de Unidades son los responsables de la ejecución de las tareas técnicas y administrativas correspondientes a su Unidad y serán nombrados mediante Resolución Administrativa por el Viceministro de Transporte, Comunicación y Aeronáutica Civil.
+  
+En la Unidad de Planificación e Impacto Territorial habrá un Encargado del Registro Nacional de los Proyectos por Concesión, quien será el directo responsable de la elaboración, actualización y puesta a disposición de dicho Registro.
+  
+La Dirección General de Concesiones de Obras Públicas de Transporte, podrá requerir la adscripción, mediante solicitud formal y escrita ante el Viceministro de Transporte, Comunicación y Aeronáutica Civil, del personal técnico necesario para las distintas etapas de las concesiones; a las siguientes entidades Públicas:
+
+1. al Servicio Nacional de Caminos;
+2. a la Empresa Nacional de Ferrocarriles; u otra entidad a crearse para estos fines;
+3. a la Administración Autónoma de Servicios Auxiliares a la Navegación Aérea, y;
+4. al Servicio de Mejoramiento de la Navegación Amazónica, u otra entidad a crearse para estos fines.
+
+**Artículo 22°.- (Competencia de una Prefectura)**   
+Cada Prefectura será competente, en el ámbito de las decisiones de la administración central del estado, para licitar, otorgar y contratar en concesión toda obra pública de transporte que sea de su única y exclusiva atribución funcional y territorial, siempre que ella no esté sujeta, en todo o parte, a la competencia de cualquier otro órgano de la Administración Nacional o de una Municipalidad o Mancomunidad de estas y en completa concordancia con la Ley y el presente Reglamento Orgánico. Además, las Prefecturas deberán respetar en su funcionamiento lo dispuesto en el presente Reglamento Orgánico, conforme a lo dispuesto en el artículo N° 62 de la Ley, para regular la organización y funcionamiento de las Direcciones Departamentales de Concesiones de Obras Públicas de Transporte.
+  
+El Prefecto requerirá siempre de la aprobación previa del Consejo Departamental para decidir la licitación en concesión de una obra, aprobar las bases de licitación, otorgar la concesión y contratarla.
+  
+Su otorgamiento se perfeccionará mediante Resolución Prefectural, previa aprobación de la oferta y del texto preciso del contrato de concesión.
+  
+Del mismo modo, según lo expresamente autorizado y regulado por el artículo 5 de la Ley y él articulo 23 del presente Reglamento, las Prefecturas podrán delegar sus facultades al Viceministerio de Transporte, Comunicaciones y Aeronáutica Civil o a otra Prefectura y a participar en agrupaciones con una o más prefecturas debidamente autorizadas, Municipalidades o agrupaciones de unos y otros, para licitar en común una o más obras por concesión.
+
+**Artículo 23°.- (De las Direcciones Departamentales de concesiones de obras públicas de transporte)**   
+El Poder Ejecutivo mediante Decreto Supremo creará las Direcciones Departamentales de Concesiones de Obras Públicas de Transporte, siempre y cuando existan programas prioritarios de Obras Públicas de Transporte, sujetos de ser entregadas por concesión cuando así se justifique. Las mencionadas Direcciones Departamentales dentro de su exclusiva atribución funcional y de territorialidad, tendrán a su cargo la elaboración de los planes, programas, proyectos y estudios de Concesión de origen público o los que se propongan por la iniciativa privada. Las Empresas interesadas podrán presentar propuestas de iniciativa privada solo en aquellas prefecturas que hayan sido facultadas para crear sus respectivas Direcciones Departamentales de Concesiones de Obras Públicas de Transporte.
+  
+Será el Director Departamental de Concesiones de Obras Públicas de Transporte el que recomiende al Prefecto los proyectos a licitar. Las Direcciones Departamentales de Concesiones de Obras Públicas de Transporte deberán además asesorar al Prefecto y el Consejo Departamental, en la totalidad de los procesos de Concesión.
+  
+Para tal efecto, cada Prefectura deberá enviar una solicitud formal y escrita de creación de una Dirección Departamental de Concesiones de Obras Públicas de Transporte, dirigida al Presidente de la República a través del Ministro de la Presidencia, dicha solicitud deberá estar acompañada del Plan Departamental de Concesiones, con su o sus respectivos Programas y Proyectos, además de la estructura Organizativa que se propone para la mencionada Dirección. Los Planes de las Concesiones de Obras Públicas de Transporte en cada Departamento deberán ser remitidos a la Dirección General de Concesiones de Obras Públicas de Transporte. Será esta Dirección la que analice y evalué los Planes Departamentales para compatibilizarlos con los Planes Nacionales, emitiendo un informe al respecto.
+  
+Las Direcciones Departamentales de Concesiones de Obras Públicas de Transporte, desarrollaran los estudios, preparación de las licitaciones y contrataciones de obras por concesión y representará a la Prefectura en la etapa de construcción. En la etapa de explotación será la Dirección Departamental de Concesiones de Obras Públicas de Transporte la encargada de fiscalizar la parte tecnica de cada contrato, en cambio sera la Superintendencia de Transporte, la entidad que fiscalizara el cumplimiento de las obligaciones, Regimen Económico del contrato, el respeto de los derechos de la sociedad concesionaria y de los usuarios.
+
+**Artículo 24°.- (Concesiones de obras públicas de transporte para agrupación de Prefecturas)**   
+La agrupación de dos o más prefecturas, podrá licitar, otorgar y contratar en concesión toda obra pública de transporte que sea de su exclusiva competencia funcional y territorial conjunta, siempre que no estén sujetas, en todo o parte, a la competencia de cualquier otro órgano de la Administración Nacional o Municipal. Además, podrán pactar el otorgamiento y contratación de esas concesiones con otras Prefecturas, Municipalidades y Mancomunidades de Municipalidades de modo conjunto o separado, siempre y cuando las Prefecturas cumplan con los artículos 22 y 23 del presente Reglamento Orgánico.
+  
+Previo a la licitación las prefecturas involucradas deberán suscribir un acuerdo que regule los procedimientos y contenidos de la concesión que se desea licitar y contratar así como indicar los aportes, garantías y demás responsabilidades que asume cada una de las prefecturas involucradas y el mandato a una de ellas para que la licite.
+  
+En las bases de licitación deberá definirse precisamente las funciones de inspección de la concesión y sus atribuciones así como la autoridad que representará al o a las entidades públicas concedentes y los sistemas administrativos de reclamación de sus decisiones que serán aplicables. De todo ello se dejará constancia en el contrato de concesión.
+
+**Artículo 25°.- (Competencia de las municipalidades para concesiones de obras públicas de transporte)**   
+Cada municipalidad será competente en relación con toda obra pública de transporte de su exclusiva competencia funcional y territorial, siempre que no esté sujeta, en todo o parte, a la competencia de algún órgano de la Administración Nacional o de una prefectura. Además, la Municipalidad se hará competente para licitar, contratar y supervisar las obras que convenga con otras Municipalidades, agrupaciones de ellas o con prefecturas o agrupaciones de ellas según lo dispuesto en los artículos 22 y 23 del presente reglamento.
+  
+Las Municipalidades podrán delegar al Viceministerio, la licitación, contratación y desarrollo por concesión de obras públicas de transporte de su exclusiva competencia funcional y de territorialidad, previa aprobación de un Convenio Mandato entre el Viceministerio y la Municipalidad o Mancomunidad de ellas. El mencionado Convenio deberá ser un acuerdo en el cual las dos partes aseguran el cumplimiento con las disposiciones de la [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html), el presente Reglamento y que los costos incurridos en el proceso de concesión por el Viceministerio, serán reembolsados por la Municipalidad o Mancomunidad de ellas, según corresponda.
+  
+En las bases de licitación deberá definirse precisamente las funciones de inspección de la concesión y sus atribuciones así como la autoridad que representará a la entidad pública concedente. De todo ello se dejará constancia en el contrato de concesión.
+
+**Artículo 26°.- (Competencia de una mancomunidad de municipalidades para concesiones obras públicas de transporte)**   
+Una Mancomunidad de Municipalidades podrá licitar, otorgar y contratar en concesión toda obra pública de transporte que sea de su exclusiva competencia funcional y territorial conjunta, siempre que no esté sujeta, en todo o parte, a la competencia de otro órgano de la administración nacional o de una prefectura o prefecturas.
+  
+En las bases de licitación deberá definirse precisamente las funciones de inspección de la concesión y sus atribuciones así como la autoridad que representará a las entidades públicas concedentes. De todo ello se dejará constancia en el contrato de concesión.
+
+**Artículo 27°.- (Competencia de las municipalidades, mancomunidades de ellas y Prefecturas para concesiones)**   
+Uno o varias Municipalidades o una o varias Mancomunidades Municipales y una o más Prefecturas podrán licitar, otorgar y contratar en concesión toda obra pública de transporte que sea de la exclusiva competencia funcional y territorial de las prefecturas, municipalidades y mancomunidad de estas que sean competentes funcional y territorialmente, siempre que no estén sujetas, en todo o parte, a la competencia de cualquier órgano de la Administración Nacional o de otra prefectura o Municipalidad.
+  
+Cuando en las agrupaciones de dichos entes concedentes, una prefectura asociada en cuyo territorio se vaya a licitar, contratar y otorgar una concesión, deberá obligatoriamente cumplir con los artículos 22 y 23 del presente Reglamento.
+
+**Artículo 28°.- (Obligaciones y contenido de las concesiones licitadas por las entidades públicas legalmente habilitadas para ser concedentes o por agrupaciones de ellas)**   
+Todas las concesiones de obras públicas de transporte otorgadas por las entidades públicas legalmente habilitadas para ser concedentes o por agrupaciones de ellas se regirán siempre y en su totalidad por la normativa de la Ley y del presente Reglamento Orgánico, tanto en los procedimientos como en las facultades, derechos y obligaciones que emanan de la concesión.
+  
+Cada uno de los entes públicos que participan en una licitación y contrato de concesión de obra pública de transporte efectuada por varios de ellos, para el perfeccionamiento y constancia de la participación, derechos, obligaciones y garantías que asume debe firmar el contrato de la respectiva concesión, insertando en él las resoluciones que lo autorizan.
+  
+En las bases de licitación debe definirse precisamente las funciones de inspección de la concesión y sus atribuciones así como la autoridad que representará a las entidades públicas concedentes. De todo ello se dejará constancia en el contrato de concesión.
+  
+La publicación de los avisos que convocan a Preselección, o a la licitación de una concesión se publicarán de acuerdo a lo establecido en él articulo 13 de la [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html).
+
+**Artículo 29°.- (Organismos públicos de control de las concesiones)**   
+El desarrollo y cumplimiento de las concesiones que otorguen y contraten los entes públicos serán controlados y fiscalizados por la entidad o entidades públicas concedentes, mediante la inspección de la concesión que se individualice en las bases de licitación y contrato de concesión y por la Superintendencia de Transportes; con arreglo a las disposiciones de la Ley, demás normativas legales y reglamentarias aplicables.
+
+**Artículo 30°.- (Representación del ente público concedente)**   
+Sin perjuicio de la representación legal que establecen las leyes orgánicas para el Viceministro de Transporte, Comunicación y Aeronáutica Civil, Prefecto, o Alcalde, cada entidad pública concedente por competencia propia, delegada o convenida en caso de acuerdo de varios organismos concedentes, su representación operativa como ente concedente se hará por:
+
+1. El Director General de Concesiones del Viceministerio, el Director Departamental de Concesiones de la Prefectura, o por el directivo nominado por la Municipalidad o Mancomunidad de Municipalidades, deberá ser un profesional universitario con titulo en Provisión Nacional y con por lo menos, 5 años de ejercicio en la profesión, y tendrá las facultades y obligaciones que le otorgan la Ley, este Reglamento y las que consten de las bases de licitación y contrato de concesión.
+2. El Inspector fiscal de la Concesión, profesional universitario con Titulo en Provisión Nacional y con experiencia en el área, con al menos 3 años del ejercicio de la profesión, que será nombrado para cada fase del contrato por el Viceministro, Prefecto, o Alcalde, según corresponda, de entre una terna que deberá proponerle el funcionario designado en el inciso a) precedente.
+     
+   Toda comunicación y relación entre el concesionario y la entidad pública concedente se canalizará a través del Director o funcionario directivo que lo represente o por el inspector fiscal de la concesión, sin perjuicio de las instancias de apelación establecidas en la Ley, el presente Reglamento o en las bases de licitación y contrato de concesión correspondiente.
+
+**Artículo 31°.- (Facultades de la respectiva Dirección General, Departamental o Municipal de concesiones)**   
+El Director General de Concesiones del Viceministerio, de la prefectura o de una Municipalidad o de las agrupaciones de entes públicos mixtos, según corresponda, tendrá el carácter de representante legal del ente concedente, para todos los efectos legales y contractuales y será la autoridad dotado de las más amplias facultades relacionadas con el régimen jurídico, económico, técnico y operativo de la concesión y de las atribuciones específicas que se le confíen en su nombramiento, sin perjuicio de las atribuciones de los entes directivos superiores y de los recursos que procedan en contra de sus resoluciones.
+
+**Artículo 32°.- (Facultades del Inspector Fiscal de la Concesión)**   
+Durante la vigencia del contrato, el inspector fiscal de la concesión tendrá las facultades de inspección y de representación del ente concedente en las materias técnicas, económicas, de seguridad y operativas que resultan de la Ley, del presente Reglamento Orgánico y de lo dispuesto en las bases de licitación, de las cuales se dejará constancia en el contrato de concesión.
+  
+Dependerá directamente del Director a través del Jefe de Unidad correspondiente, en todas las materias derivadas del régimen concesional, sin perjuicio de vincularse con las autoridades técnicas nacionales, departamentales o Municipales en las materias que correspondan según el tipo de obra sobre la que recae la concesión. El inspector fiscal de la concesión responderá siempre de conformidad a la Ley SAFCO.
+  
+La inspección de la concesión deberá contar con una Asesoría de Inspección Técnica de las Obras (AITO) que podrá ser proporcionada por técnicos adscritos de entidades Públicas, una empresa o un consorcio de ellas, contratada mediante licitación pública de acuerdo a las normas de la contratación de consultoria aplicable al ente público concedente.
+
+**Artículo 33°.- (Derechos judiciales de reclamación)**   
+Sin perjuicio de lo anterior, contra todo acto o resolución que haya sido adoptado con violación de las normas legales generales, de la Ley o actos arbitrarios por cualquier autoridad, funcionario, servicio u organización del Viceministerio, Prefectura, Municipalidad o agrupaciones de ellos y de la Superintendencia de Transportes procederán los recursos de Revocatoria, jerárquico y de Impugnación Judicial o ante la Corte Suprema que establecen las leyes generales, la de concesiones de obras públicas de transporte y la del Sistema de Regulación Sectorial, según el caso.
+
+## Título III De los estudios y licitación de concesiones originadas en el ente público concedente
+
+**Artículo 34°.- (Estudios de una concesión)**   
+El ente público competente podrá efectuar por si o contratar con terceros los estudios, e investigaciones que se requieran para evaluar y decidir, por la autoridad competente, la licitación pública y contratación de una obra bajo el régimen de concesión de obra pública de transporte de acuerdo al articulo 9 de la [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html).
+
+## Título IV Propuestas de origen privado para licitar obras por concesión
+
+**Artículo 35°.- (Inadmisibilidad de proposición de iniciativa privada para una concesión de obra pública de transporte)**   
+Desde que el ente público competente hubiere expresamente reservado para sí el estudio de una obra, red o de un sistema de ellas como obras a ejecutar por ese organismo o por concesión de obras Públicas de transporte, no serán admisibles las iniciativas privadas para su estudio y licitación.
+
+**Artículo 36°.- (Del registro de iniciativas privadas de cada ente concedente)**   
+Todos los entes públicos habilitados para ser concedentes según la [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html) y el presente Reglamento Orgánico, deberán llevar un Registro Público de los proyectos por concesión que ya estén reservadas al estudio y desarrollo por los entes públicos competentes o las ya presentadas como iniciativa privada, que se encuentren en trámite o aprobadas para su licitación, con el objeto de evitar los gastos y costos en que incurra para el estudio por privados de esas mismas iniciativas u similares, que resulten incompatibles técnica o económicamente.
+  
+Las entidades públicas competentes deberán poner a disposición de los interesados un Registro público fidedigno de todos los proyectos seleccionados aprobados o preaprobados para su ejecución y explotación por el sistema de concesión o para su desarrollo inminente como obra pública. Dicho Registro deberá actualizarse en él ultimo día de los meses de enero, abril, julio y octubre de cada año.
+  
+La Recepción de las Iniciativas Privadas para proyectos de concesión en cada Entidad Pública Concedente, se realizará a partir de las 10:00 A.M del segundo lunes de Enero hasta las 6:30 P.M del ultimo día hábil de Septiembre de cada año, esta ultima fecha es considerada como limite máximo y plazo fatal.
+  
+La omisión del registro oportuno de una idea o proyecto que inhabilite su presentación ulterior por privados, originará responsabilidad administrativa grave en el responsable de ello, pero en ningún caso dará derecho a los particulares para solicitar algún tipo de indemnización o compensación del ente público concedente.
+  
+Toda la información referente a concesiones otorgadas y en licitación de las prefecturas y municipalidades deberá ser remitida a la Dirección General de Concesiones dependiente del Viceministerio de Transporte, Comunicación y Aeronáutica para fines estadísticos y de información, en los meses de enero, abril, julio y octubre de cada año.
+
+**Artículo 37°.- (Proyectos de iniciativa privada)**   
+Según lo dispuesto en el artículo 8 de la Ley, sólo las empresas legalmente constituidas o agrupaciones de ellas podrán presentar a la entidad pública que sea competente para licitar y contratar por concesión propuestas referidas a la construcción de obras públicas de transporte nuevas o de aquellas que signifiquen un mejoramiento sustancial de una o más obras ya existentes, para su ejecución y explotación temporal mediante el sistema de concesión, destinados a cualquier modo de transporte, sea este carretero, ferroviario, aéreo, fluvial o lacustre, u otros, dando cumplimiento a las exigencias establecidas por la referida norma legal y las que en este Reglamento se establecen.
+  
+Estas propuestas se presentarán en la Oficinas del ente público competente, en la cual se dejará constancia del día y hora de presentación, tanto en el registro especial que cada entidad pública deberá llevar de ellas como en cada copia de la propuesta, incluida una que permanecerá en poder de la empresa que la presente.
+
+**Artículo 38°.- (Improcedencia de proyectos de iniciativa privada)**   
+Las propuestas, al momento de la presentación, no deben estar consideradas en el programa nacional, departamental o municipal de concesiones de obras públicas de transporte, según corresponda, a ser ejecutadas por iniciativa de la entidad pública concedente, ni formar parte de aquellas ideas o proyectos que estén reservados expresamente para su estudio por la entidad publica concedente o formuladas por otro u otros particulares.
+  
+Se entenderá que una propuesta de proyecto de Concesión por Iniciativa Privada es la misma, no sólo ante proyectos idénticos, sino cuando una propuesta posterior coincide con el trazado físico de un proyecto u obra anterior o cuando, aún sin coincidir físicamente se hace económicamente inviable la concesión de una de ellas o de ambas.
+  
+La misma causal de improcedencia se aplicará cuando la propuesta afecte de igual modo a una concesión ya contratada o que se encuentra en proceso de licitación.
+  
+Si así fuera, la propuesta de iniciativa privada posterior será rechazada de pleno por el ente público competente.
+
+**Artículo 39°.- (Competencia para decidir sobre inadmisibilidad o improcedencia de proyectos de iniciativa privada)**   
+Para que el ente público competente adopte la resolución preliminar acerca de sí una idea presentada es la misma que otra anterior o si la nueva impide o inviabiliza la ejecución de otra concesión ya contratada, licitada, en licitación o en fase de estudio será competente el Director.
+  
+De sus decisiones se podrá interponer un recurso de revocatoria ante él mismo. En caso de no acogerse la revocatoria se podrá recurrir por la vía jerárquica administrativa ante el Viceministro, Prefecto o Alcalde, según corresponda, cuya decisión sólo podrá ser recurrida por el Proponente ante la Excma. Corte Suprema de Justicia, según lo establece el Artículo 8 de la Ley. El procedimiento de estos recursos se sujetará a las disposiciones del [Decreto Supremo Nº 24505](https://www.lexivox.org//norms/BO-DS-24505.html).
+
+**Artículo 40°.- (Fases de presentación y decisión de proyectos de iniciativa privada)**   
+Con el objeto de ahorrar costos y tiempo a los entes públicos y a los mismos particulares, el procedimiento que se establece para la presentación y desarrollo de estas propuestas, comprende dos etapas:
+
+1. Presentación preliminar
+2. Evaluación y Aprobación del proyecto de Concesión por iniciativa privada.
+
+**Artículo 41°.- (Contenido de la presentación preliminar del proyecto de iniciativa privada)**   
+La presentación preliminar de la propuesta del proyecto de iniciativa privada contendrá, a lo menos y en el orden señalado, los siguientes antecedentes:
+
+1. Razón social de la Empresa, domicilio, teléfono, fax y representante legal.
+2. Antecedentes que acrediten la existencia legal de la empresa y las facultades de representación de sus mandatarios. Cuando se presente por un grupo de ellas, se deberá acompañar los antecedentes de cada una de las sociedades.
+3. Registro Unico de Contribuyentes de la o las empresas.
+4. Nombre y tipo de proyecto.
+5. Ubicación geográfica y área de Influencia.
+6. Estudios de tráfico, incluyendo estimación de demandas y su tasa de crecimiento anual indicando el porcentaje de varianza esperada.
+7. Descripción de los terrenos en los que se ejecutará la obra, derecho propietario de los mismos y necesidad de expropiación si hubiere.
+8. Descripción de las obras y del servicio que se prestaría en concesión, incluyendo un diseño preliminar.
+   1. Perfil o ficha ambiental.
+9. Inversión estimada y costos de operación, incluyendo el porcentaje de varianza esperada en cada caso.
+10. Análisis financiero en el nivel de perfil.
+    1. Evaluación económica de su rentabilidad privada y social, en el nivel de perfil, incluyendo las alternativas no tarifarias que pueda tener el servicio propuesto.
+11. Riesgos asociados a la iniciativa privada, entendido éste como la conflictividad, incompatibilidad, complementariedad o competitividad con los proyectos actualmente en estudio o ejecución por la entidad pública concedente.
+12. Condiciones económicas tales como nivel tarifario, plazo de la concesión, pagos al Fisco.
+13. Anexos: todo otro antecedente del proyecto que el proponente considere útil o necesario para su evaluación.
+      
+    En los casos en que la presentación preliminar de la propuesta del proyecto de iniciativa privada no contemple asignaciones u aportes de la Administración Central del Estado, Prefecturas o Municipalidades, según corresponda, de ser aprobada la misma, deberá mantenerse sin consignación de aportes públicos en toda la fase de elaboración de los estudios por el Proponente, licitación y adjudicación del contrato de Concesión.
+      
+    En los casos en que en la presentación preliminar de la propuesta del proyecto de iniciativa privada se contemplen niveles de asignaciones y/o aporte requeridos del Estado, Prefecturas o Municipalidades, según corresponda, con el fin de que dichos aportes del Estado, Prefecturas o Municipalidades, según corresponda, mejoren la viabilidad del proyecto de concesión, la calificación de la procedencia de dicha propuesta y su eventual declaración de interés público estará sujeto a lo dispuesto por el segundo párrafo del articulo 44 del presente reglamento Orgánico.
+      
+    Cada uno de los antecedentes citados en los incisos anteriores deberá estar debidamente respaldado y fundamentado, indicando las fuentes de información utilizadas.
+      
+    La documentación requerida en los incisos precedentes de este artículo, se entregará en un original y dos copias.
+
+**Artículo 42°.- (Comunicación del ente público al proponente o postulante)**   
+Toda comunicación o notificación al proponente será dirigida al domicilio indicado por éste mediante carta certificada, fax o cualquier otro medio que permita dejar constancia fehaciente de su envío y recepción.
+
+**Artículo 43°.- (Casos de competencia compartida para una concesión)**   
+Cuando la presentación preliminar e inicial de una idea de concesión de obra pública de transporte incluya una o más partes, o el todo, de una obra que se radica en la competencia de otro ente público competente el que la recibe podrá condicionar toda la tramitación inicial y el desarrollo de la licitación y contratación a la autorización previa de aquel y en su caso, a que dicho ente confiera el convenio de mandato respectivo.
+  
+En este evento el ente público ante el que se presenta la iniciativa privada podrá solicitar las autorizaciones y el respectivo convenio directamente o bien, condicionar la tramitación de la presentación o la licitación, a que la empresa interesada obtenga previamente dicha autorización o convenio, dentro de un plazo de 120 días.
+  
+En los casos de que se aprobaré una idea de iniciativa privada inicial o el proyecto final, el ente público no estará obligado a los plazos legales y reglamentarios para su licitación, si la empresa que la presenta no obtiene la autorización o el convenio de mandato respectivo, suficientes para ello.
+
+**Artículo 44°.- (Calificación de la procedencia del estudio y de su eventual interés público)**   
+La Dirección, en el plazo máximo de 75 días, analizará y evaluará la documentación formal presentada por el proponente y elevará un informe al Viceministro, Prefecto o Alcalde según corresponda, en el que se pronunciará sobre su admisibilidad a estudio y en caso afirmativo recomendará su aprobación, o rechazo, en función del interés público que pueda revestir el proyecto de iniciativa privada presentado.
+  
+Si la presentación preliminar de la propuesta del proyecto de iniciativa privada requiere de aportes o asignaciones de parte de la Administración Central del Estado, la Dirección General de Concesiones de Obras Públicas de Transporte deberá recibir autorización expresa de aprobación o rechazo, mediante carta firmada por el Ministro de Hacienda, en la que:
+
+1. Se autoriza la aprobación preliminar de la propuesta del Proyecto de Iniciativa Privada con el fin de continuar con el proceso para la entrega del total de los estudios requeridos en el articulo 8 inciso 2 de la Ley.
+2. Se rechaza la propuesta del proyecto de iniciativa privada, cuya justificación está basada en la falta de disponibilidad de fondos público para cumplir con los aportes y/o asignaciones requeridos como contribución del Estado al Proyecto. En este caso, la Dirección podrá sugerir al proponente privado, modificar su propuesta hasta el nivel en que no sea necesario asignaciones y/o aportes del Estado al Proyecto.
+     
+   En cambio, en las Prefecturas o Municipalidades, La Dirección encargada de las Concesiones deberá pedir informe y evaluación, a los encargados de su Presupuesto y Finanzas, de la disponibilidad de recursos para los aportes y asignaciones requeridos.
+
+**Artículo 45°.- (Comunicación de la procedencia del estudio)**   
+En el plazo máximo de 90 días, contados desde la recepción formal de la propuesta por iniciativa privada, la entidad concedente comunicará al proponente el resultado de la evaluación, mediante Oficio remitido por carta certificada, con el debido fundamento del motivo de la aceptación preliminar o rechazo de su declaratoria de interés público.
+  
+De ser negativa la respuesta, el proponente podrá solicitar la devolución de la documentación presentada.
+  
+De ser positiva, la Dirección comunicará al proponente la declaratoria inicial de interés público y en el mismo acto, solicitará la entrega de los estudios señalados en él articulo 8 de la Ley y definirá precisamente el nivel exigible para su desarrollo de acuerdo a lo que dicha norma requiera y atendida la naturaleza de la obra que se propone, fijándole un plazo máximo de hasta 200 días, contados desde la expedición de dicha carta certificada.
+  
+Además, en la carta certificada se establecerá claramente que la Dirección estima que la propuesta preliminar reviste de interés público, pero que el derecho que se licite y contrate por concesión solo se consolidará si los estudios requeridos por él articulo 8, inciso 2 de la Ley, confirman ese interés público y la factibilidad de su licitación por concesión. En consecuencia, la petición de entrega de la documentación del proyecto se requiere para su conocimiento y análisis detallado, el que se efectuará sin responsabilidad posterior del ente público concedente ya que no se reconoce aun al proponente privilegio alguno en la licitación ni los derechos adicionales que establece el Art. 8 de la Ley.
+
+**Artículo 46°.- (Segunda etapa: presentación del proyecto de iniciativa privada)**   
+El proponente deberá entregar el total de los estudios requeridos en el Art. 8, inciso 2, de la Ley dentro del plazo señalado en la carta certificada. Podrá solicitar aumentos de dicho plazo, previa aprobación por escrito del Viceministro de Transporte, Comunicación y Aeronáutica Civil, Prefecto o Alcalde, según corresponda, en el cual se indicará expresamente el aumento de plazo concedido. El plazo ampliatorio se computará desde la expedición de la carta de que concede dicha prorroga.
+  
+Junto a su presentación el proponente hará conocer los gastos en que hubiere incurrido para formular su propuesta, monto que será revisado por la entidad pública receptora de acuerdo a las normas del artículo 52 de este Reglamento.
+  
+La entrega deberá realizarse en la misma Oficina y con los mismos requisitos, formalidades y constancias previstos en el párrafo segundo del Artículo 37 de este Reglamento.
+
+**Artículo 47°.- (Caducidad de la presentación preliminar de iniciativa privada)**   
+De no entregarse los estudios requeridos en el tiempo que se le fije inicialmente para ello o en el de la ampliación que se le concediese o si ella no cumple cabalmente los requisitos de forma en su presentación o los que corresponden a los contenidos sustantivos solicitados, caducará totalmente la presentación efectuada, sin que se consolide ningún derecho en favor del proponente.
+
+**Artículo 48°.- (De la evaluación y aprobación formal del proyecto)**   
+Dentro de los 90 días siguientes a la recepción de la documentación regulada en el artículo anterior, la Dirección estudiará y evaluará los estudios presentados para determinar su factibilidad y viabilidad legal, técnica, ambiental y económica.
+  
+Cuando a juicio de la entidad concedente se requieran estudios adicionales o complementarios, ellos están facultados para solicitar al proponente la realización y presentación correspondiente.
+  
+Al término de la evaluación, la Dirección concedente, deberá elaborar un informe técnico integral fundado, con la recomendación de aprobación o rechazo del Proyecto de Iniciativa Privada para que el o los entes públicos competentes lo aprueben o rechacen, según corresponda.
+
+**Artículo 49°.- (Rechazo del proyecto de iniciativa privada)**   
+Si el ente público rechaza el proyecto, enviará un oficio de notificación con fundamento suficiente acerca del o de los motivos de dicho rechazo, el que deberá cumplir con los mismos requisitos y formas establecidos en el Artículo 37 de este Reglamento. A petición del proponente se le deberá devolver la documentación por él presentada.
+  
+Sin embargo, si la idea rechazada fuese licitada por concesión o por otro sistema, dentro de los 3 años de la comunicación de su rechazo, el concesionario o el ente público que lo licite o ejecute directamente deberá dar cumplimiento al pago establecido en la letra d) del Artículo 8° de la Ley.
+
+**Artículo 50°.- (Aprobación del proyecto de iniciativa privada)**   
+Al aprobarse el proyecto, el ente público se obliga a su licitación pública dentro del plazo máximo de un año contado desde esa fecha, según lo establecido en el párrafo segundo del artículo 8 de la Ley, salvo los casos en que se encontrare pendiente la autorización o convenio que lo faculte para ello otorgado por él o los otros entes públicos competentes, en cuyo evento los plazos legales y reglamentarios sólo comenzarán a correr desde que se suscriba el correspondiente convenio de mandato, según lo dispuesto en el Artículo 43 párrafo final del presente Reglamento.
+  
+El Director notificará del hecho de la aprobación de la idea y proyecto de concesión y de la consolidación de los derechos que la ley reconoce al proponente, incluido el costo que el ente público ha determinado para dichos estudios. La notificación se efectuará con los contenidos y formas prescritos en el Artículo 36 de este Reglamento.
+  
+Desde la aprobación formal de la idea y del proyecto de iniciativa privada el ente público se hace dueño del proyecto y encargará a la respectiva Dirección de Concesiones o a los organismos técnicos especializados elaborar por si o por terceros el Estudio de Negocio de la Concesión, las bases de licitación y documentación de respaldo para su licitación pública y contratación por concesión.
+  
+Como contrapartida el proponente, por el solo imperio de la ley, recibe los derechos que el Artículo 8° de la Ley le otorga y que se regulan en los siguientes artículos.
+
+**Artículo 51°.- (Premio por la aprobación de la propuesta de iniciativa privada)**   
+El proponente cuyo proyecto de iniciativa privada ha sido aprobado se hace acreedor, al evaluarse su oferta económica en la licitación a que diere lugar, a un premio del 10% en el puntaje total establecido para la calificación de las ofertas económicas, según la forma en que dicha oferta se materialice acorde a las normas de este Reglamento y a las específicas que fijen las bases de licitación.
+  
+Dicho porcentaje deberá siempre ser real, cualquiera que sean las variables de adjudicación seleccionadas. En caso de no cumplirse este requisito el proponente podrá solicitar reconsideración al Viceministro, Prefecto o Alcalde, suspendiéndose la licitación mientras éste resuelve, en un plazo que no podrá exceder de 15 días desde la presentación del recurso. Además, el proponente podrá ejercer sucesivamente, el derecho de reclamo ante la Excma Corte Suprema.
+  
+Este premio, como derecho adquirido por el proponente, debe constar en los procesos de publicidad de la licitación, en la preselección y en las bases de licitación para conocimiento de todos los oferentes interesados en participar en la licitación pública correspondiente.
+
+**Artículo 52°.- (Costo de los estudios y su reembolso al proponente)**   
+El proponente junto con la entrega de los documentos a que se refiere el Artículo 46 de este Reglamento, acompañará un presupuesto de costos en que ha incurrido directamente y entregará copia de la documentación de respaldo de los que fuesen contratados a terceros.
+  
+La Dirección procederá a verificarlos a criterio de mercado, pudiendo aceptarlos, en su todo o parte, según la calidad y nivel de desarrollo de ellos o establecerá un monto que se definirá por el ente público concedente con criterios de mercado, el que en ningún caso podrá ser superior al indicado por el proponente.
+  
+La determinación del valor a ser reembolsado, sea que la Dirección apruebe el propuesto o uno alternativo, no dará lugar para la interposición de ulterior recurso administrativo, siendo sólo admisible el derecho de reclamo ante la Excma. Corte Suprema.
+  
+Desde que quede establecido por la Dirección, el monto determinado, se le reajustará el valor desde esta fecha hasta la de su pago efectivo, siempre y cuando el monto determinado sea en Moneda Nacional sin mantenimiento de valor.
+  
+El valor de reembolso debe ser incluido en las bases de la licitación y de preselección, si la hubiere, para conocimiento de los demás interesados u oferentes.
+
+**Artículo 53°.- (Pago de los costos de los estudios al proponente)**   
+El valor de reembolso de los costos de los estudios que se reajustará con mantenimiento de valor hasta la fecha de su pago efectivo será de cargo del futuro concesionario, en la forma y plazos que se establezca en las bases de licitación, el que en ningún caso podrá exceder de 90 días desde la publicación de la Resolución de Adjudicación.
+  
+Sin embargo, cuando el proponente individualmente, integrado en un grupo oferente o como cedente de su derecho resulte adjudicatario de la concesión, el pago se reputará efectuado por el sólo hecho de la adjudicación.
+  
+Si el valor de reembolso debe ser pagado por el futuro concesionario, la sociedad concesionaria deberá suscribir un instrumento ejecutivo de reconocimiento de la deuda en que conste el plazo para su pago o bien deberá hacer constar el pago antes de la firma del contrato de concesión, según lo establezcan las bases de licitación.
+
+**Artículo 54°.- (Plazos máximos para la licitación pública de proyectos de iniciativa privada)**   
+El respectivo ente concedente deberá establecer el plazo para el inicio de la licitación pública de cada Proyecto de Concesión de Obra Pública de Transporte originado en una iniciativa privada que cuente con la debida aprobación, atendidas sus características y particularidades, dentro del plazo máximo de un año, de acuerdo a lo establecido en el párrafo segundo del articulo 8 de la Ley.
+  
+En el oficio en que se comunica la aceptación de una idea y proyecto, según el tipo de obra, se establecerá el plazo máximo estimado para el inicio de su licitación pública.
+
+## Título V Licitación y evaluación
+
+**Artículo 55°.- (Preselección para licitación de proyectos de concesión)**   
+Previo al llamado a licitación pública nacional o internacional de un proyecto o de un conjunto de proyectos, el ente público concedente podrá efectuar una convocatoria a preselección de interesados, cuando a su juicio la obra u obras revistan especiales características de complejidad, magnitud o costo o bien, dicho procedimiento simplifique o anticipe la licitación.
+  
+La Preselección podrá utilizarse tanto en proyectos de iniciativa pública como en aquellos de iniciativa privada a que se refiere el Título IV del presente Reglamento. En este último caso, el proponente de la idea y proyecto que se licita quedará inscrito en el registro de pleno derecho, según lo dispuesto en el Artículo 8 inciso a) de la Ley. Sin embargo, acompañará sus antecedentes jurídicos, económicos y financieros, sólo para constancia, ya que ningún requisito colocado en las bases de Preselección o de licitación puede obstaculizar a su participación en dichos concursos de conformidad a la disposición legal citada.
+  
+La convocatoria pública de una Preselección, nacional o internacional, deberá ser divulgada con las mismas formalidades de convocatoria previstas para una licitación, siéndole aplicables las exigencias contenidas en el Artículo 13 de la Ley y del artículo 57 de este Reglamento. Por ello, al licitarse una obra para la cual se ha efectuado preselección de interesados, no será requisito el aviso de ella, sino la constancia de la notificación por carta certificada a todos los preseleccionados, con lo que se entenderá ya efectuada la convocatoria pública que exige la Ley.
+  
+La ausencia de convocatoria pública o el incumplimiento de los requisitos de número y contenido exigidos por la Ley, vicia de nulidad absoluta la Preselección de interesados a que hubiese dado lugar.
+  
+Una vez realizada la Preselección el ente público concedente podrá desistir de la licitación del proyecto sin reconocer derecho alguno para los preseleccionados. El desistimiento en la licitación deberá ser notificada mediante carta certificada a cada uno de los preseleccionados, debiendo llevar la firma del Viceministro de Transporte, Comunicación y Aeronáutica Civil, Prefecto o Alcalde, según corresponda.
+  
+Cuando el ente publico concedente desista de la licitación de un proyecto generado por iniciativa privada, al proponente privado del proyecto le corresponderá los derechos establecidos en los inciso c) o d) del articulo 8 de la Ley.
+
+**Artículo 56°.- (Calificación de interesados en licitar)**   
+La Comisión establecida en el artículo 68 de este Reglamento, recibirá y calificará los antecedentes de los interesados en ser preseleccionados. Directamente rechazarán, sin admitir a trámite, las presentaciones que no contengan todos los antecedentes requeridos por las bases de dicha preselección.
+  
+Dicha Comisión actuará en ellas, con facultades para proponer la calificación o rechazo fundado de los interesados según los antecedentes presentados, cumplan o no con los requisitos establecidos en las bases de dicha Preselección en los aspectos jurídicos, de capacidad económica o financiera, técnica, y aptitud o experiencia que se exija acreditar.
+  
+Esta Comisión recomendará al Viceministro, Prefecto o Alcalde, según corresponda, la aprobación o el rechazo fundamentado de los interesados que presentaron su documentación completa.
+
+**Artículo 57°.- (Convocatoria a licitación)**   
+La convocatoria a licitación pública, establecida en el artículo 13 de la Ley, es el acto obligatorio por el cual el Viceministerio, las Prefecturas o las Municipalidades según corresponda, a través de la Dirección, invita a los interesados para que, sujetándose a las bases de licitación presenten ofertas para la concesión de un proyecto o conjunto de proyectos a contratar por concesión de obra pública de transporte, sea su iniciativa de origen público o privado.
+  
+La convocatoria contendrá, por lo menos, la identificación del o de los entes públicos convocantes; la materia u objeto de la concesión principal de la obra por concesión; el precio de venta de las bases de licitación, el lugar para el retiro de éstas y la fecha, hora y lugar de entrega de las ofertas técnicas y económicas.
+  
+El plazo fijado para el retiro de bases en ningún caso podrá ser inferior a 30 días y el de la entrega de las ofertas, no será menor a 90 días en las licitaciones públicas nacionales y de 120 días tratándose de convocatoria internacional, todos ellos contados desde la última publicación en la prensa, según lo dispuesto en el artículo 13 de la Ley y en este Reglamento.
+  
+Las convocatorias nacionales, serán publicadas a lo menos 3 veces en un lapso no mayor a 30 días, como mínimo en dos diarios de amplia circulación nacional y en un diario de difusión regional o local dentro del área de influencia del proyecto de concesión a desarrollar.
+  
+Las convocatorias internacionales serán publicadas, como mínimo 5 veces en un lapso no mayor a 30 días y por lo menos, en dos diarios de circulación nacional. Además, se deberá incluir avisos de convocatoria por lo menos en una revista internacional especializada o en boletines de circulación internacional. Podrá incluir la intervención de las Embajadas acreditadas en el país y las Embajadas bolivianas acreditadas en el exterior, a través del Ministerio de Relaciones Exteriores y Culto para que puedan difundir la convocatoria internacional entre los interesados.
+
+**Artículo 58°.- (De los oferentes)**   
+En las preselecciones y licitaciones de que trata la Ley y el presente Reglamento, podrán participar todas las personas naturales o jurídicas nacionales y extranjeras, consideradas individualmente o dentro de un grupo oferente, siempre que cumplan con los siguientes requisitos:
+
+1. No estar afectadas por impedimentos legales o por una de las inhabilidades señaladas en el artículo 59 del presente Reglamento o por cualquier otra causa que les impida de celebrar contratos de esta naturaleza con la entidad pública convocante.
+2. Cumplir con los requisitos y condiciones exigidos por las bases de licitación en el orden legal, administrativo, de capacidad económica, técnica y en la constitución de las garantías de seriedad de la oferta.
+     
+   En los casos de preselección de interesados, siempre habrá lugar a que se asocie de modo minoritario uno o más terceros con el oferente preseleccionado. En todo caso, el oferente preseleccionado deberá contar con por lo menos el 51% de los derechos del grupo o consorcio que se constituya como oferente.
+
+**Artículo 59°.- (De las inhabilidades)**   
+Además de las personas y funcionarios considerados con restricción para participar en licitaciones Públicas de concesiones señaladas en el Art. 11 de la Ley, no podrán ser oferentes ni formar parte del grupo oferente las personas condenadas por la comisión de algún delito hasta después de transcurridos dos años del cumplimiento de la pena.
+  
+Las personas y funcionarios jerárquicos señalados en el Art. 11 de la Ley no podrán ser oferentes ni contratados por la sociedad concesionaria hasta dos años después de sus retiros.
+  
+La norma del párrafo precedente es aplicable a las personas jurídicas cuando uno o más de sus directores o socios que tengan facultades de administración estuvieren afectados por la causal de inhabilidad indicada.
+  
+Tampoco podrán ser oferentes, ni formar parte de un grupo oferente las personas naturales o jurídicas que hayan formado parte, en el momento de la respectiva declaración de incumplimiento grave, del grupo controlador de una sociedad concesionaria, a la que se haya declarado la extinción de la concesión por incumplimiento grave de las obligaciones del contrato de concesión. Esta causal no es aplicable una vez transcurrido el plazo de 5 años desde la extinción del contrato.
+
+**Artículo 60°.- (De las bases de licitación)**   
+Las bases de licitación a que se refiere el Artículo 15 de la Ley, son el instrumento que regula la contratación especifica por concesión de una obra principal y de sus servicios, con el propósito de definir ante los oferentes el objeto de la concesión y las condiciones específicas que ellas establecen para su contratación por concesión de obra pública de transporte, de conformidad con la Ley, este Reglamento, dichas bases y las condiciones de la oferta que resulte adjudicada. Las Bases de Licitación serán siempre integradas por los documentos de diseño final de ingeniería e impacto ambiental que establece el artículo 9 de la Ley, deberán ser acompañados a ellas. En cambio, los Estudios de factibilidad técnico, económico - financiero y el de Negocio de la Concesión se entenderán siempre como referenciales.
+  
+El pliego de condiciones para cada contratación deberá elaborarse en función de la amplitud o complejidad de las obras y servicios requeridos y de la modalidad de convocatoria y contratación que corresponda. En la elaboración del mismo podrá participar la Superintendencia de Transporte.
+
+**Artículo 61°.- (Contenido de las bases de licitación)**   
+Las bases de licitación contemplarán, a lo menos, las siguientes materias:
+
+1. Determinación de la normativa legal y reglamentaria que rige la licitación, la adjudicación y el contrato.
+2. Forma, fecha, hora y lugar de la presentación de las ofertas, requisitos a cumplir por los oferentes y antecedentes que se deben entregar en las ofertas técnica y económica.
+3. Descripción de la o las obras públicas de transporte que se licitan por el sistema de concesión, con clara especificación de las obras y servicios principales y de las demás obras y servicios que se incluyen en la licitación y contrato. Además se deberá adjuntar un plano indicando la ubicación geográfica de la concesión.
+4. Delimitación del área operacional y del derecho de vía, según el tipo, la que no podrá exceder los límites territoriales que corresponden al desarrollo técnico de las obras, atendidas su naturaleza y circunstancias, para servir el objeto principal de las obras y los servicios adicionales y complementarios que expresamente se incluyan, según dispone el Artículo 31, numeral 1 de la Ley.
+5. Presupuesto oficial de la obra.
+6. Plazos para consultas y aclaraciones sobre las bases de licitación y del texto del borrador del contrato de concesión que se suscribirá.
+7. Sistema de evaluación de las ofertas y procedimientos de su adjudicación.
+8. Especificación de la obra que se entrega en concesión así como de las obras adicionales, con sus estándares y requerimientos técnicos mínimos: de diseño, construcción, conservación y mantenimiento, operación y para la prestación y explotación del o de los servicios, según corresponda.
+9. Exigencias ambientales del proyecto, de la construcción de la o las obras y durante la fase de explotación.
+10. Especificaciones del o de los estándares del servicio principal requerido y de los demás que se incluyan como adicionales, complementarios u obligatorios.
+11. Si la inversión y la construcción, de conformidad y en cumplimiento con el programa de la obra y de los niveles de servicio previamente establecidos, se realizará en una o varias etapas durante el periodo de vigencia del contrato de concesión. En caso que nada se establezca en las bases de licitación, se entenderá siempre que debe realizarse en una sola etapa inicial.
+12. Condiciones y plazos para la o las Puestas en Servicio Provisorio Parcial de la obra u obras, en virtud de criterios territoriales o de obras y funciones exigibles y de la Provisoria Total, así como los de la Puesta en Servicio Definitiva del Total.
+13. Condiciones económicas de la concesión, con especificación entre otras: de la estructura tarifaria y la fórmula de su reajuste para compensar la variación monetaria u otras causas; los ingresos mínimos o aportes que la concesionaria requiera; el grado de compromiso de riesgo que asumen las partes durante la construcción de la obra o la prestación del servicio.
+14. Pagos que el concesionario debe realizar a la entidad pública concedente, si los hubiere.
+15. Aportes y asignaciones que la entidad pública concedente debe realizar al concesionario, si los hubiere.
+16. Régimen de garantías, su naturaleza y cuantía, indicando los plazos en que deben constituirse. Se consideran garantías sobre la seriedad de la oferta, la construcción, la explotación y resguardo de la obra.
+17. Multas y sanciones por incumplimiento del contrato de concesión.
+18. Los plazos para el total de la concesión, como para la o las fases de construcción, previas a la de explotación y para la o las Puestas en Servicio Provisorias parciales y la total y la Definitiva.
+19. Las condiciones de devolución de las obras al término de la concesión y las garantías especiales para asegurarla.
+20. Si se trata de un proyecto que fue propuesto por iniciativa privada, identidad del proponente, premio al que tiene derecho en la evaluación de la oferta económica, monto reembolsable para los casos previstos en los incisos c) y d) del artículo 8 de la Ley.
+21. Toda otra estipulación que sea necesaria o conveniente incluir en las bases de licitación en virtud de la Ley o del presente Reglamento.
+22. También se proporcionará a los oferentes en el mismo documento, en lo posible, bajo la forma de formulario anexo de las bases de licitación, los elementos necesarios para entregar su oferta económica, en función del o de los factores de adjudicación señalados en el Artículo 19 de la Ley que se utilizarán en dicha licitación.
+      
+    Además, según lo establece el artículo 9 de la Ley siempre deberán ser acompañados a las Bases de Licitación los estudios de diseño final de ingeniería y de impacto ambiental, los que siempre tendrán carácter normativo; y los estudios de factibilidad técnico - económico - financiero y el de negocio de la concesión, que siempre será meramente Referencial.
+
+**Artículo 62°.- (Aprobación de las bases de licitación)**   
+La Dirección debe elevar al Viceministro, Prefecto o Alcalde, según corresponda, una proposición de las bases de licitación a fin de que éstos las remitan a los Ministerios de Desarrollo Económico y de Hacienda, Consejo Departamental o Concejo Municipal, según corresponda, para que estos últimos las verifiquen y tomen los recaudos necesarios para la provisión de recursos económicos requeridos como aportes del Estado, Prefectura o Municipalidad, con destino al desarrollo de la concesión.
+  
+Si dentro de los 45 días desde el ingreso de las mismas no se reciben observaciones en la Dirección, se entenderán aprobados los documentos de licitación por parte de los Ministerios de Desarrollo Económico y de Hacienda, Prefectura o Municipalidad, según corresponda.
+  
+El plazo antes fijado se suspenderá cada vez que el Ministerio de Hacienda, el Consejo Departamental o el Concejo Municipal, según corresponda, efectúe observaciones o solicite información adicional al ente público concedente. Para efectos de su aprobación la Dirección deberá acompañar a las bases de licitación los estudios y demás documentos que respaldan o fundamentan el contenido de las mismas.
+  
+Se emitirá una Resolución Suprema para aprobar las Bases de Licitación y demás documentos licitatorios, que deberán llevar las firmas del ministro de Desarrollo Económico y de Hacienda, según lo dispuesto por el artículo 12 de la Ley. Dicho documento contendrá las características generales de la concesión y un plano indicando la ubicación geográfica de ésta, sin perjuicio de la facultad del ente concedente de emitir ulteriores Circulares Aclaratorias.
+  
+Tratándose de obras públicas de transporte Departamentales o Municipales serán los Prefectos o Alcaldes quienes remitan al Consejo Departamental o al Concejo Municipal, según corresponda, el documento con todos los antecedentes señalados en él articulo anterior, para la dictación de la respectiva Resolución Prefectural o Municipal de aprobación.
+
+**Artículo 63°.- (Consultas y aclaraciones sobre las bases de la licitación)**   
+Las consultas y aclaraciones que requieran los oferentes sobre las bases de licitación se dirigirán a la Dirección dentro del plazo que ellas señalan para esos efectos.
+  
+Las respuestas a las consultas formuladas por los oferentes, así como las aclaraciones, rectificaciones, enmiendas o adiciones a las bases de licitación que la Dirección efectúe se comunicarán mediante circulares aclaratorias dirigidas a todos los oferentes, con una antelación mínima de 15 días a la fecha de apertura de la oferta técnica.
+  
+Si la Dirección tuviere que efectuar modificaciones que se comunican a los oferentes en un plazo menor a 15 días de la fecha prevista para la entrega de las ofertas, obligatoriamente deberá cambiar la fecha de su recepción y apertura con el objeto de respetar el plazo de 15 días como mínimo entre el envío de la última modificación a los oferentes y la entrega de sus ofertas.
+  
+Las circulares aclaratorias serán enviadas al domicilio legal de los oferentes, con constancia escrita de su recepción o trasmitidas vía fax.
+
+**Artículo 64°.- (De las ofertas)**   
+Serán de cargo del respectivo oferente todos los costos directos e indirectos asociados a la preparación y presentación de su oferta, no siendo la entidad pública licitante, en ningún caso responsable de estos costos.
+  
+Las ofertas y todos los anexos entregados por los oferentes deberán estar escritos en idioma español.
+  
+No se aceptará ninguna oferta pasada la fecha y hora especificada para el acto de apertura de la oferta técnica en las bases de licitación o en sus modificaciones posteriores, mediante circulares aclaratorias. Tampoco se admitirá mejoramiento o sustitución de ofertas después de su presentación.
+
+**Artículo 65°.- (Presentación y contenido de la oferta)**   
+Las ofertas se presentarán en dos sobres:
+  
+El primero denominado “Oferta Técnica” contendrá los antecedentes generales y administrativos o legales y la o las garantías que se requieran y la oferta técnica, propiamente tal.
+  
+El segundo sobre caratulado: “Oferta Económica” solo contendrá aquella.
+
+**Artículo 66°.- (Contenido de la oferta)**   
+La oferta debe contener a lo menos, los antecedentes y requisitos siguientes:
+
+1. ANTECEDENTES GENERALES
+   1. Nombre y domicilio del oferente.
+        
+      Las personas jurídicas acompañarán los antecedentes legales de su constitución, copia del testimonio publicado y su inscripción, vigencia y modificaciones legales que hayan tenido y poder suficiente de su representante legal.
+        
+      Las personas naturales y jurídicas extranjeras, no residentes en el país, deberán nombrar un representante legal con domicilio en Bolivia.
+   2. Declaración jurada suscrita ante notario de fe publica en Bolivia, en la que conste la inexistencia de impedimentos legales o inhabilidades para efectuar contratos de esta naturaleza y el sometimiento a todas las disposiciones inherentes a la concesión.
+   3. Garantía de seriedad de la oferta, en la forma, monto y condiciones que especifiquen las bases de licitación y con un plazo de validez no menor a 90 días posteriores a la fecha prevista para la adjudicación.
+        
+      Las condiciones de devolución de esta garantía a los oferentes no adjudicatarios se especificaran en las bases de licitación de cada concesión.
+        
+      Al adjudicatario se le retendrá la garantía hasta que dé cumplimiento cabal a lo dispuesto en el artículo 25 de la Ley y a garantizar o pagar el reembolso o costos del proponente privado cuando las bases de licitación lo establezcan.
+   4. Recibo en que conste el pago del valor de las bases de licitación.
+        
+      Según dispongan las bases de licitación parte de esta documentación será obviada en caso de Preselección previa para los preseleccionados.
+2. OFERTA TÉCNICA
+     
+   De acuerdo a la naturaleza diversa de las obras, que pueden darse en concesión, las bases de licitación exigirán, a lo menos, la siguiente documentación para cada fase:
+   1. Fase de construcción:
+   2. aceptación formal y por escrito de todas las condiciones y especificaciones técnicas del Proyecto fijadas en los Estudios de Diseño Final de Ingeniería y de Impacto Ambiental.
+   3. cronograma de trabajo y plazos para el desarrollo y ejecución de la obra de ingeniería, según corresponda.
+   4. Presupuesto de Inversión y análisis de precios unitarios, de acuerdo al diseño final de Ingeniería, establecido en las bases de licitación.
+   5. Propuesta de Elevación de los Estándares Técnicos. Especificaciones del proyecto y de la ejecución de la obra, reparación o conservación según corresponda, cuando se pretenda elevar el estándar técnico que se fija en el estudio de diseño final de ingeniería y de impacto ambiental y en los estudios para las otras modalidades de Concesión, los que comprenderán como mínimo:
+   6. Antecedentes técnicos, planos, memorias de cálculo, cuadros, diagramas, otros, según corresponda.
+   7. Presupuesto de inversión y análisis de precios unitarios.
+   8. cronograma de trabajo y plazos para el desarrollo y ejecución de la obra de ingeniería, según corresponda.
+   9. Evaluación del impacto en el medio ambiente que cause la elevación del estándar técnico en la obra y medidas correctivas o de mitigación de ser necesarias.
+   10. Fase de explotación:
+   11. Descripción y especificación de las condiciones de prestación del servicio objeto de la concesión, incluyendo cobros de tarifas y los estándares del servicio principal y de los otros que se incluyan, según lo establecido en las bases de licitación.
+   12. Plan de conservación según los estándares mínimos exigidos en las bases de licitación.
+   13. Cronogramas y presupuesto.
+   14. Descripción de los servicios complementarios que se ofrecen incluyendo individualización de terrenos que constituirán las áreas de servicio, de acuerdo a las especificaciones que al efecto contengan las bases de licitación
+   15. Cronograma de aportes y asignaciones de la entidad concedente al Concesionario, si los hubiere.
+   16. Reglamento de servicio para el uso de la obra.
+   17. Programa de financiamiento de la Deuda.
+   18. Programa de Inversiones de la empresa concesionaria según lo establezcan las bases de licitación.
+   19. Cualquier otro elemento requerido en las bases de licitación en consideración a la naturaleza de la obra, especialmente aquellos relacionados con los efectos económicos causados por la competencia de mercado entre dos o más obras o sistemas de transporte paralelos o que se relacionan entre sí, territorial o funcionalmente.
+3. OFERTA ECONÓMICA
+     
+   La oferta económica contendrá la documentación en que el oferente indica los parámetros en que está dispuesto a tomar la concesión de la obra en función de los elementos de la Licitación, establecido en el Art.17, el presente reglamento y lo dispuesto por las Bases de Licitación. La oferta económica se presentara sobre la base de formularios anexos contenidos en las Bases de Licitación que indican de modo claro las alternativas opcionales que debe elegir el oferente. Debiendo incluirse los cronogramas de aportes o asignaciones de la entidad concedente al Concesionario, si los hubiere.
+     
+   El oferente está facultado a especificar servicios adicionales o complementarios que él considere conveniente para mejorar su propuesta económica, sin perjuicio de los ya incluidos en las bases de licitación.
+
+**Artículo 67°.- (Comisiones de apertura y evaluación general de las ofertas)**   
+La Comisión de Apertura y Evaluación General de las Ofertas se conformará, según corresponda de la siguiente manera:
+
+1. Para Concesiones de carácter Nacional:
+2. El Director General de Concesiones, el que presidirá la Comisión.
+3. Un profesional universitario con Titulo en Provisión Nacional en representación del Ministro de Desarrollo Económico.
+4. Un profesional universitario con Titulo en Provisión Nacional en representación del Ministro de Hacienda.
+5. Un profesional universitario con Titulo en Provisión Nacional en representación del Viceministro de Transportes.
+6. Un profesional universitario con titulo en Provisión Nacional en representación del Superintendente de Transportes.
+7. El Director General Jurídico del Viceministerio de Transporte, Comunicación y Aeronáutica Civil, u otro Abogado designado por el Viceministro de Transporte, Comunicación y Aeronáutica Civil.
+8. Para Concesiones de carácter Departamental:
+9. El Director Departamental de Concesiones, quien presidirá la Comisión.
+10. El Director Administrativo de la Prefectura.
+11. El Director General Jurídico de la Prefectura.
+12. Un representante designado por el Consejo Departamental.
+13. Un profesional universitario en representación del Prefecto
+14. Para Concesiones de obras de carácter Municipal:
+15. Quien dirige la Secretaría, Dirección u organismo encargado de las concesiones de obras públicas de transporte de la Municipalidad, será quien presidirá la Comisión.
+16. El oficial Mayor Administrativo de la Municipalidad.
+17. El Oficial Mayor Técnico de la Municipalidad.
+18. Un abogado designado por el Alcalde, al efecto.
+19. Para Concesiones de obras en las cuales intervengan una Mancomunidad de Municipalidades y/o Agrupación de Prefecturas, según corresponda:
+20. Para el Caso de una concesión donde intervenga:
+21. Una Mancomunidad de Municipalidades y Agrupación de Prefecturas, será el Director Departamental de Concesiones de Obras Públicas de Transporte que se designe al efecto de entre las Prefecturas involucradas, quien presidirá la comisión.
+22. Una Mancomunidad de Municipalidades, será el Secretario, Director o Jefe del organismo encargado de las concesiones de obras públicas de transporte de la Municipalidad involucrada que se designe al efecto, quien presidirá la Comisión.
+23. Una Agrupación de Prefecturas, será el Director Departamental de Concesiones de Obras Públicas de Transporte que se designe al efecto de entre las Prefecturas involucradas, quien presidirá la comisión.
+24. Un Consejero Departamental, por cada Prefectura involucrada.
+25. Un Concejal Municipal, por cada Municipalidad involucrada.
+26. Un Abogado designado por la Mancomunidad de Municipalidades y/o Agrupación de Prefecturas, según corresponda.
+
+**Artículo 68°.- (Subcomisión de Evaluación Técnica de las Ofertas)**   
+Cada una de las Comisiones de Apertura y Evaluación deberá crear una Subcomisión de Evaluación Técnica, encargada de evaluar y calificar las ofertas técnicas, según lo dispuesto a continuación:
+
+1. Para Concesiones de carácter Nacional, esta subcomisión estará integrada por un mínimo de tres y un máximo de seis profesionales Universitarios, del rubro de Ingeniería, de la Unidad de Licitación y Evaluación Técnico - Económica, dependiente de la Dirección General de Concesiones de Obras Públicas de Transporte.
+2. Para Concesiones de carácter Departamental esta Subcomisión estará integrada por profesionales universitarios, del rubro de Ingeniería, de entre la Dirección Departamental de Concesiones que se cree al efecto.
+3. Para Concesiones de carácter Municipal, esta Subcomisión estará integrada por profesionales universitarios, del rubro de Ingeniería, de entre la Dirección Municipal de Concesiones, Secretaría Municipal u otro organismo Municipal de Concesiones que se cree al efecto.
+4. Para Concesiones de Mancomunidad de Municipalidades, esta Subcomisión estará integrada por dos profesionales universitarios, del rubro de Ingeniería, de cada Dirección, Secretaría u otro organismo Municipal de Concesiones, de cada Municipalidad involucrada.
+5. Para Concesiones de Agrupaciones de Prefecturas, esta Subcomisión estará integrada por dos profesionales universitarios, del rubro de Ingeniería, de cada Dirección Departamental de Concesiones, de cada Prefectura involucrada.
+6. Para Concesiones de Mancomunidad de Municipalidades y Agrupación de Prefecturas, esta Subcomisión estará integrada por dos profesionales universitarios, del rubro de Ingeniería, de cada Dirección, Secretaría u otro organismo Municipal de Concesiones y por dos profesionales universitarios, del rubro de Ingeniería, de cada Dirección Departamental de Concesiones, de cada Prefectura involucrada.
+
+**Artículo 69°.- (Apertura de las ofertas)**   
+Las ofertas serán abiertas en acto público y ante Notario de Fe Pública habilitado en dicho territorio, por la Comisión de Apertura y Evaluación General de las Ofertas que corresponda, en el día, hora y lugar indicado al efecto en la convocatoria pública.
+  
+En el acto de apertura se procederá a abrir solamente el sobre de la oferta técnica de cada oferente y a verificar que hayan presentado todos los documentos solicitados en las bases de licitación. La falta de cualquiera de los documentos inhabilita al oferente.
+  
+Los sobres de la oferta económica serán firmados por los integrantes de la Comisión de Apertura y Evaluación General de las Ofertas, permaneciendo en custodia, sellados y sin abrir hasta el momento de haberse seleccionado las ofertas técnicas aceptables, en la fecha que señalen las bases de licitación.
+  
+De la ceremonia de apertura se levantará un acta en que se dejará constancia de las ofertas presentadas y de las que fueron rechazadas, explicitando los motivos.
+  
+La Comisión de Apertura y Evaluación General de las Ofertas procederá a la apertura cualquiera sea el número de oferentes.
+
+**Artículo 70°.- (Subcomisión de evaluación técnica de las ofertas)**   
+Habrá una Subcomisión de Evaluación Técnica de las Ofertas, la que se conformará de acuerdo a lo establecido en el Art. 68 del presente Reglamento.
+  
+Los miembros de la Subcomisión de Evaluación Técnica de las Ofertas así designados, calificarán las ofertas en forma independiente y tendrán un plazo fijo establecido por la Comisión de Apertura y Evaluación General de las Ofertas, de acuerdo con la magnitud de la obra, su complejidad o la documentación que se haya exigido para la oferta, pero que siempre deberá ser anterior a la fecha de apertura de la oferta económica.
+
+**Artículo 71°.- (Estudio y evaluación de las ofertas técnicas)**   
+Los aspectos técnicos y los criterios y puntajes sobre los que debe pronunciarse la Subcomisión de Evaluación Técnica serán los indicados en las bases de licitación y en las normas técnicas aplicables en el rubro de transporte sobre el que recae la obra por concesión.
+  
+Para este efecto, cada uno de sus integrantes asignará a los aspectos a evaluar una calificación de 1 a 100 puntos según su propio y autónomo criterio profesional, respaldado por el informe de evaluación que debe emitir de cada concepto o ítem calificado. Obteniendo como nota subtotal de calificación, para cada propuesta, la sumatoria de las calificaciones en cada aspecto.
+  
+La nota final obtenida por cada oferente corresponderá al promedio ponderado de las notas subtotales de calificación asignadas por los integrantes de la Subcomisión Técnica de Evaluación a cada oferta.
+  
+Solo las ofertas técnicas que hayan obtenido una calificación igual o mayor a 70% del puntaje total acumulable establecido en las bases de licitación, serán habilitadas para la apertura del sobre que contiene la oferta económica.
+
+**Artículo 72°.- (Aclaraciones de la oferta técnica y antecedentes generales)**   
+El Director General de Concesiones, el Director Departamental de Concesiones o quien dirija el organismo especializado de Concesiones de una Municipalidad, a solicitud de la Subcomisión de Evaluación Técnica, y con la debida aprobación por escrito del Ministro de Desarrollo Económico, del Prefecto o Alcalde, según corresponda, excepcionalmente podrá requerir de los oferentes, antes de la apertura de la oferta económica aclaraciones de forma con el objeto de clarificar y precisar el correcto sentido y alcance de la oferta técnica, sin modificar el contenido de fondo de la misma velando siempre por el principio de transparencia del proceso y de igualdad de los oferentes.
+  
+El Director General de Concesiones, el Director Departamental de Concesiones o quien dirija el organismo especializado de Concesiones de una Municipalidad, será el que determine cuando tales aclaraciones son o no pertinentes y pueden ser validamente aclaradas mediante este procedimiento. Cualquier solicitud de aclaración de ofertas que él formule debe ser efectuada por escrito y con copia a todos los oferentes.
+
+**Artículo 73°.- (Ofertas técnicas descalificadas)**   
+No son técnicamente aceptables las ofertas técnicas en que:
+
+1. Cualquier documento presentado no cumpla con lo dispuesto en la Ley, el presente Reglamento y en las bases de licitación;
+2. Aquellas ofertas técnicas cuyo promedio ponderado o nota final ha sido inferior al 70% del puntaje total acumulable establecido en las bases de licitación.
+
+**Artículo 74°.- (Ofertas técnicas seleccionadas)**   
+Las ofertas serán declaradas técnicamente aceptables o descalificadas, según lo establecido en los artículos 71 y 73 del presente reglamento. Las ofertas técnicamente aceptables pasarán a la siguiente etapa de apertura y evaluación de las ofertas económicas.
+
+**Artículo 75°.- (Apertura de las ofertas económicas)**   
+La apertura de las ofertas económicas se realizará mediante acto público y ante Notario de Fe Pública habilitado en dicho territorio, en la fecha, hora y lugar establecido en las bases de licitación y circulares aclaratorias, para esto se deberá cursar invitación a los medios de comunicación con por lo menos tres días de anticipación de la apertura de dichas ofertas.
+  
+En dicho acto la Comisión de Apertura y Evaluación General de las Ofertas establecida en el artículo 67 del presente Reglamento dará a conocer el resultado de la evaluación técnica y procederá a abrir sólo los sobres de los oferentes cuyas ofertas fueron declaradas técnicamente aceptables.
+  
+Los sobres de la propuesta económica de los oferentes cuyas ofertas técnicas no fueron aceptadas por la evaluación técnica, serán devueltos en el mismo acto y sin abrir, dejándose constancia de ello en el acta correspondiente.
+  
+Las ofertas económicas que no incluyan todos los antecedentes requeridos en las bases de licitación o que presenten enmiendas, menciones o condicionamientos no estipulados en las bases de licitación serán rechazadas en el acto, dejándose constancia de ello en el acta de apertura sin que por ello proceda recurso o reclamación sobre esta decisión y sin que este hecho dé origen al nacimiento de derecho a indemnización alguna para los oferentes.
+  
+La Comisión de Apertura y Evaluación General de las Ofertas en la ceremonia pública de apertura levantará un acta en el que dejará constancia de los contenidos de todas las ofertas económicas según se definan en las bases y en el formulario para su presentación, de conformidad a los factores que la integran conjunta o alternativamente de acuerdo a lo dispuesto en el artículo 19 de la Ley. Esta Comisión deberá desestimar la apertura de todas las ofertas económicas, si y solo si, la totalidad de las ofertas técnicas presentadas, no calificaron como aceptables según lo dispuesto por él articulo 73 del presente Reglamento.
+
+**Artículo 76°.- (Evaluación de la oferta económica)**   
+En el mismo acto de apertura de la oferta económica establecido en él articulo anterior, la Comisión de Apertura y Evaluación General de las Ofertas verificará si los antecedentes presentados en la oferta económica se ajustan a las bases de licitación y asignará un puntaje a las mismas considerando los factores señalados en el artículo 19 de la Ley, evaluados según el sistema establecido en las bases de licitación. Caso contrario esta Comisión desestimará la o las ofertas económicas que incumplan con los parámetros fijados en las bases de licitación, sin que por ello proceda recurso o reclamación sobre esta decisión y sin que este hecho de origen al nacimiento de derecho a indemnización alguna para los oferentes.
+  
+En caso de licitaciones originadas por iniciativas privadas se aplicará al resultado de evaluación el premio a que tiene derecho el proponente privado de la idea, de acuerdo a lo
+  
+establecido en el artículo 8 de la Ley, en el presente Reglamento y en las bases de licitación.
+  
+La Comisión de Apertura y Evaluación General levantará un acta de calificación, firmada por todos los integrantes de la misma, en la que se establece el orden de los oferentes en función del puntaje final obtenido y la oferta elegida para la adjudicación del contrato de Concesión. Dicha acta será entregada en el mismo acto público al Ministro de Desarrollo Económico, Prefecto o Alcalde, según corresponda.
+
+**Artículo 77°.- (Adjudicación)**   
+La oferta económica que obtenga el mayor puntaje será la oferta elegida para la adjudicación del Contrato de Concesión.
+  
+Los resultados de la evaluación de la oferta económica serán comunicados a cada uno de los oferentes cuyas ofertas fueron declaradas técnicamente aceptables mediante oficio dirigido por carta certificada.
+  
+La entidad pública concedente está facultada para adjudicar la concesión aún cuando se presente una sola oferta en las licitaciones que tengan iniciativa tanto de origen público, como de origen privado, conforme a lo establecido por él articulo 20 de la Ley.
+
+## Título VI De la adjudicación, otorgamiento y contrato de concesión
+
+**Artículo 78°.- (De la resolución de adjudicación)**   
+La Resolución Suprema, por la que se adjudica y otorga el contrato de concesión deberá llevar la firma de los Ministros de Desarrollo Económico y de Hacienda.
+  
+La Resolución Prefectural por la que se adjudica y otorga el contrato de concesión será suscrita por el Prefecto y el Secretario General del Consejo Departamental y la Resolución Municipal debe llevar la firma del Alcalde, Presidente y Secretario del Concejo Municipal.
+  
+Para su dictación deberán adjuntarse a dichas autoridades los documentos a los que hará referencia y en especial las bases de licitación y la oferta técnica y económica a la que se adjudicará la concesión.
+
+**Artículo 79°.- (Contenido de la resolución de adjudicación)**   
+Dicha Resolución contendrá siempre, a lo menos, las siguientes disposiciones y menciones:
+
+1. Individualización del adjudicatario.
+2. Individualización de las bases de licitación y la oferta técnica y económica aceptadas.
+3. Mención de la normativa que se entiende incorporada al contrato.
+4. Individualización de anexos que forman parte integrante del contrato.
+5. Descripción del servicio que prestará el concesionario y su ubicación geográfica.
+6. Plazo de duración de la concesión.
+7. Plazos para la o las Puestas en Servicio Provisorias Parciales y Total y para la Definitiva.
+8. Estructura tarifaria
+   1. Derechos y obligaciones del concesionario.
+9. Garantías y multas que correspondan.
+10. Beneficios que se incluyen como compensación por los servicios ofrecidos.
+    1. Compromisos de aportes, garantías y otros que asume el Estado, Prefectura o Municipalidad, según corresponda.
+11. Identificación de la Inspección Fiscal, de su Asesoría Técnica y de la autoridad del ente público concedente o concedentes que será la contraparte en el desarrollo y fiscalización del contrato.
+12. Bienes públicos, fiscales o municipales que se destinan a sus áreas de servicios adicionales, complementarios u obligatorios, si los hubiere.
+13. Centro de Conciliación y Arbitraje de la [Ley Nº 1770](https://www.lexivox.org//norms/BO-L-1770.html), competente para conocer y resolver las materias dispuestas por la Ley.
+14. Del plazo y forma de suscripción y perfeccionamiento del contrato de concesión, y;
+15. Cualquier otra mención o estipulación de conformidad con las bases de licitación.
+
+**Artículo 80°.- (De la sociedad concesionaria, su constitución y requisitos)**   
+En cumplimiento del artículo 23 de la Ley y dentro del plazo máximo fijado por las bases de licitación, el mismo que no podrá exceder de 90 días, a partir de la publicación de la Resolución Suprema de adjudicación del contrato de concesión en la Gaceta Oficial, o de la publicación en prensa de la correspondiente Resolución Prefectural o Municipal según corresponda, el adjudicatario o grupo adjudicatario de la concesión deberá constituir legalmente una sociedad anónima de acuerdo a la legislación nacional vigente y con el objeto único definido en las bases de licitación, la duración de la sociedad anónima conformada no será inferior al plazo de la concesión más 2 años.
+  
+El capital suscrito y pagado de la sociedad concesionaria, al momento de su constitución debe ser al menos equivalente al 20 por ciento del presupuesto oficial estimado o de la inversión ofrecida por el oferente, la mayor, para la obra en concesión.
+  
+El adjudicatario de la concesión debe ser propietario como mínimo de un 51 % de los derechos de la sociedad concesionaria y debe obligarse a no transferirlos, hasta la puesta en servicio de la obra de acuerdo al artículo 23 de la Ley.
+
+**Artículo 81°.- (Requisitos previos a la suscripción del contrato de concesión)**   
+Una vez perfeccionada la constitución de la sociedad concesionaria y entregados a la entidad pública concedente los documentos acreditativos, se suscribirá el respectivo contrato de concesión. Además, serán requisitos previos a su firma:
+
+1. Entrega de la garantía de la fase de construcción y de los seguros que procedan según las bases de licitación.
+2. Certificado bancario que acredite que la sociedad concesionaria ha cumplido el total del capital pagado exigible,
+3. Cuando se establezca en las bases de licitación, acreditar el pago del reembolso de los costos de los estudios de una concesión, tanto de origen público como de origen privado o entrega de un documento de reconocimiento de dicha deuda, dotado del mérito ejecutivo.
+
+**Artículo 82°.- (Del contrato de concesión)**   
+Según indiquen las bases de licitación y el texto de la Resolución Suprema, Prefectural o Municipal de adjudicación de la concesión, el contrato de concesión se perfeccionará y constará de:
+
+1. Un instrumento contractual con texto propio que será debidamente suscrito, después de perfeccionada la publicación de la respectiva Resolución de Adjudicación según se establece en el artículo 80 de este Reglamento, por las siguientes partes: El Director General de Concesiones, el Director Departamental de Concesiones, El Director, Secretario o Jefe del organismo Municipal de Concesiones que se cree al efecto, según corresponda; el Superintendente de Transporte y el Representante legal de la Sociedad Concesionaria.
+     
+   Y que incluirá como anexos que lo integran o complementan los documentos de la licitación y la oferta, en la variante o modalidad adjudicada. En este evento junto con las bases de licitación se debe emitir un borrador de contrato, el cual también podrá ser aclarado, modificado, complementado o rectificado en las Circulares Aclaratorias.
+     
+   Se entenderá como fecha de perfeccionamiento del contrato, aquella en que se suscriba su protocolización ante la Notaría de Gobierno. Junto con el contrato se protocolizarán las circulares aclaratorias, oferta adjudicada con la concesión y Resolución de Adjudicación así como las actas de calificación y los informes jurídicos y técnicos. Una copia de las bases de licitación y Circulares Aclaratorias acompañara estos documentos. Los testimonios del contrato harán plena prueba de sus estipulaciones.
+     
+   Todos los gastos que impliquen estos trámites serán de cuenta del concesionario. Una copia de los testimonios será entregada a la Dirección. Igualmente serán entregados los instrumentos de garantía una vez registrados e inscritos en originales.
+
+**Artículo 83°.- (Inscripción y registro del contrato de concesión)**   
+El adjudicatario, una vez concluido el trámite de suscripción y protocolización del contrato, bajo cualquiera de las modalidades prescritas en el artículo anterior, de conformidad a lo dispuesto en el artículo 23 de la Ley, deberá:
+
+1. Registrar e inscribir el contrato, los poderes, las garantías vigentes y la Resolución correspondiente en la Superintendencia de Transportes y en el Registro de Comercio y Sociedades por Acciones (RECSA), respectivamente y luego de ello,
+2. Entregar un ejemplar completo de toda esa documentación contractual y constancia de su registro e inscripciones en la Oficina o Secretaría del ente público concedente.
+
+**Artículo 84°.- (Plazo para suscripción, inscripción, entrega y registro del contrato de concesión)**   
+Las bases de licitación fijarán el plazo máximo para la suscripción y perfeccionamiento del contrato de concesión y para su Registro y entrega en la Superintendencia de Transporte, en el RECSA y al ente público concedente que se establecen en el artículo anterior, el que en ningún caso podrá exceder de 90 días, contados a partir de la publicación de la Resolución de Adjudicación de la concesión, según lo estipulado en el artículo 23 de la Ley.
+
+**Artículo 85°.- (Costos y gastos del contrato de concesión)**   
+Todos los gastos que implique la participación en la licitación y en el perfeccionamiento del contrato, como su registro, inscripción y entrega será siempre de cuenta y cargo de la sociedad concesionaria, cualesquiera sea su monto y sin que a ella le nazca derecho para pedir su reembolso en todo o parte, o para solicitar o demandar compensación o indemnización, en caso alguno.
+
+**Artículo 86°.- (Caducidad y revocatoria de la adjudicación como sanción por el incumplimiento de las obligaciones del adjudicatario)**   
+El incumplimiento de cualquiera de las obligaciones de que trata el artículo 23 de la Ley y el artículo 84 de este Reglamento, producirá de pleno derecho la caducidad de la concesión.
+  
+Para mera constancia dicha caducidad será constatada y declarada por el ente público competente, mediante Resolución Suprema, Prefectural o Municipal, según corresponda, revocatoria que indicará la causal o causales que han dejado sin efecto la adjudicación de la concesión.
+  
+Desde que se constate el incumplimiento, y aún antes de la dictación y perfeccionamiento de la respectiva Resolución de revocatoria, el ente público competente deberá hacer efectiva de inmediato, la garantía de seriedad de la oferta del adjudicatario, sin que a éste nazca derecho alguno a reclamar por dicho cobro o a solicitar ninguna indemnización o compensación.
+  
+La Entidad Publica competente, según corresponda, deberá enviar una copia de toda Resolución Suprema, Prefectural o Municipal de revocatoria, a la Superintendencia de Transporte.
+
+**Artículo 87°.- (Nueva licitación y adjudicación por causa de revocatoria de la concesión originada en incumplimiento del adjudicatario inicial)**   
+Perfeccionada y publicada por una sola vez, la Resolución revocatoria, por el incumplimiento del adjudicatario, el ente público concedente podrá optar por:
+
+1. Convocar a una nueva licitación pública dando cumplimiento a todas las obligaciones que para ello, establece el presente Reglamento, a partir de su convocatoria, o bien,
+2. Realizar dentro de los 30 días siguientes a la publicación de la Resolución de revocatoria de la concesión una licitación privada entre los restantes oferentes que se presentaron a la licitación original, según lo dispuesto por el segudo parrafo del articulo 23 de la Ley, excluido el adjudicatario cuya asignación se dejó sin efecto. Dicha licitación será convocada mediante carta certificada dirigida a todos ellos al domicilio registrado para la licitación precedente o cuando conste por escrito que les ha sido notificada personalmente por Notario de Fe Pública. En este caso, valdrán las mismas bases de licitación, circulares aclaratorias y el borrador de contrato y en la convocatoria se solicitará que los oferentes mejoren su oferta económica originalmente presentada, entreguen las garantías que correspondan y el compromiso suscrito de no modificar los términos de la oferta técnica original. La apertura y evaluación de las mismas se regirá por las normas aplicables del presente Reglamento y de las bases de la licitación ya realizada.
+     
+   Las entidades públicas concedentes, se reservan el derecho de rechazar fundadamente las ofertas presentadas, sin que proceda recurso o reclamación alguna sobre esta decisión y sin que los oferentes tengan derecho a solicitar o demandar indemnización o compensación alguna.
+
+## Título VII De las garantías y seguros durante la licitación y contrato de concesión
+
+**Artículo 88°.- (Garantía de seriedad de la oferta durante la licitación y adjudicación)**   
+Para garantizar la seriedad de su oferta en la licitación de la concesión, los oferentes deberán incluir en los antecedentes generales del sobre de la Oferta Técnica, una o más boletas bancarias de garantía de seriedad de la oferta, por el monto y moneda que indiquen las bases de licitación, el que deberá corresponder a entre un 2% y un 6 % del valor del Presupuesto Oficial Estimado para las obras o para la etapa de inversión y obras iniciales. El plazo de vigencia de la boleta de garantía será el que indiquen las bases de licitación, que no podrá ser inferior a los 150 días, ni superior a los 200 días desde la presentación de las ofertas
+  
+La garantía bancaria de seriedad de la oferta deberá ser emitida por un Banco de la o las plazas que indiquen las bases de licitación y pagaderas a su sola presentación.
+  
+No serán admisibles aquella boletas de garantía que requieran un plazo de aviso para su pago efectivo, ni aquellas que se expresen en una moneda diferente a la exigida por las bases de licitación, ni las que no cubran el monto exigido. Tampoco serán admisibles para garantizar la seriedad de la oferta, las pólizas de seguro.
+  
+El Adjudicatario deberá mantener siempre vigente esta garantía, hasta que sea sustituida por la garantía de construcción. Si el vencimiento de la garantía ocurre antes de la suscripción o protocolización ante la correspondiente Notaría de Gobierno, del contrato de concesión, el adjudicatario deberá prorrogar cada boleta de garantía de seriedad de la oferta, tantas veces como sea necesario por 90 días a lo menos, cada vez.
+  
+La o las entidades públicas que convocan la licitación harán efectiva la garantía de seriedad de la oferta en el caso de incumplimiento de la obligación del adjudicatario de suscribir, perfeccionar, registrar y entregar el contrato en la forma y plazo que establecen las bases de licitación, dentro de las normas de la Ley y este Reglamento Orgánico y además, en el evento de que el adjudicatario no prorrogue o reemplace la garantía vigente, como mínimo, con 10 días de anticipación a la fecha de su expiración. La falta de cumplimiento autoriza al ente público a ejecutar la garantía vigente, el día de su vencimiento, sin que nazca derecho alguno de reclamación, indemnización o compensación al adjudicatario.
+  
+Las garantías de los oferentes cuyas ofertas no resulten técnicamente aceptables serán devueltas dentro de los 15 días posteriores a la fecha de apertura de la Oferta Económica.
+  
+Estas boletas serán devueltas a los oferentes no adjudicatarios, dentro de los 15 días siguientes a la dictación de la Resolución de Adjudicación de la Concesión. En el caso de que la licitación no fuere adjudicada, ellas serán devueltas en el plazo de 15 días desde la notificación de no adjudicación.
+  
+Esta boleta de garantía del adjudicatario será devuelta por el ente público concedente dentro de los 15 días siguientes a la entrega de los documentos que perfeccionan el contrato, según lo estipulado en los artículos 78, 80, 81 de este Reglamento y despues de ser recibido conforme por la entidad publica concedente los documentos que constituyan la garantia de construcción o de explotación, cuando así corresponda, exigidas por el contrato de Concesión.
+
+**Artículo 89°.- (Garantías del contrato)**   
+El adjudicatario y luego, la sociedad concesionaria deben constituir, entregar y mantener siempre vigentes las garantías bancarias según lo establecido por el articulo 25 de la Ley, para la etapa de la construcción, la de la etapa de la explotación y la adicional de resguardo de las obras en los plazos, forma y cuantía establecidos en el presente Reglamento y que para cada concesión precisarán las bases de licitación.
+  
+Las garantías requeridas por el o los entes públicos concedentes tendrán siempre el carácter de irrevocables, reemplazables, de ejecución inmediata y las demás caracterisitcas que especifiquen las bases de licitación y contrato de concesión. Ellas deberán constar en documento bancario de la o las plazas que se definan en las bases de licitación.
+  
+Las entidades públicas concedentes harán efectivas dichas garantías en los casos de incumplimiento de las obligaciones del contrato que originen dicha sanción o su cobro para los efectos de efectuar pagos y, en particular, en los siguientes casos:
+
+1. Modificación de los estatutos de la sociedad concesionaria sin autorización expresa del ente público concedente cuando ella sea un requisito exigido por la Ley, el presente Reglamento o el contrato de concesión.
+2. Incumplimiento o retardo del concesionario en un pago que, a cualquier título, el deba efectuar en virtud del contrato de concesión al ente público concedente o a la Superintendencia de Transporte.
+3. Incumplimiento en la presentación o renovación de las garantías, o de la póliza de seguro de responsabilidad civil por daños a terceros o del seguro de catástrofe, en los plazos, forma y cuantía previstos en las bases de licitación.
+4. Como penalidad por el no cumplimiento por la sociedad concesionaria de las obligaciones de construir, mejorar, rehabilitar, conservar y mantener las obras durante el desarrollo del contrato a un nivel compatible con los estándares constructivos y de niveles de servicio exigibles.
+5. Incumplimiento por el concesionario de cualquiera de las obligaciones de prestación de servicio en las condiciones del contrato, durante la fase de explotación.
+6. Incumplimiento por la sociedad concesionaria de las sanciones impuestas durante las etapas de construcción o explotación, en los plazos previstos.
+7. Por restituir las obras al término de la concesión sin dar cabal cumplimiento a los estándares constructivos, operativos y de niveles de servicio exigibles en el contrato de concesión, al efectuar su entrega.
+
+**Artículo 90°.- (Garantía de la etapa de construcción)**   
+La garantía de construcción tiene por objeto asegurar las condiciones generales del contrato que establece el artículo precedente y el cumplimiento de las obligaciones del concesionario durante la etapa de construcción, la que constará de uno o más instrumentos, con la forma, cuantía y plazos que establezcan las bases de licitación. Esta garantía reemplazará a la de seriedad de la oferta y deberá estar vigente durante todo el plazo de la etapa de construcción de la obra, si bien siempre se podrá constituir mediante instrumentos de validez, como mínimo, de 180 días.
+  
+Su monto será fijado en las bases de la licitación, pero no podrá exceder del 6%, ni ser menor del 3% de la Inversión contenida en la oferta del adjudicatario, cuyo valor se dejará constancia en la Resolución de Adjudicación y contrato de concesión.
+  
+La garantía de construcción de la obra será devuelta a la sociedad concesionaria una vez terminadas la totalidad de las obras y después de ser recibidos conforme por la entidad pública concedente los documentos que constituyan la garantía de la etapa de explotación exigida por el contrato de concesión.
+  
+Cuando se pacte liberación de garantías por avance de construcción, sólo se podrá liberar él o los instrumento de garantía vigente contra la presentación previa y recepción conforme por el ente público concedente de la nueva garantía en el monto, plazo y condiciones establecidas en las bases de licitación, Resolución de Adjudicación y contrato de concesión.
+
+**Artículo 91°.- (Garantía de la etapa de explotación)**   
+La sociedad concesionaria está obligada a entregar a la entidad publica concedente la garantía de explotación, quien hará entrega de dicha garantía a la Superintendencia de Transporte, la que deberá estar vigente durante toda dicha fase del contrato, para garantizar las condiciones generales del contrato que establece el artículo 89 de este Reglamento y el cumplimiento de las obligaciones de cuidado y conservación de las obras y de la prestación de servicios en las condiciones pactadas en el contrato de concesión para la fase de explotación y para la restitución de las obras.
+  
+La garantía deberá estar vigente por todo el período de explotación de la concesión, sin perjuicio del derecho de la sociedad concesionaria de optar por entregar documentos de garantía con vencimiento mínimo de 180 días, siempre que éste documento de garantía sea reemplazado con a lo menos 15 días de anticipación del vencimiento del anterior. De incumplirse con esta renovación procede la inmediata ejecución y cobro del documento vigente por parte de la entidad publica concedente.
+  
+Su monto será fijado en las bases de la licitación, pero no podrá exceder del 70 %, ni ser inferior al 35 %, del valor fijado para la garantía de la etapa de construcción.
+  
+La entidad pública concedente no otorgará la autorización de puesta en servicio provisoria o definitiva de la obra, si no se da cumplimiento a la entrega de la garantía de explotación.
+  
+La sociedad concesionaria está obligada a entregar a la entidad publica concedente la garantía de explotación, en el plazo forma y cuantía establecidos en las bases de licitación; esta garantía tiene por objeto garantizar el cumplimiento de las obligaciones de prestación de servicios en las condiciones pactadas en el contrato de concesión para la fase de explotación.
+
+**Artículo 92°.- (Garantías de la construcción y de la explotación en caso de puesta en servicio parcial de la obra)**   
+Cuando las bases de licitación autoricen la puesta en servicio provisorio de parte de la obra, se deberá exigir una garantía separada de la de construcción, cuyo valor no podrá exceder del 3,5 % del total de la garantía de la construcción.
+
+**Artículo 93°.- (Garantía de resguardo de obras)**   
+La sociedad concesionaria está obligada a entregar a la entidad pública concedente la garantía de resguardo de obras a que se refiere el inciso c) del Artículo 25 de la Ley, quien hará entrega de dicha garantía a la Superintendencia de Transporte, para la etapa final de la concesión con el objeto de mejorar la garantía de las condiciones generales del contrato que establece el artículo 89 de este Reglamento y la entrega de las obras a la entidad pública concedente en las condiciones y estándares constructivos y de servicio con la calidad especificada en las bases de licitación.
+  
+Ante dichos incumplimientos esta garantía y la de explotación, si subsiste, se ejecutarán por la entidad publica concedente a título de pena, para financiar con ellos la inmediata reparación de las obras o la sustitución de los elementos que se deterioren por su uso o debido a vicios ocultos que se presentaren.
+  
+Esta garantía debe ser entregada por la sociedad concesionaria a la entidad pública concedente con a lo menos 6 meses de anticipación al cumplimiento del plazo por el que se otorgó la concesión y con la vigencia establecida por el inciso c), del artículo 25 de la Ley, cumpliendo con la forma y cuantía que establezcan las bases de licitación. Sin embargo, el monto de esta garantía sumado al de la fase de explotación, no podrá exceder del valor total fijado para la garantía de la fase de construcción.
+
+**Artículo 94°.- (Constitución del contrato de concesión en garantía a terceros que financien la concesión o que garanticen su financiamiento)**   
+La sociedad concesionaria, sin necesidad de permiso o autorización del ente concedente según lo establece el artículo 29 de la Ley, podrá otorgar garantía a los financistas y a quienes garanticen el financiamiento requerido para la concesión, mediante derechos con prelación de pago sobre el mismo contrato de concesión, y sobre los flujos o ingresos futuros que de ella se deriven.
+  
+Del mismo modo, el concesionario podrá ceder derechos para la percepción, del todo o parte, de cualquier pago ofrecido por el ente público concedente que conste en el contrato o bien, constituir dichos pagos en garantía.
+  
+El instrumento en que conste cualquiera de estas garantías o la cesión de derechos sobre el pago del ente público concedente deberá ser inscrita en el Registro de Comercio de Sociedades por Acciones y en la Superintendencia de Transportes, practicando la correspondientes subinscripciones o anotaciones al margen de las inscripciones de la sociedad concesionaria y del contrato de concesión en ambos registros, con lo cual gozarán de la prelación para el pago que establece la norma legal citada respecto de otros acreedores que tengan el mismo privilegio pero lo inscriban con posterioridad. De no practicarse dichas inscripciones, los actos jurídicos de cesión de derechos o de cualquier forma de caución o garantía perderán la preferencia ante terceros acreedores.
+
+**Artículo 95°.- (Garantía a instituciones financieras o de garantía del financiamiento de la concesión)**   
+Las garantías que se constituyan con arreglo al artículo 29 de la Ley respecto de los bancos u otras instituciones de crédito o de garantía, nacionales o extranjeras o de los organismos multilaterales internacionales de financiamiento, gozarán del mismo privilegio de prelación de pagos desde el día de su inscripción y anotación en ambos registros, con pleno respeto de los derechos preferentes que se hubiesen constituido y registrado con antelación.
+  
+Si la sociedad concesionaria emite títulos de deuda, sean bonos u otro tipo de valores, de conformidad con la Ley del Mercado de Valores y la de Concesiones de Obras Públicas de Transporte y su Reglamento, tanto los tenedores de título, bonos u otros instrumentos como las personas o instituciones que garanticen el pago de dichos instrumentos, gozarán del mismo privilegio de prelación en el pago desde la constitución e inscripción y anotación de los documentos en que se constituye en el Registro de Comercio de Sociedades por Acciones y en la Superintendencia de Transportes, sobre todo acreedor, incluso de los que gocen del mismo privilegio pero posterior.
+
+**Artículo 96°.- (Información adicional a financistas y garantes del financiamiento de la concesión)**   
+Aquellas personas naturales o jurídicas que tengan debidamente constituidas, inscritas y anotadas en su favor las garantías de pago preferente que establece el artículo 29 de la Ley, deberán ser informados por el Superintendente de Transportes, de toda controversia que se suscite entre la o las entidades Públicas concedentes y el concesionario, o de los litigios que conozca entre terceros y la sociedad concesionaria a fin de que el acreedor preferente pueda comparecer en aquellos para resguardar o hacer efectivo su derecho de pago preferente.
+
+**Artículo 97°.- (Seguro de catástrofe en la fase de construcción)**   
+Quince días antes del inicio de la construcción de la obra, la sociedad concesionaria deberá hacer entrega de una o más pólizas de seguro por catástrofe al inspector fiscal de la concesión. Dicho seguro tendrá el valor que indiquen las bases de licitación, el que se fijará en un monto equivalente al 70% del valor total estimado de la construcción de la obra otorgada en concesión, con un deducible máximo del 1% del costo total de la obra. Las bases de licitación y el contrato de concesión autorizarán reducción proporcional del seguro de catástrofe al constatarse avance físico de las obras del 15%, 35% y del 70%, lo que autorizará a la sociedad concesionaria para cambiar dichos montos asegurados o alternativamente, mantener el monto total vigente.
+  
+La no entrega en forma, monto y plazo del seguro de catástrofe para la fase de construcción, con recepción conforme del inspector fiscal de la concesión autoriza para negar el inicio o suspender la construcción de las obras por el Director de la o las entidades públicas concedentes.
+  
+En caso de Catástrofe, dicho seguro tendrá como beneficiario a la sociedad concesionaria, la cual dispondrá de dichos fondos para la reconstrucción de la obra, después de entregar al ente público concedente una o más boletas bancarias de garantía por igual valor al pago de la indemnización correspondiente para caucionar el fiel cumplimiento en la aplicación de dichos fondos. Recepcionada nuevamente la obra por la entidad pública concedente, ésta devolverá, sin más trámites, las garantías correspondientes.
+  
+Este seguro deberá estar vigente por todo el período de la etapa de construcción de la concesión. Las pólizas de seguro por catástrofe no podrán estar incluidas, ni incluir las pólizas por responsabilidad civil a que se refiere el artículo 100 de este Reglamento, las que deben entregarse en forma separada.
+  
+La sociedad concesionaria deberá presentar al inspector fiscal de la concesión, para su aprobación, un borrador preliminar de la Póliza de Seguro más los antecedentes técnicos que la respaldan, el cual deberá contener como mínimo las condiciones generales y especiales del seguro, sus coberturas de riesgo, el valor de las obras aseguradas, las estimaciones de pérdidas máximas de la obra, los sublímites propuestos, etc. Con todo, las pólizas deberán contener, en forma explícita y obligatoria, cláusulas de rehabilitación automática, con cobertura 100% del tiempo mientras la póliza se encuentre vigente, de renuncia de los derechos de subrogación respecto de los asegurados y beneficiarios, de gastos de aceleración y de una cláusula que indique la imposibilidad de cancelar o dar término al seguro por parte del concesionario sin la aprobación otorgada por Escrito de la entidad o entidades públicas concedentes, según corresponda.
+  
+El inspector fiscal de la concesión podrá rechazar la o las pólizas por catástrofe si no cumplen los requisitos mínimos para una efectiva cobertura de los riesgos de la obra.
+
+**Artículo 98°.- (Seguro de catástrofe en la fase de explotación)**   
+Dentro de los 30 días anteriores a la puesta en servicio de la obra, el concesionario deberá presentar una nueva póliza de seguro de catástrofe que cubrirá el período de explotación de la concesión. Dicha póliza podrá contratarse en forma anual o en períodos mayores, debiendo acreditarse su renovación 30 días antes de la expiración de la anterior. A su vez, en todas y cada una de estas pólizas deberá constar el pago al contado de las mismas. La entrega del seguro de catástrofe para la fase de explotación, con incumplimiento en su forma, monto y plazo o sin recepción conforme del inspector fiscal de la concesión autoriza para diferir el inicio de la puesta en servicio por el Director de la entidad o las entidades públicas concedentes, según corresponda.
+  
+Las pólizas de seguro de catástrofe en la etapa de explotación tendrán los mismos requisitos, condiciones y formalidades que las definidas en el artículo anterior, pero el monto asegurado será el que fijen las bases de licitación, entendiendo asegurar como mínimo un 20% del valor de reposición de las obras. En ningún caso se aceptarán estimaciones de pérdidas máximas para el efecto de las contrataciones de los seguros que consideren valores residuales o depreciados de la obra.
+  
+Cualquier liquidación de las compañías de seguro que se realice con cargo a estas pólizas deberá ser presentada al inspector fiscal de la concesión para su aprobación por escrito.
+
+**Artículo 99°.- (Seguro de catástrofe en explotación parcial)**   
+Cuando se inicie la explotación parcial de la obra y se continúe la fase de construcción no se requerirá la contratación de un seguro adicional de catástrofe, cualesquiera que sea el valor vigente del seguro de la fase de construcción.
+
+**Artículo 100°.- (Normas sobre los seguros de responsabilidad civil por daños a terceros)**   
+Las pólizas de seguro por responsabilidad civil no podrán estar incluidas, ni incluir las pólizas de seguros por catástrofe a que se refieren los artículos 97, 98, y 99 de este Reglamento, debiendo entregarse en forma separada.
+  
+El inspector fiscal de la concesión deberá rechazar las pólizas si no cumplen los requisitos mínimos para una efectiva cobertura de riesgos de responsabilidad civil, de acuerdo a las estipulaciones de las bases de licitación y las generales aplicables.
+  
+Las pólizas de responsabilidad civil deberán contener, en forma explícita, cláusulas de responsabilidad civil cruzada, rehabilitación automática lo cual significa una cobertura del 100% del tiempo mientras la póliza se encuentra vigente, de renuncia a los derechos de subrogación, exclusiones y una indicación de la imposibilidad de cancelar, anular, rescindir o dar término al seguro por parte del concesionario sin la aprobación por escrito de la máxima autoridad ejecutiva de la o las entidades públicas concedentes, según corresponda.
+  
+De producirse daños a terceros, el concesionario será el único responsable pecuniariamente de las diferencias entre el monto pagado con cargo a la póliza y los daños que efectivamente deban ser indemnizados o reparados.
+  
+Será responsabilidad del concesionario hacer las gestiones ante la compañía de seguros para el pago de esos daños.
+  
+La no entrega en forma, monto y plazo del seguro de responsabilidad civil para la fase de construcción, o su falta de recepción conforme por el inspector fiscal de la Concesión autoriza al Director de las entidades públicas concedentes, según corresponda, para diferir el inicio o suspender la construcción.
+  
+En cambio, si aún se encuentra vigente el seguro de responsabilidad civil para la fase de construcción, la no entrega de este seguro para la fase de explotación, no autoriza postergar el inicio de la explotación total o parcial de la obra.
+
+**Artículo 101°.- (Seguros de responsabilidad civil por daños a terceros, en la fase de construcción)**   
+Quince días antes del inicio de la construcción de la obra, la sociedad concesionaria deberá presentar al inspector fiscal de la concesión una póliza de seguro por responsabilidad civil a favor del mismo concesionario, por el monto y moneda que determinen las bases de licitación con un deducible máximo del 1%, pagada al contado y por un período equivalente al plazo estimado de la recepción del total de la obra. Esta póliza cubrirá la responsabilidad civil en la etapa de construcción y las eventuales indemnizaciones que el ente público concedente se encontrase obligada a pagar por daños que con motivo de la ejecución de la obra sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido en la área de la concesión.
+  
+Para efectuar el pago, el concesionario podrá retirar esta póliza de la entidad pública concedente, canjeándola por una boleta bancaria que garantice la efectividad del pago que exime de toda obligación a la entidad pública concedente.
+
+**Artículo 102°.- (Seguro de responsabilidad civil en la fase de explotación)**   
+Dentro de los 30 días anteriores a la puesta en servicio de la obra, el concesionario deberá entregar al ente público concedente otra póliza de seguro a favor de la concesionaria, independientemente de la anterior, por el monto y en la moneda que fijen las bases de licitación y contrato de concesión, con un deducible máximo del 1%, que cubrirá el período de explotación de la concesión.
+  
+Esta póliza cubrirá la responsabilidad civil en la etapa de explotación y las eventuales indemnizaciones que el ente público concedente se encontrase obligado a pagar por daños que con motivo de la explotación de la obra sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del área de concesión, o en su vecindad inmediata y contigua. Se deberá incorporar en forma explícita en la cobertura de este seguro la responsabilidad civil por vehículos motorizados que transiten o se encuentren en el área de concesión. Dicha póliza podrá contratarse en forma anual o por períodos mayores, debiendo acreditarse su renovación 60 días antes de la expiración de la anterior. A su vez, en todas y cada una de estas pólizas deberá constar el pago al contado de las mismas.
+  
+Para efectuar el pago, el concesionario podrá retirar esta póliza del ente público concedente, canjeándola por una boleta bancaria que garantice la efectividad del pago que exime de toda obligación a la entidad pública concedente.
+  
+En todo caso, el concesionario deberá cubrir las diferencias si la cuantía de la póliza no fuera suficiente para pagar las eventuales indemnizaciones.
+
+**Artículo 103°.- (Seguros de responsabilidad civil por daños a terceros en explotación parcial)**   
+Las bases de licitación precisarán el valor complementario del seguro de responsabilidad civil por daños a terceros, cuando se inicie la explotación parcial de la obra y simultáneamente se continúe los trabajos de la fase de construcción inicial. Esta póliza adicional deberá entregarse dentro de los 15 días anteriores a la puesta en servicio parcial. Su no entrega en forma, monto y plazo, con recepción conforme del inspector fiscal de la concesión autoriza para diferir el inicio de la puesta en servicio por el Director de la entidad o entidades públicas concedentes, según corresponda.
+
+**Artículo 104°.- (Efectos por la destrucción total o parcial de la obra por caso fortuito)**   
+Como consecuencia de las normas sobre seguros de catástrofe en caso de destrucción total o parcial de la obra por caso fortuito durante su construcción o en la fase de explotación, el concesionario está obligado a su reparación total sin derecho a reembolso por parte de la entidad pública concedente.
+  
+En cambio, si se acredita que dichos daños son atribuibles de forma exclusiva a medidas impuestas por la entidad concedente después de haberse suscrito el contrato de concesión la entidad pública concedente deberá compensar las inversiones, trabajos, todo otro daño emergente y el lucro cesante, en que incurra el concesionario para reparar dicho daños, de conformidad a lo dispuesto en el artículo 38 de la Ley para nuevas inversiones. Si no hay acuerdo mutuo, decidirá la Superintendencia de Transportes, sin perjuicio de los derechos judiciales de reclamación que en derecho proceden a favor de la sociedad concesionaria.
+  
+Además, las bases de licitación y el contrato de concesión, sólo podrán exceptuar de las normas anteriores, a aquellos bienes que por su antigüedad, o sus particulares condiciones de estado o uso, o por su incidencia en la inversión reciban una garantía especial de la entidad pública concedente, en el evento de su destrucción total o parcial, sin tener cobertura del seguro de catástrofe o que el concesionario se niegue a su pago. En dicho caso, la inversión que deba efectuar el concesionario recibirá el tratamiento de nueva inversión y deberá ser compensada con arreglo a las normas que al efecto prevé el artículo 38 de la Ley para nuevas inversiones, y en caso de desacuerdo entre las partes, decidirá la Superintendencia de Transportes, sin perjuicio de los derechos judiciales de reclamación que en derecho proceden a favor de la sociedad concesionaria.
+
+## Título VIII Derechos y obligaciones generales del concesionario
+
+**Artículo 105°.- (Derechos y obligaciones del concesionario)**   
+La sociedad concesionaria, como titular de la concesión de obra pública de transporte, se obliga a efectuar a su cargo, costo y riesgo todos los trabajos de construcción, mejoramiento, rehabilitación, reparación, mantenimiento y operación de las obras y servicios contratados, a cambio de la concesión temporal de la explotación del servicio que ellas prestan al público, incluyendo el uso y goce sobre los bienes públicos, fiscales, o municipales, destinados a desarrollar las obras principales y sus áreas de servicio, en el marco normativo de la Ley, este Reglamento Orgánico y del específico, contenido en el contrato de concesión.
+  
+El concesionario estará siempre facultado para explotar los bienes, obras y servicios principales, complementarios y anexos, objeto de la concesión según las condiciones del contrato, por cuenta propia o por terceros, bajo su exclusiva responsabilidad ante la entidad pública concedente y los usuarios.
+
+**Artículo 106°.- (Derechos económicos del concesionario)**   
+Como contrapartida de los trabajos a que se obliga y de los servicios que preste, el concesionario percibirá y hará suyos el precio, tarifa y los aportes o asignaciones convenidas y los otros beneficios adicionales que expresamente se estipulen en el Contrato de Concesión.
+  
+El concesionario podrá siempre solicitar la revisión del régimen económico de la concesión por causas sobrevinientes que así lo justifiquen ante la Superintendencia de Transporte, de acuerdo a lo dispuesto por él articulo 28 de la Ley, el articulo 143 del presente Reglamento y las específicas que defina el contrato de concesión.
+
+**Artículo 107°.- (De los pagos de la entidad publica concedente previstos en el contrato)**   
+La entidad pública concedente realizará los aportes que le correspondan en virtud del contrato de concesión, según el procedimiento y plazos previstos al efecto en las bases de licitación y la Resolución de Adjudicación respectiva, debiendo la Sociedad Concesionaria solicitar a la entidad pública concedente hasta el 30 de septiembre del año anterior, mediante solicitud formal y por escrita, el flujo de desembolsos de aportes o asignaciones. La no presentación de este flujo de desembolsos eexime de toda responsabilidad a la entidad pública concedente por las demoras en obra que puedan darse debido al retraso de los pagos de aportes o asignaciones que correspondan en virtud del contrato de concesión.
+  
+En los casos a que diere lugar según lo dispuesto por la Ley y por no estar definidas en el contrato de concesión, la sociedad concesionaria deberá solicitar a la entidad pública concedente hasta el 30 de septiembre del año anterior, mediante solicitud formal y por escrita, el flujo de requerimiento de aportes de la entidad pública concedente especificando la cuantía y plazo en que deben realizarse.
+
+**Artículo 108°.- (De los pagos del concesionario al ente público concedente según el contrato)**   
+La sociedad concesionaria realizará los pagos que le correspondan en virtud del contrato de concesión conforme a sus estipulaciones.
+  
+Los pagos que la sociedad concesionaria deba realizar a la entidad pública concedente se harán mediante depósito en cuenta corriente que se señale en el contrato de concesión y a nombre de la entidad pública concedente.
+
+**Artículo 109°.- (Responsabilidad genérica del concesionario)**   
+La sociedad concesionaria es siempre responsable del cumplimiento cabal, íntegro y oportuno del contrato de concesión, de la correcta ejecución de los proyectos y de las obras, sin perjuicio de las funciones de dirección y control correspondientes que ejerza la entidad pública concedente.
+
+**Artículo 110°.- (Daños a terceros)**   
+La sociedad concesionaria deberá adoptar, durante la concesión, todas las medidas para evitar daños a terceros. Igualmente deberá tomar todas las precauciones para evitar daños a la propiedad de terceros y al medio ambiente durante toda la concesión.
+  
+La sociedad concesionaria es la única responsable de todo daño, de cualquier naturaleza, que con motivo de la ejecución de la obra y de su explotación se cause a terceros o al medio ambiente, a menos que el daño sea exclusivamente imputable a medidas impuestas por el ente público concedente después de la suscripción del contrato de concesión.
+
+**Artículo 111°.- (Responsabilidad laboral del concesionario)**   
+Para todos los efectos legales, el concesionario tendrá la responsabilidad total y exclusiva de su condición de empleador de todos sus trabajadores, quedando sujeto a las disposiciones del Ley General del Trabajo y demás legislación que regula las relaciones con sus trabajadores, así como a las leyes, reglamentos y estatutos sobre prevención de riesgos aplicables a la ejecución de las obras.
+  
+Es obligación del concesionario efectuar la denuncia de los accidentes de trabajo y de las enfermedades profesionales en conformidad con las disposiciones legales vigentes.
+
+**Artículo 112°.- (Subcontratos)**   
+La sociedad concesionaria podrá contratar o subcontratar con terceras empresas, nacionales o extranjeras, cualquier tipo de actividad comprendida dentro del contrato de concesión incluidas la elaboración de la ingeniería siempre y cuando se pretenda mejorar los estándares técnicos del diseño final o de los estudios para las otras modalidades de concesión, la construcción y toda otra obra u servicio, salvo que estuviera expresamente prohibido para una o más actividades estipuladas en las bases de licitación.
+  
+Pero, ante la entidad pública concedente y los usuarios la sociedad concesionaria será siempre responsable de la correcta ejecución y desarrollo del contrato de concesión. La Ley de Conciliación y Arbitraje No 1770, será la que resuelva los conflictos y litigios que se susciten entre el concesionario y los subcontratistas.
+
+**Artículo 113°.- (Obligaciones de información)**   
+La sociedad concesionaria está obligada a:
+  
+1 Otorgar libre acceso al inspector de la concesión para revisar el proyecto, planos, memorias de cálculo, especificaciones del proyecto de ingeniería y, en general, a todos los antecedentes que sean necesarios en su labor de fiscalización y control del cumplimiento de las obligaciones del contrato de concesión.
+  
+2 Entregar los estados financieros anuales de la sociedad concesionaria, presentados en el formato que exige la Superintendencia de Transportes.
+  
+3 Informar la organización y personal superior directivo y técnico de la sociedad concesionaria cuando ésta se constituya y cada vez que se produzca un cambio.
+  
+4 Informar de los créditos contratados con instituciones financieras reconocidas y las garantías otorgadas en que comprometan la prelación de pago que establece el artículo 29 de la Ley, indicando el nombre y domicilio de dichos acreedores y garantes.
+  
+5 Informar de los accidentes de trabajo y enfermedades profesionales, haciendo entrega, cuando corresponda, de las denuncias que se hubieren efectuado.
+  
+6 Informar del resumen mensual de reclamos presentados por los usuarios, identificando al usuario, el reclamo que ha formulado y las medidas adoptadas para superar los problemas, si procediera.
+  
+7 Proporcionar memoria estadística de tráfico en la forma y plazos que se establezcan en las bases de licitación.
+  
+Las bases de licitación y contrato de concesión, podrán siempre establecer cualquier otra información que el concesionario esté obligado a entregar al ente público concedente por intermedio del Inspector Fiscal de la Concesión o de la Dirección.
+
+**Artículo 114°.- (Estadísticas, mediciones y controles)**   
+La sociedad concesionaria debe realizar los controles, mediciones y estadísticas que las bases de licitación establezcan, respondiendo de la veracidad de la información. Permitirá el acceso de los Inspectores Fiscales autorizados por la Dirección, según corresponda, a las dependencias donde están establecidos los sistemas de control estadístico a fin de imponerse de ellos, verificar y controlar los resultados.
+  
+La Dirección se reserva el derecho de efectuar, en forma independiente, cualquier medición que estime conveniente, pudiendo utilizar las instalaciones de la concesionaria que tengan relación con los sistemas de control, sin afectar el funcionamiento normal de la concesión.
+  
+La Dirección establecerá en las bases de licitación los equipos y tecnología recomendados para realizar un efectivo control, medición y veracidad de la información estadística, siendo siempre el costo de la adquisición y manejo de estos equipos, por cuenta del concesionario.
+
+**Artículo 115°.- (Recursos administrativos internos del contrato)**   
+Las órdenes escritas que en el curso de la concesión dicte el inspector fiscal, sean en relación con las obras o con otras materias relacionadas con el contrato de concesión deberán contestarse por la Sociedad Concesionaria, por escrito dentro de los 5 días hábiles siguientes de recibida la notificación, ante el mismo inspector fiscal que las dictó. A estos efectos se entenderá recibido dicho recurso cuando conste en el Libro de Obras, o se haya enviado por cualquier medio que permita tener constancia fehaciente de su recepción. Dentro de los 5 días hábiles siguientes, el Inspector Fiscal se pronunciará sobre la reposición solicitada aceptándola, modificándola o rechazándola.
+  
+Una vez resuelta la reposición por el Inspector Fiscal que la dictó, la sociedad concesionaria podrá apelar ante la Dirección, dentro de un plazo de 5 días hábiles, a contar de la fecha resolución de reposición dictada por el inspector fiscal, entendiéndose que se ha hecho la apelación, cuando conste en el Libro de Obras o se haya enviado por cualquier medio que dé constancia fehaciente de su recepción. La Dirección resolverá la apelación, en un plazo no mayor de 7 días hábiles, contados desde su recepción en su oficina pudiendo dictaminar orden de no innovar.
+  
+En ningún caso la interposición de la reposición o de la apelación suspenderá los efectos de la orden reclamada, cuando ésta comprometa la seguridad del usuario, la continuidad en la prestación del servicio o la calidad de la obra ofrecida según lo dispuesto en el contrato de concesión.
+  
+Este procedimiento no impide el derecho del concesionario para elevar las discrepancias ante la Superintendencia de Transportes y sucesivamente ante la Justicia.
+
+### DE LA FASE PREVIA AL INICIO DE LA CONSTRUCCION.
+
+**Artículo 116°.- (Eventualidad de establecer un período inicial previo al inicio de la contabilización del plazo de la concesión)**   
+Cuando las bases de licitación lo establezcan podrá haber un período de tiempo intermedio entre el perfeccionamiento del contrato y el del inicio de la contabilidad de la concesión, el que no podrá en ningún caso exceder de un año, a contar del perfeccionamiento del contrato.
+  
+Para dicho lapso se designará un inspector fiscal de la concesión, que se encargará de coordinar la verificación o el desarrollo de los proyectos de ingeniería de detalle necesarios para la ejecución de las obras y/o coordinar el proceso de expropiaciones que debe ejecutar la entidad pública concedente y coordinar las adquisiciones de tierra que efectúe la sociedad concesionaria, todo ello con arreglo a las normas del contrato de concesión.
+  
+Durante dicho período el ente público concedente deberá priorizar el desarrollo de las expropiaciones y asegurar la disponibilidad de los terrenos públicos que quedarán afectados a la concesión, de todo lo cual mantendrá informada a la sociedad concesionaria, a través del inspector fiscal de la concesión.
+
+**Artículo 117°.- (Desarrollo de la ingeniería en la etapa inicial)**   
+Excepcionalmente y con autorización escrita por el Director, según corresponda, el concesionario deberá verificar los proyectos de ingeniería de detalle y de ser necesario corregirlos y someterlos a la aprobación del inspector fiscal de la concesión. Las obras respectivas se podrán ejecutar desde que dispongan de la aprobación genérica o específica por el inspector fiscal de la concesión.
+  
+El inspector fiscal de la concesión deberá siempre requerir que los proyectos de ingeniería de detalle presentados por el concesionario cumplan cabalmente con el contrato concesión.
+
+**Artículo 118°.- (Desarrollo de la ingeniería en la etapa inicial)**   
+El concesionario podrá iniciar la construcción, mejoramiento, rehabilitación, conservación y mantenimiento del todo o parte de la obra que cuente con la aprobación preliminar, por parte del Inspector Fiscal, de la metodología constructiva correspondiente, aún antes del inicio formal de la etapa de construcción.
+
+**Artículo 119°.- (Ampliación del plazo de inicio de construcción de las obras)**   
+Si durante la ejecución de las ingenierías de detalle a que se refiere él articulo 117 del presente reglamento, se produjeran atrasos ocasionados por fuerza mayor, caso fortuito, caso de hechos sobrevinientes o en la disponibilidad de terrenos producto de demora en perfeccionar las expropiaciones o de la disponibilidad material de los terrenos públicos o privados, que hagan inconveniente el inicio de la construcción de la obra, el concesionario deberá presentar al inspector fiscal de la concesión, su justificación por escrito antes de que transcurran 30 días desde que dichos hechos se hayan producido o se constaten dichos efectos.
+  
+Pasado ese período no se aceptará justificación alguna para postergar la fecha de inicio de la construcción de la obra.
+  
+El inspector fiscal de la concesión analizará las razones invocadas por el concesionario para justificar el atraso y propondrá al Director, la aceptación o rechazo de la ampliación del plazo. La Declaración de Aceptación por parte del Director, según corresponda, dará lugar a la misma ampliación del plazo de construcción y del plazo total de la concesión.
+  
+En caso de que el ente concedente negare la ocurrencia de los hechos o de los efectos, se someterá el diferendo a la Superintendencia de Transportes, y sucesivamente a la Justicia.
+
+**Artículo 120°.- (Planificación de las obras)**   
+Antes del inicio de la construcción de las obras el concesionario deberá presentar:
+
+1. Un Programa de Ejecución de Obras. El Programa de Ejecución de las Obras, incluirá todas las partidas y sus respectivas cubicaciones. Éste deberá garantizar el tránsito ininterrumpido durante todo el período de construcción y deberá ser entregado al inspector fiscal de la concesión 30 días antes del inicio de las obras para su aprobación. Éstos deberán señalar el conjunto de obras o vías alternativas a usar, procedimientos o tecnologías que aseguren el tránsito fluido en las vías que fuesen afectadas por la construcción de las obras y las medidas de seguridad vial adicionales que se requieran.
+2. Plan de Tránsito Expedito, Programa de Seguridad en el Tránsito y Programa de Señalización de Faenas. El Plan de Tránsito Expedito y los Programas de Seguridad en el Tránsito y de Señalización de Faenas, sólo se requerirán si se trata de trabajar en una obra en actual operación y deberán ser aprobados por el Director, a propuesta del inspector fiscal de la concesión. En dicho caso, el inspector fiscal de la concesión deberá verificar, en todo el período de construcción, que el Plan de Tránsito Expedito se cumpla a cabalidad en todo momento. La verificación del cumplimiento del plan se basará en un informe técnico de consultoría contratado a terceros.
+
+**Artículo 121°.- (Imposibilidad de inicio de la construcción en plazo del contrato)**   
+Siempre que la falta de disponibilidad suficiente y oportuna de terrenos impida o retarde el inicio de la ejecución de las obras o dificulte o haga imposible cumplir los Programas de Ejecución de Obras; de Seguridad en el Tránsito y de Señalización de Faenas y el Plan de Tránsito Expedito, el concesionario estará exento de responsabilidad y deberá concedérsele aumentos en los plazos de la construcción, de sus declaraciones de avance y el total de la concesión. Las compensaciones por los daños y pérdidas producidos, deberán ser aprobados por la Superintendencia de Transporte.
+
+**Artículo 122°.- (Del inicio de la construcción de las obras)**   
+El inspector fiscal de la concesión, certificará el inicio de las obras al llegar la fecha de su inicio, incluidas las prórrogas de dicho plazo si las hubiere, siempre que el concesionario disponga de acceso material a las faenas en al menos un 20% de los terrenos referidos, salvo que con ello no sea posible su inicio material efectivo y para trabajos útiles.
+
+**Artículo 123°.- (De la etapa de construcción)**   
+La etapa de construcción comienza en la fecha definida para la ejecución de las obras de acuerdo con lo estipulado en el contrato de concesión, con más sus prórrogas si las hubiere y finaliza con la puesta en servicio parcial o total de la obra según lo definido en las bases de licitación.
+  
+Dicha etapa está regida por las disposiciones de la Ley, el presente Reglamento y por las regulaciones del contrato de concesión y proyecto a ejecutar. Siempre comprende, al menos, las siguientes obligaciones:
+
+1. La construcción de las obras señaladas en las bases y proyecto de la licitación, en la variante contratada, cuando proceda según lo dispuesto por él articulo 117 del presente reglamento.
+2. El mantenimiento, reparación o rehabilitación de las obras preexistentes en el estándar que dispongan las bases y proyecto de la licitación, en la variante contratada, cuando proceda según lo dispuesto por él articulo 117 del presente reglamento.
+3. El uso y goce sobre bienes nacionales, departamentales o municipales, según corresponda, destinados a desarrollar la obra principal de la concesión.
+4. El uso y goce sobre bienes públicos, fiscales o municipales, según corresponda, destinados a áreas de servicios.
+
+**Artículo 124°.- (Plazos de la etapa de construcción y de las declaraciones de avance)**   
+Las bases de licitación podrán establecer plazos máximos para el inicio de la construcción y para la declaración de diversos niveles de avances de las obras y determinar las sanciones que correspondan en caso de retraso de las mismas.
+  
+El concesionario está obligado a iniciar la construcción de las obras en el plazo máximo que se establezca en el contrato de concesión. De igual manera esta obligado a concluir las obras y ponerlas en servicios en las fechas y plazos finales o parciales que se establezcan en el contrato de concesión. El incumplimiento de plazos por la sociedad concesionaria dará lugar a la aplicación de sanciones y multas establecidas en dicho contrato.
+
+**Artículo 125°.- (Ampliación en los plazos de las declaraciones de avance, de la etapa de construcción y del total de la concesión)**   
+Si durante la construcción de la obra se produjeran atrasos ocasionados por caso fortuito o fuerza mayor, la sociedad concesionaria debe presentar al inspector fiscal su justificación por escrito, dentro de los siguientes 30 días desde que se hayan producido, cumplido éste no se aceptará justificación alguna. El Director previo informe del inspector fiscal, analizará las razones invocadas por el concesionario para justificar el atraso, y decidirá la aceptación o rechazo de la ampliación de plazo de las declaraciones de avance, en el de la construcción y en el total de la concesión, por un periodo igual al del entorpecimiento o paralización, sin perjuicio de las compensaciones que proceda.
+  
+Cuando el retraso en el cumplimiento de los plazos parciales o del total, fuere imputable a la entidad pública concedente, la sociedad concesionaria gozará de un aumento en el plazo de la o las declaraciones de avance, en el de la construcción y en el total de la concesión, por un periodo igual al del entorpecimiento o paralización, sin perjuicio de las compensaciones que procedan.
+  
+En caso de desacuerdo entre las partes en la calificación de las causas o en la forma de aplicar los aumentos de plazo y las compensaciones que procedan, se someterá el diferendo a la Superintendencia de Transportes y sucesivamente a la Justicia.
+
+**Artículo 126°.- (Declaraciones de avance)**   
+Si las bases de licitación no disponen otra cosa, en función de la naturaleza de las obras, a los seis meses de iniciada la obra, el concesionario emitirá la primera declaración de avance de la misma. Este plazo será contado desde la fecha fijada para el inicio de las faenas. Dicha declaración deberá ser aprobada por el inspector fiscal de la concesión en el plazo de 15 días, siempre que constate un avance de, al menos, el 5% de la misma.
+  
+Las bases de licitación fijarán el plazo para la segunda declaración de avance a contar desde la fecha de inicio de la etapa de construcción, en función de la naturaleza de la obra. Dicha declaración deberá ser aprobada por el inspector fiscal de la concesión en el plazo de 15 días siempre que constate un avance de, al menos, el 50% de la misma.
+  
+En el caso de que dichas declaraciones no sean aprobadas, deberán ser presentadas nuevamente hasta que se produzca dicha aprobación, aplicándose la correspondiente multa fijada en el contrato de concesión.
+  
+Para el cálculo de las declaraciones de avance, el concesionario y el inspector fiscal de la concesión tendrán en cuenta el Presupuesto de Inversión presentado en la oferta, así como el Programa de Ejecución de Obras presentado por el concesionario.
+
+**Artículo 127°.- (Libro de obra durante la etapa de la construcción)**   
+Para el desempeño de su cometido, el inspector fiscal de la concesión de la etapa de construcción deberá contar, entre otros antecedentes, con un libro denominado “Libro de Obras”; en el cual se individualizará la obra a ejecutar, el concesionario y el inspector fiscal de la concesión, con mención de las Resoluciones pertinentes.
+  
+Este libro se mantendrá en las oficinas de la inspección técnica de la obra y el concesionario tendrá acceso a él todos los días durante la jornada de trabajo de la inspección.
+  
+En el libro, el inspector fiscal de la concesión y el concesionario señalarán los hechos más importantes durante el curso de la ejecución de la obra, en especial, las observaciones que pudieren merecer las obras ejecutadas, los materiales que se están empleando o que se pretende emplear y las instrucciones impartidas para corregir defectos y/o asegurar el cumplimiento por parte del concesionario de las especificaciones técnicas y de las obligaciones contraídas de acuerdo con el contrato, en especial de la mantención y seguridad en el tránsito.
+
+**Artículo 128°.- (Reglamento de servicio de la obra)**   
+El uso de la obra y los servicios que prestará la sociedad concesionaria se rige por el reglamento de servicio, éste incluye todas las normas derivadas de las bases de licitación y la oferta técnica. La sociedad concesionaria debe hacer entrega del borrador del mismo al inspector fiscal de la concesión, para su revisión y aprobación en el plazo fijado en las bases de licitación y en todo caso, con una anterioridad de 4 meses a la puesta en servicio parcial o total de las obras. El incumplimiento en la entrega de este borrador de Reglamento de Servicio de la Obra en la forma y plazo por las bases y el contrato de concesión dará lugar a la aplicación de sanciones y multas establecidas en dicho contrato.
+  
+El Reglamento de Servicio, de acuerdo a la naturaleza diversa de las concesiones que se otorguen y contraten, al menos contendrá:
+
+1. Medidas de cuidado de la obra, seguridad y vigilancia.
+2. Medidas de mantenimiento y aseo de las distintas instalaciones.
+3. Medidas orientadas a detectar, prevenir y solucionar los problemas de accidentes, congestión o de cualquier otra naturaleza que se puedan producir.
+4. Enumeración de los derechos y obligaciones de los usuarios por el uso de los servicios prestados, que deberá contener al menos los siguientes aspectos:
+   1. Medidas de mantenimiento y protección de las áreas protegidas.
+   2. Normas de utilización de los servicios obligatorios que establezcan las bases de licitación de los servicios complementarios.
+   3. Estándares de operación, calidad y gestión para la prestación de los servicios.
+   4. Normas sobre reclamos de los usuarios.
+   5. Mecanismos de evaluación y control de los servicios.
+        
+      En un plazo máximo de 60 días desde la recepción oficial del borrador de Reglamento de Servicio, el inspector fiscal de la concesión notificará a la sociedad concesionaria la aprobación, observaciones a dicho documento o su rechazo de pleno.
+        
+      En los dos últimos casos, dentro de los siguientes 30 días corridos, la sociedad concesionaria debe entregar el nuevo borrador para su aprobación.
+        
+      La Dirección no autorizará la puesta en servicio provisorio parcial o total de la concesión si ella no ha aprobado previamente el Reglamento de Servicio de la obra.
+        
+      No obstante, en el caso de que el inspector fiscal de la concesión no respondiere en el plazo indicado en el párrafo precedente, el Reglamento de Servicio se entenderá aprobado.
+
+**Artículo 129°.- (Modificación del plazo de puesta en servicio de las obras)**   
+Si durante la construcción de la obra se produjeran atrasos ocasionados por caso fortuito o fuerza mayor, incluida expresamente la aparición de obras arqueológicas u otras, que signifiquen paralización temporal de las obras, el concesionario deberá presentar al inspector fiscal de la concesión su justificación por escrito de la paralización temporal, antes de que transcurran 30 días desde que se hayan producido los hechos y en todo caso antes del término del plazo vigente. Pasado ese período no se aceptará justificación alguna.
+  
+El inspector fiscal de la concesión analizará las razones invocadas por el concesionario para justificar el atraso y propondrá al Director, la aceptación o rechazo de la ampliación del plazo de construcción y del total de la concesión. Dicha declaración de aprobación o rechazo deberá realizarse por escrito y deberá estar autorizada por el Director.
+  
+En caso de que la entidad pública concedente negare la ocurrencia de los hechos o de los efectos, se someterá el diferendo a la Superintendencia de Transporte.
+
+**Artículo 130°.- (Autorización de puesta en servicio provisoria, parcial o total)**   
+La sociedad concesionaria podrá solicitar la puesta en servicio provisoria, total o parcial de la obra, cuando se trate de unidades que admiten explotación independiente y así lo estipulan las bases de licitación. También en las Bases de Licitación se podrá autorizar la puesta en servicio provisoria parcial cuando la obra alcanza un nivel de niveles de servicio superior, pese a lo cual deberán generarse otros trabajos para lograr otros estándares superiores o complementarios, según lo estipulado en el contrato de concesión.
+  
+El comienzo de la puesta en servicio provisoria parcial o total, origina el derecho al cobro de las tarifas que el contrato autoriza, a favor de la sociedad concesionaria. La puesta en servicio provisoria total inicia la plena fase de explotación de la concesión.
+  
+El Director debe aprobar o rechazar la puesta en servicio provisoria en un plazo máximo de 20 días, contados desde la fecha de presentación de la solicitud. Para estos efectos, la sociedad concesionaria presentará su solicitud en la Oficina de la Dirección, acompañando todos los documentos exigidos en las bases de licitación para la puesta en servicio parcial o total, la garantía de explotación, seguros que correspondan a ésta etapa, Reglamento del Servicio de la Obra, entre otros.
+  
+Cumplidas las condiciones anteriores y en el caso que la obra sea aprobada técnicamente según el procedimiento del artículo siguiente, el Director de inmediato y mediante Resolución autorizará la puesta en Servicio Provisoria del total o parte de la obra, cuando esta sea susceptible de explotación independiente, comenzando la etapa de explotación y comunicando de ello a la Superintendencia de Transporte.
+
+**Artículo 131°.- (Recepción técnica provisoria, parcial o total)**   
+Solicitada por el concesionario la autorización de puesta en servicio provisorio, se designará una Comisión de Autorización de Puesta en Servicio Provisoria, integrada por el Inspector Fiscal de la Concesión; un profesional universitario con titulo en provisión nacional del rubro de ingeniería de la Unidad de Ejecuccion, Construcción y Explotación de Obras por Concesión dependiente de la Dirección General de Concesiones de Obras Públicas de Transporte y un representante del Viceminstro de Transporte, Comunicación y Aeronáutica Civil, Prefecto o Alcalde, según corresponda.
+  
+Dentro de los diez días desde la recepción oficial de la solicitud de puesta en servicio parcial, se citará al concesionario para la inspección de la obra. Comprobado el estado satisfactorio de las obras e instalaciones y su correspondencia con el proyecto y demás especificaciones técnicas aprobadas, se levantará el acta correspondiente, que firmarán el representante de la sociedad concesionaria y los miembros de dicha Comisión. Dicha acta se extenderá por triplicado, quedando un ejemplar en poder de la sociedad concesionaria.
+  
+Si las obras se encontraren incompletas o defectuosas, ello se hará constar en un Acta suscrita por la Comisión que contendrá una descripción pormenorizada de las omisiones o defectos observados y se procederá, de la siguiente forma:
+
+1. En el caso de fallas menos graves se autorizará la puesta en servicio provisoria parcial o total de la obra, con cargo a reparar esas fallas antes de la puesta en servicio definitivo, o antes si lo estima pertinente la comisión, pero sin dilatar la puesta en servicio provisoria.
+2. En el evento de que las fallas sean graves no se autorizará la puesta en servicio provisoria parcial o total de la obra, hasta su reparación fijándole un plazo razonable para ello.
+
+**Artículo 132°.- (Puesta en servicio definitiva)**   
+La sociedad concesionaria deberá solicitar la recepción de la puesta en servicio definitiva de la obra, la que siempre será del total de la obra, dentro del plazo establecido en las bases de licitación, el que no podrá ser superior a un año, a contar de la autorización de la puesta en servicio provisoria total de la obra. Las bases de licitación establecerán los requisitos y condiciones para autorizar dicha puesta en servicio.
+  
+Solicitada por la sociedad concesionaria la autorización de puesta en servicio definitivo, se designará una comisión integrada por tres profesionales: el Inspector Fiscal de la Concesión; un representante del Viceministerio, Prefectura o Municipalidad según corresponda, y un representante de la Superintendencia de Transportes.
+  
+Dentro de los 10 días, contados desde la recepción de la solicitud de puesta en servicio definitivo, se concertará la inspección de la obra. Comprobado el estado satisfactorio de las obras e instalaciones y su correspondencia con el proyecto y demás especificaciones técnicas aprobadas, se levantará el acta correspondiente. Si las obras se encontraren incompletas o defectuosas, se hará constar en el acta, que contendrá una descripción pormenorizada de las omisiones o defectos observados y se procederá conforme a lo estipulado en este Reglamento. El acta se firmará por los miembros de la comisión y el representante de la sociedad concesionaria y se extenderá por triplicado, quedando un ejemplar en poder de la sociedad concesionaria.
+  
+El concesionario no podrá poner en servicio definitivo la obra hasta que las omisiones o defectos sean subsanados a satisfacción de la Comisión, en los plazos establecidos en el acta. En caso de fallas graves, el Director podrá cesar la puesta en servicio provisorio autorizada y, en consecuencia, el cobro de tarifas, sin perjuicio de las demás sanciones que procedan.
+  
+En caso de fallas menos graves, el Director podrá extender la puesta en servicio provisoria de la obra. La autorización señalará los plazos límites otorgados para subsanar o completar las obras o instalaciones, sin perjuicio de las sanciones que puedan aplicarse.
+  
+La sociedad concesionaria está obligada a entregar a la Entidad Publica Concedente las Especificaciones y planos Definitivos de Obra en un plazo máximo de 6 meses a contar desde el día siguiente al de la puesta en servicio definitiva total de la obra. Se procederá de igual manera en aquellos casos en que se ejecuten obras nuevas, ampliación, mejoramiento o modificación del todo o parte de las obras en el curso del contrato de concesión.
+
+**Artículo 133°.- (Constancia de la autorización y comunicación de la puesta en servicio definitiva)**   
+La puesta en servicio definitiva será autorizada mediante memorándum del Director y en él deberá constar el monto total de la inversión realizada por el concesionario. Este documento se notificará a la sociedad concesionaria y se le hará conocer a la Superintendencia de Transportes.
+
+**Artículo 134°.- (Etapa de explotación)**   
+La etapa de explotación se inicia con la puesta en servicio provisoria total de las obras y comprenderá:
+
+1. La prestación del servicio básico, servicios complementarios, y otros servicios para los que fue construida la obra.
+2. La conservación de la obra en óptimas condiciones de uso, según lo exigido por las bases de licitación;
+3. El cobro de tarifas que pagarán los usuarios de los servicios básicos y de los precios por los otros servicios que esté autorizado a prestar el concesionario en virtud del contrato de concesión.
+4. La ejecución de las obras de conservación o nuevas que deban ejecutarse o construirse una vez que la obra haya sido puesta en servicio, según lo estipulado en las bases de licitación.
+5. El uso y goce sobre bienes nacionales, departamentales o municipales, según corresponda, de uso público en los que se desarrolle la obra en concesión.
+6. El uso y goce sobre bienes nacionales, departamentales o municipales de uso público, según corresponda, destinados a áreas de servicios.
+7. La percepción por el concesionario de los aportes, asignaciones y otros pagos que en virtud del contrato deba efectuar la entidad pública concedente a favor de este.
+8. Cuando hubiere lugar, la percepción por el concesionario de los pagos por seguros y garantías que en virtud del contrato de concesión deba efectuar la entidad pública concedente o terceros.
+
+**Artículo 135°.- (Obligación de servicio indiscriminado)**   
+Desde que la obra en concesión sea entregada parcial o totalmente al servicio público, la sociedad concesionaria está obligada a mantener un servicio ininterrumpido y sin discriminación a ningún usuario, siempre que éstos últimos cumplan con las condiciones del servicio y con el pago de las tarifas autorizadas, salvo situaciones excepcionales, atribuidas a caso fortuito o de fuerza mayor.
+  
+El concesionario queda autorizado para establecer tarifas, convenios o cobros diferenciados en beneficio de los usuarios, en atención a la intensidad de su uso de la obra, o al sistema de pago de la tarifa, o al compromiso de su uso mínimo en un período de tiempo, o que dichos beneficios sean asegurados a todos los usuarios de dicha categoría, u otras de similar naturaleza, siempre que dichas tarifas, convenios o cobros especiales, no discriminen a ningún usuario que reúna las condiciones necesarias para optar a tales tarifas, convenios o cobros o hasta agotar el cupo de las promociones.
+
+**Artículo 136°.- (Prohibición absoluta al concesionario de cobro de tarifas diferentes a las autorizadas)**   
+El concesionario no podrá cobrar en ninguna condición o circunstancia a ningún usuario una tarifa diferente a la autorizada en el contrato de concesión o a lo establecido por la Superintendencia de Transporte.
+
+**Artículo 137°.- (Obligación de prestación del servicio ininterrumpido)**   
+La sociedad concesionaria debe garantizar el uso ininterrumpido de la obra en concesión y, además, está obligada a mantener a su costo y operables las variantes por los que fuere necesario desviar el tránsito a causa de la ejecución de trabajos en las obras.
+
+**Artículo 138°.- (Alteración de la prestación del servicio)**   
+Cuando la sociedad concesionaria prevea una alteración temporal en el nivel del servicio prestado, como consecuencia de la realización de los trabajos, deberá comunicarlo al inspector fiscal, a lo menos, con 15 días de anticipación al hecho.
+  
+El inspector fiscal de la concesión podrá exigir al concesionario la adopción de medidas conducentes a procurar las mínimas interferencias posibles en el uso normal de la obra. Estas medidas podrán referirse a fijación de horarios de trabajos en las obras, señalización, precauciones de seguridad, plazo máximo de ejecución de obras y otras necesarias para el resguardo del usuario.
+
+**Artículo 139°.- (Término de la etapa de explotación)**   
+Sin perjuicio de las fases ulteriores de inversión y construcción previstas en el contrato que deban efectuarse durante la fase de explotación, esta etapa del contrato concluye con el término de la concesión, la cual se garantiza y rige por las normas de la Ley, este Reglamento y el contrato de concesión.
+
+## Título IX Facultades de la administración
+
+### Sección I De la Superintendencia de Transporte
+
+**Artículo 140°.- (Facultades de la Superintendencia de Transporte)**   
+Desde el inicio de la fase de explotación, mediante la puesta en servicio total o parcial de la concesión con el consiguiente cobro de tarifas a favor de la concesionaria, la Superintendencia de Transportes esta facultada para controlar, inspeccionar y vigilar el cumplimiento de las obligaciones del concesionario con respecto a los usuarios, y muy en especial de aquellas referidas al cumplimiento del régimen tarifario establecido en el contrato de concesión y de la modificación del régimen económico de la concesión si hubiere lugar y para ejercer todas las demás funciones que le define la Ley.
+  
+En especial la Superintendencia de Transporte deberá aprobar y ordenar la publicación de las tarifas máximas por los servicios principales y de todo otro cobro autorizado por servicios adicionales incorporados en la concesión, que no se rigen por las normas de mercado y en consecuencia, se encuentren integrados en el régimen tarifario del contrato de concesión.
+  
+Sus facultades se ejercerán desde que se inicie el cobro de tarifas en parte o en toda la extensión de la obra en concesión.
+  
+Además de las funciones legales de la Superintendencia de Transporte, las bases de licitación y contrato de concesión podrán encargarle otras funciones y atribuciones especiales siempre que ellas sean compatibles con la normativa legal y reglamentaria de la Superintendencia de Transportes.
+
+**Artículo 141°.- (De la supervisión de la Superintendencia de Transportes para la regulación de la concesión)**   
+La Superintendencia de Transporte bajo sus normas legales sectoriales derivadas de la [Ley Nº 1600](https://www.lexivox.org//norms/BO-L-1600.html) deberá dar cumplimiento a lo estipulado en la Ley y el presente Reglamento Orgánico para la regulación de la concesión.
+
+**Artículo 142°.- (Facultades y funciones de la Superintendencia de Transporte en la etapa de explotación de la concesión)**   
+Según lo dispuesto en los Artículos 47 y 48 de la Ley, en relación con sus facultades legales y reglamentarias, la Superintendencia de Transportes, durante toda la fase de explotación, además de ejercer las facultades que define el artículo 140 de este Reglamento Orgánico podrá:
+
+1. Imponer al concesionario las multas que establezcan las bases de licitación y contrato de concesión.
+2. Imponer al concesionario las multas por el incumplimiento de las Resoluciones Administrativas emitidas por el Ente Concedente o por la Superintendencia de Transporte.
+     
+   Las multas antes referidas se consolidarán en favor de la Dirección, según corresponda, las cuales conformarán un fondo de apoyo para las concesiones según lo establece el artículo 48 de la Ley.
+
+**Artículo 143°.- (Facultades legales especiales de la Superintendencia de Transporte durante toda la vigencia de la concesión)**   
+La Superintendencia de Transportes, será competente para conocer y resolver, en primera instancia, esté o no estipulado en el contrato de concesión, las siguientes materias:
+
+1. Acorde a lo que establece el Artículo 28 de la Ley y ante requerimiento escrito y fundado del concesionario, la petición de declaración de la ocurrencia de hechos sobrevinientes y la formula de revisión y de ajuste del sistema tarifario del contrato de concesión que propone para el tiempo restante de su vigencia o para un período menor.
+     
+   La Superintendencia, hará conocer de dicha petición al o a los entes públicos concedentes, quienes deberán obligatoriamente informar a ella, en un plazo razonable en función de la complejidad del tema. Si el o las entidades públicas concedentes lo estiman necesario o conveniente, comparecerán en el procedimiento como parte contradictora o coadyuvante.
+     
+   En el caso de que la Superintendencia declare afirmativamente dicha ocurrencia deberá definir su naturaleza, el período de sus efectos y determinar los daños y perjuicios y demás incidencia económica en el contrato. Para restablecer las condiciones de la contratación fijará los ajustes al régimen tarifario que procedan como compensación por dicha causa, sea por el plazo total de vigencia del contrato o por un período menor, determinado o determinable.
+     
+   De la declaración de improcedencia de las causales invocadas como medidas compensatorias definidas por la Superintendencia, dentro del plazo que se fije para interponer acciones o recursos en los casos administrativos desde su notificación, el concesionario y la o las entidades concedentes, una vez agotados los recursos jerárquicos ante el SIRESE, solo podrán recurrir ante la Excma Corte Suprema quién resolverá en definitiva.
+2. Conocer y resolver, acerca de las controversias entre la sociedad concesionaria y la entidad pública concedente acerca de las compensaciones e indemnizaciones que procedan en aquellos casos en que la autoridad concedente disponga, por razones de interés público fundado, modificar las obras, sus características o los niveles de servicio contratados dentro de los montos que al efecto autorizan las Bases de Licitación o el artículo 38 de la Ley. Previo a su resolución hará conocer a la parte que corresponda de las reclamaciones y de toda presentación que efectúe la otra parte. Antes de resolver, podrá disponer los peritajes e informes técnicos de consultoría que estime procedentes y sugerir formulas de conciliación.
+     
+   La Superintendencia queda especialmente facultada antes de su fallo para solicitar, en un plazo razonable y de igual extensión para ambas partes, una formula final que proponga cada parte para resolver todos los puntos en disputa. En este caso, la Superintendencia en su fallo deberá optar por una de ambas en su integridad.
+     
+   En contra de sus resoluciones procederán todas las acciones y recursos judiciales que dispone la [Ley Nº 1600](https://www.lexivox.org//norms/BO-L-1600.html) y el [Decreto Supremo Nº 24505](https://www.lexivox.org//norms/BO-DS-24505.html).
+3. Declarar la suspensión temporal de la concesión cuando concurra alguna de las causales establecidas en el artículo 51 de la Ley, a petición fundada de cualquiera de las partes del contrato de concesión. La Superintendencia hará conocer a la otra parte por un plazo razonable para que fundadamente se oponga o se allane, al todo o parte de dicha presentación.
+     
+   En el evento de declarar la suspensión temporal de la concesión y concluidos los hechos que la causaron, previo informe de ambas partes, la Superintendencia determinará el período de entorpecimiento que ha afectado al contrato de concesión y sus efectos en él, declarándolo prorrogado el plazo de la concesión y todo otro término, por un período adicional de tiempo igual y fijando otras compensaciones que procedan según se estipule en las bases de licitación y contrato de concesión o por su apreciación técnica.
+     
+   De la declaración de improcedencia de la suspensión de la concesión o de las medidas compensatorias definidas por la Superintendencia, dentro del plazo que se fije para los casos administrativos, contados desde su notificación, el concesionario podrá recurrir ante la Justicia, en uso de las acciones o recursos que en derecho proceden.
+
+**Artículo 144°.- (Tasa de regulación en favor de la Superintendencia de Transporte)**   
+Las bases de licitación, Resolución de Adjudicación y el contrato de concesión fijarán el monto y modalidad de pago de la tasa de regulación que pagará cada concesionario en favor de la Superintendencia de Transportes, atendidas las características de cada caso, cuyo valor ha sido fijado por el Artículo 47 de la Ley, en un máximo de 0.35 por ciento sobre los ingresos brutos de la concesionaria, desde el inicio de la explotación provisoria, parcial o total hasta la terminación de la explotación definitiva de la concesión.
+  
+Sobre la tasa de regulación, establecida en él articulo 47 de la Ley, todos los entes públicos concedentes quedan obligados a convocar a la Superintendencia de Transporte en la fase de elaboración de las bases de licitación de cada proyecto de concesión para que esta inicie él la evaluación que definirá la fijación de dicha tasa. Para determinar la tasa de regulación, la Superintendencia de Transportes, en la fase de elaboración de las bases de licitación de cada proyecto de concesión, deberá solicitar información de los niveles de obra, inversión total, flujos de tráfico e ingresos y demás parámetros establecidos en el estudio de negocio de la concesión, para que pueda precisar el monto de la tasa de regulación a aplicar. La Superintendencia dispondrá del plazo de 15 días desde la recepción oficial de la documentación remitida por el o las entidades concedentes, según corresponda, para informar su proposición de fijación del valor y modalidades de recaudación de dicha tasa.
+  
+En ningún caso el o los entes públicos concedentes fijarán por su cuenta la tasa máxima que autoriza el artículo 47 de la Ley.
+  
+Esta tasa sólo se aplicará y pagará desde el inicio de la explotación parcial o total de la respectiva concesión con el objeto de solventar los costos en que la Superintendencia incurra en el cumplimiento de las funciones que la Ley, este Reglamentación y el respectivo contrato de concesión le impongan.
+
+### Sección II Del ente público concedente
+
+**Artículo 145°.- (Facultades de el Director durante el contrato de concesión)**   
+Además, de las facultades específicas que la Ley le otorga y de las que se le confieran en el presente reglamento, cada base de licitación y contrato de concesión, durante la vigencia del contrato, el Director tendrá siempre, a lo menos, las siguientes atribuciones:
+
+1. Proponer una terna al Viceministro, Prefecto o Alcalde, según corresponda, para la designación del Inspector Fiscal de la Concesión
+2. Controlar la entrega, recepción, custodia y devolución conforme a los términos del contrato de las boletas de garantía y seguros que correspondan en cada momento del desarrollo del contrato de concesión.
+3. Aprobar las solicitudes que correspondan, planteadas por la sociedad concesionaria especialmente en lo relativo a los aspectos técnicos y legales o proponer su respuesta al Viceministro, al Prefecto o Alcalde, según corresponda.
+4. Otorgar a la sociedad concesionaria autorización expresa para la modificación de los estatutos de la sociedad o para enajenar y gravar bienes y derechos, en los casos previstos por la Ley en sus artículos 23, párrafo tercero y articulo 30.
+5. Pactar las modificaciones al contrato que sean necesarias por razones de interés público o por mutuo acuerdo entre las partes, así como las compensaciones e indemnizaciones, en los casos en que procedan, conforme a lo dispuesto por los artículos 38 o 39 de la Ley. Para su perfeccionamiento, estas modificaciones deberán contar con la aprobación previa del Viceministro, Prefecto o Alcalde, según corresponda y se perfeccionarán con las mismas formalidades de la Resolución de Adjudicación.
+6. Controlar el cumplimiento de las normas técnicas de las obras y servicios
+7. Proponer a la Superintendencia de Transportes la aceptación o rechazo del plazo de concesión por causas sobrevinientes que así lo justifiquen.
+8. Revisar y recomendar la aprobación del Reglamento de Servicio de la Obra.
+9. Dictar las órdenes de interés público para el cumplimiento o modificación del contrato de concesión, con Visto Bueno previo del Viceministro, Prefecto o Alcalde, según corresponda y dando para ello cumplimiento de las formalidades previas y solemnidades que cada una de ellas requiera atendida su naturaleza.
+10. Autorizar la puesta en servicio de la obra, parcial o total, y comunicarlo a la Superintendencia de Transportes en cumplimiento del artículo 37 de la Ley.
+      
+    Igualmente, podrá poner término a la autorización de puesta en servicio parcial, en los casos indicados por la ley, este reglamento y el contrato de concesión, notificando de ello a la Superintendencia de Transporte.
+11. Representar al ente público concedente en caso de abandono de la obra o interrupción del servicio, para intervenir la concesión previa autorización de la Superintendencia de Transporte. Del mismo modo, deberá solicitar la declaración de incumplimiento grave para el caso previsto en el párrafo 3ero, del artículo 49 de la Ley.
+12. Representar al ente público concedente en casos de cesión voluntaria o forzosa de la concesión.
+13. Informar a los acreedores que tengan constituida en su favor la prelación de pago o caución de los aportes o asignaciones de la entidad publica concedente en favor del concesionario.
+14. Informar a los acreedores acerca de las controversias con la sociedad concesionaria que se sometan a la Superintendencia de Transporte o a los Tribunales y a los demás acreedores que así lo soliciten, que hubieren justificado su título.
+      
+    El Director responderá siempre ante la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html).
+
+**Artículo 146°.- (Actuación de la asesoría de la inspección técnica de las obras por concesión)**   
+La Dirección, según corresponda, podrá contar con una Asesoría de Inspección Técnica de las Obras por Concesión (AITOC), que dará apoyo técnico, jurídico y administrativo a la Inspección Fiscal de las Concesiones, con el objeto de que se disponga de sus servicios para fines específicos y con contratos temporales, cuando así se lo requiera.
+
+**Artículo 147°.- (Inversión y obras del contrato de ejecución diferida en etapas)**   
+Las bases de licitación establecerán si la inversión y la construcción a que obliga la concesión, podrá realizarse en una o varias etapas, durante el período de vigencia del contrato de concesión, para dar cumplimiento a los niveles de servicio pactados, así como los plazos y condiciones a que ellas se sujeten.
+  
+Las bases de licitación declararán específicamente que ellas forman parte de la inversión y obras contratadas para la concesión, por lo que su ejecución no dará lugar a compensaciones, con la sola excepción de que para ese evento se autoricen tácitamente nuevas tarificaciones expresamente definidas en las bases de licitación y contrato de concesión, sea para parte de las obras o para el total de la concesión o se aumenten los plazos de la explotación y del total de la concesión, en los períodos determinados o determinables según las expresas disposiciones de las bases de licitación y el contrato de concesión.
+
+### Sección III Modificaciones al contrato de concesión
+
+**Artículo 148°.- (Derechos del concesionario de mejorar las obras y estándares de los servicios del contrato, sin compensación adicional)**   
+Desde que se perfeccione el contrato la sociedad concesionaria podrá proponer al inspector fiscal de la concesión modificar las características o métodos constructivos de las obras y los estándares de los servicios contratados para mejorarlos.
+  
+Dentro del plazo de 30 días la Dirección, a través del Inspector Fiscal de la Concesión, comunicará al concesionario si acepta los mejoramientos en las obras o en los niveles de servicios o en sus métodos constructivos o de niveles de servicio.
+  
+En ningún caso procederá compensar, a ningún título, las mejoras que se introduzcan en las obras, en virtud de las inversiones que se efectúen con arreglo a las disposiciones de este artículo.
+
+**Artículo 149°.- (Modificación a las obras, sus características o al nivel de sus servicios, por causas de interés público)**   
+La entidad pública concedente en el ejercicio de las facultades que le confiere el artículo 38 de la Ley, representado por el Director, con la autorización previa del Ministro de Desarrollo Económico y del Ministro de Hacienda expresada en una Resolución Suprema, por razones de interés público debidamente fundadas podrá ordenar nuevas inversiones para modificar las obras, sus características y los niveles de servicios, aún cuando esté pendiente la determinación de las compensaciones e indemnización que procedan y su forma de pago.
+  
+La Dirección podrá exigir garantías adicionales para la construcción de estas obras.
+  
+Las bases de licitación establecerán el monto máximo de la inversión que el concesionario puede estar obligado a realizar en virtud de lo dispuesto en los párrafos anteriores, así como el plazo máximo dentro del cual la Dirección podrá ordenar la modificación de las obras en concesión.
+  
+Si las bases de licitación nada dicen al respecto, el monto máximo de éstas nuevas inversiones no podrá exceder del 15 % del monto total de la inversión efectuada por la sociedad concesionaria.
+  
+En caso de que la modificación sea exigida durante el periodo de construcción y no sea posible determinar la inversión total que realizará la concesionaria, para determinar de modo preciso el monto máximo que ella realizará, se utilizará el presupuesto de la oferta adjudicada, utilizando los precios unitarios y/o series de precio, debidamente reajustado para su cálculo y estimación provisional.
+  
+La Dirección no podrá requerir las modificaciones en una fecha posterior al cumplimiento de la mitad del plazo total de la concesión, salvo que así lo hubiese dispuesto expresamente las bases de licitación o en los casos de expreso acuerdo por escrito con la sociedad concesionaria.
+  
+Si las partes acuerdan las compensaciones e indemnización se suscribirá un convenio modificatorio del contrato de concesión, ad referéndum de su aprobación mediante Resolución Suprema, la cual deberá llevar la firma de los Ministros de Desarrollo Económico y de Hacienda, y por Resolución de la Prefectura o Municipalidad, según corresponda, que se publicará por una sola vez en la Gaceta Oficial o en un periódico de circulación nacional, según corresponda. La sociedad concesionaria deberá protocolizar un ejemplar debidamente autenticado de dicho convenio complementario y de la Resolución que lo aprueba, ante la Notaria de Gobierno competente y los hará anotar en los Registros que indica el numeral 1 del artículo 83 de este Reglamento. Mientras ese requisito de registro no se cumpla su contenido no será oponible a terceros.
+  
+Si no hay acuerdo entre las partes, las diferencias se someterán a la Superintendencia de Transporte, según se establece en el artículo 38 de la Ley y en el 143 numeral 2 de este Reglamento Orgánico. Contra las Resoluciones de la Superintendencia procederán todos las acciones y recursos dispuestos por la legislación del Sistema de Regulación Sectorial y por la normativa legal vigente.
+
+**Artículo 150°.- (Modificaciones a las obras o a su nivel de servicio por mutuo acuerdo entre las partes)**   
+Si durante la vigencia de la concesión la obra resultare insuficiente para la prestación del servicio y se considerare conveniente su ampliación o mejoramiento, por iniciativa de la entidad pública concedente o a solicitud del concesionario, se procederá a la suscripción de un convenio complementario al contrato de concesión, de conformidad con la facultad que a las partes del contrato entrega el artículo 39 de la Ley.
+  
+Mediante un convenio complementario se acordará las particulares condiciones a que deba sujetarse la realización de la obra y su repercusión en el régimen de tarifas, en cualquier otro factor del régimen económico o en el plazo de la concesión, quedando facultada la entidad pública concedente para incluir en ese convenio, a título de compensación, uno o varios de esos factores a la vez.
+  
+Las bases de licitación podrán establecer las normas sustantivas y mecanismos que se aplicarán para modificar el contrato y compensar las nuevas inversiones que requieran estas obras.
+  
+La aprobación del respectivo convenio complementario se hará previo informe de la entidad pública concedente, mediante Resolución Suprema, que deberá llevar las firmas de los Ministros de Desarrollo Económico y de Hacienda, o por Resolución de la Prefectura o Municipalidad, según corresponda, que se publicará por una sola vez en la Gaceta Oficial o en un periódico de circulación nacional, según corresponda. La sociedad concesionaria deberá protocolizar un ejemplar debidamente autenticado de dicho convenio complementario y de la Resolución respectiva que lo apruebe, ante la Notaria de Gobierno competente y los hará anotar en los Registros que indica el numeral 1 del artículo 83 de este Reglamento. Mientras este requisito de registro no se cumpla su contenido no será oponible a terceros.
+
+**Artículo 151°.- (Formalidades a cumplir en las modificaciones al contrato de concesión)**   
+Las modificaciones que se efectúen al contrato de concesión de acuerdo con lo dispuesto en los artículos 149 y 150 del presente Reglamento deben cumplir con las siguientes formalidades:
+
+1. El proceso de modificación se entenderá iniciado desde que la entidad pública concedente o la sociedad concesionaria entreguen a la contraparte los documentos que acrediten la necesidad o voluntad de modificar el contrato de concesión.
+2. De las reuniones de negociación que al efecto se lleven a cabo entre la sociedad concesionaria y la entidad pública concedente se dejará constancia escrita en un acta elaborada al efecto.
+3. Una copia de los documentos a que se refieren los incisos a) y b) de este artículo, deberá ser enviado a la Superintendencia de Transportes.
+     
+   El contrato modificado debe ser protocolizado en la Notaría de Gobierno competente.
+
+## Título X
+
+### Sección I De la inspección, vigilancia e intervención de la concesión
+
+**Artículo 152°.- (Infracciones, sanciones y multas)**   
+El incumplimiento o infracción por parte de la sociedad concesionaria, de cualquiera de las obligaciones del contrato, le hará pasible de sanciones y multas establecidas en las bases de licitación y contrato de concesión; y serán aplicadas por la Superintendencia de Transportes a favor de la Entidad Publica Concedente.
+  
+El concesionario no está exento de responsabilidad ni aún en los casos en que los incumplimientos sean consecuencia de contratos que celebre con terceras personas.
+
+**Artículo 153°.- (Procedimiento y pago de multas)**   
+Cuando la sociedad concesionaria incurra en alguna de las infracciones establecidas en las bases de licitación, el Inspector de la concesión propondrá al Director su declaración y la multa a aplicar.
+  
+Una vez aprobada ésta, el Director deberá decidir si la multa debe ser aplicada por sí o corresponde a las facultades de la Superintendencia de Transportes, en cuyo caso le enviará todos los antecedentes que acreditan la infracción y fundamentará la petición de aplicación de sanciones.
+  
+De ser competencia de la entidad pública concedente el conocimiento y sanción de dicha infracción, el Director resolverá su aplicación. En ese caso el inspector fiscal de la concesión notificará por escrito al concesionario, informándole sobre:
+
+1. El tipo de infracción en que ha incurrido,
+2. Las características de la infracción tales como: el número de días de incumplimiento de la obligación a la fecha de la notificación, grado de intencionalidad o negligencia y otros actos señalados en las bases de licitación y;
+3. El monto de la multa.
+     
+   Las multas o sanciones aplicadas por el Director deben ser pagadas por la sociedad concesionaria dentro de los 30 días siguientes a la fecha de su notificación por escrito. Si la sociedad concesionaria no diere cumplimiento a la sanción impuesta, dentro del plazo fijado, el Director hará efectivas las garantías, sin perjuicio de las demás acciones que procedan.
+     
+   La notificación por escrito, comprende entre otras, anotaciones en el libro de obras, carta certificada, telegrama, fax o cualquier otro medio que permita dejar constancia fehaciente de ésta.
+     
+   El concesionario podrá oponer todos los Recursos de reclamación ante la misma autoridad, ante la Superintendencia de Transporte o la Justicia, según corresponda, pero deberá pagar la multa en el plazo indicado.
+
+### Sección II De la intervención de una concesión
+
+**Artículo 154°.- (Normas comunes a la intervención de la concesión)**   
+Sólo en los casos regulados por los artículos 49 y 53 de la Ley, la entidad pública concedente podrá solicitar la declaración de incumplimiento grave correspondiente a la Superintendencia de Transporte, previamente a que pueda intervenir la concesión y nombrar al funcionario público que actuará como Interventor. En todos los casos, éste debe ser un profesional universitario con titulo en provisión nacional, con a lo menos tres años de experiencia profesional.
+  
+El interventor debe aceptar por escrito el cargo y responderá siempre ante la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html).
+  
+Sus honorarios serán fijados por la Dirección y se imputarán y pagarán como gasto de la sociedad concesionaria.
+
+**Artículo 155°.- (Facultades genéricas del Interventor de la concesión)**   
+El interventor tendrá las facultades necesarias para velar por el cumplimiento de las obligaciones del contrato de concesión, siéndole aplicables las normas especiales de la Ley, según la causal que autoriza la intervención.
+  
+El interventor, desde su nombramiento debe llevar cuenta de los ingresos y gastos de la concesión para efectos de una buena administración y deberá en el desempeño de su cargo, hacerse cargo de todos los libros, papeles y documentación del concesionario, relacionados con la concesión y adoptar las providencias de conservación y cuidado del patrimonio de la concesionaria y las necesarias para el adecuado cumplimiento del contrato.
+
+**Artículo 156°.- (Rendición de cuentas del Interventor de la concesión)**   
+La sociedad concesionaria o el cesionario podrán solicitar rendición de cuentas del período de la intervención.
+  
+El interventor, en función de los requerimientos de la entidad publica concedente o de la Superintendencia deberá elevar informes periódicos de su administración. Al termino de la intervención, la entidad pública concedente, remitirá un informe de las actividades desarrolladas por el interventor a la sociedad concesionaria y al cesionario, para hacerle conocer lo acontecido durante dicho período.
+
+### Sección III De los conflictos entre las partes
+
+**Artículo 157°.- (Procedencia del conocimiento y resolución de causas por la justicia)**   
+La resolución de toda controversia o reclamación que se produzca con motivo de la interpretación, aplicación o ejecución del contrato de concesión que no se encontrare sujeta al conocimiento y resolución de la Superintendencia de Transportes de conformidad con lo dispuesto por la Ley y este Reglamento, será conocida y resuelta por las autoridades judiciales que resultaren competentes en función de la acción o recurso que interponga la parte agraviada de conformidad con las normativas de derecho aplicables.
+
+**Artículo 158°.- (Información del inicio de un procedimiento ante la Superintendencia de Transportes o la justicia)**   
+El Director, según corresponda, deberá notificar por escrito de la existencia de un desacuerdo y de su sometimiento ante la Superintendencia de Transportes o a la Autoridad Judicial competente a los acreedores y garantes del financiamiento de la concesión que tuviesen constituido el derecho especial que establece el Artículo 29 de la Ley, para que si lo estiman procedente comparezcan en el procedimiento y velen por sus derechos.
+
+**Artículo 159°.- (Interpretaciones o modificaciones al contrato derivadas de fallos judiciales)**   
+De todo fallo judicial ejecutoriado que interprete o modifique el contrato de concesión se deberá dejar constancia mediante Resolución Suprema, que deberá llevar las firmas de los Ministros de Desarrollo Económico y de Hacienda, o por Resolución de la Prefectura o Municipalidad, según corresponda, que se publicará por una sola vez en la Gaceta Oficial o en un periódico de circulación nacional, según corresponda. La sociedad concesionaria deberá protocolizar un ejemplar debidamente autenticado de dicha Sentencia Judicial y de la Resolución que da cuenta de ella, ante la Notaria de Gobierno competente y los hará anotar en los Registros que indica el numeral 1 del artículo 83 de este Reglamento.
+
+## Título XI Terrenos de dominio público afectados a la concesión, expropiación a la propiedad privada y servidumbres
+
+**Artículo 160°.- (Terrenos, edificaciones e infraestructura que se entrega a la sociedad concesionaria)**   
+Los bienes públicos, fiscales o municipales, según corresponda, destinados a desarrollar la obra y que se encuentren comprendidos dentro del área de concesión, estarán afectados a ésta desde que se perfeccione el contrato de concesión.
+  
+La afectación de dichos bienes y derechos a la concesión comprende el uso y goce sobre los bienes de uso público, fiscales o Municipales, según corresponda, que se destinen al desarrollo y operación de dichas obras y de las áreas de servicio adicionales que se incluyan en la concesión.
+  
+La entrega material de dichos terrenos, edificaciones e infraestructura públicas, fiscales o municipales, según corresponda, que por el solo mandato de la Ley se incorporan a la concesión se realizará una vez perfeccionado el contrato.
+  
+Cuando las bases de licitación dispongan una fecha diferente para la entrega material de dichos bienes, esta no podrá ser anterior al perfeccionamiento del contrato, ni posterior a los 6 meses del perfeccionamiento del mismo.
+
+**Artículo 161°.- (Edificaciones e infraestructura preexistentes que se entregan a la sociedad concesionaria)**   
+Cuando el ente público concedente incorpore a la concesión edificaciones e infraestructura públicas, fiscales o municipales preexistentes, según corresponda, ésta se entregará en el estado en que se encuentre y que se asume conocido por el concesionario. Desde la suscripción del contrato de concesión será responsabilidad del concesionario cumplir con las obligaciones que respecto de los terrenos, edificaciones e infraestructura preexistentes señalen las bases de licitación.
+  
+Todo deterioro en las edificaciones e infraestructura preexistentes que supere el desgate natural de ella y que se produzca desde la entrega material por parte de la entidad publica concedente a la sociedad concesionaria, no será reclamable por ésta a la entidad pública concedente.
+
+**Artículo 162°.- (Constancia de la entrega material de terrenos públicos y expropiados, edificaciones e infraestructura preexistente)**   
+El inspector fiscal de la concesión deberá extender un Acta y dejar expresa constancia en el libro de obras, de la fecha y circunstancias en que hace entrega de los terrenos públicos y de los que se expropien a los privados.
+  
+Asimismo, el inspector fiscal de la concesión deberá extender un Acta y dejar expresa constancia de la entrega de las edificaciones e infraestructura preexistentes al concesionario. El Acta mencionada anteriormente deberá llevar la firma del representante legal de la sociedad concesionaria, además de una declaración expresa de conformidad con el estado material de las edificaciones e infraestructura recibidas.
+
+**Artículo 163°.- (De la adquisición de terrenos para la concesión por la sociedad concesionaria)**   
+Cuando la sociedad concesionaria adquiere terrenos u obtiene su posesión material y/o el permiso de inicio de faenas sobre terrenos afectos a la expropiación para las obras, deberá informar al Inspector de la Concesión y se dejará constancia en el Libro de Obras del día y circunstancias del acceso material a los terrenos.
+
+**Artículo 164°.- (Vigilancia y cuidado de los bienes de la concesión)**   
+Desde el día en que conste la entrega de terrenos al concesionario, sea por el inspector fiscal de la concesión o por particulares, éstos quedarán bajo el cuidado y responsabilidad de la sociedad concesionaria.
+  
+Su obligación es cercarlos de inmediato, o dentro del plazo máximo que al efecto disponga el contrato de concesión y en la forma que indiquen las bases de licitación.
+  
+A partir de la ocupación y hasta la extinción de la concesión, corresponde a la sociedad concesionaria la vigilancia de los terrenos y bienes afectos a la concesión. Cuidará especialmente de mantenerlos libres de ocupantes, de su limpieza y ornato, de no permitir alteraciones de sus límites y de no admitir depósito de material ajeno a la concesión.
+
+**Artículo 165°.- (Adquisiciones de terrenos para la concesión)**   
+La sociedad concesionaria podrá adquirir los terrenos necesarios para realizar las obras públicas de transporte en concesión de acuerdo con los planos aprobados del proyecto de concesión en virtud de la disposición del artículo 41 de la Ley.
+  
+Ellos pasarán a dominio público por el solo ministerio de la ley desde que se incorporen a las obras, sea por adherencia o por destinación, sin perjuicio de las inscripciones que deban efectuarse a nombre del ente público concedente. Esos terrenos no podrán ser enajenados, ni hipotecados o sometidos a gravámenes de ninguna especie por el concesionario.
+  
+Las bases de licitación y contrato de concesión señalarán el procedimiento y las condiciones de precio máximo que el ente público concedente reconocerá al concesionario como pago por los terrenos, cuando éste los adquiera para la concesión e inscriba a nombre del ente público que indiquen las bases de licitación.
+
+**Artículo 166°.- (De las expropiaciones)**   
+La entidad pública concedente será competente y responsable de la expropiación de todos los bienes necesarios para la construcción de las obras públicas y de los servicios anexos o complementarios que se pacten y de todo otro bien o derecho que resultare necesario para la prestación del servicio de la concesión, en virtud de la declaración de su utilidad pública expresada en el artículo 40 de la Ley, para expropiar los terrenos requeridos para las obras por concesión según la naturaleza y circunstancias de la obra y de las normas legales y técnicas que regulan la materia.
+  
+La entidad pública concedente será siempre responsable del desarrollo de las expropiaciones de conformidad con la legislación vigente, en la forma y plazos definidos en las bases de licitación y contrato de concesión.
+  
+La Dirección, a través del inspector fiscal de la concesión, mantendrá informada a la sociedad concesionaria acerca del estado del proceso de expropiación.
+
+**Artículo 167°.- (De las tierras en concesiones mineras requeridas para la ejecución de las obras)**   
+Sobre las concesiones mineras preconstituidas y sus instalaciones, solamente procederá la constitución de servidumbres la que se efectuará según los procedimientos legales, sin perjuicio de la posibilidad de otros acuerdos voluntarios que se perfeccionen entre la sociedad concesionaria de obra pública de transporte y el concesionario minero para la constitución del derecho de vía o para el uso de materiales requeridos para la construcción.
+  
+En caso de no llegar a un acuerdo o avenimiento entre el concesionario minero y el concesionario de obra pública de transporte y terceros sobre el precio de los materiales y agregados áridos, las partes se someterán al procedimiento de la [Ley Nº 1770](https://www.lexivox.org//norms/BO-L-1770.html) de Conciliación y Arbitraje y de acuerdo a lo expresado en él articulo 40 de la Ley. A este mismo procedimiento se sujetará cualquier otro conflicto que se suscite entre la sociedad concesionaria de obra publica de transporte y otros terceros.
+
+**Artículo 168°.- (Expropiaciones de tierras comunitarias y comunales)**   
+Según lo dispuesto por el Artículo 43 de la Ley, la entidad pública concedente tramitará las expropiaciones de tierras comunitarias de origen o tierras comunales que se requieran para cada concesión, ante el Instituto Nacional de Reforma Agraria de acuerdo a la [Ley Nº 1715](https://www.lexivox.org//norms/BO-L-1715.html) y su reglamento.
+
+**Artículo 169°.- (Pago del concesionario por expropiaciones)**   
+En las bases de licitación, Resolución de Adjudicación y contrato de concesión, se establecerá el monto y la forma en que cada una de las partes concurrirá al pago de las expropiaciones y servidumbres y de los gastos en que deba incurrirse con ocasión de ellos.
+  
+De dichos pagos se deducirá o se restituirá por la entidad pública concedente a favor del concesionario el valor que se reconozca por las adquisiciones directas de terrenos o derechos que efectúe el concesionario, así como los que desembolse para obtener permiso de acceso a los terrenos privados antes de su expropiación. El valor que la o las entidades Públicas concedentes, según corresponda, reconozcan de las expropiaciones que el concesionario haya realizado, se basaran sobre el impuesto catastral pagado por el afectado.
+
+**Artículo 170°.- (Registro de bienes afectos a la concesión)**   
+Sin perjuicio de la obligación de completar y perfeccionar las inscripciones de terrenos y otros derechos reales en los registros que corresponda según la legislación vigente, el inspector fiscal de la concesión mantendrá un registro actualizado de todos los bienes y derechos que formen parte del área operativa o derecho de vía de la concesión.
+  
+Serán bienes afectos a la concesión:
+
+1. Todos aquellos bienes y derechos de dominio público que se incorporan a la concesión,
+2. Todos los bienes y derechos adquiridos por el concesionario, a cualquier título, durante la concesión, y que sean calificados como tales por la inspección fiscal de la concesión y;
+3. Todos los bienes y derechos expropiados o adquiridos para este fin, por la entidad pública concedente, incluyendo las donaciones y otras formas de acceso al dominio de la concesión.
+     
+   La reposición o renovación de bienes se someterá a la autorización de la Dirección, la que se pronunciará sobre la solicitud presentada por el concesionario en el plazo de 30 días, contados desde la fecha de la recepción de la solicitud en las oficinas del Inspector Fiscal de la Concesión.
+
+**Artículo 171°.- (De las servidumbres)**   
+La entidad pública concedente, a requerimiento del concesionario, deberá constituir todas las servidumbres activas que se requieran para ejecutar obras incluidas en el contrato y proyecto de la concesión, cuya constitución declara de utilidad pública el artículo 40 de la Ley.
+
+**Artículo 172°.- (Modificación de servidumbres existentes)**   
+Cuando para construir las obras en concesión resultare indispensable la ejecución de obras que modifiquen servidumbres existentes legalmente constituidas, el concesionario estará obligado a ejecutarlas, a su cargo, en la forma y plazo establecidos por la entidad pública concedente en las bases de la licitación, atendida la naturaleza de las mismas.
+  
+La entidad pública concedente está obligada a cooperar en la constitución de estas nuevas servidumbres, a requerimiento escrito de la sociedad concesionaria, que se entregue al inspector fiscal de la concesión.
+
+**Artículo 173°.- (Compensación de demoras en la disponibilidad de tierras y servidumbres)**   
+Se regirá de acuerdo a lo dispuesto por el articulo 44 de la Ley.
+
+## Título XII Derechos de los usuarios
+
+**Artículo 174°.- (Información a los usuarios)**   
+Desde que se perfecciona el contrato de concesión, será pública toda la documentación relevante para la ejecución de dicho contrato, entre otras: las bases de licitación, los proyectos de ingeniería, planos de expropiación, informes y otros estudios.
+  
+Para este objeto la Dirección y la inspección fiscal de la concesión en sus oficinas, deberán poner estos antecedentes a disposición de quienes tengan interés en conocerlos dando las facilidades necesarias para su reproducción, con cargo a los interesados. El mismo procedimiento se aplicará en el caso de los convenios complementarios, modificaciones del sistema tarifario, otras modificaciones del contrato de concesión y de las resoluciones de la Superintendencia de Transportes o las sentencias judiciales que lo interpreten o afecten.
+  
+Las bases de licitación podrán exigir a la sociedad concesionaria mantener, durante el período de construcción, si lo hubiere, una o más oficinas de información a los usuarios, para los efectos de poner a disposición de éstos o de las personas que tengan interés en el proyecto, los antecedentes relevantes de las obras, tales como sus características, cronograma de ejecución del proyecto, sistema de cobro de las tarifas o peajes, y otros que establezcan las bases de licitación.
+  
+Las bases de licitación deberán establecer obligaciones especiales al concesionario y a la Superintendencia de Transportes relativas a la difusión de tarifas y el sistema de cobro o sus modificaciones, así como su publicación en diarios nacionales o locales con una anticipación mínima de 10 días a su entrada en vigor, sin perjuicio de las obligaciones establecidas en la [Ley Nº 1600](https://www.lexivox.org//norms/BO-L-1600.html) del SIRESE.
+  
+Las obligaciones de difusión por parte del concesionario podrán cumplirse a través de la distribución de folletos, letreros o paneles en la obra. En el caso de las publicaciones de tarifas en medios de prensa estas serán de responsabilidad de la Superintendencia de Transportes. Las bases de licitación podrán indicar además, la oportunidad en que deben efectuarse dichas actividades de difusión.
+
+**Artículo 175°.- (Señalización de seguridad para el tránsito)**   
+El Concesionario está obligado a procurar y promover la seguridad del tránsito para los usuarios. Según precisen las Bases de Licitación y las normas técnicas aplicables al tipo de obra el concesionario deberá proveer, colocar y mantener letreros y señales de peligro, diurno y nocturno, durante todo el período de las faenas. No se permitirá uso de señales débiles o pintado de señales.
+  
+Cuando fuere necesario deberá proveer personal de señalización día y noche, como también equipos y ayuda para emergencias.
+  
+Los letreros y señales de peligro deberán retirarse tan pronto como se hagan innecesarios.
+
+**Artículo 176°.- (Reclamos de los usuarios)**   
+Las bases de licitación se ajustarán a los procedimientos estipulados en el [Decreto Supremo Nº 24505](https://www.lexivox.org//norms/BO-DS-24505.html) para atender las consultas o reclamos de los usuarios en materia tarifaria, ante la Superintendencia de Transportes.
+  
+Para el caso de reclamos ante la entidad publica concedente, según corresponda, las Bases de Licitación deberán señalar las instancias de recepción de las mismas, su forma y plazo de presentación, la forma, plazo y modo de las respuestas de la sociedad concesionaria y las sanciones en caso de incumplimiento, de acuerdo a lo dispuesto por los párrafos tercero y cuarto del articulo 36 de la Ley. La Dirección, podrá establecer, de manera general o para cada obra en concesión, instancias de recepción de consultas o reclamos de los usuarios, directamente en sus dependencias. Los incumplimientos al contrato de concesión que la Dirección pueda conocer y comprobar a través de estas instancias serán sancionados con las multas correspondientes establecidas en las bases de licitación y contrato de concesión.
+
+## Título XIII Del desarrollo del contrato de concesión
+
+**Artículo 177°.- (Ejecución de la obra)**   
+La obra se ejecutará conforme a lo previsto en las bases de licitación y oferta del adjudicatario. Para tal efecto, la sociedad concesionaria debe presentar al inspector fiscal de la concesión, todos los documentos exigidos en aquellas.
+  
+La sociedad concesionaria debe garantizar el uso ininterrumpido de la obra en concesión. Para este efecto podrá solicitar al inspector fiscal de la concesión autorización para el funcionamiento de las obras ejecutadas, quien podrá autorizarla bajo la exclusiva responsabilidad de la sociedad concesionaria, sin que esta implique una autorización para iniciar el cobro de tarifas. La sociedad concesionaria, además está obligada a mantener, a su costo, en las condiciones operativas que definan las Bases, las variantes por los que fuere necesario desviar el uso a causa de la ejecución de las obras contratadas.
+
+**Artículo 178°.- (Vigilancia)**   
+En el plazo que dispongan las bases de licitación, contado desde la ocupación material de uno o más terrenos y/o edificaciones correspondientes a la concesión, el concesionario debe cercarlo bajo la supervisión del Inspector Fiscal de la Concesión en la forma que indiquen las bases de licitación.
+  
+A partir de la ocupación y hasta la extinción de la concesión, corresponde a la sociedad concesionaria la vigilancia de los terrenos y bienes afectos a la concesión. Cuidará especialmente de mantenerlos libres de ocupantes, de no permitir alteraciones de sus límites y de no admitir depósito de material ajeno a la concesión.
+
+## Título XIV Cesión de la concesión y quiebra
+
+### Sección I De la cesión voluntaria de la concesión y traspaso de acciones de la sociedad concesionaria
+
+**Artículo 179°.- (No-procedencia de la transferencia voluntaria de la concesión durante la etapa de construcción)**   
+En las concesiones de obra nueva o en aquellas que deba realizarse un mejoramiento sustancial de las obras, la concesión sólo podrá ser cedida al término de la etapa de la construcción y durante la totalidad de dicho período el adjudicatario deberá conservar al menos el 51% de las acciones de la sociedad concesionaria, excepto en los casos regulados por el artículo 54 de la Ley.
+
+**Artículo 180°.- (Transferencia voluntaria de la concesión por la sociedad concesionaria)**   
+En las concesiones de Rehabilitación y/o Mantenimiento desde el perfeccionamiento del contrato de concesión y desde el inicio de la etapa de explotación de la concesión en las concesiones a que se refiere el artículo anterior, y siempre, previa autorización por escrito de la entidad pública concedente, de la Superintendencia de Transporte y del acreedor privilegiado, la sociedad concesionaria podrá transferir la concesión, como universalidad jurídica, comprendiendo todos los derechos, obligaciones y prerrogativas restantes de dicho contrato.
+  
+Dicha transferencia sólo se podrá efectuar a una, siempre que reúna los requisitos que se exigieron para ser oferentes en la licitación del contrato original de concesión, que no esté sujeta a inhabilidades. Además, la persona natural o jurídica o grupo de ellos deberá constituir una sociedad anónima concesionaria de acuerdo a la legislación nacional, la que deberá suscribir el nuevo contrato de concesión por el plazo que le resta al original.
+  
+En dicho evento la sociedad concesionaria deberá solicitar previamente autorización al ente público concedente. Dicha solicitud se presentará por escrito ante el Director, según corresponda, debiendo dejarse expresa constancia del día de su presentación en los registros de dicha dependencia y una copia de la presentación que permanecerá en poder del representante de la concesionaria.
+  
+En esa solicitud se individualizará el contrato de concesión, la sociedad concesionaria y sus representantes o apoderados con poder suficiente y debidamente facultados al efecto y al cesionario, especificando de modo claro y fundado la forma en que este cumple los requisitos para haber sido oferente adjudicatario de la licitación de la concesión y como cumplirá con los requisitos, actos y garantías requeridas para perfeccionar la cesión del contrato.
+  
+Además, a dicha solicitud se acompañará una descripción de las condiciones, circunstancias y plazos en que se efectuaría la cesión del contrato de concesión de contar con la aprobación por escrito del Director. El posible cesionario deberá declarar formalmente y por escrito la inexistencia de inhabilidades que lo afecten y el compromiso de perfeccionar el contrato de cesión de derechos, de constituir una sociedad anónima concesionaria y de perfeccionar el nuevo contrato, cumpliendo con todos los requisitos para ello.
+
+**Artículo 181°.- (De la autorización del ente público concedente para la cesión de la concesión)**   
+La entidad pública concedente, resolverá fundadamente cada solicitud, previo informe de la Dirección acerca del estado del contrato, de la solicitud y antecedentes del cesionario y no podrá negar la autorización a quien cumpla y acredite cumplir los requisitos señalados en el artículo 30 de la Ley.
+  
+Además, la entidad pública concedente autorizará siempre la cesión cuando dicha solicitud se refiera a la transferencia del contrato en favor del acreedor especial que regula el artículo 29 de la Ley, siempre que ésta cesión sea consecuencia de obligaciones garantizadas por dicha norma y que se haga a una persona natural o jurídica o grupo de ellos que cumplan los requisitos establecidos en las bases de licitación de la concesión.
+  
+Finalmente, si la entidad pública concedente no contesta en el plazo fatal de 60 días, para todos los efectos legales y contractuales se entenderá autorizada dicha cesión. Se tendrá por suficiente la acreditación por escrito del Director y de la Superintendencia de Transporte en que conste que no se ha respondido la solicitud en el plazo que establece el párrafo final del artículo 30 de la Ley.
+
+**Artículo 182°.- (Formalidades del perfeccionamiento del contrato de concesión por cesión)**   
+La entidad pública concedente exigirá que el cedente entregue la garantía de seriedad del cesionario, que tendrá iguales condiciones y monto que las fijadas en las bases de licitación para la garantía de seriedad de oferta del contrato, la que deberá presentarse dentro de los 10 días desde notificada la autorización previa de la cesión. El cesionario podrá siempre entregar esta garantía de modo directo a la entidad pública concedente.
+  
+La autorización para transferir la concesión se otorgará mediante Resolución Suprema, Prefectural o Municipal, según corresponda, de Modificación de la Adjudicación, la que contendrá los antecedentes del nuevo concesionario. Esta se dictará una vez acreditado el cumplimiento de todos lo que requisitos exigidos en el artículo 30 de la Ley.
+  
+El cesionario entregará las garantías de construcción o de explotación del contrato, según la etapa de su desarrollo en que se encuentre el contrato, sea en su etapa de construcción o en la de explotación, una vez publicada la nueva Resolución de Adjudicación, devolviéndose la garantía de seriedad en el plazo de 15 días.
+  
+Luego de ello, el nuevo concesionario por cesión deberá dar cumplimiento a lo previsto en los Artículos 21, 22 y 23 de la Ley y 80, 81, 82 y 83 de este Reglamento Orgánico.
+
+**Artículo 183°.- (Traspaso de acciones de la sociedad concesionaria durante la etapa de la construcción inicial del contrato de concesión)**   
+El adjudicatario de la concesión debe ser propietario como mínimo de un 51 % de los derechos de la sociedad concesionaria y se obliga a no transferirlos, hasta la puesta en servicio definitiva de la obra de acuerdo al artículo 23 de la Ley.
+  
+Por ello el adjudicatario o grupo adjudicatario de la concesión no requerirá autorización para vender parte de las acciones o ceder cualquier porcentaje de sus acciones entre los integrantes de la sociedad concesionaria, si después de dicha enajenación individualmente o como grupo adjudicatario conserva, como mínimo el 51% de las acciones de la sociedad concesionaria que se ha obligado a mantener como oferente adjudicatario.
+
+**Artículo 184°.- (Traspaso de acciones de la sociedad concesionaria durante la etapa de explotación de la obra en concesión)**   
+El adjudicatario de la concesión podrá vender todo o parte de sus acciones desde que se inicie la explotación total o parcial de las obras, a otros integrantes de la Sociedad Concesionaria.
+  
+Con autorización previa y por escrito de la entidad pública concedente, el adjudicatario de la concesión, podrá vender el total de sus acciones a terceros, dicha autorización se otorgará en las mismas condiciones que establece el artículo 30 de la Ley y los artículos 182 y 183 del presente reglamento.
+
+### Sección II Declaración de incumplimiento grave y cesión forzosa de la concesión
+
+**Artículo 185°.- (Incumplimiento grave de las obligaciones de la sociedad concesionaria)**   
+Las bases de licitación y contrato de concesión establecerán las causales por las que el ente público concedente podrá solicitar la declaración de incumplimiento grave de las obligaciones del concesionario en el contrato de concesión, y la aplicación del procedimiento a que se refiere el artículo 53 de la Ley.
+
+**Artículo 186°.- (Declaración de incumplimiento grave de las obligaciones del concesionario)**   
+La entidad pública concedente, por intermedio del Director, según corresponda, solicitará la declaración de incumplimiento grave de las obligaciones del concesionario ante la Superintendencia de Transportes, en el ejercicio de la facultad que los Artículos 53 de la Ley le asigna directamente y deberá resolver en un tiempo 20 días, una vez oída la sociedad concesionaria y verificadas las pruebas.
+
+**Artículo 187°.- (Intervención por incumplimiento grave declarado)**   
+Dentro del plazo de tres días, desde la notificación de la declaración de incumplimiento grave del concesionario, la Superintendencia de Transportes nombrará un funcionario público profesional universitario, con 3 años de ejercicio profesional como mínimo, como interventor de la sociedad concesionaria.
+  
+El interventor administrará la sociedad concesionaria, con todas las facultades necesarias para velar por el cumplimiento del contrato de concesión.
+  
+El Interventor estará particularmente obligado a continuar aplicando el cobro de las tarifas autorizadas, si la obra se encuentra en etapa de explotación, total o parcial y a efectuar los pagos derivados del contrato de concesión tanto a terceros como a la entidad pública concedente y a exigir de ésta última los aportes o asignaciones comprometidos que tuviere que realizar para la concesión.
+  
+Durante el periodo de intervención seguirán vigentes todos los derechos y obligaciones del ente público concedente, derivados del contrato de concesión.
+  
+Al término de su gestión el interventor deberá rendir cuenta de su gestión, respondiendo ante la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html) de sus actuaciones en el ejercicio de dicha función.
+
+**Artículo 188°.- (Procedimiento para la licitación pública forzosa de la concesión por declaración de incumplimiento grave del concesionario)**   
+La entidad pública concedente procederá a la licitación pública del contrato de concesión por el plazo que le restare, en el plazo máximo de 180 días contados desde la declaración de incumplimiento grave de las obligaciones del concesionario.
+  
+La convocatoria a licitación del contrato de concesión como universalidad jurídica por el plazo que le restare, incluirá siempre los requisitos que deberá cumplir el adjudicatario y nuevo concesionario, las que en ningún caso podrán ser más gravosas que los requisitos impuestos por las bases de la licitación original del contrato.
+  
+Previo al primer llamado a licitación a que se refiere el artículo 54 de la Ley, el ente público concedente consultará con los acreedores que tienen inscritos y constituidos en su favor los derechos del artículo 29 de la Ley y a todo otro acreedor que se presente, por el mínimo de las posturas con las que se realizará el llamado a licitación, el que en todo caso no podrá ser inferior al 100 % de la deuda contraida por el concesionario original.
+  
+A falta de postores se realizará un segundo llamado, cuyo mínimo no podrá ser inferior al 90 % de la deuda contraída por el concesionario. A falta de interesado se efectuará un tercer y último llamado, con mínimo de posturas del 85 %. De no haber interesados en la tercera licitación, el concedente declarará el término efectivo de validez del contrato original. El plazo que medie entre los distintos llamados no será superior a 30 días.
+
+**Artículo 189°.- (Adjudicación de la cesión forzosa, perfeccionamiento del nuevo contrato y entrega material de la concesión)**   
+La modificación de la adjudicación de la concesión por su cesión y el perfeccionamiento del contrato restante a que diere lugar su cesión forzosa se ajustará a lo previsto en los artículos 21, 22 y 23 de la Ley y 80 a 83 de este Reglamento Orgánico.
+  
+Desde que se perfeccione la cesión forzosa en la forma indicada en el párrafo precedente, el nuevo concesionario se hará cargo de la concesión y el interventor le entregará las instalaciones y documentación de la concesión, con lo que terminarán sus funciones y nombramiento.
+
+**Artículo 190°.- (Pago del nuevo concesionario)**   
+El pago que por la cesión forzosa de la concesión debe realizar el nuevo concesionario, se ejecutará en el plazo máximo de 120 días desde el perfeccionamiento de la cesión forzosa del contrato.
+  
+Durante todo el plazo pendiente para el pago del nuevo concesionario, éste deberá mantener vigente la garantía de seriedad de la oferta, que responderá de su incumplimiento.
+
+### Sección III De la quiebra y cesión de la concesión
+
+**Artículo 191°.- (Situación de la quiebra de la sociedad concesionaria)**   
+La declaratoria de quiebra de la sociedad concesionaria no extingue el contrato de concesión, ni faculta al ente público concedente para ponerle término.
+  
+Si en el período previo a la solicitud y a la declaratoria de quiebra la sociedad no diere cumplimiento a sus obligaciones contractuales, la entidad pública concedente solicitará a la Superintendencia de Transporte competente la designación de un interventor de la sociedad concesionaria. Si ello no se efectúa nombrará un interventor por incumplimiento grave o por abandono de la concesión, según amerite la situación de hecho.
+
+**Artículo 192°.- (Ejecución de garantías vigentes en caso de quiebra)**   
+En caso de declaración de quiebra de la sociedad concesionaria, la Dirección sólo podrá hacer efectiva la garantía de construcción o de explotación y la de resguardo de las obras según corresponda, si hubiere incumplimiento que autorice dicho cobro de acuerdo a lo dispuesto por la Ley, este reglamento Orgánico y el contrato de concesión, para cautelar el interés público y responder de todo lo que se le adeudare.
+
+**Artículo 193°.- (Situación de la quiebra de la sociedad concesionaria)**   
+Desde que se declare la quiebra por la sociedad concesionaria, la entidad pública concedente nombrará un representante para que, actuando coordinadamente con el interventor y la junta de acreedores, vele por el mantenimiento del o de los servicios objeto de la concesión, sin perjuicio de que la representación del interés público sea resguardada por quien o quienes corresponda.
+  
+La primera Junta Ordinaria de Acreedores, que se realice después de la declaratoria de quiebra de la sociedad anónima concesionaria, deberá pronunciarse por subastar la concesión o por la continuación efectiva del giro de la sociedad concesionaria, conforme a lo establecido en el artículo 50 de la Ley, la que no estará sujeta a otro plazo de término, sino lo que reste del contrato de concesión.
+
+**Artículo 194°.- (Continuación efectiva del giro de la sociedad concesionaria en caso de su quiebra)**   
+De decidirse por la Junta Ordinaria de Acreedores la continuación efectiva del giro de la sociedad concesionaria, acorde al artículo 50 de la Ley, su funcionamiento se regirá por las normas aplicables al contrato de concesión y en lo demás por el régimen previsto por el Código de Comercio. Con todo, la Junta de Acreedores podrá optar en cualquier momento por proceder a su cesión como universalidad jurídica, mediante remate.
+  
+La Junta de Acreedores y sus administradores deberán dar cabal cumplimiento de las obligaciones de la sociedad concesionaria de acuerdo a la Ley, este Reglamento y contrato de concesión.
+  
+En este caso, el inspector fiscal de la concesión velará por la debida coordinación en la aplicación de ambos regímenes, con el objeto de evitar todo detrimento de las obras y estándares de servicios exigibles a la concesionaria.
+  
+Cuando los acreedores continúen el giro de la sociedad concesionaria deberán sustituir la anterior garantía contractual vigente, constituyendo una nueva garantía en el plazo de 15 días, contados desde la declaración de continuación de giro y recuperando la anterior si persiste su vigencia. Si aquella hubiese sido ejecutada por la entidad publica concedente, deberá constituir una nueva garantía en el mismo plazo de 15 días
+
+**Artículo 195°.- (Subasta judicial de la concesión en procedimiento de quiebra)**   
+Cuando proceda la subasta de la concesión, ella se efectuará por el procedimiento previsto por el Código de Comercio, pero deberá respetarse las reglas de su transferencia total, como una universalidad jurídica, y sólo a quien reúna los requisitos que se exigieron a los oferentes en la respectiva licitación para ser concesionario que establece el artículo 30 de la Ley. Además, las bases de licitación de la misma deben respetar los términos, beneficios y condiciones restantes del contrato de concesión vigente.
+  
+La subasta de la concesión implica la cesión forzosa de la concesión, por el tiempo que le reste al contrato inicial, para los efectos de lo previsto en el artículo 50 de la Ley.
+
+**Artículo 196°.- (Mínimo para la subasta judicial de la concesión)**   
+De conformidad con lo dispuesto por el Artículo 50 de la Ley, en la primera subasta el mínimo de las posturas no podrá ser inferior a los dos tercios del monto de la deuda contraída por el concesionario.
+  
+Si debiere efectuarse una segunda subasta, dicho mínimo no podrá ser inferior a la mitad de dicho monto. A falta de postores se efectuará la tercera subasta, sin mínimo.
+
+### Sección IV Del abandono de la concesión
+
+**Artículo 197°.- (Abandono de la concesión)**   
+Cuando el concesionario abandone la obra o interrumpa injustificadamente el servicio, la entidad pública concedente deberá solicitar a la Superintendencia de Transportes, que así lo declare y le autorice a designar un interventor de la concesión, la que actuará como autoridad especial en virtud de lo dispuesto por el artículo 49 de la Ley, la que deberá conocer y resolver fundadamente del asunto, dentro del plazo de tres días desde la solicitud.
+  
+Si no dispone de todos los antecedentes o no ha podido emplazar y oír los descargos de los representantes de la sociedad concesionaria, la Superintendencia de Transportes podrá prorrogar dicho plazo hasta por un máximo de otros tres días, por una sola vez y por decisión fundada.
+  
+Si transcurre el plazo sin pronunciamiento se entenderá que se autoriza a la entidad concedente para proceder a la designación.
+
+**Artículo 198°.- (Auxilio de la fuerza pública en caso de abandono de la concesión)**   
+En casos graves y si ello fuere necesario, la Superintendencia de Transportes podrá recurrir a la fuerza pública para que se proceda a la inmediata reanudación del servicio, aún cuando y mientras se encuentra pendiente la resolución acerca de la intervención.
+
+**Artículo 199°.- (Facultades del Interventor por paralización de obras o en caso de abandono de la concesión, declarado legalmente)**   
+El interventor que designe la entidad pública concedente en caso de abandono de la concesión declarado legalmente, asumirá sus funciones de inmediato, procurando restablecer las condiciones del servicio y cuidado de las obras. Además de ello, sólo tendrá las facultades de administración necesarias para velar por el cumplimiento del contrato de concesión.
+  
+El interventor responderá de sus actuaciones ante la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html).
+
+**Artículo 200°.- (Cese de la intervención por paralización de obras o en caso de abandono de la concesión)**   
+La intervención cesará en los casos en que la Superintendencia de Transportes, a requerimiento formal y por escrito de los representantes de la sociedad concesionaria, constate que se han superado las causas que originaron la paralización de obras o el abandono de la concesión. En esta situación, la Superintendencia dispondrá el término de la intervención de la concesión, con lo que el concesionario reasumirá sus funciones.
+
+**Artículo 201°.- (Declaración de incumplimiento grave por paralización de obras o en caso de abandono de la concesión)**   
+En cambio, si después de noventa días de designado el interventor, el concesionario no reasume, se entenderá que se ha perfeccionado el incumplimiento grave, y se aplicará lo dispuesto en el artículo 54 de la Ley. Dicha resolución de la Superintendencia de Transportes se traducirá en la declaración de incumplimiento grave, con lo que el interventor asumirá las facultades que para dicho evento le otorga la Ley y el presente Reglamento Orgánico.
+
+**Artículo 202°.- (Recursos judiciales ante la declaración de incumplimiento grave por paralización de obras o en caso de abandono de la concesión)**   
+La sociedad concesionaria o los acreedores privilegiados que tengan garantías inscritas según lo estipulado en él articulo 29 de la Ley, podrán oponer todas las reclamaciones, acciones y recursos administrativos o judiciales que procedan en contra de las decisiones del ente público concedente y de la Superintendencia de Transportes.
+
+## Título XV Suspensión y término de la concesión
+
+### Sección I De la suspensión de la concesión
+
+**Artículo 203°.- (De la suspensión temporal de la concesión)**   
+La concesión se suspenderá en los casos previstos en el artículo 51 de la Ley. La suspensión de la concesión producirá efectos temporales, durante todo el tiempo en que la sociedad concesionaria no pueda construir o prestar los servicios contratados y el período adicional que se requiera para reponer las obras y servicios.
+
+**Artículo 204°.- (De la declaratoria de la suspensión de la concesión)**   
+La procedencia de la suspensión de la concesión se efectuará por la Superintendencia de Transportes, en virtud de las facultades que al efecto le confiere el artículo 48 de la Ley. Ella se pronunciara ante petición fundada del concesionario, de la entidad pública concedente o de ambos, en conjunto.
+  
+La misma Superintendencia declarará la superación de las causas que llevaron a la suspensión de la concesión, a petición separada de una de las partes del contrato o conjunta de ambas.
+
+**Artículo 205°.- (Efectos jurídico contractuales de la suspensión temporal de la concesión)**   
+La declaración de la suspensión de la concesión, libera a ambas partes del cumplimiento de todos sus derechos y obligaciones derivadas del contrato de concesión, con la sola excepción de que ambas deberán hacer todo lo posible para procurar el restablecimiento de las condiciones de normalidad que permitan reanudar la concesión.
+
+**Artículo 206°.- (Superación de la suspensión de la concesión)**   
+Superadas las causas de la suspensión y para los efectos de la reanudación del servicio se procederá a la evaluación de los daños existentes, y a determinar la forma en que concurrirán las partes a subsanarlos, según lo dispuesto en las bases de licitación o por el acuerdo directo, en reemplazo.
+
+**Artículo 207°.- (Compensaciones al concesionario por la suspensión temporal de la concesión)**   
+Por disposición del artículo 51 de la Ley, la suspensión legalmente declarada de la concesión, dará al concesionario un aumento igual al período del entorpecimiento o paralización, incluyendo el período necesario para superar los efectos negativos en las obras y nivel de servicio, para todos los plazos contractuales incluidos los de la construcción, explotación y total de la concesión y otros intermedios vigentes.
+  
+Además, el concesionario tendrá derecho a las compensaciones que se hubiesen definido en las bases y contrato o que se establezcan por acuerdo directo entre las partes, y a falta de éstas por la Superintendencia de Transportes o por la Justicia, sucesivamente.
+  
+Las indemnizaciones para compensar a la sociedad concesionaria, de los perjuicios sufridos podrán expresarse en aumento adicional del plazo de concesión, aportes de la entidad pública concedente, modificación de tarifas o cualquier otro factor del régimen económico del contrato que acuerden las partes de modo directo, o fije la Superintendencia de Transportes o la Justicia, sucesivamente.
+  
+Estas modificaciones compensatorias del contrato se perfeccionarán mediante Resolución Suprema, Resolución Prefectural o Municipal, según corresponda.
+
+### Sección II Término de la concesión
+
+**Artículo 208°.- (Causas de terminación de la concesión)**   
+La concesión de obra pública de transporte sólo terminará por las causales señaladas en el artículo 52 de la Ley.
+  
+El incumplimiento grave de las obligaciones de la sociedad concesionaria, el abandono de la concesión y la quiebra tienen regulaciones legales y reglamentarias que no produce él termino del contrato, sino su cesión voluntaria o forzosa.
+
+**Artículo 209°.- (Extinción de la concesión por cumplimiento del plazo del contrato)**   
+La concesión se extinguirá por el cumplimiento del plazo por el que se otorgó con más sus posibles ampliaciones generadas por modificaciones del contrato. Con todo, una concesión de obra pública que tenga plazo pendiente se extingue de pleno derecho al cumplirse cuarenta años desde el inicio de la contabilización de su plazo.
+
+**Artículo 210°.- (Condiciones de entrega de la concesión por término de su plazo)**   
+El concesionario entregará a la entidad pública concedente la totalidad de las obras, instalaciones, bienes o derechos afectos a la concesión, según lo estipulado en las bases de licitación.
+  
+Las garantías vigentes sólo serán devueltas a la sociedad concesionaria cuando cumpla todas las obligaciones contraídas en el contrato de concesión.
+  
+Sin perjuicio de las inspecciones rutinarias dirigidas a asegurar la conservación de la obra, a lo menos con un año de antelación a la fecha de extinción de la concesión, el ente público concedente exigirá al concesionario adoptar las medidas que se requieran para la entrega de las instalaciones en las condiciones establecidas en el contrato, para permitir la adecuada continuidad del servicio.
+  
+La entidad pública concedente podrá disponer de los montos originados en la cobranza de las garantías de explotación de la concesión y de resguardo de las obras para la reparación de los bienes deteriorados o para la adquisición de los bienes indebidamente retirados, restituyendo la diferencia a la sociedad concesionaria si la hubiere, en el plazo de un año desde la entrega de la totalidad de las obras, instalaciones y bienes o derechos afectos a la concesión como consecuencia de la terminación del contrato
+
+**Artículo 211°.- (Extinción por mutuo acuerdo entre los contratantes)**   
+El acuerdo entre la entidad pública concedente y la sociedad concesionaria extingue la concesión con arreglo a las condiciones del convenio que se suscriba por ambas partes.
+  
+La entidad pública concedente sólo podrá concurrir a este convenio de extinción de la concesión con el acuerdo previo, favorable y por escrito de los acreedores que tengan constituidas garantías a su favor de acuerdo al artículo 29 de la Ley para esta concesión de obra pública. Este convenio se sujetará a las formalidades que establece el artículo 52 numeral 2 de la Ley.
+  
+Este convenio será aprobado por Resolución Suprema que deberá llevar la firma de los Ministros de Desarrollo Económico y de Hacienda o por Resolución Prefectural o Municipal, según corresponda.
+
+**Artículo 212°.- (Otras causales de extinción de la concesión)**   
+Las bases de licitación podrán establecer otras causales de extinción del contrato de concesión señalando el procedimiento que deberá seguirse, así como las eventuales compensaciones al concesionario.
+
+## Título XVI Normas especiales en concesiones de obras públicas de transporte
+
+**Artículo 213°.- (Normativa de pesos y dimensiones en obras viales en concesión)**   
+En las carreteras y demás obras viales bajo régimen de concesión tendrá plena aplicación la normativa de Pesos y Dimensiones Permisibles para la Circulación en Carreteras de Vehículos Automotores, establecido por la [Ley Nº 1769](https://www.lexivox.org//norms/BO-L-1769.html) y sus decretos reglamentarios.
+  
+Entre las funciones públicas que se delegan al concesionario, se encuentra la de aplicar los controles de pesaje necesarios y cursar las infracciones que procedan, en localizaciones fijas y móviles, que se definan en las bases de licitación o que se autorice implementar durante el desarrollo del contrato. Si las bases de licitación nada dijeran, la sociedad concesionaria estará siempre facultada para practicar estos controles y cursar las infracciones, en las condiciones que proponga al ente concedente en un programa al efecto.
+  
+Como consecuencia de los controles que efectúe e infracciones que recaude o denuncie el concesionario tendrá del derecho de percibir el total de las multas emergentes e indemnizaciones que por las infracciones a la [Ley Nº 1769](https://www.lexivox.org//norms/BO-L-1769.html) se impongan dentro del área de concesión por la Policía del Tránsito o Tribunal competente a los usuarios infractores, según lo dispuesto por el artículo 55 de la Ley.
+  
+El valor de toda multa e indemnización que se imponga a los infractores será de cargo del conductor y del dueño del vehículo, quedando ambos obligados, personal y solidariamente, a su pago.
+
+**Artículo 214°.- (Prohibición de circular en obras en concesión a los vehículos infractores del pesaje)**   
+Ningún vehículo con sobrepeso, total o por eje, podrá circular en las obras en concesión. Al ser controlado encontrándose en infracción no será autorizado a continuar su desplazamiento.
+  
+El exceso de carga, que no pueda ser reestibada para dar cumplimiento a las normas de la [Ley Nº 1769](https://www.lexivox.org//norms/BO-L-1769.html) deberá descargarse y depositarse, bajo el exclusivo costo y responsabilidad del dueño del vehículo y del conductor, en las condiciones, modalidades y responsabilidades que establece dicha ley.
+
+**Artículo 215°.- (Deber de asistencia y cooperación en el control del pesaje del ente concedente y de la Policía de Tránsito)**   
+La entidad pública concedente tiene la obligación de cooperar con la sociedad concesionaria para la adecuada implementación de las estaciones fijas y móviles y para cumplir satisfactoriamente los planes y acciones preventivas, de control y sancionatorias de las infracciones. La inspección fiscal de la concesión deberá destinar un funcionario público para que verifique y de fe de las condiciones del control y respalde su accionar. Si la entidad pública concedente coordina dicha función de control y respaldo con la Policía Nacional, se eximirá de desarrollarla mediante sus propios funcionarios.
+  
+La Policía de Tránsito colaborará con la sociedad concesionaria al control y cumplimiento de las normas en las estaciones de control, sean fijas o móviles, incluyéndose la detención del conductor que contempla dicha ley, sin perjuicio de las acciones civiles y penales emergentes en contra del conductor y del dueño del vehículo, de conformidad con el Artículo 55 de la Ley.
+
+**Artículo 216°.- (Pago de infracciones de pesaje en la carretera en concesión)**   
+La multa que corresponda a la infracción podrá ser pagada en el acto en beneficio de la concesionaria, la que emitirá un reporte de la infracción, con recibo suficiente de su pago.
+  
+Una vez pagada la multa, reestibada la carga o descargado el peso excedentario sobre el tolerado, el vehículo podrá continuar su desplazamiento.
+
+**Artículo 217°.- (Cobro judicial de infracción al peso y dimensiones en la carretera)**   
+En caso de que la multa no se pague en el acto, el funcionario la entidad pública concedente o la policía de tránsito, extenderá una denuncia ante el tribunal competente para el cobro judicial de la multa, indemnizaciones y acciones penales que procedan según la naturaleza de la infracción. Las denuncias emitidas por la Policía de Tránsito o un funcionario de la entidad publica concedente, tendrán valor de plena prueba en el proceso a que dicha infracción dé lugar, siempre y cuando se cumpla en lo dispuesto por él articulo 57 de la Ley y 220 del presente reglamento.
+
+**Artículo 218°.- (Derechos de cobro judicial al usuario que incumple tarifas y peajes de obras por concesión)**   
+De acuerdo por lo establecido por él articulo 56 de la Ley, cuando un usuario de una obra en concesión incumpla el pago del precio o peaje de los servicios prestados por el concesionario, éste tendrá derecho al auxilio de la Policía de Tránsito, para hacer efectivo el cobro, incluidos todos los apremios establecidos en el Código Nacional de Tránsito, sin perjuicio de las acciones civiles y penales emergentes para el conductor y el dueño del vehículo.
+
+**Artículo 219°.- (Procedimiento de denuncia y judicial de infracciones de tarifas o peajes de obras en concesión)**   
+La denuncia ante el Tribunal competente será formulada por la sociedad concesionaria o por la denuncia de la policía de tránsito y/o del funcionario habilitado por la entidad pública concedente que verifica la infracción respaldada en uno o más de los medios técnicos de prueba que autoriza el artículo 57 de la Ley.
+  
+El tribunal que conozca de la denuncia impondrá el pago al conductor y al dueño del vehículo de una indemnización compensatoria en favor del concesionario, de un valor equivalente hasta cuarenta veces el pago incumplido, con mantenimiento del valor por la diferencia del tiempo transcurrido y los intereses correspondientes a la tasa promedio pasiva bancaria vigente.
+
+**Artículo 220°.- (Reglas especiales de prueba por las infracciones)**   
+En los procedimientos de denuncia y juzgamiento de las infracciones de que trata este título, constituirán medios de prueba una o más fotografías, videos y cualquier otro medio técnico, que en tal carácter hubiere sido autorizados por la entidad pública concedente, sea en las bases de licitación y proyecto con que ella se licitó o posteriormente, con aprobación de la Dirección respectiva y previo informe de las entidades estatales técnicas que ésta estime necesario.
+  
+Si las bases y el proyecto de la Licitación no contemplan estos medios técnicos de prueba, ellos serán siempre admisibles en la oferta de los oferentes. Se entenderán aprobados los medios técnicos contenidos en la oferta que no sean observados o reparados por la entidad pública concedente al adjudicar dicho contrato.
+  
+En cualquier momento del desarrollo del contrato, el concesionario podrá presentar al ente concedente un programa de medios técnicos de control y prueba. La entidad pública concedente dispondrá de 60 días para su verificación y formular reparos u observaciones.
+  
+La sociedad concesionaria podrá ampliar o modificar los dispositivos y programa técnicos de control y prueba durante toda la concesión, observando el mismo procedimiento anterior para su aprobación.
+  
+Una vez aprobados los medios técnicos de control y prueba, la entidad pública concedente certificará el programa y cada medio, habilitándolo para ser utilizado como medio judicial de prueba, que produce el efecto de plena prueba de los hechos de que da cuenta. La misma certificación se emitirá cada vez que se modifiquen o amplíen los medios técnicos de control y prueba en las instalaciones habilitadas para el control de pesos y dimensiones y cobro de tarifas o peajes.
+
+**Artículo 221°.- (Accesos viales, ferroviarios y otras conexiones preexistentes)**   
+Las bases y el proyecto de la licitación de obras viales y ferroviarias establecerán los accesos y obras de conexión que debe tener una obra en concesión tanto respecto de los caminos públicos como privados que conectan a predios o propiedades de particulares, incluyendo aquellas obras que permitan el uso de las obras preexistentes siempre que hubieren sido autorizados conforme a derecho. Será de cargo de la sociedad concesionaria la construcción, modificación o mejoramiento de todas las obras de esta naturaleza de que den cuenta las bases de licitación.
+  
+Un acceso o conexión vial preexistente puede ser modificado para incorporar los vehículos a vías de servicio y permitir a sus usuarios el ingreso a las vías principales en mejores condiciones de seguridad en el tránsito, mediante enlaces o accesos controlados.
+
+**Artículo 222°.- (Nuevos accesos y conexiones viales de privados)**   
+De acuerdo a lo dispuesto en el artículo 58 de la Ley, el concesionario, con la debida aprobación de la Dirección, previo informe del inspector fiscal de la concesión podrá autorizar a terceros nuevos accesos y conexiones a la obra en concesión y cobrar el costo de las obras necesarias para su habilitación y un pago adicional en su beneficio, siempre que el acceso sea directo a la vía y que no corresponda a una conexión sólo a calles de servicio.
+  
+Cuando un tercero solicite un acceso a una calle de servicio existente, la sociedad concesionaria solamente podrá cobrar el costo de las obras necesarias para su habilitación, si ella las ejecutare, por sí o por contrato.
+  
+La sociedad concesionaria al solicitar la autorización previa de la Dirección para establecer nuevos accesos y conexiones a la obra, deberá individualizar al interesado, acompañando los documentos que acrediten el interés del o de los particulares en la obra de conexión, que en todo caso deberá contar con el permiso o autorización del propietario del predio vecino a la faja, incluyendo la ubicación del nuevo acceso, el presupuesto total de las obras necesarias para su habilitación y el monto del pago adicional que cobrará al tercero por dicho acceso o conexión.
+  
+El acceso y conexión a la obra debe cumplir con la normativa vigente sobre la materia, en particular en los aspectos técnicos y de seguridad vial, y además, deberá permitir se mantengan los estándares constructivos y de servicios definidos para la obra por concesión.
+
+**Artículo 223°.- (Instalaciones de servicios y otras conexiones de privados)**   
+La sociedad concesionaria hará de su cargo el traslado, reemplazo o modificación de las servidumbres de acueductos y otras legalmente constituidas que sean afectadas o modificadas por las obras en concesión. En ningún caso, como consecuencia de la construcción u operación de la concesión se podrá gravar con tasas o tarifas a las servidumbres, paralelismos, atraviesos o toda instalación terrestre, aérea o subterránea que se encuentren legalmente autorizadas con anterioridad a la adjudicación de la concesión ya sea que estén construidas o preconstituidas en los terrenos incluidos en el derecho de vía o en el área de una concesión. Sin embargo, si durante la fase de construcción u explotación de la concesión el titular de este derecho requiriese modificar las obras sobre las que recaigan dicho derecho serán de su cargo todos los costos que ello implique y antes de su ejecución, deberá coordinar con la sociedad concesionaria y las autoridades Públicas competentes la oportunidad del desarrollo y forma de ejecución de las obras, debiendo caucionar y pagar todo gasto, daño o perjuicios que ellas puedan causar.
+  
+Sin embargo toda nueva servidumbre, paralelismo, atravieso o instalación terrestre, aérea o subterránea que deba instalarse en las obras o en la faja del área de concesión, deberá ser aprobada técnicamente por la Dirección, a petición del concesionario, con un informe en que se indique y acredite el interés de un tercero en la obra de conexión, incluyendo su ubicación y trazado, el presupuesto total de las obras necesarias para su habilitación y el monto del pago adicional que cobrará al tercero por la construcción de dicha obra, y el cargo adicional y los costos de operación o conservación si lo hubiere. En este sentido la sociedad concesionaria deberá otorgar un trato preferencial en los montos de pago adicional para las instalaciones de servicios básicos que se requieran construir a en el derecho de vía o en el área de una concesión.
+  
+Entre estas obras se autoriza expresamente al concesionario para la instalación de ductos o poliductos u otros similares en el derecho de vía o área operativa de la concesión, siempre que esto no implique perturbar o dañar la obra y la prestación de los servicios principales y demás pactados para la concesión. Cuando hubiere daños en la obra por concesión como consecuencia de la instalación de servicios básicos que se requieran construir, el concesionario está en la obligación de reparar la obra dañada cumpliendo los niveles y estándares establecidos en las bases de licitación.
+
+**Artículo 224°.- (Velocidad en las rutas bajo concesión)**   
+Las bases de licitación podrán establecer para obras determinadas o tramos de ellas, límites máximos de velocidad superiores a los que permite la legislación del tránsito y mínimos de circulación en las vías bajo concesión, acorde con las reglas técnicas constructivas, de tránsito y de seguridad.
+  
+Las velocidades fijadas en las bases de licitación sólo podrán ser modificadas por la Dirección en los casos en que su vigencia no pueda mantenerse por razones de seguridad del tránsito, originadas en el estado de conservación de la vía en concesión, sin perjuicio de las multas y demás cargos que procedan en contra del concesionario en dicho evento. Restablecidas las condiciones de la vía deberán entrar en vigencia nuevamente las velocidades definidas en las bases de licitación.
+  
+En caso que las velocidades no hayan sido fijadas por las bases de licitación, éstas podrán ser establecidas por la Dirección, en coordinación con la Dirección Nacional de Tránsito, sólo a petición de la sociedad concesionaria.
+
+**Artículo 225°.- (Publicidad en las obras en concesión)**   
+La publicidad que pueda instalarse en las obras en concesión se regirá por las normas de la materia y servicio, salvo que las bases de licitación establezcan formas distintas, siempre dentro de la normativa legal aplicable.
+  
+Todo pago por derechos de publicidad se hará en favor del concesionario, el que podrá pactar libremente su valor comercial o dentro de los límites que fije el contrato de concesión.
+
+## Título XVII Normativa tributaria
+
+**Artículo 226°.- (Régimen tributario de las obras, de su explotación y operación por concesión de obra pública)**   
+Según lo dispuesto en el artículo 59 de la Ley, a todo concesionario de obra pública de transporte, se le aplicará siempre el régimen tributario vigente al momento de la publicación de la respectiva Resolución Suprema, Prefectural o Municipal de Adjudicación respecto de la obra, de sus regímenes de operación y explotación.
+
+**Artículo 227°.- (Los inmuebles, construcciones e instalaciones de la concesión están desafectados de tributos)**   
+Del mismo modo, según lo disponen los artículos N° 31, numeral 1 y 60 de la Ley, en ningún caso estarán afectos a gravamen tributario alguno, general o especial los inmuebles, construcciones e instalaciones comprendidas dentro del área de la concesión, incluidas sus áreas de servicio adicionales y del derecho de vía, que integran la concesión de obra pública de transporte, según la naturaleza de cada una de ellas.
+
+**Artículo 228°.- (Normativa tributaria general de las concesiones de obra pública de transporte)**   
+Las sociedades concesionarias como toda otra persona natural o jurídica que participe, directa o indirectamente, en el desarrollo del contrato de concesión, estarán sujetas a las normas tributarias vigentes en el país.
+
+## Título XVIII Disposiciones finales
+
+### Sección I Materias ecónomicas y financieras de las entidades públicas concedentes y contratos de concesión
+
+**Artículo 229°.- (Del financiamiento proveniente de los contratos de concesiones en favor del viceministerio, prefecturas y municipalidades)**   
+Desde el inicio de la fase de explotación por la puesta en servicio parcial o total de las obras, el artículo 64 de la Ley establece en favor de la Dirección, las prefecturas y las Municipalidades el cobro de una tasa de control que pagará cada concesionario, cuyo monto y modalidad de pago se fijará en las bases de cada licitación y en el respectivo contrato de concesión, para solventar los costos en que el ente concedente deba incurrir para cumplir sus funciones legales y contractuales.
+  
+Dicha tasa de control no podrá exceder de un 0.65 por ciento anual sobre los ingresos brutos de la concesionaria y su valor se determinará con especial atención a las características de la inversión, estructura tarifaria, flujos de usuarios y rentabilidad esperada del proyecto que se contrata en concesión. Estos recursos además, podrán destinarse a financiar estudios, licitaciones y la inspección fiscal de los contratos de concesión.
+
+**Artículo 230°.- (Financiamiento contractual del gasto público en estas concesiones)**   
+Sin perjuicio de los pagos a la entidad pública concedente que resulte de la licitación de acuerdo al artículo 19 inciso c) de la Ley, en las bases de licitación y contrato de concesión se podrán estipular pagos específicos y determinados de los oferentes a favor de la entidad publica concedente para solventar los costos de la fase de licitación.
+  
+De igual manera, en las bases de licitación y contrato de concesión se podrán estipular también, pagos del concesionario en favor de la entidad pública concedente, a efectuarse antes de la suscripción del contrato, los que se destinarán a solventar los costos de los estudios en que hubiere incurrido la entidad pública concedente.
+
+**Artículo 231°.- (Aportes o garantías al contrato de concesión otorgados por las entidades públicas concedentes)**   
+Sólo mediante la dictación de la Resolución Suprema de Adjudicación, que deberá llevar las firmas de los Ministros de Desarrollo Económico y de Hacienda, se comprometerán los aportes, asignaciones, garantías y demás estipulaciones patrimoniales que la Administración Nacional asuma en cada contrato de concesión que se perfeccione. En la Resolución de Adjudicación respectiva, las prefecturas y municipalidades dejarán expresa constancia de los compromisos, montos y forma de pago de las asignaciones, aportes y garantías que asuman en cada contrato de concesión que se perfeccione.
+
+**Artículo 232°.- (Retraso en los pagos)**   
+En los casos en que se produzca retraso en los pagos que deben realizarse mutuamente la entidad pública concedente y la sociedad concesionaria, estos serán reajustados, si procede, según la variación del tipo de cambio vigente establecido por el Bolsin y devengarán el interés que establezcan las bases de licitación.
+  
+Sin perjuicio de ello, el retraso de los pagos que la sociedad concesionaria tenga que realizar a la entidad publica concedente dará derecho al cobro de la correspondiente garantía, sin perjuicio de las demás acciones y sanciones que procedan por la Ley, el presente Reglamento y el Contrato de Concesión.
+
+### Sección II Otras normas sobre entes públicos concedentes
+
+**Artículo 233°.- (Dirección de concesiones de obras públicas de transporte en las municipalidades y su Director)**   
+La Municipalidad, por acuerdo de su Consejo adoptado a proposición del Alcalde, podrá decidir la implementación de un organismo interno que ejerza las funciones que la Ley y el Reglamento asignan a la Dirección General De Concesiones De Obras Públicas De Transporte en el ámbito de competencia municipal.
+  
+Quien ejerza las funciones de Director deberá ser un profesional universitario con Titulo en Provisión Nacional con por lo menos 5 años de ejercicio en la profesión.
+
+**Artículo 234°.- (Apoyo técnico para licitación y contratación de concesiones)**   
+En las concesiones que liciten, otorguen y contraten las prefecturas o Municipalidades, podrán solicitar por escrito al Viceministerio de Transporte, Comunicación y Aeronáutica Civil las asesorías técnicas que fueren necesarias tanto para la o las etapas de construcción como para la de su operación y explotación, siempre y cuando el Viceministerio este en capacidad de recursos humanos para este fin. En cuyo caso, las prefecturas y municipalidades serán responsables de los gastos en que se tenga que incurrir.
+  
+Las Municipalidades que requieran apoyo o asistencia técnica para licitar o contratar una concesión podrán solicitar por escrito esa cooperación a la prefectura competente o a la Dirección General de Concesiones del Viceministerio de Transporte, Comunicación y Aeronáutica Civil; sin perjuicio de su facultad de pactar con éste último un convenio de mandato para que aquel licite y contrate la respectiva obra.
+
+### Sección III De la vigencia, derogaciones y prioridad en la aplicación de este reglamento orgánico de concesiones de obras públicas de transporte
+
+**Artículo 235°.- (Vigencia y alcance del reglamento orgánico de la Ley General de Concesiones de Obras Públicas de Transporte)**   
+El presente Reglamento Orgánico de la Ley General de Concesiones de Obras Públicas de Transporte entrará en vigencia a partir de la fecha de su publicación en la Gaceta Oficial y desde esa fecha se entenderá derogada toda norma que, expresa o tácitamente, regule estas mismas materias y el ejercicio de las funciones públicas que ella define.
+  
+Del mismo modo, aún cuando no importe derogación general, serán del todo inaplicables a las concesiones que regula la Ley y este Reglamento Orgánico aquellas normas orgánicas, de atribución, funcionamiento y procedimiento de los entes nacionales, prefecturas, Municipalidades y agrupaciones de Municipalidades, que contradigan o establezcan normas, requisitos o procedimientos diferentes que quisiese aplicarse a estas concesiones.
+
+**Artículo 236°.- (Concesiones de aeropuertos o de sus terminales de pasajeros o carga)**   
+Desde la dictación de la Ley ha quedado derogada toda norma que permita las concesiones de aeropuertos o de sus terminales de pasajeros o carga que sea opuesta a la presente Ley, sin perjuicio del respeto a los contratos válidamente perfeccionados bajo la legislación aplicable anterior
+  
+En cambio toda nueva licitación y contratación por concesión de los aeropuertos o de sus terminales de pasajeros o carga y la construcción, mejoramiento, explotación y operación de nuevos aeropuertos o terminales, deberá someterse a las normas de la Ley y del presente Reglamento desde su entrada en vigor, debiendo ser preparadas por la Dirección, con la asistencia técnica de consultorías si así se lo requiere.
+
+**Artículo 237°.- (Concesiones de obras públicas para transporte ferroviario)**   
+Según lo dispuesto por el artículo 68 de la Ley se someterá al régimen de concesión de obras públicas de transporte que ella regula, la licitación, otorgamiento y contratación de la construcción, mejoramiento, rehabilitación, mantenimiento, operación y explotación de nuevas líneas ferroviarias y las líneas férreas bajo actual administración directa de la Empresa Nacional de Ferrocarriles, que no se encuentren con contratos perfeccionados en virtud del proceso de capitalización, según las normas del [Decreto Supremo Nº 24179](https://www.lexivox.org//norms/BO-DS-24179.html) y de la derogación orgánica del capítulo II de la [Ley General de Ferrocarriles](https://www.lexivox.org//norms/BO-L-19101003-1.html), efectuada por el Artículo 71 de la [Ley Nº 1874](https://www.lexivox.org//norms/BO-L-1874.html).
+  
+Además, desde que concluyan, en su todo o parte, los contratos actualmente vigentes de líneas férreas perfeccionados en virtud del proceso de capitalización, según las normas del [Decreto Supremo Nº 24179](https://www.lexivox.org//norms/BO-DS-24179.html) o hayan sido desafectados ramales de los contratos de concesión actualmente vigentes, la licitación, otorgamiento y contratación de las nuevas concesiones se someterán a las normas de esta Ley.
+
+**Artículo 238°.- (Manual del Estudio de Negocio de la Concesión)**   
+El o los manuales de estudio de negocio de la concesión se aprobarán mediante Resolución Bi-Ministerial firmada por el Ministro de Desarrollo Económico y el Ministro de Hacienda. Inicialmente existirán tres Manuales: a) para Carreteras b) para Ferrocarriles y c) Puertos.
+
+**Artículo 239°.- (Otras Modalidades de Concesión)**   
+De acuerdo a lo dispuesto en el ultimo párrafo del articulo 9 de la Ley y de conformidad a lo estipulado en el articulo 2 de la Ley, el presente Reglamento define a continuación, explícita y tácitamente, los estudios que como mínimo, la o las entidades públicas concedentes, deberán acompañar para cada licitación pública de concesión de otras modalidades de concesión; según lo descrito a continuación:
+
+1. En los casos en que para la concesión se establezca la modalidad combinada de construcción, mejoramiento, rehabilitación, reparación y mantenimiento de obras públicas de transporte y de los servicios que ellas prestan, se deberá contar con los siguientes requisitos:
+   1. Estudios.
+        
+      En la modalidad combinada de concesión anteriormente mencionada donde interviene una o mas fases de construcción y/o Mejoramiento Sustancial, se deberá cumplir con lo dispuesto en los numerales 1, 2 y 3 del Articulo 9 de la Ley, dejando además clara constancia de los parámetros, especificaciones técnicas exigibles a las obras, el nivel de servicios de que serán dotadas y los estándares que deberán tener a su puesta en operación, durante toda la etapa de su explotación y los exigibles al tiempo de su reversión al ente concedente. Asimismo, cuando en esta modalidad combinada de concesión intervenga una o mas fases de rehabilitación, reconstrucción, reparación y mantenimiento la entidad concedente deberá acompañar para la licitación el Estudio del numeral 1 del Art. 9 de la Ley, dejando además en las mismas bases de licitación, clara constancia de los estándares que deberán tener a su puesta en operación, durante toda la etapa de explotación y los exigibles al tiempo de su reversión al ente concedente.
+   2. Estudio de Negocio de la Concesión
+        
+      En las En la modalidad combinada de concesión anteriormente mencionada, se deberá realizar el estudio de negocio de la concesión que englobe a todo el conjunto de modalidades de concesión, con a lo menos los siguientes requisitos: (b.1) estudio de la estructura tarifaria a aplicar en la obra por concesión, su formula de reajuste y su sistema de revisión (b.2) las condiciones del mercado de capitales y de financiamiento en que se licitará y ejecutará el proyecto (b.3) de ser necesario, proponer el eventual otorgamiento de asignaciones o aportes estatales del ente público concedente a favor del concesionario (b.4) si los hubiere, los pagos que deba efectuar el concesionario a la entidad pública concedente (b.5) en todas las licitaciones y contratos se deberá incluir una garantía de ingresos o de tránsitos mínimos que el ente público concedente otorgará a la sociedad concesionaria, por el todo o parte del plazo previsto para la explotación de la concesión, con el objeto de viabilizar el proyecto, disminuyendo los riesgos que encarezcan el financiamiento de la Concesión (b.6) proponer el plazo optimo de la concesión (b.7) Estudio de Ingeniería de Tráfico, efectuados según las metodologías y normativas vigentes en el país, para cada rubro de la actividad de transporte según la naturaleza de la obra por concesión, el que deberá incluir a lo menos: (b.7.1) aforos u otros tipos de mediciones y proyecciones de uso de las obras existentes o de la estimación de uso para las obras o partes nuevas, (b.7.2) análisis de la proyección de la Demanda y análisis de la oferta existente que tenga incidencia alternativa a las obras que se darían en concesión (b.7.3) cuando así corresponda, encuestas de origen y destino, preferencias de viajes y disposición al pago por los usuarios de dichas obras.
+   3. 2) Para la modalidad combinada de concesión que implique solo rehabilitación, reparación y mantenimiento, se deberá acompañar a las bases de licitación los Estudios de los numerales 1 y 4 del Art. 9 de la Ley. Dejando además en las bases de licitación, clara constancia de los estándares que deberán tener a su puesta en operación, durante toda la etapa de explotación y los exigibles al tiempo de su reversión al ente concedente.
+
+**Artículo 240°.-** De las Competencias del Viceministerio de Transporte, Comunicación y Aeronáutica Civil, Prefecturas y Municipalidades, según correponda, de acuerdo a su exclusiva atribución funcional y de territorialidad:
+
+1. El Ministerio de Desarrollo Económico a través del Viceministerio de Transporte, Comunicación y Aeronáutica Civil será competente para concesionar: a.1) La totalidad del Sistema Ferroviario y de nuevos proyectos de expansión de vías férreas, respetando lo dispuesto en el articulo 68 de la Ley y el articulo 237 del presente Reglamento a.2) La Totalidad de la Red Fundamental de Carreteras, incluido sus puentes, túneles y viaductos y los niveles de servicio que ellas presten a.3) La totalidad de la Red Aeroportuaria existente y de nuevos proyectos de construcción de aeropuertos, terminales de carga y/o pasajeros, y los niveles de servicio que ellas presten, respetando lo dispuesto en el articulo 69 de la Ley y el articulo 236 del presente Reglamento a.4) La totalidad de la Red Portuaria Pública existente y de nuevos proyectos Portuarios y los niveles de servicio que ellas presten. A.5) Terminales Intermodales de carga, siempre que conecten la Red Fundamental de Carreteras con Enlaces Ferroviarios y/o Puertos Públicos Fluviales y Lacustres y los niveles de servicio que ellas presten.
+2. Las Prefecturas de cada Departamento, siempre y cuando cumplan lo dispuesto por la Ley y este reglamento para la creación de la Dirección Departamental de Concesiones de Obras Públicas de Transporte, serán competentes para concesionar: b.1) Carreteras de la Red Departamental, incluidos sus puentes, túneles y viaductos, y los niveles de servicio que ellas presten, que sean de su exclusiva atribución funcional y de territorialidad, según lo dispuesto por la Ley y el presente Reglamento b.2) Excluidas las carreteras de la Red Fundamental, se podrán transferir patrimonialmente Obras Públicas de Transporte mediante Decreto Supremo que expresa y tácitamente así lo autorice.
+3. Las Municipalidades y Mancomunidad de Municipalidades, cuando corresponda, serán competentes para concesionar: c.1) Carreteras de la Red Municipal, incluidos sus puentes, túneles y viaductos y los niveles de servicio
+     
+   que ellas presten, o Carreteras de una Mancomunidad de Municipalidades involucradas, que sean de su exclusiva atribución funcional y de territorialidad, según lo dispuesto por la Ley y el presente Reglamento c.2) Vías Férreas urbanas para transporte de pasajeros, según lo dispuesto por la Ley General de Ferrocarriles de 1910 en su articulo 1. En este sentido la Empresa Nacional de Ferrocarriles a través del Viceministerio de Transporte, Comunicación y Aeronáutica Civil podrá transferir patrimonialmente a una Municipalidad o Mancomunidad de ellas, vías férreas que se encuentren en su totalidad en áreas urbanas, y los niveles de servicio que ellas presten, mediante Decreto Supremo que expresa y tácitamente, así lo autorice. c.3) otras obras singulares, complementarias y/o auxiliares, y los niveles de servicio que ellas presten, que sean de su exclusiva atribución funcional y de territorialidad, según lo dispuesto por la Ley y el presente Reglamento. Entre otras tren eléctrico por superficie, tren elevado, Metro, teleféricos, plazas Públicas con estacionamientos subterráneos, etc.
+
+**Artículo 241°.- (Rentabilidades extraordinarias compartidas)**   
+Cuando la rentabilidad esperada y establecida en el contrato de concesión sea superada, el porcentaje excedido será compartido por la entidad publica concedente y la sociedad concesionaria, según lo que se establezca en el contrato de concesión.
+
+## Título XIX Disposiciones transitorias
+
+**Artículo transitorio 1°.-**   
+Reserva a la iniciativa exclusiva de la Administración Nacional el desarrollo de las concesiones de obras públicas de transporte que indica.
+  
+Sin perjuicio de la facultad del Viceministerio de Transporte, Comunicaciones y Aeronáutica Civil de reservar otras obras en el Registro Nacional de Concesiones, se declara la iniciativa exclusiva de la Administración Nacional sobre las siguientes obras a construir, mejorar, rehabilitar y mantener por concesión de obra pública de transporte:
+
+1. Concesiones Viales:
+   1. Rutas al Pacífico, del Corredor Este - Oeste: 1.1.) Oruro - Toledo (Mantenimiento) Toledo - Pisiga (Construcción y Mantenimiento); 1.2.) Oruro - Caracollo (Mantenimiento); 1.3.) Oruro - Paria - Caihuasi (Mantenimiento); 1.4.) La Paz - Patacamaya - Caracollo - Caihuasi - Confital (Mantenimiento); 1.5.) Patacamaya - Tambo Quemado (Mantenimiento); 1.6.) Autopista La Paz - El Alto (Mantenimiento); 1.7.) El Alto - Río Seco - Desaguadero - (Mantenimiento) 1.8.) El Alto - Río Seco - Tiquina - Copacabana - Khasani - (Rehabilitación y Mantenimiento);
+   2. Rutas al MERCOSUR; del Corredor Norte - Sur / Sector Sur - Argentina -Paraguay: 2.1) Km.13 (Santa Cruz de la Sierra) - Camiri - Boyuibe - Yacuiba (Mantenimiento); 2.Yacuiba - Pocitos Boliviano (Mejoramiento); 2.3) Boyuibe - Hito Villazón (Construcción y Mantenimiento).
+2. Concesiones Ferroviarias:
+   1. Interconexión Ferroviaria: Aiquile - Mataral - Santa Cruz (Construcción y Mantenimiento);
+   2. Ramal Ferroviario: Motacucito - Mutún - Puerto Busch (Construcción y Mantenimiento).
+3. Concesiones Portuarias:
+   1. Primera Concesión de la Red Portuaria Nacional en el Eje Fluvial Ichilo - Mamoré: 1.Puerto Villarroel (Mejoramiento y Mantenimiento) 1.2) Puerto de Guayaramerin (Mantenimiento) y 1.3) Puerto Varador / Trinidad (Construcción y Mantenimiento)
+
+**Artículo transitorio 2°.-** Norma para reserva inicial de la iniciativa exclusiva de Prefecturas, Municipalidades y otros entes públicos competentes para el desarrollo de Concesiones obras Públicas de transporte.
+  
+Dentro de los 100 días siguientes a la publicación en la Gaceta Oficial de este Reglamento Orgánico las Prefecturas, de estar habilitadas según lo dispuesto por la Ley y el presente Reglamento, Municipalidades o Mancomunidades de Municipalidades deberán publicar en un diario de la ciudad de su sede y si no lo hubiere, en un diario de la ciudad cabecera del departamento o de circulación nacional, por una sola vez el listado de las Obras Públicas de Transporte de su exclusiva atribución funcional y de territorialidad, que el ente público competente excluye del sistema de iniciativa privada y cuyo estudio y desarrollo se reserva para los dos años siguientes contados desde el día de su publicación, sea por el de concesiones que regula la Ley y el presente Reglamento Orgánico o por el sistema de obras de financiamiento público.
+  
+Si la obra reservada por el ente público competente para su desarrollo, no ha iniciado su construcción, ni se encuentra en estudio o licitación pública dentro de dicho plazo, cesará la reserva a favor del respectivo ente público y los particulares podrán presentarlas ante dicho ente quién no podrá excepcionarse con la reserva de derecho que hubiere caducado.
+
+**Artículo transitorio 3°.-** Inicio de la facultad de los particulares para presentar iniciativas de obras públicas de transporte por concesión.
+  
+La proposición por empresas privadas de proyectos de obras por iniciativa privada para obra nueva o de mejoramiento sustancial de las existentes, de que trata el Capítulo II de la Ley y el Título IV de este Reglamento sólo se podrá efectuar válidamente en la oficina correspondiente del ente público competente, sea éste el Viceministerio; la Prefectura; Municipalidad o Mancomunidad de Municipalidades, según corresponda, al día siguiente de publicado en la gaceta oficial el presente reglamento orgánico.
+  
+A partir del segundo lunes de Enero de 1999, la recepción de propuestas de concesión por iniciativa privada se regirá por lo dispuesto en el párrafo tercero del articulo 36 del presente Reglamento.
+
+**Artículo transitorio 4°.-** Operación anterior a la constitución de la DIRECCIÓN GENERAL DE CONCESIONES DE OBRAS PÚBLICAS DE TRANSPORTE.
+  
+Mientras el Viceministerio no cree e inicie el funcionamiento legal de la DIRECCIÓN GENERAL DE CONCESIONES DE OBRAS PÚBLICAS DE TRANSPORTE de su dependencia, el funcionario que el Viceministro designe mediante Resolución Administrativa, ejercerá de modo transitorio todas las facultades que a ese organismo corresponden en virtud de la Ley y del presente Reglamento Orgánico.
+
+---
+
+Reglamento Anexo al [Decreto Supremo Nº 25253](https://www.lexivox.org//norms/BO-DS-25253.html), promulgado a los dieciocho días del mes de diciembre de mil novecientos noventa y ocho años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada, Fernando Kieffer Guzmán, Herbert Müller Costas, Ana María Cortéz de Soriano, Jorge Pacheco Franco, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Leopoldo López Cossio, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Amparo Ballivián Valdés.

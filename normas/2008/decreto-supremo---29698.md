@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 29698, 3 de septiembre de 2008
+
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE INTERINO DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que de acuerdo al Artículo 137 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), los bienes del patrimonio de la Nación constituyen propiedad pública, inviolable, siendo deber de todo habitante del territorio nacional respetarla y protegerla.
+* Que la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html) establece que toda persona tiene el derecho fundamental de ingresar, permanecer, transitar y salir del territorio nacional, así como el deber fundamental de resguardar y proteger los bienes e intereses de la colectividad.
+* Que por mandato de la atribución 18 del Artículo 96 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), corresponde al Presidente de la República, conservar y defender el orden interno y la seguridad exterior de la República.
+* Que algunas Prefecturas de Departamento no están cumpliendo con su deber legal de conservar el orden público interno en sus Departamentos, y por el contrario, están promoviendo alteraciones del orden público interno en detrimento de la estabilidad democrática y la tranquilidad ciudadana, al promover manifestaciones antidemocráticas que lesionan el patrimonio del Estado boliviano.
+* Que el Artículo 9 de la [Ley Nº 2027](https://www.lexivox.org//norms/BO-L-2027.html) de 27 de octubre de 1999, Estatuto del Funcionario Público, establece que los funcionarios públicos están prohibidos de utilizar bienes inmuebles, muebles y recursos públicos en objetivos políticos, particulares o de cualquier naturaleza que no sean compatibles con la especifica actividad funcionaria, así como de realizar o incitar acciones que afecten, dañen o causen deterioro a los bienes públicos.
+* Que las Prefecturas de Departamento a través de sus autoridades y funcionarios tienen la obligación de cumplir con sus competencias conferidas por Ley; el incumplimiento que genere daños o afecten el funcionamiento de servicios públicos, determinará su reparación civil.
+* Que es función del Gobierno Nacional resguardar y proteger los bienes del patrimonio de la Nación que constituyen propiedad pública e inviolable, garantizando la prestación de los servicios, el libre tránsito y la infraestructura caminera del País.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer los mecanismos de reparación de los daños causados por actos de vandalismo y depredación del patrimonio Estatal provocados por alteraciones del orden público, promovidos por las Prefecturas de Departamento.
+
+**Artículo 2°.- (Mecanismo de financiamiento)** 
+
+1. Los gastos que demanden la reparación de los daños causados por actos de vandalismo y depredación del patrimonio Estatal en las condiciones definidas en el Artículo anterior, serán financiados con recursos que los pudiera corresponder a las Prefecturas de Departamento en cuya jurisdicción territorial se encuentren la infraestructura o los activos afectados.
+2. A efecto del cumplimiento del parágrafo anterior, se autoriza al Ministerio de Hacienda a debitar automáticamente de las cuentas de las Prefecturas de Departamento comprendidas en los alcances de este Decreto Supremo, los recursos que requieran las instituciones descentralizadas y desconcentradas a través de sus máximas autoridades ejecutivas, quienes solicitarán este Ministerio, en base a un informe técnico financiero, el débito de los montos requeridos para la reparación de sus activos reales dañados.
+3. Las Prefecturas de Departamento cuyas cuentas hayan sido objeto de débito por la aplicación del presente Decreto Supremo, podrán repetir el pago que pudiera corresponder, de conformidad con la legislación vigente.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los tres días del mes de septiembre del año dos mil ocho.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE DEFENSA NACIONAL, Alfredo Octavio Rada Vélez, Celima Torrico Rojas, Graciela Toro Ibáñez MINISTRA DE PLANIFICACIÓN DEL DESARROLLO É INTERINA DE PRODUCCIÓN Y MICROEMPRESA Y DEL AGUA, Luís Alberto Arce Catacora MINISTRO DE HACIENDA É INTERINO DE HIDROCARBUROS Y ENERGÍA, Oscar Coca Antezana, Susana Rivero Guzmán, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, María Magdalena Cajías de la Vega, Walter Selum Rivero, Héctor E. Arce Zaconeta.

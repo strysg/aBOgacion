@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 26525, 22 de febrero de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Gobierno Nacional ha comprometido su apoyo al Programa de Modernización e Institucionalización de la administración pública, siendo preciso dotar al Servicio Nacional de Migración de infraestructura apropiada para el desempeño de sus funciones.
+* Que la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996, Ley de Pensiones, dispuso la liquidación de los entes gestores de la seguridad social boliviana, que hasta esa fecha administraban los regímenes de invalidez, vejez y muerte y seguros especiales, encomendando el proceso a liquidadores designados por la Secretaría Nacional de Pensiones.
+* Que la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de 16 de septiembre de 1997 de Organización del Poder Ejecutivo, reglamentada por el [Decreto Supremo Nº 24855](https://www.lexivox.org//norms/BO-DS-24855.html) de 22 de septiembre de 1997, modificó la estructura anterior y creó el Ministerio de Comercio Exterior e Inversión, ubicando bajo su dependencia a la Unidad de Reordenamiento y a los liquidadores de los entes gestores de seguridad social.
+* Que el Artículo 2 del [Decreto Supremo Nº 24433](https://www.lexivox.org//norms/BO-DS-24433.html) de 12 de diciembre de 1996, asigna a la Unidad de Reordenamiento la responsabilidad del manejo y disposición de los recursos económicos de los entes gestores, con el fin de entregarlos al Tesoro General de la Nación para el pago y beneficios sociales del personal de los mismos, de las rentas en curso de pago, rentas devengadas, pago por los servicios indispensables y el reembolso al Tesoro General de la Nación de los recursos anticipados para estos propósitos.
+* Que el Poder Legislativo, en ejercicio de la atribución contenida en el numeral 8 del Artículo 59° de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html), mediante [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de 21 de diciembre de 1999 de Administración Presupuestaria, autoriza al Ministerio de Hacienda a recibir de la liquidación de las entidades comprendidas en los Artículos 55 y 56 de la Ley de Pensiones, la transferencia de bienes inmuebles por concepto de reposición de recursos que el Tesoro General de la Nación asignó y asignará al cumplimiento de las obligaciones establecidas por la mencionada Ley de Pensiones.
+* Que el Artículo 17 de la misma Ley, autoriza al Ministerio de Hacienda a proceder con la enajenación de bienes muebles, maquinaria, equipos y otros activos de entidades públicas transferidas al Tesoro General de la Nación por efecto de su liquidación y/o reestructuración.
+* Que entre los bienes inmuebles cuya liquidación se encuentra a cargo de la Unidad de Reordenamiento del Ministerio de Comercio Exterior e Inversión, se encuentra el inmueble que perteneció al ex Fondo de Trabajadores de la Banca Privada, ubicado en la Avenida Camacho Nº 1468 al 1480 de la ciudad de La Paz.
+* Que el inmueble de referencia cuenta a la fecha con un contrato de comodato firmado el 12 de noviembre de 1996 por un lapso de 10 años, cediendo los pisos primero y segundo a la Federación de Jubilados de la Banca Privada, destinados al “Centro del día” o sede social para que puedan cumplir con su tarea de unir al sector y contribuir a su sano esparcimiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El objeto del presente Decreto Supremo es transferir un inmueble al Servicio Nacional de Migración.
+
+**Artículo 2°.- (Transferencia al Ministerio de Hacienda)** Se autoriza al Ministerio de Comercio Exterior e Inversión, a través de la Unidad de Reordenamiento, a transferir al Ministerio de Hacienda el inmueble ubicado en la Avenida Camacho, Nº 1468 al 1480 de la ciudad de La Paz, inscrito en la Oficina de Derechos Reales bajo la Partida Computarizada Nº 01068868 a nombre del Fondo de Pensiones de Trabajadores de la Banca Privada en liquidación a cargo del Ministerio de Comercio Exterior e Inversión.
+
+**Artículo 3°.- (Transferencia a titulo oneroso)** 
+
+1. Se autoriza al Ministerio de Hacienda a transferir el bien inmueble mencionado en el artículo anterior, al Servicio Nacional de Migración a título oneroso, por el valor de avalúo que asciende a $us.1.431.850.- (UN MILLON CUATROCIENTOS treinta y uno mil novecientos CINCUENTA 00/100 DOLARES AMERICANOS).
+2. La transferencia comprenderá muebles, equipos, accesorios y otros adheridos o instalados en el inmueble, según el valor en libros.
+
+**Artículo 4°.- (Procedimiento contable)** El Ministerio de Hacienda deberá realizar el procedimiento - contable pertinente para regularizar las operaciones señaladas en los Artículos 2 y 3 del presente Decreto Supremo, con cargo al presupuesto del Servicio Nacional de Migración - Recursos Propios, durante el período de siete años a partir de la gestión 2002.
+
+**Artículo 5°.- (Transferencia directa)** Para el fin señalado en el Artículo precedente, y velando por la economía del Estado, se autoriza al Ministerio de Comercio Exterior e Inversión a transferir el bien inmueble señalado en el Artículo 2, mediante la Unidad de Reordenamiento y por cuenta del Ministerio de Hacienda, directamente al Servicio Nacional de Migración.
+
+**Artículo 6°.- (Autorizacion de entrega provisional)** Mientras se realicen los trámites de Ley expresa, transferencia, protocolización e inscripción en Derechos Reales, se autoriza la entrega provisional del inmueble al Servicio Nacional de Migración, quien hasta que concluya el trámite legal y definitivo lo ocupará en calidad de depositario, reconociendo plenamente la vigencia del contrato de comodato de fecha 12 de noviembre de 1996 en favor de la Federación de Jubilados de la Banca Privada.
+
+---
+
+Los Señores Ministros de Estado, en las Carteras de Hacienda, Comercio Exterior e Inversión, y de Gobierno, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de febrero el año dos mil dos.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, José Luís Lupo Flores, Leopoldo Fernández Ferreira, Oscar Guilarte Luján, Eduardo Antelo Callisperis MINISTRO INTERINO DE HACIENDA, Mario Serrate Ruíz, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña , Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña, Xavier Nogales Iturri, Mauro Bertero Gutiérrez, Wigberto Rivero Pinto.

@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 27841, 12 de noviembre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 7 de la [Ley Nº 2627](https://www.lexivox.org//norms/BO-L-2627.html) de 30 de diciembre de 2003, señala que el Resultado Fiscal en cada presupuesto institucional se calculará en base al resultado fiscal (superávit/déficit) y su participación e incidencia en el resultado fiscal global del presupuesto General de la Nación 2004.
+* Que el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, establece la reducción del gasto en consultorías independientemente de la fuente de financiamiento, especificando que corresponde un 10% de reducción para las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público” del PGN, aprobado para la presente gestión fiscal, debiendo cualquier incremento en las referidas partidas aprobarse mediante Decreto Supremo.
+* Que el Gobierno de Bolivia comprometió el apoyo financiero de la Asociación Internacional de Fomento - Banco Mundial y del Fondo Nórdico para el Desarrollo - FND, mediante la suscripción de los Convenios de Crédito AIF 2805-BO y NDF-160, destinando los recursos de estos créditos a la ejecución del Proyecto Medio Ambiente, Industria y Minería - PMAIN.
+* Que el Proyecto Medio Ambiente, Industria y Minería - PMAIM tiene como objetivos mejorar el Marco Regulatorio de los sectores minero e industrial con respecto al medio ambiente y apoyar su implementación; asistir a los Municipios en la obtención de recursos financieros para mejorar las condiciones ambientales y aliviar la pobreza en las comunidades mineras localizadas en la jurisdicción de estos municipios; asimismo, el PMAIM, esta dividido en cinco componentes A - Marco Regulatorio, B - Mejoramiento de Laboratorio, C - Inversiones en Remediación, D - Manejo Ambiental del Sector Minero y E - Asistencia Técnica a los Municipios.
+* Que el Ministerio de Desarrollo Sostenible, a través de su Unidad de Coordinación Medio Ambiente - UCMA, se constituye en la Agencia Ejecutiva de los Componentes A y B; a dicho efecto, mediante Resolución Ministerial Nº 226 de 18 de agosto de 2004, emitida por el Ministerio de Desarrollo Sostenible, se aprobó el financiamiento de Bs.6.657.120.- (SEIS MILLONES SEISCIENTOS CINCUENTA Y siete mil CIENTO VEINTE 00/100 BOLIVIANOS), en favor del proyecto de inversión “Medio Ambiente, Industria y Minería Componentes A & B - PMAIM, con cargo a recursos de Crédito Externo del Fondo Nórdico para el Desarrollo - NFD.
+* Que el Ministerio de Hacienda mediante Informe VIPFE/DGIP/SEC-00308/2004 de 28 de septiembre de 2004, establece su conformidad con la solicitud de inscripción de recursos externos adicionales para el Proyecto “Medio Ambiente, Industria y Minería Componentes A & B” CODIGO SISIN 065-01019-00000, por Bs.6.657.120.- (SEIS MILLONES SEISCIENTOS CINCUENTA Y siete mil CIENTO VEINTE 00/100 BOLIVIANOS) con Fuentede Financiamiento 70 Crédito Externo y Organismo Financiador 384 Fondo Nórdico para el Desarrollo y, con un incremento de la Partida 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público”, por Bs.2.457.504.- (DOS MILLONES CUATROCIENTOS CINCUENTA Y siete mil QUINIENTOS CUATRO 00/100 BOLIVIANOS).
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba y autoriza la inscripción de la Partida 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público” por un monto total de Bs.2.457.504.- (DOS MILLONES CUATROCIENTOS CINCUENTA Y siete mil QUINIENTOS CUATRO 00/100 BOLIVIANOS), a favor del proyecto de inversión “Medio Ambiente, Industria y Minería Componentes A & B - PMAIM”, con cargo a recursos de Crédito Externo del Fondo Nórdico para el Desarrollo - NFD.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de noviembre del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Luis Carlos Jemio Mollinedo, Gustavo Pedraza Mérida, Horst Grebe López, Mauricio Navarro Banzer Ministro Interino de Servicios y Obras Públicas, Guillermo Torres Orías, Maria Soledad Quiroga Trigo, Rosario Quiroga Morales Ministra Interina de Salud y Deportes, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

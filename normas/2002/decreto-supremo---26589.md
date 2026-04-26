@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 26589, 17 de abril de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que los Artículos 55, 56 y 67 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996 de Pensiones, disponen la liquidación de los entes gestores de cualquier naturaleza que administren de manera exclusiva los regímenes y seguros especiales de la seguridad social boliviana, debiendo su patrimonio ser objeto de administración y liquidación a cargo de la Unidad de Reordenamiento, dependiente de la entonces Secretaría Nacional de Pensiones y hoy del Ministerio de Comercio Exterior e Inversión, de acuerdo al Artículo 25 de la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de 16 de septiembre de 1997, disponiendo además que los afiliados al sistema de reparto con rentas en curso de pago cobrarán sus rentas del Tesoro General de la Nación.
+* Que el Artículo 2 del [Decreto Supremo Nº 24433](https://www.lexivox.org//norms/BO-DS-24433.html) de 12 de diciembre de 1996, dispuso que el manejo y disposición de los recursos económicos de los entes gestores se ejecutará por la Unidad de Reordenamiento mediante el Tesoro General de la Nación, para el pago de haberes y beneficios sociales al personal de esos entes, así como la cancelación de las rentas en curso de pago, rentas devengadas, pago por los servicios indispensables y el reembolso al Tesoro General de la Nación de los recursos anticipados para estos propósitos.
+* Que el Poder Legislativo ejerciendo mediante el Artículo 18 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de 21 de diciembre de 1999, la atribución que el numeral 8 del Artículo 59 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html) el otorga, autorizó al Ministerio de Hacienda recibir la transferencia de bienes inmuebles de la liquidación de las entidades comprendidas en los artículos 55 y 56 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996 de Pensiones, por concepto de reposición de recursos que el Tesoro General de la Nación asignó y asignará para el cumplimiento de las obligaciones establecidas por lo citada Ley de Pensiones.
+* Que es necesario dotar a la Superintendencia General del Sistema de Regulación de Recursos Naturales Renovables (SG-SIRENARE), en forma inmediata, un bien apto para su funcionamiento, así como el desarrollo regular y continuo de sus actividades y funciones, transfiriéndole para el efecto un inmueble cuya liquidación se halla a cargo de la Unidad de Reordenamiento dependiente del Ministerio de Comercio Exterior e Inversión.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Reposicion de gastos)** En aplicación a lo dispuesto por el Artículo 18 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de Administración Presupuestaría de 21 de diciembre de 1999, el Ministerio de Hacienda recibirá del Ministerio de Comercio Exterior e Inversión, mediante la Unidad de Reordenamiento, el inmueble en propiedad horizontal, ubicado en la calle Batallón Colorados Nº 24, piso 12 del Edificio El Cóndor, inscrito en la Oficina de Derechos Reales de la ciudad de La Paz, bajo la Partida Computarizada Nº 01383763 de 15 de julio de 1987, a nombre del Fondo de Pensiones de Trabajadores de la Banca Estatal.
+
+**Artículo 2°.- (Transferencia)** Se autoriza al Ministerio de Hacienda transferir a la Superintendencia General del Sistema de Regulación de Recursos Naturales Renovables (SG-SIRENARE) a título oneroso, el inmueble mencionado en el artículo anterior, por el precio base del valor de avalúo que asciende a $us.160.267, 50 (CIENTO SESENTA mil DOSCIENTOS SESENTA Y siete 50/100 DÓLARES AMERICANOS)
+
+**Artículo 3°.- (Regularizacion)** El Ministerio de Hacienda deberá realizar el procedimiento presupuestario-contable pertinente para regularizar las operaciones señaladas en los Artículos 1 y 2 del presente Decreto Supremo.
+
+**Artículo 4°.- (Delegacion)** Para el fin señalado en el Artículo precedente, y velando por la economía del Estado, se autoriza al Ministerio de Comercio Exterior e Inversión a transferir el bien inmueble señalado en el Artículo 1, mediante la Unidad de Reordenamiento y por cuenta del Ministerio de Hacienda, directamente a la Superintendencia General del SIRENARE, y, entretanto se realice los trámites de perfeccionamiento de la transferencia, se proceda a la entrega inmediata y recepción del referido inmueble mediante acta, cuyos ambientes e instalaciones se destinan al funcionamiento de las oficinas de la Superintendencia General del SIRENARE.
+
+---
+
+Los Señores Ministros de Estado, en las Carteras de Hacienda y Comercio Exterior e Inversión, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de abril del año dos mil dos.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Lujan, Jacques Trigo Loubiere, Carlos Alberto Goitia Caballero, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña, Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña, Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

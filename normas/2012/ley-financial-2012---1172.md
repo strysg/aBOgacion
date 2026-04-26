@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 1172, 21 de marzo de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 29881](https://www.lexivox.org//norms/BO-DS-29881.html), de 7 de enero de 2009, establece los procedimientos y responsables para elaborar, presentar, aprobar y registrar las modificaciones al Presupuesto General del Estado, así como las competencias de aprobación según el tipo y alcance de las modificaciones presupuestarias.
+* Que el Artículo 30 de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, vigente por el inciso c) de la Disposición Final Tercera de la [Ley Nº 211](https://www.lexivox.org//norms/BO-L-N211.html), de 23 de diciembre de 2011, del Presupuesto General del Estado - Gestión 2012, dispone que en los casos que no correspondan a contraparte nacional, la inscripción y/o incremento de presupuesto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión”, deberá aprobarse mediante Decreto Supremo específico.
+* Que el Artículo 24 del [Decreto Supremo Nº 1134](https://www.lexivox.org//norms/BO-DS-N1134.html), de 8 de febrero de 2012, que Reglamenta la aplicación de la [Ley Nº 211](https://www.lexivox.org//norms/BO-L-N211.html), señala que la definición de las remuneraciones de los consultores de línea, debe estar establecida en función a la escala salarial; para lo cual, las Unidades Administrativas de cada entidad, elaborarán el cuadro de equivalencia de funciones que será avalado por la Unidad Jurídica y autorizado por la Máxima Autoridad Ejecutiva - MAE de la entidad.
+* Que el [Decreto Supremo Nº 0601](https://www.lexivox.org//norms/BO-DS-N601.html), de 18 de agosto de 2010, tiene por objeto crear el “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”, autorizando al Ministerio de Economía y Finanzas Públicas la transferencia de recursos del Tesoro General de la Nación - TGN, para cubrir los gastos inherentes a la ejecución del Programa a cargo del Ministerio de Desarrollo Rural y Tierras.
+* Que a fin de ejecutar las actividades programadas en la gestión 2012 y cumplir con los objetivos de los proyectos: “Mejoramiento Genético Ganado Bovino Carne y Leche Departamentos Oruro, La Paz, Santa Cruz y Beni” y “Capacitación y Asistencia Técnica de Manejo Integral de Ganado Bovino para pequeños y medianos productores, en los Departamentos de Oruro, La Paz, Chuquisaca, Santa Cruz y Beni”, ejecutados por el “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche”, se requiere incrementar la subpartida 25820 “Consultores de Línea”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Desarrollo Rural y Tierras, incrementar la subpartida 25820 “Consultores de Línea”, para financiar la contratación de consultorías que permitan la ejecución de proyectos del “Programa Nacional de Fomento y Desarrollo Pecuario de Carne y Leche” en la presente gestión.
+
+**Artículo 2°.- (Proyecto mejoramiento genético ganado bovino carne y leche Departamentos Oruro, La Paz, Santa Cruz y Beni)** Se autoriza al Ministerio de Desarrollo Rural y Tierras, incrementar la subpartida 25820 “Consultores de Línea” en Bs292.500.- (DOSCIENTOS NOVENTA Y DOS mil QUINIENTOS 00/100 BOLIVIANOS), financiados con fuente 10 “Tesoro General de la Nación” y Organismo Financiador 111 “Tesoro General de la Nación”, a través de un traspaso presupuestario intrainstitucional, afectando la partida 25900 “Servicios Manuales” para financiar la contratación de consultores de línea que permitan el cumplimiento de las actividades del Proyecto “Mejoramiento Genético Ganado Bovino Carne y Leche Departamentos Oruro, La Paz, Santa Cruz y Beni”.
+
+**Artículo 3°.- (Proyecto capacitación y asistencia técnica de manejo integral de ganado bovino para pequeños y medianos productores, en los Departamentos de Oruro, La Paz, Chuquisaca, Santa Cruz y Beni)** Se autoriza al Ministerio de Desarrollo Rural y Tierras, incrementar la subpartida 25820 “Consultores de Línea” en Bs359.100.- (TRESCIENTOS CINCUENTA Y NUEVE mil CIEN 00/100 BOLIVIANOS), financiados con fuente 10 “Tesoro General de la Nación” y Organismo Financiador 111 “Tesoro General de la Nación”, a través de un traspaso presupuestario interinstitucional del Tesoro General de la Nación, para financiar la contratación de consultores de línea que permitan el cumplimiento de las actividades del Proyecto “Capacitación y Asistencia Técnica de Manejo Integral de Ganado Bovino para Pequeños y Medianos Productores, en los Departamentos de Oruro, La Paz, Chuquisaca, Santa Cruz y Beni”.
+
+---
+
+Las señoras Ministras de Estado en los Despachos de Planificación del Desarrollo, y Desarrollo Rural y Tierras, quedan encargadas de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de marzo del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCIÓN, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Daniel Santalla Torrez MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE JUSTICIA, Juan Carlos Calvimontes Camargo, Felipe Quispe Quenta, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

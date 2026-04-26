@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 22651, 13 de noviembre de 1990
+
+LUIS OSSIO SANJINES
+  
+PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que es necesario establecer mediante decreto supremo el derecho de vía y consolidar la propiedad del Estado sobre la faja del camino así como las fuentes de materiales necesarios aprovechables para la construcción de la carretera pavimentada Padcaya Bermejo;
+* Que es deber del Gobierno nacional facilitar la realización de esa importante obra pública, que disminuirá el costo del transporte, incentivará el desarrollo de la región y mejorará su vinculación con el país.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Declárase de necesidad y utilidad pública la expropiación de terrenos hasta una extensión de sesenta metros a cada lado del eje de la carretera Padcaya Bermejo, así como todas las fuentes próximas de materiales aprovechables necesarios, de conformidad con los planos preparados por el Servicio Nacional de Caminos, consolidándose en su favor el derecho de vía en toda la carretera y fuentes de materiales.
+
+**Artículo 2°.-** El importe justipreciado de la plus valía que los propietarios adquieran con la construcción será descontado de sus indemnizaciones, excepto de los terrenos cuyas superficies sean expropiadas totalmente así como los precios de las construcciones afectadas, que serán pagados con sujeción a ley, a cuyo fin el Ministerio de Finanzas proveerá los fondos necesarios a la Prefectura de Tarija.
+
+**Artículo 3°.-** Se encarga a la Prefectura de Tarija los trámites pertinentes de expropiación, de acuerdo con la ley de 30 de diciembre de 1.884.
+
+---
+
+Los señores Ministros de Estado en los despachos de Transportes, Comunicaciones y Aeronáutica Civil, Interior Migración y Justicia así como Finanzas, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de noviembre de mil novecientos noventa años.
+  
+LUIS OSSIO SANJINES, PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPUBLICA, Jorge Soruco Villanueva Min. RR. EE. y Culto a. i., Guillermo Capobianco Ribera, Héctor Ormachea Peñaranda, Mario Catacora Landivar Min. Presidencia de la República a. i., Marcelo Zalles Barriga Min. Planeamiento y Coordinación a. i.. , Armando Méndez Morales Min. Finanzas a. i., Guillermo Fortún Suárez, Mariano Baptista Gumucio, Willy Vargas Vacaflor, Guido Céspedes Argandona, Oscar Zamora Medinacelli, Mario Paz Zamora, Wálter Soriano Lea Plaza, Gerardo Aguirre Ulloa Min. AA. CC. y Agropecuarios a. i., Alejandro Nowotny Vera Min. Energía e Hidrocarburos a. i., Elena Velasco de Urresti.

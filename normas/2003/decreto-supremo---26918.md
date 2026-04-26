@@ -1,0 +1,42 @@
+# Bolivia: Decreto Supremo Nº 26918, 17 de enero de 2003
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que dentro de las políticas del Gobierno Nacional tiene como uno de sus objetivos impulsar el desarrollo y crecimiento del sector agrícola, con la finalidad de superar los sistemas tradicionales de cultivo.
+* Que el Gobierno ha comprometido su apoyo a los pequeños productores campesinos, como resultado de las gestiones efectuadas por la Confederación Sindical Única de Trabajadores Campesinos de Bolivia - CSUTCB, para la otorgación de créditos con destino a la compra de tractores y sus implementos.
+* Que a fin de viabilizar el desarrollo y crecimiento del sector agrícola, es necesario establecer un programa crediticio para la adquisición de tractores e implementos agrícolas, que permita a los campesinos la adquisición de los mismos, a través de operaciones de crédito accesibles a su realidad socioeconómica.
+* Que para establecer los recursos necesarios, el Ministerio de Hacienda y el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF, establecerán los procedimientos, términos y condiciones a ser aplicadas en la intermediación financiera que permita la compra de tractores y sus implementos.
+* Que el Gobierno Nacional durante su gestión, tiene la intención de permitir la accesibilidad para la adquisición de hasta un total de un mil tractores con sus implementos agrícolas, destinados al desarrollo del sector agrario, utilizando un fondo rotativo según la recuperación del mismo y hasta completar la cantidad de tractores determinados.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer un Fideicomiso que permita implementar un Programa Crediticio para la adquisición de hasta un mil tractores con sus implementos agrícolas para el sector campesino. El Fideicomiso tendrá las características de un fondo rotativo que en base a la recuperación del mismo, permitirá completar la cantidad determinada de tractores.
+
+**Artículo 2°.- (Autorizacion)** 
+
+1. Se autoriza al Tesoro General de la Nación - TGN, constituir un Fideicomiso de hasta TREINTA MILLONES CIENTO VEINTE mil UFV's (UFV's 30.120.000.-), debiendo asumir la condición de fiduciario el Fondo de Desarrollo del Sistema Financiero y Apoyo al Sector Productivo - FONDESIF.
+     
+   El Viceministro de Tesoro y Crédito Público y el FONDESIF, establecerán mediante contrato las condiciones a las cuales se sujetará el Fideicomiso.
+2. Con los recursos provenientes de este Fideicomiso se autoriza al FONDESIF la creación del Programa Crediticio Campesino - PCC, destinado a financiar la adquisición de tractores e implementos agrícolas para el sector campesino.
+3. Se autoriza al FONDESIF canalizar los recursos del PCC a través de entidades financieras seleccionadas con licencia de funcionamiento de la Superintendencia de Bancos y Entidades Financieras.
+4. La entidad financiera seleccionada ordenará a un banco autorizado la apertura de una Carta de Crédito, para la importación de tractores e implementos agrícolas, por un monto de hasta CUATRO MILLONES DE DÓLARES AMERICANOS ($us.4.000.000.-), a favor del proveedor que sea oficialmente designado por la CSUTCB, con los precios unitarios, marcas y características técnicas también señaladas por esta entidad, utilizando los recursos financieros del PCC para instrumentar la mencionada operación hasta su finalización.
+5. La entidad financiera asignará estos bienes a los campesinos beneficiarios a través de créditos, por el valor de cada tractor y sus correspondientes implementos agrícolas, declarando estos su debida recepción.
+6. Se autoriza al FONDESIF seleccionar la(s) entidad(es) financiera(s) - IFI's intermediaria(s), para administrar los recursos financieros del Programa, utilizando sus mecanismos y normas propias de selección en el marco de las señaladas en el [Decreto Supremo Nº 26164](https://www.lexivox.org//norms/BO-DS-26164.html), de 27 de abril de 2001.
+
+**Artículo 3°.- (Seguimiento)** El Ministerio de Agricultura, Ganadería y Desarrollo Rural será el responsable del seguimiento técnico al PCC en el marco de las actividades de promoción del desarrollo rural.
+
+**Artículo 4°.- (Vigencia de normas)** Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y Agricultura, Ganadería y Desarrollo Rural, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los diecisiete días del mes de enero del año dos mil tres.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Carlos Saavedra Bruno, Carlos Sánchez Berzain, Alberto Gasser Vargas, Freddy Teodovich Ortiz, Gina Luz Méndez Hurtado, José Guillermo Justiniano Sandoval, Javier Comboni Salinas, Oscar Farfán Mealla, Arturo Liebers Baldivieso, Juan Carlos Virreira Méndez, Carlos Morales Landivar, Isaac Maidana Quisbert, Javier Torrez Goitia Caballero, Jaime Navarro Tardio, Fernando Illanes de la Riva, Hernán Paredes Muñoz, Javier Suárez Ramírez, Silvia Amparo Velarde Olmos.

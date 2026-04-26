@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 22226, 13 de junio de 1989
+
+VICTOR PAZ ENTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Servicio Nacional de Caminos, mediante convocatoria pública, internacional 30/87 invitó a firmas consultoras de los países miembros del Banco Interamericano de Desarrollo a precalificación y contratación de servicios de consultoría para la prestación de Servicios de Supervisión en la rehabilitación de los tramos Cochabamba – Chimoré y Guabirá Yapacaní de la carretera Cochabamba - Santa Cruz, con financiamiento proveniente de los préstamos del BID 527/OC-BO y 815/SF - BO.
+* Que cumplidas las formalidades establecidas por el [Decreto Ley Nº 16850](https://www.lexivox.org//norms/BO-DL-16850.html) de 19 de julio de 1979 (Ley de Consultoría), la Junta de Selección previa evaluación del informe presentado por la comisión negociadora, resolvió por unanimidad , adjudicar la licitación en favor de la Asociación de Firmas Consultoras HIDROSERVICE - CONNAL por el costo de $us.5.329.986.
+* Que habiéndo cumplido con las normas y regulaciones establecidas por la Ley de Consultaría, de conformidad con el Art.23 c) del [Decreto Supremo Nº 21364](https://www.lexivox.org//norms/BO-DS-21364.html) de 13 de agosto de 1986, ampliada en su vigencia por [Decreto Supremo Nº 21781](https://www.lexivox.org//norms/BO-DS-21781.html) de 3 de diciembre de 1987, corresponde aprobar la adjudicación efectuada, mediante decreto supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se aprueba la adjudicación efectuada por la Junta de Selección del Servicio Nacional de Caminos, dentro de la Licitación 30/87, en favor de la Asociación de Firmas Consultoras HIDROSERVICE ENGENHARIA DE PROJECTOS LTDA. Y CONSULTORIA NACIONAL CONNAL S. R. L., para la prestación de servicios de supervisión en la rehabilitación de los tramos Cochabamba - Chimoré y Guabirá - Yapacaní de la carretera Cochabamba - Santa Cruz, por el precio total de CINCO MILLONES TRESCIENTOS veinte y nueve mil novecientos OCHETA Y SEIS 00/100 DOLARES AMERICANOS ($us.5.329.986.-)
+
+**Artículo 2°.-** Autorízase al Director Ejecutivo del Servicio Nacional de Caminos, suscribir el contrato respectivo, con los personeros legales de la asociación adjudicataria con intervención del Fiscal de Gobierno y refrenda del Contralor General de la República.
+
+---
+
+Los señores Ministros de Estado en los despachos de Transporte y Comunicaciones y de Finanzas quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de junio de mil novecientos ochenta y nueve años.
+  
+Fdo. VICTOR PAZ ESTENSSORO, Jorge Gumucio Granier Min. Relaciones Exteriores a. i., Eduardo Pérez Beltrán, Alfonso Revolllo Thenier, Fernando Candia, Min. Planeamiento y Coordinación a. i., Ramiro Cabezas Masses, Enrique Ipiña Melgar, Alfonso Balderrama Maldonado, Luis F. palenque Cordero, Luis A. Peña Rueda, Joaquin Arce Lema, Jaime Villalobos Sanjinés, José G. Justiniano Sandoval, Fernando Illanes de la Riva, Roberto Roca Iriarte, Wálter H. Zuleta Roncal, Herman Antelo Laughlin, Jaime Zegada Hurtado.

@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 2041, 25 de junio de 2014
+
+[Decreto Supremo Nº 2041](https://www.lexivox.org//norms/BO-DS-N2041.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 37 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
+* Que el numeral 2 del Parágrafo II del Artículo 299 del Texto Constitucional, establece como competencia concurrente por el nivel central del Estado y las entidades territoriales autónomas, entre otras, la gestión del sistema de salud.
+* Que el inciso n) del numeral 1 del Parágrafo III del Artículo 81 de la [Ley Nº 031](https://www.lexivox.org//norms/BO-L-N31.html), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, dispone que los gobiernos autónomos departamentales tienen la competencia de cofinanciar políticas, planes, programas y proyectos de salud en coordinación con el nivel central del Estado y las entidades territoriales autónomas en el departamento.
+* Que el Parágrafo III del Artículo 10 de la [Ley Nº 3302](https://www.lexivox.org//norms/BO-L-3302.html), de 16 de diciembre de 2005, vigente por disposición del inciso a) de la Disposición Final Segunda de la [Ley Nº 455](https://www.lexivox.org//norms/BO-L-N455.html), de 11 de diciembre de 2013, del Presupuesto General del Estado - Gestión 2014, señala que las Prefecturas Departamentales, actuales Gobiernos Autónomos Departamentales financiarán con recursos del Impuesto Directo a los Hidrocarburos - IDH, entre otros, los gastos del costo del Bono de Vacunación: Viáticos de vacunación y escalafón al mérito que se otorga al sector salud, para campañas de vacunación.
+* Que el Artículo 24 del Presupuesto General del Estado - Gestión 2010, vigente por disposición del inciso b) de la Disposición Final Segunda de la [Ley Nº 455](https://www.lexivox.org//norms/BO-L-N455.html), establece que el Viático de Vacunación es un pago económico que beneficia a los funcionarios que prestan servicios de forma directa en este tipo de campañas, debiendo el Ministerio de Salud y Deportes, actual Ministerio de Salud, reglamentar este beneficio. Se excluye del referido reconocimiento a los jubilados del sector.
+* Que el Parágrafo I del Artículo 19 de la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), de 11 de diciembre de 2012, del Presupuesto General del Estado - Gestión 2013, vigente por disposición del inciso j) de la Disposición Final Segunda de la [Ley Nº 455](https://www.lexivox.org//norms/BO-L-N455.html), autoriza al Ministerio de Economía y Finanzas Públicas, realizar débitos automáticos a favor de las entidades públicas afectadas por la aplicación de factores de distribución o entidades beneficiarias y/o ejecutoras de programas y proyectos, cuando éstas lo soliciten, con el objeto de garantizar el cumplimiento de las obligaciones contraídas y competencias asignadas, así como por daños ocasionados al Patrimonio Estatal; conforme a normativa vigente.
+* Que el Artículo 2 del [Decreto Supremo Nº 1277](https://www.lexivox.org//norms/BO-DS-N1277.html), de 30 de junio de 2012, autoriza al Ministerio de Salud y Deportes, actual Ministerio de Salud, efectuar el pago único anual de Bs3.032.- (TRES mil TREINTA Y DOS 00/100 BOLIVIANOS) como “Viático de Vacunación” por la gestión 2012, a favor de los servidores públicos del sector público de salud que prestan servicios de forma directa en este tipo de campañas. Este beneficio no es aplicable al área de profesionales en salud y a los jubilados del sector.
+* Que el Parágrafo I del Artículo Único del [Decreto Supremo Nº 1638](https://www.lexivox.org//norms/BO-DS-N1638.html), de 10 de julio de 2013, modifica el Artículo 2 del [Decreto Supremo Nº 1277](https://www.lexivox.org//norms/BO-DS-N1277.html), de 30 de junio de 2012, autorizando al Ministerio de Salud y Deportes, actual Ministerio de Salud, realizar el pago único anual de Bs3.214.- (TRES mil DOSCIENTOS CATORCE 00/100 BOLIVIANOS) como “Viático de Vacunación” para la gestión 2013, a favor de los servidores públicos del sector público de salud. Este beneficio no es aplicable al área de profesionales en salud, a los jubilados del sector, los servidores que perciben categoría médica, escalafón médico, categoría de riesgo profesional y el personal a contrato. Asimismo, el Parágrafo II dispone que A partir de la gestión 2013, el número de casos será actualizado y establecido por Resolución Biministerial de los Ministerios de Salud y Deportes, y de Economía y Finanzas Públicas.
+* Que las acciones desarrolladas por las trabajadoras y trabajadores de los Servicios Departamentales de Salud - SEDES y Ministerio de Salud, acompañan las actividades operativas, técnicas y administrativas regulares de los establecimientos de salud y de las campañas de vacunación para alcanzar las coberturas de inmunización comprometidas por los departamentos del país.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se modifica el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 1277](https://www.lexivox.org//norms/BO-DS-N1277.html), de 30 de junio de 2012, modificado por el [Decreto Supremo Nº 1638](https://www.lexivox.org//norms/BO-DS-N1638.html), de 10 de julio de 2013, con el siguiente texto:
+> “I. Se autoriza al Ministerio de Salud en el marco de la normativa vigente, realizar el pago único anual de Bs3.407.- (TRES mil CUATROCIENTOS siete 00/100 BOLIVIANOS) como “Viático de Vacunación”
+
+a favor de las servidoras y servidores públicos del sector público de salud. Este beneficio no es aplicable al área de profesionales en salud, a los jubilados del sector, los servidores que perciben categoría médica profesional y básica, escalafón médico, bono de riesgo profesional y el personal a contrato.”
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Salud, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de junio del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo MINISTRO DE CULTURAS Y TURISMO E INTERINO DE EDUCACIÓN, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

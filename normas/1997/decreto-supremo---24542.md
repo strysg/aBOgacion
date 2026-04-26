@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 24542, 31 de marzo de 1997
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la Corporación Minera de Bolivia suscribió el 9 de marzo de 1990, con autorización de su directorio, un contrato con la sociedad Minproc Bolivia S.A. para la realización de estudios y pruebas técnicas a fin de determinar la factibilidad económica de la recuperación de minerales de zinc y otros contenidos en las colas de la Empresa Minera Colquiri, con opción exclusiva de arrendamiento;
+* Que el referido contrato no pudo ser ejecutado a cabalidad por la intransigente oposición del sindicato de trabajadores de la Empresa Minera Colquiri que impidió a COMIBOL cumplir su obligación contractual de garantizar la quieta y pacífica posesión de los depósitos objeto del contrato, con el libre e irrestricto acceso a los lugares donde se encuentran las colas y las facilidades que aseguren la independencia total de las operaciones;
+* Que habiéndose aprobado, como política de gobierno, la capitalización de la Empresa Metalúrgica de Vinto y la transferencia de responsabilidades operativas al sector privado, es necesario y conveniente para COMIBOL mantener dentro su dominio las colas de la Empresa Minera Colquiri para mejor resultado económico del contrato de riesgo compartido a suscribirse;
+* Que el directorio de la Corporación Minera de Bolivia aprobó, por resolución 1192/96 de 17 de julio de 1996, el resultado de las negociaciones efectuadas con la sociedad Minproc Bolivia S.A. disponiendo la resolución del contrato de 9 de marzo de 1990, mediante la suscripción del instrumento legal respectivo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se homologa la resolución 1192/96 de 17 de julio de 1996 del directorio general de la Corporación Minera de Bolivia que aprobó la resolución del contrato número 56 de 9 de marzo de 1990 firmado con la sociedad MINPROC BOLIVIA S.A., con pago de UN MILLON DOSCIENTOS CINCUENTA mil 00/100 DOLARES AMERICANOS (US$.1.250.000.00), por compensación de sus gastos efectuados en los estudios y pruebas de las colas de Colquiri, monto que incluye la devolución de su adelanto, además su renuncia a la opción de arrendamiento y otros derechos reconocidos en el contrato de 9 de marzo de 1990.
+
+---
+
+El señor Ministro de Estado sin Cartera a cargo de Desarrollo Económico queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de marzo de mil novecientos noventa y siete años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzaín, Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Franklin Anaya Vásquez, Moisés Jarmúsz Levy, Hugo San Martín Arzabe, Mauricio Antezana Villegas, MINISTRO SUPLENTE DE COMUNICACION SOCIAL, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

@@ -1,0 +1,67 @@
+# Bolivia: Ley Municipal Nº 4, 8 de octubre de 2010
+
+LEY MUNICIPAL AUTONÓMICA Nº 004/201O
+  
+GOBIERNO AUTÓNOMO MUNICIPAL DE LA PAZ
+  
+Secretaría General
+  
+Dr. Luis Revilla Herrero
+  
+ALCALDE MUNICIPAL DE LA PAZ
+  
+Por cuanto el Concejo Municipal de La Paz ha aprobado la siguiente Ley Autónoma Municipal:
+
+EXPOSICIÓN DE MOTIVOS:
+
+La diversidad cultural constituye la base esencial del Estado Plurinacional, siendo que la interculturalidad es reconocida como el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y regiones de nuestro país.
+
+La [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) en su Artículo 1 consagra a Bolivia como un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías; constituyéndose la pluralidad y el pluralismo en los fundamentos del proceso integrador de nuestro territorio.
+
+En su Artículo 3, la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) reconoce a las comunidades interculturales como constitutivas de la nación boliviana, conformando conjuntamente con la totalidad de las bolivianas y bolivianos, el pueblo boliviano.
+
+Por otra parte, nuestro Texto Supremo en su artículo 272 consagra la autonomía de las Entidades Territoriales, que implica la elección directa de sus autoridades por las ciudadanas y ciudadanos, la administración de sus recursos económicos y el ejercicio de las facultades legislativas, reglamentaria, fiscalizadora y ejecutiva, por los órganos del gobierno autónomo en el ámbito de su jurisdicción, competencia, y atribuciones.
+
+Asimismo el artículo 283 prevé que el Gobierno Autónomo Municipal está constituido por un Concejo Municipal con facultad deliberativa, fiscalizadora y legislativa municipal en el ámbito de sus competencias; y un órgano ejecutivo, presidido por la Alcaldesa o el Alcalde.
+
+Al respecto, la [Ley Marco de Autonomías y Descentralización “Andrés Ibáñez” Nº 31](https://www.lexivox.org//norms/BO-L-N31.html) de 19 de julio de 2010 dispone en su artículo 9, parágrafo I, numeral 3) que la autonomía se ejerce a través de la facultad legislativa, determinando así las políticas y estrategias de su gobierno autónomo; concordado con el artículo 34 de dicha Ley Marco que prevé que el Gobierno Autónomo Municipal está constituido por un Concejo Municipal y un Órgano Ejecutivo, correspondiéndole al primero la facultad legislativa en el ámbito de las competencias municipales.
+
+El artículo 297, parágrafo I, numeral 2) de nuestra Constitución Política define a las competencias exclusivas como aquellas en las que un nivel de gobierno tiene sobre una determinada materia las facultades legislativa, reglamentaria y ejecutiva; siendo que el artículo 302, parágrafo I, numerales 16) y 31) consagran como Competencia exclusiva de los Gobiernos Municipales Autónomos, en su jurisdicción, la promoción y conservación de cultura, patrimonio cultural, histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible municipal; así como, la promoción de la cultura y actividades artísticas en el ámbito de su jurisdicción.
+
+En este contexto, el artículo 86, parágrafo III, numerales 1) y 2) de la antedicha [Ley Marco de Autonomías y Descentralización](https://www.lexivox.org//norms/BO-L-N31.html), de acuerdo a las competencias exclusivas de los numerales 16) y 31) del Artículo 302 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), facultan exclusivamente a los Gobiernos Municipales Autónomos a formular y ejecutar políticas de protección, conservación, recuperación, custodia y promoción del patrimonio cultural municipal y descolonización, investigación y prácticas de culturas ancestrales de naciones originarias y pueblos indígenas, idiomas del Estado Plurinacional, en el marco de las políticas estatales; así como, elaborar y desarrollar normativas municipales para la declaración, protección, conservación y promoción del patrimonio cultural, histórico, documental, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible a su cargo.
+
+La visión del desarrollo humano del Municipio de La Paz y el Plan de Desarrollo Municipal - Jayma 2007 - 2011 establecen que La Paz es un claro reflejo de interculturalidad, constituyéndose en una de las ciudades más cosmopolitas del país siendo por ende necesaria la implementación de una política intercultural plena, tendiente a promover y fomentar el diálogo y la convivencia entre la población a fin de construir una verdadera comunidad intercultural.
+
+En orden a los conceptos y disposiciones anteriormente señaladas, la fecha del 12 de octubre de cada año cobra una significación más amplia, puesto que el hecho histórico que se recuerda debe Ser integrado en el contexto de la actual refundación del Estado Plurinacional y de su opción por la construcción de una sociedad intercultural igualitaria, respetuosa de la diversidad y promotora de la convivencia armónica entre todas las culturas.
+
+# LEY MUNICIPAL AUTONÓMICA
+
+# Nº 004/2010
+
+# DE DECLARATORIA Y NOMINACIÓN DEL “DÍA DEL DIÁLOGO Y DE LA CONVIVENCIA INTERCULTURAL EN EL MUNICIPIO DE LA PAZ”
+
+EL ÓRGANO LEGISLATIVO DEL GOBIERNO AUTÓNOMO MUNICIPAL DE LA PAZ:
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** En el marco de las atribuciones exclusivas constitucionalmente previstas para el Gobierno Autónomo Municipal de La Paz, es objeto de la presente Ley Municipal Autonómica declarar y nominar el 12 de octubre de cada año, anteriormente conocido como “Día de la Raza”, como “Día del Diálogo y de la Convivencia Intercultural en el Municipio de La Paz”.
+
+**Artículo 2°.- (Declaratoria y nominacion)** Declarar y nominar el día 12 de octubre de cada año como “Día del Diálogo y de la Convivencia Intercultural en el Municipio de La Paz”.
+
+**Artículo 3°.- (Actividades)** Disponer que en ocasión de la celebración del “Día del Diálogo y de la Convivencia Intercultural en el Municipio de La Paz”, el Gobierno Autónomo Municipal de La Paz organice y lleve a cabo actos y actividades de conmemoración de esta fecha con amplia participación de todos los sectores de la comunidad.
+
+**Artículo 4°.- (Publicación)** El Ejecutivo Municipal, a través de la Secretaría General, queda encargado de la publicación de la presente Ley Municipal Autonómica en medio de prensa escrito.
+
+---
+
+Remítase al Ejecutivo Municipal para su respectiva promulgación y publicación, quedando encargado del estricto cumplimiento de lo establecido en la presente Ley Municipal Autonómica.
+  
+Es dada en la Sala de Sesiones del Concejo Municipal de La Paz a los Siete días del mes de Octubre de dos mil diez años.
+  
+Firmado por:
+  
+Gabriela Niño de Guzmán García - PRESIDENTA CON CEJO MUNICIPAL DE LA PAZ, Omar Oscar Rocha Rojo - SECRETARIO CONCEJO MUNICIPAL DE LA PAZ
+  
+Por tanto la promulgo para que se tenga y cumpla como Ley Municipal del Gobierno Autónomo Municipal de La Paz, a los ocho días del mes de octubre del año dos mil diez.
+  
+Luis Revilla Herrero, Alcalde Municipal de La Paz.

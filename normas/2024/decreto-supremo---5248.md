@@ -1,0 +1,110 @@
+# Bolivia: Decreto Supremo Nº 5248, 16 de octubre de 2024
+
+Decreto Supremo Nº 5248
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 306 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) determina que la economía plural está constituida por las formas de organización económica comunitaria, estatal, privada y social cooperativa.
+* Que el Parágrafo I del Artículo 308 del Texto Constitucional establece que el Estado reconoce, respeta y protege la iniciativa privada, para que contribuya al desarrollo económico, social y fortalezca la independencia económica del país.
+* Que el Parágrafo II del Artículo 312 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) dispone que todas las formas de organización económica tienen la obligación de generar trabajo digno y contribuir a la reducción de las desigualdades y a la erradicación de la pobreza.
+* Que la [Ley Nº 516](https://www.lexivox.org//norms/BO-L-N516.html), de 4 de abril de 2014, de Promoción de Inversiones, tiene por objeto establecer el marco jurídico e institucional general para la promoción de las inversiones en el Estado Plurinacional de Bolivia, a fin de contribuir al crecimiento y desarrollo económico y social del país, para el Vivir Bien.
+* Que el inciso d) del Artículo 4 de la [Ley Nº 516](https://www.lexivox.org//norms/BO-L-N516.html) define como inversión preferente, la calidad otorgada por el Ministerio de Planificación del Desarrollo a proyectos de inversión que desarrollen actividades productivas de interés estratégico para el país, que se encuentran identificadas en la citada Ley. Esta calidad permite a la inversión acceder a incentivos específicos.
+* Que el Parágrafo I del Artículo 21 de la [Ley Nº 516](https://www.lexivox.org//norms/BO-L-N516.html) señala que el Estado podrá otorgar incentivos generales e incentivos específicos a todas las inversiones que se realicen en el país, en las condiciones establecidas en la citada Ley. Los incentivos generales serán otorgados a las actividades productivas sectoriales que se enmarquen en la planificación del desarrollo económico y social del país, y tendrán aplicación general en el sector. Los incentivos específicos serán otorgados a proyectos de inversión que sean calificados como inversión preferente.
+* Que los incisos b) y c) del Parágrafo I del Artículo 25 de la [Ley Nº 516](https://www.lexivox.org//norms/BO-L-N516.html) establecen que el Ministerio de Planificación del Desarrollo queda facultado para recomendar al Consejo de Ministros la aprobación de incentivos generales y específicos para la inversión y su suspensión o cancelación, en el marco de las políticas de desarrollo económico y social del país, y de lo establecido en la citada Ley; y calificar como inversión preferente las propuestas de proyectos presentados a su conocimiento, cuando éstas se circunscriban a lo establecido en el Artículo 22 de la citada Ley, previa selección cuando se presenten dos o más propuestas para la misma actividad económica.
+* Que con el fin de fomentar y promover la inversión nacional y/o extranjera para el desarrollo de sectores productivos en actividades económicas en el marco de la industrialización con sustitución de importaciones, es necesario reglamentar la otorgación de la calidad de inversión preferente a proyectos de inversión y la solicitud de otorgación de incentivos generales e incentivos específicos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** Con la finalidad de fomentar y promover la inversión nacional y/o extranjera, el presente Decreto Supremo tiene por objeto reglamentar la otorgación de la calidad de inversión preferente, incentivos generales e incentivos específicos, en el marco de la [Ley Nº 516](https://www.lexivox.org//norms/BO-L-N516.html), de 4 de abril de 2014, de Promoción de Inversiones.
+
+**Artículo 2°.- (Tipos de incentivos)** 
+
+1. Los incentivos a ser propuestos para su aprobación mediante Ley o Decreto Supremo, incluyen y no se limitan a:
+   1. Subsidios y subvenciones de carácter sectorial;
+   2. Depreciación acelerada a efectos de la determinación del Impuesto sobre las Utilidades de las Empresas;
+   3. Mecanismos de promoción de la inversión;
+   4. Otros identificados por los ministerios cabeza de sector.
+2. Los ministerios cabeza de sector, deberán priorizar las propuestas destinadas a la investigación y desarrollo, ciencia, transferencia de tecnología innovadora, industrialización con sustitución de importaciones y modernización de procesos.
+
+**Artículo 3°.- (Principios para atracción de inversión preferente)** A los fines del presente Decreto Supremo, además de los principios establecidos en la [Ley Nº 516](https://www.lexivox.org//norms/BO-L-N516.html), la otorgación de la calidad de inversión preferente, incentivos generales e incentivos específicos, está orientada bajo los siguientes principios:
+
+1. **Eficacia**. La otorgación de la calidad de inversión preferente, incentivos generales e incentivos específicos, deben permitir alcanzar los objetivos y resultados programados en la planificación económica y social del país;
+2. **Competencia**. Los ministerios que gestionen la otorgación de la calidad de inversión preferente, incentivos generales e incentivos específicos, deberán hacerlo en los sectores que estén a su cargo en el marco de sus atribuciones;
+3. **Libre Participación**. Los ministerios cabeza de sector, deberán permitir la libre participación y la más amplia concurrencia de inversionistas, a través de mecanismos de publicidad.
+
+**Artículo 4°.- (Inversión preferente)** 
+
+1. Los ministerios cabeza de sector, que cuenten con uno o varios proyectos de inversión que requieran se los otorgue la calidad de inversión preferente, deberán remitir los mismos al Ministerio de Planificación del Desarrollo, cumpliendo los siguientes requisitos:
+   1. Nota firmada por la Ministra(o) que presente el o los proyectos de inversión para la otorgación de la calidad de inversión preferente al proyecto de inversión;
+   2. Proyecto de inversión;
+   3. Informe técnico y legal que justifiquen la aprobación del proyecto de inversión y su alineación con las actividades señaladas en el Parágrafo I del Artículo 22 de la [Ley Nº 516](https://www.lexivox.org//norms/BO-L-N516.html).
+2. Según la naturaleza del proyecto, las demás entidades y empresas del sector público, que cuenten con uno o varios proyectos de inversión y requieran se los otorgue la calidad de inversión preferente, deberán remitirlos al ministerio cabeza de sector correspondiente para que este, previa evaluación, presente los mismos, cumpliendo los requisitos establecidos en el Parágrafo precedente.
+
+**Artículo 5°.- (Calificación de inversión preferente)** 
+
+1. El Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación Estratégica del Estado, verificará que la propuesta para la otorgación de la calidad de inversión preferente al proyecto de inversión, cumpla con la presentación de los requisitos previstos en el Parágrafo I del Artículo 4 del presente Decreto Supremo, a fin de continuar con la evaluación o rechazar la propuesta.
+2. El Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación Estratégica del Estado, evaluará si la propuesta para la otorgación de la calidad de inversión preferente al proyecto de inversión cumple o no con los criterios de calificación establecidos en reglamentación específica, pudiendo solicitar complementaciones a los ministerios cabeza de sector.
+3. La calificación del proyecto de inversión como inversión preferente será realizada mediante Resolución Ministerial emitida por el Ministerio de Planificación del Desarrollo.
+
+**Artículo 6°.- (Identificación del inversionista)** 
+
+1. Los ministerios cabeza de sector que cuenten con uno o varios proyectos de inversión calificados como inversión preferente, deberán realizar convocatorias públicas para que los inversionistas interesados presenten propuestas que desarrollen la inversión y ejecución del proyecto, salvo que la identificación del inversionista sea realizada de manera directa.
+2. Los ministerios cabeza de sector serán responsables de identificar al inversionista que implementará el proyecto de inversión.
+
+**Artículo 7°.- (Presentación de propuestas para incentivos generales)** 
+
+1. Los ministerios cabeza de sector son responsables de remitir las propuestas al Ministerio de Planificación del Desarrollo para la otorgación de incentivos generales, cumpliendo los siguientes requisitos:
+   1. Nota firmada por la Ministra(o) que presente la propuesta para la otorgación de incentivos generales o por las(os) Ministras(os) de los sectores respectivos, cuando sea una propuesta que involucre a dos (2) o más sectores;
+   2. Estudio de identificación de la actividad o actividades productivas sectoriales a las cuales se pretende otorgar los incentivos generales, incluyendo los indicadores que medirán los efectos económicos en el país;
+   3. Informes técnico y legal que justifiquen la procedencia de la propuesta para la otorgación de incentivos generales, su duración, así como la identificación del instrumento normativo de aprobación de los incentivos.
+2. Las demás entidades y empresas del sector público que necesiten la otorgación de incentivos generales, deberán remitir sus propuestas al ministerio cabeza de sector correspondiente para que este, previa evaluación, presente la propuesta, cumpliendo los requisitos establecidos en el Parágrafo precedente.
+
+**Artículo 8°.- (Análisis de los incentivos generales)** 
+
+1. El Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación Estratégica del Estado, verificará si las propuestas para la otorgación de incentivos generales presentadas por los ministerios cabeza de sector cumplen con los requisitos previstos en el Parágrafo I del Artículo 7 del presente Decreto Supremo, a fin de continuar con la evaluación o rechazar las propuestas.
+2. El Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación Estratégica del Estado, evaluará si las propuestas para la otorgación de incentivos generales son o no aplicables, de acuerdo con los parámetros establecidos en reglamentación específica, pudiendo solicitar complementaciones a los ministerios cabeza de sector.
+     
+   El Ministerio de Planificación del Desarrollo, para determinar la aplicabilidad de las propuestas para la otorgación de incentivos generales, según la materia, coordinará el criterio favorable del ministerio o de los ministerios competentes y/o involucrados.
+3. El Ministerio de Planificación del Desarrollo solicitará, a los ministerios o entidades que considere necesarios, el criterio favorable sobre las propuestas planteadas por el sector.
+4. El Ministerio de Planificación del Desarrollo, en caso de determinar que el incentivo es viable, según lo establecido en el presente Artículo, recomendará su aplicación al Consejo de Ministros, caso contrario devolverá los antecedentes al ministerio cabeza de sector.
+
+**Artículo 9°.- (Presentación de propuestas para incentivos específicos)** Los ministerios cabeza de sector son responsables de remitir las propuestas al Ministerio de Planificación del Desarrollo para la otorgación de incentivos específicos, cumpliendo los siguientes requisitos:
+
+1. Nota firmada por la Ministra(o) que presente la propuesta para la otorgación de incentivos específicos;
+2. Proyecto de inversión calificado como inversión preferente;
+3. Informes técnico y legal que justifiquen la procedencia de la propuesta para la otorgación de incentivos específicos, su duración, así como la identificación del instrumento normativo de aprobación de los incentivos.
+
+**Artículo 10°.- (Análisis de los incentivos específicos)** 
+
+1. El Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación Estratégica del Estado, verificará si las propuestas para la otorgación de incentivos específicos cumplen con los requisitos previstos en el Artículo 9 del presente Decreto Supremo, a fin de continuar con la evaluación o rechazar las propuestas.
+2. El Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación Estratégica del Estado, evaluará si las propuestas para la otorgación de incentivos específicos son o no aplicables, de acuerdo con los parámetros establecidos en reglamentación específica, pudiendo solicitar complementaciones a los ministerios cabeza de sector.
+     
+   El Ministerio de Planificación del Desarrollo, para determinar la aplicabilidad de las propuestas para la otorgación de incentivos específicos, según la materia, coordinará el criterio favorable del ministerio o de los ministerios competentes y/o involucrados.
+3. El Ministerio de Planificación del Desarrollo solicitará, a los ministerios o entidades que considere necesarios, el criterio favorable sobre el proyecto planteado por el sector.
+4. El Ministerio de Planificación del Desarrollo en caso de determinar que el incentivo específico es viable, según lo establecido en el presente Artículo, recomendará su aplicación al Consejo de Ministros, caso contrario devolverá los antecedentes al ministerio cabeza de sector.
+
+**Artículo 11°.- (Aprobación de los incentivos)** Los incentivos generales y/o específicos, cuya aplicación fue recomendada al Consejo de Ministros, deberán ser aprobados mediante Ley o Decreto Supremo, según corresponda, siendo el Ministerio de Planificación del Desarrollo responsable de tramitar el proyecto de norma, conforme al procedimiento establecido para el efecto en la norma de Organización del Órgano Ejecutivo.
+
+# Disposiciones adicionales
+
+**Disposición Adicional Única.-** La modificación del Gravamen Arancelario se regirá conforme a lo establecido en la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano y la [Ley Nº 1990](https://www.lexivox.org//norms/BO-L-1990.html), de 28 de julio de 1999, General de Aduanas.
+
+# Disposiciones transitorias
+
+**Disposición Transitoria Primera.-** El Ministerio de Planificación del Desarrollo, en un plazo no mayor a treinta (30) días hábiles computables a partir de la publicación del presente Decreto Supremo, elaborará y aprobará mediante Resolución Ministerial la reglamentación específica para la aplicación y cumplimiento de lo establecido en la presente norma.
+
+**Disposición Transitoria Segunda.-** Los ministerios cabeza de sector elaborarán y aprobarán mediante Resolución Ministerial los procedimientos para la Identificación de Inversionistas, de acuerdo a la reglamentación específica emitida por el Ministerio de Planificación del Desarrollo señalada en la Disposición Transitoria Primera del presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los dieciséis días del mes de octubre del año dos mil veinticuatro.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Alejandro Gallardo Baldiviezo, Néstor Huanca Chura, Edgar Montaño Rojas, Alejandro Santos Laura, César Adalid Siles Bazán, Erland Julio Rodríguez Lafuente, María Renee Castro Cusicanqui, Humberto Alan Lisperguer Rosales, Omar Veliz Ramos, Juan Yamil Flores Lazo, Esperanza Guevara.

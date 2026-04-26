@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 22947, 17 de octubre de 1991
+
+LUIS OSSIO SANJINES
+  
+PRESIDENTE CONSTITUCIONAL INTERINO
+  
+DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, es deber del Gobierno de Unidad Nacional estimular la actividad Sindical, dotándole de Sedes Sociales propias en favor de las Confederaciones Sindicales, a objeto de que puedan desarrollar sus labores en beneficio de sus afiliados.
+* Que, el inciso c) del artículo 36 del [Decreto Supremo Nº 21660](https://www.lexivox.org//norms/BO-DS-21660.html) de 10 de julio de 1987, dispone la transferencia de los Activos Fijos de los Consejos Nacionales de vivienda al INSTITUTO DE VIVIENDA SOCIAL (I. V. S.).
+* Que en los activos fijos antes referidos están los correspondientes a los adquiridos con recursos destinados a sedes sociales de los trabajadores en sus diversas ramas.
+* Que para el cumplimiento de las políticas sociales trazadas, respecto a las organizaciones sindicales es necesario reconocer sus derechos sobre inmuebles adquiridos con recursos destinados a sedes sociales, ahora a cargo del Instituto de Vivienda Social (I. V. S.), por causa de la disolución de los Consejos sectoriales de Vivienda.
+* Que la Comisión liquidadora a que se refiere la primera parte del artículo 36 del [Decreto Supremo Nº 21660](https://www.lexivox.org//norms/BO-DS-21660.html), no concluyo su informe sobre los bienes que correspondían al destino de sedes sociales, ocasionando la demora en el reconocimiento de los derechos preestablecidos de las organizaciones sindicales y/o gremios.
+* Que es evidente en base a todos los antecedentes, que los bienes inmuebles adquiridos con recursos aportados para el fin de sedes sociales y/o viviendas de los trabajadores deben ser asignados a los mismos en reconocimiento de sus legítimos derechos.
+* Que, además, para la permanencia y definición clara de los derechos de las organizaciones de trabajadores sobre los inmuebles adquiridos para sedes sociales ya sea a través de los disueltos Consejos sectoriales de vivienda y/o el Instituto de Vivienda Social (I. V. S.), es aconsejable que el presente Decreto Supremo y los que igualmente reconocen los derechos de las organizaciones de trabajadores sean elevados a rango de ley.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se reconoce en favor de las siguientes organizaciones sindicales sus derechos propietarios sobre los inmuebles indicados a continuación, y se autoriza al INSTITUTO DE VIVIENDA SOCIAL (I. V. S.) suscribir y otorgarles los respectivos títulos de dominio de acuerdo a los porcentajes de sus aportes:
+  
+- El inmueble signado con el Nº 2708 ubicado en la calle Campos esquina Av. Arce zona San Jorge de la ciudad de La Paz; a la Confederación General de Trabajadores Fabriles de Bolivia, Confederación de Trabajadores de la Construcción de Bolivia y Federación de Trabajadores Gráficos.
+  
+- El inmueble denominado Soligno (frontón-terreno) ubicado entre las calles Constitución y Chacaltaya s/n., zona Norte de la ciudad de La Paz, a la Confederación General de Trabajadores Fabriles de Bolivia, Confederación de Trabajadores de la Construcción de Bolivia y Federación de Trabajadores Gráficos.
+  
+- El inmueble ubicado en la calle Pinilla s/n., zona Miraflores en la ciudad de La Paz; a la Confederación General de Trabajadores Fabriles de Bolivia, Confederación de Trabajadores en Construcción y Federación de Trabajadores Gráficos.
+
+**Artículo 2°.-** Las Confederaciones y Federación Sindical mencionadas se obligarán expresamente en los instrumentos de reconocimiento de sus derechos de propiedad sobre los inmuebles indicados en el articulo primero, a destinarlos exclusivamente para sus sedes sociales, no pudiendo enajenarlos, venderlos, transferirlos, bajo ningún título ni modalidad, ni alquilarlos, cederlos en anticresis, hipotecarlos ni gravarlos; en cuyo caso, si lo hiciesen, quedarán sin efecto legal alguno, ipso facto, los reconocimientos de sus derechos de propiedad que el I. V. S. los hiciese.
+
+**Artículo 3°.-** Todos los tributos devengados, impuestos o tasas y aquellos posteriores que correspondieren, serán cubiertos y obligarán a los beneficiarios adquirientes cuyos derechos propietarios son reconocidos por el presente instrumento legal.
+
+**Artículo 4°.-** Se dispone la remisión inmediata del presente Decreto Supremo, al Poder Legislativo para su elevación a rango de ley de la República.
+
+---
+
+El señor Ministro de Asuntos Urbanos, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de octubre de mil novecientos noventa y un años.
+  
+Fdo. LUIS OSSIO SANJINES PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPÚBLICA, Marcelo Pérez Monasterios Min. RR. EE. y Culto a. i., Carlos A. Saavedra Bruno, Gustavo Fernández Saavedra, Alberto Sainz Klinski, Jorge Landívar Roca, Mario Requena Min. Planeamiento y Coordinación a. i., Helga Salinas Campana Min. Finanzas a. i., Abigail Pérez Medrano Min. Educación y Cultura a. i., Willy Vargas Vacaflor, Leopoldo López Cossio, Oscar Zamora Medinacelli, Mario Paz Zamora, Gonzalo Valda Cárdenas, Mauro Bertero Gutiérrez, Herbert Muller Costas, Fernando Kieffer Guzmán, Mario Rueda Peña.

@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 1465, 16 de enero de 2013
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 318 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), señala que el Estado determinará una política productiva industrial y comercial que garantice una oferta de bienes y servicios suficientes para cubrir de forma adecuada las necesidades básicas internas, y para fortalecer la capacidad exportadora.
+* Que el inciso f) del Artículo 64 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, establece entre las atribuciones de la Ministra(o) de Desarrollo Productivo y Economía Plural, diseñar y ejecutar políticas de promoción de las exportaciones y apertura de mercados externos en el marco de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html).
+* Que el [Decreto Supremo Nº 29847](https://www.lexivox.org//norms/BO-DS-29847.html), de 10 de diciembre de 2008, crea el Servicio Nacional de Verificación de Exportaciones - SENAVEX, como entidad pública desconcentrada bajo dependencia directa del Ministerio de Producción y Microempresa, actual Ministerio de Desarrollo Productivo y Economía Plural, cuya función esencial es la administración del Registro Único de Exportadores - RUEX, y la emisión de los Certificados de Origen para mercancías de exportación que se beneficien de preferencias arancelarias en el marco de Acuerdos Comerciales, Convenios y/o regímenes preferenciales.
+* Que el Parágrafo II del Artículo 8 del [Decreto Supremo Nº 29847](https://www.lexivox.org//norms/BO-DS-29847.html), dispone que los excedentes generados anualmente por el SENAVEX, serán transferidos a PROMUEVE - BOLIVIA, previa aprobación de la Máxima Autoridad Ejecutiva.
+* Que a efectos de asegurar la continuidad de los servicios que presta el SENAVEX, es necesario asignar recursos económicos suficientes a fin de que esta entidad cuente con éstos, para que garanticen sus gastos de funcionamiento y la prestación del servicio.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se modifica el Parágrafo II del Artículo 8 del [Decreto Supremo Nº 29847](https://www.lexivox.org//norms/BO-DS-29847.html), de 10 de diciembre de 2008, con el siguiente texto:
+  
+“II. Los excedentes generados por el SENAVEX, serán distribuidos entre esta entidad y PROMUEVE - BOLIVIA en un porcentaje del cincuenta por ciento (50%) para cada entidad.
+  
+El Ministerio de Desarrollo Productivo y Economía Plural mediante Resolución Ministerial aprobará el procedimiento para la transferencia de los recursos.”
+
+# Disposiciones transitorias
+
+**Artículo transitorio Único.-** PROMUEVE - BOLIVIA, transferirá al SENAVEX la totalidad de los recursos recibidos por concepto de excedentes generados en la gestión 2012 por el SENAVEX.
+
+---
+
+La señora Ministra de Estado en el Despacho de Desarrollo Productivo y Economía Plural, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de enero del año dos mil trece.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa MINISTRA DE PLANIFICACIÓN DEL DESARROLLO E INTERINA DEL DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL, Juan José Hernando Sosa Soruco, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola MINISTRA DE DESARROLLO RURAL Y TIERRAS E INTERINA DE ECONOMÍA Y FINANZAS PÚBLICAS, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

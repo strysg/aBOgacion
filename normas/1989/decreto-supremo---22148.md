@@ -1,0 +1,430 @@
+# Bolivia: Reglamento al Impuesto de la Propiedad Rural, DS Nº 22148, 3 de marzo de 1989
+
+VICTOR PAZ ESTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) de 20 de mayo de 1986 ha creado, en su título IV, capítulo I el impuesto a la propiedad rural;
+* Que es necesario dictar, para su aplicación, las correspondientes normas reglamentarias.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Título Primero Normas generales
+
+**Artículo 1°.-** Constituyen objeto del impuesto creado por el título IV de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), las propiedades rurales ubicadas en el territorio de la República, comprendiéndose como tales, a las situadas fuera del área del radio urbano de las ciudades, pueblos, aldeas, caseríos o villorrios, cualquiera sea el uso que se los de o el fin al que estén destinadas y en tanto no estén gravadas con el impuesto a los inmuebles urbanos creado por el Artículo 59 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html).
+
+**Artículo 2°.-** Debe entenderse que la denominación de “propiedad rural”, para efectos de este decreto, comprende también a todos aquellos predios situados fuera del radio urbano que se dediquen, total o parcialmente, a actividades tales como avicultura, floricultura, apicultura, cunicultura, piscicultura, plantas de beneficio, mataderos, plantas de engorde, criaderos, plantas de incubación, molinos, ingenios, frigoríficos, almacenes, silos, plantas de tratamiento de leche, estanques, talleres, maestranzas o a cualquier otra clase de explotación industrial, comercial de productos de reventa, o de servicios, vinculada o no a la actividad agropecuaria. La anterior relación de actividades es simplemente enunciativa.
+  
+La avicultura se sujetará al tratamiento dispuesto en el artículo 18, inc. b) y el tercer párrafo del artículo 20 del presente decreto, en lo relativo a las granjas incluídas en el régimen tributario rural unificado. El resto de la actividad avícola, que supere los parámetros fijados en las mencionadas normas, está sujeto al régimen general.
+
+## Hecho generador
+
+**Artículo 3°.-** El hecho generador del impuesto creado por el título IV de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) está constituído, a los efectos del régimen que se establece en el título tercero del presente decreto, por el solo ejercicio del derecho de propiedad o la posesión de predios rurales, sin perjuicio de que la calidad de propietario o poseedor se sujete a lo dispuesto por la Ley de Reforma Agraria, disposiciones de colonización y otras conexas.
+
+## Sujetos pasivos
+
+**Artículo 4°.-** Se considera sujetos pasivos para los efectos del presente decreto, con excepción de los sujetos incluidos en las previsiones del [Decreto Supremo Nº 21923](https://www.lexivox.org//norms/BO-DS-21923.html) de 20 de abril de 1988, a las personas naturales o jurídicas, sucesiones indivisas y entidades que sean propietarias o que posean predios rurales bajo cualquier título, incluyéndose a las empresas públicas. Por consiguiente, están comprendidos en la definición de sujetos pasivos:
+
+1. Los adquirentes que tengan la posesión sin que se los haya otorgado aún la escritura traslativa de dominio o que otorgada no estuviera aún inscrita en el Registro de Derechos Reales.
+2. Los poseedores por cualquier título, de conformidad con la Ley de Reforma Agraria, disposiciones de colonización y otras conexas.
+3. Los donantes a favor del Estado y los propietarios de bienes expropiados mientras no se suscriba el documento legal que haga efectiva la donación o mientras no quede firme la expropiación, respectivamente.
+
+**Artículo 5°.-** Son sujetos pasivos, en especial, de conformidad con el primer párrafo del artículo anterior:
+
+1. Los condóminos, por la totalidad de la obligación tributaria que corresponda al predio en condominio,
+2. Cada cónyuge, por la totalidad de sus bienes propios. En caso de separación judicial de bienes, también lo será respecto de los bienes que se el haya adjudicado en el respectivo fallo.
+3. El marido, por los bienes gananciales de la sociedad conyugal, independientemente del cónyuge en favor del cual está registrada la propiedad.
+4. La sucesión, mientras se mantenga indivisa, por los bienes propios del “de cujus” y por la mitad de los bienes gananciales de la sociedad conyugal, si fuera el caso.
+     
+   Se considera a las siguientes personas, además de los sujetos pasivos indicados anteriormente, responsables solidarios por el pago del tributo y sus obligaciones accesorias, así como por el cumplimiento de las obligaciones formales relacionadas con el mismo, sin perjuicio del derecho de repetición que los corresponda respectivamente:
+5. Los cónyuges, en cuanto a los bienes gananciales y a los que pertenezcan al otro cónyuge;
+6. El albacea o administrador judicial, el cónyuge supérstite y los coherederos, por los bienes de la sucesión indivisa, antes y después de la declaratoria de herederos.
+7. El representante legal de los incapaces e interdictos.
+     
+   Están incluídos bajo la denominación de “obligaciones accesorias” los intereses, recargos, multas, actualización por mantenimiento de valor y cualquier sanción vigente al momento de la infracción tributaria.
+
+**Artículo 6°.-** Cuando la existencia del propietario de un predio rural no haya sido determinada por el fisco, se considera como sujetos pasivos a los tenedores, ocupantes o detentadores, bajo cualquier título, sin perjuicio del derecho de estos ú1timos a repetir el pago contra los respectivos propietarios, poseedores quienes beneficie la declaración de derechos que hagan los tribunales competentes.
+
+**Artículo 7°.-** El carácter de sujeto pasivo se atribuirá con arreglo a la situación jurídica configurada al 30 de junio del año al que corresponde el tributo. Por consiguiente, en los casos de transferencias de dominio, el adquirente del predio será considerado como sujeto pasivo a partir del 30 de junio del año en que se realizó la transferencia. El transferente continuará siendo considerado como sujeto pasivo por las obligaciones devengadas hasta el 30 de junio del año anterior al de transferencia.
+
+## Exenciones y deducciones
+
+**Artículo 8°.-** Se considera incultivables, para los fines de la exención a que se refiere el inciso a) del artículo 54 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), las áreas calificadas como inaprovechables por el inciso e) del artículo 100 de la Ley de Reforma Agraria, salvo que esas áreas, a pesar de tal calificación, se dediquen a vivienda, fines productivos o se exploten económicamente en actividades de cualquier índole. El sujeto pasivo, en estos casos, debe declarar el área explotada como tierra de pastoreo, a los efectos de determinar la base imponible.
+  
+Las áreas, materia de este artículo, en las que se lleven a cabo actividades extractivas de productos naturales tales como minerales, arena, cascajo, canteras, etc., se regirán por las disposiciones legales que correspondan a la naturaleza de esas actividades.
+
+**Artículo 9°.-** Las exenciones concedidas por los artículos 54 y 58 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), se harán efectivas en la forma siguiente:
+
+1. Se reconoce como tierras inaprovechables el 17 por ciento de la superficie total de la propiedad, salvo que el título extendido por el Consejo Nacional de Reforma Agraria o el Instituto Nacional de Colonización determine un área mayor, en cuyo caso se efectuará la deducción en base a tal documentación.
+2. Los sujetos pasivos deducirán el 10 por ciento de la superficie aprovechable del predio, por concepto de mantenimiento de infraestructura y protección contra la erosión, de conformidad con lo dispuesto en el segundo párrafo del artículo 58 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html).
+3. Se reconoce además en favor de los predios rurales fronterizos y que tienen colindancia con países extranjeros, una deducción del 10 por ciento de la superficie total.
+4. Para la exención del tributo a las áreas destinadas a locales escolares o campos deportivos, el contribuyente deducirá de la superficie del predio las extensiones de tierras afectadas y realmente dedicadas a esos fines. El derecho a esta deducción será respaldado por el título de propiedad respectivo o por la declaración jurada.
+     
+   Cuando las áreas mencionadas sean dedicadas a otros fines, estarán gravadas en las proporciones de tierra cultivable, de pastoreo o de propiedad ganadera que correspondan al predio, de acuerdo con lo dispuesto en el artículo 15 inciso 2 del presente decreto.
+5. Las granjas y estaciones experimentales del Estado están exentas del tributo. No obstante, las entidades públicas que las administran deben cumplir con los deberes formales establecidos en el título cuarto del presente decreto, bajo responsabilidad de sus respectivos representantes legales.
+6. El derecho a la exención que se otorga a las entidades privadas sin fines de lucro, debe acreditarse con la resolución respectiva del Ministerio de Asuntos Campesinos y Agropecuarios en mérito a la solicitud que la entidad interesada presente, para tal efecto, acompañada del instrumento público que acredite que la propiedad esta dedicada a actividades científicas, educativas, de instrucción, deportivas o profesionales.
+     
+   La exención se concederá siempre que la totalidad de los ingresos y el patrimonio de las mencionadas instituciones, por disposición expresa de sus estatutos, se destinen exclusivamente a los fines antes señalados, sin que en ningún caso se distribuyan directa o indirectamente entre los asociados y que el patrimonio resultante de la liquidación, en caso de su eventual disolución, se destine a otras entidades privadas de objeto similar o al Estado.
+7. Para los efectos de la exención concedida a las áreas destinadas a la preservación de cuencas hidrográficas, por el inciso d) del artículo 54 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), los sujetos pasivos deben obtener una certificación fundamentada del Ministerio de Asuntos Campesinos y Agropecuarios, que tendrá una validez de cinco años, desde la fecha de su expedición. Ese certificado será exigible para sustentar la deducción, de la superficie total del predio, de las áreas destinadas a reservas de floresta natural a que se refiere el segundo párrafo del artículo 58 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html).
+8. En caso de desastres naturales asi calificados por disposición legal expresa, la zona afectada será eximida total o parcialmente del pago del impuesto a la propiedad rural y del unificado, de conformidad a esa norma legal.
+     
+
+   ## Mínimo no imponible
+
+**Artículo 10°.-** En virtud de lo dispuesto en el [Decreto Supremo Nº 21923](https://www.lexivox.org//norms/BO-DS-21923.html), de 20 de abril de 1988, se considera como mínimos no imponibles, para los efectos del presente decreto, las extensiones máximas que la Ley de Reforma Agraria señala para el solar campesino y las propiedades agrícolas así como ganaderas calificadas como pequeñas por los artículos 6, 7, 15 y 21 de la citada ley, incluyendo a las comunidades originarias y tribus selvícolas. En consecuencia, los mínimos no imponibles son los siguientes:
+
+| Zonas y subzonas | Pequeña propiedad hectáreas |
+| --- | --- |
+| **Zona altiplano y puna** | |
+| Subzona norte: | |
+| Ribereña al lago Titicaca | 10 |
+| Con influencia del lago Titicaca | 10 |
+| Sin influencia del lago Titicaca | 20 |
+| Subzona central: | |
+| Con influencia del lago Poopó | 15 |
+| Central y sin influencia del lago Poopó | 30 |
+| Subzona sur: | |
+| Sur y semidesértica | 35 |
+| Andina, aldiplano y puna | 35 |
+| **Zona de valles:** | |
+| Subzona valles abiertos adyacentes a la ciudad de Cochabamba: | |
+| Riego | 6 |
+| Secano | 12 |
+| Vitícola | 3 |
+| Subzona valles abiertos: | |
+| Riego | 6 |
+| Secano | 12 |
+| Vitícola | 3 |
+| Subzona valles cerrados: | |
+| Riego | 4 |
+| Secano | 8 |
+| Vitícola | 3 |
+| Subzona cabeceras de valle: | |
+| Secano | 20 |
+| **Zona Subtropical:** | |
+| Subzona Yungas | 10 |
+| Subzona Santa Cruz | 50 |
+| Subzona Chaco | 80 |
+| Propiedad ganadera | 500 |
+| **Zona tropical agrícola:** | |
+| Subzona Beni, Pando y Prov. Iturralde del Dpto. | |
+| La Paz | 50 |
+| Propiedad ganadera | 500 |
+
+**Artículo 11°.-** Los mínimos no imponibles indicados en el artículo anterior no son aplicables en caso que los predios, comprendidos en los mismos, estén dedicados a alguna o varias de las actividades que se señala en el artículo 2 del presente decreto, salvo el caso de actividades de almacenamiento, acondicionamiento o transformación primaria del producto propio que no implique servicios a terceros y el tratamiento a1 sector avícola.
+
+**Artículo 12°.-** Las extensiones mínimas no imponibles establecidas por el [Decreto Supremo Nº 21923](https://www.lexivox.org//norms/BO-DS-21923.html) y precisadas en el artículo 10 que antecede, no son deducibles para los efectos de determinar la base imponible de los predios gravados, de conformidad con el presente decreto.
+
+## Título Segundo Régimen general del impuesto a la propiedad rural
+
+**Artículo 13°.-** Están incluídos en el régimen general del impuesto a la propiedad rural los sujetos pasivos siguientes:
+
+1. Las personas jurídicas de cualquier clase, que posean predios rurales, cualquiera sea su extensión.
+2. Las cooperativas, en general, que se dediquen a alguna o a varias de las actividades comprendidas en el artículo 2 del presente decreto, y aquellas constituídas o que se constituyan, con el aporte de uno o más predios rurales que califiquen, por su extensión, como “empresa agrícola o ganadera” de conformidad con la Ley de Reforma Agraria.
+3. Las personas naturales o sucesiones indivisas propietarias o poseedoras de predios rurales, cualquiera sea su extensión, que se dediquen a alguna o a varias de las actividades comprendidas en el artículo 2 del presente decreto;
+4. Las personas naturales o sucesiones indivisas propietarias o poseedoras de predios rurales, cuya superficie exceda a las que se señala en el artículo 19 de este decreto.
+
+**Artículo 14°.-** Los sujetos pasivos incluídos en el régimen general del impuesto a la propiedad rural, de conformidad con lo dispuesto en el artículo anterior, son además responsables por todas las obligaciones que se deriven de los impuestos que graven sus actividades, en cuanto los corresponda de acuerdo a ley.
+
+## Base imponible
+
+**Artículo 15°.-** La base imponible para los efectos del régimen general del impuesto a la propiedad rural es el valor fiscal de la tierra, calculado teniendo en consideración los siguientes factores:
+
+1. Tamaño del predio
+     
+   Los sujetos pasivos declararán la superficie total en hectáreas de cada predio que posean, descartando fracciones inferiores a una hectárea (1 ha.), lo que significa incluír toda la superficie comprendida dentro los linderos correspondientes, de conformidad con el respectivo título de propiedad o, a falta de éste, con la documentación legal necesaria. Si el sujeto pasivo careciese de estos documentos, declarará la extensión total del predio cuya posesión ejerza.
+     
+   Para los efectos a que se refieren los artículos 54 y 58 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), se deducirá del total de la superficie del predio los porcentajes o áreas que corresponda en cada caso, en la forma y bajo las condiciones que establecen en los artículos 8 y 9 del presente decreto.
+2. Clase de tierras
+     
+   Los sujetos pasivos discriminarán de la superficie total del predio, las áreas de tierras agrícolas, de pastoreo o de ganadería, de conformidad con el título de propiedad respectivo, o la declaración jurada debidamente certificada por las instituciones gremiales correspondientes que acrediten el use real de la tierra.
+3. Equivalencia
+     
+   Los ministerios de Finanzas y Asuntos Campesinos y Agropecuarios quedan autorizados a recalificar las zonas, fijando las equivalencias correspondientes.
+4. Valor por hectárea
+     
+   Los valores por hectárea de tierra rural establecidos para la subzona base, en el artículo 55 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), actualizados al 31 de diciembre de 1988, son los siguientes:
+
+   |  |  |
+   | --- | --- |
+   | Tierras agrícolas | Bs.10,37.- |
+   | Tierras de pastoreo, en los casos de explotaciones agropecuarias, y para las propiedades calificadas como ganaderas | Bs.2,59.- |
+
+     
+   Los valores antes indicados serán en el futuro actualizados por la Dirección General de la Renta Interna, en función de la variación de la cotización del dólar estadounidense con respecto del boliviano, producida entre el 1 de enero de 1989 y el cierre de cada ejercicio.
+     
+
+   ## Alicuota
+
+**Artículo 16°.-** Para los sujetos pasivos incluidos en el artículo 13 de este decreto, de conformidad con la última parte del artículo 55 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), la alícuota del régimen general del impuesto a la propiedad rural es de dos por ciento (2%), que se aplicará sobre la base imponible determinada según lo dispuesto en el artículo anterior.
+
+## Título Tercero Régimen Tributario Rural Unificado
+
+**Artículo 17°.-** De conformidad con los artículo 17 y 33 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) de 20 de mayo de 1986, se establece un régimen tributario rural unificado para la liquidación y pago unificado de los impuestos a la propiedad rural, al valor agregado, a las transacciones, a la renta presunta de las empresas y complementario al impuesto al valor agregado, por parte de los sujetos pasivos señalados en el artículo siguiente.
+
+## Sujetos pasivos del régimen unificado
+
+**Artículo 18°.-** Son sujetos pasivos del régimen tributario rural unificado, las personas naturales o sucesiones indivisas que sean propietarias o poseedores de predios rurales, bajo cualquier título, cuya superficie sea mayor a los mínimos no imponibles indicados en el artículo 10 que antecede, en tanto no exceda a las establecidas en el artículo 19 de este decreto. Están comprendidos, además, como sujetos pasivos del régimen tributario rural unificado:
+
+1. Las cooperativas agrícolas y ganaderas consideradas en el artículo 23 del presente decreto.
+2. Las granjas avícolas del país cuya capacidad instalada no sea superior a los siguientes límites.
+
+   |  |
+   | --- |
+   | Granjas hasta de 15.000 aves parrilleras de producción y una capacidad instalada máxima de galpón hasta de 2.500 metros cuadrados. |
+   | Granjas hasta de 10.000 aves ponedoras de producción y una capacidad instalada máxima hasta de 3.300 metros cuadrados. |
+
+     
+
+   ## Exclusiones
+
+**Artículo 19°.-** Están excluídos del régimen tributario rural unificado:
+  
+Los predios rurales cuyas extensión sea mayor, a las superficies siguientes:
+
+| Zonas y subzonas | Hectáreas |
+| --- | --- |
+| **Zona altiplano y puna** | |
+| Subzona norte: | |
+| Ribereña al lago Titicaca | 160 |
+| Con influencia del lago Titicaca | 160 |
+| Sin influencia del lago Titicaca | 300 |
+| Subzona central: | |
+| Con influencia del lago Poopó | 240 |
+| Central y sin influencia del lago Poopó | 500 |
+| Subzona sur: | |
+| Sur y semidesértica | 700 |
+| Andina, altiplano y puna | 700 |
+| **Zona de valles:** | |
+| Subzona valles abiertos adyacentes a la ciudad de Cochabamba: |
+| Riego | 100 |
+| Secano | 200 |
+| Vitícola | 48 |
+| Subzona valles abiertos: | |
+| Riego | 120 |
+| Secano | 300 |
+| Vitícola | 48 |
+| Subzona valles cerrados: | |
+| Riego | 60 |
+| Secano | 120 |
+| Vitícola | 48 |
+| Subzona valles cerrados: | 160 |
+| En valles, hasta 40 Has. |
+| En serranías, hasta 40 Has. |
+| Subzona cabeceras de valle: |
+| Secano | 400 |
+| **Zona Subtropical:** | |
+| Subzona Yungas | 300 |
+| Subzona Santa Cruz | 1.000 |
+| Subzona Chaco | 1.200 |
+| Propiedad ganadera | 10.000 |
+| **Zona tropical agrícola:** | |
+| Subzona Beni, Pando y Prov. Iturralde del Dpto. | |
+| La Paz | 1.000 |
+| Propiedad ganadera | 10.000 |
+
+  
+Cuando un predio supere uno sólo de los límites arriba indicados, se el considerará excluído del régimen tributario rural unificado.
+
+1. Los predios rurales que se dediquen total o parcialmente a una o a varias de las actividades comprendidas en el artículo 2 de este decreto, excepto lo establecido para el régimen avícola unificado.
+2. Los predios de las cooperativas, en general, que se dediquen a una o a varias de las actividades comprendidas en el artículo 2 del presente decreto y aquellas constituídas, o que se constituyan, con el aporte de uno o más predios rurales que superen, en su extensión, a los límites indicados en el inciso a) de este artículo.
+     
+   Los predios a que se refiere este artículo están comprendidos en el régimen general del impuesto a la propiedad rural.
+     
+   La Dirección General de la Renta Interna podrá excluír de este régimen a determinados sectores de contribuyentes cuando su inclusión resulte incompatible con las características de este sistema.
+     
+
+   ## Base imponible y alicuotas
+
+**Artículo 20°.-** La base imponible, para los efectos del régimen, es la superficie del predio gravado, expresada en hectáreas, descartando fracciones de tierras agrícolas, de pastoreo o de ganadería, después de considerar las deducciones referidas en los artículos 8 y 9 del presente decreto supremo. Los sujetos pasivos del régimen, para determinar la base imponible en cada caso, tomarán en consideración las superficies correspondientes que aparezcan en el título de propiedad o en la declaración jurada debidamente certificada por las instituciones gremiales respectivas, que acrediten el uso real de la tierra, en tanto estén comprendidas en los límites que disponen los artículos 10 y 19 de este decreto.
+  
+Cuando el sujeto pasivo carezca de título de propiedad, tomará como base imponible las superficies de tierras agrícolas, de pastoreo o de ganadería que aparezcan en la documentación legal pertinente.
+  
+La base imponible, en el caso de las granjas avícolas incluídas en el régimen unificado, estará dada por el metro cuadrado instalado tanto para aves parrillleras como para ponedoras. Las alícuotas se cobrarán en función del metro cuadrado instalado del galpón avícola.
+
+**Artículo 21°.-** Las alícuotas o cuotas fijas del impuesto, establecidas en función de la zonificación que corresponda al predio, de su respectiva equivalencia, de su superficie y del uso potencial de la tierra, son las que aparecen en la tabla I, anexa al presente decreto.
+  
+Los valores indicados en la tabla I anexa serán en el futuro actualizados por la Dirección General de la Renta Interna en función de la variación de la cotización del dólar estadounidense respecto del boliviano, producida entre el 1 de enero de 1989 y el cierre de cada ejercicio.
+  
+A partir del segundo ejercicio fiscal de aplicación del impuesto, además de la actualización que corresponda de conformidad con lo dispuesto en el párrafo anterior, los valores indicados en la tabla I, anexa al presente decreto, podrán ser modificados por el Poder Ejecutivo mediante los Ministerios de Finanzas y Asuntos Campesinos y Agropecuarios en función de los estudios agrotécnicos, de mercado o de otra índole que pudiesen efectuarse, teniendo en cuenta los intereses de los sectores afectados.
+  
+La zona, subzona y clase de tierra que corresponde al predio son las que aparecen en el respectivo título de propiedad o en la documentación legal pertinente o a falta de estos, las que el sean aplicables en razón de su ubicación geográfica y uso potencial de la tierra.
+
+**Artículo 22°.-** El tributo anual a pagar por el predio, gravado es el importe resultante de sumar los productos de cada base imponible de tierra agrícola, de pastoreo o de ganadería, por la correspondiente alícuota o cuota fija que aparece en la tabla antes mencionada.
+  
+La declaración jurada también podrá consignar, previa certificación, de la institución gremial respectiva, la cantidad de tierras agrícolas de propiedad del declarante que aún se mantienen cubiertas por bosques, las que deben incorporarse al pago respectivo en un plazo no mayor a cinco años, a razón del 20 por ciento cada año, a partir de la vigencia de este tributo.
+  
+Estas tierras agrícolas cubiertas de bosques durante el período de transición y por las áreas a prorratear que quedan, pagaran la alícuota que corresponda a la propiedad ganadera.
+  
+Este tratamiento transitorio es independiente de la aplicación de las deducciones respectivas.
+
+## Cooperativas
+
+**Artículo 23°.-** Las cooperativas que se dediquen a actividades agrícolas o ganaderas aplicarán las normas del régimen tributario rural unificado de la manera siguiente:
+  
+Las cooperativas de campesinos que adoptaron adopten esta modalidad de asociación para obtener la adjudicación de tierras, de conformidad con los incisos a) y c) del artículo 10 de la Ley de Reforma Agraria, determinarán la base imponible y calcularán el tributo anual que los corresponda siguiendo el procedimiento indicado a continuación:
+
+1. Se establecerá la superficie del predio expresada en hectáreas, de conformidad con lo que aparezca en el correspondiente título de propiedad o en los documentos legales pertinentes, descartando fracciones que corresponda a tierras agrícolas, de pastoreo o de ganadería, después de las exenciones y deducciones previstas en los artículos 8 y 9 del presente decreto. Se declarará como un solo predio, las tierras de uso común o proindivisas.
+     
+   La superficie total del predio, establecida de acuerdo con lo dispuesto en el inciso anterior, se prorrateará en partes iguales entre el número de miembros de la cooperativa, a fin de calcular la “base imponible individual” del tributo.
+     
+   Aclárase que el prorrateo o división en partes iguales, que se dispone en el primer párrafo de este inciso, tiene únicamente alcances impositivos y su cumplimiento, por consiguiente, no enerva, altera, modifica ni afecta los derechos u obligaciones de los cooperativistas, ni las relaciones internas existentes en la cooperativa.
+     
+   Establecida que sea la “base imponible individual” de tierras agrícolas, de pastoreo o de ganadería, se determinará el “tributo anual individual” correspondiente a las mismas, aplicando lo dispuesto en los artículos 20 al 22 de este decreto.
+     
+   En el caso de que la “base imponible individual” fuese igual o mayor a la superficie máxima establecida en el artículo 19 de este decreto, el “tributo anual individual” será el importe que resulte de aplicar la cuota del tributo a la superficie máxima antes mencionada.
+     
+   En el caso anterior, si la base imponible estuviera constituida por tierras agrícolas, de pastoreo o de ganadería, se tomará la superficie aplicable a cultivables y el remanente, si existiese a pastoreo hasta llegar a la superficie máxima establecida en el artículo 19 de este decreto.
+     
+   Cuando la “base imponible individual” sea igual o menor que los mínimos no imponibles, indicados en el artículo 10 de este decreto, el “tributo anual individual” será igual a cero (0).
+     
+   El tributo anual, a cuyo pago está obligada la cooperativa, es igual al producto del tributo anual individual calculado de acuerdo con el anterior numeral 3, multiplicado por el mismo número de miembros cooperativistas, determinado en la aplicación de lo dispuesto por el numeral 2 del presente artículo.
+     
+   Las cooperativas cuyo capital social haya sido constituído o se constituya con el aporte de propiedades rurales calificadas como pequeñas y con propiedades que no superen las máximas indicadas en el artículo 19 del presente decreto, determinarán el tributo anual que los corresponda en la forma siguiente:
+     
+   Calcularán el tributo anual correspondiente al predio aportado por cada socio cooperativista, de acuerdo con las normas que establecen los artículos 20 al 22 de este decreto.
+     
+   El tributo anual a cuyo pago está obligada la cooperativa estará constituído por el importe total de los atributos anuales que hubieran correspondido a cada socio, calculados en la forma indicada en el numeral anterior.
+     
+   Las normas que se establece en este artículo no son aplicables a las cooperativas que se dediquen a alguna de las actividades comprendidas en el artículo 2 del presente decreto, ni a las constituídas con el aporte de uno o más predios rurales que superen los límites máximos indicados en el artículo 19 de este decreto. En tales casos, esas cooperativas están comprendidas en el régimen general del impuesto a la propiedad rural que trata el título segundo de este decreto.
+     
+
+   ## Prohibicion de emitir notas fiscales
+
+**Artículo 24°.-** Los sujetos pasivos del presente régimen unificado no pueden emitir notas fiscales. Toda infracción a este artículo constituye delito de defraudación tributaria previsto en el artículo 96 del Código Tributario, que será sancionado de acuerdo con lo establecido en el artículo 99 del mismo. Las notas fiscales emitidas en infracción no tendrán validez como cómputo de crédito fiscal para el impuesto al valor agregado, ni para el régimen complementario al impuesto al valor agregado de quién las reciba.
+
+## Título Cuarto Obligaciones de los contribuyentes
+
+**Artículo 25°.-** Los sujetos pasivos tanto del régimen general como del unificado, incluídos en el presente decreto, presentaran anualmente, en las entidades bancarias autorizadas de la jurisdicción del departamento donde está ubicado el predio, en la fecha que disponga la Dirección General de la Renta Interna, una declaración jurada por cada uno de los predios respecto de los cuales fueran sujetos pasivos. Cuando el predio se extienda en la jurisdicción de más de un departamento, el contribuyente efectuará dos o más declaraciones, una para cada departamento, en la forma y condiciones que establezca la Dirección General de la Renta Interna.
+  
+Los sujetos pasivos del régimen tributario rural unificado podrán también cumplir, con la presentación antes indicada, en las entidades colectoras autorizadas por la Dirección General de la Renta Interna.
+
+**Artículo 26°.-** Los sujetos pasivos del régimen general del impuesto a la propiedad rural y del régimen tributario rural unificado, que se señala en el presente decreto están obligados a inscribirse en el Registro Nacional Unico de Contribuyentes vigente, para lo cual deberán constituir domicilio ubicado en el radio urbano de alguna de las ciudades del país, para todos los efectos fiscales.
+  
+Si los sujetos pasivos mencionados en el párrafo precedente ya se encontraran inscritos en el Registro Nacional Unico de Contribuyentes, sólo deben efectuar la presentación de la declaración jurada que se menciona en el artículo 25. Si el domicilio con los que figuran inscritos no llenase el requisito exigido en el párrafo anterior, estarán obligados a solicitar su cambio ante la Dirección General de la Renta Interna.
+
+**Artículo 27°.-** Están incluídas, además, en las obligaciones formales anteriormente dispuestas, las áreas de las entidades públicas y privadas a que se refieren los incisos d) y e) del artículo 9 de este decreto.
+
+**Artículo 28°.-** Toda declaración jurada contendrá la información que se señale en los formularios que la Dirección General de la Renta Interna proporcione para este fin. Estan obligados a presentarla:
+
+1. El propietario, poseedor, tenedor, detentador u ocupante del predio o su representante legal.
+2. El propietario o el poseedor a cualquier título de las granjas avícolas sujetas al régimen unificado, o su representante legal
+3. Los condóminos por la totalidad del predio sujeto a condominio, quienes son considerados como miembros de una sociedad accidental y deberán cumplir, en tal calidad, con las disposiciones de los artículos 30. y 31 de este decreto, de ser el caso.
+4. El albacea o administrador judicial de la sucesión indivisa. A falta de ellos, el cónyuge supérstite o los coherederos.
+5. El marido, como administrador de la sociedad conyugal, por los bienes gananciales.
+6. El representante legal de los incapaces e interdictos.
+     
+   La declaración jurada será firmada por el contribuyente, su representante o apoderado. En los casos en que las personas obligadas no supiesen firmar, estamparán en presencia de testigo la impresión digital de su pulgar derecho o en su defecto del siguiente dedo de la misma mano, conforme a su orden natural, o a falta de la mano derecha, los de la mano izquierda, en igual orden, anotándose de que dedo y mano se trata.
+     
+
+   ## Forma de pago
+
+**Artículo 29°.-** El tributo liquidado, bajo el régimen general del impuesto a la propiedad rural, o el unificado, se pagará en dos cuotas, la primera hasta el quince de agosto de cada año y la segunda hasta el quince de noviembre del mismo año, por medio de las entidades bancarias autorizadas o de las entidades o agentes colectores que designe la Dirección General de la Renta Interna, según corresponda.
+  
+El pago total del impuesto a la propiedad rural o del impuesto unificado, en oportunidad del vencimiento de la primera cuota, será beneficiado con un descuento del diez por ciento (10%) de su monto.
+
+**Artículo 30°.-** La presentación, de las declaraciones juradas y el pago de los tributos efectuados con posterioridad al vencimiento del plazo correspondiente, darán lugar respectivamente a la imposición de la sanción que establece el artículo 119. del Código Tributario, modificado por el artículo 88. de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), a la actualización de valor del monto del tributo, de acuerdo con lo dispuesto en el artículo 59 bis del mismo y al pago de los intereses y multas que establecen los artículos 59 y 116 del citado Código.
+
+**Artículo 31°.-** De conformidad con el artículo 69. de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), el impuesto determinado a la propiedad rural, calculado bajo las normas del título segundo del presente decreto, que corresponda a un ejercicio fiscal, se imputará como pago a cuenta del impuesto a la renta presunta de las empresas que corresponda al mismo ejercicio.
+  
+Si como consecuencia de la aplicación del crédito fiscal, resultase un saldo en favor del sujeto pasivo, tal saldo quedará consolidado en favor del fisco.
+  
+Lo dispuesto en este artículo sólo es aplicable a los sujetos pasivos del régimen general del impuesto a la propiedad rural.
+
+## Cambio de régimen
+
+**Artículo 32°.-** En caso de inicio de alguna de las actividades comprendidas en el artículo 2 del presente decreto, el sujeto pasivo del régimen tributario rural unificado deberá comunicar este hecho a la Dirección General de la Renta Interna en la forma y plazos que esta última disponga. Consecuentemente, a partir del ejercicio fiscal siguiente al del inicio de las nuevas actividades, será responsable por las obligaciones establecidas en los títulos I, II, III, IV, VI y VII de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) y sus decretos reglamentarios.
+
+**Artículo 33°.-** En caso de cesación de las actividades indicadas en el artículo 2 del presente decreto, en un predio cuya extensión no exceda a los límites máximos indicados en el artículo 19 del este decreto, el sujeto pasivo del régimen general del impuesto a la propiedad rural debe comunicar este hecho a la Dirección General de la Renta Interna en la forma y plazos que ésta última disponga. En consecuencia, a partir del ejercicio fiscal siguiente al de la cesación, será responsable por las obligaciones contenidas en el régimen tributario rural unificado establecido en el título tercero del presente decreto.
+
+**Artículo 34°.-** La falta de comunicación a la Dirección General de la Renta Interna de los hechos indicados en los dos artículos anteriores, dará lugar a la imposición de las sanciones establecidas en el artículo 119. del Código Tributario, sin perjuicio de las que sean aplicables por las posibles omisiones, ocultamientos o defraudaciones tributarias en que se hubiera incurrido.
+
+## Opción
+
+**Artículo 35°.-** Cuando los sujetos pasivos del régimen tributario rural unificado consideren que éste no se adecúa a la realidad económica de su actividad o a la modalidad de sus operaciones comerciales, podrán optar por el régimen general del impuesto a la propiedad rural de que trata el título segundo de este decreto y ser considerados como sujetos pasivos de los impuestos a la propiedad rural, al valor agregado, a las transacciones, a la renta presunta de las empresas, complementario al valor agregado y a los consumos específicos, de ser el caso, de acuerdo a ley.
+
+**Artículo 36°.-** Como consecuencia del ejercicio de la opción concedida en el artículo anterior, los sujetos pasivos estarán en la obligación de comunicar ese hecho a la Dirección General de la Renta Interna, en la forma y plazos que ésta disponga.
+  
+Concecuentemente, serán responsables a partir del ejercicio fiscal siguiente, por las obligaciones establecidas en los títulos I, II, III, IV, VI y VII de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) y sus decretos reglamentarios. La falta de comunicación a la Dirección General de la Renta Interna del hecho que trata este artículo, será sancionada de conformidad con lo dispuesto en el artículo 99 del Código Tributario.
+
+**Artículo 37°.-** El ejercicio de la opción referida en el artículo 36 que antecede es irreversible y, en consecuencia, quienes optaren por acogerse al régimen general del impuesto a la propiedad rural no podrán solicitar, posteriormente, su regreso al régimen unificado.
+
+## Título Quinto Disposiciones complementarias
+
+**Artículo 38°.-** En los casos de transferencias de dominio de predios rurales, que tengan lugar después del 30 de junio y antes de la fecha de vencimiento para el pago de los tributos que trata el presente decreto, el adquirente se constituirá en responsable frente al fisco por el pago de la obligación tributaria que corresponda al período fiscal terminado en la citada fecha, en la forma y en el plazo que fije la Dirección General de la Renta Interna, de conformidad con lo dispuesto en el articulo 29 de este decreto y sin perjuicio del derecho de repetición que el corresponda.
+
+**Artículo 39°.-** Para el otorgamiento de cualquier instrumento público o privado que concierna a predios gravados de conformidad con el presente decreto, los notarios exigirán fotocopias legalizadas tanto de las declaraciones juradas como de los comprobantes de pago correspondientes a los períodos fiscales no prescritos, a los efectos de insertarlos en la escritura respectiva. El incumplimiento de esta obligación, dará lugar a responsabilidad solidaria del notario respecto de los tributos y sus obligaciones accesorias, sin perjuicio de las sanciones previstas en el título III del Código Tributario, en especial en su artículo 81.
+
+**Artículo 40°.-** No se inscribirá en el Registro de Derechos Reales los contratos u otros actos jurídicos relacionados con predios rurales gravados de acuerdo con el presente decreto, cuando el instrumento correspondiente no esté acompañado con las fotocopias legalizadas, tanto de las declaraciones juradas como de los comprobantes de pago, correspondientes a los periodos fiscales no prescritos. El Registrador de Derechos Reales, bajo responsabilidad, informará la omisión detectada a la Corte Superior del distrito judicial respectivo, para que proceda a sancionar al notario que omitió cumplir con las obligaciones establecidas en el artículo anterior, y a la Dirección General de la Renta Interna para que proceda a la liquidación y cobranza del tributo impago, más las accesorias de ley, a los que resulten sujetos pasivos o responsables solidarios.
+
+**Artículo 41°.-** Toda demanda de desahucio, incumplimiento de contrato, división y partición, independización, acumulación, tercería o cualquier otra acción de dominio sobre predios rurales gravados de acuerdo con el presente reglamento, debe ser acompañada con las copias de las declaraciones juradas y de los comprobantes de pago del tributo correspondiente a los períodos fiscales no prescritos. Los jueces no admitirán los trámites que incumplan lo dispuesto en este artículo, bajo responsabilidad.
+
+**Artículo 42°.-** Por excepción, cuando se trate de predios rurales exentos o no gravados con los tributos objeto de éste decreto, las obligaciones que se establecen en los artículos 39 al 41 que anteceden, se cumplirán tal como se dispone a continuación:
+
+1. En los casos de predios exentos, se exigirá fotocopias legalizadas de las resoluciones o certificaciones confirmatorias a que se refieren los incisos f) y g) del artículo 9 del presente decreto.
+2. En los casos de predios no gravados, por estar comprendidos dentro los niveles no imponibles fijados por el [Decreto Supremo Nº 21923](https://www.lexivox.org//norms/BO-DS-21923.html) de 20 de abril de 1988, los notarios, registradores de Derechos Reales y jueces, comprobarán dicha situación y dejarán constancia expresa de haber procedido en tal sentido.
+     
+   El incumplimiento de lo dispuesto en los incisos anteriores hará pasibles a los infractores de las sanciones y responsabilidades previstas en los artículos citados en el primer párrafo.
+     
+
+   ## Coparticipación
+
+**Artículo 43°.-** El producto de la recaudación del régimen general del impuesto a la propiedad rural y del régimen tributario rural unificado será distribuído de acuerdo con lo especificado en el subtítulo “Distribución” del artículo 57 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html).
+  
+El setenta y cinco por ciento (75%) de la recaudación obtenida, será depositada por los agentes recaudadores, establecidos por el artículo 29 de este decreto, en las cuentas del Fondo Regional de Desarrollo Rural de cada departamento, los que a su vez asignarán los recursos a cada provincia de su jurisdicción en función de la recaudación generada en cada una de ellas para ser utilizados en programas y proyectos del área respectiva. Estos recursos podrán constituír fondos de contrapartida para los proyectos que el Fondo Regional de Desarrollo Rural ejecute en las propias unidades generadoras del tributo o de aquellos que por encontrarse en el área de influencia las beneficien directamente.
+  
+El veinticinco por ciento (25%) de la recaudación será depositado en una cuenta especial a nombre de la Dirección General de la Renta Interna, para cubrir los gastos de recaudación, generación, actualización permanente y mantenimiento de los padrones.
+
+## Administración del Fondo Regional de Desarrollo Rural
+
+**Artículo 44°.-** La administración de los recursos provenientes del impuesto a la propiedad rural y del impuesto unificado, será efectuada por el directorio del Fondo Regional. Este directorio esta constituído de la forma siguiente:
+  
+El presidente de la Corporación de Desarrollo del departamento.
+  
+Un representante del Ministerio de Planeamiento y Coordinación.
+  
+Un representante del Ministerio de Asuntos Campesinos y Agropecuarios.
+  
+Un representante de la Cámara Agropecuaria Departamental y uno de la federación de ganaderos en su caso.
+  
+Un representante de la federación campesina departamental.
+  
+Las atribuciones del directorio del Fondo serán las señaladas en el artículo 19 del decreto [Nº 15307](https://www.lexivox.org//norms/BO-DS-15307.html) de 9 de febrero de 1978 que rige a las corporaciones de desarrollo, en lo referente a desarrollo rural.
+
+## Vigencia
+
+**Artículo 45°.-** Según lo dispuesto en el artículo 9 del [Decreto Supremo Nº 21458](https://www.lexivox.org//norms/BO-DS-21458.html) de 28 de noviembre de 1986, están sujetos inicialmente que los atributos reglamentados por este decreto todos quienes sean titulares o posean predios rurales al 30 de junio de 1989.
+  
+Los sujetos pasivos del régimen general del impuesto a la propiedad rural son responsables de las obligaciones establecidas en la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) y sus decretos reglamentarios. Para este efecto y en particular para el cumplimiento del pago del impuesto al valor agregado (IVA) y al de transacciones, se otorga plazo a estos sujetos pasivos para su inscripción en el Registro Unico de Contribuyentes (RUC), hasta el 31 de marzo de 1989, debiendo cancelar sus impuestos, en especial el IVA y transacciones, a partir de abril de 1989.
+
+## Abrogaciones y derogaciones
+
+**Artículo 46°.-** De acuerdo con lo dispuesto por el artículo 92 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), quedan abrogadas a partir de la fecha de vigencia del presente decreto, todas las disposiciones legales contrarias a la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) de 20 de mayo de 1986 y a este decreto, en especial el impuesto catastral y predial rústico, impuestos a los productos agropecuarios (internación y extracción de productos), ley de 27 de agosto de 1984 que establece un 5% sobre el valor de la carne faeneada.
+
+## Disposiciones transitorias
+
+**Artículo 47°.-** Habiendo pagado el impuesto del 5% sobre el valor de la carne faeneada hasta el 31 de diciembre de 1988, los ganaderos del departamento Beni pagarán el impuesto a la propiedad rural y el impuesto unificado al sector ganadero sólo por el semestre enero-junio 1989.
+
+## Título Sexto Disposiciones finales
+
+**Artículo 48°.-** Los ministerios de Asuntos Campesinos y Agropecuarios y de Finanzas deben coordinar las acciones pertinentes para la implantación del catastro rural a fin de dar cumplimiento a lo dispuesto en el artículo 56 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html).
+  
+Ambos ministerios deben coordinar, en igual forma, las acciones pertinentes para la futura implantación y puesta en marcha de los sistemas que sean necesarios, a fin de dar cumplimiento a lo dispuesto en los dos primeros párrafos del subtítulo “Recaudación del impuesto” del artículo 57 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html).
+
+**Artículo 49°.-** La Dirección General de la Renta Interna queda encargada de emitirlas normas administrativas complementarias que sean necesarias para la eficaz administración, determinación, recaudación y fiscalización de los tributos que son materia del presente decreto.
+
+**Artículo 50°.-** Agrégase al artículo 7 del [Decreto Supremo Nº 21521](https://www.lexivox.org//norms/BO-DS-21521.html) de 13 de febrero de 1987, el párrafo siguiente:
+> “La Dirección General de la Renta Interna podrá, por su parte, excluír igualmente del régimen tributario simplificado a los contribuyentes cuya inclusión en el mismo resulte incompatible con la finalidad de este sistema, ya sea por la forma de su inscripción en otros tributes o por la índole o volumen de sus operaciones.”
+
+**Artículo 51°.-** Se agrega al artículo 4 del [Decreto Supremo Nº 21642](https://www.lexivox.org//norms/BO-DS-21642.html) de 30 de junio de 1987, el siguiente párrafo:
+> “La Dirección General de la Renta Interna podrá, por su parte, excluír igualmente del sistema tributario integrado a los contribuyentes cuya inclusión en el mismo resulte incompatible con la finalidad de este sistema, ya sea por la forma de su inscripción en otros tributos por la índole o volumen de sus operaciones.”
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los tres días del mes de marzo de mil novecientos ochenta y nueve años.
+  
+Fdo. VICTOR PAZ ESTENSSORO, Guillermo Bedregal Gutierrez, Juan Carlos Duran Saucedo, Alfonso Revollo Thenier, Ramiro Cabezas Masses, Fernando Romero Moreno, Enrique Ipiña Melgar, Andres Petricevic Raznatovic, Luis F. Palenque Cordero, Luis Alfonso Peña Rueda, Joaquin Arce Lema, Jaime Villalobos Sanjines, José Guillermo Justiniano Sandoval, Fernando Illanes de la Riva, Franklin Anaya Vasquez, Walter H. Zuleta Roncal, Herman Antelo Laughlin, Jaime Zegada Hurtado.

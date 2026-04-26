@@ -1,0 +1,125 @@
+# Bolivia: Decreto Supremo Nº 4119, 20 de diciembre de 2019
+
+[Decreto Supremo Nº 4119](https://www.lexivox.org//norms/BO-DS-N4119.html)  
+JEANINE ÁÑEZ CHÁVEZ
+  
+PRESIDENTA CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 99 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Estado garantizará el registro, protección, restauración, recuperación, revitalización, enriquecimiento, promoción y difusión de su patrimonio cultural, de acuerdo con la Ley.
+* Que los Parágrafo I y II del Artículo 3 de la [Ley Nº 1099](https://www.lexivox.org//norms/BO-L-N1099.html), de 17 de septiembre de 2018, autoriza al Ministerio de Obras Públicas, Servicios y Vivienda y a la Autoridad de Regulación y Fiscalización de Telecomunicación y Transportes - ATT, transferir recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS al Ministerio de Planificación del Desarrollo.
+* Que el inciso a) del Parágrafo III del Artículo 3 de la [Ley Nº 1099](https://www.lexivox.org//norms/BO-L-N1099.html), dispone que de los recursos mencionados en los Parágrafos I y II del citado Artículo, el Ministerio de Planificación del Desarrollo deberá efectuar la priorización y destinar los mismos a programas y proyectos de interés social, cultural, deportivo y otros a las entidades públicas beneficiarias que soliciten los recursos. Asimismo, el inciso b) del Parágrafo III del citado Artículo, señala que la priorización y destino de los recursos antes señalados se destinan a transferencias público-privadas en áreas de interés social, cultural, deportivo y otros, siendo el Ministerio de Planificación del Desarrollo el responsable del uso, destino, seguimiento, control y fiscalización de dichos recursos.
+* Que el Parágrafo IV del Artículo 3 de la [Ley Nº 1099](https://www.lexivox.org//norms/BO-L-N1099.html), autoriza a las entidades ejecutoras de los recursos descritos en el inciso a) del Parágrafo III del citado Artículo, realizar transferencias público-privadas. Dichas entidades son responsables del uso, destino, seguimiento, control y fiscalización de dichos recursos.
+* Que el Artículo 17 de la [Ley Nº 1135](https://www.lexivox.org//norms/BO-L-N1135.html), de 20 de diciembre de 2018, del Presupuesto General del Estado Gestión 2019, establece que en el marco del Programa de Intervenciones Urbanas, se autoriza al Ministerio de Planificación del Desarrollo y las entidades públicas beneficiarias de los recursos previstos en el Artículo 3 de la [Ley Nº 1099](https://www.lexivox.org//norms/BO-L-N1099.html), ejecutar programas y/o proyectos en bienes inmuebles públicos que no sean de su propiedad, para lo cual se suscribirán los convenios correspondientes, cuyo contenido será reglamentado por el Ministerio de Planificación del Desarrollo.
+* Que la Disposición Adicional Primera del [Decreto Supremo Nº 3908](https://www.lexivox.org//norms/BO-DS-N3908.html), de 22 de mayo de 2019, autoriza a las entidades y empresas públicas a suscribir Convenios Interinstitucionales con el Ministerio de Planificación del Desarrollo, para la cesión temporal de bienes inmuebles que se encuentren bajo su administración o sean de su propiedad, conforme a lo establecido en el Artículo 17 de la [Ley Nº 1135](https://www.lexivox.org//norms/BO-L-N1135.html). Asimismo establece que el Ministerio de Planificación del Desarrollo podrá otorgar a terceros beneficiarios de ese programa, sean particulares o públicos, el uso temporal de los inmuebles referidos en el inciso precedente; para lo cual suscribirá Convenios de Gestión Compartida, estableciendo las condiciones y responsabilidades que asumen los terceros en el ciudado y salvaguarda de los mismos.
+* Que el [Decreto Supremo Nº 4118](https://www.lexivox.org//norms/BO-DS-N4118.html), de 19 de diciembre de 2019, que reglamenta el Artículo 3 de la [Ley Nº 1099](https://www.lexivox.org//norms/BO-L-N1099.html), señala que los recursos asignados al Ministerio de Planificación del Desarrollo para el Programa Intervenciones Urbanas - PIU, serán ejecutados a través del Fondo Nacional de Inversión Productiva y Social - FPS o los ministerios sectoriales, según corresponda, los cuales tendrán calidad de entidades ejecutoras.
+* Que por Resolución Ministerial N° 268, de 26 de octubre de 2018, se creó la Unidad Ejecutora del Programa de Intervenciones Urbanas de Innovación Social, misma que tiene a su cargo ejecutar componentes de urbanismo táctico y fondos concursables.
+* Que por [Decreto Supremo Nº 25984](https://www.lexivox.org//norms/BO-DS-25984.html), de 16 de noviembre de 2000, se creó el Fondo Nacional de Inversión Productiva y Social - FPS, bajo tuición del Ministerio de Planificación del Desarrollo, con el objeto exclusivo de cofinanciar la ejecución en forma descentralizada de programas y proyectos presentados por los Gobiernos Municipales en los sectores de educación, salud, saneamiento básico, energía rural, desarrollo rural, recursos naturales y medio ambiente; y otros que se definiera como relevantes en la estrategia boliviana de reducción de la pobreza.
+* Que durante la presente gestión, en el marco de lo dispuesto en la [Ley Nº 1099](https://www.lexivox.org//norms/BO-L-N1099.html), el [Decreto Supremo Nº 3908](https://www.lexivox.org//norms/BO-DS-N3908.html) y la Resolución Ministerial N° 268, el Ministerio de Planificación del Desarrollo, a través del Programa de Intervenciones Urbanas de Innovación Social, viene ejecutando proyectos de interés social, cultural y de recuperación de espacios urbanos integrales, bajo los criterios de urbanismo táctico y fondos concursables.
+* Que para la gestión 2020 es necesario que el FPS se haga cargo de los proyectos iniciados la Unidad Ejecutora del Programa de Intervenciones Urbanas de Innovación Social hasta la conclusión física de la infraestructura.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto disponer que los proyectos que se encuentran en ejecución en el marco del Artículo 17 de la [Ley Nº 1135](https://www.lexivox.org//norms/BO-L-N1135.html), de 20 de diciembre de 2018 y de los Decretos Supremos [Nº 3908](https://www.lexivox.org//norms/BO-DS-N3908.html), de 22 de mayo de 2019 y [Nº 4118](https://www.lexivox.org//norms/BO-DS-N4118.html), de 19 de diciembre de 2019, estarán a cargo del Fondo Nacional de Inversión Productiva y Social - FPS.
+
+**Artículo 2°.- (Proyectos en ejecución)** 
+
+1. A partir del 1 de enero de 2020, los proyectos que no fueron concluidos a cargo del Ministerio de Planificación del Desarrollo en el marco del Artículo 17 de la [Ley Nº 1135](https://www.lexivox.org//norms/BO-L-N1135.html) y de los Decretos Supremos [Nº 3908](https://www.lexivox.org//norms/BO-DS-N3908.html) y [Nº 4118](https://www.lexivox.org//norms/BO-DS-N4118.html), continuarán su ejecución por el FPS, entidad bajo tuición del Ministerio de Planificación del Desarrollo hasta la conclusión física de la infraestructura, así como los componentes de desarrollo comunitario, si corresponde.
+2. Para el cumplimiento del Parágrafo precedente, el Ministerio de Planificación del Desarrollo transferirá al FPS los recursos comprometidos no utilizados al 31 de diciembre de 2019, correspondientes a los siguientes proyectos:
+
+   |  |
+   | --- |
+   | Proyecto |
+   | Rehabilitación y puesta en valor edificio “Atelier - Centro de la Juventud, Lenguajes y Tecnologías”, La Paz |
+   | Rehabilitación y puesta en valor edificio “Centro Nacional de Artes Escénicas” (ex casa Linale Weiss), La Paz |
+   | Rehabilitación y puesta en valor del inmueble “Espacio Cultural Manzana 1”, Santa Cruz |
+   | Rehabilitación y puesta en valor edificio “Centro de Diseño Contemporáneo”, ex correos Santa Cruz |
+   | Construcción espacio cultural, expresiones urbanas y literatura, Santa Cruz |
+   | Preservación y revitalización Colina San Sebastián - La Coronilla, Cochabamba |
+3. Los recursos presupuestados destinados al funcionamiento de la Unidad Ejecutora de Intervenciones Urbanas de Innovación Social - UE-PIUIS para la gestión 2020, serán transferidos por el Ministerio de Planificación del Desarrollo al FPS, de acuerdo a evaluación de dicho Ministerio.
+
+**Artículo 3°.- (Transferencia de activos y documentación)** 
+
+1. Los activos adquiridos para el funcionamiento de la UE-PIUIS, deberán transferirse al FPS de manera gradual hasta el 17 de enero de 2020, previo inventario, entrega y recepción mediante actas suscritas entre el Ministerio de Planificación del Desarrollo y el FPS.
+2. La documentación, información, archivos, expedientes, procesos administrativos, judiciales y otros relacionados a los proyectos señalados en el Parágrafo II del Artículo 2 del presente Decreto Supremo deberán transferirse al FPS de manera gradual hasta el 17 de enero de 2020, previo inventario, entrega y recepción mediante actas suscritas entre el Ministerio de Planificación del Desarrollo y el FPS.
+
+**Artículo 4°.- (Pasivos)** 
+
+1. Los pasivos generados hasta el 31 de diciembre de 2019 por la ejecución de los proyectos señalados en el Parágrafo II del Artículo 2 del presente Decreto Supremo, serán asumidos por el FPS, a partir del 1 de enero de 2020.
+2. El Ministerio de Planificación del Desarrollo asumirá las obligaciones laborales contraídas hasta el 31 de diciembre de 2019 para la UE-PIUIS.
+
+**Artículo 5°.- (Personal)** El personal de la UE-PIUIS podrá ser incorporado al FPS, previa su evaluación.
+
+**Artículo 6°.- (Contratos, derechos y obligaciones)** 
+
+1. Para el cumplimiento de lo dispuesto en el presente Decreto Supremo, quedan válidos y vigentes los acuerdos, convenios, contratos, así como instrumentos legales, financieros y administrativos en el marco de los proyectos señalados en el Parágrafo II del Artículo 2 del presente Decreto Supremo, suscritos por el Ministerio de Planificación del Desarrollo con las personas naturales y jurídicas, entidades públicas y privadas, mismos que serán asumidos por el FPS, hasta su finalización, manteniéndose el destino de los mismos.
+2. Se ratifican los convenios interinstitucionales suscritos entre el Ministerio de Planificación del Desarrollo y los Ministerios de la Presidencia y de Economía y Finanzas Públicas, a través del Servicio Nacional de Patrimonio del Estado - SENAPE:
+   1. En lo referente a los convenios interinstitucionales antes citados, el Ministerio de Culturas y Turismo se hará cargo de la habilitación de espacios públicos para la ejecución de actividades culturales y el FPS de la continuidad de la ejecución de la infraestructura;
+   2. El Ministerio de Culturas, finalizado el plazo del convenio, deberá proceder a la devolución de los bienes inmuebles a las entidades correspondientes.
+3. Se autoriza al Ministerio de Planificación del Desarrollo a transferir anualmente al Ministerio de Culturas y Turismo los recursos correspondientes al gasto de administración, provenientes del PIU, de los siguientes proyectos a ser entregados por el FPS:
+   1. Edificio “Atelier - Centro de la Juventud, Lenguajes y Tecnologías”, La Paz;
+   2. Edificio “Centro Nacional de Artes Escénicas” (ex casa Linale Weiss), La Paz;
+   3. Edificio “Centro de Diseño Contemporáneo”, ex correos Santa Cruz;
+   4. Espacio cultural, expresiones urbanas y literatura, Santa Cruz.
+4. Se autoriza al Ministerio de Culturas y Turismo otorgar a terceros beneficiarios del Programa de Intervenciones Urbanas de Innovación Social, sean particulares o públicos, el uso temporal de los proyectos referidos en el Parágrafo precedente del presente Artículo; para lo cual suscribirá Convenios de Gestión Compartida, estableciendo las condiciones y responsabilidades que asumen los terceros en el ciudado y salvaguarda de los mismos.
+
+**Artículo 7°.- (Cesión temporal de inmuebles)** Para efectos del presente Decreto Supremo, en caso necesario, se autoriza a las entidades públicas correspondientes, suscribir convenios interinstitucionales con el FPS y/o el Ministerio de Culturas y Turismo para la cesión temporal de bienes inmuebles que se encuentren bajo su administración o sean de su propiedad.
+
+# Disposiciones transitorias
+
+**Disposición Transitoria Única.-** Los Parágrafos II y III del Artículo 2 entrarán en vigencia una vez publicado el Decreto Supremo reglamentario a la Ley del Presupuesto General del Estado - Gestión 2020.
+
+# Disposiciones finales
+
+**Disposición Final Única.-** Se autoriza a los Ministerios de Planificación del Desarrollo y de Economía y Finanzas Públicas, en el marco de sus competencias, efectuar las modificaciones presupuestarias correspondientes, emergentes de la aplicación del presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Planificación del Desarrollo, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de diciembre del año dos mil diecinueve.
+  
+FDO. JEANINE ÁÑEZ CHÁVEZ
+  
+FDO. Karen Longaric Rodríguez
+  
+FDO. Yerko Martin Núñez Negrette
+  
+FDO. Arturo Carlos Murillo Prijic
+  
+FDO. Luis Fernando López Julio
+  
+FDO. Carlos Melchor Díaz Villavicencio
+  
+FDO. José Luis Parada Rivero
+  
+FDO. Víctor Hugo Zamora Castedo
+  
+FDO.Álvaro Rodrigo Guzmán Collao
+  
+FDO. Wilfredo Rojo Parada
+  
+FDO. Iván Arias Durán
+  
+FDO. Carlos Fernando Huallpa Sanagua
+  
+FDO.Álvaro Eduardo Coímbra Cornejo
+  
+FDO. Oscar Bruno Mercado Céspedes
+  
+FDO. Aníbal Cruz Senzano
+  
+FDO. María Elva Pinckert de Paz
+  
+FDO. Virginia Patty Torres
+  
+FDO. Mauricio Samuel Ordoñez Castillo
+  
+FDO. Martha Yujra Apaza
+  
+FDO. Roxana Lizarraga Vera
+  
+FDO. Milton Navarro Mamani

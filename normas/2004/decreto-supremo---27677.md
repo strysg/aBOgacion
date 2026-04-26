@@ -1,0 +1,46 @@
+# Bolivia: Decreto Supremo Nº 27677, 17 de agosto de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 81 de la [Ley Nº 1689](https://www.lexivox.org//norms/BO-L-1689.html) de 30 de abril de 1996 - Ley de Hidrocarburos, dispone que los precios máximos para la comercialización de productos de refinación en el mercado interno deben ser fijados por el Sistema de Regulación Sectorial - SIRESE.
+* Que el [Decreto Supremo Nº 24914](https://www.lexivox.org//norms/BO-DS-24914.html) de 5 de diciembre de 1997, aprueba el Reglamento sobre el Régimen de Precios de los Productos del Petróleo, el cual fue posteriormente modificado en lo que respecta al Gas Licuado de Petróleo - GLP.
+* Que en diferentes Decretos Supremos se introducen mecanismos para evitar el incremento del precio máximo final del GLP y se autoriza al Tesoro General de la Nación - TGN a emitir Notas de Crédito Fiscal para la compensación a Engarrafadores Privados, Yacimientos Petrolíferos Fiscales Bolivianos - YPFB y la Empresa Boliviana de Refinación.
+* Que el [Decreto Supremo Nº 27499](https://www.lexivox.org//norms/BO-DS-27499.html) de 17 de mayo de 2004, establece un nuevo precio de referencia para el GLP.
+* Que el [Decreto Supremo Nº 27601](https://www.lexivox.org//norms/BO-DS-27601.html) de 29 de junio de 2004, crea un mecanismo de ajuste gradual en los precios finales del Gas Licuado de Petróleo - GLP y estabiliza su precio.
+* Que el precio del GLP en el mercado internacional tiene un incremento acelerado, por lo que es necesario ajustar rápidamente el precio del GLP y estabilizar su precio por mayores períodos.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el mecanismo de ajuste gradual en los precios finales del Gas Licuado de Petróleo - GLP.
+
+**Artículo 2°.- (Modificaciones al Decreto Supremo Nº 27601)** Se modifica el Artículo 4 del [Decreto Supremo Nº 27601](https://www.lexivox.org//norms/BO-DS-27601.html) de 29 de junio de 2004, de la siguiente manera:
+> “ARTICULO 4.- (MECANISMO DE AJUSTE DEL PRECIO FINAL DEL GLP). A partir de la promulgación del presente Decreto Supremo, la Superintendencia de Hidrocarburos del Sistema de Regulación Sectorial - SIRESE, deberá actualizar el Precio Final del GLP mediante la siguiente formula:
+>   
+> ![Pg_{t+1}=\left\{ \begin{array}{ll}Pg_{t}+0.01 &\text{ cuando }\Delta%PDRG>2.5%\\Pg_{t} &\text{ cuando }-2.5\leq \Delta%PDRG\leq 2.5%\\Pg_{t} + 0.01 &\text{ cuando }\Delta%PDRG<-2.5\end{array} \right](data:image/gif;base64,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)
+>   
+> Donde:
+>
+> |  |  |
+> | --- | --- |
+> | Pgt+1 | Es el nuevo Precio del GLP, expresado en Bolivianos por kilogramo, aplicando la metodología descrita en la fórmula anterior. |
+> | Pgt | Es el Precio vigente del GLP, expresado en Bolivianos por kilogramo. |
+> | 𝚫%PDRG | variación porcentual acumulada en el Precio Diario de Referencia del GLP calculado diariamente por la Superintendencia de Hidrocarburos, según el Reglamento de Precios, posteriores modificaciones y el [Decreto Supremo Nº 27499](https://www.lexivox.org//norms/BO-DS-27499.html). |
+>
+>   
+> ”
+
+**Artículo 3°.- (Vigencia de normas)** El presente Decreto Supremo entra en aplicación a partir del 18 de agosto de 2004.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda y, Minería e Hidrocarburos quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de agosto del año dos mil cuatro.
+  
+FDO. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Guillermo Torres Orias, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernandez Fagalde, Victor Barrios Arancibia Ministro Interino de Asuntos Campesinos y Agropecuarios, Roberto Barbery Anaya, Ricardo Calla Ortega.

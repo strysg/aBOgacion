@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 24543, 31 de marzo de 1997
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Tratado de Montevideo suscrito por la República de Bolivia el 12 de agosto de 1980 y ratificado por el [Decreto Supremo Nº 18508](https://www.lexivox.org//norms/BO-DS-18508.html) de 23 de julio de 1981 instituyó la Asociación Latinoamericana de Integración (ALADI), en substitución de la Asociación Latinoamericana de Libre Comercio (ALALC);
+* Que el Gobierno de Bolivia firmó en el marco del citado tratado, el 22 de noviembre de 1991, el Acuerdo de Alcance Parcial para la Liberación y Expansión del Comercio Intraregional de Semillas, con los gobiernos de las Repúblicas Argentina, Federativa del Brasil, Colombia, Chile, Paraguay, Perú y Oriental del Uruguay protocolizado ante la Secretaría General de la Asociación Latinoamericana de Integración (ALADI), el 22 de octubre de 1992, al que se han adherido los gobiernos de Ecuador en 26 de agosto de 1993, Cuba en 19 de enero de 1994 y Venezuela en 14 de abril de 1994.
+* Que se aprobó, en cumplimiento de los artículos 4 y 6 del citado acuerdo, la lista común de semillas beneficiadas por el programa de liberación del acuerdo, mediante el primer protocolo adicional firmado por los países miembros, el 29 de agosto de 1995, y protocolizado en la misma fecha ante la Secretaría General de la ALADI;
+* Que es necesario disponer, en cumplimiento del compromiso internacional asumido por el gobierno de Bolivia, la vigencia administrativa del acuerdo, en observancia del artículo 127 , inciso d del [Decreto Supremo Nº 21660](https://www.lexivox.org//norms/BO-DS-21660.html) de 10 de julio de 1987.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se ratifica y pone en vigencia el Acuerdo de Alcance Parcial para la Liberación y Expansión del Comercio Intraregional de Semillas (AAP/AG/2) y sus protocolos, como parte integrante del presente decreto supremo.
+
+**Artículo 2°.-** Las importaciones de los productos originarios provenientes de las repúblicas suscribientes y beneficiarias de la Lista Común de Semillas, insertada en el anexo del anexo del primer protocolo adicional del acuerdo, quedan exentas del gravamen aduanero consolidado, GAC, y liberadas de restricciones.
+
+**Artículo 3°.-** Los productos incluidos en el anexo del primer protocolo adicional del acuerdo, están sometidos al régimen fitosanitario de defensa y control que la Secretaría Nacional de Agricultura y Ganadería, SNAG, establezca como autoridad competente.
+
+**Artículo 4°.-** Se debe cumplir, a los efectos del artículo 2, con las condiciones sobre normas de origen previstas en el régimen general de origen de la ALADI, adoptado mediante la resolución 78 del Comité de Representantes de la Asociación sin aplicar lo dispuesto en el artículo único del [Decreto Supremo Nº 14582](https://www.lexivox.org//norms/BO-DS-14582.html) de 16 de mayo de 1977 y la consiguiente disposición de la resolución ministerial 639/77 de 15 de julio de 1977, así como toda otra disposición contraria a este decreto supremo.
+
+---
+
+Los señores Ministros de Estado en los despachos de Relaciones Exteriores y Culto, Hacienda y Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de marzo de mil novecientos noventa y siete años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzaín, Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Franklin Anaya Vásquez, Moisés Jarmúsz Levy, Hugo San Martín Arzabe, Mauricio Antezana Villegas, MINISTRO SUPLENTE DE COMUNICACION SOCIAL, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

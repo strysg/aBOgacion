@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 25478, 5 de agosto de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996 de Pensiones establece, en su artículo 55, la liquidación de los entes gestores de cualquier naturaleza que administren de manera exclusiva los regímenes de vejez, jubilación, invalidez, muerte, riesgos profesionales de largo plazo y seguros especiales de la seguridad social boliviana, a cuyo efecto, encarga a la Unidad de Reordenamiento, en su artículo 56, la disposición y transferencia de sus bienes;
+* Que la [Ley Nº 1788](https://www.lexivox.org//norms/BO-L-1788.html) de 16 septiembre de 1997 de Organización del Poder Ejecutivo y el decreto supremo reglamentario 24855 de 22 de septiembre de 1997 han instituido el Ministerio de Comercio Exterior e Inversión, asignándole, entre sus funciones, la liquidación de los entes gestores señalados en los artículos 55 y 56 de la Ley de Pensiones, y poniendo bajo su dependencia, a los liquidadores y a la Unidad de Reordenamiento;
+* Que el artículo 5 del [Decreto Supremo Nº 25052](https://www.lexivox.org//norms/BO-DS-25052.html) de 23 de mayo de 1998, reglamentario de la Ley de Pensiones 1732, indica la forma de disposición de los bienes de los entes gestores en liquidación, que debe efectuarse mediante licitación pública o remate conforme a lo establecido en las Normas Básicas de Administración de Bienes y Servicios. Dispone asimismo que las licitaciones públicas se efectuarán por medio del Ministro de Comercio Exterior e Inversión, que establecerá una comisión calificadora presidida por ese portafolio y conformada por el Viceministro de Inversión y Privatización, el Director de la Unidad de Reordenamiento y por lo menos un vocal designado por el Ministro de Comercio Exterior e Inversión, mediante resolución ministerial;
+* Que el Ministerio de Comercio Exterior e Inversión ha contratado los servicios de empresas consultoras y consultores individuales, para que realicen los servicios de avalúo, valoración, y diseño de estrategias de disposición de los bienes inmuebles correspondientes a la invitación directa nacional MCEI/EG - 002/98 (segunda convocatoria), quienes han concluido con el alcance de los servicios solicitados;
+* Que la resolución ministerial 018/99 de 2 de febrero de 1999, emitida por el Ministerio de Comercio Exterior e Inversión, aprueba el plan específico MCEI/UR/GRUPO 01/99, elaborado por la Unidad de Reordenamiento, para la venta de un primer paquete de 30 bienes inmuebles pertenecientes a los entes gestores de la seguridad social boliviana en liquidación, mediante la venta por licitación pública, por lo que aprueba además los pliegos de condiciones elaborados al efecto y desiga vocales de la comisión calificadora para la licitación, en aplicación del artículo 5 del [Decreto Supremo Nº 25052](https://www.lexivox.org//norms/BO-DS-25052.html);
+* Que se invitó a las personas individuales y colectivas nacionales y/o extranjeras, mediante convocatoria nacional MCEI/UR/GRUPO-01/99, a presentar propuestas para la compraventa de la propiedad de cada uno de los bienes inmuebles, identificados en cada uno de los pliegos de condiciones;
+* Que se declaró desierta por resolución ministerial 068/99 de 31 de marzo de 1999 del Ministerio de Comercio Exterior e Inversión, la primera convocatoria de la referida licitación pública, en cumplimiento a lo que establece el numeral 16 del pliego de condiciones de la convocatoria nacional, MCEI/UR/LIQ-GRUPO-01 licitación pública MCEI FCSSFRA/UR/Liq-017/99, por no haber superado el monto propuesto por el proponente Banco Mercantil S.A., al precio mínimo establecido por el consultor independiente, efectuándose por tanto la segunda convocatoria, conforme a lo dispuesto por el artículo 41 de la resolución suprema 216145 de 3 de agosto de 1995;
+* Que la comisión calificadora procedió, en 11 de junio de 1999, a la recepción de sobres y apertura de las ofertas de los proponentes Banco Mercantil S.A. y Peter Salazar López, de acuerdo a lo previsto en la convocatoria nacional MCEI/UR/GRUPO 01/99, licitación pública MCEI/FCSSFRA/UR/Liq-017/99 (segunda convocatoria) “Venta del bien inmueble ubicado en la calle Evaristo Valle esquina Montes” de la ciudad de La Paz y pliego de condiciones;
+* Que el Ministro de Comercio Exterior e Inversión presentó a consideración del Presidente de la República, en Consejo de Ministros, el informe de la comisión calificadora, que en uso de las atribuciones otorgadas por el [Decreto Supremo Nº 25052](https://www.lexivox.org//norms/BO-DS-25052.html), recomienda por unanimidad y de acuerdo al análisis ejecutado, que la adjudicación de la convocatoria nacional MCEI/UR/GRUPO 01/99, licitación pública MCEI/FCSSFRA/UR/Liq-017/99 (segunda convocatoria) “Venta del bien inmueble ubicado en la calle Evaristo Valle esquina Montes”, se efectúe en favor del proponente Peter Salazar López de acuerdo a su propuesta, por el monto de cuatrocientos diez mil veinte 00/100 dólares de los Estados Unidos de América (US$.410.020.00);
+* Que el informe de recomendación refiere que el precio ofertado por el proponente identificado en su inciso a, ha superado al precio mínimo establecido por la empresa consultora independiente en la suma de US$.57.433.72;
+* Que la adjudicación debe efectuarse mediante decreto supremo, conforme al artículo 5 del [Decreto Supremo Nº 25052](https://www.lexivox.org//norms/BO-DS-25052.html) de 23 de mayo de 1998.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Adjudícase la convocatoria nacional MCEI/UR/GRUPO 01/99, licitación pública MCEI/FCSSFRA/UR/Liq-017/99 (segunda convocatoria) “Venta del bien inmueble ubicado en la calle Evaristo Valle esquina Montes”, de la ciudad de La Paz en favor del proponente Peter Salazar López, por el precio de CUATROCIENTOS DIEZ mil VEINTE 00/100 DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US$.410.020.00).
+
+**Artículo 2°.-** El precio total señalado en el artículo anterior debe ser pagado al contado y en efectivo a la firma del contrato de compraventa, que será suscrito por el Ministro de Comercio Exterior e Inversión y el proponente adjudicatario, ante la Notaría de Gobierno de la ciudad de La Paz, con intervención del respectivo Fiscal de Materia Administrativa y con sujeción a las normas legales vigentes.
+
+---
+
+El señor Ministro de Estado en el despacho de Comercio Exterior e Inversión queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cinco días del mes de agosto de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Herbert Müller Costas, Carlos Alberto Subirana Suárez, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, José Decker Marquez, Ministro Interino de Agricultura, Ganaderia Y Desarrollo Rural, Erick Reyes Villa Bacigalupi, Carlos Saavedra Bruno, Rubén Poma Rojas, Jorge Landivar Roca.

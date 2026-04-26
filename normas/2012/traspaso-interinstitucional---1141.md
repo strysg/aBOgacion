@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 1141, 15 de febrero de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 378 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que las diferentes formas de energía y sus fuentes constituyen un recurso estratégico, su acceso es un derecho fundamental y esencial para el desarrollo integral y social del país, y se regirá por los principios de eficiencia, continuidad, adaptabilidad y preservación del medio ambiente.
+* Que el Artículo 30 de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, vigente por disposición del inciso c) de la Disposición Final Tercera de la [Ley Nº 211](https://www.lexivox.org//norms/BO-L-N211.html), de 23 de diciembre de 2011, del Presupuesto General del Estado - Gestión 2012, autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo, dependiente del Ministerio de Planificación del Desarrollo, en el marco de sus competencias, inscribir y/o incrementar el gasto de las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el [Decreto Supremo Nº 29466](https://www.lexivox.org//norms/BO-DS-29466.html), de 5 de marzo de 2008, aprueba el Programa Nacional de Eficiencia Energética, con la finalidad de establecer acciones, políticas y ejecutar proyectos que buscan optimizar el uso racional, eficiente y eficaz de la energía.
+* Que el precitado Decreto Supremo, aprueba el Programa Nacional de Eficiencia Energética, que mediante el Proyecto “Sustitución de las lámparas incandescentes (focos) con lámparas fluorescentes compactas (ahorradoras)”, implementado desde marzo de 2008 a abril de 2009, logró ahorros económicos en el Sistema Interconectado Nacional - SIN, por el desplazamiento de inversiones en generación de energía eléctrica, además de una reducción de su consumo mensual de energía eléctrica con el consiguiente ahorro económico en los hogares que participaron en el Programa.
+* Que el Artículo 2 del [Decreto Supremo Nº 0948](https://www.lexivox.org//norms/BO-DS-N948.html), de 5 de agosto de 2011, autoriza al Ministerio de Hidrocarburos y Energía, incrementar la subpartida 25220 “Consultores de Línea” en Bs346.800.- (TRESCIENTOS CUARENTA Y SEIS mil novecientos 00/100 BOLIVIANOS), a través de un traspaso presupuestario intrainstitucional, afectando la subpartida 26990 “Otros”, financiados con Fuente10 - 111 “Tesoro General de la Nación” para la ejecución del Programa de Eficiencia Energética en su Fase de Sostenibilidad, implementado por el Programa de Electricidad para Vivir con Dignidad.
+* Que a fin de proseguir y dar continuidad al Programa de Eficiencia Energética en su Fase de Sostenibilidad, es necesario incrementar la subpartida 25220 “Consultores de Línea” para financiar las consultorías de dicho Programa, a objeto de realizar la fiscalización del proceso de transferencia de lámparas fluorescentes compactas - LFC en el país, a cargo de las Fuerzas Armadas, hasta su conclusión y cierre del Programa de Eficiencia Energética.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Hidrocarburos y Energía incrementar la subpartida 25220 “Consultores de Línea” en Bs318.060.- (TRESCIENTOS DIECIOCHO mil SESENTA 00/100 BOLIVIANOS), financiados con Fuente10 - 111 “Tesoro General de la Nación”, a través de un traspaso presupuestario intrainstitucional, afectando la subpartida 26990 “Otros”, para financiar consultorías que permitan el cumplimiento del Programa de Eficiencia Energética en su Fase de Sostenibilidad, a objeto de realizar la fiscalización del proceso de transferencia de lámparas fluorescentes compactas - LFC en el país, hasta su conclusión y cierre del Programa.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de febrero del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa MINISTRA DE PLANIFICACIÓN DEL DESARROLLO E INTERINA DE JUSTICIA, Luís Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Felipe Quispe Quenta, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

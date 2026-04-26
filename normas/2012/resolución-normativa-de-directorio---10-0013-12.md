@@ -1,0 +1,31 @@
+# Bolivia: Resolución Normativa de Directorio de 22 de junio de 2012
+
+PRÓRROGA DE VENCIMIENTOS PARA EL PAGO DE OBLIGACIONES TRIBUTARIAS
+  
+RESOLUCIÓN NORMATIVA DE DIRECTORIO No 10-0013-2012
+  
+La Paz, 22-06-2012
+
+VISTOS Y CONSIDERANDO:
+
+* Que conforme lo dispuesto por el Artículo 53 Parágrafo III concordante con el Numeral 7 del Artículo 66, de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario, la Administración Tributaria podrá disponer fundadamente prórrogas de oficio para el pago de Tributos.
+* Que de acuerdo a los conflictos suscitados en la Policía Nacional, la Asociación de Bancos Privados de Bolivia, mediante Circular No 264/2012 de 22 de junio de 2012, comunica que las entidades financieras bancarias y no bancarias cerrarán en esta fecha sus principales oficinas, sucursales y agencias donde se produzca el repliegue de efectivos de seguridad, para precautelar la seguridad de sus clientes, personal e instalaciones, por lo que se hace necesario prorrogar los vencimientos para la presentación de Declaraciones Juradas y el cumplimiento de obligaciones tributarias de los sujetos pasivos y terceros responsables, a fin de resguardar los derechos de los contribuyentes.
+* Que de conformidad al Inciso p) del Artículo 19 del [Decreto Supremo Nº 26462](https://www.lexivox.org//norms/BO-DS-26462.html), de 22 de diciembre de 2001, el Presidente Ejecutivo del Servicio de Impuestos Nacionales en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la Resolución Administrativa de Directorio No 09-0011-02, de 28 de agosto de 2002, se encuentra facultado a suscribir Resoluciones Normativas de Directorio.
+
+# POR TANTO:
+
+El Presidente Ejecutivo a.i. del Servicio de Impuestos Nacionales, a nombre del Directorio de la Institución, en uso de las facultades conferidas por el Articulo 64 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano y las disposiciones precedentemente citadas,
+
+RESUELVE:
+
+**Artículo Único.-** Prorrogar hasta el día lunes 25 de junio de 2012, el plazo para la presentación de declaraciones juradas y pago de impuestos correspondientes al periodo fiscal mayo/2012, para los sujetos pasivos o terceros responsables, con Números de Identificación Tributaria (NIT) que terminen en los dígitos ocho (8) y nueve (9).
+
+---
+
+Regístrese, hágase saber y cúmplase.
+  
+Roberto Ugarte Quispaya
+  
+Presidente Ejecutivo a.i.
+  
+Servicio de Impuestos Nacionales

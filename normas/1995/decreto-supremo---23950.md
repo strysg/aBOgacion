@@ -1,0 +1,605 @@
+# Bolivia: Decreto Supremo Nº 23950, 1 de febrero de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que habida cuenta de la heterogeneidad ecológica, socioeconómica, sociolingüistica, sociocultural y regional del país y de la necesidad de otorgar mayores responsabilidades y autonomía de gestión a las diversas regiones etnoculturales y reparticiones político-geográficas del país, el Código de la Educación concibe la interculturalidad como un recurso y como una ventaja comparativa para promover un nuevo y armónico desarrollo personal y social de todos los educandos del país, así como para construir un sistema educativo nacional que a la vez asegure su unidad y respete, reconozca y valore la diversidad;
+* Que la Ley de Participación Popular, N° 1551 del 20 de abril de 1994, reconoce, promueve y consolida el proceso de Participación Popular en aras de una mejor calidad de vida para todos los bolivianos y con el objetivo de fortalecer los instrumentos políticos y económicos necesarios para perfeccionar la democracia representativa y la equidad social y de género;
+* Que en este marco, el Código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html), en sus capítulos I y II establece las bases y fines de la educación boliviana, los objetivos del sistema educativo boliviano, la naturaleza abierta, flexible y desgraduada del currículo, así como los objetivos y políticas de la estructura de organización curricular;
+* Que es necesario normar el desarrollo de las actividades educativas en el marco del nuevo currículo para crear colectivamente una práctica pedagógica renovada, basada en una organización pedagógica distinta, en la cual la reconfiguración del aula como ámbito de aprendizaje, la transformación del rol docente, la participación activa y permanente de los alumnos y de la comunidad en general jueguen un rol fundamental;
+* Que es necesario reconducir el funcionamiento de las Unidades Educativas del país, de manera tal que se acerquen a la comunidad o barrio en el que se ubican y se genere una interacción dinámica y creativa entre comunidad y escuela, a fin de hacer de éstas verdaderas comunidades de aprendizaje, focos del desarrollo cultural y social de la comunidad, que dediquen su esfuerzo al desarrollo humano en sentido amplio, desde sus propias raíces, haciendo de puente entre las necesidades básicas de aprendizaje de la región y de la comunidad, los saberes y conocimiento propios, y aquellos de carácter más universal, para responder a los problemas y necesidades planteadas;
+* Que para ello es necesario ordenar los diversos niveles, ciclos y modalidades de la educación nacional, por tanto pública como privada;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Título I De las disposiciones generales
+
+### Capítulo I De la nueva estructura de organización curricular
+
+**Artículo 1°.-** La estructura de organización curricular comprende áreas, niveles, ciclos y modalidades.
+
+**Artículo 2°.-** Constituyen áreas de organización curricular del sistema educativo nacional: la educación formal y la educación alternativa. La educación formal es la prioritaria en tanto atiende a todos los educandos del país. La educación alternativa es complementaria y atiende a quienes no pueden desarrollar su educación en el área formal.
+
+**Artículo 3°.-** Son niveles de organización curricular, para ambas áreas del sistema educativo nacional, los siguientes:
+
+1. El nivel de educación pre-escolar.
+2. El nivel de educación primaria.
+3. El nivel de educación secundaria.
+4. El nivel de educación superior.
+
+**Artículo 4°.-** Los niveles pre-escolar, primario y secundario están formados por ciclos. Los ciclos constituyen períodos de duración variada dentro de un determinado nivel, en los cuales los educandos desarrollan determinadas competencias, como parte del proceso educativo.
+
+1. Son ciclos del nivel de educación pre-escolar:
+   1. El ciclo de primeros aprendizajes
+   2. El ciclo de preparación escolar.
+2. Son ciclos del nivel de educación primaria:
+   1. El ciclo de aprendizajes básicos.
+   2. El ciclo de aprendizajes esenciales.
+   3. El ciclo de aprendizajes aplicados.
+3. Son ciclos del nivel de educación secundaria:
+   1. El ciclo de aprendizajes tecnológicos.
+   2. El ciclo de aprendizajes diferenciados.
+
+**Artículo 5°.-** El nivel de educación superior comprende la educación post- secundaria a cargo de las universidades públicas y privadas, así como aquella que se realiza en Institutos Técnicos Superiores e Institutos Normales Superiores, dependientes del Servicio de Educación Pública. En el caso de la educación superior universitaria, la organización del nivel se rige por lo estipulado en este Decreto Supremo y en los estatutos de las universidades públicas y privadas, en el marco reconocido por la Constitución Política del Estado y el Código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html). En el caso de la educación superior no universitaria, la organización del nivel se rige por lo estipulado en el Código de Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html), por lo dispuesto en este Decreto y en los reglamentos específicos que para el efecto dicte la Secretaría Nacional de Educación, en base a las propuestas técnicas elaboradas por la Subsecretaría de Educación Superior, Ciencia y Tecnología.
+
+**Artículo 6°.-** El sistema educativo comprende diversas modalidades de organización curricular que se organizan en función de las situaciones de aprendizaje (regular o especial), de enseñanza (unidocente o pluridocente), de la lengua o lenguas utilizadas como medios de aprendizaje (monolingüe o bilingüe) y de atención a los educandos (presencial o a distancia).
+
+### Capítulo II Del currículo
+
+**Artículo 7°.-** El currículo de la educación boliviana está orientado a satisfacer las necesidades básicas de aprendizaje de los diversos tipos de educando a los que atiende el sistema en cada una de sus áreas, niveles, ciclos y modalidades.
+
+**Artículo 8°.-** En los niveles pre-escolar, primario y secundario, el currículo nacional está compuesto por un tronco común curricular de alcance nacional y por ramas complementarias diversificadas, diseñadas y de uso en cada unidad educativa, núcleo, distrito y departamento. En todo el territorio de la República, en cada Unidad Educativa y Núcleo Educativo, tanto en la educación fiscal como en la educación privada, es obligatorio el desarrollo del tronco común curricular y de las ramas complementarias diversificadas específicas.
+
+**Artículo 9°.-** El tronco común curricular de alcance nacional asume la perspectiva intercultural adoptada por la educación boliviana Comprende las competencias básicas que adquieren y desarrollan todos los educandos y rige para todo el territorio de la República.
+
+**Artículo 10°.-** Las ramas complementarias de carácter diversificado están orientadas a la adquisición y desarrollo de competencias y contenidos complementarios relacionados con la especificidad ecológica, étnica, sociocultural, socioeconómica y sociolingüística de cada departamento y municipio del país en los que se organiza y desarrolla el currículo.
+
+**Artículo 11°.-** El currículo nacional es además bilingüe para todo el sistema educativo; comenzando a aplicarse en la educación primaria, para ir avanzando gradual y progresivamente en todo el sistema. El currículo es bilingüe principalmente en los distritos y núcleos en los cuales los educandos hablan un idioma originario y requieren de una atención educativa en una lengua distinta al castellano. La educación bilingüe persigue la preservación y el desarrollo de los idiomas originarios a la vez que la universalización del uso del castellano. Entiéndase por educación bilingüe de preservación y desarrollo:
+
+1. El aprendizaje inicial de la lectura y la escritura en la lengua materna originaria del educando y el desarrollo y consolidación de las competencias lingüísticas en lengua propia, tanto a nivel oral como escrito.
+2. El aprendizaje oral del castellano con metodología de segunda lengua, desde el comienzo de los aprendizajes del primer ciclo, así como el paso a la lectura y escritura en este idioma, desde el momento en que los educandos hayan consolidado sus competencias de lectura y escritura en su lengua materna, con vistas a asegurar un manejo eficiente del castellano, tanto a nivel oral como escrito.
+3. El desarrollo del proceso educativo en ambas lenguas: la lengua materna originaria y el castellano, una vez que los educandos hayan desarrollado competencias de lectura y escritura en ambas lenguas.
+
+**Artículo 12°.-** El currículo para los educandos monolingües de habla castellana, o para quienes tienen a este idioma como lengua de uso predominante, debería también incorporar el aprendizaje y utilización de un idioma nacional originario. La Secretaría Nacional de Educación queda encargada de estimular el interés por las lenguas originarias del país, para lo cual, en coordinación con la Secretaría Nacional de Asuntos Etnicos, de Género y Generacionales, la Secretaria Nacional de Cultura y con los Ministerios de Comunicación Social y de Desarrollo Sostenible y Medio Ambiente y otros organismos del Estado, elaborará para cada bienio un plan nacional de acción, que incluya el empleo de modalidades y estrategias diversas, para promover en todo el país el uso escrito y el aprendizaje de los idiomas nacionales originarios como segunda lengua.
+  
+Para la ejecución de dichos planes deberá tomar en cuenta, además, a organismos internacionales e instituciones privadas que deseen sumar sus recursos humanos y financieros a los esfuerzos que en tal sentido despliega el Estado Boliviano. Artículo 13° La Secretaría Nacional de Educación, a través de la Unidad Nacional de Servicios Técnico-Pedagógicos de la Dirección General, es la responsable de la elaboración del tronco común curricular, de los programas de estudio respectivos y de las orientaciones metodológicas para su desarrollo y para la evaluación de los aprendizajes en los niveles pre-escolar, primario y secundario. Es asimismo responsable de la actualización permanentemente del currículo, a fin de salvaguardar su naturaleza intercultural e introducir innovaciones producto del avance científico-tecnológico. Artículo 14° La responsabilidad de la elaboración de las ramas complementarias diversificadas del currículo recae, en primera instancia, en las Unidades Educativas, las mismas que, en interacción permanente con las Juntas Escolares y con el apoyo de los Asesores Pedagógicos, de los Directores de Núcleo y de las Unidades Distritales de Servicios Técnico-Pedagógicos, identificarán las necesidades básicas de aprendizaje de la población de la comunidad o el barrio en el que se instale la Unidad Educativa, analizarán el tronco común curricular e identificarán y diseñarán las ramas complementarias del mismo.
+  
+En un proceso ascendente, primero en el Núcleo Educativo y luego en el distrito, se sistematizará y concertará las propuestas auriculares diversificadas para, en función de las semejanzas existentes entre las propuestas elaboradas por cada Unidad Educativa y las características socioculturales y socioeconómicas de cada distrito, llegar a la configuración de una propuesta curricular distrital. Este mismo proceso de agregación puede también darse en los departamentos para llegar a la definición de una propuesta curricular departamental que asegure la unidad a nivel departamental y la necesaria diferenciación en los niveles escolar, nuclear y distrital.
+  
+La responsabilidad de la elaboración de las ramas complementarias del currículo recae también en las Direcciones Departamentales de Educación, las que, a través de sus Unidades Departamentales de Servicios Técnico-Pedagógicos, son responsables de:
+
+1. Asesorar técnicamente el proceso de diseño y construcción curricular.
+2. Identificar competencias y contenidos de alcance departamental que los distritos escolares, núcleos escolares y unidades educativas deberían considerar en sus ramas complementarias.
+     
+   Las propuestas curriculares elaboradas en el nivel departamental deberán además recoger la opinión de los Consejos Departamentales de Educación y de uno o más Consejos Educativos de Pueblos Originarios, dependiendo de la filiación sociocultural de población del departamento.
+
+**Artículo 15°.-** La Secretaría Nacional de Educación, a través de la Unidad Nacional de Servicios Técnico-Pedagógicos de la Dirección General, debe también dirigir y supervisar la elaboración de los programas de estudio para los Institutos Técnicos Superiores y los Institutos Normales Superiores.
+
+## Título II De la educación formal
+
+### Capítulo III De las disposiciones generales
+
+**Artículo 16°.-** La Educación Formal está a cargo del Estado, quien recibe la colaboración de instituciones privadas que contribuyen con sus recursos humanos y financieros a los esfuerzos que éste realiza para satisfacer las necesidades básicas de aprendizaje de sus miembros y para contribuir, desde la educación, a satisfacer sus necesidades humanas básicas y al mejoramiento de su calidad de vida.
+
+**Artículo 17°.-** Las acciones de educación formal se desarrollan en todos los niveles y modalidades del sistema educativo.
+
+**Artículo 18°.-** La Secretaría Nacional de Educación, a través de las Subsecretarías de Educación Pre-Escolar, Primaria y Secundaria y de Educación Superior, y de las Direcciones Departamentales de Educación es la responsable de promover, normar, asesorar y evaluar, en consulta con el Consejo Nacional de Educación, con los Consejos Departamentales y con los Consejos de Pueblos Originarios, el desarrollo de las acciones de educación formal de los diversos niveles y modalidades que se desarrollen en el país.
+
+**Artículo 19°.-** Las Unidades Educativas, tanto fiscales como privadas, los Núcleos Educativos y las Direcciones Distritales de Educación, son las responsables de la ejecución de las acciones de educación formal, en coordinación y consulta permanente con las Juntas Educativas del nivel correspondiente.
+
+**Artículo 20°.-** La Secretaría Nacional de Educación queda encargada de elaborar los programas de estudios correspondientes al tronco común curricular, y orientar la elaboración de las ramas complementarias del mismo en todos los niveles, ciclos y modalidades de aprendizaje de ambas áreas. Los contenidos de los programas de estudio se deben organizar en áreas curriculares que integren y relacionen contenidos de diversas materias, y ya no en asignaturas aisladas, por lo que queda sin efecto la organización por materias que regía hasta antes de la publicación del presente Decreto Supremo.
+  
+Los contenidos de los programas de estudio para los niveles de educación pre-escolar, primaria y secundaria se deben expresar en términos de competencias a ser adquiridas y desarrolladas por los educandos. Entiéndese por competencia el “saber hacer algo”; es decir, la capacidad para desarrollar actividades físicas e intelectuales que respondan adecuadamente a la resolución de problemas, recurriendo a procedimientos conocidos o inventando otros. Los programas de estudio estarán conformados por competencias cognitivo-procesuales o desempeños específicos en las áreas curriculares de los diversos niveles y modalidades del sistema, y por competencias transversales referidas a problemas de relevancia social, frente a los cuales es necesario tener una posición personal y colectiva y, de esta manera, contribuir al desarrollo personal y social de los educandos. Las competencias transversales impregnan y alimentan el desarrollo del curriculo en todos los ciclos, niveles y modalidades del sistema educativo. Las competencias transversales del curriculo se agrupan en competencias orientadas al desarrollo humano y competencias orientadas al desarrollo sostenible. Las competencias para el desarrollo humano se refieren principalmente a conocimientos, valores, actitudes y comportamientos relacionados con la solidaridad, la equidad étnica, cultural y lingüística, la equidad entre hombres y mujeres, el desarrollo de la sensibilidad ética, el cuidado de una buena salud y la formación de una sexualidad biológica y éticamente sana, apoyada en la madurez de la afectividad.
+  
+Las competencias para el desarrollo sostenible se refieren sobre todo a la interacción equilibrada con el medio ambiente, al desarrollo de una conciencia y de prácticas ecológicas, el aprovechamiento sostenible de los recursos naturales y al trabajo cooperativo y solidario en aras de una convivencia pacífica y democrática.
+
+### Capítulo IV Del nivel de educación pre-escolar
+
+**Artículo 21°.-** El nivel pre-escolar propicia la atención integral del niño, incluyendo la estimulación psicoafectiva-sensorial temprana, el desarrollo cognitivo y el cuidado nutricional y de salud de los niños antes de su ingreso al nivel de educación primaria
+
+**Artículo 22°.-** Son objetivos de la educación pre-escolar:
+
+1. Incentivar en el niño el desarrollo de la autoestima y de la identidad propia, el trabajo y la convivencia grupal, la solidaridad y la cooperación, la valoración de lo propio y el respeto a los demás, la sensibilización, comprensión y valoración de todo tipo de diferencias y el amor a la naturaleza.
+2. Propiciar el desarrollo integral del niño en los planos psicoafectivo, comunicativo, cognitivo, sociocultural, artístico creativo, psicomotor, sensorial, deportivo y ético, de manera que esté en condiciones óptimas para el aprendizaje y adquiera autonomía e identidad propia.
+3. Estimular, por medio del juego y mecanismos diversos, la capacidad de aprendizaje del niño a través de programas y actividades que desarrollen su curiosidad, creatividad y expresividad, así como su capacidad de exploración, a fin de contribuir a la estructuración del pensamiento y de la comunicación oral y gráfica.
+4. Coordinar acciones específicas con los organismos pertinentes para prevenir y atender las dificultades de desarrollo físico, psíquico, social y de aprendizaje mediante el apoyo dirigido a las deficiencias detectadas, a fin de favorecer la integración en el nivel pre-escolar.
+5. Fomentar procesos de capacitación permanente del personal docente del nivel pre-escolar para responder a las necesidades de orden psicopedagógico y de atención primaria de la salud.
+6. Promover el acercamiento entre la escuela, la familia y la comunidad para dinamizar y enriquecer el proceso educativo desde la propuesta pedagógico- social, con miras a mejorar la calidad de vida de los niños.
+7. Promover la articulación entre los niveles de educación pre-escolar y de educación primaria mediante la búsqueda de una línea de continuidad pedagógico-institucional para superar el desfase existente.
+
+**Artículo 23°.-** El Nivel Pre-Escolar atiende a los niños de 0 a 6 años de edad y abarca dos ciclos:
+
+1. El ciclo de la estimulación y el desarrollo temprano, de carácter no escolarizado y no formal, para niños de 0 a 5 años de edad, confiado a la familia y a la comunidad, bajo el patrocinio de entidades publicas y privadas.
+2. El ciclo de preparación, de carácter escolarizado, de un año de duración, para niños con 5 años de edad, que dispone y alista para el aprendizaje en el Nivel Primario y que debe irse generalizando basta ser declarado obligatorio.
+
+**Artículo 24°.-** En las zonas rurales y urbanomarginales, el primer ciclo de la educación pre-escolar sera también atendido a través de centros que brinden atención integral al menor, sobre todo en las áreas de salud y educación. Las Secretarias Nacionales de Educación y de Salud organizarán programas intersectoriales, en coordinación con los organos de Participación Popular reconocidos en el Decreto Supremo de la Estructura de Participación Popular en la Educación y a organismos e instituciones interesados en sumar su recursos humanos y financieros a los esfuerzos que despliega el Estado para promover el incremento de cobertura de la educación pre-escolar.
+
+**Artículo 25°.-** En las unidades educativas que ofrezcan el primer ciclo de la educación primaria, pero que aún no cuenten con servicios en el nivel pre-escolar y tengan 15 alumnos o menos para el I año del primer ciclo de la educación primaria, el ciclo escolarizado de un año de este nivel pre-escolar comienza a generalizarse a partir de la publicación del presente Decreto, confiándole dicha responsabilidad al maestro que atiende a los niños de 6 años de edad o a los del primer ciclo, para que, bajo la modalidad de multigrado, atienda tanto a los niños de 5 años de edad como a los otros. Las unidades educativas que ya ofrecen un año obligatorio o más de educación pre-escolar, los programas no escolarizados de educación pre-escolar y los Wawa Wasi y Wawa Uta continuarán ofreciendo dichos servicios en las mismas condiciones en las que lo han venido haciendo y, a partir de este Decreto, se regirán por el nuevo currículo y por los nuevos programas de estudios para este nivel.
+
+**Artículo 26°.-** La Secretaría Nacional de Educación, a través de su Unidad Nacional de Servicios Técnico-Pedagógicos, como parte de las tareas que son responsabilidad de la Subsecretaría de Educación Superior, Ciencia y Tecnología elaborará los lineamientos de política de formación docente así como los programas de estudio respectivos y, por acuerdo con los Institutos Normales Superiores y las Universidades interesadas, establecerá todos los aspectos relativos a la formación de profesores para el nivel pre-escolar.
+
+**Artículo 27°.-** La Secretaría Nacional de Educación es la encargada de elaborar cada bienio, planes nacionales de acción para promover la educación pre-escolar, tendiendo a la universalización gradual y progresiva de este nivel educativo, tanto en su modalidad escolarizada y formal como en aquella a cargo de la familia y la comunidad. Dichos planes de acción deben incluir también la realización de actividades de sensibilización y comunicación social, a llevarse a cabo, en coordinación con el Ministerio de Comunicación Social, para promover la importancia de la educación pre-escolar.
+
+### Capítulo V Del nivel de educación primaria
+
+**Artículo 28°.-** El nivel de educación primaria atiende la formación integral del educando en los dominios cognoscitivo, afectivo y psicomotor, asegurando la adquisición y el desarrollo de competencias esenciales que posibiliten el aprendizaje por cuenta propia y que satisfagan las necesidades básicas de aprendizaje de los educandos asi como las necesidades de la sociedad a la que pertenecen.
+
+**Artículo 29°.-** El nivel de educación primaria es obligatorio y merece la atención prioritaria del Estado. Atiende a todos los educandos a partir de los 6 años de edad, hayan o no cursado estudios en el nivel de educación pre-escolar.
+
+**Artículo 30°.-** Son objetivos de la educación primaria:
+
+1. Proporcionar una formación básica orientada hacia la formación integral del educando que lo prepare para niveles superiores de aprendizaje, para aprender y continuar aprendiendo por cuenta propia y también para integrarse de manera competitiva al mundo del trabajo y ser miembro activo del grupo sociocultural del cual forma parte, así como del país en su conjunto.
+2. Reforzar el desarrollo psicoafectivo, psicomotor, sensorial, cognitivo, comunicativo, artístico expresivo, físico y ético del niño.
+3. Incentivar la creatividad del niño, el cultivo y desarrollo del lenguaje oral y escrito, el desarrollo del pensamiento y de la comprensión de la lectura, a través de su lengua materna, así como la apropiación y utilización de conocimientos y saberes científicos y tecnológicos tendientes a la solución de problemas de la vida cotidiana y al fomento de la conciencia histórica y del sentimiento de pertenencia a su grupo sociocultural específico, su país, su región, su continente y al género humano en general.
+4. Fomentar el bilingüismo individual y social, incentivando en los educandos cuya lengua materna es el castellano el aprendizaje de una lengua nacional originaria como segundo idioma, garantizando el derecho de los educandos hablantes de una lengua nacional originaria al conocimiento, uso y disfrute de su propio idioma, y asegurando que todos los educandos del país posean un manejo apropiado y eficiente del castellano como lengua de encuentro y diálogo intercultural e interétnico.
+5. Desarrollar en los educandos la actitud y el pensamiento científicos, la práctica investigativa y un permanente espíritu crítico y reflexivo que permitan la construcción permanente del conocimiento.
+6. Fomentar la autoestima, la identidad y seguridad personal; el sentimiento de la autonomía; el trabajo y la convivencia grupal; la solidaridad, la cooperación y la ayuda mutua; el sentido de justicia, paz y democracia; la valoración de lo propio y el respeto a los demás; la sensibilidad frente a las diferencias y su aceptación, comprensión y valoración; así como el respeto a la naturaleza, la preservación del medio ambiente y el aprovechamiento sostenible de los recursos naturales.
+7. Propiciar el conocimiento y comprensión de la realidad nacional, así como de la naturaleza multiétnica, pluricultural y multilingüe del país, con vistas a la toma de conciencia sobre la necesidad de construir unidad en la diversidad y valorar críticamente la riqueza cultural que nos caracteriza para aprovechar crítica y creativamente los recursos, conocimientos, saberes y valores de nuestros pueblos originarios y de la cultura universal, con vistas a un desarrollo humano y económico equitativo y sostenible.
+8. Fomentar la búsqueda de soluciones a los problemas de la vida cotidiana, a través de la aplicación y aprovechamiento de los conocimientos y competencias adquiridos.
+9. Incorporar el trabajo como metodología pedagógica en tanto puente y síntesis entre teoría y práctica.
+10. Incentivar en los educandos un mayor y mejor conocimiento y cuidado del cuerpo, la adquisición de hábitos de higiene, desarrollo físico y bienestar corporal, la preservación de la salud y la práctica del deporte.
+11. Dinamizar y enriquecer el proceso educativo desde una propuesta pedagógico-social que se organiza en torno al acercamiento y la articulación entre escuela, familia y comunidad para mejorar la calidad de vida de los niños.
+12. Promover la articulación del nivel de educación pre-escolar con el de educación primaria, mediante la búsqueda de una línea de continuidad pedagógico- institucional.
+
+**Artículo 31°.-** El nivel primario tiene una estructura flexible y desgraduada que permite a los educandos avanzar a su propio ritmo de aprendizaje y según sus propias maneras de aprender, intereses y desarrollo cognitivo y social, hasta el logro de los objetivos de cada uno de los ciclos que componen este nivel.
+
+**Artículo 32°.-** El nivel de educación primaria tiene ocho años de duración y se organiza en tres ciclos.
+
+**Artículo 33°.-** Los ciclos del nivel de educación primaria son:
+
+1. El Ciclo de Aprendizajes Básicos, primero del nivel primario y de tres años de duración promedio, pone énfasis en la adquisición de competencias que posibilitan la comunicación oral y escrita, el desarrollo de la abstracción, del pensamiento lógico-matemático y, en particular, del manejo de operaciones básicas en la resolución de problemas. El ciclo hace uso oral y escrito de la lengua materna de los educandos.
+     
+   Para los educandos de idioma materno o idioma de uso predominante distinto al castellano, este ciclo incluye, además del desarrollo de la lengua propia, el aprendizaje oral del castellano como segunda lengua y la iniciación en el uso escrito de este idioma, desde el momento en que lean y escriban en su lengua materna.
+     
+   Para los educandos que tienen el castellano como lengua materna, este ciclo puede incluir también el aprendizaje oral y escrito de un idioma nacional originario como segunda lengua.
+2. El Ciclo de Aprendizajes Esenciales, segundo del nivel primario, también de tres años de duración promedio, pone énfasis en la aplicación de las competencias desarrolladas en el ciclo anterior en cuanto a la expresión oral y escrita en lengua materna, al pensamiento lógico-matemático y a otros conocimientos y mecanismos de resolución de problemas, para asegurar la apropiación de métodos y procedimientos de lectura y análisis de la realidad histórica, social, cultural y natural, adecuados a la edad de los educandos y a su nivel de comprensión y abstracción.
+     
+   En este ciclo, los educandos cuyo idioma materno o de uso predominante es distinto al castellano, además de desarrollar la lengua propia, refuerzan su aprendizaje oral y escrito del castellano como segunda lengua.
+     
+   Los educandos que tienen el castellano como lengua materna o como idioma de uso predominante, pueden también profundizar su aprendizaje del idioma nacional originario que hubieren iniciado en el primer ciclo o, en su defecto, comenzarlo.
+3. El Ciclo de Aprendizajes Aplicados, tercero y último del nivel primario, de dos años de duración promedio, pone énfasis en la aplicación de las competerías, conocimientos y valores adquiridos en los ciclos anteriores para solucionar problemas de la vida cotidiana y desarrollar la capacidad para enfrentarse a situaciones nuevas. El ciclo también inicia a los educandos en los campos de los aprendizajes tecnológicos, de computación y ocupacionales y da importancia al desarrollo de la conciencia histórica y de la identidad individual y social del educando.
+     
+   Los educandos cuyo idioma materno o de uso predominante es distinto al castellano consolidan su aprendizaje oral y escrito del castellano como segunda lengua, además de desarrollar el manejo de su lengua materna.
+     
+   Los educandos que tienen el castellano como lengua materna o como idioma de uso predominante, pueden también consolidar su aprendizaje del idioma nacional originario que hubieren iniciado en ciclos anteriores, tanto a nivel oral como escrito o, en su defecto, comenzarlo.
+
+**Artículo 34°.-** El currículo de la educación primaria comprende el desarrollo de las siguientes áreas:
+
+1. Lenguaje y Comunicación: comprende el desarrollo de la lengua materna del educando, tanto a nivel oral como escrito; considera las dimensiones de la comunicación intrapersonal e interpersonal, la comprensión auditiva, la compresión lectora, la expresión oral, la expresión escrita, la comunicación visual, simbólica y gráfica, el enriquecimiento del léxico y la reflexión sobre la lengua; forma a los educandos como lectores y como productores de textos que saben buscar información, procesarla, valorarla y utilizarla tanto dentro
+     
+   como fuera del aula; y comprende la adquisición de un segundo idioma con vistas a su manejo y uso eficiente.
+     
+   Para los educandos hablantes de alguna de las lenguas originarias, sean monolingües o bilingües, el área de Lenguaje y Comunicación comprende dos líneas de acción educativa: lengua materna y castellano como segunda lengua, en las cuales desarrollan las competencias señaladas para el área. Para los niños monolingües hablantes de castellano debería comprender también el aprendizaje de una lengua nacional originaria.
+2. Matemática: desarrolla la abstracción por medio de diversas formas de razonamiento y de la capacidad de comprender diversos modos de procesar información matemática y de utilizar la matemática para reconocer, plantear y resolver problemas. Pone énfasis en procesos y en el desarrollo de competencias que posibiliten el establecimiento de relaciones, la anticipación y verificación de resultados, la comunicación e interpretación de resultados, la estimación de resultados de cálculo y mediciones, así como la destreza en el cálculo retlexivo y en el uso de instrumentos de medición, dibujo y cálculo; al mismo tiempo, pone especial cuidado en el desarrollo de actitudes de valoración de la etnomatemática, a fin de despertar' su interés y la curiosidad por continuar explorándola, descubriéndola y utilizándola.
+3. Ciencias de la Vida: comprende el desarrollo de competencias relacionadas con la comprensión de procesos, la apropiación y manejo de métodos y procedimientos de las ciencias sociales, las ciencias naturales y la ecología para lograr una mejor lectura de la realidad sociocultural y del medio ambiente; parte de la identificación del entorno inmediato y significativo para el niño y de los elementos que se encuentran en la realidad natural y social para iniciar el desarrollo y ejercicio de la interrogación y la reflexión y del pensamiento científico en general; aplica principios metodológicos de las ciencias sociales y naturales, para resolver problemas cotidianos, elaborar y ejecutar proyectos, y valora la contribución de estas ciencias y de sus aplicaciones al desarrollo de la humanidad y, en particular, al mejoramiento de la calidad de vida.
+4. Expresión y Creatividad: prepara para el descubrimiento de la sensibilidad estética y el desarrollo de la capacidad creadora, haciendo uso del cuerpo, de la mente y de los sentimientos; para que el educando se exprese mediante las artes plásticas, las artes musicales, la danza, la mímica, las artes escénicas, el atletismo y los deportes, respetando las formas de expresión, sensibilidad y creatividad de las diversas culturas nacionales.
+5. Tecnología y Conocimiento Práctico: desarrolla la creatividad tecnológica y el interés del niño por las aplicaciones prácticas de las ciencias y la capacidad de imaginar soluciones tecnológicas relacionadas con problemas prácticos y actividades productivas; enfatiza el análisis critico de los objetos técnicos, a partir de la comprensión de su funcionamiento, las razones de su creación y el contexto en el cual fueron construidos, por lo que considera también tecnologías tradicionales y apropiadas; prioriza el desarrollo y apropiación de competencias y procedimientos técnicos utilizados en la actividad productiva y prepara a los educandos en la capacidad de crear y construir herramientas y artefactos que permitan solucionar problemas de la vida diaria.
+
+**Artículo 35°.-** En el primer ciclo de la educación primaria se prioriza las áreas de Comunicación y Lenguaje, Matemática y Expresión y Creatividad; a ellas se añade en el segundo ciclo el área de Ciencias de la Vida; y, en el tercero, el área de Tecnología y Conocimiento Práctico. Sin embargo, todas y cada una de estas áreas están presentes durante la Educación Primaria, siguiendo enfoques de globalización y de correlación de contenidos.
+
+**Artículo 36°.-** Al concluir sus estudios en el nivel primario, los educandos reciben un Certificado de Educación General y de Aptitud Laboral.
+
+**Artículo 37°.-** La Secretaría Nacional de Educación, a través de la Unidad Nacional de Servicios Técnico-Pedagógicos, como parte de las tareas a cargo de la Subsecretaría de Educación Superior, Ciencia y Tecnología, norma las políticas generales de formación docente para las diversas modalidades de la educación primaria, incluyendo especialmente la formación de maestros de educación intercultural bilingüe y de maestros de idiomas originarios como segunda lengua para apoyar programas de enseñanza de estos idiomas a los educandos de habla castellana; y elabora los planes y programas respectivos de los Institutos Normales Superiores y coordina con las Universidades interesadas todos los aspectos relativos a la formación de profesores para educación primaria.
+
+### Capítulo VI Nivel de educación secundaria
+
+**Artículo 38°.-** El nivel secundario consolida los aprendizajes logrados en el nivel primario y prepara a los adolescentes para su incorporación ál mundo del trabajo o para continuar estudios superiores, y para su integración como miembros activos y responsables del país y su grupo sociocultural.
+
+**Artículo 39°.-** El nivel secundario tiene también una estructura flexible y desgraduada que permite a los educandos avanzar a su propio ritmo de aprendizaje y según sus propias maneras de aprender, sus intereses y su desarrollo cognitivo y social, hasta el logro de los objetivos de cada uno de los ciclos que componen este nivel.
+
+**Artículo 40°.-** Son objetivos de la educación secundaria:
+
+1. Proporcionar una formación complementaria que, sobre la base de la consolidación y reforzamiento de los aprendizajes adquiridos, prepare a los educandos para niveles superiores de aprendizaje, para aprender y continuar aprendiendo por cuenta propia y también para integrarse de manera competitiva al mundo del trabajo y ser miembros activos y responsables del país y del grupo sociocultural del cual forman parte.
+2. Proporcionar una formación orientada hacia el desarrollo humano y sostenible cuyas premisas sean la equidad étnica y social, la equidad entre hombres y mujeres, el uso sostenible del medio ambiente, la preservación de los recursos naturales y culturales, el crecimiento socioeconómico del país el desarrollo de un profundo sentido de la ética y de la responsabilidad ciudadana.
+3. Fomentar la autoestima, la identidad y seguridad personal y el espíritu de autonomía y autorregulación, el trabajo y la convivencia grupal, la solidaridad, la cooperación y la ayuda mutua, el sentido de justicia y paz, la valoración de lo propio y el respeto a los demás, el sentido de reciprocidad, la sensibilidad frente a las diferencias y su comprensión, la valoración y el cultivo del sentido estético y artístico, así como el desarrollo de una actitud responsable frente a la familia, la comunidad, el grupo sociocultural y el país, participando de manera activa y responsable en el ejercicio de la ciudadanía y en la construcción de la democracia.
+4. Desarrollar la construcción permanente del conocimiento, la actitud científica y tecnológica, la práctica investigativa va, la capacidad creativa, el espíritu crítico y reflexivo y la adquisición de competencias que posibilitan la resolución de problemas, y la aplicación crítica y reflexiva de nuevos productos científico-tecnológicos que contribuyan a mejorar la calidad de vida
+5. Propiciar el conocimiento y comprensión de la realidad nacional así como de la naturaleza multiétnica, pluricultural y multilingüe del país, con vistas a tomar conciencia de la necesidad de construir unidad en la diversidad, valorar críticamente nuestra riqueza cultural y aprovechar conscientemente los recursos, conocimientos, saberse y valores de nuestras culturas nacionales de forma que contribuyan a un desarrollo humano y económico que sea a la vez equitativo y sostenible.
+6. Fomentar el bilingüismo individual y social, incentivando en los educandos cuya lengua materna sea el castellano el aprendizaje de una lengua nacional originaria como segundo idioma, garantizando el derecho de los educandos hablantes de una lengua nacional originaria al conocimiento, uso y disfrute de su propio idioma, y asegurando a todos los educandos del país el manejo apropiado y eficiente del castellano como lengua de encuentro y diálogo intercultural e interétnico, poniendo énfasis en la lectura comprensiva y crítica, la escritura creativa y personal y la comprensión del funcionamiento de este idioma.
+7. Incentivar en los educandos hispanohablantes el aprendizaje y manejo de una lengua nacional originaria como segunda lengua, y en todos los educandos del pais el aprendizaje y manejo de un idioma extranjero, además de la valoración de los idiomas como medio de expresión.
+8. Propiciar la valoración de la literatura universal y de toda creación artística; poniendo énfasis en la literatura boliviana oral y escrita, producida en castellano y en otros idiomas nacionales, y priorizando también la literatura latinoamericana.
+9. Impulsar el conocimiento, manejo y uso de otros tipos de lenguaje, gráficos, simbólicos, icónicos (de imágenes), audiovisuales, etc., poniendo énfasis en la interpretación y comprensión de los mecanismos a los que recurren.
+10. Fomentar la búsqueda de soluciones a problemas de la vida cotidiana, de su comunidad y del país, a través de la aplicación y aprovechamiento de los conocimientos y competencias adquiridos e integrados a los propios, e incorporando el trabajo como metodología de aprendizaje, en tanto síntesis entre teoría y práctica y mecanismo que le permita al educando descubrir su orientación vocacional y buscar la información pertinente.
+11. Incentivar en los educandos el conocimiento, cuidado y bienestar personal, la adquisición de hábitos de higiene, la planificación familiar, el manejo responsable y afectivo de su sexualidad, la relación entre sexualidad y afectividad, la preservación de la salud, valorando las repercusiones de determinadas conductas sobre la misma, así como la valoración de la calidad de vida y la práctica del deporte.
+12. Alertar sobre las consecuencias tanto físicas como mentales del uso y consumo de todo tipo de sustancias naturales o artificiales que dañan la salud y prevenir el uso de drogas y estupefacientes.
+13. Educar en los valores y promover actitudes reflexivas que permitan al educando situarse como individuo capaz de relacionar su existencia y su presencia en el mundo a partir de la consciencia trascendente.
+
+**Artículo 41°.-** El nivel de educación secundaria está destinado a la población escolar que, a partir de los 14 años de edad, acredite haber desarrollado las competencias establecidas para el nivel primario. Tiene una duración de cuatro años y está estructurado en dos ciclos.
+
+**Artículo 42°.-** Los ciclos del nivel secundario son:
+
+1. El Ciclo de Aprendizajes Tecnológicos, común para todos los estudiantes y de dos años de duración promedio, está destinado a consolidar y profundizar los aprendizajes logrados durante la educación primaria en cada una de las áreas auriculares de dicho nivel; enfatiza la aplicación de métodos y procedimientos científico-tecnológicos para la solución de problemas y para abordar situaciones nuevas; promueve el desarrollo de conocimientos y habilidades técnicas relacionadas con alguna disciplina especifica, planificada en las instancias departamentales, de manera que guarde relación con las necesidades de la región en materia de preparación de recursos humanos. Al concluir este ciclo el educando recibe un diploma que lo acredita como Técnico Básico en una mención determinada y, si lo desea, puede continuar sus estudios en el ciclo siguiente.
+2. El Ciclo de Aprendizajes Diferenciados, de dos años de duración promedio, ofrece dos opciones: aprendizajes técnicos-medios y aprendizajes científico- humanísticos.
+   1. La opción de Aprendizajes Técnicos-Medios complementa la formación adquirida en el ciclo anterior, profundizando en las competencias necesarias para incorporarse al mundo laboral, por lo que además ofrece la posibilidad de especialización en alternativas ocupacionales planificadas en instancias departamentales, de manera que guarden relación con las necesidades de la región en materia de preparación de recursos humanos. A su conclusión el educando recibe un Diploma de Bachiller Técnico en la mención escogida, equivalente al Titulo de Técnico Medio. El Bachiller Técnico puede seguir estudios superiores para obtener el Título de Técnico Superior en Institutos Técnicos Superiores o Institutos Tecnológicos Superiores.
+   2. La opción de Aprendizajes Científico-Humanísticos también complementa la formación adquirida en el ciclo anterior, profundizando en competencias necesarias para seguir estudios universitarios o de formación docente. Esta opción ofrece el educando diversas alternativas curriculares para profundizar en determinadas áreas del conocimiento. Los objetivos y contenidos de este ciclo son formulados y revisados cada cinco años, previa evaluación de necesidades y resultados de aplicación, por la Secretaría Nacional de Educación, a través de la Subsecretaría de Educación pre-Escolar, Primaria y Secundaria, en coordinación con la universidad pública y la privada y con representantes de Institutos Normales Superiores. Para el efecto se conformarán comisiones mixtas de diseño funicular que, a invitación de la Secretaría Nacional de Educación, analizarán los documentos de trabajo y las propuestas curriculares. A la conclusión del ciclo en la opción de Aprendizajes Científico-Humanísticos, el educando recibe, un Diploma de Bachiller Humanístico en la mención escogida, que lo habilita para inscribirse en las carreras de pre-grado que ofrezcan Universidades, los Institutos Militares u otros.
+
+**Artículo 43°.-** El currículo de la educación secundaria comprende el desarrollo de las siguientes áreas:
+
+1. Comunicación y Lenguaje: profundiza el desarrollo de las competencias relacionadas con las dimensiones de la comunicación intrapersonal e interpersonal, con el manejo y uso apropiado y eficiente de la lengua materna del educando y de una segunda lengua, tanto a nivel oral como escrito; aborda conceptos básicos y necesarios de lingüística y sociolingüística; inicia a los educandos en el aprendizaje de un idioma extranjero a nivel oral y escrito, así como en la apreciación de la literatura, oral y escrita, como parte de la expresión social, cultural y artística de los pueblos; introduce la temática de los medios de comunicación social y profundiza en la comprensión y uso del lenguaje gráfico, audiovisual, icónico (de imágenes) y simbólico.
+2. Matemática: posibilita el conocimiento y la aplicación de técnicas diversas de planteo y resolución de problemas matemáticos; cultiva niveles superiores de abstracción; desarrolla la capacidad de enfrentar, individual o grupalmente, situaciones problemáticas abiertas, aplicando ideas matemáticas en la solución de las mismas y en la obtención optimizada de productos concretos.
+3. Expresión y creatividad: incentiva la constancia y la disciplina en el desarrollo de la expresión corporal, la capacidad creadora de la mente y la expresión plástica, musical, escénica y manual, como la artesanía, la danza, la mímica, el atletismo y los deportes, respetando las formas de expresión, sensibilidad y creatividad de las diversas culturas nacionales.
+4. Ciencías Naturales y Ecología aborda principios, contenidos y procesos de la Biología, la Física y la Química para comprender mejor el mundo y el universo. Los conceptos biológicos básicos se relacionan con temas de interés desde una perspectiva ecológica que destaca la interrelación e interdependencia que se da entre los diversos organismos que habitan el planeta, atendiendo especialmente a las alteraciones y desequilibrios que están comprometiendo la sobrevivencia de diversas formas de vida, incluida la del propio ser humano, y compenetrándose con las concepciones y estrategias de relación equilibrada de los seres humanos con el mundo natural del que forman parte. A partir del conocimiento sobre las relaciones de interdependencia entre materia y energía y entre lo orgánico y lo inorgánico, los educandos desarrollan también la capacidad de enfrentar, individual o grupalmente, situaciones problemáticas abiertas, viendo la posibilidad de aplicar principios físicos y químicos en la solución de las mismas y descubren además posibilidades de utilización racional de la Biología, la Física y la Química para contribuir al bienestar de la humanidad.
+5. Ciencias Sociales: desarrolla principios, contenidos y métodos de la Historia y Sociología para lograr una mejor comprensión de la realidad nacional latinoamericana y mundial así como de los procesos socioeconómicos, políticos y culturales resultantes de hechos ocurridos, para extraer lecciones que permitan proyectarse hacia el futuro; posibilita la identificación de los cambios y la permanencia en la vida de los pueblos, a nivel nacional, latinoamericano y universal, ayudando a tomar conciencia de que las acciones y hechos del presente influyen también en la construcción del futuro; fomenta actitudes de investigación del pasado y del presente, explorando nociones básicas de antropología cultural y otras disciplinas sociales.
+6. Psicología, Filosofía. Lógica y Etica: aborda el conocimiento de múltiples concepciones sobre el ser, el conocer y el actuar, las maneras de estructuración del pensamiento, el conocimiento de los comportamientos humanos y de las maneras de concebir la trascendencia de diversas culturas, a fin de motivar la reflexión sobre la propia vida moral, espiritual e intelectual y sobre nuestros propios comportamientos.
+7. Tecnología y Computación: permite al educando conocer y aplicar diversas maneras de procesar información, distintos lenguajes y procedimientos que hacen posible el desarrollo de sistemas sencillos y el uso de aplicaciones informáticas para procesamiento de textos, de información cuantiosa, cálculos complejos, etc; permite descubrir las posibilidades de uso de la computadora y de otros productos tecnológicos para desarrollar procesos de trabajo complejos en menor tiempo.
+8. Especialización Ocupacional: capacita en el ejercicio de la especialidad elegida por el estudiante, haciendo posible su incorporación competente en el mercado de trabajo. Los conocimientos que no se adquieran en otras áreas curriculares del ciclo se introducirán en el plan de estudios de la especialidad.
+
+**Artículo 44°.-** El primer ciclo de la educación secundaria prioriza las áreas de Comunicación y Lenguaje, Matemática, Expresión y Creatividad, Ciencias naturales y Ciencias sociales. Las Ciencias Naturales priorizan contenidos de la Biologia y la Física. En este ciclo se incide además en Tecnología y Computación y en la orientación vocacional, y se inicia a los educandos en una especialización ocupacional en una de las siguientes ramas: Agrícola. Artesanal, Comunicacional, Comercial, Computacional, Industrial y Salud A estas ramas ocupacionales se pueden sumar otras como resultado del análisis de necesidades que se haga en cada distrito y departamental.
+
+**Artículo 45°.-** El segundo ciclo de la educación secundaria, en su opción de Bachillerato Técnico, enfatiza las áreas de Comunicación y Lenguaje, Matemática, Ciencias Naturales y Tecnología y Computación. El área de Ciencias Naturales prioriza contenidos de la Física y la Química. En este ciclo se consolida y profundiza en la especialización ocupacional escogida en el primer ciclo.
+
+**Artículo 46°.-** El segundo ciclo de la educación secundaria, en su opción de Bachillerato Humanístico, enfatiza las áreas de Comunicación y Lenguaje, Matemática, Ciencias Naturales, Ciencias Sociales, y Psicología, Filosofía, Lógica y Ética. El área de Ciencias Naturales prioriza contenidos de la Física y la Química.
+  
+La opción de Bachillerato Humanístico comprende dos etapas y una variedad de alternativas u ofertas curriculares En la primera etapa los educandos tienen la posibilidad de elegir entre dos ofertas curriculares determinadas: una que complementa y profundiza las competencias relacionadas con las Ciencias Naturales y la Matemática y otra que complementa y profundiza las competencias relacionadas con las Ciencias Sociales y con el área de Comunicación y Lenguaje La primera etapa tiene un año promedio de duración.
+  
+En la segunda etapa los educandos tienen una posibilidad adicional de elegir más específicamente un ámbito de profundización científico-humanístico entre cinco ofertas curriculares: Matemática e Informática, Comunicación y Lenguaje, Ciencias Naturales y Biológicas, Ciencias Sociales, y Pedagogía Artículo 47° Las unidades educativas de nivel secundario pueden ofrecer, bajo la opción Científico-Humanística, una especialización en Pedagogía, conducente a un Bachillerato Humanístico con mención en Pedagogía que habilite a los educandos para ejercer la docencia en el nivel primario. En este caso, el programa de estudios enfatiza las aéreas de Comunicación y Lenguaje. Matemática, Psicología, Filosofía, Lógica y Ética, a las cuales se añade un área de Ciencias de la Educación y Didácticas.
+
+**Artículo 48°.-** Los alumnos que concluyen sus estudios secundarios y obtienen un Diploma de Bachiller Técnico, pueden obtener además, previo examen de equivalencia, el Diploma de Bachiller Humanístico si desearen seguir estudios superiores en Universidades, Institutos Normales Superiores, Institutos Militares u otros centros de este nivel que exigieren este requisito. También pueden acceder al examen de equivalencia los Bachilleres Humanísticos que desearen obtener también el Diplomas de Bachiller Técnico para seguir estudios superiores en Institutos Técnicos Superiores, Institutos Tecnológicos Superiores u otros centros de educación superior que exigieren este requisito.
+
+### Capítulo VII Del nivel de educación superior
+
+**Artículo 49°.-** El nivel de educación superior comprende la educación superior universitaria que es responsabilidad de las universidades públicas y privadas; y la educación superior no universitaria, de responsabilidad estatal y privada: todas bajo la tuición de la Secretaría Nacional de Educación.
+
+**Artículo 50°.-** Son funciones de las universidades públicas y privadas: la docencia, la investigación y la difusión cultural, desarrolladas a través de actividades académicas y administrativas normadas por sus Estatutos.
+  
+Es objetivo de la educación superior no universitaria brindar formación profesional y práctica, de acuerdo con los intereses y vocación de los estudiantes y la potencial estructura ocupacional del país.
+
+**Artículo 51°.-** Las Universidades Públicas otorgan diplomas académicos y títulos en Provisión Nacional a nivel de postgrado en programas de Doctorado y Maestría; y a nivel de grado en programas de Licenciatura y Técnicos Superiores. Las Universidades Privadas otorgan diplomas académicos para los mismos grados universitarios para los cuales La Secretaría Nacional de Educación concede el correspondiente Título en Provisión Nacional, conforme a reglamento específico.
+
+**Artículo 52°.-** Es requisito indispensable para postular a carreras universitarias correspondientes al grado de Licenciatura y para acceder a los Institutos Normales Superiores, la obtención del Diploma de Bachiller en Humanidades; y el título de Licenciatura para el ingreso a un programa de postgrado. El diploma de Bachiller Técnico es requisito único para la postulación a Institutos Superiores en carreras de nivel Técnico Superior. Los egresados de los Institutos Normales Superiores podrán acceder a los estudios de Licenciatura con el reconocimiento o acreditación de sus estudios y diplomas correspondientes.
+
+**Artículo 53°.-** El grado de Técnico Superior corresponde a por lo menos 3 años de estudios posteriores al de Bachiller Técnico.
+
+**Artículo 54°.-** Los estudios para obtener el grado de Técnico Superior son impartidos en las Universidades, en los Institutos Técnicos Superiores y en los Institutos Normales Superiores, públicos y privados.
+
+**Artículo 55°.-** Los perfiles de desempeño profesional, planes y programas de estudios y demás normas que rigen el funcionamiento de las Universidades Privadas, Institutos Normales Superiores e Institutos Técnicos Superiores privados o dependientes de la Secretaría Nacional de Educación, serán certificados periódicamente por el Consejo Nacional de Acreditación y Medición de la Calidad (CONAMED), y merecerán tratamiento especifico, de acuerdo a Resolución Secretarial, para continuar funcionando, iniciar su desactivación o ser clausurados.
+
+**Artículo 56°.-** Las nuevas Universidades Privadas y los nuevos Institutos Técnicos Superiores Privados sólo podrán sustentarse en Fundaciones de carácter privado que garanticen el funcionamiento permanente de dichas instituciones y su constante superación. Los correspondientes permisos de funcionamiento, así como la autorización de nuevas carreras, serán otorgados mediante Resolución Secretarial una vez cumplidos los requisitos exigidos por reglamento emanado de la Secretaría Nacional de Educación y la certificación ex-ante, obligatoria, expedida por el CONAMED. Para el mejor servicio y equipamiento de los Institutos Técnicos Superiores públicos en las áreas industrial, agropecuaria y comercial, la Secretaría Nacional de Educación promoverá la creación de Fundaciones de carácter mixto, con participación de los sectores empresariales y laborales, las que, además, podrán atender la capacitación de mano de obra calificada en Centros de Capacitación Laboral. Artículo 57° El Sistema Nacional de Educación Técnica (SINETEC) dependerá directamente de la Subsecretaría de Educación Superior, Ciencia y Tecnología y se organizará en el nivel central y departamental para ejercer supervisión de los agentes públicos y privados de la educación superior no universitaria, velando por el cumplimiento de las normas y reglamentos aprobados por la Secretaría Nacional de Educación, a propuesta de la Subsecretaría de Educación Superior, Ciencia y Tecnología. Es función del SINETEC difundir los conocimientos técnicos y tecnológicos para contribuir al permanente mejoramiento de planes y programas de los Institutos y la competitividad tecnológica del país.
+
+## Título III De la educación alternativa
+
+### Capítulo VIII De las disposiciones generales
+
+**Artículo 58°.-** La Educación Alternativa es un área suplementaria y complementaria a la educación formal, normada y coordinada por la Secretaría Nacional de Educación a través de la Subsecretaría de Educación Alternativa; está a cargo de organismos gubernamentales y no gubernamentales que dispongan de recursos humanos y financieros específicos para la atención de toda persona que, por diversas razones, no pudo iniciar o completar estudios escolares.
+
+**Artículo 59°.-** La Educación Alternativa se ofrece bajo diferentes modalidades y estrategias acordes con los intereses, necesidades y posibilidades de los educandos a los que atiende, así como en función de los recursos humanos, financieros y materiales con que cuentan las instancias organizadoras. Son modalidades de la Educación Alternativa:
+
+1. La Educación de Adultos
+2. La Educación Permanente
+3. La Educación Especial
+
+**Artículo 60°.-** La organización curricular y los planes y programas de la Educación Alternativa, sobre todo en sus modalidades de Educación de Adultos y de Educación Especial, se rigen en términos generales por lo estipulado para la Educación Primaria, la Educación Secundaria y la Educación Técnica de la Educación Formal, salvo las adecuaciones a que hubiere lugar en términos de contenidos, duración de los ciclos y metodología, de conformidad con los intereses, necesidades, edad y características socioeconómicas y socioculturales de la población usuaria de la Educación de Adultos.
+
+**Artículo 61°.-** La organización de centros y la formulación de todo tipo de programas de Educación Alternativa deben responder a diagnósticos familiares, comunales, microregionales y nacionales, elaborados participativamente con los involucrados en la línea de la Participación Popular. La participación de las OTBs y de las Juntas Escolares y de Núcleo es requisito para la organización de centros y programas de Educación Alternativa.
+
+**Artículo 62°.-** La infraestructura y el equipamiento de los programas y proyectos de Educación Alternativa son atendidos por los Municipios, a requerimiento de las OTBs y la Juntas Escolares, de Núcleo y Distritales, con recursos de la Participación Popular y los financiamientos específicos producto de convenios o acuerdos especiales con instituciones privadas y organismos internacionales que deseen sumar sus esfuerzos a esta tarea. La organización y administración de centros y programas de Educación Alternativa es de responsabilidad directa de los Núcleos Escolares, las Direcciones Distritales de Educación y los Consejos Municipales en coordinación con las Juntas Escolares, de Núcleo y Distritales.
+
+**Artículo 63°.-** Los objetivos, contenidos y metodología de los programas de Educación Alternativa son definidos por los beneficiarios y las organizaciones ejecutoras, de acuerdo con los reglamentos específicos que proponga la Subsecretaría de Educación Alternativa y apruebe mediante Resolución la Secretaría Nacional de Educación, de conformidad con las políticas y lineamientos del Código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html), y en correspondencia con las necesidades de los participantes y las situaciones específicas y contextos socioeconómicos y socioculturales en los que se desarrollen los programas de Educación Alternativa.
+
+**Artículo 64°.-** La Subsecretaría de Educación Alternativa norma los procedimientos y parámetros para el reconocimiento y evaluación de la formación recibida así como de los oficios adquiridos por experiencia, determinando por Resolución Secretarial los criterios de acreditación para la certificación respectiva, la habilitación laboral y/o la homologación y continuación de los estudios.
+
+**Artículo 65°.-** Los organismos estatales ejecutores de la Educación Alternativa cuentan con apoyo del presupuesto nacional y de la comunidad organizada, así como de financiamientos específicos producto de convenios o acuerdos especiales. Las instancias ejecutoras de naturaleza privada se hacen cargo de la infraestructura, equipamiento y materiales necesarios para las acciones correspondientes, y en materia curricular se rigen por lo dispuesto para el efecto por la Secretaria Nacional de Educación. Artículo 66° Los recursos financieros que se obtuvieren, dentro y fuera del país, para los diferentes programas y proyectos de Educación Alternativa serán materia de fiscalización y evaluación por los órganos competentes del sector y por los órganos de Participación Popular en la educación identificados en el Decreto Reglamentario de Participación Popular en la Educación.
+
+### Capítulo IX De la educación de adultos
+
+**Artículo 67°.-** La Educación de Adultos está destinada a los educandos mayores de 15 años que no pudieron iniciar o completar la educación primaria, la secundaria o ninguna de éstas. Artículo 68° La Educación de Adultos tiene las siguientes características:
+
+1. Es intercultural, de acuerdo con la naturaleza multiétnica, pluricultural y multilingüe del país.
+2. Es bilingüe, cuando atiende a población monolingüe o bilingüe hablante de un idioma originario y propicia el aprendizaje de un idioma originario como segunda lengua cuando atiende a población hablante de castellano.
+3. Es abierta y flexible, responde a las necesidades, intereses y posibilidades de aprendizaje de los educandos y reconoce la existencia de distintos modos y ritmos de aprendizaje propios de los educandos.
+4. Es participativa porque los educandos adultos asumen la corresponsabilidad de la gestión educativa desde una perspectiva de autoeducación y autodesarrollo.
+5. Es integral porque, en respuesta a los requerimientos de aprendizaje de los educandos, establece nexos entre aprendizajes académicos y aquellos ligados a procesos productivos y laborales.
+
+**Artículo 69°.-** La Educación de Adultos se organiza en Educación Primaria de Adultos (EPA), Educación Secundaria de Adultos (ESA) y Educación Juvenil Alternativa (EJA), modalidades que se ofrecen a los educandos a partir de los 15 años de edad. Artículo 70° La Educación Juvenil Alternativa se ofrece a los adolescentes que, por diversas razones de carácter personal, social o económico, no pueden continuar sus estudios en el Area de Educación Formal. Para estos educandos el Sistema Educativo Nacional ofrece modalidades alternativas, escolarizadas y no-escolarizadas, presenciales y a distancia, incluida la formación profesional adquirida por experiencia, que será debidamente evaluada y acreditada para la continuación de estudios, luego de su homologación con el nivel y ciclo respectivo.
+
+**Artículo 71°.-** La Educación Juvenil Alternativa se ofrece también para los adolescentes que, habiendo terminado el Nivel Primario, decidan buscar una capacitación esencialmente técnico-práctica para el trabajo productivo. Los alumnos que no logren concluir el Nivel Primario, pueden también ingresar a esta modalidad en condiciones especiales de ajuste. Esta modalidad tiene por lo general dos años de duración y, a su conclusión otorga el Diploma de Capacitación Laboral.
+
+**Artículo 72°.-** La Secretaría Nacional de Educación norma el desarrollo de programas de Educación de Adultos y de Educación Juvenil Alternativa. Las Unidades Distritales de Servicios Técnico-Pedagógicos coordinan y brindan apoyo técnico a las instituciones que llevan a cabo programas de Educación de Adultos, incluidas las de Educación Juvenil Alternativa.
+
+**Artículo 73°.-** Los estudios realizados en la Educación de Adultos, tanto en el nivel primario, en el secundario, como en la capacitación laboral, ocupacional o artesanal, serán homologados con los de la Educación Formal, según reglamentos específicos, elaborados por la Subsecretaría de Educación Alternativa y aprobados por Resolución Secretarial.
+
+**Artículo 74°.-** La Educación de Adultos comprende también los programas y proyectos de alfabetización y de postalfabetización de adultos, organizados para iniciar a la población iletrada mayor de 15 años en el manejo y uso de la lectura y la escritura en su lengua materna, a fin de estimular la apropiación y uso de estas herramientas para aprender por cuenta propia. Los programas y proyectos de alfabetización destinados a la población que habla una lengua originaria deben incluir en su diseño curricular, además del desarrollo de competencias de lectura y escritura en el idioma originario en una primera fase, la adquisición de competencias comunicativas en el castellano como segunda lengua, tanto a nivel oral como escrito. Los programas y proyectos de alfabetización y postalfabetizacion se articularan a los proyectos de desarrollo integral de las microregiones y regiones, formulados por las OTBs con recursos provenientes de la Participación Popular.
+
+**Artículo 75°.-** La Subsecretaría de Educación Alternativa es el organismo rector de la alfabetización en todo el país y, en tal sentido, establece políticas y normas para el desarrollo de campañas y programas de alfabetización, por lo que todo organismo gubernamental o privado debe coordinar sus acciones con esta Subsecretaría.
+
+**Artículo 76°.-** Los educandos que culminen exitosamente su alfabetización y postalfábetización podrán, si así lo desean, previo examen de suficiencia y acreditación de los aprendizajes alcanzados, continuar sus estudios en la Educación Primaria de Adultos en el ciclo en que sean clasificados. Artículo 77° La Secretaria Nacional de Educación, a través de la Unidad Nacional de Servicios Técnico-Pedagógicos de la Dirección General, como parte de las tareas a cargo de la Subsecretaría de Educación Superior, Ciencia y Tecnología, propondrá lincamientos de política de formación docente, los planes y programas respectivos v coordinará con los Institutos Normales Superiores, los Institutos Técnicos Superiores y las Universidades interesadas todos los aspectos relativos a la formación de profesores y promotores para la Educación de Adultos y para la Educación Juvenil Alternativa.
+
+### Capítulo X De la educación permanente
+
+**Artículo 78°.-** La Educación Permanente es la educación que se prolonga a lo largo de toda la vida, recoge todos los conocimientos y experiencias adquiridos y desarrollados cotidianamente a nivel individual y colectivo. Se caracteriza por estar instituida e impulsada a iniciativa de grupos sociales organizados en respuesta a sus necesidades e intereses en la línea de la Participación Popular.
+
+**Artículo 79°.-** La Educación Permanente tiene por objetivo generar procesos educativos destinados a completar el desarrollo integral, formando recursos humanos capaces de impulsar y dinamizar procesos organizativos en sus comunidades, desde sus propios valores culturales y comprometidos con el bienestar comunitario y la consolidación del poder local para su participación de manera competitiva a nivel nacional.
+
+**Artículo 80°.-** La Educación Permanente tiene las siguientes características:
+
+1. Es abierta porque ofrece posibilidades de acceso que se adecúan a las necesidades de los participantes y sus contextos, ofreciendo a su vez tiempos flexibles de formación.
+2. Es intercultural, en concordancia con la naturaleza multiétnica, pluricultural y multilingüe del país y es además bilingüe cuando las condiciones lo exijan y permitan.
+3. Es participativa porque involucra a la comunidad en la toma de decisiones y en los distintos procesos de diagnóstico, organización, ejecución y evaluación de sus actividades.
+4. Comprende el autoaprendizaje familiar, los procesos de promoción comunitaria en diferentes disciplinas como salud, educación, agricultura, medio ambiente, etc.; cursos cortos para la calificación ocupacional y profesional; actividades puntuales para el complemento de la educación formal (talleres de arte, teatro, música, expresión corporal, computación, etc) que desde diferentes ámbitos, gubernamentales y no gubernamentales, impulsan acciones destinadas al mejoramiento individual.
+
+**Artículo 81°.-** La Secretaría Nacional de Educación, a través de Subsecretaría de Educación Alternativa apoya, fomenta y orienta el desarrollo de los programas de Educación Permanente. Las Unidades Distritales de ServicioTécnico-Pedagógicos coordinan y apoyan técnicamente las iniciativas locales producto del proceso de Participación Popular.
+
+**Artículo 82°.-** Los criterios para la formulación de programas de Educación Permanente deben responder a diagnósticos familiares comunales, microregionales y nacionales, elaborados participativamente con los interesados.
+
+**Artículo 83°.-** En la Educación Permanente, los medios masivos de comunicación (prensa escrita, radio y televisión) constituyen agentes educativos en la medida que cumplen una función social de información y educación y apoyen campañas de divulgación y promoción de acciones comunitarias relacionadas con el bienestar y la estabilidad social. Artículo 84° Las Universidades públicas y privadas, las Casas Municipales de Cultura y la comunidad en general, en coordinación con las Direcciones Departamentales y Distritales de Educación y con otros organismos públicos y privados que demuestren interés al respecto, pueden organizar programas y actividades de Educación Permanente.
+
+### Capítulo XI De la educación especial
+
+**Artículo 85°.-** La Educación Especial de los estudiantes que no presenten problemas de alta dificultad se desarrollará integrándolos a las Unidades Educativas reculares del sistema educativo, bajo la orientación permanente de personal debidamente calificado.
+
+**Artículo 86°.-** La Educación Especial de los niños y adolescentes con deficiencias graves o profundas con compromiso intelectual, físico-biológico, psíquico- afectivo y/o social se confía a la responsabilidad de las entidades especializadas, tanto públicas como privadas, bajo las normas específicas que para el efecto elabore la Subsecretaría de Educación Alternativa. Las instituciones ejecutoras de la Educación Especial cuentan además con el apoyo técnico especializado de este organismo.
+
+**Artículo 87°.-** Los objetivos del apoyo técnico a las instituciones de Educación Especial son los siguientes:
+
+1. Propiciar y apoyar la capacitación permanente de profesionales dedicados a la Educación Especial.
+2. Elaborar planes de prevención y estimulación temprana para el desarrollo óptimo de las potencialidades de niños especiales.
+3. Realizar campañas de concientización, dirigidas a padres, comunidad y sociedad en general, sobre las diferentes posibilidades y necesidades de las personas con discapacidades.
+4. Apoyar la labor de organismos dedicados a proyectos de integración laboral y social de personas con discapacidad.
+5. Propiciar acciones dirigidas a favorecer la integración gradual, a mediano y largo plazo, a la modalidad regular de los educandos atendidos bajo la modalidad especial.
+6. Brindar apoyo técnico a las escuelas bajo la modalidad regular, mediante procesos de capacitación, producción de materiales didácticos y de formación docente para facilitar la integración gradual de niños especiales.
+7. Asegurar que los programas de formación de Asesores Pedagógicos incluyan objetivos y contenidos referidos a la educación especial y, en particular, a la integración de niños especiales a la modalidad regular.
+
+**Artículo 88°.-** La Secretaria Nacional de Educación, a través de la Unidad Nacional de Servicios Técnico-Pedagógicos, como parte de las tareas a cargo de la Subsecretaría de Educación Superior, Ciencia y Tecnología, propondrá lineamientos de política de formación docente para Educación Especial y los planes y programas respectivos para los Institutos Normales Superiores y coordinará con las Universidades interesadas todos los aspectos relativos a la formación de profesores para Educación Especial. De igual forma, estimula la inclusión en todos los planes de formación docente de competencias específicas referidas a la integración de niños con necesidades de aprendizaje especiales que no presenten problemas de alta dificultad.
+
+## Título IV De la gestión curricular
+
+### Capítulo XII De la organización pedagógica
+
+**Artículo 89°.-** Los maestros de cada Unidad Educativa y de cada Núcleo Educativo del país deben reunirse periódicamente para analizar su práctica pedagógica, intercambiar experiencias y construir colectiva y cooperativamente nuevos modos de enseñar, congruentes con la visión de la enseñanza como apoyo y complemento que requiere el aprendizaje del alumno.
+  
+Los talleres de educadores a realizarse en cada unidad educativa y en cada Núcleo Educativo del país deben iniciarse con una reflexión colectiva en torno a la transformación del rol docente y de la práctica pedagógica frontal, que conlleve a que el maestro se convierta en un:
+
+1. Mediador del aprendizaje, para orientar y apoyar permanentemente a sus educandos a que resuelvan problemas y participen activamente en experiencias diversas de aprendizaje.
+2. Iniciador del aprendizaje, para iniciar y ambientar las experiencias de aprendizaje de sus alumnos, y estimular la realización de proyectos y favorecer sus iniciativas particulares.
+3. Modelador de las actividades que desarrollan los alumnos, para ayudarlos, con demostración y ejemplos, a resolver problemas y desarrollar actividades diversas.
+4. Articulador del trabajo de los niños y organizador de tareas y actividades grupales en las que ellos trabajan cooperativamente.
+5. Observador constante y permanente del trabajo y desarrollo de los educandos para ubicar a los niños en niveles de aprendizaje según sus disposiciones, maneras y ritmos de aprender.
+6. Comunicador intercultural, sensible a las diferencias culturales y lingüísticas de sus educandos y capaz de establecer vínculos eficientes y afectivos con sus educandos, que les permitan desarrollar confianza y seguridad en sus propios medios de expresión y tener una mejor disposición para aprender.
+     
+   La Secretaría Nacional de Educación será la responsable de normar, apoyar y evaluar las acciones de capacitación docente que se realicen a nivel distrital y nuclear para garantizar la implantación del nuevo currículo.
+
+**Artículo 90°.-** Para estimular los cambios pedagógicos esperados, los maestros deberán:
+
+1. Reconfigurar el aula como espacio de aprendizaje, creando rincones de aprendizaje, incorporando y elaborando materiales educativos diversos y organizando una biblioteca en cada aula, de manera que ésta se transforme en un espacio atractivo de colaboración y de interacción entre los niños que aprenden y los maestros que enseñan, favorezca el trabajo en grupos y permita que los niños se conviertan en los protagonistas de su propio aprendizaje.
+2. Diversificar los espacios de aprendizaje, contextualizando él aprendizaje en el medio social, cultural y natural inmediato, CONSIDERANDO la cultura local y el medio ambiente inmediato como contextos funcionales de aprendizaje, recurriendo a la lengua local originaria y al habla de la comunidad como herramientas útiles de un aprendizaje significativo y eficiente.
+3. Ambientar el aula con láminas y materiales educativos diversos que estimulen la participación permanente de los educandos en sus propios aprendizajes, utilizando también materiales gráficos y escritos elaborados por ellos, de acuerdo a las tradiciones culturales de las comunidades y alumnos.
+4. Organizar a los niños en grupos de trabajo según sus disposiciones de aprendizaje, a fin de estimular el trabajo cooperativo, el apoyo mutuo y actitudes solidarias.
+5. Incentivar procesos de aprendizaje continuos y permanentes a través de una pedagogía activa que incluya el desarrollo de proyectos, experimentos e investigaciones que realicen los educandos.
+6. Desarrollar en los educandos procesos mentales de orden superior, iniciándolos en la reflexión sobre sus propios aprendizajes.
+
+**Artículo 91°.-** Los maestros, con la colaboración de sus alumnos y de los miembros de la Junta Escolar, deben organizar los rincones de aprendizaje donde los educandos encuentren materiales diversos, muchos de los cuales han sido preparados por ellos, y los junten y ordenen bajo la orientación de sus maestros. La Secretaría Nacional de Educación es la encargada de definir criterios y especificaciones de un plan nacional de equipamiento escolar para la dotación a cada escuela de materiales educativos diversos que los maestros, los educandos y los miembros de la Junta Escolar incorporan a los rincones de aprendizaje.
+
+**Artículo 92°.-** Los maestros, con la colaboración de sus alumnos y de los miembros de la Junta Escolar, deben también organizar una biblioteca de aula. La biblioteca de aula es el rincón de aprendizaje más importante y uno de los recursos que más apoya el aprendizaje de los educandos en el aula reorganizada. La biblioteca de aula es un espacio abierto ubicado en un lugar preferencial del aula al que los alumnos recurren en busca de información o de recreación. El plan de equipamiento escolar elaborado por la Secretaría Nacional de Educación debe también incluir la dotación a cada escuela de materiales escritos diversos, de autores nacionales y extranjeros, escritos en castellano y en lenguas originarias, para ser incorporados a las bibliotecas de aula.
+
+**Artículo 93°.-** La organización, uso, mantenimiento y cuidado de la biblioteca de aula y de los rincones de aprendizaje constituye una tarea colaborativa entre maestros, alumnos y miembros de las Juntas Escolares, por lo que el Consejo de Maestros de cada unidad educativa, en consulta con la Junta Escolar, debe diseñar un plan específico para asignar responsabilidades específicas a quienes participan de esta actividad. Artículo 94° Los Directores de Unidades Educativas y los Consejos de Profesores deben diseñar una estrategia de equipamiento escolar, en la que se incluya lo relativo al mantenimiento y enriquecimiento de las bibliotecas de aula y de los rincones de aprendizaje. Dicha estrategia se someterá a la consideración y aprobación de las Juntas Escolares, a fin de que éstas planteen sus requerimientos de equipamiento escolar ante el Municipio respectivo, según lo dispuesto en la [Ley Nº 1551](https://www.lexivox.org//norms/BO-L-1551.html) de Participación Popular y en el Código de Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html). Para la ejecución de sus estrategias de equipamiento escolar las Juntas Escolares pueden también recurrir a otras instituciones publicas y privadas que deseen contribuir al mejor funcionamiento de las escuelas del país.
+
+**Artículo 95°.-** Para desgraduar la escuela y organizar la nueva estructura curricular en ciclos, se organizará en grupos a los alumnos de un mismo ciclo, según sus capacidades, competencias y necesidades. De esta manera, el aula se organizará en distintos grupos por niveles de aprendizaje que trabajarán simultáneamente con la quía de su maestro. En las unidades educativas polidocentes, donde los alumnos trabajan en aulas diferentes cada una con un grupo de alumnos y un maestro, así como en aquellas donde un maestro trabaja con dos o más grupos de alumnos, los docentes se organizarán en equipos de profesores por ciclo. El equipo de profesores de un determinado ciclo atenderá cooperativamente a los educandos dentro de un mismo ciclo; y sus miembros compartirán criterios para su ubicación en los respectivos grupos de trabajo, para la evaluación formativa de sus aprendizajes y para el paso de los educandos al siguiente nivel de aprendizaje.
+  
+En las unidades educativas atendidas por un solo docente (unidocentes), el maestro único se hará cargo de uno o más ciclos, dependiendo del número de alumnos, y organizará los distintos grupos de trabajo en una misma aula.
+
+**Artículo 96°.-** Los grupos de trabajo desarrollarán actividades de aprendizaje en base a módulos de trabajo o aprendizaje y a materiales educativos diversos. Cada módulo de trabajo o aprendizaje corresponde a un determinado nivel de aprendizaje en una o más áreas curriculares; aborda los contenidos desde una perspectiva de globalización o correlación de contenidos; prioriza el desarrollo de actividades antes que la presentación de
+  
+temas determinados y orienta a los educandos a encontrar la información que requieren para aprender y desarrollar determinadas competencias. La Secretaria Nacional de Educación, a través de la Unidad Nacional de Servicios Técnicos de la Dirección General de Educación, es la encargada de elaborar los modelos o prototipos de módulos de aprendizaje y los manuales que orienten sus elaboración, así como organizar cursos de capacitación para maestros autores de textos escolares y para ilustradores, que lleven a la preparación de estos módulos para los diversos niveles y modalidades del sistema educativo.
+
+**Artículo 97°.-** Para conformar los grupos de trabajo, los alumnos serán observados y evaluados permanentemente por sus maestros. Al cabo de cada ciclo, los educandos serán promovidos al ciclo siguiente, según lo dispuesto en las normas generales de evaluación contenidas en el Titulo V de este Decreto y en los reglamentos específicos que elabore y actualice periódicamente la Secretaría Nacional de Educación. Artículo 98° Los alumnos que desarrollen las competencias de un ciclo en un tiempo menor al establecido como promedio, continuarán sus aprendizajes con su mismo grupo etáreo (de edad) hasta alcanzar la edad requerida para avanzar al ciclo inmediato superior. Durante el tiempo que permanezcan en el ciclo, estos educandos consolidarán y reforzarán sus aprendizajes y trabajarán en actividades orientadas a la adquisición y desarrollo de competencias pertenecientes al ciclo inmediato superior, para lo cual su maestro coordinará con el maestro del ciclo inmediato superior y obtendrá los materiales y orientaciones correspondientes. Estos educandos también podrán apoyar a sus compañeros de grupo etáreo y, ocasionalmente, asumir funciones de monitores o ayudantes de uno o más grupos de trabajo.
+
+**Artículo 99°.-** Los maestros deben estimular la organización de los educandos dentro del ciclo y de la Unidad Educativa a fin de generar en ellos actitudes tendientes al trabajo en equipo, la colaboración mutua, la solidaridad y el compañerismo. La Secretaría Nacional de Educación, a través de la Unidad Nacional de Servicios Tecnico-Pedagógicos, es la encargada de diseñar manuales y disposiciones que orienten la organización de los alumnos en la escuela y que sensibilicen a los maestros sobre la importancia de este tipo de organización, tanto para el mejor aprendizaje de los alumnos como para asegurar una mejor y más eficiente enseñanza.
+
+**Artículo 100°.-** En todo el territorio de la República, tanto para el Sistema Educativo Público como para el privado, el año escolar comprende un total de 10 meses de trabajo lectivo. Hiera de los cuales existen don meses de vacaciones. Los dos meses de vacaciones podrán distribuirse a lo largo del año, entre bimestre y bimestre, en cinco periodos de una semana y media cada uno; o entre trimestres académicos de 11 semanas cada uno, en periodos de dos semanas; o en períodos de un mes cada uno que coincidan con los períodos de cosecha y de siembra en el medio rural
+  
+Las Direcciones Distritales de Educación, recogiendo la opinión de las Juntas Escolares, de Núcleo y Distritales, fijarán el calendario escolar más apropiado para su localidad, teniendo en cuenta las características socioeconómicas y culturales del distrito y las condiciones ecológicas y climáticas locales. Una vez fijado el calendario escolar para un año determinado, la Dirección Distrital de Educación lo comunicará a la Dirección Departamental de Educación y a la Dirección General de Educación para los fines consiguientes. Artículo 101° Con el fin de ofrecer mejores condiciones de aprendizaje a todos los educandos del país, asegurar el desarrollo de las competencias previstas para cada ciclo y nivel de educación, y contribuir al mejoramiento de la calidad de la educación, el horario escolar en los Núcleos que vayan ingresando al Programa de Transformación Curricular, en todo el territorio de la República comprende un total mínimo de 30 horas semanales de trabajo lectivo, tanto para las Unidades Educativas del Servicio de Educación Pública como para las Unidades Educativas de régimen privado.
+  
+Estas 30 horas semanales podrán distribuirse en una o dos jornadas diarias. También podrán incluir una jornada sabatina dedicada principalmente a actividades deportivas y culturales.
+  
+La elaboración del horario escolar debe tomar en cuenta que se reconoce como feriados escolares únicamente los feriados oficiales nacionales y departamentales, hasta un máximo de 10 días al año. En las zonas rurales se pueden considerar como feriado escolar los días de feria o aquellos dedicados a la celebración de la fiesta patronal, siempre y cuando éstos sean reemplazados por otros, de común acuerdo entre la Junta Escolar y el o los maestros de la Unidad Educativa, a fin de no perjudicar el normal desarrollo de las actividades de aprendizaje ni el normal desarrollo de la vida comunitaria.
+  
+Las Direcciones de Unidad Educativa y de Núcleo, en coordinación con las respectivas Juntas Escolares y de Núcleo, fijarán, antes del inicio del año escolar, el horario y la distribución de las 30 horas de trabajo escolar de la semana, identificarán los feriados escolares, y enviarán la comunicación respectiva a la Dirección Distrital de Educación, la que a su vez informará a la Dirección Departamental de Educación respectiva y a la Dirección General de Educación para los fines consiguientes. Artículo 102° Las Juntas Escolares y de Núcleo son las responsables de velar por el normal cumplimiento del calendario y del horario escolar.
+
+### Capítulo XIII De los proyectos educativos
+
+**Artículo 103°.-** Se define como Proyecto Educativo de Unidad y Proyecto Educativo de Núcleo el proyecto-presupuesto en el que se recogen las propuestas educativas comunales o barriales y nucleares formuladas a partir de la identificación de las necesidades básicas de aprendizaje de una comunidad determinada.
+  
+Estos proyectos-presupuesto están orientados al mejoramiento sustancial de la calidad de la educación a nivel escolar y de núcleo y constituyen ámbitos de generación y ejecución de ofertas educativas consensuadas por la comunidad, los representantes de las OTBS, los padres de familia, los docentes, el personal no docente, los alumnos y por los representantes de los órganos de Participación Popular prescritos en el Código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html). La concepción y ejecución de los proyectos educativos de Unidad y de Núcleo supone el inicio, de la transformación curricular en una comunidad o barrio, en una agrupación de comunidades o barrios y en las OTBs. La definición y operativización de los proyectos educativos de Unidad y de Núcleo se realizará en el marco de lo establecido en el Código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html), y se regirá también por los acuerdos que al respecto tomen los diversos órganos de Participación Popular, incluidos los Consejos de Pueblos Originarios.
+
+**Artículo 104°.-** Los Proyectos Educativos de Unidad y los Proyectos Educativos de Núcleo explicitarán claramente las metas y logros a alcanzar con la ejecución del proyecto, las acciones a realizar y los compromisos que para su ejecución asuman los diversos miembros de los órganos de Participación Popular y de la comunidad educativa en general. Los Proyectos Educativos de Unidad y de Núcleo deberán también contener el presupuesto correspondiente. Estos proyectos serán elaborados para una gestión escolar anual o para un período mayor, si así los deciden los miembros de los órganos de Participación Popular respectivos y la comunidad educativa.
+
+**Artículo 105°.-** En el marco de la formulación del Proyecto Educativo de Unidad, y bajo la orientación del Director de la Unidad, la Junta Escolar negocia con el Consejo de Profesores y con la comunidad educativa en general y analiza las características socioculturales y lingüísticas y los ritmos y modos de aprendizaje de los alumnos para ponerse de acuerdo sobre las necesidades básicas de aprendizaje y las competencias generales del currículo; para analizar el tronco común curricular y contribuir a la elaboración de las ramas complementarias del mismo; para discutir las disposiciones relativas a la gestión curricular; para hacer posible la reconfiguración del aula y del rol del docente.
+  
+Luego de la negociación y discusión inicial, el Director de la Unidad será el responsable de la formulación y de la dirección del proyecto, para lo cual contará con la colaboración de los maestros a su cargo.
+
+**Artículo 106°.-** El Proyecto Educativo de Núcleo se construirá sobre la base de los Proyectos Educativos de Unidades Educativas pertenecientes a un determinado núcleo. Dicha construcción supondrá la agregación y concertación de las propuestas de las unidades. Para el efecto, la Junta de Núcleo, las Juntas Escolares del ámbito y las autoridades y docentes del Núcleo Educativo respectivo, bajo la orientación del Director del Núcleo, negociarán, se pondrán de acuerdo y asumirán compromisos explícitos para la gestión escolar o el período para el cual se elabore un determinado proyecto. El Proyecto Educativo de Núcleo registrará de manera explícita la responsabilidad que asuma cada miembro integrante del núcleo en el logro de los objetivos trazados para la gestión.
+
+**Artículo 107°.-** La Secretaría Nacional de Educación, a través de sus unidades técnicas respectivas, fomentará la elaboración de Proyectos Educativos de Unidad y de Proyectos Educativos de Núcleo y normará y promoverá la capacitación de los docentes y autoridades de unidades educativas y núcleos escolares y de miembros de los órganos de Participación Popular, a fin de asegurar la formulación y ejecución de estos proyectos.
+  
+Las Direcciones Distritales de Educación y los Asesores Pedagógicos de cada distrito escolar serán los responsables directos de la capacitación para la elaboración de los proyectos educativos de Unidad Educativa y de Núcleo así como del acompañamiento y orientación que su ejecución y evaluación requieran.
+
+### Capítulo XIV Del proyecto educativo de unidad
+
+**Artículo 108°.-** El Proyecto Educativo de Unidad contemplará cuatro grandes acápites;
+
+1. El carácter ideopedagógico de la Unidad Educativa; para identificar los objetivos y metas a alcanzar a partir de un diagnostico inicial del contexto sociopedagógico. socioeconómico, sociocultural y sociolingüístico en el que se ubica la Unidad Educativa; para señalar las necesidades sociales, las necesidades de aprendizaje y las expectativas que los padres y los miembros de la comunidad en general tienen respecto a la Unidad Educativa; para plasmar la línea pedagógica a seguir tanto en la formulación y ejecución del proyecto como en el desarrollo de toda actividad educativa en la Unidad, en coherencia con el ideal de escuela planteado por el Código de la Educación, modificado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html).
+2. La identificación y descripción de las actividades que permitan alcanzar los objetivos y metas trazados y los mecanismos a emplearse en su ejecución la identificación especifica de todos los involucrados en el desarrollo del proyecto, asignándoles responsabilidades específicas; la descripción de los procedimientos de evaluación así como del presupuesto respectivo.
+3. El reglamento de Régimen Interno de la Unidad, para regular el funcionamiento interno de la Unidad Educativa y los aspectos organizativos que garanticen el buen desarrollo del proyecto, y por ende, de la oferta educativa que la Unidad ofrece, especificar la organización de los docentes la forma de organización de los educandos en los grupos de trabajo, la participación de la Junta Escolar y en general las responsabilidades y deberes de todos los miembros de la unidad Educativa en el desarrollo del proyecto.
+4. El presupuesto correspondiente al periodo para el cual se plantea el proyecto.
+
+**Artículo 109°.-** En la ejecución de los proyectos, la organización y funcionamiento de la Unidad Educativa debe ser participativa y cooperativa; las decisiones se tomaran conjuntamente, pero con una clara distribución de responsabilidades. Se debe buscar un modelo organizativo en el que, por una parte, sus componentes se consideren participantes activos y, por otra, se favorezca el aprendizaje de comportamientos autogestionarios: solidaridad, corresponsabilidad, respeto a iniciativas ajenas, colaboración y crítica. Desde esta perspectiva, la organización general de la Unidad Educativa deberá recoger.
+
+1. La distribución de responsabilidades específicas en la gestión y funcionamiento de la Unidad Educativa.
+2. La toma de decisiones conjunta y la asunción de responsabilidades específicas por cada uno de los sectores involucrados en el funcionamiento de la Unidad y en la ejecución del proyecto.
+3. La participación de la Junta Escolar, en general, y de los miembros de la comunidad y padres de familia, en particular.
+4. La organización cooperativa de las aulas.
+
+**Artículo 110°.-** Las funciones, deberes y atribuciones del Director de la Unidad Educativa y su participación en la formulación y ejecución del Proyecto Educativo de Unidad son normados por el Decreto Supremo de la Estructura de Administración Curricular.
+
+**Artículo 111°.-** La composición, funciones, deberes y atribuciones de la Junta Escolar y su participación en la formulación y ejecución del Proyecto Educativo de Unidad son normados por el Decreto Supremo de la Estructura de Participación Popular en la Educación.
+
+**Artículo 112°.-** El Consejo de Profesores, que agrupa a todos los docentes y al director de una Unidad Educativa, participará activamente en el desarrollo de todo Proyecto Educativo: en su planificación, ejecución y evaluación. El Proyecto Educativo de Unidad será aprobado por la Junta Escolar a solicitud del Director de Unidad.
+
+**Artículo 113°.-** Son funciones del Consejo de Profesores:
+
+1. Promover las actividades docentes de la unidad:
+     
+   - Proponer el reglamento del régimen interno y actualizarlo cuando sea necesario.
+     
+   - Informar permanentemente al Director de la Unidad Educativa y al Asesor Pedagógico respectivo sobre los avances y problemas en la ejecución del proyecto y en la aplicación del currículo escolar
+     
+   - Proponer y poner a consideración de la Junta Escolar directrices, criterios y estrategias para llevar a cabo el desarrollo curricular y ejecutar el proyecto educativo, aplicando el tronco común curricular y desarrollando las ramas complementarias, tomando en cuenta las características socioculturales y lingüísticas del contexto y las características personales de los educandos.
+     
+   - Procesar y aplicar la información y recomendaciones provenientes del Asesor Pedagógico y del Director de la Unidad Educativa sobre el desarrollo de los procesos de enseñanza y aprendizaje.
+2. Fijar criterios sóbrela labor de evaluación:
+     
+   - Elaborar y proponer criterios para la evaluación de la estructura organizativo-funcional de la unidad educativa, así como del propio desarrollo curricular.
+     
+   - Promover, analizar y fijar las propuestas de los docentes sobre la evaluación de los alumnos e identificar y planificar procedimientos de integración para aquellos alumnos con necesidades educativas especiales.
+     
+   - Analizar y reflexionar sobre los logros, obstáculos y dificultades de los alumnos en el desarrollo de las competencias, los procesos de enseñanza y aprendizaje, el desempeño del docente y el proyecto curricular en su conjunto.
+3. Promover iniciativas en el ámbito de la investigación, la innovación educativa y el mejoramiento profesional de los maestros:
+     
+   - Recoger, sistematizar y analizar los conocimientos, historia, saberes, leyendas, expresión artística, y demás manifestaciones culturales de la comunidad.
+     
+   - Promover dentro de la Unidad Educativa y con otras Unidades, el intercambio de experiencias para reflexionar sobre la práctica pedagógica y proponer acciones innovadoras.
+     
+   - Promover dentro de la Unidad Educativa y con otras Unidades, el intercambio de experiencias y reflexiones sobre la Participación Popular en el quehacer educativo.
+     
+   - Diseñar estrategias y promover la realización de eventos diversos en la propia Unidad, cooperativamente con otras Unidades, en el núcleo y en el distrito, destinados a propiciar el mejoramiento profesional de los maestros y asegurar su perfeccionamiento y actualización permanentes.
+4. Proponer y poner en práctica mecanismos que aseguren la participación efectiva de los padres de familia y otros miembros de la comunidad en la gestión y el quehacer de la escuela, en la línea de la Participación Popular y según lo dispuesto en el Decreto de la Estructura de la Participación Popular en la Educación.
+5. Diseñar estrategias y establecer cauces que aseguren la participación de los educandos en el desarrollo de los procesos de enseñanza y aprendizaje.
+
+**Artículo 114°.-** El proyecto educativo deberá incluir actividades complementarias y de intercambio, tales como jornadas culturales, lúdicas y deportivas, con las otras unidades educativos del Núcleo Educativo, la comunidad y otras instituciones. Estas actividades deberán ser consignadas y formar parte del proyecto educativo.
+
+### Capítulo XV Del proyecto educativo de núcleo educativo
+
+**Artículo 115°.-** El proyecto educativo de núcleo se elabora sobre la base de la agregación de los proyectos educativos de unidad educativa y con base en la concertación de lo planificado en ellos. Al igual que los proyectos educativos de unidad educativa el de núcleo contempla tres mandes acápites.
+
+1. El carácter del núcleo, donde se explícita la orientación pedagógica de la red de unidades que conforman el núcleo, en función del contexto étnico, sociocultural, económico y lingüístico y de las necesidades básicas de aprendizaje de los educandos del ámbito nuclear. En este acápite se definen también los grandes objetivos educativos del Núcleo Educativo y del proyecto educativo específico.
+2. El Proyecto Educativo propiamente dicho, donde se explicitan las estrategias y acciones a llevarse a cabo para mejorar la calidad de la educación en el ámbito nuclear.
+3. El Reglamento de Funcionamiento del Núcleo, donde se explicita la organización y composición del núcleo, el carácter y funcionamiento del núcleo como unidad básica de micro planificación y como red interactiva de servicios educativos, así como las responsabilidades específicas de cada Unidad integrante del Núcleo, y los derechos y deberes de las distintas unidades educativas en el desarrollo del proyecto.
+
+**Artículo 116°.-** La organización y funcionamiento del núcleo tienen carácter participativo y cooperativo y solidario con aquellas unidades educativas integrantes del núcleo que requieren del apoyo y la colaboración adicional de otras unidades educativas para mejorar la calidad de la educación en su ámbito.
+
+**Artículo 117°.-** Las funciones, deberes y atribuciones del Director de Núcleo Educativo y su participación en la formulación y ejecución del Proyecto Educativo de Unidad son normados por el Decreto Reglamentario de la Estructura de Administración Curricular.
+
+**Artículo 118°.-** Para apoyar a los alumnos, maestros y comunidad en general en el desarrollo del Proyecto Educativo, en cada Núcleo Educativo se debe organizar un Centro de Recursos Pedagógicos que brinde apoyo técnico a todos los miembros de la red que compone el Núcleo. El Centro de Recursos Pedagógicos debe ubicarse en la Unidad Educativa central del Núcleo. Artículo 119° El Centro de Recursos Pedagógicos debe estar a cargo de un maestro que preste servicios en una de las unidades del Núcleo. El responsable del Centro de Recursos Pedagógicos debe ser un educador, conocido por su desempeño docente y su vocación de servicio, propuesto de entre los docentes del Núcleo por la Junta de Núcleo y nominado por el Director del Núcleo, para administrar y dirigir el funcionamiento y utilización del Centro de Recursos Pedagógicos.
+
+**Artículo 120°.-** Son funciones del responsable del Centro de Recursos Pedagógicos:
+
+1. Administrar los materiales educativos, equipos y otros bienes del Centro de Recursos Pedagógicos, asegurando su utilización por parte de las Unidades Educativas miembros del núcleo y, particularmente, por los docentes de los mismos, en apoyo a la ejecución de los proyectos educativos de unidad y de núcleo.
+2. Promover y asegurar la utilización adecuada y el mantenimiento permanente de los materiales, equipos y bienes asignados al Centro de Recursos Pedagógicos, en el marco de los respectivos Proyectos Educativos de Unidad y de Núcleo.
+3. Cumplir y hacer cumplir los reglamentos y todas las disposiciones legales que rijan el funcionamiento de los Centros de Recursos Pedagógicos.
+4. Participar en la elaboración del Proyecto Educativo del Núcleo y apoyar la elaboración de los Proyectos Educativos de Unidad, en consulta estrecha con el Asesor Pedagógico y con la Dirección de Núcleo para todo lo concerniente a la utilización adecuada, funcionamiento y mantenimiento permanente del Centro de Recursos Pedagógicos.
+5. Coordinar con el Director de Núcleo a fin de incluir en los Proyectos Educativos de Unidad y en el de Núcleo acciones específicas tendientes a enriquecer el acervo inicial de los Centros de Recursos Pedagógicos, para lo cual debe coordinar con las Juntas Escolares y de Núcleo, y establecer contacto y coordinar acciones con otras instituciones gubernamentales y privadas que trabajen en el ámbito del Núcleo y deseen sumar sus esfuerzos y recursos al mejoramiento de la calidad de la educación en la zona.
+6. Apoyar a los docentes del ámbito nuclear en sus iniciativas destinadas al mejoramiento permanente de su calidad profesional, poniendo a su servicio los materiales y equipos del Centro, de Recursos Pedagógicos y particularmente la Biblioteca de Docentes que lo integra.
+
+**Artículo 121°.-** Para la ejecución del Proyecto Educativo de Núcleo se puede conformar un Consejo de Profesores del Núcleo con un representante de los docentes y el Director de cada Unidad Educativa que compone el Núcleo Este Consejo participará en la planificación, ejecución y evaluación del proyecto educativo de núcleo y lo someterá periódicamente a la consideración de las Juntas de Núcleo.
+  
+Las funciones del Consejo de Profesores del Núcleo son similares a las que cumplen los Consejos de Profesores de Unidad Educativa, a las que se añade la de agregar, consolidar y concertar los Proyectos Educativos de Unidad a fin de formular un proyecto Educativo de Núcleo coherente.
+  
+El Consejo también debe diseñar, proponer a la Junta de Núcleo y llevar a la práctica estrategias de intercambio y de desarrollo de actividades conjuntas de carácter complementario que aseguren la construcción y funcionamiento eficiente del Núcleo Educativo, en su calidad de red interactiva de servicios educativos complementarios que propicia también el mejoramiento profesional permanente de los maestros del ámbito nuclear, así como el desarrollo de innovaciones educativas que contribuyan al mejoramiento de la calidad de la educación en el ámbito nuclear.
+
+**Artículo 122°.-** En reconocimiento de los esfuerzos desplegados por los Núcleos Educativos para mejorar la calidad de la educación en sus ámbitos de operación y para estimular la formulación de Proyectos Educativos de Núcleo, la Secretaria Nacional de Educación debe convocar anualmente, a partir de la gestión 1096 a Concursos Nacionales de Núcleos Demostrativos que deberán llevarse a cabo sobre la base de los Proyectos Educativos elaborados por todos los Núcleos del país. Las bases y demás información pertinente deben ser dadas a conocer a inicios del segundo semestre del año precedente, de manera que todos los Núcleos tengan la oportunidad y el tiempo necesarios para preparar y presentar sus proyectos.
+
+## Título V De normas generales de evaluación
+
+### Capítulo XVI Disposiciones generales
+
+**Artículo 123°.-** En los tres ciclos de educación primaria y en los dos ciclos de la educación secundaria, la evaluación se constituye en un apoyo pedagógico tanto para el docente como para el educando, extendiendo la corresponsabilidad a los padres de familia, a través de un procedimiento basado en un razonamiento comunicativo y participativo.
+  
+La evaluación debe también constituir una experiencia de autoevaluación y autoanálisis y contribuir a propiciar en el educando una reflexión permanente sobre el propio aprendizaje y desempeño.
+
+**Artículo 124°.-** La evaluación debe ser cualitativa, global, permanente y formativa de los proceso de aprendizaje, basándose en las modalidades de evaluación diagnóstica, formativa y sumativa.
+  
+Las modalidades de evaluación diagnóstica, formativa y sumativa deben utilizarse tanto en la evaluación de los educandos al concluir un ciclo como dentro del mismo, para pasar de un nivel de aprendizaje a otro.
+
+**Artículo 125°.-** La comunicación de los logros de competencias a los propios alumnos y a los padres de familia debe ser cualitativa, explicativa y por conceptos, resaltando los logros y enfocando las dificultades como un aspecto normal en el proceso de aprendizaje, de modo que no tenga implicaciones negativas en la autoestima del alumno.
+  
+A los informes de tipo cualitativo podrán añadirse, para el caso de la educación secundaria y de la educación superior, información de tipo cuantitativo por áreas curriculares y grupos de contenidos.
+  
+En todos los niveles se debe resaltar los logros y poner énfasis en los procesos y en la aplicabilidad de los conocimientos y saberes adquiridos, así como en la creatividad y capacidad de innovación.
+
+**Artículo 126°.-** La promoción y certificación de los diferentes niveles y ciclos, la evaluación, sus modalidades e instrumentos estarán normados por un reglamento específico de evaluación, de alcance nacional, que debe ser elaborado por la Secretaria Nacional de Educación, a propuesta de la Unidad Nacional de Servicios Técnico- Pedagógicos.
+  
+El reglamento especifico de evaluación debe incluir normas y procedimientos relativos a la evaluación organizativo-funcional de la Unidad Educativa y del Núcleo Educativo así como también aquellos referentes a la evaluación del desempeño de los docentes Para ello debe tomar en cuenta lo dispuesto en el Código de la Educación, reformado por [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html), en este Decreto Supremo y en el Decreto Supremo que norma el funcionamiento de la Estructura de Participación Popular en la Educación.
+
+### Capítulo XVII De la promoción de los educandos
+
+**Artículo 127°.-** La promoción de los educandos de un ciclo a otro se rige por los siguientes, criterios
+
+1. Criterio básico
+     
+   El educando ha desarrollado las competencias correspondientes al ciclo.
+2. Criterio relativo
+     
+   El educando es promovido al ciclo siguiente cuando ha logrado las competencias que son requisito de promoción en aquellas áreas curriculares identificadas como prioritarias en un determinado ciclo y cuando algunas competencias de las otras áreas están todavía en proceso de desarrollo. En este caso el alumno es promovido con las recomendaciones específicas de apoyo en aquellas otras competencias todavía no logradas.
+3. Criterio de flexibilidad.
+     
+   En caso de que el educando, por razones de abandono temporal u otras, no haya logrado las competencias requisito de promoción en las áreas prioritarias de cada ciclo, dispondrá de un período adicional de tiempo en el ciclo hasta lograr dichas competencias. Después de este período, el educando puede ser promocionado al ciclo siguiente para lo cual se aplica el criterio básico o relativo.
+     
+   En caso de que no haya logrado las competencias de área requisito de promoción durante ese período adicional, se recurre al aula de apoyo.
+     
+   Asimismo, el educando que se reincorpore a la escuela después de una ausencia prolongada tiene la posibilidad de integrarse al grupo de nivel en el que se encontraba antes de abandonarla.
+
+**Artículo 128°.-** Los educandos que desarrollen las competencias requeridas para ser promovidos al nivel inmediato superior pero que no puedan incorporarse a éste ya sea porque no cuentan con la edad correspondiente para iniciar estudios en dicho nivel o porque el periodo escolar ya se ha iniciado, deben recibir atención especial para que puedan consolidar los aprendizajes logrados a través de actividades complementarias de refuerzo, e incluso avanzar en el desarrollo de competencias y contenidos del nivel inmediato superior.
+
+**Artículo 129°.-** El reglamento específico del subsistema de evaluación de alcance nacional, a ser elaborado por la Secretaria Nacional de Educación, debe identificar claramente las competencias requisito de promoción en cada una de las áreas prioritarias de cada ciclo de la educación primaria, así como aquellas competencias requisito de promoción en las diversas áreas curriculares de los dos ciclos de la educación secundaria.
+
+### Capítulo XVIII De la medición de la calidad de la educación
+
+**Artículo 130°.-** El Subsistema Nacional de Medición de la Calidad de la Educacion Pre-Escolar, Primaria y Secundaria (SIMECAL) es uno de los equipos técnicos del Consejo Nacional de Acreditación y Medición de la Calidad Educativa (CONAMED), al que hace referencia el Código de la Educación en su artículo 21. El SIMECAL tiene como objetivo primordial proporcionar información, en forma periódica, confiable y válida, acerca de los niveles alcanzados por los educandos en cuanto a la adquisición y desarrollo de las competencias requisito de promoción en las áreas curriculares prioritarias de cada uno de los ciclos de aprendizaje, para proveer insumos a los distintos niveles, ciclos y modalidades del Sistema Educativo y a sus diferentes actores para la toma de decisiones en materia de política educativa; también deberá proveer al Sistema Educativo de información sobre los factores que inciden en los logros alcanzados por los educandos.
+  
+El SIMECAL deberá preparar las pruebas de acreditación para maestros y directores de los diversos niveles del Sistema Educativo así como los criterios de calificación de las mismas. Tales pruebas podrán ser administradas por el SIMECAL por encargo del CONAMED.
+  
+Las actividades que lleve a cabo el SIMECAL deberán proporcionar información externa para:
+
+1. Monitorear y evaluar las innovaciones que se pongan en práctica como resultado de la transformación curricular e institucional.
+2. Estimular la generación de acciones innovadoras y la iniciativa de los maestros en el mejoramiento de la calidad de la educación.
+3. Diseñar acciones directas sobre los factores controlables por el propio Sistema Educativo que incidan en el logro de la competencias básicas de los alumnos.
+4. Orientar la asignación de recursos hacia las Unidades Educativas, en aquellos aspectos que sean más deficitarios y tengan una mayor incidencia en la adquisición de las competencias básicas.
+5. Orientar la acción técnico-pedagógica preferencial de los Asesores Pedagógicos hacia las Unidades Educativas que más lo requieran.
+6. Sensibilizar y comprometer a los líderes de opinión (sindicales, políticos, religiosos, empresariales, etc.) en acciones concretas tendientes al mejoramiento de la calidad y equidad de la educación boliviana, dentro de los principios de eficiencia y eficacia.
+7. Estimular la participación de los docentes, padres de familia y de la comunidad en general en el mejoramiento de la calidad de la educación.
+     
+   El SIMECAL será administrado por una institución independiente, pública o privada, seleccionada mediante concurso público.
+
+## Título VI
+
+### Capítulo XIX Disposiciones cenerales y transitorias
+
+**Artículo 131°.-** La transformación curricular del Nivel Pre-escolar y del Nivel Primario comenzará a partir del año escolar de 1995 y se irá extendiendo gradualmente en la medida en que los Núcleos Escolares y Juntas Escolares y de Núcleo y demás órganos de Participación Popular se organicen, de acuerdo a lo estipulado en el Reglamento de Núcleos
+  
+Educativos y en el Decreto Supremo de la Estructura de Participación Popular en la Educación
+
+**Artículo 132°.-** Para garantizar el desarrollo eficiente del avance de la transformación curricular del Nivel Pre-Escolar y del Nivel Primario, la Secretaría Nacional de Educación deberá preparar a los Asesores Pedagógicos necesarios para capacitar a todos los maestros del país y para asesorar y acompañar técnicamente el proceso de transformación en cada Unidad Educativa. La Secretaría Nacional de Educación deberá de igual forma asegurar que el equipamiento de los Núcleos y Unidades Educativas que ingresen al proceso de transformación y la elaboración y distribución de los módulos de aprendizaje y demás materiales educativos de uso de los alumnos se realice con la antelación requerida
+
+**Artículo 133°.-** La Secretaría Nacional de Educación queda encargada de elaborar un cronograma de ingreso al nuevo currículo para que, en un período máximo de cuatro años, a partir del año escolar de 1995, todos los núcleos escolares del país hayan iniciado el proceso de transformación curricular con el último año del Ciclo de Aprendizajes Preparatorios del nivel de Educación Pre-escolar y el primer año del Primer Ciclo de Aprendizajes Básicos del nivel de Educación Primaria. Artículo 134° El mejoramiento del Nivel Secundario, en coordinación de esfuerzos entre las Universidades Públicas y Privadas y la Secretaría Nacional de Educación, comenzará simultáneamente con el proceso de transformación curricular del nivel primario. Sin embargo, la transformación curricular del nivel secundario comenzará tan pronto se hubieren logrado los objetivos de la transformación curricular del Nivel Primario en sus tres ciclos; y se extenderá, gradualmente, en la medida en que el tronco común curricular correspondiente, y los objetivos y contenidos, diferenciados de carácter departamental, distrital y de núcleo se encuentren listos para su desarrollo.
+
+**Artículo 135°.-** Las ex-Escuelas Normales cuentan con hasta un año académico, a partir de la aprobación del presente reglamento, para elaborar y sustentar sus proyectos de transformación institucional y curricular, sujetos a un reglamento especial. Los proyectos de transformación institucional y curricular de las Escuelas Normales serán analizados y evaluados, en un plazo no mayor a un mes, por una comisión especializada conformada por profesionales de la Unidad Nacional de Servicios Técnico-Pedagógicos y de la Subsecretaría de Educación Superior, Ciencia y Tecnología, la misma que podrá además solicitar el asesoramiento de profesionales de reconocida trayectoria en el campo de la formación docente.
+  
+Las ex-Escuelas Normales cuyos proyectos sean aprobados y que obtengan la acreditación respectiva, iniciaran el año académico 1996 bajo el régimen de Institutos Normales Superiores.
+  
+Las ex-Escuelas Normales cuyos proyectos de transformación institucional no hubieren sido aprobados y que no hubieren obtenido su acreditación como Institutos
+  
+Normales Superiores iniciarán un proceso de desactivación, por lo cual no podrán matricular nuevos alumnos.
+
+**Artículo 136°.-** Las Universidades Privadas y los Institutos Técnicos Superiores Privados en actual funcionamiento disponen de dos años calendario a partir de la aprobación del presente Decreto Supremo para sustentarse en Fundaciones Privadas.
+
+**Artículo 137°.-** A partir de la vigencia del presente Decreto Supremo quedan derogados los Decretos Supremos [Nº 15367](https://www.lexivox.org//norms/BO-DS-15367.html) y [Nº 18020](https://www.lexivox.org//norms/BO-DS-18020.html), del 23 de marzo de 1978 y 20 de febrero de 1981, que dieron origen al Servicio Nacional de Educación Técnica (SENET), pasando los programas, actividades y presupuesto a su cargo a depender de la Subsecretaría de Educación Superior. Ciencia y Tecnología de la Secretaría Nacional de Educación. Sobre la base del SENET se estructurará el Sistema Nacional de Educación Técnica y Tecnológica (SINETEC) creado por el Art. 18 del Código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html).
+
+**Artículo 138°.-** La Secretaría Nacional de Educación, a través de reglamentos específicos que propondrá la Subsecretaría de Educación Alternativa, es la encargada de reglamentar la homologación de los estudios realizados bajo las diversas modalidades ofrecidas en el Área de Educación Alternativa, para lo cual se considerarán también las modalidades y tipos de instituciones que funcionaban antes de la promulgación del código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html), Educación Básica Acelerada (EBA), Centro de Educación Media Acelerada (CEMA), Instituto Boliviano de Aprendizaje (IBA) y Centros Integrales (Cl).
+
+**Artículo 139°.-** Para reconducir las acciones de educación de adultos y de alfabetización en el marco de lo dispuesto en el Código de la Educación, reformado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html) y en este Decreto Supremo, se abroga el [Decreto Supremo Nº 19453](https://www.lexivox.org//norms/BO-DS-19453.html) de fecha 14 de marzo de 1983 que dio origen al Servicio Nacional de Alfabetización y Educación Popular (SENALEP), pasando los programas, acciones y presupuesto a su cargo a depender de la subsecretaria e Educación Alternativa de la Secretaria Nacional de Educación.
+
+**Artículo 140°.-** Encárgase a la Secretaria Nacional de Educación, a través de la Unidad de Apoyo y Seguimiento a la Reforma Educativa, el diseño del Subsistema de Medición de la Calidad de la Educación Pre-Escolar, Primaria y Secundaria, la convocatoria a concurso público y la selección de la institución pública ó privada que se haga cargo de la administración del SIMECAL.
+
+**Artículo 141°.-** A propuesta de la Secretaría Nacional de Educación, el Ministerio de Desarrollo Humano normará la organización de un equipo técnico similar al S1MECAL, para diseñar e implantar los mecanismos de medición de la calidad de la educación en el nivel superior. Este equipo técnico constituirá también uno de los equipos técnicos del CONAMED al que hace referencia el Código de la Educación en su artículo 21.
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Humano, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de febrero de mil novecientos noventa y cinco años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Carlos Sánchez Berzaín, Raúl Tovar Piérola, José G. Justiniano Sandoval, Rene Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe. Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

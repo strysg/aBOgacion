@@ -1,0 +1,42 @@
+# Bolivia: Decreto Supremo Nº 22150, 10 de marzo de 1989
+
+VICTOR PAZ ESTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 663](https://www.lexivox.org//norms/BO-L-663.html) de 29 de octubre de 1984 declara prioridad nacional la construcción de la carretera Santa Cruz Yacuiba, y autoriza al Poder Ejecutivo gestionar el correspondiente financiamiento;
+* Que el Consejo Nacional de Economía y Planificación, CONEPLAN, ha autorizado a la Corporación Regional de Desarrollo de Santa Cruz, mediante resolución 6 de 9 de junio de 1988, negociar directamente el financiamiento ofrecido por empresas nacionales para la construcción del referido camino, en el tramo de 138 Kilómetros Santa Cruz Abapó, con sujeción al estudio de factibilidad y diseño final que Cordecruz posée, utilizando sus propios recursos;
+* Que los consorciós de empresas constructoras Ingelmeco-Intracruz y Conacruz, constituidas expresamente como asociaciones accidentales para la construcción de la carretera Santa Cruz Abapó, presentaron a Cordecruz sus ofertas por separado con financiamiento parcial;
+* Que Cordecruz acordó, por resolución de 7 de Julio de 1988, proceder a la evaluación, negociación y adjudicación de tales ofertas;
+* Que es facultad privativa del Poder Ejecutivo autorizar la suscripción de contratos concernientes a la ejecución de obras como la mencionada, así como permitir al Banco Central otorgar su aval para el financiamiento pertinente;
+* Que es de necesidad y utilidad pública la expropiación de las áreas afectadas para la construcción de la carretera, así coma las fuentes de materiales de construcción necesarios para la obra.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza a la Corporación Regional de Desarrollo de Santa Cruz, CORDECRUZ, suscribir los correspondientes contratos de obra con los representantes legales de los consorcios o sociedades accidentales INGELMECO INTRACRUZ y CONACRUZ, con financimiento parcial de estas asociaciones, para la construcción de la carretera pavimentada tramo Santa Cruz Abapó, bajo las cláusulas de seguridad y garantías de ley, con intervención del Fiscal de Gobierno y refrenda del Contralor General de la República, por el precio de CUARENTA y SEIS MILLONES SESENTA Y TRES mil SEISCIENTOS TREINTA Y CINCO 16/100 DOLARES AMERICANOS (US$.46.063.635.16), que será pagado con fondos propios de Cordecruz.
+
+**Artículo 2°.-** Se autoriza al Banco Central de Bolivia avalar las letras de cambio que Ingelmeco-Intracruz y Conacruz girase, aceptadas por Cordecruz, hasta la suma de OCHO MILLONES SESENTA Y UN mil CIENTO TREINTA Y SEIS 15/100 DOLARES AMERICANOS (US$ 8.061.136.15) por los sendos financiamientos que cada uno de esos consorcios asociados otorgasen a Cordecruz con diez años mínimo de plazo, incluidos cuatro de gracia, la tasa de interés anual máxima de siete y medio por ciento (7.5%) y amortizaciones mediante setenta y dos mensualidades iguales. Se autoriza a Cordecruz otorgar a su vez al Banco Central de Bolivia, a ese fin, las garantías suficientes pertinentes y cumplir todas las condiciones que este último requiera para tal aval, por el monto total de dieciséis MILLONES CIENTO veintidós mil DOSCIENTOS SETENTA Y DOS 30/100 DOLARES AMERICANOS (US$.16.122.272.30).
+
+**Artículo 3°.-** Se faculta a la Corporación Regional de Desarrollo de Santa Cruz, CORDECRUZ, fijar las tasas por el uso de la mencionada carretera, peaje, y otros, una vez concluida, para su mantenimiento y la recuperación de la inversión que efectuará en su construcción.
+
+**Artículo 4°.-** Se declara la necesidad y utilidad pública y se dispone la expropiación de los terrenos, construcciones, mejoras y fuentes de materiales de construcción en toda la extensión de la carretera desde el Kilómetro 8 hasta el 138, Abapó, con un ancho de cincuenta metros (50 mts.) a cada lado del eje de la vía, cuya propiedad pertenezca a personas individuales o colectivas, públicas o privadas. La necesidad y la utilidad pública así como la expropiación de los materiales de construcción se extiende y abarca inclusive aquellos que se encuentren fuera del ancho de la carretera y que serán utilizados exclusivamente en su construcción.
+
+**Artículo 5°.-** Se dispone que la indemnización legal del valor de los bienes expropiados, conforme a este decreto supremo, queda totalmente compensada con la plus valía que los predios afectados adquirirán por efecto de la construcción de la carretera que los valorizará.
+  
+Cordecruz puede tomar posesión de los mencionados terrenos, bienes y fuentes de materiales expropiados, desde la fecha del presente decreto.
+
+**Artículo 6°.-** Las obras existentes del ferrocarril Santa Cruz Yacuiba, gasoducto a Yacuiba y la línea de alta tensión así como otras líneas existentes de transmisión eléctrica, tienen prioridad sobre el derecho de vía respecto a la construcción de la carretera Santa Cruz Abapó. Cordecruz debe adoptar todas las providencias del Caso, bajo su exclusiva responsabilidad, para no afectar de ningún modo esas obras.
+
+**Artículo 7°.-** Cordecruz asume la plena y exclusiva responsabilidad sobre el diseño, proyecto, ejecución, supervisión y calidad de la construcción de la carretera Santa Cruz, así como respecto de su precio autorizado.
+
+---
+
+Los señores Ministros de Estado en los despachos de Planeamiento y Coordinación así como Finanzas quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de marzo de mil novecientos ochenta y nueve años.
+  
+Fdo. VICTOR PAZ ESTENSSORO, Valentin Abecia Baldiviezo, Eduardo Pérez Beltrán, Alfonso Revollo Thenier, Fernando Romero Moreno, Ramiro Cabezas Masses, Enrique Ipiña Melgar, Alfonso Balderrama Maldonado, Luis Palenque Cordero, Luis Peña Rueda, Joaquin Arce Lema, Lorgio Ruiz Gallardo Min. Mineria y Metalurgia a. i., José Justiniano Sandoval, Fernando Illanes de la Riva, Roberto Roca Iriarte, Walter Zuleta Roncal, Herman Antelo Laughlin, Jaime Zegada Hurtado.

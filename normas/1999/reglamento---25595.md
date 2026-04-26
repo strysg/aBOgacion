@@ -1,0 +1,62 @@
+# Bolivia: Reglamento a la Ley del Ejercicio Profesional del Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, 19 de noviembre de 1999
+
+REGLAMENTO DE LA [Ley Nº 1763](https://www.lexivox.org//norms/BO-L-1763.html) DEL EJERCICIO PROFESIONAL DEL MEDICO VETERINARIO, MEDICO VETERINARIO ZOOTECNISTA Y ZOOTECNISTA
+
+## Capítulo I Fundamento y alcance
+
+**Artículo 1°.-** El presente Reglamento se emite en conformidad a la [Ley Nº 1763](https://www.lexivox.org//norms/BO-L-1763.html) del Ejercicio Profesional del Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista.
+
+**Artículo 2°.-** Las disposiciones del presente Reglamento se aplican exclusivamente al ejercicio profesional del Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, sea en el ámbito público o privado, sin perjuicio de las normas legales que rigen las relaciones de orden laboral.
+
+## Capítulo II Documentacion legal para el ejercicio profesional
+
+**Artículo 3°.-** Constituyen documentos obligatorios para el ejercicio legal de la profesión de Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, los cuales deben ser solicitados por todas las autoridades y empleadores del ramo, ya sean públicos o privados, los siguientes:
+
+1. Título en Provisión Nacional de Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, de acuerdo con los artículos 4 y 5 de la [Ley Nº 1763](https://www.lexivox.org//norms/BO-L-1763.html).
+2. Registro en el Colegio de Médicos Veterinarios de Bolivia (COMVETBOL), a través de los Colegios Departamentales.
+3. Registro en el Ministerio de Agricultura, Ganadería y Desarrollo Rural.
+
+**Artículo 4°.-** A los profesionales extranjeros radicados se exigirá los mismos documentos establecidos en los artículos precedentes, exceptuendo aquellos profesionales que ejercen por convenios internacionales estatales, a los cuales se les asignará una matrícula especial de acuerdo al tiempo estipulado en el convenio.
+
+## Capítulo III Consideraciones generales del ejercicio ilegal del Medico Veterinario, Medico Veterinario Zootecnista y Zootecnista
+
+**Artículo 5°.-** Se considera como ejercicio ilegal de la profesión de médico veterinario, médico veterinario zootecnista y zootecnista, aquellas personas naturales y/o jurídicas que suplanten actividades contempladas en los artículos 2, 4, 5 y 10 de la [Ley Nº 1763](https://www.lexivox.org//norms/BO-L-1763.html), por tanto pacibles a las acciones legales establecidas en el ordenamiento jurídico nacional.
+
+## Capítulo IV Deberes y obligaciones del Medico Veterinario, Medico Veterinario Zootecnista y Zootecnista
+
+**Artículo 6°.-** Son obligaciones del Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, además del cumplimiento de las disposiciones del presente Reglamento, las siguientes:
+
+1. Responder por faltas en que incurriere de acuerdo a lo establecido en el Estatuto Orgánico, Reglamento Interno y Código de Etica del COMVETBOL.
+2. Certificar, avalar y firmar documentos oficiales realizados personalmente o en su defecto apoyado por documentación testimonial, de acuerdo a leyes vigentes.
+3. Superarse constantemente en forma voluntaria, técnica y científica.
+4. Realizar trabajos profesionales con alto sentido de responsabilidad, honestidad y cumpliendo estrictamente el Estatuto y reglamento del COMVETBOL.
+5. Reportar enfermedades de denuncia obligatoria con responsabilidad y celeridad ante las autoridades competentes.
+
+## Capítulo V Derechos del Medico Veterinario, Medico Veterinario Zootecnista y Zootecnista
+
+**Artículo 7°.-** Se consideran derechos del Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, los siguientes:
+
+1. Exigir el cumplimiento de las garantías constitucionales para el desempeño del trabajo profesional; asimismo, la protección requerida para evitar el empirismo y otras acciones dentro de la actividad de la Medicina Veterinaria, por personas que no cumplen con lo establecido en la [Ley Nº 1763](https://www.lexivox.org//norms/BO-L-1763.html) y el presente reglamento.
+2. Percibir justa remuneración por los trabajos realizados, respetando aranceles profesionales aprobados por COMVETBOL.
+3. Exigir garantías y seguridad para el ejercicio de sus funciones y labor profesional así como también exigir indemnizaciones por daños físicos y morales que pudieran ocurrirle en el desempeño de su trabajo.
+4. Los documentos técnicos científicos referentes a los derechos de autor, inventos, etc., son de propiedad del profesional autor de los mismos. La publicación indebida por otra persona sin la autorización pertinente, constituirá plagio, sujeto a las sanciones establecidas por el Tribunal de Honor del COMVETBOL y disposiciones legales en vigencia, según corresponda.
+
+## Capítulo VI Fiscalizacion del ejercicio profesional
+
+**Artículo 8°.-** El colegio Nacional y los Colegios Departamentales de Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, serán los encargados de velar por el cumplimiento legal del ejercicio profesional que corresponda, con las facultades de verificación y fiscalización, en conformidad con el presente reglamento, Estatuto y reglamentos del COMVETBOL.
+
+## Capítulo VII De las sanciones
+
+**Artículo 9°.-** Los infractores al ejercicio legal de la profesión del Médico Veterinario, Médico Veterinario Zootecnista y Zootecnista, serán sancionados de acuerdo a lo establecido por el presente reglamento y Estatuto y reglamentos del COMVETBOL. En caso de evidenciarse delitos, éstos serán denunciados al Ministerio Público para las acciones legales correspondientes.
+
+## Capítulo VIII Disposicion especial
+
+**Artículo 10°.-** El presente Reglamento puede ser modificado a solicitud del COMVETBOL, la que será analizada por el Ministerio de Agricultura, Ganadería y Desarrollo Rural, emitiéndose la norma legal correspondiente.
+
+---
+
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de noviembre de mil novecientos noventa y nueve años.
+  
+Reglamento Anexo al [Decreto Supremo Nº 25595](https://www.lexivox.org//norms/BO-DS-25595.html).
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo MINISTRO INTERINO DE RR. EE. Y CULTO, Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Herbert Müller Costas, Juán Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, Walter Nuñez Rodríguez MINISTRO INTERINO DE AGRICULTURA, GANADERIA Y DESARROLLO RURAL, Erick Reyes Villa Bacigalupi, Carlos Saavedra Bruno, Rubén Poma Rojas, Jorge Landivar Roca.

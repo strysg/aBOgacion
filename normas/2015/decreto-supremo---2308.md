@@ -1,0 +1,116 @@
+# Bolivia: Decreto Supremo Nº 2308, 25 de marzo de 2015
+
+[Decreto Supremo Nº 2308](https://www.lexivox.org//norms/BO-DS-N2308.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), de 17 de diciembre de 2014, establece el tratamiento tributario por el cual se regirán los convenios, acuerdos y otros instrumentos jurídicos internacionales, reembolsables y no reembolsables.
+* Que la Disposición Transitoria Primera de la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), dispone que el Órgano Ejecutivo emitirá el Reglamento respectivo en el plazo de noventa (90) días.
+* Que es necesario establecer la normativa reglamentaria respecto al tratamiento tributario aplicable a los convenios, acuerdos y otros instrumentos jurídicos internacionales, suscritos por el Estado Plurinacional de Bolivia con otros Estados, organismos internacionales, regionales, subregionales, organismos gubernamentales y agencias de cooperación, para una adecuada aplicación operativa de la misma, por parte de las entidades públicas ejecutoras o beneficiarias, a fin de utilizar los recursos en la ejecución de programas y proyectos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), de 17 de diciembre de 2014, Tratamiento Tributario aplicable a los Convenios, Acuerdos y otros Instrumentos Jurídicos Internacionales suscritos por el Estado Plurinacional de Bolivia.
+
+**Artículo 2°.- (Contraparte para la ejecución de convenios de cooperación)** 
+
+1. Las entidades ejecutoras o beneficiarias que reciban recursos de cooperación internacional, son responsables de asignar en sus presupuestos institucionales, los recursos económicos necesarios en calidad de contraparte, para cubrir los gastos y otros que se establezcan en los convenios de cooperación reembolsable y no reembolsable, incluyendo las obligaciones impositivas, según corresponda, conforme lo establecido en la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html).
+     
+   Las entidades públicas ejecutoras o beneficiarias del nivel central del Estado, que no cuenten con recursos propios en su presupuesto institucional para cubrir la contraparte o teniéndolos éstos sean insuficientes, podrán solicitar recursos adicionales del Tesoro General de la Nación - TGN, que será evaluada y en caso de corresponder autorizada por el Ministerio de Economía y Finanzas Públicas, de acuerdo a disponibilidad financiera.
+     
+   En caso que las entidades públicas ejecutoras o beneficiarias sean entidades territoriales autónomas, éstas asumirán la contraparte comprometida en los convenios de cooperación, con recursos propios de sus presupuestos institucionales respectivos.
+2. Las entidades públicas ejecutoras o beneficiarias, previo a la suscripción de convenios de cooperación no reembolsable, deberán presentar al Ministerio de Planificación del Desarrollo, a través del Viceministerio de Inversión Pública y Financiamiento Externo, una certificación presupuestaria de disponibilidad de recursos para cubrir la contraparte nacional, así como las obligaciones impositivas, según corresponda.
+     
+   Asimismo, la mencionada Cartera de Estado remitirá periódicamente al Ministerio de Economía y Finanzas Públicas, información sobre los programas, proyectos, montos y entidades ejecutoras o beneficiarias de los convenios, acuerdos y otros instrumentos jurídicos de cooperación externa suscritos a nombre del Estado.
+
+## Capítulo II Devolución del impuesto al valor agregado a la cooperación no reembolsable
+
+**Artículo 3°.- (Devolución del Impuesto al Valor Agregado)** 
+
+1. Las entidades públicas ejecutoras o beneficiarias de cooperación no reembolsable, asumirán el Impuesto al Valor Agregado sujeto a devolución, efectivamente pagado en la compra de bienes y prestación de servicios en el mercado interno, vinculados a la ejecución de proyectos y/o programas en el marco de los convenios, acuerdos y otros instrumentos jurídicos internacionales.
+2. El monto sujeto a devolución por concepto del Impuesto al Valor Agregado a la entidad de cooperación internacional, por la compra de bienes y adquisición de servicios en territorio nacional vinculados a la ejecución de programas y/o proyectos con recursos de cooperación no reembolsable, será el equivalente a la alícuota general del referido impuesto.
+3. La devolución se realizará a solicitud de la cooperación internacional a la entidad pública ejecutora o beneficiaria, durante la ejecución o conclusión del proyecto, según acuerdo entre partes. Esta solicitud deberá estar respaldada con facturas originales consignadas a nombre del proyecto o programa correspondiente que contengan el crédito fiscal del Impuesto al Valor Agregado.
+4. El crédito fiscal contenido en las facturas de compra de bienes y servicios sujetos a devolución, no podrá ser utilizado en la determinación del Impuesto al Valor Agregado, por las entidades públicas ejecutoras o beneficiarias, ni la entidad de cooperación internacional.
+5. Para fines de control, la entidad pública ejecutora o beneficiaria elaborará un registro especial de las compras relacionadas a la ejecución del programa o proyecto realizado con recursos de donación.
+6. La devolución del Impuesto al Valor Agregado, será autorizada mediante norma expresa por la Máxima Autoridad Ejecutiva de la entidad pública ejecutora o beneficiaria.
+
+## Capítulo III Exención de tributos aduaneros de importación a la cooperación no reembolsable
+
+**Artículo 4°.- (Tratamiento a donaciones)** 
+
+1. La autorización de exención del pago de tributos aduaneros a las mercancías donadas en especie, y aquellas adquiridas en el extranjero con recursos provenientes de donación o cooperación no reembolsable, se realizará a través de un Decreto Supremo mensual en el que se consolidarán las solicitudes de exención que sean presentadas por las entidades públicas ejecutoras o beneficiarias de las donaciones hasta el día quince (15) de cada mes. Excepcionalmente, se podrá emitir más de un Decreto Supremo, cuando la exención tributaria tenga carácter de urgencia y requiera atención inmediata.
+2. Las entidades del sector público, a través del Ministerio cabeza de sector, presentarán al Ministerio de la Presidencia su proyecto de Decreto Supremo adjuntando los correspondientes informes técnico y legal, así como los siguientes requisitos:
+   1. Para mercancías donadas:
+      1. Documento de donación, el cual contará con el Registro o Visto Bueno o Validación Consular de la representación diplomática de Bolivia en el país de procedencia de la mercancía donada, excepto cuando se trate de donaciones de gobierno a gobierno, de organismos internacionales o de lugares donde el país no cuente con consulados;
+      2. Datos del donante;
+      3. Valor de la donación;
+      4. Descripción de la mercancía, la cantidad, y unidad de medida de la misma (bultos, unidades, cajas, pallets, etc.) y, en el caso de vehículos automotores debe especificar la marca, modelo, número de chasis y motor;
+      5. Destino de la donación y, cuando corresponda, el proyecto en el que se enmarca;
+      6. Parte de recepción de mercancías;
+      7. Documento de embarque;
+   2. Para mercancías adquiridas en el extranjero, con recursos de donación o cooperación no reembolsable:
+      1. Convenio y/o contrato debidamente registrado en el Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo;
+      2. Datos del donante;
+      3. Valor de la donación;
+      4. Descripción de la mercancía, la cantidad y unidad de medida de la misma (bultos, unidades, cajas, pallets, etc.) y, en el caso de vehículos automotores debe especificar la marca, el modelo, número de chasis y motor;
+      5. Destino de la donación y, cuando corresponda, el proyecto en el que se enmarca;
+      6. Parte de recepción de mercancías;
+      7. Documento de embarque; y
+      8. Factura comercial.
+3. En caso de entidades públicas ejecutoras o beneficiarias, que no pertenezcan al Órgano Ejecutivo del nivel central del Estado, el proyecto de norma será presentado a través del Ministerio correspondiente, según el ámbito de su competencia o la naturaleza de la mercancía, cumpliendo los requisitos señalados en el Parágrafo precedente.
+4. Para la regularización del despacho de importación de las mercancías donadas o adquiridas con recursos de donación, la entidad pública ejecutora o beneficiaria deberá cumplir con los requisitos exigidos por la normativa aduanera, independientemente a la obtención de la exención de los tributos aduaneros.
+5. En caso de donaciones destinadas a la atención de emergencias y desastres ocasionados por fuerza mayor y/o caso fortuito, se aplicará lo dispuesto en la normativa aduanera referente a envíos de socorro.
+6. Las solicitudes de exención de entidades públicas ejecutoras o beneficiarias, serán consideradas por el Ministerio de Economía y Finanzas Públicas y la Aduana Nacional, en el marco de sus competencias.
+7. La entidad pública ejecutora o beneficiaria de la exención, deberá prever en su presupuesto institucional los gastos por concepto de almacenaje, transporte y otros gastos operativos.
+
+**Artículo 5°.- (Transferencia de mercancías donadas)** Las mercancías señaladas en el Parágrafo I del Artículo precedente, podrán ser transferidas a título gratuito, con la exención total del pago de tributos aduaneros de importación y del impuesto a las transacciones, a los destinatarios finales de proyectos y/o programas, entidades públicas, entidades territoriales, descentralizadas o autónomas; organizaciones económico productivas, organizaciones indígenas, campesinas y movimientos sociales, sin fines de lucro.
+
+**Artículo 6°.- (Importación de mercancías para proyectos y/o programas de cooperación técnica)** La importación de mercancías con exención del pago de los tributos aduaneros, para la ejecución de proyectos y/o programas en el marco de los convenios, acuerdos y otros instrumentos jurídicos internacionales de cooperación técnica, suscritos por autoridad competente, será tramitada a través del Ministerio de Relaciones Exteriores y autorizada mediante Resolución expresa emitida por la Aduana Nacional.
+
+**Artículo 7°.- (Disposición de mercancías exentas importadas para proyectos y/o programas de cooperación técnica)** 
+
+1. Durante la ejecución de los proyectos y/o programas en el marco de convenios, acuerdos y otros instrumentos jurídicos internacionales de cooperación técnica, las mercancías importadas con exención del pago de los tributos aduaneros, no podrán enajenarse o cederse bajo ningún título, ni destinarse a fines distintos.
+2. Las mercancías señaladas en el Parágrafo precedente, podrán ser transferidas a título gratuito, con la exención del pago total de tributos aduaneros de importación y del impuesto a las transacciones, una vez transcurridos tres (3) años a partir de la importación o una vez finalizados los proyectos y/o programas, a favor de entidades públicas, consignadas como beneficiarias o responsables de la contraparte nacional en los acuerdos o convenios de cooperación.
+3. Para efectos del cómputo del período de los tres (3) años, a objeto de la transferencia de mercancías importadas con exención de tributos aduaneros, se tomará en cuenta la fecha de ingreso a la Aduana respectiva, consignada en el Parte de Recepción.
+4. Cuando los acuerdos o convenios de cooperación no prevean el beneficiario de las mercancías importadas para un determinado proyecto y/o programa luego de su ejecución, el Ministerio cabeza de sector mediante resolución expresa, establecerá la entidad beneficiaria de las mismas, la cual deberá regularizar la documentación que respalda la importación y transferencia ante la Aduana Nacional.
+5. En caso de efectuarse la transferencia a favor de terceros privados, éstos deberán pagar la totalidad de los tributos exencionados, conforme la normativa tributaria vigente.
+
+**Artículo 8°.- (Cooperante)** 
+
+1. A los fines de aplicación del Parágrafo VI del Artículo 4 de la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), se entiende por cooperante a las personas naturales que, en su condición de consultores, expertos, especialistas u otros que estén destinados a la realización de trabajos específicos para la ejecución de proyectos y/o programas, en el marco de los convenios, acuerdos y otros instrumentos jurídicos internacionales de cooperación técnica.
+2. El cooperante que cumpla la condición establecida en el Parágrafo precedente, y cuya permanencia sea mayor a los doce (12) meses, debidamente acreditado ante el Ministerio de Relaciones Exteriores, podrá importar mercancías de uso y consumo hasta un valor CIF aduana de USD 6.000.- (SEIS mil 00/100 DÓLARES ESTADOUNIDENSES) y un vehículo cada dos (2) años cuyo valor CIF aduana no exceda de USD 23.000.- (VEINTITRÉS mil 00/100 DÓLARES ESTADOUNIDENSES).
+     
+   En caso que el valor CIF Aduana exceda a los importes establecidos anteriormente, pagará los tributos de importación que correspondan sobre el excedente.
+3. El vehículo importado con exención de tributos aduaneros por el cooperante, podrá ser transferido en favor de personas que tengan derecho a exoneración de los tributos aduaneros, previa autorización del Ministerio de Economía y Finanzas Públicas.
+4. Cuando el vehículo importado sea enajenado en favor de terceros, la transferencia del mismo estará sujeta al pago total o residual de los tributos aduaneros conforme dispone la normativa vigente.
+
+## Capítulo IV Cooperación reembolsable
+
+**Artículo 9°.- (Cooperación reembolsable)** Las entidades públicas ejecutoras o beneficiarias de cooperación reembolsable, para la importación de mercancías destinadas a la ejecución de proyectos y/o programas cubrirán los tributos correspondientes con recursos de contraparte o en su caso con recursos de la cooperación, cuando así lo establezca el Convenio y se cuente con la no objeción de la entidad de cooperación internacional, en conformidad con lo establecido en el Artículo 5 de la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html).
+
+## Disposiciones adicionales
+
+**Artículo adicional 1°.-** Los convenios subsidiarios reembolsables y no reembolsables suscritos por las entidades correspondientes, incorporarán una disposición que permita operativizar el débito automático en los casos que corresponda, misma que será aplicable en caso de incumplimiento de las obligaciones tributarias asumidas a través de las entidades públicas ejecutoras o beneficiarias.
+
+**Artículo adicional 2°.-** Con el objeto de dar cumplimiento a los Convenios suscritos y ratificados por el Estado Plurinacional de Bolivia, se exceptúa de la prohibición establecida en la Disposición Final Primera del [Decreto Supremo Nº 2232](https://www.lexivox.org//norms/BO-DS-N2232.html), de 31 de diciembre de 2014, a las transferencias de vehículos en las zonas francas comerciales, a favor de las Misiones Diplomáticas, Oficinas Consulares, Misiones Permanentes, Organismos Internacionales, Gubernamentales, Intergubernamentales, Multilaterales, Regionales y Sub regionales.
+
+## Disposiciones finales
+
+**Artículo final 1°.-** Las entidades públicas ejecutoras o beneficiarias que reciban recursos de cooperación internacional podrán establecer procedimientos internos complementarios, para facilitar el efectivo cumplimiento de la [Ley Nº 617](https://www.lexivox.org//norms/BO-L-N617.html), de 17 de diciembre de 2014 y el presente Decreto Supremo.
+
+**Artículo final 2°.-** La Aduana Nacional, en coordinación con el Ministerio de Relaciones Exteriores, mediante normativa administrativa establecerá el procedimiento interno para la importación de mercancías con la exención de tributos aduaneros destinadas a la ejecución de programas y proyectos de cooperación técnica, en un plazo de treinta (30) días hábiles, computables a partir de la publicación del presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Relaciones Exteriores, de Planificación del Desarrollo, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de marzo del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, José Hugo Moldiz Mercado, Jorge Ledezma Cornejo, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic MINISTRO DE CULTURAS Y TURISMO E INTERINO DE DEPORTES, Marianela Paco Duran.

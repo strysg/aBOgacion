@@ -1,0 +1,195 @@
+# Bolivia: Decreto Supremo Nº 27824, 3 de noviembre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996 - Ley de Pensiones, en su Artículo 68 establece que la misma será reglamentada mediante Decreto Supremo.
+* Que la [Ley Nº 1883](https://www.lexivox.org//norms/BO-L-1883.html) de 25 de junio de 1998 - Ley de Seguros, en su Artículo 36, establece que los Seguros Obligatorios solo pueden ser establecidos por Ley; asimismo, establece que la defensa de la continuidad de los medios de subsistencia y la rehabilitación de las personas inutilizadas, se realiza por el Estado mediante el establecimiento de seguros obligatorios que conforman regímenes de seguridad social.
+* Que el Artículo 24 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html) de 17 de enero de 1997, prevé la emisión de los Dictámenes de Invalidez o Fallecimiento del Seguro Social Obligatorio - SSO a cargo de una Entidad Encargada de Calificar - EEC.
+* Que de conformidad con el Artículo 22 y 52 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), cuando los Entes Gestores de Salud determinen que la afección o desorden que sufre un Afiliado es irreversible y permanente, tienen la obligación de emitir un diagnóstico, una copia del cual debe ser entregado al Afiliado y una copia de los resultados de exámenes, análisis, tratamiento y otros documentos respaldatorios del diagnóstico deben ser enviados a la Administradora de Fondos de Pensiones - AFP, en un plazo no mayor a los diez (10) días hábiles contados a partir del día de dicha determinación.
+* Que el [Decreto Supremo Nº 25174](https://www.lexivox.org//norms/BO-DS-25174.html) de 15 de septiembre de 1998, aprueba el Manual Unico de Calificación, conformado por el Manual de Calificación y Evaluación del Grado de Invalidez y la Lista de Enfermedades Profesionales.
+* Que en cumplimiento al Artículo 37 de la Ley de Pensiones, los seguros colectivos de Riesgo Común, Riesgo Profesional/Laboral han sido transferidos a Entidades Aseguradoras para que éstas administren los mismos.
+* Que de conformidad con los incisos j) y k) del Artículo 31 de la Ley de Pensiones, las AFP's están obligadas a contratar los servicios necesarios para determinar si el fallecimiento o la invalidez de un Afiliado ha sido causada por Riesgo Común, Riesgo Profesional/Laboral y en el caso de Invalidez para determinar adicionalmente el grado de la misma.
+* Que de conformidad a lo dispuesto por el Artículo 2 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), son Entes Gestores de Salud, las entidades públicas o privadas que proveen atención de salud a los Afiliados Activos, Afiliados Pasivos y Asegurados al Sistema de Reparto; en este marco, la Entidad Encargada de Calificar puede contratar los servicios de Centros Médicos de Salud debidamente autorizados por el Ministerio de Salud y Deportes.
+* Que de acuerdo al Artículo 31 del [Decreto Supremo Nº 27324](https://www.lexivox.org//norms/BO-DS-27324.html) de 22 de enero de 2004, el Ministerio de Salud y Deportes emitirá la Resolución Ministerial que establezca las sanciones aplicables a los Entes Gestores de Salud que incumplan lo dispuesto por el Segundo párrafo del Artículo 55 de la Ley de Pensiones, que establece que las entidades que continúen prestando seguros de salud o de seguridad social de corto plazo quedan prohibidas de realizar actividades relacionadas con la seguridad social de largo plazo, así como, los Centros Médicos o Seguros Delegados que presten seguros de salud.
+* Que es necesario optimizar y agilizar los procedimientos de calificación del origen, causa y grado de la invalidez u origen y causa del fallecimiento en beneficio de los Afiliados al Seguro Social Obligatorio de largo plazo.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+## Capítulo I Disposición general
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer la constitución y funcionamiento de la Entidad Encargada de Calificar - EEC el origen, causa y grado para las prestaciones de Invalidez y, el origen y causa para las prestaciones por Fallecimiento del Seguro Social Obligatorio de Largo Plazo - SSO, así como las normas complementarias para el otorgamiento de prestaciones de Invalidez o Fallecimiento.
+
+## Capítulo II Entidad encargada de calificar
+
+**Artículo 2°.- (Entidad encargada de calificar)** Para la determinación del origen, causa, grado y fecha de Invalidez para las prestaciones de Invalidez y el origen y causa para las prestaciones por Fallecimiento del SSO, las Administradoras de Fondos de Pensiones - AFP's y las Entidades Aseguradoras que administran los Seguros de Riesgo Común y Riesgo Profesional/Laboral del SSO, deberán constituir, en un plazo no mayor a los cuatro (4) meses de publicado el presente Decreto Supremo, una única Entidad Encargada de Calificar - EEC, bajo la forma jurídica de Asociación Civil, en el marco de los Artículos 52 y 58 del Código Civil, con participación propietaria igualitaria entre ambas industrias.
+
+**Artículo 3°.- (Naturaleza y objeto de la EEC)** La EEC tendrá personalidad jurídica propia de alcance nacional, cuyo objeto social será la calificación del origen, causa, grado y fecha de Invalidez para las prestaciones de Invalidez y el origen y causa para las prestaciones por Fallecimiento de los afiliados al SSO.
+  
+La EEC, se encontrara bajo control, supervisión y regulación de la Superintendencia de Pensiones, Valores y Seguros - SPVS, no estando sujeta a tasa de regulación.
+
+**Artículo 4°.- (Facultades de la EEC)** La EEC tendrá las siguientes facultades:
+
+1. Solicitar a los Entes Gestores de Salud, la información técnico médica existente que respalde el diagnóstico, que no hubiere sido presentada inicialmente a la AFP.
+2. Solicitar al Ente Gestor de Salud la totalidad de la información técnico médica que respalde el diagnóstico para la calificación del caso.
+3. Solicitar exámenes e informes complementarios, al Ente Gestor de Salud, sean médicos o de otro tipo.
+4. Contratar a los Médicos Calificadores de acuerdo al “Manual de Contratación de Médicos Calificadores, Entes Gestores de Salud y Centros Médicos”.
+5. Contratar a Entes Gestores de Salud o Centros Médicos autorizados, en el marco del “Manual de Contratación de Médicos Calificadores, Entes Gestores de Salud y Centros Médicos”. Los costos derivados de estos servicios serán cubiertos con cargo a los seguros de Riesgo Común y Riesgo Profesional/Laboral.
+6. Contratar profesionales médicos especialistas estén o no habilitados en el Registro de Calificadores, quienes cumplirán una función únicamente de asesoría y no de calificación. Los honorarios de estos asesores, serán cubiertos con cargo a los seguros de Riesgo Común y Riesgo Profesional/Laboral.
+7. Establecer su organización, funcionamiento, lugares de operación y otros aspectos técnicos y administrativos necesarios.
+8. Elaborar el Manual de Sesiones de Calificación del Tribunal Médico de Calificación - TMC, el que deberá contar con la no objeción de la SPVS.
+
+**Artículo 5°.- (Aprobacion de la SPVS)** Previo al reconocimiento de la personalidad jurídica que otorga la Prefectura de Departamento, la Asociación Civil deberá presentar a la SPVS para su no objeción, la escritura de constitución y los estatutos de la Asociación Civil conformada como EEC, en un plazo máximo de dos (2) meses computables a partir de la publicación del presente Decreto Supremo.
+  
+Constituida la Asociación Civil, su representante legal deberá solicitar la autorización de funcionamiento ante la SPVS, acompañando un proyecto de “Manual de Contratación de Médicos Calificadores, Entes Gestores de Salud y Centros Médicos”. La SPVS, en el marco del inciso d) del Artículo 49 de la Ley de Pensiones y el inciso k) del Artículo 13 de la Ley de Seguros, resolverá la solicitud en un plazo máximo de siete (7) días hábiles administrativos mediante Resolución Administrativa expresa.
+
+**Artículo 6°.- (Confidencialidad)** La información escrita o verbal a la que tienen acceso los miembros de la EEC tendrá carácter confidencial, no pudiendo ser revelada a ninguna otra institución o persona excepto al Afiliado, a la SPVS, a la AFP o Entidad Aseguradora o sus Reaseguradores, a través de la Aseguradora, en los casos bajo su administración, mediante requerimiento escrito.
+
+## Capítulo III Conformación, funciones y atribuciones del Tribunal Médico de Calificación
+
+**Artículo 7°.- (Tribunal medico de calificacion)** La EEC deberá contar necesariamente con al menos un Tribunal Médico de Calificación - TMC, que constituye la unidad técnico-médica especializada.
+
+**Artículo 8°.- (Conformacion)** Cada TMC deberá estar compuesto por al menos tres (3) profesionales médicos habilitados en el “Registro de Médicos Calificadores” de la SPVS y siempre en número impar.
+  
+Los médicos calificadores serán contratados por la EEC de acuerdo al “Manual de Contratación de Calificadores, Entes Gestores de Salud y Centros Médicos”, señalado en el Artículo 4 del presente Decreto Supremo.
+
+**Artículo 9°.- (Funciones)** El TMC tendrá las siguientes funciones:
+
+1. Determinar el origen de la incapacidad/invalidez, identificando si corresponde a Riesgo Común o Riesgo Profesional/Laboral, de conformidad a lo establecido en la normativa vigente.
+2. Determinar la causa de la incapacidad/invalidez, identificando si corresponde a enfermedad o accidente, de conformidad a lo establecido en la normativa vigente.
+3. Evaluar y calificar la incapacidad/invalidez determinando el grado de la misma.
+4. Determinar el origen del fallecimiento, identificando si corresponde a Riesgo Común o Riesgo Profesional/Laboral, de conformidad a lo establecido en la normativa vigente.
+5. Determinar la causa del fallecimiento, identificando si corresponde a enfermedad o accidente, de conformidad a lo establecido en la normativa vigente.
+6. Determinar la Fecha de Invalidez.
+7. Llevar un Libro de Actas notariado para registrar los casos calificados, haciendo constar las observaciones y comentarios de los participantes del TMC.
+8. Elaborar un informe detallado por cada caso calificado con la debida justificación técnica para cada variable calificada.
+9. Para realizar estas funciones, el TMC deberá utilizar y aplicar el Manual de Normas de Evaluación y Calificación del Grado de Invalidez y la Lista de Enfermedades Profesionales, aprobados en normativa vigente.
+10. Lo señalado en los cinco (5) primeros incisos deberá ser consignado en el Dictamen de Invalidez o Fallecimiento, el que deberá ajustarse al formato de dictamen aprobado mediante Resolución Administrativa de la SPVS.
+11. La Fecha de Invalidez o Fallecimiento deberá ser consignada en el Formulario de Fecha de Invalidez o Fallecimiento, en formato aprobado mediante Resolución Administrativa de la SPVS.
+
+**Artículo 10°.- (Atribuciones)** El TMC, a través de la EEC, tendrá las siguientes atribuciones:
+
+1. Solicitar a los Entes Gestores de Salud, la información técnico médica que respalde el diagnóstico, la misma que debe ser cubierta en sus costos por el Ente Gestor de Salud.
+2. Solicitar exámenes e informes adicionales, sean médicos, de trabajo social, de evaluación de puesto de trabajo o de otro tipo relacionado a la calificación, cuyos costos serán cubiertos con recursos de los seguros de Riesgo Común o Riesgo Profesional/Laboral.
+3. Solicitar la contratación de profesionales médicos especialistas estén o no habilitados en el Registro de Calificadores, quienes cumplirán una función únicamente de asesoría y no de calificación. Los honorarios de estos asesores, serán cubiertos con cargo a los seguros de Riesgo Común y Riesgo Profesional/Laboral.
+
+**Artículo 11°.- (Sesiones de calificacion)** El TMC sesionará y emitirá los Dictámenes de Invalidez o Fallecimiento, y la Fecha de Invalidez o Fallecimiento por simple mayoría. Dichas decisiones deberán llevar la firma de todos los médicos que participaron en la sesión de calificación, como miembros del TMC. Ninguno de los miembros del TMC podrá abstenerse de emitir opinión.
+  
+El TMC en el proceso de calificación, deberá considerar todos los antecedentes técnicos médicos relevantes, proporcionados por los Entes Gestores de Salud para la calificación. Sin embargo, si la EEC tuviese elementos de convicción suficientes para desestimar alguno de ellos, deberá respaldar la desestimación dentro del plazo establecido para la emisión del Dictamen correspondiente, sin que esto signifique la modificación del plazo de emisión del Dictamen. En los casos de desestimación, la responsabilidad de la carga de la prueba será asumida por la EEC.
+  
+Los médicos calificadores deberán excusarse de participar en una sesión de calificación del TMC, cuando hubieran participado en la elaboración de la información técnico médica, tuvieran relación de parentesco hasta el tercero grado de consanguinidad o afinidad con el Afiliado o existiera conflicto de interés.
+
+**Artículo 12°.- (Participacion del ente gestor de salud)** Con carácter previo a la instalación de la sesión de calificación, un representante del Departamento de Medicina del Trabajo, o equivalente, del Ente Gestor de Salud que hubiera emitido la documentación médica que consta en el expediente, podrá presentar y explicar el caso sujeto de calificación ante el TMC. El representante del Ente Gestor de Salud, de acuerdo a normativa vigente no tendrá derecho a voto ni a participar en la sesión de calificación.
+  
+El representante del Ente Gestor de Salud no percibirá ningún ingreso ni remuneración alguna de la EEC.
+  
+La EEC comunicará al Ente Gestor de Salud respecto a los casos a ser calificados con al menos tres días calendario de anticipación. La ausencia del representante del Ente Gestor de Salud no impedirá ni invalidará la prosecución del proceso de calificación.
+
+**Artículo 13°.- (Revision medica)** El TMC tendrá la facultad de convocar al Afiliado para realizar una revisión médica, cuando así lo considere necesario. Para este efecto, la EEC deberá contar con instalaciones y equipo de médico de atención primaria.
+  
+Cuando el TMC solicite el traslado del Afiliado, los gastos relacionados a este deberán ser cubiertos con recursos de los seguros de Riesgo Común y Riesgo Profesional/Laboral, de acuerdo a Reglamento de la SPVS.
+
+## Capítulo IV Registro de médicos calificadores del SSO
+
+**Artículo 14°.- (Requisitos de habilitacion)** La SPVS mantendrá un registro de médicos habilitados para ejercer la función de calificadores en el SSO.
+  
+Podrán acceder a dicho registro las personas que cumplan con los siguientes requisitos:
+
+1. Ser médico de profesión.
+2. Estar inscrito en el Colegio Médico.
+3. Haber aprobado el examen con un puntaje igual o mayor a setenta por ciento (70%), acreditado por el Certificado de aprobación emitido por la SPVS, sobre:
+4. Uso del Manual de Normas de Evaluación y Calificación del Grado de Invalidez - MANECGI y la Lista de Enfermedades Profesionales - LEP.
+5. Marco normativo de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996 - Ley de Pensiones y normas conexas.
+6. Marco normativo de la Ley de Higiene y Seguridad Industrial.
+7. Acreditar al menos cinco (5) años de experiencia laboral en su área de especialización.
+8. No haber sido sujeto de proceso penal con sentencia ejecutoriada con pena privativa de libertad.
+9. Las personas que deseen inscribirse en el registro y habilitarse como calificadores, podrán hacerlo en las oficinas de la SPVS presentando copia de su Documento de Identidad, copia de su Título Profesional, Registro al Colegio Médico, Certificado de aprobación de la SPVS y Curriculum Vitae.
+10. Los profesionales que hubieran aprobado el examen podrán registrarse en el plazo máximo de doce (12) meses posteriores a la fecha de emisión del Certificado de aprobación.
+
+**Artículo 15°.- (Actualizacion)** Los profesionales del Registro de Médicos Calificadores de la SPVS deberán rendir nuevamente el examen en el uso del MANECGI y la LEP, al menos una vez cada dos (2) gestiones anuales, dependiendo de la periodicidad de los exámenes que organice la SPVS.
+  
+Los médicos que no aprueben dicho examen o los que no se presenten al mismo cuando los corresponda, serán automáticamente inhabilitados para ejercer la función de médico calificador, pudiendo habilitarse nuevamente una vez que aprueben un examen posterior, cumpliendo lo establecido en el Artículo precedente.
+
+## Capítulo V Obligaciones de los entes gestores de salud e información para la calificación
+
+**Artículo 16°.- (Informacion a los asegurados)** Cuando la afección o desorden que sufren los asegurados sea irreversible y permanente, es obligación de los Entes Gestores de Salud informarles de forma escrita y oportuna sobre ésta condición, entregándoles copia del diagnóstico, para que puedan tramitar pensiones de Invalidez en el SSO.
+
+**Artículo 17°.- (Informacion para la calificacion)** En un plazo máximo de cinco (5) días hábiles administrativos de recibida la solicitud de pensión y los documentos proporcionados por el afiliado o derechohabientes, la AFP deberá remitir a la EEC dichos documentos.
+  
+En un plazo máximo de tres (3) días hábiles administrativos de recibida la documentación, la EEC deberá requerir al Ente Gestor de Salud la totalidad de la información técnico médica que respalde el diagnóstico para la calificación del caso.
+  
+El Ente Gestor de Salud tiene la obligación de remitir a la EEC, una copia del diagnóstico (Formulario de Evaluación de Invalidez o su equivalente), copia de los resultados de exámenes, análisis, tratamiento, el Resumen de la Historia Clínica y otros documentos que respaldan el diagnóstico y pronóstico emitidos, en un plazo no mayor a diez (10) días hábiles administrativos, computables a partir de la fecha de recepción de dicho requerimiento.
+  
+Si la información remitida es incompleta para respaldar el diagnóstico emitido por el Ente Gestor de Salud, la EEC se encuentra facultada para solicitar la complementación dentro de los cinco (5) días hábiles administrativos de recibida la misma y el Ente Gestor de Salud contará con un plazo de diez (10) días hábiles administrativos de recibida la solicitud de la EEC, para remitir la documentación solicitada.
+  
+El costo de la información técnico médica que respalde el diagnóstico y pronóstico realizados, será imputable al Ente Gestor de Salud responsable.
+
+**Artículo 18°.- (Responsabilidad por la informacion remitida)** Toda información técnico-médica remitida por los Entes Gestores de Salud a las AFP o EEC, debe identificar inequívocamente al asegurado que corresponda, a través de la carátula del expediente la que debe contar con información de nombres, apellidos, matrícula, cédula de identidad, fojas y otras que correspondiera.
+  
+En caso de existir información observada por alguna irregularidad, las personas o entidades que efectúen la observación podrán adoptar las medidas legales que correspondan contra el Ente Gestor de Salud que proporcionó dicha información.
+
+**Artículo 19°.- (Cotizaciones para prestacion de servicios)** Cuando la SPVS o la EEC soliciten a un Ente Gestor de Salud cotizaciones para la provisión de exámenes adicionales, éste deberá responder en un plazo máximo de quince (15) días hábiles administrativos a contar desde la fecha de recepción de la solicitud.
+
+**Artículo 20°.- (Atencion curativa de salud)** La responsabilidad por la atención curativa de salud y su financiamiento, corresponde única y exclusivamente a los Entes Gestores de Salud en el marco del Código de Seguridad Social, no correspondiendo su financiamiento por parte de la EEC, AFP o Entidades Aseguradoras.
+
+**Artículo 21°.- (Reglamento de sanciones)** El Ministerio de Salud y Deportes contará con un plazo máximo de noventa (90) días calendario a contar desde la publicación del presente Decreto Supremo, para adecuar su Reglamento de Sanciones, establecido en el Artículo 31 del [Decreto Supremo Nº 27324](https://www.lexivox.org//norms/BO-DS-27324.html), a lo dispuesto en el presente Decreto Supremo.
+
+## Capítulo VI Calificación y emisión de dictamen y formulario de fecha de invalidez y fallecimiento
+
+**Artículo 22°.- (Cobertura en casos de desaparicion del afiliado)** En los casos de Afiliados desaparecidos, la verificación del cumplimiento de los requisitos de cobertura y plazo para presentar la solicitud de pensión por fallecimiento, serán:
+  
+Para la verificación de los requisitos de cobertura establecidos en el Artículo 8 de la Ley de Pensiones, se considerará la fecha de la última noticia sobre el ausente, establecida por autoridad pública competente.
+  
+Para la verificación del cumplimiento del plazo para solicitar la prestación por fallecimiento establecido en el Artículo 20 de la Ley de Pensiones, se considerará la fecha de inscripción de la partida del Certificado de Defunción como fecha de siniestro.
+  
+En estos casos la causa de fallecimiento será considerada como accidente.
+  
+En el caso de un Afiliado desaparecido, cuyo cuerpo sin vida sea encontrado antes de la Declaración de Muerte presunta emitida por Juez de Instrucción en lo Civil, se aplicará lo establecido en los incisos a) y b) precedentes.
+
+**Artículo 23°.- (Fecha de siniestro)** Para las prestaciones de Invalidez y Fallecimiento de origen común o profesional del SSO, la denominada fecha de siniestro corresponderá a la Fecha de Invalidez o a la Fecha de Fallecimiento, cuando se trate de Invalidez o Fallecimiento respectivamente. Dichas fechas aplicarán para todos los efectos legales.
+  
+La fecha de siniestro deberá consignarse en un Formulario de Fecha de Invalidez o Fallecimiento según corresponda, en los formatos y condiciones establecidos mediante Resolución Administrativa de la SPVS. Dicho Formulario deberá llenarse y suscribirse por todos los miembros del TMC de conformidad a lo establecido en el presente Decreto Supremo.
+
+**Artículo 24°.- (Determinacion de la fecha de invalidez)** La Fecha de Invalidez, será la fecha en la cual el Ente Gestor de Salud establece que la atención curativa ya no procede y que la afección es permanente e irreversible y recomienda al Asegurado ejercer su derecho a solicitud de pensión. Dicha fecha será consignada en el “Formulario de Invalidez o Fallecimiento” por los miembros del TMC, al momento de emitir el primer dictamen.
+  
+En ausencia de lo señalado en el párrafo precedente, la Fecha de Invalidez será determinada con relación a la fecha en que se presenta la incapacidad en el grado que determine el dictamen emitido por el TMC, sobre la base de los antecedentes técnico-médicos remitidos por los Entes Gestores de Salud así como de los exámenes adicionales o revisión médica que pudieran requerir los médicos calificadores. En estos casos, el TMC deberá determinar:
+
+1. Una fecha exacta
+2. Un período que deberá estar determinado como semestre, año, bienio o trienio y contar explícitamente con el inicio y el final de dicho período.
+3. Cuando se establezca un período como Fecha de Invalidez y este período comprenda una fecha, denominada “fecha crítica”, para la determinación de obligaciones de una o más Entidades Aseguradoras, el TMC adicionalmente deberá solicitar una segunda opinión de profesional especialista en la patología sujeta a calificación, que indique si la Fecha de Invalidez es anterior o posterior a la mencionada “fecha crítica”, cuyos costos serán cubiertos por la EEC.
+4. En caso de que el TMC desestime la opinión del profesional(es) especialista(as) o si éste no pudiera emitir un pronunciamiento dirimitorio, las obligaciones financieras serán determinadas a prorrata entre la fecha inicial del período, la “fecha crítica” y la fecha final del período.
+5. Cuando se establezca un período como Fecha de Invalidez y dentro de este período el Afilado registre una fecha que el otorgue cobertura, la misma será utilizada para la verificación de requisitos.
+6. Lo dispuesto en el presente Artículo aplica a aquellos casos en los que a efectos de la calificación, el Afiliado presente una condición de invalidez manifestada no predominante o nula, evaluada de acuerdo al MANECGI. Para los casos con invalidez manifestada no predominante, la Fecha de Invalidez debe basarse en la patología nueva no manifestada, aspectos que deberán ser determinados por el TMC.
+
+**Artículo 25°.- (Adecuacion de casos con fecha de invalidez indeterminada)** Aquellos casos que cuenten con Fecha de Invalidez Indeterminada y que a la fecha de publicación del presente Decreto Supremo no se encuentren percibiendo pensión, deberán sujetarse al procedimiento establecido en el Artículo precedente, única y exclusivamente para levantar la indeterminación de la Fecha de Invalidez.
+  
+A partir de la publicación del presente Decreto Supremo y mientras el TMC inicie sus operaciones, la Unidad Médica Calificadora de la SPVS o de las AFP deberán determinar la Fecha de Invalidez conforme a lo establecido en el Artículo precedente para los casos pendientes de calificación, así como para los que se encontraran en revisión, apelación en sede administrativa o sujetos de resolución en la vía jurisdiccional.
+
+**Artículo 26°.- (Formatos)** Los dictámenes de Invalidez o Fallecimiento así como los Formularios de Fecha de Invalidez o Fallecimiento, deberán ser elaborados en los formatos tipo aprobados mediante Resolución Administrativa de la SPVS.
+  
+Los Dictámenes y Formulario de Fecha de Invalidez o Fallecimiento deberán ser suscritos por todos los médicos calificadores que hubieran participado en la calificación.
+
+## Capítulo VII Emisión y notificacion del dictamen y formulario de fecha de invalidez o fallecimiento
+
+**Artículo 27°.- (Emision de dictamen)** La EEC deberá emitir el Dictamen y la Fecha de Invalidez o Fallecimiento en un plazo máximo de cinco (5) días hábiles administrativos, computados a partir de la recepción de la información completa del Afiliado.
+  
+El plazo señalado en el párrafo precedente será suspendido provisionalmente en caso de que se hubiera solicitado exámenes adicionales o se hubiera solicitado la contratación de profesionales médicos especialistas. El plazo máximo de suspensión será de veinte (20) días hábiles administrativos salvo casos debidamente justificados ante la SPVS.
+  
+La corrección de los Datos personales del Afiliado o Datos laborales del Afiliado incluidos en el dictamen, deberán ser solicitados a la EEC.
+
+**Artículo 28°.- (Notificacion del dictamen)** La EEC deberá notificar el dictamen y formulario de fecha de invalidez o fallecimiento, a la AFP y Entidad Aseguradora correspondientes, en un plazo máximo de cinco (5) días calendario de emitidos los mencionados documentos.
+  
+Por su parte, es obligación de la AFP notificar personalmente al Afiliado o sus derechohabientes en un plazo máximo de treinta (30) días calendario contados a partir de la recepción de notificación efectuada por la EEC. Dentro de este plazo, la AFP deberá demostrar haber agotado las siguientes instancias de notificación personal:
+
+1. Haber contactado al menos una vez al Afilado o sus Derechohabientes, en el Domicilio señalado por éste o éstos al momento de efectuar la solicitud de pensión. En caso de imposibilidad de notificación personal en el domicilio legal declarado por el o los solicitantes, la AFP deberá dejar una nota de citación para apersonamiento a las oficinas de la AFP. La recepción de la nota de citación deberá identificar de manera inequívoca a su receptor.
+2. En caso de efectuar lo señalado en el inciso precedente y no ser encontrado el Afiliado, siempre que éste cuente con relación laboral de dependencia, se deberá comunicar mediante nota al Empleador que el Dictamen y Fecha de Invalidez se encuentra emitido debiendo el dependiente apersonarse a la AFP para su notificación personal.
+3. Haberse comunicado por teléfono o por correo electrónico con el Afiliado o sus Derechohabientes solicitándoles que se apersonen a la AFP para su notificación personal, con base en la información de contacto proporcionada por los interesados en la solicitud.
+4. Una vez agotadas las instancias mínimas descritas en los incisos precedentes, la AFP, esperara 15 días calendario el apersonamiento del interesado.
+5. Vencido el plazo de espera, la AFP deberá notificar en el domicilio declarado por el Afiliado o los Derechohabientes, en un plazo máximo de quince (15) días calendario contados a partir del vencimiento señalado en el párrafo precedente. La notificación en domicilio deberá presentar evidencia inequívoca del receptor de la notificación.
+
+---

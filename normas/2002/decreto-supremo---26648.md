@@ -1,0 +1,79 @@
+# Bolivia: Decreto Supremo Nº 26648, 13 de junio de 2002
+
+ENRIQUE TORO TEJADA
+  
+PRESIDENTE INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que por [Decreto Supremo Nº 22154](https://www.lexivox.org//norms/BO-DS-22154.html) de 15 de marzo de 1989, se creó el Fondo de Desarrollo Campesino - FDC, como entidad de derecho público, de fomento y sin fines de lucro, con personalidad jurídica propia, autonomía administrativa, técnica y financiera con el principal objetivo de contribuir al desarrollo económico social del campesino.
+* Que el Fondo de Desarrollo Campesino para la ejecución de los fines para los que fue creado, generaba sus recursos propios mediante la administración de proyectos financiados por los organismos internacionales y la recuperación de las Carteras del Banco Agrícola de Bolivia (BAB), otros Bancos en Liquidación y el PL 480, transferidas a la institución como patrimonio propio por los Decretos Supremos [Nº 24649](https://www.lexivox.org//norms/BO-DS-24649.html) de 13 de junio de 1997, [Nº 25365](https://www.lexivox.org//norms/BO-DS-25365.html) de 26 de abril de 1999 y [Nº 26339](https://www.lexivox.org//norms/BO-DS-26339.html) de 29 de septiembre de 2001.
+* Que el [Decreto Supremo Nº 25365](https://www.lexivox.org//norms/BO-DS-25365.html) de 26 de abril de 1999, transfiere toda la cartera del Banco Agrícola de Bolivia a favor del FDC, disponiendo la creación interna de una Unidad de Cartera BBA-FDC exclusivamente para la recuperación de la cartera en mora.
+* Que la [Ley Nº 2201](https://www.lexivox.org//norms/BO-L-2201.html) de 18 de mayo del 2001, al disponer la condonación de préstamos que fueron conferidos a favor de pequeños agricultores y productores agropecuarios por un monto igual o menor a $us 5000, encomendó al FDC la liberación de dichas cargas, labor que en razón al universo de beneficiados no ha sido concluida por la Unidad BAB-FDC.
+* Que la [Ley Nº 2297](https://www.lexivox.org//norms/BO-L-2297.html) de 20 de diciembre de 2001, de Fortalecimiento de la Normativa y Supervisión Financiera, en su Artículo 17 determina que los créditos superiores a $us.5.000.- podrán beneficiarse de la condonación previo pago en efectivo de la deuda a capital superior al monto de la condonación.
+* Que los Decretos Supremos [Nº 25984](https://www.lexivox.org//norms/BO-DS-25984.html) de 16 de noviembre de 2000 y [Nº 26423](https://www.lexivox.org//norms/BO-DS-26423.html) de 1 de diciembre de 2001, determinan la liquidación hasta el cierre definitivo del Fondo de Desarrollo Campesino, estableciendo los mecanismos operativos y administrativos, fijando como fecha definitiva de cierre del proceso de liquidación, el 30 de junio del año 2002, por lo que es necesario dictar las normativas que viabilicen la transferencia de activos, documentación y cartera transferida por los bancos en liquidación y otros.
+* Que de conformidad al avance de las tareas del proceso de liquidación, se estableció que para realizar la Auditoria Externa Final determinada en los Decretos Supremos [Nº 26423](https://www.lexivox.org//norms/BO-DS-26423.html) y [Nº 26588](https://www.lexivox.org//norms/BO-DS-26588.html), es requisito indispensable, haber registrado contablemente todo el proceso de liquidación y ajustes en operaciones de gestiones fiscales anteriores, así como la regularización contable de los estados financieros de cada una de las fuentes de financiamiento, trabajo que por su amplitud no será concluido en el plazo establecido al 30 de junio de 2002.
+* Que asimismo, el inciso i) del Artículo 5 del [Decreto Supremo Nº 26423](https://www.lexivox.org//norms/BO-DS-26423.html), determina el inicio y la continuidad de las acciones legales por responsabilidad penal, civil y otras en coordinación con el Ministerio de Justicia y Derechos Humanos, que por irregularidades o daño económico se hubiese ocasionado al Estado, impone señalar los mecanismos legales para la prosecución y continuidad de dichas acciones a la conclusión y cierre del FDC-L.
+* Que los Gobiernos de Dinamarca y Bolivia han suscrito el 23 de agosto de 1996 un acuerdo de cooperación para el Proyecto de Apoyo a la Producción Láctea, que se ejecutó con la donación danesa de equipo y maquinaria entregada a las Plantas PIL de La Paz y Cochabamba por cuenta de los Productores de Leche de Cochabamba PROLEC S. A. y Lechería del Altiplano LEDAL S. A. como aporte accionario a PIL ANDINA S. A. Comprometiendo los productores el reembolso del valor de las acciones en un plazo de quince años, según convenio de 2 de septiembre de 1998.
+* Que mediante Acuerdo Particular suscrito entre el Reino de Bélgica y el Gobierno de Bolivia, relativo al alivio parcial de la deuda externa boliviana, el FDC recepcionó recursos que fueron utilizados en créditos de libre disponibilidad a Fondos Financieros Privados, con la finalidad de beneficiar al FDC con la percepción e intereses con destino a diversos proyectos y la restitución del capital al Reino de Bélgica.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Remanentes)** 
+
+1. De existir a la finalización del proceso de liquidación y cierre definitivo del Fondo de Desarrollo Campesino en Liquidación remanentes en efectivo, estos recursos serán transferidos por el Liquidador del FDC-L al Tesoro General de la Nación - Ministerio de Hacienda, en compensación parcial de las devoluciones que el Estado Boliviano está realizando al Banco Mundial y otros cooperantes por los proyectos que dichos Organismos Internacionales han declarado inelegibles.
+2. Los activos remanentes de la institución, al cierre del proceso liquidatorio, serán transferidos en compensación parcial al Servicio Nacional de Patrimonio del Estado - SENAPE, por cuenta del Tesoro General de la Nación - Ministerio de Hacienda, al valor del último avalúo practicado por perito contratado por la entidad en liquidación, cuya antigüedad no sea mayor a 6 meses de la publicación del presente Decreto Supremo.
+3. Las cesiones a que se refieren el párrafo que antecede, se realizarán con la documentación técnica y legal con la que cuente el FDC-L, y en el estado en el que se encuentran los activos remanentes.
+4. Se autoriza al Servicio Nacional de Patrimonio del Estado - SENAPE, la transferencia, a título oneroso, de los bienes remanentes recepcionados del FDC-L, a favor de las entidades de la administración central, descentralizada, desconcentrada, autónoma o local, con cargo a su presupuesto, compensación presupuestaria o pago de deudas en el valor de los avalúos practicados.
+5. Los bienes que por su estado de deterioro o total depreciación no puedan ser transferidos a titulo oneroso, serán transferidos por el SENAPE, a título gratuito a favor de entidades estatales. En caso que no sean viables estas transferencias, el SENAPE procederá a la baja contable de los mismos en los registros recibidos del FDC-L.
+
+**Artículo 2°.- (Traspaso de custodia de acciones de PIL ANDINA)** Las acciones emitidas por PIL ANDINA S. A. a favor de PROLEC S. A y LEDAL S. A., mantenidas por el FDC-L en custodia serán traspasadas al Ministerio de Hacienda hasta el cumplimiento del convenio de fecha 2 de septiembre de 1998.
+
+**Artículo 3°.- (Recuperacion de recursos del Reino de Belgica)** Los recursos provenientes de depósitos a plazo fijo o créditos otorgados por el FDC a los Fondos Financieros Privados provenientes del Reino de Bélgica, serán transferidos al cierre final del FDC-L al Ministerio de Hacienda - Viceministerio de Inversión Pública y Financiamiento Externo, para su restitución conforme al Acuerdo suscrito.
+
+**Artículo 4°.- (Procesos legales penales)** 
+
+1. La Dirección General de Asuntos Jurídicos del Ministerio de Hacienda y la Unidad de Gestión de Procesos del Ministerio de Justicia y Derechos Humanos, coadyuvarán en las acciones penales iniciadas por el FDC-L y las denuncias presentadas ante el Ministerio Público o ante cualquier otra autoridad competente.
+2. Los abogados encargados del patrocinio de las acciones legales penales, proporcionarán la información necesaria inexcusablemente, en los términos y alcances en que la Dirección General de Asuntos Jurídicos del Ministerio de Hacienda disponga.
+
+**Artículo 5°.- (Entrega de documentacion para prosecucion de procesos legales)** El Liquidador del FDC-L entregará la documentación remanente inherente a las acciones legales existentes al cierre del proceso de liquidación con inventario notarial, a la Dirección General de Asuntos Jurídicos del Ministerio de Hacienda, para en su caso presentarla en calidad de prueba.
+
+**Artículo 6°.- (Procesos legales civiles)** 
+
+1. Las acciones civiles y/o administrativas interpuestas por el FDC-L, al cierre del proceso de liquidación, quedarán a cargo de la Dirección General de Asuntos Jurídicos del Ministerio de Hacienda para su prosecución hasta su total conclusión.
+2. El traspaso de estas acciones se efectuará previo inventario y cumplimiento del Artículo 22 del [Decreto Ley Nº 16793](https://www.lexivox.org//norms/BO-DL-16793.html) de 19 de julio de 1979, Ley de la Abogacía.
+3. Asimismo, corresponderá a la Dirección General de Asuntos Jurídicos del Ministerio de Hacienda, la iniciación de las acciones por resarcimiento de daños civiles, si así resultaren emergentes de las denuncias o acciones penales instauradas por el FDC-L.
+
+**Artículo 7°.- (Resarcimiento del daño civil)** Si emergente de las denuncias y acciones penales interpuestas por el FDC-L que actualmente se encuentran en trámite, existiera recuperación del daño civil, dichos recursos o bienes serán contabilizados y registrados a nombre del Tesoro General de la Nación.
+
+**Artículo 8°.- (Cartera propia y transferida a cargo de la Unidad BAB - FDC)** 
+
+1. Los créditos que conforman la Unidad de Cartera BAB - FDC creada en cumplimiento del [Decreto Supremo Nº 25365](https://www.lexivox.org//norms/BO-DS-25365.html) de fecha 26 de abril de 1999, serán cedidos al Ministerio de Asuntos Campesinos, Pueblos Indígenas y Originarios, en su valor en libros neto de previsiones si se encontrara vigente y a su referencial o recordatorio por cada operación si se tratara de cartera castigada.
+2. Dichas cesiones comprenderán las acciones legales emergentes o relacionadas a dichas carteras, más las igualas celebradas con los abogados encargados de la cobranza si corresponde.
+3. El Liquidador del FDC-L transferirá con inventario notarial los activos, documentación, títulos y documentación legal que cursa en los archivos de la Unidad en el estado en que se encuentren.
+
+**Artículo 9°.- (Pasivos)** El Tesoro General de la Nación asumirá los pasivos y contingencias registrados en el Balance de Cierre del FDC-L debidamente confirmados por los auditores externos.
+
+**Artículo 10°.- (Gastos)** Los gastos en que incurran el Ministerio de Asuntos Campesinos, Pueblos Indígenas y Originarios y el SENAPE, ya sean en forma directa o a través de terceros para la administración y cobranza de los bienes, cartera, activos, juicios y otros, se efectuarán contra los recursos provenientes de las recuperaciones o montos recuperados de la administración, cobranza de bienes, cartera, activos, juicios u otros.
+
+**Artículo 11°.- (Archivos)** El archivo histórico del FDC-L, con excepción de lo previsto en el Artículo 5 del presente Decreto Supremo, será entregado al Jefe de Archivos del Ministerio de Hacienda con inventario intervenido por Notario de Fe Pública.
+
+**Artículo 12°.- (Cierre final del proceso de liquidacion)** 
+
+1. Se amplia el plazo para el cierre final del FDC en liquidación hasta el 31 de julio del año 2002, establecido por el Artículo 3 del [Decreto Supremo Nº 26423](https://www.lexivox.org//norms/BO-DS-26423.html) de 1 de diciembre de 2001, manteniendo las atribuciones conferidas al Liquidador hasta la mencionada ampliación, para lo cual contará con un personal mínimo.
+2. Los recursos otorgados por el [Decreto Supremo Nº 26588](https://www.lexivox.org//norms/BO-DS-26588.html) de 17 de abril de 2002, para el proceso de liquidación del FDC-L, cubrirán los gastos operativos y administrativos correspondientes al periodo de ampliación.
+3. al cumplimiento del periodo ampliatorio, quedará concluido el proceso de liquidación y cesarán automáticamente en sus funciones el Liquidador y el personal contratado.
+
+**Artículo 13°.- (Extincion de personeria juridica)** Una vez cumplidas las tareas encomendadas en el presente Decreto Supremo y entregado el Balance de Cierre debidamente auditado al Ministerio de Hacienda y Contraloría General de la República, quedará extinguida la personería jurídica del Fondo de Desarrollo Campesino y el Ministerio de Hacienda asumirá la personería y competencia legal con fines de control posterior y auditoría gubernamental.
+
+**Artículo 14°.- (Vigencia de normas)** Se abroga el [Decreto Supremo Nº 22154](https://www.lexivox.org//norms/BO-DS-22154.html) de 15 marzo de 1989.
+
+---
+
+Los Señores Ministros de Estado en las Carteras de Hacienda, Justicia y Derechos Humanos, Presidencia y Asuntos Campesinos, Pueblos Indígenas y Originarios quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de junio del año dos mil dos.
+  
+Fdo. ENRIQUE TORO TEJADA, PRESIDENTE INTERINO DE LA REPUBLICA, Alberto Zelada Castedo, MINISTRO INTERINO DE RR. EE. Y CULTO, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Luján, Jacques Trigo Loubiere, Carlos Alberto Goitia Caballero, Carlos Kempff Bruno, Ivan Tavel Torres MINISTRO INTERINO DE EDUCACION, CULTURA Y DEPORTES, Enrique Paz Argandoña , Mario Galindo Soza MINISTRO INTERINO DE TRABAJO Y MICROEMPRESA, Alan Bojanic Helbingen MINISTRO DE AGRICULTURA, GANADERIA Y DESARROLLO RURAL, Ramiro Cavero Uriona, Claudio Mansilla Peña , Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

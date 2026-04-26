@@ -1,0 +1,80 @@
+# Bolivia: Decreto Supremo Nº 27028, 8 de mayo de 2003
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que con la finalidad de mantener el poder adquisitivo de la moneda nacional, mediante [Decreto Supremo Nº 26390](https://www.lexivox.org//norms/BO-DS-26390.html) de 8 de noviembre de 2001, se creó la Unidad de Fomento de Vivienda - UFV.
+* Que el Tesoro General de la Nación y las Entidades del Sector Público mantienen deudas en dólares americanos y/o con mantenimiento de valor con indexación al dólar americano, cuando los ingresos corrientes del Estado están en su mayoría denominados en bolivianos.
+* Que la [Ley Nº 2434](https://www.lexivox.org//norms/BO-L-2434.html) de 21 de diciembre de 2002 en su Artículo 2, establece que para la actualización de alícuotas, valores, montos, patentes, tasas y contribuciones especiales, así como para el pago parcial o total realizado fuera de término de las obligaciones aduaneras, tributarias y patentes con el Estado, se utilizará la variación de la Unidad de Fomento de Vivienda - UFV publicada por el Banco Central de Bolivia.
+* Que la legislación vigente hasta el 21 de diciembre de 2002, establecía los mecanismos de actualización de las tasas de impuestos tomando en cuenta la variación del tipo de cambio, el cual por razones externas, la gestión pasada tuvo que acelerar la devaluación de la moneda nacional para mantener la competitividad en el comercio exterior, situación que en materia de actualización afecta con mayor fuerza a las materias primas e insumos necesarios para producir productos alcanzados por el Impuesto a los Consumos Específicos - ICE.
+* Que el Artículo 3 de la citada Ley en su Parágrafo II, establece que los fondos asignados al Fondo Solidario Municipal y los saldos adeudados por el Tesoro General de la Nación al 31 de diciembre de 2002 originados por las obligaciones incluidas en el Programa de Alivio de la Deuda Externa HIPC II, serán actualizados respecto a la Unidad de Fomento de Vivienda - UFV.
+* Que la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996, de Pensiones, y sus disposiciones reglamentarias, establecen en toda su estructura, tanto para la constitución de las Pensiones del Seguro Social Obligatorio, como para las Rentas en Curso de Pago y en Curso de Adquisición del Sistema de Reparto, así como para la Compensación de Cotizaciones, la aplicación del mantenimiento de valor con relación al Dólar de los Estados Unidos de América.
+* Que el Parágrafo I del Artículo 3° la [Ley Nº 2434](https://www.lexivox.org//norms/BO-L-2434.html), dispone que las Rentas en Curso de Pago y en Curso de Adquisición y, las Pensiones de Vejez, Invalidez o Muerte del Sistema de Reparto y del Seguro Social Obligatorio de Largo Plazo, se pagarán en bolivianos con mantenimiento de valor respecto a la variación de la Unidad de Fomento de Vivienda publicada por el Banco Central de Bolivia el último día del año anterior.
+* Que el Artículo 5 de la [Ley Nº 2434](https://www.lexivox.org//norms/BO-L-2434.html), dispone que el Poder Ejecutivo debe dictar el correspondiente Reglamento, estableciendo los alcances y procedimientos necesarios para la aplicación de este nuevo factor de ajuste.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+## Capítulo I Actualizacion de obligaciones del Estado
+
+**Artículo 1°.- (Objeto)** El presente Decreto supremo tiene por objeto reglamentar la [Ley Nº 2434](https://www.lexivox.org//norms/BO-L-2434.html) de 21 de diciembre de 2002, de Actualización y mantenimiento de Valor.
+
+**Artículo 2°.- (Actualizacion)** La actualización de valores, montos, créditos fiscales, saldos a favor del contribuyente, tasas y otros conceptos contemplados en las Leyes Nº 843 (Texto Ordenado vigente) y Nº 1990 de 28 de julio de 1999, Ley General de Aduanas, así como de las tasas y patentes municipales, cuando corresponda, deberá realizarse tomando en cuenta para su cálculo, la variación de la cotización oficial para la venta del Dólar de los Estados Unidos de América con respecto a la moneda nacional hasta el 26 de diciembre de 2002 y la variación de las Unidades de Fomento de Vivienda - UFV desde esa fecha hacia adelante.
+
+**Artículo 3°.- (Actualizacion anual)** Para la actualización anual de las tasas específicas establecidas en el Anexo al Artículo 79 de la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html) (Texto Ordenado vigente), se aplicarán los procedimientos legalmente establecidos, tomando la variación de las Unidades de Fomento de Vivienda - UFV desde el 1° de enero de 2002 hacia adelante.
+
+**Artículo 4°.- (Obligaciones tributarias)** Los pagos parciales o totales correspondientes a obligaciones tributarias vencidas con el Servicio de Impuestos Nacionales, la Aduana Nacional y los Gobiernos Municipales, que se realicen con posterioridad a la vigencia de la [Ley Nº 2434](https://www.lexivox.org//norms/BO-L-2434.html), se actualizarán aplicando los procedimientos legalmente dispuestos, tomando en cuenta la variación de la cotización oficial para la venta del Dólar de los Estados Unidos de América con respecto a la moneda nacional hasta el 26 de diciembre de 2002 y la variación de las Unidades de Fomento de Vivienda - UFV desde esa fecha hasta el día hábil anterior al pago.
+
+**Artículo 5°.- (Normativas tributarias)** En todas las disposiciones normativas tributarias, las citas relativas a la actualización en base a la variación del tipo de cambio del Boliviano respecto al Dólar de los Estados Unidos de América, conforme a los procedimientos establecidos, se entenderán referidas a la variación de las Unidades de Fomento de Vivienda - UFV.
+
+**Artículo 6°.- (Saldo adeudado)** 
+
+1. El Banco Central de Bolivia convertirá el saldo adeudado al 31 de diciembre de 2002, de las obligaciones del Sector Público por concepto de Deuda Pública Externa comprendidas en el Programa de Alivio HIPC II y en el alivio otorgado más allá del HIPC II, a obligaciones en Unidades de Fomento de Vivienda - UFV, utilizando los tipos de cambio vigentes al 31 de diciembre de 2002. Esta información será registrada por el Banco Central de Bolivia en el Sistema de Gestión y Análisis de Deuda - SIGADE.
+
+**Artículo 7°.- (Flujos de pagos)** A partir del 1º de enero de 2003, los flujos de pagos de las obligaciones del Sector Público por concepto de Deuda Pública Externa, condonados por los acreedores externos multilaterales dentro del Programa de Alivio del HIPC II y en el alivio otorgado más allá del HIPC II, no incluidas en el Artículo anterior, serán convertidos por el Banco Central de Bolivia a Unidades de Fomento de Vivienda - UFV, utilizando los tipos de cambio vigentes al 31 de diciembre de 2002.
+
+**Artículo 8°.- (Cobro de obligaciones)** El Banco Central de Bolivia realizará el cobro de las obligaciones de los dos Artículos anteriores en bolivianos, al tipo de cambio de las Unidades de Fomento de Vivienda - UFV, vigente en la fecha de cada vencimiento.
+
+**Artículo 9°.- (Obligaciones del sector privado)** Las obligaciones del Sector Privado por concepto de Deuda Pública Externa comprendidas dentro del Programa de Alivio del HIPC II y en el alivio otorgado más allá del HIPC II, mantendrán las condiciones originales pactadas en los Convenios Subsidiarios.
+
+**Artículo 10°.- (Registro de cuentas)** Las cuentas del “Fondo Solidario Municipal para la Salud y Educación” y “Diálogo 2000” originadas por las obligaciones del Programa de Alivio de la Deuda Pública Externa HIPC II destinadas a los diferentes Gobiernos Municipales y los sectores de Salud y Educación, serán registradas por el Banco Central de Bolivia en Unidades de Fomento de Vivienda - UFV.
+
+**Artículo 11°.- (Tasas de interes fijas)** El Ministerio de Hacienda en forma conjunta con el Banco Central de Bolivia, establecerán las tasas de interés fijas para las obligaciones comprendidas en el Programa de Alivio HIPC II y para las obligaciones denominadas “Mas allá del HIPC II”, en base a las tasas de interés internacionales correspondientes a cada obligación vigentes al 31 de diciembre de 2002.
+
+**Artículo 12°.- (Enmienda)** El Ministerio de Hacienda y el Banco Central de Bolivia procederán a enmendar los Convenios Subsidiarios suscritos con las Entidades del Sector Público.
+
+**Artículo 13°.- (Autorizacion de conversion)** Las Entidades del Sector Público quedan autorizadas para convertir sus obligaciones actuales, Contratos y Convenios en dólares americanos y/o con mantenimiento de valor con indexación al dólar americano, en Unidades de Fomento de Vivienda - UFV previo acuerdo entre partes.
+
+**Artículo 14°.- (Administraciones tributarias)** Se faculta a las administraciones tributarias correspondientes, a dictar las Resoluciones necesarias para implementar el presente Decreto Supremo.
+
+## Capítulo II Actualizacion y mantenimiento de valor de rentas y pensiones
+
+**Artículo 15°.- (Rentas en curso de pago)** 
+
+1. Hasta el 1° de junio de 2003, la Dirección de Pensiones procederá a convertir, el monto de las Rentas en Curso de Pago, de bolivianos a Unidades de Fomento de Vivienda - UFV, considerando el índice de la UFV establecido por el Banco Central de Bolivia, al 31 de diciembre del año anterior.
+2. A partir de la aprobación del presente Decreto Supremo, las Rentas en Curso de Adquisición del Sistema de Reparto y las Pensiones del Seguro Social Obligatorio de Largo Plazo, al momento de su calificación, deberán ser convertidas de bolivianos a UFV's, considerando el índice de la UFV establecido por el Banco Central de Bolivia, al 31 de diciembre del año anterior a la calificación.
+3. Para las pensiones de jubilación del Seguro Social Obligatorio, el mantenimiento de valor respecto a la variación de la UFV, se aplicará a partir de la gestión siguiente a la fecha de la firma del contrato.
+4. Anualmente, a partir de la gestión 2004, las Rentas en Curso de Pago y las Pensiones del Seguro Social Obligatorio, serán pagadas en moneda nacional calculando la paridad del boliviano con relación a la UFV, publicada por el Banco Central de Bolivia al 31 de diciembre del año anterior.
+
+**Artículo 16°.- (Compensacion de cotizaciones)** El monto de la Compensación de Cotizaciones - CC registrado en el Certificado de CC emitido y actualizado conforme al [Decreto Supremo Nº 26069](https://www.lexivox.org//norms/BO-DS-26069.html) de 9 de febrero de 2001, una vez que forme parte componente de la pensión del Seguro Social Obligatorio de Largo Plazo, ya sea por Mensualidad Vitalicia Variable o Seguro Vitalicio, será pagado en bolivianos con mantenimiento de valor respecto a la UFV, conforme lo señalado en el Artículo precedente.
+
+**Artículo 17°.- (Diferencia entre reservas transferidas)** La diferencia existente entre las reservas transferidas de las Administradoras de Fondos de Pensiones a las Entidades Aseguradoras que administran seguros previsionales y, las obligaciones por cumplir emergentes de los siniestros cuantificados, como efecto de la aplicación del mantenimiento de valor con relación a la UFV, deberá constituirse como Reserva, de conformidad a Resolución Administrativa de la Superintendencia de Pensiones, Valores y Seguros, que se emita para tal efecto.
+
+**Artículo 18°.- (Excepciones)** 
+
+1. Salvo lo establecido en la [Ley Nº 2197](https://www.lexivox.org//norms/BO-L-2197.html) de 9 de mayo de 2001, así como, en la [Ley Nº 2434](https://www.lexivox.org//norms/BO-L-2434.html), las Rentas en Curso de Pago y en Curso de Adquisición, no serán objeto de ningún tipo de incremento, ya sea a través de bonos o reconocimientos económicos que no sean los expresamente señalados por Ley.
+2. A partir de la publicación del presente Reglamento, el monto de las nuevas rentas calificadas establecido en la Resolución de la Comisión Calificadora de la Dirección de Pensiones, será pagado en bolivianos de acuerdo a lo dispuesto en el Artículo 15 del presente Decreto Supremo, sin contemplar ninguna compensación monetaria ni importe adicional.
+
+**Artículo 19°.- (Regulacion)** Con relación al Seguro Social Obligatorio de Largo Plazo, la Superintendencia de Pensiones, Valores y Seguros, regulará todos los aspectos necesarios para la aplicación de lo dispuesto en el presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de mayo del año dos mil tres.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Carlos Saavedra Bruno, José Guillermo Justiniano Sandoval, Yerko Kukoc del Carpio, Freddy Teodovich Ortiz, Javier Comboni Salinas, Moira Paz Estenssoro , Jorge Torres Obleas, Carlos Morales Landivar, Jorge Berindoague Alcocer, Hugo Carvajal Donoso, Javier Torres Goitia Caballero, Juan Walter Subirana Suárez, Arturo Liebers Baldivieso.

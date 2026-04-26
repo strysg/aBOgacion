@@ -1,0 +1,40 @@
+# Bolivia: Decreto Supremo Nº 27996, 28 de enero de 2005
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Fiscalía General de la República mediante Nota FGR/Secretaria Nº 839/03, solicita la transferencia de inmuebles en varios lugares del país, entre los que se encuentra las Oficinas del Edificio Abugoch de la ciudad de Cochabamba.
+* Que con Nota Cite OF. FGR/DINAF Nº 294/2004 de 22 de septiembre de 2004, la Dirección Nacional Administrativa Financiera de la Fiscalía General de la República, remite la propuesta de pago del inmueble solicitado, cuya fuente de financiamiento provendrá de recursos propios, a ser cancelados en junio de cada año por las Gestiones 2005,2006,2007,2008 y 2009.
+* Que el proceso de liquidación dispuesto por los Artículos 55 y 56 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) de 29 de noviembre de 1996 - Ley de Pensiones, implica la disposición y transferencia de los bienes que constituyen el patrimonio de los ex - Entes Gestores de la Seguridad Social en liquidación.
+* Que los incisos a) y b) del Artículo 56 de la mencionada Ley, asigna a la Unidad de Reordenamiento a cargo de la Secretaría Nacional de Pensiones, la tarea de disponer y transferir los bienes del patrimonio de los Fondos Complementarios en liquidación, responsabilidad que es reiterada por el Artículo 2 del [Decreto Supremo Nº 24433](https://www.lexivox.org//norms/BO-DS-24433.html) de 12 de diciembre de 1996, que determina el destino de los recursos económicos obtenidos de la liquidación de los Entes Gestores, los que deben ser entregados al Tesoro General de la Nación para el pago de haberes y beneficios sociales al personal de los mismos, de las rentas en curso de pago, rentas devengadas, pago por los servicios indispensables y el reembolso al Tesoro General de la Nación de los recursos anticipados para estos propósitos.
+* Que la [Ley Nº 2446](https://www.lexivox.org//norms/BO-L-2446.html) de 19 de marzo de 2003 - Ley de Organización del Poder Ejecutivo y el [Decreto Supremo Nº 26973](https://www.lexivox.org//norms/BO-DS-26973.html) de 27 de marzo de 2003, suprimen la Unidad de Reordenamiento que dependía del Ministerio de Comercio Exterior e Inversión, estableciéndose que el proceso de liquidación de los ex - Entes Gestores de la Seguridad Social Boliviana será ejecutado por el Ministerio de Hacienda, con la facultad de designación de un liquidador para efectuar dicha tarea.
+* Que el [Decreto Supremo Nº 26035](https://www.lexivox.org//norms/BO-DS-26035.html) de 22 de diciembre de 2000, autorizó al Ministerio de Comercio Exterior e Inversión, a través de la Unidad de Reordenamiento, proceder al remate de los bienes muebles e inmuebles de propiedad de los Entes Gestores en liquidación.
+* Que el Poder Legislativo, en ejercicio de la atribución contenida en el Numeral 8 del Artículo 59 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), mediante [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html) de 21 de diciembre de 1999 - Ley de Administración Presupuestaria, autoriza al Ministerio de Hacienda, recibir de la liquidación de las entidades comprendidas en los Artículos 55 y 56 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) - Ley de Pensiones, bienes inmuebles por concepto de reposición de recursos que el Tesoro General de la Nación asignó y asignará al pago de rentas de jubilación, en cumplimiento de la Ley de Pensiones.
+* Que mediante Resolución Ministerial Nº 660 de 1 de octubre de 2004, se designa a un Liquidador de los ex - Entes Gestores de la Seguridad Social, con facultades necesarias para el desarrollo del proceso de liquidación.
+* Que al presente, en el patrimonio de los Entes Gestores de la Seguridad Social, existen inmuebles que deben ser monetizados.
+* Que por lo expuesto anteriormente, el Ministerio de Hacienda se encuentra imposibilitado de disponer dichos bienes en forma directa, sin observar el procedimiento para la enajenación a título oneroso, establecido en una disposición expresa; por lo que, se requiere la promulgación de una norma legal de igual jerarquía que autorice la venta.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Hacienda a través de la Liquidadora de los Entes Gestores de la Seguridad Social, transferir a título oneroso las oficinas 101 del Mezanine, 211 del Piso 2 y 311 del Piso 3 del Edificio Abugoch, ubicado en la Calle Jordán de la ciudad de Cochabamba, inscrito en el Registro de Derechos Reales a nombre del Fondo Complementario de Trabajadores de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, a favor de la Fiscalía General de la República.
+2. El valor total de los inmuebles a ser transferidos, determinado en el avalúo técnico realizado por el Servicio Nacional de Propiedad del Estado - SENAPE en fecha 22 de diciembre de 2003, es el siguiente:
+   1. Oficina 101 $us.44.864.- (CUARENTA Y CUATRO mil novecientos SESENTA Y CUATRO 00/100 DOLARES AMERICANOS).
+   2. Oficina 211 $us.47.261.- (CUARENTA Y siete mil DOSCIENTOS SESENTA Y UN 00/100 DOLARES AMERICANOS).
+   3. Oficina 311 $us.51.100.- (CINCUENTA Y UN mil CIEN 00/100 DOLARES AMERICANOS)
+        
+      Los que serán cancelados con cargo al presupuesto institucional de la Fiscalía General de la República, en cinco cuotas iguales, computable en el mes de junio de cada año, desde la Gestión 2005,2006,2007,2008 y 2009, cuyos comprobantes de ejecución presupuestaria, de los pagos realizados, deberán ser remitidos oportunamente al SENAPE.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de enero del año dos mil cinco.
+  
+Fdo. CARLOS D. MESA GISBERT, Jorge Gumucio Granier Ministro Interino de RR. EE. y Culto, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Luis Carlos Jemio Mollinedo, Gustavo Pedraza Mérida, Horst Grebe Lopez , Jorge Urquidi Barrau, Guillermo Torres Orias, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Luis Marcelo Rengel Retamozo Ministro Interino Sin Cartera Responsable de Participación Popular, Ricardo Calla Ortega.

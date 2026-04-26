@@ -1,0 +1,80 @@
+# Bolivia: Decreto Supremo Nº 25902, 15 de septiembre de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, los artículos 7° inciso k) y 158° de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html) regulan el derecho a la seguridad social, al que tienen acceso todos los trabajadores, bajo la cobertura de las contingencias de enfermedad, maternidad, riesgos profesionales, invalidez, vejez, muerte, paro forzoso, asignaciones familiares y vivienda de interés social.
+* Que, tanto la Convención de Viena sobre Relaciones Diplomáticas, de 1961, como la Convención de Viena sobre Relaciones Consulares, de 1963 de las que la República de Bolivia, forma parte, disponen en sus artículos 33° párrafos 1° y 2° y 48° párrafos 1° y 2º, respectivamente, que “.. el Agente diplomático estará en cuanto a los servicios prestados al Estado acreditante exento de las disposiciones sobre seguridad social que estén vigentes en el Estado receptor” extendiéndose esta exención a los “.. criados particulares que se hallen al servicio exclusivo del Agente diplomático, a condición de que: a) No sean nacionales del Estado receptor o no tengan en él residencia permanente; y, b) Estén protegidos por las disposiciones sobre seguridad social que estén vigentes en el Estado acreditante o en un tercer Estado”. Asimismo, los párrafos terceros en ambos artículos señalan que el Agente Diplomático que emplee a personas nacionales del Estado receptor a quienes no se aplique la exención prevista en el párrafo 2° señalado, habrá “.. . de cumplir las obligaciones que las disposiciones sobre seguridad social del Estado receptor impongan a los empleadores”.
+* Que, la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html), de 29 de noviembre de 1996, de Pensiones, puso en vigencia el Seguro Social Obligatorio de Largo Plazo (SSO), comprendiendo las prestaciones de jubilación, invalidez, muerte y riesgos profesionales; y que, a los efectos de su realización los afiliados deben cumplir con el pago de sus cotizaciones. Asimismo, el artículo 21° de dicha Ley, dispone que el empleador tiene la obligación de actuar como agente de retención y de pagar las cotizaciones, primas y comisiones deducidas del Total Ganado de los afiliados, bajo su dependencia laboral.
+* Que, tanto la Ley de Pensiones como el [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), de 17 de enero de 1997, reglamentario de aquella, no regulan la actividad patronal emergente de las relaciones laborales existentes en las Misiones Diplomáticas, Consulares, Misiones Especiales, Organismos Internacionales y Organizaciones de Cooperación Internacional, acreditados ante el Estado boliviano, ya que cuentan bajo su dependencia a trabajadores nacionales y/o con residencia permanente en Bolivia, las cuales, en cumplimiento de la Convención de Viena, están obligados a cotizar al SSO nacional, regulado por la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html).
+* Que, en virtud al [Decreto Supremo Nº 24935](https://www.lexivox.org//norms/BO-DS-24935.html), de 30 de diciembre de 1997, se crea el Programa Nacional de Subsidio a la Vivienda (PNSV), substituyendo al Fondo de Vivienda Social, señalando el artículo 1° que “.. Los aportes del 2% patronal y el 1% laboral, destinados a vivienda de interés social, por disposiciones sociales en vigencia, continuarán siendo aportados en los mismos porcentajes por empleadores y trabajadores, en la forma y para los fines establecidos..”. Asimismo, conforme el artículo 3° del mencionado Decreto Supremo se establece que el “.. .1% del aporte laboral será destinado a una cuenta individual de ahorro a nombre de cada uno de los trabajadores...”, y que con el 2% patronal se financiará el PNSV.
+* Que, el [Decreto Supremo Nº 25353](https://www.lexivox.org//norms/BO-DS-25353.html) de 19 de abril de 1999, establece la forma de disposición de los aportes patronales del 2% para vivienda, identificando a dos sectores de aportantes, siendo éstos el “Sector Público” y el “Sector Privado”. De igual manera el primer párrafo del artículo 37º del [Decreto Supremo Nº 25715](https://www.lexivox.org//norms/BO-DS-25715.html) de 23 de marzo de 2000, dispone que la Entidad Recaudadora y Administradora de Aportes “.. recaudará los aportes patronales del 2% para la vivienda, diferenciando los mismos entre sector público y privado..”.
+* Que, las Misiones Diplomáticas, Consulares, Misiones Especiales, Organismos Internacionales y Organizaciones de Cooperación Internacional, acreditados ante el Estado boliviano, a los efectos del SSO y del PNSV, no son sujetos de derecho público ni de derecho privado sino sujetos de derecho internacional.
+* Que, actualmente existen personas extranjeras en relación de dependencia laboral en Bolivia que están afiliadas en sus respectivos países de origen en Seguros Sociales con coberturas similares a las del nuestro, y solicitan la devolución de aportes realizados a las Administradoras de Fondos de Pensiones, por la existencia de dualidad de cobertura.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Ambito de aplicacion
+
+**Artículo 1°.- (Objeto y ámbito)** El presente Decreto Supremo, norma las situaciones emergentes de la aplicación del Seguro Social Obligatorio de Largo Plazo (SSO) y Régimen de Vivienda, para:
+  
+El personal nacional o extranjero con residencia permanente en la República de Bolivia que mantenga relación de dependencia laboral con las Misiones Diplomáticas, Consulares, Misiones Especiales, Organismos Internacionales y Organizaciones de Cooperación Internacional, acreditadas ante el Estado boliviano, que en adelante se denominarán Misiones y Organismos Internacionales.
+
+1. Las personas extranjeras que mantengan una relación de dependencia laboral en Bolivia y que se encuentren protegidas en sus países de origen o en otros por un Seguro Social de Largo Plazo con coberturas de similares características a las del SSO nacional.
+     
+   Las personas extranjeras que mantengan una relación de dependencia laboral con las Misiones Diplomáticas, Consulares y Representaciones Permanentes de la República de Bolivia, destacadas en el exterior, que se encuentren protegidas en esos países por un Seguro Social de Largo Plazo con coberturas similares a las del SSO nacional.
+
+## Capítulo II De las misiones y organismos internacionales
+
+**Artículo 2°.- (Obligatoriedad de cotizar al SSO)** Las Misiones y Organismos Internacionales, que mantengan relación laboral de dependencia, con personal nacional o con personal extranjero con residencia permanente en Bolivia, quedan obligadas a cumplir, a partir de la publicación del presente Decreto Supremo, con las contribuciones patronales y constituirse como agentes de retención de las contribuciones laborales dispuestas por la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html) y sus disposiciones reglamentarias.
+
+**Artículo 3°.- (Relación indirecta con las AFP)** A los efectos de dar cumplimiento a todas las disposiciones relativas al SSO, las Administradoras de Fondos de Pensiones (AFP) deberán establecer comunicación con las Misiones y Organismos Internacionales, por intermedio del Ministerio de Relaciones Exteriores y Culto de la República de Bolivia.
+
+**Artículo 4°.- (Colisión de cotizaciones para Seguro Social de Largo Plazo)** En caso de que las Misiones y Organismos Internacionales, estén otorgando al personal nacional o personal extranjero con residencia permanente en el país, la cobertura de seguros relacionados con largo plazo vigentes en el Estado acreditante similar a la del SSO vigente en la República de Bolivia, quedan exentas de la obligatoriedad dispuesta por el artículo 2° de la presente disposición, siempre que dicha afiliación se hubiere realizado antes de la vigencia del presente Decreto Supremo.
+  
+Para este efecto las Misiones y Organismos Internacionales deberán enviar a la Superintendencia de Pensiones, Valores y Seguros, por intermedio del Ministerio de Relaciones Exteriores y Culto, el detalle del personal nacional y el personal extranjero con residencia permanente en el país, que estén cubiertos por regímenes previsionales del Estado acreditante equivalentes a los que están vigentes en la República de Bolivia, demostrable con documentación expresa.
+
+**Artículo 5°.- (Afiliación Voluntaria al SSO)** Sin contrariar lo dispuesto por el artículo precedente, el dependiente laboral de las Misiones y Organismos Internacionales, podrá voluntariamente afiliarse a una AFP nacional cumpliendo las obligaciones emergentes, asimilándose a los trabajadores sin relación de dependencia laboral descrito en el tercer párrafo del artículo 24° de la Ley de Pensiones.
+
+## Capítulo III Del personal extranjero
+
+**Artículo 6°.- (Extranjeros con Seguro Social de Largo Plazo similar al SSO Boliviano)** Las personas extranjeras que tengan relación laboral de dependencia en Bolivia o las personas extranjeras que mantengan dicha relación con las Misiones Diplomáticas, Consulares y Representaciones Permanentes de la República de Bolivia destacadas en el exterior y estén cubiertas por un Seguro Social de su país de origen o de otro con coberturas similares a las del SSO nacional, quedan exentas de los alcances del SSO, previa solicitud ante el Ministerio de Relaciones Exteriores y Culto, adjuntando documentación expresa, la misma que deberá cumplir con las formalidades de validación establecidas por ley.
+
+**Artículo 7°.- (Transferencias de Aportes)** Las personas extranjeras señaladas en el artículo precedente que efectúen cotizaciones al SSO nacional y que abandonen el país definitivamente, pueden solicitar la transferencia del capital acumulado en su cuenta individual administrado por una Administradora de Fondos de Pensiones a la entidad gestora de seguro social a largo plazo del país de origen u otro, mediante solicitud expresa y voluntaria siempre que el Gobierno de Bolivia a través del Ministerio de Relaciones Exteriores y Culto hubiera suscrito un acuerdo bilateral sobre este tema, con el país de origen de la persona extranjera interesada, en el marco del principio de reciprocidad internacional.
+  
+El Ministerio de Relaciones Exteriores y Culto para la firma de los acuerdos señalados en el párrafo anterior deberá solicitar la opinión de la Superintendencia de Pensiones, Valores y Seguros.
+
+**Artículo 8°.- (Alcance de la exención)** El personal dependiente, a quienes alcanza la exención señalada en los artículos 4° y 6° del presente Decreto Supremo, dejará de cotizar, por los siguientes conceptos:
+  
+La Cotización Mensual con destino a la Cuenta Individual, que a la fecha está establecida en diez por ciento (10%).
+  
+La prima por riesgo común, que a la fecha está establecida en dos por ciento (2%), y
+  
+La Comisión a la Administradora de Fondos de Pensiones, que a la fecha está establecida en cero coma cinco por ciento (0, 5%)
+  
+Por su parte, el empleador, dejará de cotizar la prima con destino a riesgo profesional, que a la fecha está establecida en dos por ciento (2%), si su dependiente tiene éste tipo de riesgo cubierto por un seguro con similares beneficios al Seguro de Riesgo Profesional nacional, en su país de origen u otro. Si no tuviere esta cobertura, el empleador tiene la obligación de aportar a riesgo profesional en el porcentaje del 2% señalado, y el dependiente al pago de la comisión a la AFP que está señalada en cero coma cinco por ciento (0, 5%), hasta que se adjudique la cobertura del seguro de riesgo profesional a una entidad aseguradora.
+
+## Capítulo IV Del regimen de vivienda
+
+**Artículo 9°.- (Aporte patronal y laboral para Vivienda)** Las Misiones y Organismos Internacionales, por efectos de su naturaleza jurídica son sujetos de derecho internacional que no responden a la clasificación de sector público o privado descrito en el artículo 37° del [Decreto Supremo Nº 25715](https://www.lexivox.org//norms/BO-DS-25715.html). Asimismo, ante la evidencia de que en otros Estados no existe la cobertura de vivienda dentro de sus sistemas de seguro social, siendo éstas simplemente facultativas y que en la aplicación de la normativa internacional, estas prestaciones están sujetas a convenios de reciprocidad, las Misiones y Organismos Internacionales, en su calidad de empleadores no están obligados a realizar el aporte patronal del dos por ciento (2%) para vivienda ni a pagar la comisión a la Entidad Recaudadora y Administradora de Aportes para vivienda. De igual manera, los dependientes de las Misiones y Organismos Internacionales, no están obligados a realizar el aporte laboral del uno por ciento (1%) para vivienda.
+
+**Artículo 10°.- (Aporte Voluntario)** Los dependientes de las Misiones y Organismos Internacionales, pueden acordar con sus empleadores, el acceso a los beneficios que otorga el Régimen de Vivienda nacional, de manera voluntaria, cumpliendo con todas las obligaciones dispuestas por la normativa de la materia en actual vigencia.
+
+## Capítulo V Disposicion final y derogatoria
+
+**Artículo 11°.- (Reglamentación)** La Superintendencia de Pensiones, Valores y Seguros, reglamentará mediante resolución expresa, aquellos aspectos necesarios para la efectiva y correcta aplicación del presente Decreto Supremo. Esta resolución deberá ser proyectada en coordinación con el Ministerio de Relaciones Exteriores y Culto, siempre que regule a los sujetos señalados en el artículo 1° de la presente disposición, a los efectos del artículo 9° inciso 9.14 de la [Ley Nº 1444](https://www.lexivox.org//norms/BO-L-1444.html), de 15 de febrero de 1993.
+
+**Artículo 12°.- (Derogatoria)** Quedan derogadas todas las disposiciones normativas contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los despachos de Relaciones Exteriores y Culto y de Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de septiembre del año dosmil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, Ronald Mac Lean Abaroa, Juan Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vásquez Villamor, Oswaldo Antezana Vaca Diez, José Luis Carvajal Palma, Humberto Bohrt Artieda, MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION, Rubén Poma Rojas, Manfredo Kempff Suárez.

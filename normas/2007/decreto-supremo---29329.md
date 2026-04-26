@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 29329, 1 de noviembre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), en su Artículo 147, establece que habiendo transcurrido el término de sesenta (60) días para que el Honorable Congreso Nacional considere el proyecto de presupuesto remitido por el poder ejecutivo, éste adquiere fuerza de ley para la gestión 2007, siendo de aplicación obligatoria.
+* Que el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, establece la racionalización de los gastos en las entidades públicas y determina que los incrementos en las partidas de gasto 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Para Construcciones de Bienes de Dominio Público”, serán aprobados mediante Decreto Supremo.
+* Que la autorización mediante Decreto Supremo del incremento de la Partida de gasto 46200 no implica aprobación de la modificación presupuestaria debido a que esta responsabilidad y guardar el cumplimiento de la normativa en vigencia corresponde a la Prefectura del Departamento de La Paz.
+* Que en cumplimiento al Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 27849](https://www.lexivox.org//norms/BO-DS-27849.html) de 12 de noviembre de 2004, la Prefectura del Departamento de La Paz, esta realizando modificaciones presupuestarias intrainstitucionales que no incrementan ni disminuyen el Presupuesto General de la Nación. Sin embargo, implica el incremento del techo presupuestario institucional asignado a la Partida 46200 del presupuesto de inversión pública.
+* Que la [Ley Nº 3438](https://www.lexivox.org//norms/BO-L-3438.html) de 16 de julio de 2006, declara la carretera Unduavi - Chulumani como Prioridad Nacional y la incorpora a la Red Fundamental de Caminos su construcción y pavimentación.
+* Que mediante Resolución de Consejo Nº 1569 de 19 de enero de 2007, el Consejo Departamental de la Prefectura del Departamento de La Paz, autoriza al Ejecutivo Prefectural la realización de modificaciones presupuestarias interinstitucionales, intrainstitucionales y de recursos adicionales de origen interno y externo en la gestión 2007, con la finalidad de realizar los ajustes necesarios al presupuesto institucional, que tiene el propósito de dar viabilidad al manejo administrativo y financiero de la inversión pública, gastos de capital y gasto corriente.
+* Que mediante Convenio Interinstitucional de 4 de mayo de 2007, firmado entre la Prefectura del Departamento de La Paz y la Administradora Boliviana de Carreteras - ABC, se ha acordado la adecuación y realización del estudio a diseño final de la carretera Unduavi - Chulumani por parte de la Prefectura bajo la fiscalización técnica de la ABC, para que posteriormente dicha entidad se haga cargo de la ejecución del proyecto.
+* Que mediante Resolución Prefectural Nº 839 de 17 de julio de 2007, se autoriza efectuar la modificación presupuestaria para la incorporación en el presupuesto de inversión pública del proyecto: “Adecuación y Mejoramiento Carretera Unduavi-Chulumani - Red Fundamental” localizado en la provincia Sud Yungas con el cual se pretende impulsar la actividad productiva, comercial y turística interconectando los centros de abastecimiento y consumo con las zonas productoras del área del proyecto. Para este fin, se reasignan recursos del Impuesto Directo a los Hidrocarburos - IDH mediante traspaso presupuestario intrainstitucional entre proyectos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Prefectura del Departamento de La Paz, incrementar la partida presupuestaria 46200 “Para Construcciones de Bienes de Dominio Público” por un monto de Bs493.782.- (CUATROCIENTOS NOVENTA Y TRES mil novecientos OCHENTA Y DOS 00/100 BOLIVIANOS), a través de un traspaso intrainstitucional que afecta la partida 42310 “Construcciones y Mejoras de Bienes de Dominio Público”, con recursos provenientes del Impuesto Directo a los Hidrocarburos - IDH, para el estudio de preinversión del proyecto “Adecuación y Mejoramiento Carretera Unduavi-Chulumani - Red Fundamental”, de acuerdo al Anexo adjunto y de conformidad al Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de la Presidencia y de Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de noviembre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, Maria Magdalena Cajias de la Vega, Nila Heredia Miranda.

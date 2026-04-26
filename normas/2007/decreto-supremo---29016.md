@@ -1,0 +1,40 @@
+# Bolivia: Decreto Supremo Nº 29016, 31 de enero de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 191 de la [Constitución Política del estado](https://www.lexivox.org//norms/BO-CPE-20040413.html), determina que los monumentos y objetos arqueológicos son de propiedad del Estado y la riqueza artística colonial, arqueológica, histórica y documental, así como la procedente del culto religioso, son tesoros culturales de la Nación, están bajo amparo del Estado y no pueden ser exportadas.
+* Que de acuerdo a lo dispuesto en el Artículo 4 de la [Ley Nº 3351](https://www.lexivox.org//norms/BO-L-3351.html) de 21 de febrero de 2006 - Ley de Organización del Poder Ejecutivo, es competencia del Ministerio de Educación y Culturas fomentar la producción y difusión de la cultura, y proteger la riqueza cultural, religiosa, histórica y documental.
+* Que el Artículo 84 del [Decreto Supremo Nº 28631](https://www.lexivox.org//norms/BO-DS-28631.html) de 8 de marzo de 2006 - Reglamento a la Ley de Organización del Poder Ejecutivo, señala que es atribución del Viceministerio de Desarrollo de Culturas efectuar el seguimiento y control de las instituciones nacionales y extranjeras en el cumplimiento de las normas de conservación y custodia del patrimonio artístico.
+* Que el Museo de Arte de Filadelfia, el Antiguo Colegio de San Ildefonso de la Universidad Nacional Autónoma de México y el Museo de Arte de la ciudad norteamericana de Los Ángeles, han organizando la exposición “Artes en Latinoamérica, 1492 - 1820”, que se lleva a cabo desde el 17 de septiembre de 2006 al 1 de enero de 2008, con el objetivo de mostrar una colección de obras artísticas provenientes de varios países, incluido Bolivia.
+* Que mediante [Decreto Supremo Nº 28832](https://www.lexivox.org//norms/BO-DS-28832.html) de 23 de agosto de 2006, se autoriza la salida temporal de piezas de arte destinadas a esta exposición, quedando pendiente, debido a la falta de la Ordenanza Municipal correspondiente, el trámite de la pieza denominada “Cofre de Madera - Tipo Keru” de propiedad del Museo Casa Murillo, dependiente del Gobierno Municipal de La Paz.
+* Que en fecha 1 de noviembre de 2006, el Museo de Arte de Filadelfia, mediante nota escrita, reitera al Viceministro de Desarrollo de Culturas el interés de esa institución para incluir en la exposición la pieza boliviana de arte “Cofre de Madera - Tipo Keru” puesto que ya está incluida en el catálogo de la exposición y es una muestra de la decorativa incaica al arribo de los colonizadores europeos.
+* Que la Ordenanza Municipal G. M. L. P. Nº 791/2006 de 5 de diciembre de 2006 del Gobierno Municipal de La Paz, autoriza al Ejecutivo Municipal la salida y préstamo de la pieza “Cofre de Madera - Tipo Keru”, para ser exhibida en la exposición “Artes en Latinoamérica 1492 - 1820”, estableciendo que la Oficialía Mayor de Culturas, a través de la Unidad de Museos Municipales, sea la responsable por el cumplimiento de todas las medidas de seguridad en cuanto a la póliza de seguro y embalaje de la obra.
+* Que el [Decreto Supremo Nº 5918](https://www.lexivox.org//norms/BO-DS-5918.html) de 6 de noviembre de 1961, aprueba las Normas Complementarias sobre Patrimonio Artístico, Histórico, Arqueológico y Monumental, señalando además que el Estado protegerá y conservará los objetos que sean declarados Monumentos Nacionales y aquellos considerados de valor o interés histórico, artístico o arqueológico, por resolución expresa y previo asesoramiento adecuado.
+* Que el señalado Decreto Supremo permite la salida temporal de objetos de riqueza artística, cultural y arqueológica con destino a exposiciones temporales, previa constitución de garantías y seguros adecuados para su perfecta preservación y restitución, marco en el que el Museo de Arte de Filadelfia ha contratado el seguro contra todo riesgo “clavo a clavo” para la pieza de arte “Cofre de Madera - Tipo Keru” solicitado en calidad de préstamo para ser exhibido en la muestra “Artes en Latinoamérica, 1492 - 1820”.
+* Que el Reglamento de la Ley de Aduanas, aprobado mediante [Decreto Supremo Nº 25870](https://www.lexivox.org//norms/BO-DS-25870.html) de 11 de agosto de 2000, en su artículo 135 establece que se podrán reimportar mercancías nacionales exportadas temporalmente dentro los plazos establecidos en el Artículo 97 de la Ley General de Aduanas, sin el pago de tributos aduaneros de importación, siempre que no hubieran sufrido transformación, elaboración, reparación ni modificación alguna en el extranjero.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 29 de enero de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Educación y Culturas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Museo Casa de Murillo de la ciudad de La Paz, la salida temporal de la pieza de arte “Cofre de Madera - Tipo Keru”, que cuenta con la respectiva ficha de identificación, para su exhibición en la exposición titulada “Artes en Latinoamérica, 1492 - 1820”, organizada por el Museo de Arte de Filadelfia, el Antiguo Colegio de San Ildefonso de la Universidad Nacional Autónoma de México y el Museo de Arte de la ciudad norteamericana de Los Ángeles, hasta el día 15 de febrero de 2008, como fecha máxima.
+
+**Artículo 2°.- (Garantía)** 
+
+1. La salida y permanencia temporal de la pieza, así como su puntual retorno al país, se garantiza satisfactoriamente por la póliza de seguro Nº 05-333-06-03- 00251 AXA Art Insurance Corporation, Certificado Nº GKFH601, que los organizadores presentaron por el monto total de $us75.000.- (SETENTA Y CINCO mil 00/100 DÓLARES AMERICANOS) a nombre del Museo Casa de Murillo, que tiene vigencia durante el tiempo que la pieza se encuentre fuera del país y que cubre todo tipo de riesgos, daños físicos o de otra índole, hasta su retorno.
+2. Los tenedores temporales de la pieza de arte, tienen la obligación de garantizar la preservación de la obra y su transporte adecuado, evitando cualquier forma de reproducción total o parcial, copia fotostática, fotográfica o fílmica, para fines comerciales sean públicos o privados.
+
+**Artículo 3°.- (Pago de aranceles y tributos)** Conforme establece el Artículo 135 del Reglamento de la Ley de Aduanas, aprobado mediante el [Decreto Supremo Nº 25870](https://www.lexivox.org//norms/BO-DS-25870.html) de 11 de agosto de 2000, a su reingreso al país, esta pieza de arte no estará sujeta al pago de tributos aduaneros de importación, ya que el Reglamento de la Ley de Aduanas, aprobado mediante [Decreto Supremo Nº 25870](https://www.lexivox.org//norms/BO-DS-25870.html) de 11 de agosto de 2000, establece en su Artículo 135 que se podrán reimportar mercancías nacionales exportadas
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Hacienda y Educación y Culturas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de enero del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Walter Juvenal Delgadillo Terceros, Victor Cáceres Rodríguez, Nila Heredia Miranda.

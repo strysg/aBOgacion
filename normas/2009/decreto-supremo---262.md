@@ -1,0 +1,50 @@
+# Bolivia: Decreto Supremo Nº 262, 26 de agosto de 2009
+
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo IV del Artículo 13 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que los tratados y convenios internacionales ratificados por la Asamblea Legislativa Plurinacional, que reconocen los derechos humanos y que prohíben su limitación en los Estados de Excepción, prevalecen en el orden interno, y que los derechos y deberes consagrados en la Constitución, se interpretarán de conformidad con los Tratados Internacionales de derechos humanos ratificados por Bolivia.
+* Que el Parágrafo III del Artículo 14 del citado texto constitucional dispone que el Estado garantiza a todas las personas y colectividades, sin discriminación alguna, el libre y eficaz ejercicio de los derechos establecidos en la Constitución, en las leyes y en los tratados internacionales de derechos humanos.
+* Que el Parágrafo IV del Artículo 15 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) determina que ninguna persona podrá ser sometida a desaparición forzada por causa o circunstancia alguna. Asimismo, el Parágrafo I del Artículo 113 dispone que la vulneración de los derechos concede a las víctimas el derecho a la indemnización, reparación y resarcimiento de daños y perjuicios en forma oportuna.
+* Que el Artículo 32 de la [Ley Nº 1178](https://www.lexivox.org//norms/BO-L-1178.html), de 20 de julio de 1990, de Administración y Control Gubernamentales, dispone que la entidad estatal condenada judicialmente al pago de daños y perjuicios a favor de entidades públicas o de terceros, repetirá el pago contra la autoridad que resultare responsable de los actos o hechos que motivaron la sanción.
+* Que la [Ley Nº 1430](https://www.lexivox.org//norms/BO-L-1430.html), de 11 de febrero de 1993, aprueba y ratifica la Convención Americana sobre Derechos Humanos “Pacto de San José de Costa Rica”, suscrita en San José, Costa Rica, el 22 de noviembre de 1969, reconociendo en su Artículo Segundo la competencia de la Comisión Interamericana de Derechos Humanos, conforme a lo establecido en el Artículo 45 de la Convención, y reconociendo en su Artículo Tercero como obligatoria de pleno derecho, incondicionalmente y por plazo indefinido, la jurisdicción y competencia de la Corte Interamericana de Derechos Humanos, conforme al Artículo 62 de la Convención.
+* Que la [Ley Nº 1695](https://www.lexivox.org//norms/BO-L-1695.html), de 12 de julio de 1996, aprueba y ratifica la “Convención Interamericana sobre Desaparición Forzada de Personas”, adoptada el 9 de junio de 1994, en Belén Do Pará, Brasil, en el Vigésimo Cuarto Período Ordinario de Sesiones de la Asamblea General de la Organización de Estados Americanos y firmada por Bolivia el 14 de septiembre de 1994.
+* Que mediante los Artículos 1 y 2 de la Convención Americana sobre Derechos Humanos, los Estados Partes se comprometen a respetar los derechos y libertades reconocidos en esta Convención y a garantizar el libre y pleno ejercicio a toda persona que esté sujeta a su jurisdicción así como a adoptar, con arreglo a sus procedimientos constitucionales y a las disposiciones de ésta, las medidas legislativas o de otro carácter que fueren necesarias para hacer efectivos tales derechos y libertades.
+* Que la Sentencia de 27 de noviembre de 2008, Fondo, Reparaciones y Costas, emitida por la Corte Interamericana de Derechos Humanos en el caso “Ticona Estrada y otros vs Bolivia”, en su Punto Resolutivo 2, declara por unanimidad que el Estado boliviano violó, entre otros, los derechos humanos consagrados en los Artículos 7,5.1,5.2 y 4.1 de la Convención Americana sobre Derechos Humanos, y que incumplió las obligaciones convencionales contenidas en el inciso a) del Artículo I de la Convención Interamericana sobre Desaparición Forzada de Personas, en perjuicio de Renato Ticona Estrada.
+* Que la citada Sentencia, en su Punto Resolutivo 5 declara también que el Estado violó, entre otros, los derechos humanos consagrados en los Artículos 8.1 y 25.1 de la Convención Americana sobre Derechos Humanos, e incumplió las obligaciones convencionales establecidas en el inciso b) del Artículo I de la Convención Interamericana sobre Desaparición Forzada de Personas, en perjuicio de Honoria Estrada de Ticona, César Ticona Olivares, Hugo, Betzy y Rodo Ticona Estrada.
+* Que de acuerdo a lo establecido en el Artículo 63 de la Convención Americana sobre Derechos Humanos, el Punto Resolutivo 16 de la mencionada Sentencia, en el caso “Ticona Estrada y otros vs Bolivia”, dispone que el Estado debe pagar por concepto de indemnización por daños materiales e inmateriales y reintegro de costas y gastos a la familia Ticona las cantidades fijadas en los párrafos 116,125,134,139 a 141 y 181, importes a ser pagados sin reducción de eventuales cargas fiscales, según lo establece el párrafo 185 de la misma.
+* Que el inciso w) del Artículo 17 del [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, estructura organizativa del Órgano Ejecutivo del Estado Plurinacional, establece como atribución de la Ministra o Ministro de Relaciones Exteriores representar al Estado boliviano, en instancias y tribunales internacionales en coordinación con las entidades nacionales pertinentes. Asimismo, el inciso d) del Artículo 80 determina como atribución de la Ministra o del Ministro de Justicia, proponer políticas y planes de defensa, protección y promoción de derechos fundamentales con las entidades territoriales autónomas, ejecutando acciones que coadyuven a su reparación e implementación.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer el mecanismo financiero de pago de las medidas indemnizatorias a los beneficiarios señalados en la Sentencia de 27 de noviembre de 2008, Fondo, Reparaciones y Costas, emitida por la Corte Interamericana de Derechos Humanos en el caso “Ticona Estrada y otros vs Bolivia”.
+
+**Artículo 2°.- (Beneficiarios)** En cumplimiento de la Sentencia de 27 de noviembre de 2008 emitida por la Corte Interamericana de Derechos Humanos, el Estado Plurinacional de Bolivia efectuará el pago por concepto de indemnización por daños materiales e inmateriales y reintegro de costas y gastos, a los siguientes beneficiarios, de acuerdo a los montos detallados a continuación:
+
+1. María Honoria Estrada Figueroa de Ticona, con Cédula de Identidad Nº 631441 emitida en la ciudad de Oruro, la suma de: $us119.000.- (CIENTO DIECINUEVE mil 00/100 DÓLARES ESTADOUNIDENSES).
+2. César Ticona Olivares, con Cédula de Identidad Nº 541556 emitida en la ciudad de Oruro, la suma de: $us117.000.- (CIENTO diecisiete mil 00/100 DÓLARES ESTADOUNIDENSES).
+3. Hugo Ticona Estrada, con Cédula de Identidad Nº 620701 emitida en la ciudad de Oruro, la suma de: $us104.666,66 (CIENTO CUATRO mil SEISCIENTOS SESENTA Y SEIS 66/100 DÓLARES ESTADOUNIDENSES).
+4. Betzy Ticona Estrada, con Cédula de Identidad Nº 2730281 emitida en la ciudad de Oruro, la suma de: $us57.166,67 (CINCUENTA Y siete mil CIENTO SESENTA Y SEIS 67/100 DÓLARES ESTADOUNIDENSES).
+5. Rodo Corsino Ticona Estrada, con Cédula de Identidad Nº 3091331 emitida en la ciudad de Oruro, la suma de: $us57.166,67 (CINCUENTA Y siete mil CIENTO SESENTA Y SEIS 67/100 DÓLARES ESTADOUNIDENSES).
+
+**Artículo 3°.- (Traspaso presupuestario)** Se autoriza al Ministerio de Economía y Finanzas Públicas, a efectuar el traspaso presupuestario interinstitucional de $us455.000.- (CUATROCIENTOS CINCUENTA Y CINCO mil 00/100 DÓLARES ESTADOUNIDENSES), a favor del presupuesto del Ministerio de Relaciones Exteriores, para efectuar los pagos señalados en el Artículo 2 precedente.
+
+**Artículo 4°.- (Autorización)** 
+
+1. Se autoriza e instruye al Ministerio de Relaciones Exteriores, en coordinación con el Ministerio de Justicia, a efectuar los pagos establecidos en los numerales 1 al 5 del Artículo 2 del presente Decreto Supremo, considerando los términos y condiciones establecidos en la Sentencia de 27 de noviembre de 2008, en un plazo no mayor a sesenta (60) días.
+2. Las cantidades señaladas por concepto de indemnización por daños materiales e inmateriales y reintegro de costas y gastos, deberán ser entregadas a los beneficiarios en forma íntegra y sin reducciones derivadas de eventuales cargas fiscales.
+
+**Artículo 5°.- (Acción de repetición)** El Ministerio de Justicia, en coordinación con el Ministerio de Relaciones Exteriores, quedan encargados de realizar todas las acciones legales correspondientes, a objeto de repetir el pago establecido en el Artículo 3 precedente, contra las autoridades responsables de los actos o hechos que motivaron las medidas indemnizatorias a los beneficiarios señalados en la Sentencia de 27 de noviembre de 2008, Fondo, Reparaciones y Costas, emitida por la Corte Interamericana de Derechos Humanos en el caso "Ticona Estrada y otros vs Bolivia".
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Relaciones Exteriores, de Justicia; y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la Ciudad de La Paz, a los veintiséis días del mes de agosto del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCION, Julia D. Ramos Sánchez, Pablo Groux Canedo.

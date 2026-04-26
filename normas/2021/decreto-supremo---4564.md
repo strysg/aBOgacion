@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 4564, 4 de agosto de 2021
+
+[Decreto Supremo Nº 4564](https://www.lexivox.org//norms/BO-DS-N4564.html)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 246 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que las Fuerzas Armadas dependen de la Presidenta o del Presidente del Estado y reciben sus órdenes, en lo administrativo, por intermedio de la Ministra o del Ministro de Defensa y en lo técnico, del Comandante en Jefe.
+* Que el Parágrafo I del Artículo 321 del Texto Constitucional, establece que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el Artículo 5 de la [Ley Nº 2042](https://www.lexivox.org//norms/BO-L-2042.html), de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Parágrafo II del Artículo 6 de la [Ley Nº 1356](https://www.lexivox.org//norms/BO-L-N1356.html), de 28 de diciembre de 2020, del Presupuesto General del Estado Gestión 2021, dispone que las asignaciones presupuestarias de recursos adicionales efectuadas por el Tesoro General de la Nación - TGN, a entidades del sector público, para gasto corriente y/o nuevos proyectos de inversión, deberán ser autorizadas mediante Decreto Supremo, exceptuándose recursos emergentes de donación bajo la modalidad de Apoyo Presupuestario Sectorial o casos excepcionales, y aquellos recursos que cuenten con autorización expresa en Ley o Decreto Supremo.
+* Que el Ministerio de Defensa a través de las Fuerzas Armadas, realizará los actos conmemorativos del CXCVI Aniversario de la Fundación de la Patria, de la Creación de las Fuerzas Armadas del Estado y Juramento a la Bandera en la ciudad de Sucre, para lo cual requiere una asignación presupuestaria de recursos adicionales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la asignación presupuestaria de recursos adicionales a favor del Ministerio de Defensa, para los actos conmemorativos del CXCVI Aniversario de la Fundación de la Patria, Creación de las Fuerzas Armadas del Estado y Juramento a la Bandera, a desarrollarse en la ciudad de Sucre.
+
+**Artículo 2°.- (Autorización)** Se autoriza al Ministerio de Economía y Finanzas Públicas a través del Tesoro General de la Nación - TGN, realizar en la gestión 2021, la asignación presupuestaria de recursos adicionales a favor del Ministerio de Defensa, por un monto de Bs818.176.- (OCHOCIENTOS DIECIOCHO mil CIENTO SETENTA Y SEIS 00/100 BOLIVIANOS), para la ejecución de las tareas de los actos conmemorativos del CXCVI Aniversario de la Fundación de la Patria, Creación de las Fuerzas Armadas del Estado y Juramento a la Bandera, a desarrollarse en la ciudad de Sucre.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Defensa, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los cuatro días del mes de agosto del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Remmy Ruben Gonzales Atila, Sabina Orellana Cruz.

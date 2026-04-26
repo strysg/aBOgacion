@@ -1,0 +1,104 @@
+# Bolivia: Decreto Supremo Nº 3856, 3 de abril de 2019
+
+[Decreto Supremo Nº 3856](https://www.lexivox.org//norms/BO-DS-N3856.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 2 del Artículo 345 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que las políticas de gestión ambiental se basarán en la aplicación de los sistemas de evaluación de impacto ambiental y el control de calidad ambiental, sin excepción y de manera transversal a toda actividad de producción de bienes y servicios que use, transforme o afecte a los recursos naturales y al medio ambiente.
+* Que el Artículo 24 de la [Ley Nº 1333](https://www.lexivox.org//norms/BO-L-1333.html), de 27 de abril de 1992, define la Evaluación de Impacto Ambiental - EIA, como el conjunto de procedimientos administrativos, estudios y sistemas técnicos que permiten estimar los efectos que la ejecución de una determinada obra, actividad o proyecto puedan causar sobre el medio ambiente.
+* Que el [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018, modifica, complementa e incorpora nuevas disposiciones al Reglamento de Prevención y Control Ambiental - RPCA aprobado por [Decreto Supremo Nº 24176](https://www.lexivox.org//norms/BO-DS-24176.html), de 8 de diciembre de 1995 y el [Decreto Supremo Nº 28592](https://www.lexivox.org//norms/BO-DS-28592.html), de 17 de enero de 2006, para optimizar la gestión ambiental, ajustando los Instrumentos de Regulación de Alcance Particular - IRAPs y los Procedimientos Técnico-Administrativos, priorizando las funciones de Fiscalización y Control Ambiental, en el marco de la normativa ambiental vigente.
+* Que en la aplicación de los instrumentos de regulación de alcance particular y los procedimientos técnico-administrativos, se ha identificado restricciones y dificultades, por lo que se hace necesario realizar modificaciones en la misma.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el Reglamento de Prevención y Control Ambiental - RPCA, aprobado por [Decreto Supremo Nº 24176](https://www.lexivox.org//norms/BO-DS-24176.html), de 8 de diciembre de 1995, modificado por el [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018.
+
+**Artículo 2°.- (Modificaciones)** 
+
+1. Se modifica el Artículo 17 del Reglamento de Prevención y Control Ambiental - RPCA, aprobado por [Decreto Supremo Nº 24176](https://www.lexivox.org//norms/BO-DS-24176.html), de 8 de diciembre de 1995, modificado por el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018, con el siguiente texto:
+   > “ ARTÍCULO 17.-
+   >   
+   > I. La identificación del nivel de Categorización de Evaluación de Impacto Ambiental debe ser realizada de acuerdo con los niveles señalados en el Artículo 25 de la [Ley Nº 1333](https://www.lexivox.org//norms/BO-L-1333.html), de 27 de abril de 1992, de Medio Ambiente:
+   >   
+   > NIVEL DE CATEGORÍA 1: ESTUDIO DE EVALUACIÓN DE IMPACTO AMBIENTAL ANALÍTICO INTEGRAL. Nivel que por el grado de incidencia de efectos en el ecosistema, deberá incluir en sus estudios el análisis detallado y la evaluación de todos los factores del sistema ambiental: físico, biológico, socioeconómico, cultural, jurídico-institucional, para cada uno de sus respectivos componentes ambientales, otorgándose una Declaratoria de Impacto Ambiental - DIA, previa presentación y aprobación del Estudio de Evaluación de Impacto Ambiental - EEIA. Conforme al Anexo "B" y "E'', adjuntos al presente Decreto Supremo.
+   >   
+   > NIVEL DE CATEGORÍA 2: ESTUDIO DE EVALUACIÓN DE IMPACTO AMBIENTAL ANALÍTICO ESPECÍFICO. Nivel que por el grado de incidencia de efectos en algunos de los atributos del ecosistema considera en sus estudios el análisis detallado y la evaluación de uno o más de los factores del sistema ambiental: físico, biológico, socio-económico cultural, jurídico - institucional; así como el análisis general del resto de los factores del sistema, otorgándose una DIA, previa presentación y aprobación del EEIA. Conforme al Anexo "B" y "E", adjuntos al presente Decreto Supremo.
+   >   
+   > NIVEL DE CATEGORÍA 3: PROGRAMA DE PREVENCIÓN Y MITIGACIÓN - PLAN DE APLICACIÓN Y SEGUIMIENTO AMBIENTAL. Nivel que por las características ya estudiadas y conocidas de AOPs, permita definir acciones precisas para evitar o mitigar efectos adversos. Se el otorgará un Certificado de Dispensación, previa presentación y aprobación del Programa de Prevención y Mitigación - Plan de Aplicación y Seguimiento Ambiental - PPM-PASA. Conforme al Anexo "C - 1", adjunto al presente Decreto Supremo.
+   >   
+   > NIVEL DE CATEGORÍA 4: NO REQUIEREN DE EEIA NI PROGRAMA DE PREVENCIÓN Y MITIGACIÓN - PLAN DE APLICACIÓN Y SEGUIMIENTO AMBIENTAL. Conforme al Anexo “A”
+
+   . Las AOPs, identificadas en este nivel, que se encuentren dentro de un Área Protegida, deben comunicar el inicio de actividades a la AAC respectiva adjuntando el Certificado de compatibilidad de uso emitido por el SERNAP.
+2. Para establecer los Niveles de las Categorías 1, 2 y 3 de Evaluación de Impacto Ambiental - EIA se utilizará el Formulario y el listado de AOPs del Anexo “A”, adjunto al presente Decreto Supremo, conforme lo siguiente:
+   1. El Representante Legal - RL en base al listado del Anexo "A" identificará el nivel de EIA de su AOP;
+   2. Una vez identificado el nivel, deberá llenar el formulario del Anexo “A” que tendrá carácter de Declaración Jurada, mismas que deberán ser firmadas por el RL y el Consultor RENCA responsable del llenado;
+   3. El formulario será presentado a la AAC para fines de aprobación y registro;
+   4. Las AOPs de los niveles de las Categorías 1, 2 y 3, que estén ubicadas en áreas protegidas, deberán cumplir las disposiciones establecidas en el Reglamento General de Áreas Protegidas, normas de creación de las áreas protegidas y demás instrumentos de gestión, para este fin se debe adjuntar al Formulario de Nivel de Categoría Ambiental - FNCA, el Certificado de compatibilidad de uso emitido por el SERNAP.
+3. En caso, que el RL tenga dificultad para identificar el nivel de categoría según el Anexo “A” podrá realizar la consulta ante la AAC, remitiendo la información correspondiente de la AOP.”
+4. Se modifica el Artículo 90 del Reglamento de Prevención y Control Ambiental - RPCA, aprobado por [Decreto Supremo Nº 24176](https://www.lexivox.org//norms/BO-DS-24176.html), de 8 de diciembre de 1995, modificado por el Artículo 10 del [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018, con el siguiente texto:
+   > “ ARTÍCULO 90.- La actualización de la Licencia Ambiental procederá en los siguientes casos:
+   >   
+   > a) Para todas las AOPs, cuyas medidas del Programa de Prevención y Mitigación y Plan de Aplicación y Seguimiento Ambiental hayan sido aprobados por la día no iniciadas o paralizadas por razones económicas, técnicas, legales o sociales por más de vienticuatro (24) meses en etapa de ejecución y operación debidamente fundamentada;
+   >   
+   > b) Si durante las etapas de ejecución, operación, mantenimiento o abandono de actividades, obras o proyectos, la AAC, OSC y SERNAP, cuando corresponda, o RL determinare que las medidas de mitigación y adecuación previstas en las Licencias Ambientales resultan insuficientes ó ineficaces;
+   >   
+   > c) Si durante la ejecución, operación o mantenimiento de AOPs, se determinare el requerimiento de modificaciones por replanteo de obra, cambio de tecnología u otro y que el mismo no afecte al ecosistema con impactos sustanciales, que representen una modificación de este, previa valoración especializada."
+   >   
+   > III. Se modifica el Artículo 11 del [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018, con el siguiente texto:
+   >   
+   > “ ARTICULO 11.- (PROCEDIMIENTO DE ACTUALIZACIÓN).
+   >   
+   > a) El RL conjuntamente el equipo multidisciplinario de profesionales con RENCA, realizará el llenado del IRAP, declarando la información necesaria y cumpliendo los requisitos establecidos en el Anexo “C - 1”
+
+   (PPM - PASA). Los datos reportados por el RL tendrán calidad de Declaración Jurada;
+   1. En caso de que la AOP se encuentre en Área Protegida y exista OSC. El RL remitirá al OSC y al SERNAP de manera simultánea el IRAP. El SERNAP, si corresponde, en un plazo no mayor a ocho (8) días hábiles emitirá el Dictamen Técnico al OSC, para que este, hasta el día hábil diez (10) reporte a la AAC el Dictamen Técnico - Legal, recomendando la emisión de la Licencia Ambiental Actualizada. En caso de existir observaciones, el RL deberá subsanar las mismas en un plazo no mayor a quince (15) días hábiles, computables a partir del día hábil siguiente a la notificación, una vez presentado el documento subsanado el OSC y SERNAP de manera simultánea, en el día hábil tres (3), el SERNAP deberá emitir criterio al OSC, para que en el día hábil cinco (5), el OSC remitirá el dictamen técnico a la AAC, si corresponde.
+        
+      La AAC, tendrá un plazo de cinco (5) días hábiles para la evaluación de la actualización. Si existen observaciones, el Representante Legal deberá subsanar las mismas en un plazo no mayor a cinco (5) días hábiles; una vez presentado el documento subsanado la AAC verificará la información dentro de cinco (5) días hábiles, emitiendo la Licencia Ambiental Actualizada, si corresponde;
+   2. En caso de que la AOP no se encuentre en Área Protegida y exista OSC; el OSC evaluará la actualización en plazo no mayor a diez (10) días hábiles. Si existen observaciones el RL deberá subsanar las mismas en un plazo no mayor a quince (15) días hábiles; una vez presentado el documento subsanado el OSC verificará la información dentro de los cinco (5) días hábiles, remitiendo el dictamen técnico a la Autoridad Ambiental Competente, si corresponde.
+        
+      La AAC tendrá un plazo de cinco (5) días hábiles para la evaluación de la actualización. Si existen observaciones el RL deberá subsanar las mismas en un plazo no mayor a cinco (5) días hábiles, una vez presentado el documento subsanado la AAC verificará la información dentro de cinco (5) días hábiles, emitiendo la Licencia Ambiental Actualizada, si corresponde;
+   3. En caso de que la AOP se encuentre en Área Protegida y no exista OSC el SERNAP evaluará la actualización en plazo no mayor a diez (10) días hábiles. Si existen observaciones el Representante Legal deberá subsanar las mismas en un plazo no mayor a quince (15) días hábiles; una vez presentado el documento subsanado el SERNAP verificará la información dentro de los cinco (5) días hábiles, remitiendo el dictamen técnico a la AAC, si corresponde.
+        
+      La AAC tendrá un plazo de cinco (5) días hábiles para la evaluación de la actualización. Si existen observaciones el Representante Legal deberá subsanar las mismas en un plazo no mayor a cinco (5) días hábiles; una vez presentado el documento subsanado la AAC verificará la información dentro de cinco (5) días hábiles, emitiendo la Licencia Ambiental Actualizada, si corresponde;
+   4. En caso de que la AOP no se encuentre en Área Protegida y no exista OSC, la AAC evaluará la actualización en plazo no mayor a quince (15) días hábiles. Si existen observaciones el Representante Legal deberá subsanar las mismas en un plazo no mayor a quince (15) días hábiles; una vez presentado el documento subsanado la AAC, verificará la información dentro de cinco (5) días hábiles, emitiendo la Licencia Ambiental Actualizada, si corresponde;
+   5. En caso que no existiese modificaciones a las condiciones ambientales, el RL de la AOP presentará un Informe Técnico a la AAC sobre dichas condiciones, solicitando la Licencia Ambiental Actualizada.”
+5. Se modifica el Anexo “A” del [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018, modificación que en Anexo forma parte del presente Decreto Supremo.
+6. Se modifica el texto de la Declaración Jurada en los Anexos “B”, “C-1”, “C-2” y “D” del [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018, con el siguiente texto:
+   > “Los suscritos: ................................ en calidad de responsable técnico de la elaboración de ............ y el ................. en calidad de Representante Legal, damos fe de la verdad de la información detallada en el presente documento y asumimos la responsabilidad en caso de no ser evidente el tenor de este documento.
+   >   
+   > Por otra parte, asumimos la responsabilidad sobre el cumplimiento de las medidas propuestas en el presente documento.”
+
+     
+
+   # Disposiciones adicionales
+
+**Disposición Adicional Única.-** En el caso que la AOP se encuentre en Área Protegida y no exista OSC, la tramitación del Manifiesto Ambiental, PPM-PASA y EEIA, deberá seguir el mismo procedimiento establecido para las AOPs que cuenten con OSC y no se encuentren en Área Protegida.
+
+# Disposiciones derogatorias
+
+**Disposición Derogatoria Única.-** Se deroga la Disposición Final Cuarta del [Decreto Supremo Nº 3549](https://www.lexivox.org//norms/BO-DS-N3549.html), de 2 de mayo de 2018.
+
+# Disposiciones finales
+
+**Disposición Final Primera.-** En caso de que la AAC en uso de sus funciones y atribuciones identifique una AOP, que haya iniciado actividades, asumiendo que se encuentra dentro del Listado de Nivel de Categoría Ambiental 4 y no corresponda al mismo, el RL asumirá su responsabilidad y será pasible a procesos sancionatorios establecidos en la normativa ambiental vigente; asimismo, deberá iniciar de manera inmediata con el proceso de adecuación ambiental correspondiente.
+  
+La AAC, podrá solicitar a las AOPs del listado de Nivel de Categoría Ambiental 4, en cualquiera de sus etapas, la información que considere necesaria para verificar el cumplimiento de la normativa ambiental vigente.
+
+**Disposición Final Segunda.-** El listado de las AOPs contenidas en el Anexo “A” del presente Decreto Supremo podrá ser modificado, actualizado y complementado en coordinación con los sectores del Estado y será aprobado por Resolución Administrativa a ser emitida por la AACN.
+
+---
+
+El señor Ministro de Estado en el Despacho de Medio Ambiente y Agua, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los tres días del mes de abril del año dos mil diecinueve.
+  
+FDO. EVO MORALES AYMA, Diego Pary Rodríguez, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Luis Alberto Arce Catacora, Luis Alberto Sánchez Fernández, Rafael Alarcón Orihuela, Nélida Sifuentes Cueto, Oscar Coca Antezana, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Milton Gómez Mamani, Lilly Gabriela Montaño Viaña, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, José Manuel Canelas Jaime, Tito Rolando Montaño Rivera.
+
+# Anexo Anexo A
+
+Descargar Formulario de nivel de categorización ambiental en formato .odt o en formato .doc.

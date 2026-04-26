@@ -1,0 +1,49 @@
+# Bolivia: Decreto Supremo Nº 2159, 23 de octubre de 2014
+
+[Decreto Supremo Nº 2159](https://www.lexivox.org//norms/BO-DS-N2159.html)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 351 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Estado, asumirá el control y la dirección sobre la exploración, explotación, industrialización, transporte y comercialización de los recursos naturales estratégicos a través de entidades públicas, cooperativas o comunitarias, las que podrán a su vez contratar empresas privadas y constituir empresas mixtas.
+* Que el Parágrafo I del Artículo 355 del Texto Constitucional, establece que la industrialización y comercialización de los recursos naturales será prioridad del Estado.
+* Que el Artículo 360 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética.
+* Que el Parágrafo I del Artículo 361 del Texto Constitucional, establece que Yacimientos Petrolíferos Fiscales Bolivianos - YPFB es una empresa autárquica de derecho público, inembargable, con autonomía de gestión administrativa, técnica y económica, en el marco de la política estatal de hidrocarburos. YPFB, bajo tuición del Ministerio del ramo y como brazo operativo del Estado, es la única facultada para realizar las actividades de la cadena productiva de hidrocarburos y su comercialización.
+* Que el Artículo 365 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), señala que una institución autárquica de derecho público, con autonomía de gestión administrativa, técnica y económica, bajo la tuición del Ministerio del ramo, será responsable de regular, controlar, supervisar y fiscalizar las actividades de toda la cadena productiva hasta la industrialización, en el marco de la política estatal de hidrocarburos conforme con la ley.
+* Que el Artículo 367 del Texto Constitucional, establece que la explotación, consumo y comercialización de los hidrocarburos y sus derivados deberán sujetarse a una política de desarrollo que garantice el consumo interno.
+* Que el Artículo 9 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), de 17 de mayo de 2005, de Hidrocarburos, dispone que el aprovechamiento de los hidrocarburos deberá promover el desarrollo integral, sustentable y equitativo del país, garantizando el abastecimiento de hidrocarburos al mercado interno, incentivando la expansión del consumo en todos los sectores de la sociedad y promoviendo la exportación de excedentes en condiciones que favorezcan los intereses del Estado.
+* Que los incisos a) y f) del Artículo 11 de la [Ley Nº 3058](https://www.lexivox.org//norms/BO-L-3058.html), señalan los objetivos generales de la Política Nacional de Hidrocarburos, entre otros: Utilizar los hidrocarburos como factor de desarrollo nacional e integral de forma sostenible y sustentable en todas las actividades económicas y servicios, tanto públicos como privados; garantizar y fomentar el aprovechamiento racional de los hidrocarburos, abasteciendo con prioridad a las necesidades internas del país.
+* Que para la distribución de Gas Natural a puntos alejados de los ductos, la licuefacción, transporte y suministro del Gas Natural Licuado son procesos con un desarrollo tecnológico dinámico; constituyéndose a corto plazo, en una opción técnicamente viable para la masificación del uso del gas natural dentro del Estado Plurinacional de Bolivia y, en especial, se constituiría en la primera opción para el abastecimiento de Gas Natural en zonas alejadas de los ductos tendidos dentro de nuestro territorio.
+* Que para la ejecución y desarrollo de la política estatal de hidrocarburos relacionada en particular a la masificación del uso del Gas Natural Licuado, es necesario y primordial contar con normas técnicas de seguridad acordes con los principios y objetivos consagrados por la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html) y la Ley de Hidrocarburos.
+* Que es necesario emitir la normativa a fin de que se pueda establecer los requisitos mínimos de seguridad para realizar la licuefacción de Gas Natural y regasificación de Gas Natural Licuado; para asegurar el cumplimiento de los parámetros técnicos de seguridad en Plantas de Gas Natural Licuado y Estaciones de Regasificación en el territorio del Estado Plurinacional de Bolivia.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba el Reglamento Técnico para el Diseño, Construcción, Operación, Mantenimiento y Abandono de Plantas de Gas Natural Licuado - GNL y Estaciones de Regasificación, en sus cuatro (4) Capítulos, y cincuenta y siete (57) Artículos; que en Anexo forma parte integrante e indivisible del presente Decreto Supremo.
+
+# Disposiciones finales
+
+**Artículo final 1°.-** 
+
+1. En lo que corresponde al reporte mensual de volúmenes y la comunicación de sucesos, el Ente Regulador en el ámbito de sus atribuciones y competencias elaborará las normas reglamentarias necesarias para el cumplimiento y aplicación del Reglamento Técnico para el Diseño, Construcción, Operación, Mantenimiento y Abandono de Plantas de Gas Natural Licuado - GNL y Estaciones de Regasificación, aprobado por el presente Decreto Supremo.
+2. En lo que respecta a las Auditorías Técnicas, el Ente Regulador en el uso de sus facultades podrá efectuar las contrataciones necesarias que el permitan cumplir con sus atribuciones enmarcadas en el presente Reglamento Anexo, de acuerdo a normativa vigente.
+
+**Artículo final 2°.-** La Planta de GNL de Rio Grande y las veintisiete (27) Estaciones de Regasificación que forman parte del Proyecto GNL de YPFB en ejecución a momento de la publicación del presente Decreto Supremo, deberán adecuarse al Reglamento en Anexo, una vez que se realice la puesta en marcha de cada una de ellas, YPFB debe tramitar ante el Ente Regulador la Licencia de Operación respectiva, presentando los requisitos legales y técnicos señalados en el Artículo 24 del Reglamento Técnico para el Diseño, Construcción, Operación, Mantenimiento y Abandono de Plantas de Gas Natural Licuado - GNL y Estaciones de Regasificación, exceptuando el requisito dispuesto en el numeral 1 de su inciso a).
+
+**Artículo final 3°.-** El Ministerio de Hidrocarburos y Energía presentará ante el Órgano Ejecutivo, en un plazo de hasta ciento ochenta (180) días hábiles a partir de la publicación del presente Decreto Supremo, un Proyecto de reglamento económico para la determinación de precios y tarifas de la cadena del GNL, para su aprobación mediante Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos y Energía, queda encargado de la ejecución y cumplimiento del Presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la Ciudad de La Paz, a los veintidós días del mes de octubre del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Jorge Perez Valenzuela, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA E INTERINO DE MINERÍA Y METALURGIA Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez MINISTRO DE MEDIO AMBIENTE Y AGUA E INTERINO DE HIDROCARBUROS Y ENERGÍA, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.
+
+# Anexo Anexo Decreto Supremo Nº 2159
+
+[Reglamento Técnico para el Diseño, Construcción, Operación, Mantenimiento y Abandono de Plantas de Gas Natural Licuado - GNL, y Estaciones de Regasificación](https://www.lexivox.org//norms/BO-RE-DSN2159.html)

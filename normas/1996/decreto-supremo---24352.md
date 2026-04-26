@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 24352, 20 de agosto de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1330](https://www.lexivox.org//norms/BO-L-1330.html) de 24 de abril de 1992 (Ley de Privatización) autoriza a las instituciones, entidades y empresas del sector público enajenar los activos, bienes, valores, acciones y derechos de su propiedad y transferirlos a personas naturales y colectivas, nacionales o extranjeras o aportar los mismos a la constitución de nuevas sociedades anónimas mixtas.
+* Que el [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html) de 10 de abril de 1995 reglamenta la Ley de Privatización disponiendo que todas las empresas y demás entidades públicas, propietarias de unidades económicas, activos, bienes, valores, acciones y derechos, deben someterse a procesos de reordenamiento, de acuerdo a sus normas.
+* Que en virtud de la resolución 011/96 de 19 de julio de 1996, del Consejo de Desarrollo Nacional (CODENA), la resolución ministerial 096/96 de 22 de julio de 1996 del Ministerio sin Cartera Responsable de Capitalización, la resolución de Directorio 07/95 de 20 de marzo de 1995 de la Corporación Regional de Desarrollo de La Paz (CORDEPAZ) y la resolución de Directorio 017/95 de 12 de mayo de 1995 de la Corporación Regional de Desarrollo de Cochabamba (CORDECO) ratificada por resolución administrativa 118/96 de 24 de julio de 1996 de la Prefectura del Departamento de Cochabamba, se convocó a la licitación para la venta del cien por ciento (100%) de los activos fijos e inventarios de las Plantas Industrializadoras de Leche PIL La Paz y PIL Cochabamba, en conjunto, para conformar con dichos activos una sociedad anónima denominada Pil Andina S.A.
+* Que, mediante resolución ministerial 096/96 de fecha 22 de julio de 1996, del Ministerio Sin Cartera Responsable de Capitalización, en aplicación del artículo quinto de la resolución suprema 215521 de 13 de abril de 1995, se designan Vocales de la Comisión Calificadora para la licitación.
+* Que de acuerdo a lo previsto en las Convocatorias y Pliegos de Condiciones, en fecha 24 de julio de 1996 la Comisión Calificadora procedió con la recepción de sobres y apertura de Propuestas de la Licitación Pública MC/SNCI/UR/LIC-006/95 II, habiéndose recibido las siguientes ofertas: De la empresa peruana GLORIA S.A. por la suma de OCHO MILLONES CUARENTA Y UN mil 00/100 dólares estadounidenses ($US.8.041.000.-); de la empresa argentina SANCOR por la suma de TRES MILLONES CIENTO CINCUENTA Y OCHO mil QUINIENTOS TRECE 00/100 dólares estadounidenses ($US.3.158.513.-) y de la empresa boliviana INDUSTRIAS VASCAL S.A. por la suma de siete MILLONES TRESCIENTOS OCHENTA Y CINCO mil novecientos ONCE 00/100 dólares estadounidenses ($US.7.385.711.-).
+* Que el Ministerio sin Cartera Responsable de Capitalización ha presentado a consideración del Presidente de la República en Consejo de Gabinete, el informe de la Comisión Calificadora, que en uso de las atribuciones establecidas en la resolución suprema 215521 de acuerdo al análisis efectuado y por unanimidad, recomienda la adjudicación de los activos pertenecientes a las Plantas Industrializadoras de Leche PIL La Paz y PIL Cochabamba, en favor de la empresa peruana GLORIA S.A., por el precio de OCHO MILLONES CUARENTA Y UN mil 00/100 dólares estadounidenses ($US.8.041.000.-), pagaderos al contado a momento de suscribir los documentos de transferencia.
+* Que de conformidad al artículo séptimo de la resolución suprema 215521 corresponde efectuar la adjudicación mediante decreto supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Adjudicar los activos pertenecientes a las Plantas Industrializadoras de Leche PIL La Paz y PIL Cochabamba ofertados mediante la Licitación Pública MC/SNCI/UR/LIC-006/95 II, en favor de la empresa GLORIA S.A. del Perú, en el precio de OCHO MILLONES CUARENTA Y UN mil 00/100 dólares estadounidenses ($US.8.041.000.-).
+
+**Artículo 2°.-** El precio total señalado en el artículo anterior, deberá ser pagado al contado y en efectivo a la firma del contrato de transferencia, el cual será suscrito por el Ministro sin Cartera Responsable de Capitalización y los Prefectos de los Departamentos de La Paz y Cochabamba.
+
+---
+
+El señor Ministro en el Despacho sin Cartera Responsable de Capitalización queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de agosto de mil novecientos noventa y seis años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzaín, Jorge Otasevic Toledo, José Guillermo Justiniano Sandoval, MINISTRO DE LA PRESIDENCIA Y SUPLENTE DE JUSTICIA, Gonzalo Afcha de la Parra, MINISTRO SUPPLENTE DE HACIENDA, Fernando Candia Castillo, Freddy Teodovich Ortíz, Moisés Jarmúsz Levy, Reynaldo Peters Arzabe, Guillermo Richter Ascimani, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

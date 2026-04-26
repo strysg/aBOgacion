@@ -1,0 +1,62 @@
+# Bolivia: Decreto Supremo Nº 1885, 31 de enero de 2014
+
+Decreto Supremo Nº 1885
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 45 de la Constitución Política del Estado, determina que la Seguridad Social se presta bajo los principios de universalidad, integralidad, equidad, solidaridad, unidad de gestión, economía, oportunidad, interculturalidad y eficacia. Su dirección y administración de la seguridad social corresponde al Estado, con control y participación social.
+* Que el Artículo 24 de la [Ley Nº 065](https://www.lexivox.org//norms/BO-L-N65.html), de 10 de diciembre de 2010, de Pensiones, señala que la Compensación de Cotizaciones es el reconocimiento que otorga el Estado Plurinacional de Bolivia a los Asegurados por los aportes efectuados al Sistema de Reparto vigente hasta el 30 de abril de 1997, que se financia con los recursos del Tesoro General de la Nación.
+* Que el Parágrafo III del Artículo 28 de la [Ley Nº 065](https://www.lexivox.org//norms/BO-L-N65.html), modificado por la Disposición Adicional Primera de la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), de 11 de diciembre de 2012, del Presupuesto General del Estado – Gestión 2013, establece que durante cinco (5) años a partir de la gestión 2012, la Compensación de Cotizaciones Mensual – CCM en curso de pago será actualizada anualmente.
+* Que el numeral 1 del Parágrafo III del Artículo 28 de la [Ley Nº 065](https://www.lexivox.org//norms/BO-L-N65.html), modificado por la Disposición Adicional Primera de la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), dispone que se determinará la masa de pagos de la Compensación de Cotizaciones Mensual financiada con recursos del Tesoro General de la Nación, utilizando la planilla de pagos de CCM del mes de diciembre de la gestión anterior a la que corresponde el ajuste.
+* Que el numeral 2 del Parágrafo III del Artículo 28 de la [Ley Nº 065](https://www.lexivox.org//norms/BO-L-N65.html), modificado por la Disposición Adicional Primera de la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), señala que el monto a distribuir en el ajuste anual resultará de aplicar, a la masa de pagos de CCM determinada en el punto anterior, la variación anual de la Unidad de Fomento de Vivienda, observada entre el 31 de diciembre del año en cuestión, respecto al del año anterior, índice publicado por el Banco Central de Bolivia.
+* Que el numeral 3 del Parágrafo III del Artículo 28 de la [Ley Nº 065](https://www.lexivox.org//norms/BO-L-N65.html), modificado por la Disposición Adicional Primera de la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), establece que el cincuenta por ciento (50%) del monto anterior será distribuido de forma percápita y el otro cincuenta por ciento (50%) de manera inversamente proporcional para cada uno de los asegurados con pago de la CCM.
+* Que el Parágrafo IV del Artículo 28 de la [Ley Nº 065](https://www.lexivox.org//norms/BO-L-N65.html), incorporado por la Disposición Adicional Primera de la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), dispone que independientemente del periodo o año en que se hubiera realizado la suspensión de la CCM, la CCM se rehabilitará con los ajustes que le hubiese correspondido en las gestiones en que estuvo suspendida.
+* Que el [Decreto Supremo Nº 29894](https://www.lexivox.org//norms/BO-DS-29894.html), de 7 de febrero de 2009, establece la estructura organizativa del Órgano Ejecutivo del Estado Plurinacional, y define los principios y valores que deben conducir a los servidores públicos de conformidad a lo establecido en la Constitución Política del Estado.
+* Que el Gobierno del Estado Plurinacional de Bolivia, ha efectuado un proceso de socialización con los representantes de los jubilados del Sistema Integral de Pensiones – SIP, que permite viabilizar y respaldar el tratamiento del ajuste Inversamente Proporcional y percápita de la CCM en curso de pago para los ciento cincuenta y tres (153) intervalos establecidos para la presente gestión.
+* Que para dar cumplimiento a lo dispuesto en la [Ley Nº 317](https://www.lexivox.org//norms/BO-L-N317.html), corresponde aprobar el presente procedimiento, definiendo los parámetros necesarios para su aplicación, así como las entidades que deben aplicar el ajuste Inversamente Proporcional – IP y Percápita de CCM en curso de pago de los asegurados del SIP.
+* EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo, tiene por objeto implementar el ajuste Inversamente Proporcional – IP y percápita de la Compensación de Cotizaciones Mensual – CCM en curso de pago de asegurados del Sistema Integral de Pensiones – SIP, aplicable para la presente gestión.
+
+**Artículo 2°.- (Implementación del ajuste)** 
+
+1. Para implementar el ajuste IP y percápita de la CCM en curso de pago de los asegurados del SIP, corresponde considerar la planilla total de CCM en curso de pago de diciembre de 2013 y el número de asegurados de dicha planilla; así como la variación de la Unidad de Fomento a la Vivienda – UFV, registrada entre el 31 de diciembre de 2012 y el 31 de diciembre de 2013, que de acuerdo a información procesada por el Banco Central de Bolivia – BCB, es de 5,5059%.
+2. Para aplicar el ajuste IP de la CCM en curso de pago de los asegurados del SIP, se deberá considerar el cincuenta por ciento (50%) del monto del ajuste anual de la CCM.
+3. Para aplicar el ajuste percápita de la CCM en curso de pago se deberá considerar el cincuenta por ciento (50%) del monto del ajuste anual de la CCM.
+4. El ajuste IP y percápita de la CCM en curso de pago será aplicado al monto de la CCM en curso de pago de los titulares, de acuerdo a la escala del Anexo 1 que forma parte indivisible del presente Decreto Supremo.
+5. En el caso de los Derechohabientes, el ajuste anual será aplicado al monto del CCM que le hubiera correspondido en la gestión 2013 al Titular fallecido, no debiendo exceder el tope establecido para el pago de la CCM, según la escala del Anexo 1 que forma parte indivisible del presente Decreto Supremo y distribuido de acuerdo a los porcentajes de asignación que corresponda a cada Derechohabiente de acuerdo a normativa vigente.
+
+**Artículo 3°.- (Ajuste adicional)** 
+
+1. Para las CCM en curso de pago se efectuará el ajuste adicional, por única vez, para la gestión 2014 de tres por ciento (3%), porcentaje que será aplicado por el método IP y percápita a la CCM en curso de pago de los titulares, de acuerdo a la escala del Anexo 2, que forma parte indivisible del presente Decreto Supremo.
+2. En el caso de los Derechohabientes, el ajuste adicional por única vez para la gestión 2014, será aplicado al monto del CCM que le hubiera correspondido en la gestión 2013 al titular fallecido, no debiendo exceder el tope establecido para el pago de la CCM, según la escala del Anexo 2 que forma parte indivisible del presente Decreto Supremo y distribuido de acuerdo a los porcentajes de asignación que corresponda a cada Derechohabiente de acuerdo a normativa vigente.
+3. Para tal efecto, se autoriza al Tesoro General de la Nación – TGN, efectuar la provisión de los recursos necesarios a objeto de hacer efectivo el porcentaje adicional establecido por única vez para la presente gestión.
+
+**Artículo 4°.- (Aplicación)** 
+
+1. Los ajustes señalados en los Artículos 2 y 3 del presente Decreto Supremo, se aplicarán de conformidad a lo establecido en el Anexo 3, mismo que resulta de la suma de ajustes correspondientes a cada tramo de los Anexos 1 y 2, que forma parte indivisible del presente Decreto Supremo.
+2. El pago del ajuste total establecido en el Anexo 3 del presente Decreto Supremo, se hará efectivo a partir de la planilla correspondiente a enero del año 2014.
+
+**Artículo 5°.- (Tope para la Compensación de Cotizaciones Mensual – CCM)**   
+En el ajuste del Tramo 153 del Anexo 3, que forma parte indivisible del presente Decreto Supremo, se deberá considerar el tope establecido para el pago de la CCM.
+
+# Disposiciones finales
+
+**Artículo final Único.-** Para el cumplimiento del presente Decreto Supremo:
+
+1. La Autoridad de Fiscalización y Control de Pensiones y Seguros – APS, deberá reglamentar en el marco de sus atribuciones y competencias, los aspectos necesarios a efecto de que se implemente el ajuste IP y Percápita de la CCM en curso de pago del SIP aplicable para la presente gestión;
+2. El Servicio Nacional del Sistema de Reparto – SENASIR, deberá reglamentar en el marco de sus atribuciones y competencias, los aspectos necesarios a efecto de que se implemente el procedimiento de pago conforme al presente Decreto Supremo, así como la rehabilitación de la CCM suspendida, considerando los ajustes que le hubiese correspondido al asegurado en las gestiones en que estuvo sin pago.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de enero del año dos mil catorce.
+  
+FDO. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

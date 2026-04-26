@@ -1,0 +1,193 @@
+[*Aumentar el tamaño del texto*![](data:image/gif;base64,R0lGODlhIAAgAOMIAEUjAGNFIYhxU5x5GriUMLOihtnFiuvhx////////////////////////////////yH5BAEKAAgALAAAAAAgACAAAATCEMlJq7046827/2AojmQgkFkBAAd6CWvhVscKBO0swbas1zbASacKsmaHgBHg6xwIhkrRiPMYCITcjrlsbrDZSQ3HswWc4OhWBgxqM4YrtgXMKYPDzPOJjaryUzZvFnEIcllKWm09GmF8BCpnFGUrkhd7EnJKXgiLK4MThZkEA0umK3kUj2AEd6dLoFcVBitqNF00UBUwAWEWlDeKfYorA3MWnkwTrAQTPKygwFUYRdPUS6lilAIHoN3AqIOuRrevKxEAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#normText)[*Reducir el tamaño del texto*![](data:image/gif;base64,R0lGODlhIAAgAOMIAEkoBItnF4BoSrSNILqnhcitX9vHje3jyP///////////////////////////////yH5BAEKAAgALAAAAAAgACAAAAS7EMlJq704l5J7P8NweGRVhEapgqGokkY7pG/GtlyNxbKrVzcZ7Tfh9XxExMnYGv5Yh5MsR1wigqHRMyuR4ogxKpNbg06wM13Y1KOqrBT06AAQeNDHLwEA0GK8eUcHAnwENmRARwZ8dRlrOz0BhHx+cYgWWH2ThhZSHl4BAAh7jRU8BZUWRgABV4x+UUIHqVexIQADEpsTgbmWMgEBvqSiSa6MyH3GBHYUk81PAJxnr0+EBJV01TXJE8SMEQA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#normText)[*Ver el documento PDF*![](data:image/gif;base64,R0lGODlhIAAgAIQQAEwmAFstAHY6AJZSCKVoJq53O7mLVMWdbdOzi+LNrPLhyPTq1vjy3fv36P388/3//Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4CH5BAEKABAALAAAAAAgACAAAAX+ICSKDWOeaDqu7KokcCzPSdm0bPPSfOyYuBFj1+M1fgscA3E4GJ7QKFTGeCBZisGAUOh6v10CQYCAKRglRnJU2BJqDMNhwUgUEAxHgqClKRY3ImNaCAF3dwEIBU0BAloDCS8Kk5GBEGMBiWVbBwIFXDCYA5OkpAwjBJkBBgKZAwarAmIAqgKlpWuXAQAAqbsCTwMAWpm0trekJAi8zLvMtM+8BQt/1NW5dgLa29zdjpEL4eLhQglMTejp6WXU4+IKOdbh1ZPzf3LX7i0N7v3hDF0S+Ms1QkeKg2oCIoSX4wzCFFwcpmC4gt/DFF3oHCRIQuLFOAZ+HKRYUEGDkyiOT5pIkxHNiRIkSQBKSTMPAjkG6KRUs28mzZQLCgjsgqBoAjQxIeg48pOpHQNiPnkxoKPnEQdYszpooOiOAqx1nBzgt++rVqYKxBjIoxXrAytJ+bUFS0BRgrltOSpd4OCtFawKiL5167ewXn6FtRpAkLWw4wdxFzyeTPltXEViMmvezJmAgaQQiBQZfVRECAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Ver el documento sin formato*![](data:image/gif;base64,R0lGODlhIAAgAIQQACkdFFUsAXc8AGNBIIhjQJ9hHK12OrqLVsuleNzAnOPQr/Pkzevs6ffw2/v36P399urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIAAABf4gJIpOY55o+qxj6z5LoiR0bc9y6Tyu2ywzhXA4pBEfJl5P9CM6n8Jdcok4WK/YLLGxmrYKhrB4TDYUEMJFo+SFjBlw+CAOB4gLT7VjVOj7GQMFCwx2gH59CguKiol7Iod9DAEFhAIGkpAJCJubig18AqGhkgwEhJcBoqE2MougqgQBpKmxqgKLuIojBwG9vr/AvgYpJrqvtsiiZ2UIxi2c0NGciWrFuEvVxNoons4tC2XhYgeLJwvYuem52uc92dvw5tgmCtFC0tDV7S7VrAkLCPzZkOcunsFiS9Y4WMiwoUOHCN1lmUjRCoIS+74dhLcw4wiFD0OK9ChiwYqTKDN3oFz5oCO2ijCxJICBDYpNJzNp9uDCsqdPnT5+CkVJEkICM5CSKu1zQAE2GTejCvkEIQQAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Ficha Técnica*![](data:image/gif;base64,R0lGODlhIAAiAIQQAGUzAI1IAZtZEqVqKa95PreFTryQW8SYZsqkdtKvg9K1jtq9mOPOre7dwvXs1/388+rq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIgAABf4gJI5kOTKBY64sWxhLK7eI0gxzTiKG4xy60iFgYhgeDoYiSAoQAgkSwdGgLpZMQoFgCBhEhOqj2jh8g4PDdlhAMBwPAyLZKDB0CAJhIBgYBAVIClANhQwICQgyDgEFAwULewNvDQELCIYMDAubBwkNJgOSV5EBCg5aCgVUDZqaC1duJQIGAwsJCbBbCAO4BaeGnKQIiiNqAgkKscoGAMkECZOZsLeHMRAMAwE1uApKCuB9yJEFyd6bCsk4EE+5yQkMDekKiKZ5ugcEgOCRigsA5d4taJDs1q0EfQgsONCqSh4EBQqIEADt4AIH53AlwjUAQT5NhZKIGjGuxilYBMgTEeOhQJumASGTAIGQ5lCyBrccqCR2oGdPAwd6NXADh4CIBQLSIUonT45PM2rU8HGA1MeDbCIOCDjAE9ZTMwYMRBQ7YFKAMXDqkADEkwfQsGJfOHriAGYDAQ0eDJrFxa2ZiIDH4hWw4IHCBwuImKj1ImxELVpebCX2IACDq0ZZ6HsRectYPg+QwLwKYMYTLoEjO5lDVe+6Gf9QR+4SA1LoBa9zIPUj+PVZBQKYjAiwVU9uNsLXBhhiInPyEdrOPJcRZbr169ZDAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#dcmi)[*Contenido*![](data:image/gif;base64,R0lGODlhIAAgAIQQABAFARoPACoXAzwfAE4vDF5AHHBUM3daOXVdOn1lQZKAXbWif+LWtu/szPf44f3/+u3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzO3kzCH5BAEKABAALAMAAwAbABsAAAX+YGIcSGmeKEKaI6OmayojBmPQbzyvccIkiAKAcEgUAoCkcrkciGyFxYNBMCgSj6x2uw2ofgDt4DDimh1ZQOJgIzAeDQLCuKjb73cvm0YQVA03gIKDgCUGBV8GCUBzRTMmjHNfQUcDgUyYSwKTUXBVi2ahDwBfCWEND2OIoltopGyHUnFzBAq2t7i4pAg/BgQAljSRj4UkLic3CLW5zLZevMjCCKxZaKNADCRFyaDUWq/HJIUISJmYAgd7hsJAi+7vi5IlsIaK9oSENONsIlEKcsrwCLQDroCAB2g+TfPmatJBNE66eRuV6BCDBQUAlTOnJMCAL+IKIHpEEpqidCoQxOFbOaIGg5cwY8qcKbNBCAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#toc)[*Enlaces con otros documentos*![](data:image/gif;base64,R0lGODlhIAAgAIQQAEAgAGExAG83AHg9AINAAJBHAJdSBqFjIKtyNLWDScKVY8yne9S1jeDHpebTtPft2+rq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH5BAEKABAALAAAAAAgACAAAAX+ICSOZPmUaKqSiLG+7xIECmyXxjAUzr0uPYiDQNA1hIOaT+QQDBbCgo5wRACgSwjDKVg8EE4XJIEYHW9bgsDwcAwEjBLjIEj4pISCSGGHnBdvAmU3CwIBYiMKAw4POWpKKgkDfQsFgyJbAUBEAwRBKgsAmmYkMnANAgIFUAwIcSkKBH2lWgEHfggKPUMCZ2YLryIJCWcKcUApC77CTjtYBgEEx7NBClgpW506cQkzZQ0GPQxQBgB2DgkHBwq+CU4EhyIH8RCrEAcODAO3DgZco4kMCJy1AIs6MiLOQCsiKMsYJ9eEGcgzq4QCBMQgKICkQFWxYA0+lZhnaACEBwliDDB4UEiPg3UJYSiYSKCMAwdgrBFJWQZBAQIHgoHCUvCegANE1sgLYEjPjY6DCgggQuBaSpiEIEkq4tThCimdhHod2anqWBUHykY8O8KRNLYWtSGCKwKBtlt0RQByEqDiihAAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#references)[*Comentar el contenido*![](data:image/gif;base64,R0lGODlhIAAgAIQQAD8gAFIpAGc0AHc7AH0/AIxGAJhUCKJkIatzNbJ/Q7iHUL+TX8mjddKyidzBnfTo0urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH5BAEKABAALAAAAAAgACAAAAX+ICSOZGmeaKqubIm8R7s+SWHc93ErcpnkiAMMlus9DIWDEJFoOhNKQ6x1IEiZimw2oUi8kAXWQnDlKhboxbkbNBAWqYdjMJCa0+k1FDklIW4FNjlKBwoMeVptBAMkYwQ2hC9ebQd4W4oCIwIDkEJNWWpsOgmhTX8GA1MDAVaeZ2kMh2pBBQhsbQUCDBAAAAKQZ7HCDA2xswe1QVF1EAgArFfBDdPTDtOHXnxgAwkiBr42TAux1Q7m1sUKtEiLuyLPvwa249Tn5sUM6kicBt0jvfFskWtg794hfUmUPRixKqC0cuiKLdhDwEEbf818teJCj9o1WVAKMIIw0YA7XgFcOAl5NcwYmmxvSjQYsUBjmVeWTCExsAJBgHhKmJgRpSRJizmbBhEitO9ki1ybBOEQaYBHDwhzcIB5ZGCBg6sjEHBFADbFHE4JFpY9QefA17UnFjRQC7eu3bsjQgAAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Etiquetar o categorizar la norma*![](data:image/gif;base64,R0lGODlhIAAgAOftAHI5AHs9AH8/AIRCAIdDAH5JFIhIB5FJAJdUDZRXG5lXEZhZGp1dGZ9hHptiJ5djLqpxM5t0Sa12O6t7R658R7iIUruNWLuNWryOWb2QXcGWZcGXZcGXZ8KYaMKZa8KaasObasSba8ScbcScbsWcbcGddMSdbsWdb8aecMafcMagcciidciidsmkdsqkeMqlesumesymesuofMuofsyofc2ofcypfs2qf86qfs6qgM6qgc2rgc6rgc+rgM2sgc+tgsmui8ivj8+uhdCwiNGwiNGxh9GxiNGxis60kdS1jdW1jtW2kNa2kNa3kNW4kta4kta5kta5lNa5lde6lNe6lde7ldi7ldi7l9e8l9i8ldi8mNi9mNm9mNm+mdq+mtm/mtq/mtq/nNvAmtvAm9vAnNvAndzBndXCqNzBntvCoNzCn9zCoNzDod3Dn93DoN3Dod3Eot3Fot3Fpd3GpN7GpN7Gpd7Hpd/Hp9/HqN7Ip9/Ipd/Ipt/Ip+DIqN/JqN/JqeDJqODJqeDKqeDKquHKqOHKqeHKquHLq+LLrOLMrOLMrePMreDNseLNruLNr+PNrePNruTNrePOruTOrePOsOTOruPOsePPsOTPsOTPseTQseTQsuXQseXQsuLRtuTRs+TRtOXRtObRsuXRtebRs+XStOXStebStebTtebTtubTt+bUt+fUtefUtufUt+fUuOfUu+fVuOfVuejVuOjVuujWuOjWuejWuujWu+nWu+jXu+nXu+nYvOnYverYvenZvurZverZv+vZvebaw+ravuvawOrbwevbwOzbwOvcwezdxO3exO3exe3fxe7fxu7gyO7hyO/hye/hyuzizPDiy/Djy/DkzO/kz/DkzfHlzvLm0PPo0vTo0fXo0/Tp0/Tq1PTr1/Xr1fXr1vbs2Pbt2Pbt2vfu2vfu2/fv2vfv2/fw3fnx3fny3/rz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4Prz4CH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoA/wAsAAAAACAAIAAACP4A/wkcSLBgwW2asNi48YXYOoMQI/7TZkICgwUOEhAQACGYRInpriGZQKGEJ4KzHhxw9dHgsDNBgDBSF/GDgpYGp4H7920GiT2oDs1pIwibNQN+cBo0dyLHuXPauIUbR65ctwY+lBI0p6PGt2y+hAnjRQuXLlQIjmgd6OSHtGe1YsV6VQoVnxcVACxby+6NkWTVSIUS1alTJlgFAgxo0WytIR6rmE2K9EiRokOGLMlw0eqOMa2CaCSCZsgQoD599tipE+dQrDVufildpYJMsdVy4sCB82aNGTRlxIDxogvnMRRRgMGps3v3mjFdtnDRkqUKFZYfnYEYUspQH0OFUP4DArQHTx0pTJosUXLq4zYNNF49wlwIUH3Ue/bcIdQHihEjoUgkjgcpOFLZIQgaQkh4fZB3xx2ohSGENxGhI0IHfShSCSSVXYYZeOOh1ocddsgSkTkhZGBGIZhQ4uIjkCyiSCIJKtgHH4cgIhERGDzRhymdcMJJJplQ8sgikEAyI4KBGEKHRFeEkIQepIxySmFDFjlJJZMoeRklaZgT0Ss4FAGHKaqgouYppASZZSWURDKZGuRItEMPZnQy1yuosILKKWxiSSQlmeSxzUfHsGDFILjgMtdcav4ZaGGFOIPTLSiAAYmjcu3J55+dgFJKNFqlMoIZjuSiS6Ox2LKnml+5lLLWP5dswEYnuvCSS6OuxlKKMr3MKlAjHNgRii++7JILL7jQQo0kwg50SQeBvIJssrpQs0m0BP1xQiKxIHsLNZ9wW9AUMFCiiy3MHGKuQRfEkAkyf7wLUQQWrDBrQAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Compartir la norma en las redes sociales*![](data:image/gif;base64,R0lGODlhIAAgAIQQAJ1eGax1OLOARLmLVMSXZsijdM+tgta5kt/EouPQsOvavvTky/bo1fHq1fTu2fv57Orq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIAAABf4gJI5kKSqHkZhsayJFYRCra5uGURDFcf8iB28gEBSAJkVhYBDNCIJAIDpAQg47guqQGAwCA8SisRgQgKkl4sE2TMOKhGKR4P2Y0MOjQTDPuAmBCggBPztLAQAAMjEEgIJ1QDkJBghGhzwJCIEIbgMHPjcqCgZmBFBhCWkEASmhLgYLcQgDi6WmWqUBDgI3nXSBBgCVfWA6BQIEDgCGwJpeDm5Rp3kJyTcFm4GUBwzSbwYCC1m+KsEBY+ECRKAFQj0HDjaVCKcDCwtuUsnuCp8HyRC4OKROAYM4+Bw4eJCPQCcZr1jw6HOvQQMGDBY4AGjEwIFPNGzsyFGAgcWLZJsGeTFV6k4dBA4umpSp0MEgS0C6FGgQE6NFQXNkXbtxAIaCmCgt4oPyZsARF1oM1jyJEt/BTqBMlDllwCIDByYxjjkpBwGXOWec5OBS08HYi28zapSVIMtTCAvZPJhKlcwYOps2rWUQsS3YvicxapKzoNOpGDVEjJ3pdSZGBpCWNHGBOLHfBUUfAlHq9+Rf0EWtQOhcOd8C1SJCAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Sugerir mejoras en el documento*![](data:image/gif;base64,R0lGODlhIAAgAIQQAJlXDqNlIatyNbF+QreHULqOW8KVZMagccypftO2jN7Fou3cwfbv2vr25/388/3//Orq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6iH+JURldmVuZXQgMjAxMCAtIGh0dHA6Ly93d3cuZGV2ZW5ldC5uZXQAIfkEAQoAEAAsAAAAACAAIAAABf6gwkBkaZ5oSiqK6r6lkixwjSZ4Y+9QgiA0Xs2HSKgYMpxyuVQEiYjRifE7/K7Y7IGGOHiDpoR3TC6TjV2v8SQ2u8mIBsJAX4fp+Lw+Hz/g7SUJe4N6fXQFgCRzhIwHDQYFkQVSJQiSl5iZjgYEnQQGlBAIBAWepaeYpJ+Pnp0GJgetsrOlq7WeA6AksbIDBL6/uJ0FDQUDx8i5OgfJxwUKwQm+gs4Mv80DAiMG2AkOCQIJD34OCwIDkwQC6+u+jhAH5+wCBND0CseC68TZ89ol5vwJ9BegRT92AcBAWHCQXiZJBoIICBBg4sREBCgGiGNjosaNoRYAqJjohUeKrz5OCAAgQGGNACM1DjChIACBUDZgAti5U0qDT0JK6OQpoASSoEJ57gyANIVSni6bPu3Z9AQASJ0GtKgahuuLEAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Enviar esta norma por correo electrónico*![](data:image/gif;base64,R0lGODlhIAAgAIQQAKBdE692N7yJUsicbtCsgda5ktvAnuDFo9/KpuXStOfWserZuuzbw+/jwfTjyvLtyvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwzvbwziH5BAEKABAALAAAAAAgACAAAAX+ICSOZGmeaEo2j+qiRlE0bw0hhUEMBG2jjcKhMCgOZj+TooDjGY+KVjJo0BFkMsKuEP0hDENCDOFIHBKFnQEhVS3DhLMudnCU0wd26oHop+NmXwwGDoQOCzoHB20rZwdaYgxyOAwLDggMdmgIiyUNkDxXkgukBWWSDAkGmZKcPiJ8O0UECwiqkgkIC6m2tZaXOCQPdo8EugYJAgIDAmBDCwkJC3mWCT0jdnYMfVUIAQUCAMbIqwmX5g5CbQ3ZmkMG3wEB09IH5fa+Dq/s7XZpAMwQCCBgbswBBkIYZNrXL1uyAASUBThyKE+BBJV2rVO4S2G2VAQmCpjYJ5pJk/uVKilUuRJkuAFDONk6mWAfqZs4b0o6kqMPpzwy99EcalJHDmeK7Cl6pYDozGiPLmLBUuXoK59A+5zhhEeRqqlgmSb96VPGmqR5hqQJO0KBUrRrz44luxbS1alVxXx5q6hKFTgyrsbAcqWqX79H6YD502ZJlitHc+RQ5FOXggaYH2hu/AfyAQWgMbPYbOPB6M2MkqhWHQIAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Imprimir la norma*![](data:image/gif;base64,R0lGODlhIAAgAOMIADUpC4xqIc2eM7iynty1ZOjMk/Har+vhw////////////////////////////////yH5BAEKAAgALAAAAAAgACAAAATqEMlJq72Yks27J9lFHGRpmmBYjWdLpuokuK4QT8FMn0JwI7kdz3cLGo7I5PHQ+xmVUCYxloNaDc3MoUDoCQyFsHgcxuYIhUPlgC54weS4uZ2mjHuBvH7PzwvGdnGCg2QwbHCEiWIGIxJhW4qRkBJfQpYnWJQHV5xKWwYkNggznaVgaKGaZEhCSmVMlIhuALS1trcAf3CZBwGyAQB9wsABYwYBJMV3fmF0G1xuOWTIW39k1tBizthhfyUFfdyEeHppJwPoA9mKf+kmFN/ii8beJBglXaCXAjpqWvwAAwoMWCLEJRo/EipciCECADs=)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Cerrar la ventana*![](data:image/gif;base64,R0lGODlhIAAhAIQQALOARLqHUbmMU7yQXcOWY8WabMWfb8mjc8unfNGsgtGziNO1iNa5kty/mN3DoeHMqv///////////////////////////////////////////////////////////////yH5BAEKABAALAAAAAAgACEAAAX+ICSOZGmeaKquJcO+5uPAz/PWzrzW8u7gDRUPh0rkZEfX6YdDmhIMZG6qJDka02yQxGgwco0w1rGwjq9iR3XUZbjf7kZCBIerdSZFvb7Y11UJfQuBC4UKhQyIiAoKLAmPkJGRCgmUjS8IkpqTMCIHCKChoqFznSIGBggHq6MIBqYjAwartLWzsBACBKi8vbwDpgEGBAXFxcTHBcQEMADHBNDR0srEwCsA0tna0tYo2NkDBOHi49rdJc4D6uvkBAHr8OwBJ+TxAuEAIvfx8PMk7/sG3NtXIiC8gflICFyo7t4JgAIiEjwhAKK6FBIlnjMRAOBGExkFJEwRoOILiTAL/J3ExbKly5ckQgAAOw==)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)
+
+[*Conectarse al sistema*![](data:image/gif;base64,R0lGODlhkgAgAOMIAEMiAFEzEGlOLX9oSZyHaremicq7ouLZv////////////////////////////////yH5BAEKAAgALAAABACSABgAAAT+EMlJq61nhCB2MFcojmRpnmiqSkdbAIC3CWtt33jOtnxrFARBbNbZ6I7IJO4AJDgHA0FRJq1+DL3sQcntHg8wT1Ua5XCqGsGAUCgY3r/C1kuvo8AANHRNSJOjaWtubzxYdjgwhzVgZ3tObBqAjhyCbXCEijaJmSM/j30zUI9tQGpqTwRXWFotnCubrhZMUFVDoqNtQVGfBTQovTMgLEEzBHMIMBkbBBXAecYUwBzCMNUAEgYa0xXJQQAHoAEDwhLOAtAXBXtqtpWkpUFsQL0oA9abB0L3A3Mw9tUFJvyzJmDOwGoS7l1Ddo8cw4Ev7glUWFDLD1FrbDl5l+vcuVz+9ExEHHfAgC8CMcZlg8GMYQA39ny9CEAASy8AzEZiMTkBlgSSJgEMoBAGWgCcO2XGqMlEiDxSfdQNUDdT3MYfceJ9BMLThJChFpxSiJkQQEAEBmJIEHIWWx4EX0P4rJA2AFGcE88ZWmuWQloBHKOqmaeRDdY3WuXV9FXiqMMJjv2qZTgHj4SjChNFvuATXAdrd8kFDSMMc+ZLb9pAIbyBDymsiUEyJrG5Qm20k31uMq0Qwe27FFD27rnQrwahlzPPLbcmTrunlnRtZTN7RNywePOWBQ6374XrFpJBRlpSd3G6b7u3HTHr3fONUE3xqi5CZ8mTSxEfbWm+HMtVBgTNgYB9Xflm1hxHyTEad2vJAc5kETFVkoAYcCSNGq7FBwgqAZS0ihYTZDBcPgrxsx1xEwjXm4gS/QSaikL1R5w1YCEAI2iyZFEXGfCpJg6GolhlGGp7IeBZMCESwwE6DDGIVhQxqCHMkduwcNw1R/IjIzbaTHXMk0JQ8lgIePzhjh8YqkFJTXAU8mUscCaBhxh/gNLBGIE8hdqbcfa5RB+mjGHGEGN0MMiHWfipqA4WefIZnR6wwsOilHbRg3AycFDpprEYcJQHLHEq6ggRAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](#)[*Suscribirse a LexiVox*![](data:image/gif;base64,R0lGODlhfAAgAOMIAEYlAWlPL4t1V62cgMa3n9fNtOnhyPX06v///////////////////////////////yH5BAEKAAgALAAAAAB8ACAAAAT+EMlJkTE16827/2AoekeJjWiqruzlXuUwHK/L3ngeGmXv/72BgKArGovAEkEgExR8iMLlSK2Knj+BwFeYlSYFq3ic4fmYMdnAQIhhpuS4FdYLtLUHvPcgJZzkgEV0BwQBJYaHhE8Ga1KBIgAAE5EclEcXfkoBBQWIB4YEbWsEjo8glgioGao6mFI8dp9eAUJ8rn+mkJKPnEtoAFsCmwMBAVtrbKW5uqYDnBdaAwCcAQCbTwN+mLgSjAKRdpO7Epbe4EQTxOfiBsKSqJHt1U7i7O7m1ugSheACJ8mvDHQC4OdVHgAmBIapIC2Sw3oQGzocV23iuEjfKMEDZvHExoz+ACQ+lADSYYATzgKaKMZEWBsaFwromzCvTwCI5HbVZHMTQcMhPMUBW7gxZBeMOYXS21lIQsNsXebte+bCBykfLjhxqlDNmB8Kqix1BUoT2AakOCMNSGctaU4BZb3+qbZ2AoG2UUgFNPOjhsBQFfiBW5hqXOF9Fa0RJXh2GtiLjiUUsLSRsGDFOS2OpEV1EBdS07R+DZwRbs5/qpagjTTzcYXKYChDzqDabGHNlCY72Yu1gJZiCntxi90TQTV0DTNM7ilVA6uNdX3i3bhhuQS6G75dU8lGSL5XpAis4ao34wTtUcWWt/TTT1O3adUetU2d5vpdT0l1P+lOb0wtwmy1AtMFMrSWmUOmSYegbBOZZkBiIx3m2lsdwReWRQmWNJFvdqTkQoF7KeTMBrUxgUtpBlhS4njdqJMPThYCIM9Q8VGwIi5LVOQVh0toJZAQu2W11TJEosCjTM8wwZlWohXpZAg8MsLJb1DJFIpMwz2pJQW+aeGTEMYUGMqYoWS55ZYPCsNhmGq0GYaZZ245nzAAtqQGYXHmWYY6LAGYjZ6AdlCMNUMoE+ihFAiBJ6KMUgBHo4hGAAA7)![](data:image/gif;base64,R0lGODlhCwAgAMIEAO3kyfXxzvr03/v68frz4Prz4Prz4Prz4CH5BAEKAAQALAAAAAALACAAAAM1SLrcE6OtEIRUAdibt+wXAXJaOH4l6TUnm6Ir08qvG081fWM5vos93m/mMwWBwyNRGBI1LwkAOw==)](https://www.lexivox.org/suscripcion.html)
+
+# Bolivia: Reglamento General de Turismo, 24 de noviembre de 1939
+
+GRAL. CARLOS QUINTANILLA
+  
+Presidente Provisorio de la República.
+  
+
+## Reglamento General de Turismo
+
+Considerando:
+
+* Que para conseguir el desenvolvimiento eficiente de la Dirección General de Turismo, dependiente del Ministerio de Relaciones Exteriores, es necesario fijar las normas legales a que debe sujetarse;
+* Que la mencionada Oficina tiende, entre sus finalidades primordiales, a incrementar el turismo hasta convertirlo en un fuente saneada de la economía nacional;
+* Que dentro de esa política de fomento y conforme a las recomendaciones del Primer Congreso Interamericano de Turismo, es conveniente prestar las mayores facilidades a los turistas procedentes de los países americanos y facilitar el intercambio turístico con otros Estados, señalando las limitaciones que aconsejan los intereses nacionales;
+
+DECRETA:
+
+Apruébase el siguiente:
+
+## Capítulo I De las atribuciones
+
+**Artículo 1°.-** Son atribuciones de la Dirección General de Turismo las siguientes:
+
+1. Fomentar el turismo, en sus aspectos nacional e internacional, a objeto de contribuir al mejor conocimiento de las bellezas naturales de Bolivia, las modalidades de su cultura, sus monumentos arqueológicos e históricos;
+2. Dar a los turistas todas las facilidades y comodidades posibles, dictando disposiciones adecuadas que tiendan al mejoramiento de los viajes, transportes, alojamientos, diversiones, etc;
+3. Editar para su distribución dentro y fuera del país, mediante las autoridades competentes y las Legaciones y Consulados de la República, todos los elementos de propaganda que tiendan a la divulgación del acervo nacional, en las ordenes cultural y costumbrista, así como lo relativo a las bellezas naturales, y reliquias históricas y arqueológicas;
+4. Dictar las disposiciones pertinentes, en lo que se refiere al ingreso, permanencia, salida y reingreso de turistas;
+5. Supervigilar el trato que se brinda al turista en los ferrocarriles, hoteles y dependencias de empresas y establecimientos similares, procurando las máximas facilidades y que las molestias relativas a la revisión de equipajes que reduzcan al mínimo.
+6. Estimular la edificación hoteles; alojamientos, balnearios, campos deportivos para turistas, termas medicinales y otros sitios de recreo;
+7. Contribuir a la conservación de las reliquias, monumentos arqueológicos, históricos y tradicionales de la República. sin perjuicio de las atribuciones conferidas a la Dirección General de Bellas Artes, en lo relativo a la catalogación y resguardo de dichos valores;
+8. Exigir la garantía y fijar los requisitos necesarios para el correcto funcionamiento de las Agencias de Turismo establecidas en el país;
+9. Cooperar mediante iniciativas, con el Ministerio de Comunicaciones, Prefecturas de Departamento y Alcaldías municipales, en todo aquello se concierne al mejoramiento de la vitalidad, del paisaje en las zonas de recreo, realización de obras, urbanismo, higiene;
+10. Controlar el desenvolvimiento de los hoteles y demás establecimientos y empresas, cuyas actividades, directa o indirectamente, se relacionen con el servicio de turismo.
+
+## Capítulo II De los turistas
+
+**Artículo 2°.-** A los efectos del presente Reglamento, se consideran turistas a los que visiten Bolivia o transiten por su territorio con fines de recreo, estudio, u otra actividades análogas que no tengan como objeto principal conseguir recursos para su sostenimiento y permanencia.
+
+**Artículo 3°.-** La condición de turista extranjero se acreditara en el país, mediante el Pasaporte de Turismo, que se ha otorgado por los Consulados de la República, sin perjuicio del pasaporte extranjero que pudiera poseer el interesado y previo pago de los derechos fijados para los turistas y las leyes vigentes. Mientras se envíen a destino los Pasaportes de Turismo, los consulados utilizaran los formularios actualmente en uso.
+
+**Artículo 4°.-** El pasaporte de Turismo, editado por el Ministerio de Relaciones Exteriores servirá como documento suficiente de identificación de los turistas que ingresen al país, garantizando su libre transito dentro del territorio de la república.
+
+**Artículo 5°.-** La condición de los turistas nacionales se acreditara en el exterior mediante certificado de Turismo, que extenderá la Dirección de Turismo en La Paz y las Secciones de Extranjería de la Policía de Seguridad, en el interior de la República, mientras se organicen los Comités Departamentales de Turismo.
+
+## Capítulo III De las visaciones
+
+**Artículo 6°.-** La visación de los pasaportes de Turismo, expedido por los países extranjeros para viajar a Bolivia, se hará en la forma acostumbrada debiendo acompañarse a aquellos el Pasaporte Nacional de Turismo, que será llenado y afirmado por los Consulados de la República.
+
+**Artículo 7°.-** El Pasaporte Nacional de Turismo se otorgará gratuitamente cobrándose solo el derecho de visación conforme al Arancel Consular Vigente.
+
+**Artículo 8°.-** Para la salida de los turistas nacionales o extranjeros radicados en el país, se utilizaran los pasaporten ordinario, acompañándose obligatoriamente un Certificado de Turismo, que seré expedido por la Dirección General de Turismo, en La Paz, y las Secciones de extranjería de la Policías de Seguridad, en el anterior.
+
+**Artículo 9°.-** Al Certificado de Turismo se adherirán los timbres a que hace referencia el inc, j) del Artículo 43 de este Reglamento.
+
+## Capítulo IV Del ingreso al país
+
+**Artículo 10°.-** En materia de Turismo, Bolivia seguirá una política de amplia cooperación interamericana. En este sentido, el Gobierno prestará las facilidades y garantías necesarias a lo turistas del Continente, autorizando su ingreso al país, sin otras limitaciones que las señaladas en general a los extranjeros por las leyes de la República y los convenios internacionales que tienen suscritos.
+
+**Artículo 11°.-** Los Consulados de la República quedan facultados para autorizar el ingreso de turistas al país, siempre que aquellos serán presentados por empresas de turismo de reconocida seriedad y solvencia acreditando los siguientes requisitos:
+
+1. No estar afectados de enfermedades infecto - contagiosas o crónicas que signifiquen un peligro social, lo que se acreditaran mediante un certificado legalmente otorgado por las oficinas de Sanidad pertinentes;
+2. Que posean el capital suficiente para su viaje y estadía en el país;
+3. Que el presunto turista este domiciliado, por lo menos un año, en el país donde solicita su ingreso, salvo las circunstancia de que el interesado se halle en viaje de turismo por el Continente, bajo garantías de un Agencia autorizada;
+
+**Artículo 12°.-** En caso de que la idoneidad y la solvencia de los interesados no sean suficientemente establecidos los Consulados informara esta circunstancia a la Chancillería antes de visar el Pasaporte, opinando sobre la conveniencia o inconveniencia de conceder la autorización pedida debiendo resolver en el fondo la Dirección General de Turismo.
+
+**Artículo 13°.-** Los Consulados que visaren pasaportes sin sujetarse a las disposiciones anteriores serán responsables de las consecuencias ocasionadas por su incumplimiento.
+
+**Artículo 14°.-** Las comunicaciones telegráficas, cablegráficas y postales que se expidieran, solicitando la autorización de ingreso, correrán por cuenta de los interesados.
+
+**Artículo 15°.-** Con el propósito de seleccionar los Consulados de la República autorizaran su ingreso al país, previo cumplimiento de las siguientes condiciones:
+
+1. Acreditar la condición de turista ante los Consulados respectivos, los cuales, anteladamente, remitirán al Ministerio de Relaciones Exteriores la nomina de las oficinas de Agencias de Turismo legalmente establecidas en el lugar de sus funciones con indicación del capital con que giran;
+2. Poseer pasaje de venida al país y de regreso, por lo menos en segunda clase;
+3. Certificado expedido por la Policía del distrito, acreditando no haber sido expulsado de país alguno;
+4. Que posea carta de nacionalidad del país de origen;
+5. Certificado de sanidad otorgado por la autoridades competentes del país de procedencia.
+
+**Artículo 16°.-** Solo en casos excepcionales, tratándose de personalidades, funcionarios públicos y misiones científicas, culturales y deportivas podrán simplificarse los trámites, previa autorización de la Legación de Bolivia acreditada en el país donde se solicite el permiso. A falta de ella, la autorización deberá solicitarse cablegráficamente al Ministerio de Relaciones Exteriores.
+
+**Artículo 17°.-** Las Legaciones nacionales velaran, dentro del Estado de su jurisdicción, por el estricto cumplimiento de las disposiciones precedentes, debiendo informar a la Chancillería sobre las irregularidades que advirtiesen en la concesión de permiso de ingreso al país.
+
+**Artículo 18°.-** Los Consulados serán responsables de cualquier infracción a las anteriores disposiciones
+
+## Capítulo V De la permanencia
+
+**Artículo 19°.-** Los agentes de Fronteras y Revisadores Aduaneros guardaran las consideraciones debidas a los turistas que ingresen al país, procurando que al revisión de documentos y equipajes se haga en el tiempo mas breve y las condiciones más cómodas y posibles.
+
+**Artículo 20°.-** Los turistas tendrán opción a llevar, los distintos medios de transporte que utilicen, el equipaje que les fuere necesario debiendo pagar derechos aduaneros solamente por las mercaderías que visiblemente excedan del equipaje, Conforme a las Leyes vigentes.
+
+**Artículo 21°.-** Los Agentes de fronteras señalaran los pasaportes de los turistas y notificaran a los interesados la obligación que tiene de presentarse a la Dirección General de Turismo, a su llegada a La Paz, ante las Secciones de extranjería de las Policías de Seguridad, a su arribo a las ciudades del interior de la República
+
+**Artículo 22°.-** Prohíbese el decomiso de pasaportes de los turistas por los Agentes de Fronteras y otras autoridades encargadas de la revisión de documentos y equipajes cuando las condiciones de ingreso se ajusten a la Ley.
+
+**Artículo 23°.-** Llegados a La Paz los turistas gozaran de las siguientes facilidades:
+
+1. Los tramites relacionados con la visación de pasaportes correrán a cargo de la Dirección de Turismo, no siendo por tanto necesaria la presentación de estos ante la Policía de Seguridad, salvo en caso de exigir sospechas motivadas sobre sus antecedentes personales.
+2. La legalización de sus pasaportes la harán ante la Dirección de Turismo personalmente o por medio de una Agencia de Turismo oficialmente reconocido;
+3. El pago de timbres de turismo establecido por este Reglamento, podrá hacerse, asimismo por intermedio de una agencia autorizada por el Gobierno;
+4. De acuerdo con disposiciones vigentes, se exime a los turistas del impuesto de “Prestación Vial” y de recabar Carnet de Identidad.
+5. Las autoridades de las zonas declaradas “De Turismo” prestaran a los turistas las consideraciones inherentes a su condición, lo mismo que los propietarios de hoteles y establecimientos similares y aquellos funcionarios que se encarguen de la vigilancia o la administración de museos, bibliotecas, parques y monumentos nacionales.
+
+**Artículo 24°.-** Mientras se complete la organización de servicio de turismo en el anterior de la República, los turistas estarán obligados a presentar sus pasaportes en las Secciones de extranjería de la Policía de Seguridad, que harán las veces la Dirección de Turismo, en las distintas localidades y darán cumplimiento a las disposiciones contenidas en el presente Reglamento.
+
+**Artículo 25°.-** Se fija en 90 días la permanencia máxima de los turistas en el territorio de la República, tiempo en el cual deberán abandonar el país, para desvirtuar las finalidades del turismo.
+
+**Artículo 26°.-** Cumplido el plazo para la permanencia de un turista, señalado por la Dirección de Turismo. Esta oficina instruirá a la Policía de Seguridad para que notifique al contraventor del artículo procedente de abandonar el país,
+
+**Artículo 27°.-** Desde el día siguiente al cumplimiento del plazo, todo extranjero poseedor de Pasaporte de Turismo estará obligado al pago de la multa Bs. 10.- por día que se hará efectiva en timbres de turismo por conducto de la Dirección de Turismo y en caso de no hacerse presente el interesado, se le cobrara coactivamente por las Policías de Seguridad.
+
+**Artículo 28°.-** Si hasta los 15 días de cumplido el término de permanencia en el país el turista no lo abandona perderá la condición de tal, siendo asimilado a la categoría de simple extranjero y obligado, en su caso, al extrañamiento del país sin lugar a reclamo.
+
+**Artículo 29°.-** Solo el Ministerio de Relaciones Exteriores tendrá facultad de prorrogar mediante Resolución expresa, la permanencia en el país de los turistas que, provistos de suficiente capital así lo solicitaran. Esa prorroga no podrá exceder de tres meses como maximum.
+
+## Capítulo VI Del reingreso
+
+**Artículo 30°.-** La Dirección de turismo esta facultada para autorizar el reingreso de los extranjeros que, radicados en el país, hubieran salido al exterior como turistas. Dicha autorización se hará constar en el pasaporte respectivo y faltando ella, los Consulados podrán, bajo su responsabilidad, autorizar el reingreso en la categoría de turistas
+
+## Capítulo VII De los actos prohibidos para el turista
+
+**Artículo 31°.-** Para no desvirtuar el objetivo económico perseguido por el turismo, se prohíbe al turista realizar en el país actos de comercio en los que intervengan como vendedores de efectos extranjeros, por sumas mayores de Bs. 100.-.
+
+**Artículo 32°.-** Prohíbese asimismo tomar ocupación remunerada en empresa o establecimiento alguno durante su permanencia en el país.
+
+**Artículo 33°.-** Las empresas que contraten a turistas para efectuar labores remuneradas pagaran multa de Bs. 200.- en timbres de turismo siendo la primera y Bs. 500.- por las demás infracciones.
+
+**Artículo 34°.-** Con referencia a los turistas queda vigente la prohibición establecida respecto de la exportación de plata labrada, objetos de arte, piezas arqueológicas o históricas, cuadros, escultura y otros valores catalogados como nacionales.
+
+## Capítulo VIII Del fomento al turismo en el interior de la Republica.
+
+**Artículo 35°.-** Con objeto de cooperar en el intercambio turístico nacional y en la atracción de viajeros a las localidades del interior de la República, constituiránse en las distintas capitales de Departamento, excepto La Paz, Comités Departamentales de Fomento al Turismo.
+
+**Artículo 36°.-** Los Comités Departamentales de Fomento al Turismo estarán constituidos por el Alcalde Municipal, el Prefecto del Departamento y un representante de la industria hotelera, elegido ultimo por acuerdo del gremio o sindicato respectivo.
+
+**Artículo 37°.-** Los Comités de Fomento al Turismo dependerán en su organización del Ministerio de Relaciones Exteriores el cual recibirá sus informaciones y se les prestara colaboración del turismo en las distintas localidades departamentales.
+
+**Artículo 38°.-** Los Comités mencionados velaran por el estricto cumplimiento de este Reglamento General de Turismo, dentro de los limites de su jurisdicción departamental.
+
+**Artículo 39°.-** Escucharan las iniciativas relacionadas con la promoción de corrientes turísticas hacia las regiones de su jurisdicción cooperando eficazmente en su efectividad.
+
+**Artículo 40°.-** Controlaran los precios de los hoteles y establecimientos similares, procurando el mejoramiento de los sitios de recreo, termas medicinales, monumentos arqueológicos e históricos de cada Departamento.
+
+## Capítulo IX Del régimen económico
+
+**Artículo 41°.-** Crease el “Timbre de Turismo”, que el Tesoro Nacional emitirá de los cortes de Bs. 1.-, 5.-, 10.-, 20.- y 50.- para el fomento del servicio de Turismo, en la República.
+
+**Artículo 42°.-** La Tesorería General de la Nación dispondrá la apertura de una cuenta especial de Fondos de Turismo en el Banco Central de Bolivia al misma que estará servida con el producto de la venta de Timbres de Turismo, en al forma que establece el presente Decreto.
+
+**Artículo 43°.-** El servicio de Turismo será impulsado mediante las siguientes disposiciones, pagadera en timbres de turismo que sustituirán a las señaladas por el art. 4o del Decreto Ley de 25 de marzo de 1938.
+
+1. El 2% sobre las facturas que cobran los hoteles, pensiones, bares, pastelerías y demás establecimientos similares de primera y segunda categoría;
+2. El 2% sobre monto total del valor de los pasajes de 1a y 2ª clase que pagaran las empresas de Ferrocarriles del Estado y particulares, en la forma establecida en el Decreto Ley de 7 de mayo de 1938.
+3. El decreto de salida de los turistas al exterior, sean nacionales o extranjeros en la proporción siguiente: extranjeros Bs. 30.- para Sud América y Bs. 60.- para Centro, Norte América y otros continentes; nacionales: Bs. 20.- y 40.- respectivamente;
+4. El 1 ½% de los pasajes en avión, en la parte correspondiente al territorio de la República, que abonaran todas las empresas establecidas en el país;
+5. Los turistas que por cualquier circunstancia no hubiesen pagado los derechos de visacion de pasaportes prescritos por Arancel Consular para la categoría “Turismo”, abonaran en timbres de turismo el dobles de los derechos no pagados;
+6. El producto de la multas recaudadas conforme a los artículos 27 y 33 de este Reglamento;
+7. Multas a hoteles, pensiones, residenciales, empresas de transporte, etc., por infracción a las disposiciones de la Dirección General de Turismo;
+8. Los porcentajes obtenidos de los viajes colectivos a Copacabana conforme a lo dispuesto por la Resolución Suprema de 23 de noviembre de 1938 y los que se organizaren con fines de turismo dentro del territorio de la República.
+9. El producto de los derechos de salida de turistas del país, conforme a lo determinado por el artículo 8°., Cap. II, de este Reglamento;
+10. Los certificados de turismo otorgados a los turistas nacionales de acuerdo al articulo 5o del presente Reglamento, cuyo valor se fija en Bs. 10.-;
+
+**Artículo 44°.-** La Cuenta Bancaria de Fondos Especiales de turismo será abierta a orden del Ministerio de Relaciones Exteriores y Culto.
+
+## Capítulo X De la inversión de los fondos
+
+**Artículo 45°.-** Los fondos recaudados, conforme a las disposiciones contenidas en el capítulo anterior no podrán invertirse si no en las siguientes actividades, relacionadas con el fomento del turismo en la Republica:
+
+1. Publicaciones de propaganda, editadas por la Dirección General de Turismo;
+2. Filmaciones de películas y adquisición de otros elementos destinados a la propaganda turística en el exterior.
+3. Organización de exposiciones de propaganda, tanto en el exterior como en el interior del país
+4. Organización de la Fototeca Nacional de Turismo;
+5. Organización de la Estadística Nacional de Turismo
+6. Adquisición de vehículos y de implementos necesarios para la atención del servicio de Turismo;
+7. Fijación de subsidios y subvenciones destinados a la instalación y mejoramiento de hoteles en los centros de importancia turística;
+8. Contribución, en la medida de las posibilidades, a la realización de obras publicas de urgencia, que benefician al turismo nacional
+
+## Capítulo XI De la cooperación al turismo
+
+**Artículo 46°.-** Las Policías de Seguridad y Municipalidades cooperarán a pedido de la Dirección de Turismo, en el cumplimiento de la disposiciones contenidas en este Reglamento, debiendo determinarse por el Ministerio respectivo las infracciones no contempladas expresamente.
+
+**Artículo 47°.-** Quedan derogadas todas las disposiciones contrarias al presente Decreto Ley.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Relaciones Exteriores y Culto, Gobierno, Justicia y Hacienda y Estadística, quedan encargados de al ejecución y cumplimiento del presente Decreto Ley.
+  
+Dado en el Palacio de Gobierno de la ciudad de La Paz, a los 24 días del mes de noviembre de 1939 años.
+  
+Gral. C. Quintanilla. A. Ostria Gutierrez. F.M. Rivera. F. Pou Mont. B. Navajas Trigo.

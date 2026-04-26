@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 26596, 20 de abril de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que es objetivo central del Supremo Gobierno de Bolivia mejorar la integración de la zona oriental del país, favoreciendo su desarrollo productivo mediante una mejor comunicación con los mercados interno e internacional.
+* Que para el efecto, el Banco Interamericano de Desarrollo - BID acordó conceder a la República de Bolivia, un préstamo de hasta SETENTA Y CINCO MILLONES 00/100 DÓLARES AMERICANOS ($us.75.000.000) o su equivalente en otras monedas, con recursos de su fondo para Operaciones Especiales, destinado a financiar el proyecto Corredor de Integración Santa Cruz - Puerto Suárez, Primera Fase.
+* Que en la Primera fase, el Banco Interamericano de Desarrollo - BID acordó financiar: a) la construcción del Tramo Paraíso - El Tinto; b) la rehabilitación en ripio del Tramo Roboré - El Carmen; c) el mantenimiento rutinario de los tramos el Tinto - San José de Chiquitos y Roboré - El Carmen - Puerto Suárez hasta que se inicie su pavimentación; d) la supervisión técnica de los Tramos financiados por el Banco e indicados anteriormente, así como el apoyo técnico y de gestión a la ejecución del Programa; e) tres estudios especiales; y f) la auditoria externa.
+* Que es necesario autorizar la suscripción del respectivo Contrato a objeto de materializar este financiamiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Ministro de Hacienda, el Embajador de Bolivia en Estados Unidos de Norteamérica, o el Encargado de Negocios a. i. suscribir con el Banco Interamericano de Desarrollo - BID, en nombre del Gobierno de la República de Bolivia, el correspondiente Contrato de Préstamo, por un monto de hasta $us.75.000.000.- (SETENTA Y CINCO MILLONES 00/100 DÓLARES AMERICANOS), destinado a financiar el Proyecto Corredor de Integración Santa Cruz - Puerto Suárez, Primera Fase.
+
+**Artículo 2°.-** Se autoriza al Ministerio de Hacienda, a traspasar los recursos del préstamo al Servicio Nacional de Caminos -SNC, Organismo Ejecutor del Programa.
+
+---
+
+Los Señores Ministros de Estado en las Carteras de Hacienda y Presidencia quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de abril del año dos mil dos.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Lujan, Jacques Trigo Loubiere, Carlos Alberto Goitia Caballero, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña, Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña, Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

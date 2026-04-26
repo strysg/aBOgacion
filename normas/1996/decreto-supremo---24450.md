@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 24450, 20 de diciembre de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1330](https://www.lexivox.org//norms/BO-L-1330.html) de 24 de abril de 1992 (Ley de Privatización) autoriza a las instituciones, entidades y empresas del sector público enajenar los activos, bienes, valores, acciones y derechos de su propiedad y transferirlos a personas naturales o jurídicas, nacionales o extranjeras, o aportar los mismos a la constitución de nuevas sociedades anónimas mixtas.
+* Que mediante [Decreto Supremo Nº 23991](https://www.lexivox.org//norms/BO-DS-23991.html) de 10 de abril de 1995 se reglamenta la Ley de Privatización disponiendo que todas las empresas y demás entidades públicas propietarias de unidades económicas, activos, bienes, valores, acciones y derechos, deben someterse a procesos de reordenamiento de acuerdo a sus normas.
+* Que en virtud de la resolución ministerial 164/96 de 8 de noviembre de 1996 del Ministerio sin Cartera Responsable de Capitalización y resolución del Consejo Departamental de Tarija No.35/96 de 30 de agosto de 1996, se convocó a licitación pública MC/SNCI/UR/LIC-006/96 para la venta de los activos fijos, inventarios, concesión minera y derechos de marca de la Fábrica de Cemento “El Puente”, de propiedad de la Prefectura del Departamento de Tarija, de conformidad con la [Ley Nº 1654](https://www.lexivox.org//norms/BO-L-1654.html) de 28 de julio de 1995 (Ley de Descentralización Administrativa).
+* Que mediante resolución ministerial 176/96 de 2 de diciembre de 1996, del Ministerio sin Cartera Responsable de Capitalización, en aplicación del artículo quinto de la resolución suprema 215521 de 13 de abril de 1995, se designan Vocales de la Comisión Calificadora para la Licitación.
+* Que de acuerdo a lo previsto en las Convocatorias y Pliego de Condiciones, en fecha 13 de diciembre de 1996 la Comisión Calificadora procedió con la recepción de sobres y apertura de ofertas de la licitación pública MC/SNCI/UR/LIC - 006/96, habiéndose recibido las ofertas provenientes de “YURA” SOCIEDAD ANONIMA, representada por el Sr. Rolf Phillip Kroenemberg Meeners, con Pasaporte Alemán No. K9503308, por la suma de NUEVE MILLONES QUINIENTOS SESENTA Y SEIS mil 00/100 DOLARES ESTADOUNIDENSES ($US.9.566.000.-); de Industrias Duralit Sociedad Anónima, representada por el Sr. Erlan Christian Marañón Cardozo, con Cédula de Identidad No.966764 emitida en Cochabamba, Bolivia, por la suma de SEIS MILLONES CUATROCIENTOS NOVENTA Y siete mil novecientos OCHENTA Y UN 00/100 DOLARES ESTADOUNIDENSES ($US.6.497.981.-) y de la Sociedad Boliviana de Cemento (SOBOCE S.A.), representada por el Sr. Flavio Carlos Escobar Llanos, con Cédula de Identidad No.2376225 emitida en La Paz, por la suma de QUINCE MILLONES novecientos CATORCE mil DOSCIENTOS OCHENTA Y CINCO 13/100 DOLARES ESTADOUNIDENSES ($US.15.714.285, 13.).
+* Que el Ministro sin Cartera Responsable de Capitalización ha presentado a consideración del Presidente de la República en Consejo de Gabinete, el informe de recomendación emitido por la Comisión Calificadora, que en uso de las atribuciones establecidas en la resolución suprema 215521, de acuerdo al análisis efectuado y por unanimidad, recomienda la adjudicación de los activos fijos, inventarios, concesión minera y derechos de marca de la Fábrica de Cemento “El Puente”, en favor de la Sociedad Boliviana de Cemento (SOBOCE S.A.), por el precio de QUINCE MILLONES novecientos CATORCE mil DOSCIENTOS OCHENTA Y CINCO 13/100 DOLARES ESTADOUNIDENSES ($US.15.714.285, 13.-), pagaderos al contado a momento de suscribir los documentos de transferencia.
+* Que de conformidad al artículo séptimo de la resolución suprema 215521, corresponde efectuar la adjudicación mediante decreto supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Adjudícase los activos fijos, inventarios, concesión minera y derechos de marca de la Fábrica de Cemento “El Puente”, en favor de la Sociedad Boliviana de Cemento (SOBOCE S.A.), por el precio de QUINCE MILLONES novecientos CATORCE mil DOSCIENTOS OCHENTA Y CINCO 13/100 DOLARES ESTADOUNIDENSES ($US.15.714.285, 13.-).
+
+**Artículo 2°.-** El precio total señalado en el artículo anterior, deberá ser pagado al contado y en efectivo a la firma del contrato de transferencia, el cual será suscrito por el Ministro sin Cartera Responsable de Capitalización y el Prefecto del Departamento de Tarija.
+
+---
+
+El señor Ministro en el Despacho sin Cartera Responsable de Capitalización, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de diciembre de mil novecientos noventa y seis años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Franklin Anaya Vásquez, Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval, Raúl España Smith, Fernando Candia Castillo, Freddy Teodovich Ortíz, Moisés Jarmúsz Levy, Hugo San Martín Arzabe, Mauricio Balcazar G., Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

@@ -1,0 +1,25 @@
+# Bolivia: Decreto Presidencial Nº 5124, 27 de febrero de 2024
+
+Decreto Presidencial Nº 5124
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 165 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Órgano Ejecutivo está compuesto por la Presidenta o el Presidente del Estado, la Vicepresidenta o el Vicepresidente del Estado, y las Ministras y los Ministros de Estado.
+* Que los numerales 4 y 22 del Artículo 172 del Texto Constitucional, establecen que es atribución de la Presidenta o del Presidente del Estado, entre otros, dirigir la administración pública y coordinar la acción de los Ministros de Estado; y designar a las Ministras y a los Ministros de Estado.
+* Que el Parágrafo I del Artículo 13 del [Decreto Supremo Nº 4857](https://www.lexivox.org//norms/BO-DS-N4857.html), de 6 de enero de 2023, señala la estructura organizativa del Órgano Ejecutivo compuesta por Ministras y Ministros del Estado Plurinacional de Bolivia, entre los que se encuentra la Ministra(o) de Hidrocarburos y Energías.
+* Que el Parágrafo I del Artículo 118 del [Decreto Supremo Nº 4857](https://www.lexivox.org//norms/BO-DS-N4857.html), dispone que en ausencia temporal de una Ministra(o) la Presidenta o Presidente del Estado Plurinacional, mediante Decreto Presidencial, designará interinamente a una Ministra(o) del área y una Viceministra(o) designada(o) administrará operativamente el ministerio.
+* Que mediante nota CITE: MHE-DGAJ-UGJ/2024-0068, el ciudadano Franklin Molina Ortiz, Ministro de Hidrocarburos y Energías, comunica que se ausentará del país en misión oficial del 27 de febrero al 6 de marzo del presente año, con la finalidad de constituirse en las ciudades: Bruselas - Bélgica, a objeto de establecer alianzas globales entre la Unión Europea y sus Estados Miembros con el Estado Plurinacional de Bolivia para desarrollar una potencial inversión en la industrialización y cadenas de valor de litio con los Comisarios y Directores de la Dirección General INTPA y la Dirección General GROW; ciudad de Argel - Argelia, a objeto de asistir a la 7ma Cumbre del Foro de Países Exportadores de Gas - FPEG y para la suscripción del Memorándum de Entendimiento entre el Ministerio de Hidrocarburos y Energías de Bolivia y el Ministerio de Energías y Minas de Argelia, y asimismo, sostener reuniones con el Ministerio de Energías de Rusia; ciudad de Ámsterdam - Países Bajos, a objeto de sostener reuniones con representantes de la Cancillería de los Países Bajos, Universidades e Instituciones financieras para fomentar la cooperación en el Sector Energético, razón por la cual solicita se designe Ministra o Ministro Interino, mientras dure su ausencia, de conformidad a lo dispuesto por el Parágrafo I del Artículo 118 del [Decreto Supremo Nº 4857](https://www.lexivox.org//norms/BO-DS-N4857.html).
+
+DECRETA:
+
+**Artículo Único.-** Desígnese MINISTRO INTERINO DE HIDROCARBUROS Y ENERGÍAS, al ciudadano Marcelo Alejandro Montenegro Gómez García, Ministro de Economía y Finanzas Públicas, mientras dure la ausencia del titular.
+
+---
+
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintisiete días del mes de febrero del año dos mil veinticuatro.
+  
+FDO. Luis Alberto Arce Catacora, Maria Nela Prada Tejada.

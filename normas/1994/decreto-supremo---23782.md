@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 23782, 18 de mayo de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Museo Histórico de Lucerna y las Misiones Jesuíticas de Zurich están organizando una importante exposición conmemorando el tricentenario del nacimiento del Jesuita Martin Schmid (1694-1772), famoso Misionero, Músico y Arquitecto de las misiones de Chiquitos en Bolivia, a realizarse del 15 de junio al 11 de septiembre del año en curso en la ciudad de Lucerna (Suiza);
+* Que para tal efecto, mediante el Vicariato de Ñuflo de Chávez y el Vicariato de Chiquitos, Bolivia, poseedora de una vasta y rica tradición histórico-cultural, propietaria de una invalorable riqueza artística, ha sido invitada a ocupar un lugar de preeminencia en la mencionada exposición, siendo deber del Estado incentivar la difusión de nuestro acervo cultural, sujetándose en caso de exportación temporal a un régimen legal específico que asegure su perfecta conservación y retorno al país;
+* Que el Artículo 4to. del [Decreto Supremo Nº 5918](https://www.lexivox.org//norms/BO-DS-5918.html) de 6 de noviembre de 1961, permite la exportación temporal de la riqueza artística, histórica, cultural y arqueológica, en casos de exposiciones que bajo convenios internacionales salen temporalmente del país, asegurando su estadía en el exterior.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorízase a la Secretaría Nacional de Cultura, la exportación temporal de 82 piezas detalladas en la lista anexa a Fjs.82 que forma parte del texto del presente Decreto, pertenecientes al patrimonio cultural del país, procedentes del Vicariato de Ñuflo de Chávez y Vicariato de Chiquitos, para su exposición exclusiva en el Museo Histórico de Lucerna, que con motivo de la celebración del tricentenario del nacimiento del Padre Martin Schmid tendrá lugar en la ciudad de Lucerna, Suiza del 15 de junio al 11 de septiembre del año en curso.
+
+**Artículo 2°.-** La salida y permanencia temporal en el exterior, así como su puntual retorno al país de las obras referidas, serán garantizadas por la póliza de seguro que los organizadores deben presentar antes de su embarque.
+  
+Las obras mencionadas permanecerán fuera del país únicamente a partir del 10 de Mayo a octubre de 1994 improrrogablemente, bajo la fiscalización y responsabilidad de la Secretaría Nacional de Cultura y Vicariatos arriba señalados.
+
+**Artículo 3°.-** Se dispone la exención del pago de todo gravamen o tributo aduanero, incluidos el 0,5% por almacenaje y servicios de AADAA y el gravamen aduanero consolidado (GAC).
+
+---
+
+Los señores Ministros de Relaciones Exteriores y Culto, de Gobierno, de Justicia, de Hacienda y Desarrollo Económico y de Desarrollo Humano, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de mayo de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Germán Quiroga Gómez, Raúl Tovar Piérola, Carlos Sánchez Berzain, René Oswaldo Blattmann Bauer, Fernando Alvaro Cossío, Enrique Ipiña Melgar, José G. Justiniano Sandoval, Jorge España Smith MIN. SUPLENTE DE TRABAJO, Ernesto Machicao Argiró, Alfonso Revollo Thenier.

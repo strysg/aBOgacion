@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 26259, 26 de julio de 2001
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que en fecha 30 de abril de 1996 se promulgó la Ley de Hidrocarburos Nº 1689;
+* Que la citada Ley dispone su reglamentación por el Poder Ejecutivo;
+* Que mediante [Decreto Supremo Nº 24806](https://www.lexivox.org//norms/BO-DS-24806.html) de 4 de agosto de 1996 se aprobaron los modelos de Contrato de Riesgo Compartido para Areas de Exploración y Explotación por Licitación Pública, y de Contrato de Riesgo Compartido para Areas de Explotación por Licitación Pública, con sus respectivos Anexos “B” y “D”;
+* Que el propósito de aprobar dichos modelos de Contratos y sus Anexos fue el de asegurar la plena transparencia del proceso de licitación, adjudicación y suscripción de los mismos, a fin de que las reglas se apliquen por igual a todas las compañías contratistas;
+* Que mediante [Decreto Supremo Nº 26116](https://www.lexivox.org//norms/BO-DS-26116.html) de 16 de marzo de 2001 se aprobó el Reglamento de Transporte de Hidrocarburos por Ductos, en cuyo Artículo 4° se señala que el Transporte del Mercado Interno Nacional (TEMIN) calculado en tres centavos de dólar ($us 0,03) por millar de mes cúbicos de gas natural transportado para exportación será cubierto por quienes contratan el servicio de transporte, tal como fue aceptado voluntariamente por las compañías contratistas de riesgo compartido, como una colaboración voluntaria al desarrollo del mercado interno nacional, y que por consiguiente debe estar incorporado en sus Contratos de Riesgo Compartido;
+* Que mediante [Decreto Supremo Nº 26180](https://www.lexivox.org//norms/BO-DS-26180.html) de 10 de mayo de 2001, dicho Artículo 4º del Reglamento de Transporte de Hidrocarburos por Ductos fue modificado, estableciéndose como periodo de vigencia del TEMIN cinco (5) años computables a partir del 17 de mayo de 2001.
+* Que con el Anexo “D” de dichos Contratos se consolidó el compromiso asumido por las compañías contratistas de cooperar a la capacitación del personal de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) para la promoción y ampliación de los mercados de exportación de gas natural y atracción de nuevas inversiones, mediante la aportación de bienes y servicios pagados directamente por éstas, en apoyo a las actividades de YPFB;
+* Que siendo la facultad de imponer contribuciones una atribución privativa del Poder Legislativo, señalada por el Artículo 59 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-19940812.html), es necesario ratificar que ni la contribución voluntaria para el desarrollo del Mercado Interno ni los Fondos de Cooperación constituyen un tributo, una obligación de pago impuesta por el Estado ni una contribución especial, dado que son recursos privados, propios de las compañías contratistas, al igual que los bienes y servicios adquiridos o contratados mediante los Fondos de Cooperación provenientes del Anexo “D” de los Contratos de Riesgo Compartido;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Apruébase el modelo de Contrato Complementario a los Contratos de Riesgo Compartido para Areas de Exploración y Explotación, y a los Contratos de Riesgo Compartido para Areas de Explotación, en sus cinco cláusulas, cuyo texto forma parte del presente decreto.
+
+**Artículo 2°.-** Se autoriza al Presidente Ejecutivo de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) a suscribir los Contratos Complementarios mencionados en el artículo precedente con las actuales compañías contratistas de riesgo compartido.
+
+**Artículo 3°.-** Se instruye a YPFB incorporar en los futuros Contratos de Riesgo Compartido, a partir de la fecha, el texto íntegro de las Cláusulas Transitoria y Adicional contenidas en el Modelo de Contrato Complementario, aprobado por el presente decreto.
+
+**Artículo 4°.-** El uso indebido o en fines distintos de los servicios o bienes adquiridos con los Fondos de Cooperación previstos en el Anexo “D”, de los Contratos de Riesgo Compartido, generará responsabilidad contra los funcionarios públicos, cuando genere obligaciones a Y. P. F. B y sea observado por el titular.
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Económico queda encargado del cumplimiento y ejecución del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiséis días del mes de julio del año dos mil uno.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Javier Murillo de la Rocha, Marcelo Pérez Monasterios, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Carlos Saavedra Bruno, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Claudio Mansilla Peña, Rubén Poma Rojas, Hernán Terrazas Ergueta, MINISTRO INTERINO SIN CARTERA RESPONSABLE DE LA INFORMACION GUBERNAMENTAL, Wigberto Rivero Pinto.

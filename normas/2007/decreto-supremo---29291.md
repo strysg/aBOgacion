@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 29291, 1 de octubre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Decreto Supremo Nº 29090](https://www.lexivox.org//norms/BO-DS-29090.html) de 4 de abril de 2007, se difiere temporalmente a cero por ciento (0%) el Gravamen Arancelario a la importación de los productos alimenticios señalados en el Anexo que forma parte del citado Decreto Supremo.
+* Que mediante [Decreto Supremo Nº 29182](https://www.lexivox.org//norms/BO-DS-29182.html) de 2 de julio de 2007, se amplia por noventa días adicionales el diferimiento del Gravamen Arancelario, establecido en el [Decreto Supremo Nº 29090](https://www.lexivox.org//norms/BO-DS-29090.html).
+* Que conforme al Artículo 7 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html) de 2 de Agosto de 2003, Código Tributario Boliviano, el Poder Ejecutivo está facultado a establecer, mediante Decreto Supremo, la alícuota del Gravamen Arancelario aplicable a la importación de mercancías.
+* Que el [Decreto Supremo Nº 29040](https://www.lexivox.org//norms/BO-DS-29040.html) de 28 de febrero de 2007, declara Situación de Desastre Nacional y establece en Anexo el listado de Municipios afectados por el fenómeno de “El Niño”.
+* Que el Artículo 27 de la [Ley Nº 2140](https://www.lexivox.org//norms/BO-L-2140.html) de 25 de octubre de 2000, establece que declarada la situación de Desastre y/o Emergencia, conforme a lo dispuesto en la citada Ley, entra en vigencia el régimen de excepción establecido en el ordenamiento jurídico vigente sobre la materia.
+* Que el diferimiento del Gravamen Arancelario al cero por ciento, es una medida de corto plazo para compensar la elevación de los precios internacionales de los productos alimenticios y evitar que se afecte al consumidor final, mientras se apoya y fortalece la producción agropecuaria a nivel nacional, de acuerdo a la política de soberanía alimentaria que lleva adelante el Gobierno Nacional.
+* Que la Decisión 669 de 13 de julio de 2007, de la Comunidad Andina de Naciones, suspende temporalmente la obligación de aplicar las Decisiones 370, 371 y 465 de dicha Comunidad, pudiendo efectuarse modificaciones arancelarias, procurando salvaguardar el interés de los países miembros que estaban obligados al cumplimiento de las decisiones, cuya aplicación se encuentra temporalmente suspendida.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** El presente Decreto Supremo tiene por objeto ampliar hasta el 31 de diciembre de 2007, el diferimiento temporal a cero por ciento (0%) del Gravamen Arancelario para la importación de productos alimenticios establecidos en el Anexo que forma parte del presente Decreto Supremo.
+  
+El plazo establecido en el presente Decreto Supremo se aplica desde el día siguiente de la fecha de vencimiento determinada en el [Decreto Supremo Nº 29128](https://www.lexivox.org//norms/BO-DS-29128.html) de 2 de julio de 2007, que amplia el plazo inicialmente otorgado en el [Decreto Supremo Nº 29090](https://www.lexivox.org//norms/BO-DS-29090.html) de 4 de abril de 2007.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Relaciones Exteriores y Cultos, de Hacienda, de Producción y Microempresa y de Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de octubre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora MINISTRO DE HACIENDA E INTERINO DE PRODUCCION Y MICROEMPRESA, Abel Mamani Marca, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros MINISTRO DE TRABAJO E INTERINO DE SALUD Y DEPORTES, María Magdalena Cajías de la Vega.

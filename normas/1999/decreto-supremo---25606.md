@@ -1,0 +1,39 @@
+# Bolivia: Decreto Supremo Nº 25606, 2 de diciembre de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Gobierno de la República de Bolivia dentro del proceso de modernización del estado y de la lucha frontal contra la pobreza como pilar fundamental de su política en el marco del Plan Operativo de Acción 1998 - 2002, ha definido como prioridad nacional, incrementar la cobertura de energía eléctrica en el área rural y poblaciones menores del país, creando los mecanismos necesarios para incentivar, apoyar y promover las inversiones privadas en el sector energético como instrumento de desarrollo;
+* Que para lograr este objetivo se deben movilizar recursos de financiamiento, tecnología y otros a través de la participación del sector público y privado, fomentando la participación progresiva del sector privado para lograr una estructura óptima de financiamiento, operación y gestión de los proyectos de electrificación rural, mejorando las condiciones y la calidad de vida del área rural, estimulando el desarrollo socioeconómico y reduciendo los niveles de pobreza de sus pobladores;
+* Que el Departamento del Beni es uno de los Departamentos nacionales con menores índices de cobertura eléctrica rural, tanto en el área de influencia de la ciudad de Trinidad, como en otras poblaciones menores, por lo que se hace necesaria la implementación de políticas energéticas que reviertan esta situación;
+* Que el Ministerio de Desarrollo Económico y el Ministerio de Comercio Exterior e Inversiones, a través del Viceministerio de Energía e Hidrocarburos y del Viceministerio de Inversión y Privatización respectivamente, están impulsando como solución integral al problema energético que atraviesa la ciudad de Trinidad, el desarrollo del proyecto de suministro de electricidad, declarando como necesidad nacional mediante [Ley Nº 1986](https://www.lexivox.org//norms/BO-L-1986.html) del 22 de julio de 1999 y la capitalización de la Cooperativa de Servicios Eléctricos Trinidad Ltda.(COSERELEC) previa transformación en Sociedad Anónima, a través de un proceso de licitación pública nacional e internacional;
+* Que desde 1960 entre el entonces Instituto Nacional de Electrificación Rural (INER) y Corporación de Fomento Energético Rural (COFER) y COSERELEC, se suscribieron contratos de compra venta de grupos electrógenos, equipo y materiales eléctricos y servicios destinados a la electrificación del área establecida como de necesidad pública de Trinidad.
+* Que esta carga financiera de COSERELEC incide negativamente en el proceso de capitalización previsto como parte de la solución integral del problema energético de Trinidad, evitando que el aumento de capital a la empresa de distribución sea destinado a mejorar la calidad del servicio y a la ampliación de su cobertura, por lo que se requiere revertir esta situación y cambiar dichas acreencias por un compromiso de inversión en proyectos de electrificación rural enmarcados en los principios y lineamientos del Programa Nacional de Electrificación Rural (PRONER), de forma de propiciar una mayor inversión privada que se traduzca en un mayor impacto de la solución integral al problema energético de la ciudad de Trinidad;
+* Que COSERELEC se encuentra en proceso de conversión en Sociedad Anónima de acuerdo a lo dispuesto en el artículo 66 de la [Ley Nº 1604](https://www.lexivox.org//norms/BO-L-1604.html) de Electricidad, del 21 de diciembre de 1994.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Autorizacion al poder ejecutivo para la conversion de acreencias)** Autorízase al Poder Ejecutivo a convertir las acreencias contraídas por la Cooperativa de Servicios Eléctricos Trinidad Ltda.(COSERELEC) con el ex-Instituto Nacional de Electrificación Rural (ex-INER) y ex- Corporación de Fomento Energético Rural (COFER) en un compromiso de inversión en proyectos de electrificación rural en el departamento del Beni, a asumirse por COSERELEC.
+
+**Artículo 2°.- (Marco general del compromiso de inversion)** En un periódo máximo de diez años a partir de la adjudicación para el aumento de capital de COSERELEC resultante del proceso de licitación que llevará a cabo el Ministerio de Comercio Exterior e Inversiones de acuerdo a disposiciones legales vigentes, COSERELEC deberá invertir los recursos destinados a cubrir las acreencias citadas en el artículo 1 precedente, en proyectos de electrificación enmarcados en los principios y lineamientos del Programa Nacional de Electrificación Rural (PRONER), en las poblaciones periurbanas y rurales circundantes a la ciudad de Trinidad ó en poblaciones del área rural del Departamento del Beni, cumpliendo los requerimientos de calidad y confiabilidad definidos en la [Ley de Electricidad](https://www.lexivox.org//norms/BO-L-1604.html) Nº 1604 del 21 de diciembre de 1994 y sus disposiciones reglamentarias.
+
+**Artículo 3°.- (Modalidad de ejecucion)** Los proyectos a ejecutar con el compromiso de inversión se desarrollarán con aportes de recursos del Estado y con aportes de capital privado de COSERELEC. Para la participación del Estado se tomará como fuente de los recursos el compromiso de inversión al que se hace referencia en el artículo 1 del presente decreto supremo. Esta participación constituirá un aporte no retornable por la inversión y estará destinado a cubrir el porcentaje no rentable de la misma. La administración, operación y mantenimiento de dichos proyectos estará a cargo de COSERELEC.
+
+**Artículo 4°.- (Reprogramacion de acreencias)** En el caso que la Licitación citada en el artículo 2 del presente decreto supremo sea declarada desierta y/o no se concrete el aumento de capital a COSERELEC, las acreencias que mantiene la Cooperativa con el Viceministerio de Energía e Hidrocarburos deberán ser reprogramadas mediante la suscripción de nuevos documentos contractuales por acuerdo entre partes en un plazo no mayor a treinta (30) días calendario a partir de la comunicación oficial de los resultados del aumento de capital, que para el efecto realizará el Ministerio de Comercio Exterior e Inversiones.
+
+**Artículo 5°.- (Instrumentos legales y administrativos)** El perfeccionamiento de los instrumentos legales y administrativos pertinentes a la conversión de las acreencias de COSERELEC en el compromiso de inversión al que se hace referencia en el artículo 1 del presente decreto supremo, la definición de responsabilidad para la administración y fiscalización de dichos compromisos, o la reprogramación de obligaciones según corresponda el caso, deberán suscribirse con intervención del Ministerio de Desarrollo Económico a través del Viceministerio de Energía e Hidrocarburos y COSERELEC.
+
+**Artículo 6°.- (Aplicabilidad)** Las disposiciones contenidas en el presente decreto supremo son aplicables a COSERELEC, así como a la empresa de distribución de electricidad conformada como Sociedad Anónima en la ciudad de Trinidad, resultante del proceso de conversión que para el efecto esta desarrollando actualmente COSERELEC.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda, de Desarrollo Económico y de Comercio Exterior e Inversión, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de la Paz, a los dos días del mes de diciembre de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo MINISTRO INTERINO DE RR. EE. Y CULTO, Franz Ondarza Linares, Walter Guiteras Denis, Oscar Guilarte Luján MINISTRO INTERINO DE DEFENSA NACIONAL, Herbert Müller Costas, Juán Antonio Chahin Lupo, Luis Fernando Quiroga Ramirez MINISTRO INTERINO DE DESARROLLO ECONOMICO, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Miguel López Bakovíc MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION, Rubén Poma Rojas, Jorge Landivar Roca.

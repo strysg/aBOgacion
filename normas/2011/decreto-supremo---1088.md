@@ -1,0 +1,39 @@
+# Bolivia: Decreto Supremo Nº 1088, 30 de noviembre de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Parágrafo I del Artículo 6 de la [Ley Nº 2492](https://www.lexivox.org//norms/BO-L-2492.html), de 2 de agosto de 2003, Código Tributario Boliviano, señala que sólo la Ley puede crear, modificar y suprimir tributos, definir el hecho generador de la obligación tributaria; fijar la base imponible y alícuota o el límite máximo y mínimo de la misma; y designar al sujeto pasivo.
+* Que el numeral 3 del Parágrafo I del Artículo 6 de la precitada Ley, indica que sólo la Ley puede otorgar y suprimir exenciones, reducciones o beneficios.
+* Que el Parágrafo I del Artículo 19 de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, establece que la importación de mercancías donadas a entidades públicas directamente desde el exterior o adquiridas por éstas con recursos provenientes de cooperación financiera no reembolsable o de donación, ya sean destinadas a su propio uso o para ser transferidas a otras entidades públicas, organizaciones económico-productivas y territoriales, o beneficiarios finales de proyectos o programas de carácter social o productivo, estará exenta del pago total de los tributos aduaneros aplicables. La tramitación de las exenciones será reglamentada mediante Decreto Supremo.
+* Que el Parágrafo II del Artículo 19 de la precitada Ley, indica que las mercancías señaladas en el párrafo precedente podrán ser transferidas a título gratuito a entidades públicas, organizaciones económico-productivas y territoriales, o a los destinatarios finales de proyectos, con la exención total del pago de tributos aduaneros de importación y del Impuesto a las Transacciones - IT.
+* Que el Parágrafo I del Artículo 5 del [Decreto Supremo Nº 0772](https://www.lexivox.org//norms/BO-DS-N772.html), de 19 de enero de 2011, que reglamenta la aplicación de la [Ley Nº 062](https://www.lexivox.org//norms/BO-L-N62.html), establece que están exentas del pago de tributos de importación, las mercancías donadas en especie, y aquellas adquiridas en el extranjero con recursos provenientes de donación o cooperación no reembolsables; destinadas a entidades públicas o para ser transferidas a entidades públicas o privadas.
+* Que los Ministerios de Educación y de Autonomías, realizaron solicitudes de exención tributaria de importación a la donación de material educativo, un (1) equipo TDR-100 y sus accesorios; y computadoras de escritorio, respectivamente, cumpliendo con la presentación de los requisitos técnico - legales establecidos en la normativa vigente.
+* Que es necesario emitir un Decreto Supremo, que autorice la exención del pago total de tributos de importación de las donaciones mencionadas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la exención del pago total de los tributos de importación a la donación de mercancías a favor del Ministerio de Educación, al Instituto Boliviano de Ciencia y Tecnología Nuclear, entidad bajo tuición del Ministerio de Educación y al Gobierno Autónomo Departamental de La Paz.
+
+**Artículo 2°.- (Autorización de exención al Ministerio de Educación)** Se autoriza las siguientes exenciones a favor del Ministerio de Educación:
+
+1. Exención del pago total de los tributos de importación a la donación de un (1) envío de material educativo, donación realizada por la República de Cuba en el marco del Proyecto Gran Nacional ALBA, con partes de recepción N° 201 2011 301028 - 862089628 y N° 201 2011 299379 - 862089628, a favor del Ministerio de Educación, para el Programa Nacional de Post-Alfabetización “Yo, Si Puedo Seguir”.
+2. Exención del pago total de los tributos de importación a la donación de un (1) equipo TDR-100 y accesorios, para el Proyecto “Mejoramiento de Cultivos a través de Inducción de Mutaciones”, con parte de recepción N° 211 2010 79008 - 266-70340830, donado por el Organismo Internacional de Energía Atómica - OIEA, a favor del Instituto Boliviano de Ciencia y Tecnología Nuclear - IBTEN, entidad bajo tuición del Ministerio de Educación.
+
+**Artículo 3°.- (Autorización de exención al Gobierno Autónomo Departamental de La Paz)** 
+
+1. Se autoriza la exención del pago total de los tributos de importación de doscientas (200) computadoras de escritorio compuestas cada una de monitor, hardware, keyboard y mouse, donadas por National Information Society Agency de la República de Corea del Sur, con parte de recepción N° 201 2011 438898 - KR2445298, a favor del Gobierno Autónomo Departamental de La Paz.
+2. En el marco del Programa de Fortalecimiento a Institutos y Normales Superiores Participativas, esta donación será destinada a Institutos y Normales Superiores de educación pública, quedando estos exentos del pago de tributos de importación y de los impuestos por transferencia.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Educación, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de noviembre del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Carlos Romero Bonifaz, Wilfredo Franz David Chávez Serrano, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, José Luis Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros MINISTRO DE OO. PP., SERVICIOS Y VIVIENDA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, José Antonio Pimentel Castillo, Nilda Copa Condori, Daniel Santalla Torrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

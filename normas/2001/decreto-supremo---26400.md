@@ -1,0 +1,63 @@
+# Bolivia: Decreto Supremo Nº 26400, 17 de noviembre de 2001
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1864](https://www.lexivox.org//norms/BO-L-1864.html), de 15 de junio de 1998, de Propiedad y Crédito Popular, en el Artículo 10 incisos b) y c) establece la forma de pago de la prestación por gastos funerarios.
+* Que como efecto de la aplicación del [Decreto Supremo Nº 25994](https://www.lexivox.org//norms/BO-DS-25994.html), de 24 de noviembre de 2000, que reglamenta el procedimiento para el pago del Bolivida y la identificación de los beneficiarios del mismo sobre la base de datos proporcionada por la Corte Nacional Electoral, existen beneficiarios de la capitalización que fallecieron en el período del 15 de junio de 1998 y 31 de agosto del año 2001 y no estaban registrados en el Padrón Nacional Electoral y donde sus herederos requieren hacer valer sus derechos.
+* Que el Artículo 2 del [Decreto Supremo Nº 25994](https://www.lexivox.org//norms/BO-DS-25994.html), de 24 de noviembre de 2000, define herederos para efecto de los gastos funerarios determinando que son los derechohabientes definidos en la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html), de 29 de noviembre de 1996, de Pensiones, siendo necesario concordar la normativa vigente sobre gastos funerarios para operativizar su pago, haciendo accesible el pago de los gastos a los beneficiarios de la capitalización.
+* Que el [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), de 17 de enero 1997, al reglamentar la Ley de Pensiones, se ha centrado en aspectos estrictamente operativos, siendo uno de ellos el relativo a las inversiones con recursos tanto del Fondo de Capitalización Individual como del Fondo de Capitalización Colectiva, situación que no se ajusta a la dinámica del mercado financiero, lo que debe llevar a una respuesta más apropiada en el marco de la eficacia a la norma.
+* Que el Artículo 59 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), en su tercer y cuarto párrafo, distinguen el límite del grado de incapacidad entre la invalidez permanente parcial y la invalidez permanente total, señalando para la primera cuando la incapacidad sea superior al veinticinco por ciento (25%) y menor o igual al sesenta por ciento (60%) y para la segunda cuando la incapacidad sea mayor al sesenta por ciento (60%). La Superintendencia de Pensiones, Valores y Seguros - SPVS, fue aplicando como incapacidad permanente total aquella que era igual o mayor al sesenta por ciento (60%) en el marco del Manual Único de Calificación, aprobado por [Decreto Supremo Nº 25174](https://www.lexivox.org//norms/BO-DS-25174.html), de 15 de septiembre de 1998, aspecto que podría generar distintas interpretaciones.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Solo y únicamente para acceder al cobro de Gastos Funerarios de la Cuenta Solidaria - CUSOL, del Fondo de Capitalización Colectiva - FCC, se aplicará sin considerar declaración expresa, la prelación de derechohabientes establecida en el Articulo 5 de la [Ley Nº 1732](https://www.lexivox.org//norms/BO-L-1732.html), de 29 de noviembre de 1996, de Pensiones. Asimismo, no se tomará en cuenta el limite de edad para hijos y hermanos debiendo observarse el siguiente procedimiento:
+  
+El derechohabiente de primer grado, tendrá los primeros seis (6) meses de transcurrido el fallecimiento para presentar su solicitud a la AFP llenando el “Formulario de Pago de Gastos Funerarios” utilizado por las AFP.
+  
+Si transcurridos seis (6) meses del fallecimiento, un derechohabiente de primer grado no se apersona a cobrar el beneficio de Gasto Funerario, el derechohabiente de segundo grado, podrán solicitar este beneficio, llenando el Formulario de pago de Gastos Funerarios.
+  
+Luego de transcurridos nueve (9) meses del fallecimiento, sin que los derechohabientes de primer o segundo grado, hubieran realizado el cobro del beneficio de Gasto Funerario, cualquier persona podrá realizar dicho cobro siempre que acredite haber sufragado los gastos funerarios a través de la factura comercial o recibo correspondiente y en su defecto la declaración jurada ante la AFP de dos testigos.
+  
+Si transcurridos (12) meses, a contar de la fecha de ocurrido el fallecimiento ninguna persona se acredita para cobrar el gasto funerario, este prescribirá y permanecerá como activo de la CUSOL. Solo y únicamente para los que fallecieron entre el 15 de junio de 1998 y la fecha de promulgación del presente decreto supremo, el periodo de prescripción se computará a partir de esta ultima fecha.
+  
+La persona que solicitare el pago de gastos funerarios según lo establecido precedentemente, deberá presentar su documento de identidad así como el Certificado de Defunción original y el documento de identidad del fallecido.
+
+**Artículo 2°.- (Beneficiarios de la capitalizacion fallecidos)** 
+
+1. Si durante el período comprendido entre el 15 de junio de 1998 y la fecha de publicación del presente decreto supremo, hubieran fallecido los beneficiarios de la capitalización, sin estar registrados en el Padrón Nacional Electoral, sus herederos podrán acceder al cobro de los derechos que los corresponda del Fondo de Capitalización Colectiva - FCC, siempre que demuestren, en el término de doce (12) meses a partir de la publicación del presente decreto supremo, que el causante ha fallecido en ese período y contaba con setenta (70) años de edad al 15 de junio de 1998.
+2. De igual manera, los herederos de los beneficiarios mayores de setenta (70) años de edad al 15 de junio de 1998 no inscritos en el Padrón Nacional Electoral y que hubieren fallecido después de la aprobación del presente decreto supremo, deberán demostrar en el término de doce (12) meses a partir del fallecimiento del beneficiario, que el causante contaba con setenta (70) años de edad al 15 de junio de 1998.
+
+**Artículo 3°.- (Reglamentacion)** La SPVS queda encargada de regular la operativización del pago mediante disposición expresa.
+
+## Capítulo II Del seguro social obligatorio
+
+**Artículo 4°.- (Inversiones del FCI y del FCC)** Se autoriza a la SPVS a normar mediante Resolución Administrativa aprobada por el CONFIP cuando corresponda, las modificaciones y actualización de los contenidos, a los que hacían referencia los artículos derogados por el presente Decreto establecidos en el Capítulo VII y VIII del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), de 17 de enero de 1997, referidos a normas necesarias para el funcionamiento de las inversiones del FCI y del FCC.
+
+## Capítulo III Modificaciones y derogaciones
+
+**Artículo 5°.- (Modificaciones)** 
+
+1. Se suprime el segundo párrafo del Artículo 84 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), de 17 de enero de 1997.
+2. Se modifica el tercer y cuarto párrafo del Artículo 59 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), de conformidad con el siguiente texto:
+   > “Si la incapacidad es superior a veinticinco por ciento (25%) y menor al sesenta por ciento (60%) se reconoce como invalidez permanente parcial y se concede pensiones en proporción al grado de incapacidad que presente el Afiliado.
+   >   
+   > Si la incapacidad es igual o superior al sesenta por ciento (60%) se reconoce como invalidez permanente total para propósitos del cálculo de pensión y cotización mensual. La invalidez permanente total corresponde al cien por ciento (100%) de invalidez”
+
+**Artículo 6°.- (Derogaciones)** 
+
+1. Quedan derogados los Artículos 193 al 201, 212, 215, 218, 219, 220, 221, 222, 223, 225, 226, 229 al 232, 236, 244, 246 al 250, 253, 258, 259, 260, 262, 265, 269, 285 al 296 del [Decreto Supremo Nº 24469](https://www.lexivox.org//norms/BO-DS-24469.html), de 17 de enero de 1997, referentes a las inversiones con recursos del Fondo de Capitalización Individual - FCI y el Fondo de Capitalización Colectiva - FCC.
+2. Quedan derogadas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado en la Cartera de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de noviembre del año dos mil uno.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, José Luís Lupo Flores, Leopoldo Fernández Ferreira, Oscar Guilarte Lujan, Jacques Trigo Loubiere, Mario Serrate Ruíz, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña, Jorge Pacheco Franco, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mancilla Peña, Xavier Nogales Iturri, Mauro Bertero Gutiérrez, Wigberto Rivero Pinto.

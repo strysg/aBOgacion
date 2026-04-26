@@ -1,0 +1,49 @@
+# Bolivia: Decreto Supremo Nº 289, 9 de septiembre de 2009
+
+Decreto Supremo Nº 0289
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 20 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que toda persona tiene derecho al acceso universal y equitativo al servicio de electricidad; asimismo, el Parágrafo II establece que es responsabilidad del Estado, en todos sus niveles de Gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias.
+* Que el numeral 4 del Artículo 311 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que el Estado podrá intervenir en toda la cadena productiva de los sectores estratégicos, buscando garantizar su abastecimiento para preservar la calidad de vida de todas las bolivianas y todos los bolivianos.
+* Que el Parágrafo I del Artículo 351 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), determina que el Estado asumirá el control y la dirección sobre la exploración, explotación, industrialización, transporte y comercialización de los recursos naturales estratégicos, a través de entidades públicas, cooperativas o comunitarias, las que podrán a su vez contratar a empresas privadas y constituir empresas mixtas.
+* Que el Parágrafo I del Artículo 378 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), dispone que las diferentes formas de energía y sus fuentes constituyen un recurso estratégico, su acceso es un derecho fundamental y esencial para el desarrollo integral y social del país, y se regirá por los principios de eficiencia, continuidad, adaptabilidad y preservación del medio ambiente; asimismo, el Parágrafo II determina como facultad privativa del Estado el desarrollo de la cadena productiva energética, la misma que no podrá estar sujeta exclusivamente a intereses privados ni podrá concesionarse.
+* Que en el año 1995 se produjo el desmantelamiento de las empresas estratégicas del Estado, materializado en la transferencia a manos privadas, a través de los procesos antinacionales de privatización y capitalización.
+* Que al amparo de la [Ley Nº 1544](https://www.lexivox.org//norms/BO-L-1544.html), de 21 de marzo de 1994, de Capitalización, se dispuso la capitalización, entre otras, de la Empresa Nacional de Electricidad - ENDE, autorizando al Poder Ejecutivo a transferir a título gratuito en beneficio de los ciudadanos bolivianos las acciones de propiedad del Estado en las sociedades de economía mixta que hubiesen sido capitalizadas, y determinando que el Poder Ejecutivo dispondría mediante Decreto Supremo mecanismos idóneos, para que los ciudadanos bolivianos se beneficien con la transferencia de dichas acciones a fondos de pensiones de capitalización individual.
+* Que los ciudadanos bolivianos nunca tuvieron en su poder acción alguna y consiguientemente, no participaron en el Directorio ni en la Junta de Accionistas de las empresas capitalizadas, siendo las Administradoras de Fondos de Pensiones, las que asumieron la administración sin ningún mandato ni representación legal, desvirtuando de esta manera la naturaleza de sociedad anónima que ostentan las empresas capitalizadas.
+* Que el [Decreto Supremo Nº 29272](https://www.lexivox.org//norms/BO-DS-29272.html), de 12 de septiembre de 2007, que aprueba el Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien”, en su Capítulo VI dispone el control accionario de las empresas capitalizadas, mediante la reversión de las acciones depositadas en el Fondo de Capitalización Colectiva y la compra de acciones restantes, hasta conformar el cincuenta y uno por ciento (51%) del paquete accionario a favor del Estado Boliviano.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto transferir en favor del Estado Plurinacional de Bolivia, a título gratuito y sin costo administrativo, las acciones de las ciudadanas y los ciudadanos bolivianos, que forman parte del Fondo de Capitalización Colectiva, actualmente administradas por las Administradoras de Fondos de Pensiones Futuro de Bolivia S. A. AFP, y BBVA Previsión AFP S. A, correspondientes a las Empresas Eléctricas Corani S. A., Valle Hermoso S. A. y Guaracachi S. A..
+
+**Artículo 2°.- (Transferencia de las acciones)** 
+
+1. Las Administradoras de Fondos de Pensiones, Futuro de Bolivia S. A. AFP y BBVA Previsión AFP S. A. deberán transferir, a título gratuito y sin costo administrativo, las acciones señaladas en el Artículo anterior a favor de la Empresa Nacional de Electricidad - ENDE, en representación del Estado Plurinacional de Bolivia, de manera inmediata, a partir de la vigencia del presente Decreto Supremo.
+2. Las Administradoras de Fondos de Pensiones realizarán la transferencia, instruyendo a la Entidad de Depósito de Valores de Bolivia Sociedad Anónima - EDV S. A. sustituir la titularidad de las acciones que actualmente figuran como “BBVA Previsión AFP S. A. para el Fondo de Capitalización Colectiva” y “AFP Futuro de Bolivia S. A. para el Fondo de Capitalización Colectiva” a la titularidad de la “Empresa Nacional de Electricidad - ENDE”.
+3. Los dividendos obtenidos correspondientes al paquete accionario transferido por las Administradoras de Fondos de Pensiones a titularidad de ENDE serán depositados a la cuenta del Fondo de la Renta Universal de Vejez.
+
+**Artículo 3°.- (Representación de ENDE)** 
+
+1. ENDE, en representación del Estado Plurinacional, a partir de la transferencia de acciones asumirá las atribuciones conferidas para los accionistas según lo dispuesto en el Código de Comercio, así como en los Estatutos de las Empresas Eléctricas Corani S. A., Valle Hermoso S. A. y Guaracachi S. A.
+2. ENDE, elegirá a los miembros que lo representen en el Directorio de las Empresas Eléctricas Corani S. A., Valle Hermoso S. A. y Guaracachi S. A y a los Síndicos, conforme a lo establecido en el Código de Comercio, a los Estatutos de las Empresas Eléctricas así como en el Estatuto de ENDE.
+
+**Artículo 4°.- (Modificación de la estructura financiera del FCC)** Las acciones de ENDE en las Empresas Capitalizadas Corani S. A., Valle Hermoso S. A. y Guaracachi S. A., no formarán parte de la estructura del Fondo de Capitalización Colectiva.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo final Único.-** Se derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Hidrocarburos y Energía, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de septiembre del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardi Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Maria Cecilia Rocabado Tubert, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Groux Canedo.

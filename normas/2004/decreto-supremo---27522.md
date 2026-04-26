@@ -1,0 +1,93 @@
+# Bolivia: Decreto Supremo Nº 27522, 25 de mayo de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Ley de 21 diciembre de 1956 establece la Declaratoria de Beneméritos de la Patria, en favor de ciudadanos bolivianos que hubiesen concurrido a la Campaña de la Guerra del Chaco, pudiendo las viudas de los ex combatientes fallecidos reclamar los reconocimientos y condecoraciones de los causantes.
+* Que la Resolución Suprema Nº 216819 de 4 octubre de 1998, reglamenta el procedimiento para obtener la declaratoria como “Viuda de Benemérito de la Patria” al fallecido post guerra y la concesión de la pensión vitalicia de viuda de benemérito.
+* Que el espíritu del Estado Boliviano, para otorgar pensiones vitalicias en favor de las viudas de Beneméritos de la Patria, debe servir para garantizar su situación económica, como un justo reconocimiento, fundamentalmente, en favor de aquellas que tuvieron que soportar sacrificadamente la época de guerra, mientras sus esposos se encontraban en la contienda bélica.
+* Que de conformidad al Artículo 1507 del Código Civil, los derechos patrimoniales se extinguen por prescripción, en el plazo de cinco años.
+* Que con el único objetivo de precautelar los recursos del erario nacional, se aprobaron las Resoluciones Ministeriales Nº 026 de 11 enero de 1999 y Nº 1302 de 15 octubre de 1999, prohibiendo la doble percepción de renta y salario, si ambas provienen del Tesoro General de la Nación.
+* Que en base a este antecedente, por analogía, es recomendable considerar la incompatibilidad existente entre las rentas de vejez otorgadas por el Sistema de Reparto y las pensiones vitalicias otorgadas a Personajes Notables, en atención de que el pago de dichos reconocimientos es asumido por el Tesoro General de la Nación.
+* Que de conformidad al [Decreto Supremo Nº 27230](https://www.lexivox.org//norms/BO-DS-27230.html) de 31 octubre de 2003, el Ministerio de Hacienda, a través del Viceministerio de Pensiones y Seguros, asume la competencia en cuanto se refiere a las políticas de Pensiones.
+* Que al presente, el trámite de declaratoria de Viudedad de Benemérito, es procesado en el Servicio Nacional del Sistema de Reparto - SENASIR.
+* Que a tal efecto, se ha realizado una minuciosa revisión de la normativa referida al tema, dentro del marco que corresponde al Gobierno, con el propósito de reconocer, con la mayor responsabilidad, el sacrificio de quienes ofrendaron su vida por la patria, para ser atendidos dentro de las posibilidades reales y efectivas del Tesoro General de la Nación.
+* Que consiguientemente, es necesario efectuar ajustes en la otorgación de pensiones, en favor de los Beneméritos de la Patria, de Rentas de Viudedad de Beneméritos y de Personajes Notables, sin vulnerar los derechos legítimamente consolidados a favor de dichos sectores.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+## Capítulo I Disposición general
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la otorgación de pensiones, en favor de los Beneméritos de la Patria, de las Rentas de Viudas de Beneméritos y de Personajes Notables.
+
+## Capítulo II Beneméritos de la Patria
+
+**Artículo 2°.- (Declaratoria de Benemerito de la Patria)** En atención al tiempo transcurrido desde la finalización de la contienda bélica de la Guerra del Chaco (junio de 1935), a partir de la fecha, las declaratorias de Benemérito de la Patria e Inválidos de Guerra, salvo aquellas que estuvieran en trámite ante el Ministerio de Defensa Nacional, antes de la publicación del presente Decreto Supremo, no accederán al pago de la pensión vitalicia, prescribiendo dicho beneficio.
+
+**Artículo 3°.- (Pension de viudedad)** El monto de la pensión de viuda de Benemérito, se calculará según los siguientes casos:
+  
+Para Viudas cuya edad a la fecha de fallecimiento del Benemérito sea menor de Cincuenta (50) años de edad, recibirán el equivalente al Veinte por ciento (20%) de la pensión del Benemérito.
+  
+Para Viudas cuya edad a la fecha de fallecimiento del Benemérito sea mayor o igual a Cincuenta (50) años de edad y menor a sesenta y cinco (65) años de edad, recibirán el equivalente al Cuarenta por ciento (40%) de la pensión del Benemérito.
+  
+Para Viudas cuya edad a la fecha de fallecimiento del Benemérito sea mayor o igual a Sesenta y cinco (65) años de edad recibirán el equivalente al Noventa por ciento (90%) de la pensión del Benemérito.
+  
+Los porcentajes establecidos en los incisos anteriores serán ajustados automáticamente por el SENASIR al cumplimiento de las edades señaladas.
+
+**Artículo 4°.- (Caducidad)** Las pensiones no cobradas por los Beneméritos y por las Viudas de Beneméritos, en el plazo de un año a partir de la fecha de emisión de la boleta, caducan en favor del Tesoro General de la Nación.
+
+**Artículo 5°.- (Lutos)** Se continuará cancelando el beneficio denominado “Lutos” en favor de las Viudas de Beneméritos por el lapso de cinco meses contados desde el fallecimiento, previa presentación del certificado de defunción y declaratoria de herederos, en las oficinas del Servicio Nacional del Sistema de Reparto - SENASIR. Para el caso de la no existencia de viuda e hijos, el SENASIR deberá emitir la normativa expresa para que las personas que hubieran pagado los gastos funerarios puedan ser reembolsadas hasta el monto máximo que corresponda a los Lutos.
+
+**Artículo 6°.- (Aguinaldo)** La acción para reclamar el pago del aguinaldo de los Beneméritos de la Patria y Viudas de Beneméritos, prescribe el 31 de marzo del año siguiente a la concesión de dicho beneficio.
+
+**Artículo 7°.- (Suspension definitiva del derecho a la pension de viudedad)** A partir de la fecha, la pensión de Viuda de Benemérito será suspendida de forma definitiva, si se evidencia que la viuda contrajo nuevas nupcias, tuviera relación de convivencia o se comprobase el nacimiento de hijos posteriores al fallecimiento del Benemérito de la Patria, la suspensión definitiva será ejecutada por el SENASIR, en base a informe circunstanciado de la Trabajadora Social y visto bueno de Asesoría Legal, debiendo al efecto emitirse Resolución Administrativa expresa de suspensión definitiva por parte de la Máxima Autoridad Ejecutiva del SENASIR.
+
+**Artículo 8°.- (Prescripcion)** La acción para solicitar la pensión vitalicia de Viuda de Benemérito de la Patria, prescribe a los tres (3) años a partir del fallecimiento del causante.
+
+**Artículo 9°.- (Atencion de salud)** A partir de la fecha, del monto total de las pensiones de Viudas de Benemérito de la Patria, se descontará el 3%, para acceder a las prestaciones que otorgue la Caja de Salud en el régimen de corto plazo, labor que debe ejecutar el SENASIR.
+  
+Quedan exentas de éste descuento, las viudas que perciben renta del Sistema de Reparto.
+  
+Las Cajas de Salud tienen la obligación de prestar atención referida a corto plazo tanto a los Beneméritos de la Patria como a las Viudas de Benemérito, de manera preferente.
+
+**Artículo 10°.- (Empadronamiento de benemeritos y viudas)** Se instruye al SENASIR proceder a un empadronamiento periódico de Beneméritos de la Patria y Viudas de Beneméritos existentes a nivel nacional.
+
+**Artículo 11°.- (Procedimiento para optar la declaratoria de viudedad)** A partir de la fecha el trámite de Declaratoria de Viudedad se efectuará en el Servicio Nacional del Sistema de Reparto - SENASIR, instancia que suscribirá la Resolución Administrativa correspondiente que declare viuda de benemérito, tomando en cuenta los requisitos señalados al efecto y las previsiones contenidas en los Artículos del presente Decreto Supremo.
+
+## Capítulo III Personajes notables
+
+**Artículo 12°.- (Incompatibilidades)** A partir de la fecha, la renta otorgada por el Sistema de Reparto es incompatible con la pensión otorgada en condición de Personaje Notable.
+  
+Al efecto, el SENASIR previo acuerdo con el interesado, mantendrá vigente la renta o pensión más alta, quedando la otra suspendida temporalmente.
+  
+En caso de fallecimiento del titular y si existiera derechohabientes, la renta del derechohabiente en lo concerniente a la renta del Sistema de Reparto, se calculará únicamente el monto correspondiente al Sistema de Reparto y no así de la pensión vitalicia otorgada al Personaje Notable titular. El beneficio se calculará en el porcentaje señalado por la normativa prevista en dicho Sistema de Reparto.
+  
+Las pensiones de personaje notable no son heredables ni pueden ser transferidas a los derechohabientes.
+
+**Artículo 13°.- (Atencion de salud)** Si el interesado eligiese la pensión vitalicia, el SENASIR procederá al descuento del 3% del monto total, en favor de la Caja de Salud, para que acceda a las prestaciones que otorga el régimen de corto plazo.
+
+**Artículo 14°.- (Suspension definitiva de pensiones)** Las pensiones otorgadas expresamente por el Honorable Senado Nacional en condición de Viudas, serán suspendidas de forma definitiva, si se evidencia que la beneficiaria contrajo nuevas nupcias o tuviera relación de convivencia.
+  
+La suspensión definitiva será ejecutada por el SENASIR, en base a informe circunstanciado de la Trabajadora Social y visto bueno de Asesoría Legal, debiendo al efecto emitirse Resolución Administrativa expresa de suspensión definitiva por parte de la Máxima Autoridad Ejecutiva del SENASIR.
+
+**Artículo 15°.- (Caducidad de la pension de personaje notable)** Las pensiones no cobradas correspondientes a Personajes Notables o de Viuda de Personaje Notable expresamente declarada por el Honorable Senado Nacional, caducan en el plazo de un año a partir de la fecha de emisión de la boleta, en favor del Tesoro General de la Nación.
+
+## Capítulo IV Dispocisiones finales
+
+**Artículo 16°.- (Vigencia de normas)** 
+
+1. Se abroga la Resolución Secretarial Nº 423 de 18 mayo de 1994.
+2. Se abrogan y derogan las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Defensa Nacional y Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de mayo del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Isaac Maidana Quisbert Ministro Interino de RR. EE. y Culto, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Xavier Nogales Iturri, Donato Ayma Rojas, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

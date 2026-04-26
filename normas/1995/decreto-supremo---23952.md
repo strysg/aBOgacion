@@ -1,0 +1,105 @@
+# Bolivia: Decreto Supremo Nº 23952, 1 de febrero de 1995
+
+GONZALO SÁNCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Código de Educación, modificado por la [Ley Nº 1565](https://www.lexivox.org//norms/BO-L-1565.html) de Reforma Educativa, en su Capitulo IX, crea la Estructura de Servicios Técnico-Pedagógicos y de Administración de Recursos y que es necesario reglamentar su organización y funcionamiento;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Normas generales
+
+**Artículo 1°.-** La Estructura de Servicios Técnico-Pedagógicos y de Administración de Recursos presta apoyo técnico y administrativo a las Estructuras de Administración Curricular y de Participación Popular en el desarrollo de la gestión educativa y en el funcionamiento del sistema educativo nacional.
+
+**Artículo 2°.-** Las Divisiones de Servicios Técnico-Pedagógicos y de Administración de Recursos, a las que se refiere el Código de Educación, se constituyen en Unidades en' los niveles central, departamental y, si el caso lo amerita, también en el nivel subdistrital.
+
+**Artículo 3°.-** En el nivel central las Unidades de Servicios Técnico-Pedagógicos y de Administración de Recursos se organizan en Departamentos y Divisiones; en el nivel departamental, se organizan en departamentos; y en el nivel distrital constituyen un equipo multidisciplinario.
+
+**Artículo 4°.-** Las Unidades de Servicios Técnico-Pedagógicos y de Administración de Recursos dependen en el nivel central del Director General de Educación, en el nivel departamental del Director Departamental de Educación y en el nivel distrital del Director Distrital de Educación Allí donde se organizaren subdistritos, éstos recibirán apoyo técnico y administrativo de las Unidades Distritales.
+
+**Artículo 5°.-** El Jefe de cada Unidad en el respectivo nivel (central, departamental y distrital) está encargado de la organización y funcionamiento de su Unidad.
+
+**Artículo 6°.-** Los manuales de funciones de los cargos de las Unidades de Servicios Técnico-Pedagógicos y de Administración de Recursos de los diversos niveles deberán especificar en detalle las responsabilidades de cada puesto en cada nivel, incluyendo las de los Asesores Pedagógicos. Estos manuales serán elaborados y permanentemente actualizados por el Departamento de Planificación y Desarrollo Institucional de la Unidad Nacional de Servicios Técnicos y serán aprobados por el Director General de Educación.
+
+## Capítulo II Del nivel central
+
+**Artículo 7°.-** La Unidad Nacional de Servicios Técnico-Pedagógicos está Conformada por cinco departamentos: Desarrollo Curricular, Planificación y Desarrollo Institucional, Investigación, Evaluación y Formación Docente.
+  
+El Departamento de Desarrollo Curricular está encargado de establecer y orientar la aplicación del tronco común curricular de alcance nacional para los niveles pre-escolar, primario y secundario, correspondiente a las áreas de Educación Formal y de Educación Alternativa, de acuerdo a los principios establecidos en el Código de Educación, y a lo dispuesto en el Decreto Supremo de Organización Curricular. Asimismo, deberá diseñar y orientar la elaboración de los programas de estudio así como los materiales educativos necesarios para la aplicación de este tronco común curricular.
+  
+Tiene además a su cargo la capacitación permanente de todos los docentes y asesores pedagógicos.
+  
+El Departamento de Planificación y Desarrollo Institucional propone linchamiento de planificación estratégica y de política institucional para la administración del Sistema Educativo. Elabora, en base al análisis de información estadística, proyecciones de necesidades, planes, programas y proyectos relacionados al funcionamiento eficiente del Sistema Educativo.
+  
+El Departamento de Planificación y Desarrollo Institucional formula estrategias de mediano y largo plazo y prepara los presupuestos anuales de todo el Sistema Educativo en base a la consolidación de los presupuestos generados en el nivel departamental y a la información proporcionada por el Departamento de Administración de Recursos Financieros de la Unidad Nacional de Administración de Recursos.
+  
+Opera el Sistema de Información Educativa (SIE) y difunde la información procesada, actualiza permanentemente el Registro Nacional de Personal Docente y Administrativo y el Mapa Escolar. Además, tiene a su cargo la capacitación de los integrantes de la carrera administrativa.
+  
+El Departamento de Investigación auspicia y orienta programas de investigación permanente para contribuir a una mejor comprensión de la problemática educativa nacional y a la formulación de políticas, para identificar las necesidades básicas de aprendizaje y actualizar la información sobre las culturas nacionales. Por otra parte, actualiza constantemente la información científica sobre las diversas disciplinas del currículo, para la renovación de los programas de estudio y materiales elaborados por el Departamento de Desarrollo Curricular.
+  
+Asimismo, norma la organización de sistemas distritales de información bibliográfica para apoyar la formación y capacitación permanente de los docentes.
+  
+El Departamento de Investigación está también a cargo del Plan Nacional de Núcleos Demostrativos que implementará con la Reforma Educativa y de todos los proyectos especiales que se desarrollen en el Sistema Educativo Nacional. Asimismo, establece normas para la ejecución de los proyectos aprobados mediante convenio internacional o con organismos no gubernamentales e iglesias y supervisa y evalúa su ejecución.
+  
+El Departamento de Evaluación está encargado de establecer criterios, patrones y mecanismos de evaluación que permitan hacer un seguimiento tanto curricular como institucional del Sistema Educativo, a fin de determinar su eficacia y eficiencia interna.
+  
+Asimismo, analiza los resultados obtenidos por el Subsistema Nacional de Medición de la Calidad de la Educación Pre-Escolar, Primaria y Secundaria (SIMECAL) establecido por el Decreto Supremo de Organización Curricular como brazo técnico del Consejo Nacional de Medición de la Calidad (CONAMED), a partir de lo cual identifica necesidades de mejoramiento de la calidad de la educación en todo el país.
+  
+El Departamento de formación Docente está encargado de establecer las normas de transformación de las Escuelas Normales en Institutos Normales Superiores, tanto en lo institucional como en lo curricular, y vela por el buen funcionamiento del subsistema de formación docente en todo el país. Actualiza constantemente el subsistema de formación de maestros, de acuerdo a las necesidades del Sistema Educativo Nacional. También brinda apoyo técnico a las Instituciones de Educación Superior que lo soliciten y que tengan interés en la formación docente.
+
+**Artículo 8°.-** La Unidad Nacional de Administración de Recursos está conformada por el Departamento de Administración de Recursos Humanos y por el Departamento de Administración de Recursos Financieros y Materiales.
+  
+El Departamento de Administración de Recursos Humanos opera el sistema que administra esos recursos en el nivel central, de acuerdo a las políticas establecidas por la Dirección General; tiene a su cargo la supervisión del funcionamiento de ese sistema en los niveles departamental, distrital y sub-distrital; asesora a las Unidades Departamentales y Distritales en la elaboración de las planillas y boletas de pago, y las consolida; también está encargado de la administración del Registro Nacional de Personal Docente y Administrativo y de las carreras administrativa y docente a las que se refiere el Art.37 del Código de la Educación.
+  
+El Departamento de Administración de Recursos Financieros y Materiales opera el sistema que administra estos recursos en el nivel central con alcance nacional, tiene a su cargo la supervisión del funcionamiento del sistema en los niveles departamental, distrital y sub-distrital.
+  
+El Departamento de Administración de Recursos Financieros otorga al Departamento de Planificación y Desarrollo Institucional de la Unidad Nacional de Servicios Técnico-Pedagógicos la información necesaria para la formulación del Presupuesto Anual del Sistema Nacional, consolida, sistematiza y compatibiliza, además, la información recibida de las Unidades Departamentales y Distritales de Administración de Recursos.
+
+## Capítulo III Del nivel departamental
+
+**Artículo 9°.-** Las Unidades Departamentales de Servicios Técnico-Pedagógicos cumplen, funciones análogas y complementarias a las de la Unidad Nacional de Servicios Técnicos-Pedagógicos, correspondientes a su nivel de responsabilidad; y se organizan en tres departamentos: Desarrollo Curricular y formación Docente, Planificación y Desarrollo Institucional e Investigación y Evaluación.
+  
+Además, como función especifica, deben consolidar, sistematizar y compatibilizar los proyectos educativos y sus presupuestos correspondientes elaborados por las direcciones Distritales de su jurisdicción y prestar la información necesaria a la Unidad Nacional de Servicios Técnico-Pedagógico par la formulación del Presupuesto Anual y del Plan Educativo Anual del Sistema Educativo Nacional.
+
+**Artículo 10°.-** Las Unidades Departamentales de Administración de Recursos cumplen, en su ámbito de competencia, funciones análogas y complementarias a las que tiene la Unidad Nacional de Administración de Recursos, y se organizan en dos departamentos: Administración de Recursos Humanos y Administración de Recursos Financieros y Materiales.
+
+**Artículo 11°.-** Las Unidades Departamentales de Servicios Técnico-Pedagógico y de Administración de Recursos coordinan sus acciones con las Unidades Nacionales respectivas brindan orientación y apoyo técnico especializado y permanente a las Unidades Distritales de su jurisdicción. Asimismo, recogen y facilitan la información que las Unidades Nacionales requieren para el mejor desempeño de sus Funciones.
+
+## Capítulo IV Del nivel distrital
+
+**Artículo 12°.-** Las Unidades Distritales de Servicios Técnico-Pedagógicos y de Administración de Recursos conforman un solo equipo multidisciplinario. Cumplen, en el ámbito de su competencia, funciones análogas y complementarias a las de las Unidades Departamentales de Servicios Técnico-Pedagógicos y de Administración de Recursos. Además, tienen las siguientes responsabilidades específicas:
+  
+Brindar orientación y apoyo técnico especializado y permanente a los Subdistritos, Núcleos Educativos y a las Unidades Educativas de su jurisdicción. Así mismo, recoger la información estadística y elevarla para su procesamiento en la unidad Nacional de Servicios Técnico-Pedagógico.
+  
+Desarrollar las ramas complementarias de carácter diversificado del distrito, a partir de las necesidades de aprendizaje específicas de los educandos del municipio y de sus características socioculturales y socioeconómicas.
+  
+Formular las ramas complementarias de carácter diversificado del distrito, a partir de las necesidades de aprendizaje especificas de los educandos del municipio y de sus características socioculturales y socioeconómicas.
+  
+Recoger y consolidar los requerimientos de las unidades Educativas y de los Centros de Recursos Pedagógicos sobre infraestmetura, mobiliario, equipamiento, servicios básicos y mantenimiento, así como los requerimientos anuales para la adquisición de material didáctico y suministros.
+  
+Elaborar las planillas y boletas de pago y cancelar los salarios de los docentes y personal administrativo de su jurisdicción, para lo cual deben tener relación funcional con la Unidad Departamental de Administración de Recursos y con la Unidad Nacional respectiva
+  
+Organiza programas de capacitación y actualización permanente de maestros, directores y personal administrativo.
+
+**Artículo 13°.-** Los Asesores Pedagógicos, dependientes de las unidades de Servidos Técnico-Pedagógicos, son responsables de la capacitación permanente de los docentes de los núcleos educativos a su cargo; constituyen el nexo entre las Unidades de Servicios Técnico-Pedagógicos, la escuela, la práctica pedagógica y el quehacer educativo cotidiano en general; y son responsables del seguimiento y asesoramiento constante de los mismos en el desempeño cotidiano de sus funciones. También tienen a su cargo el estímulo y asesoramiento a los órganos de participación popular en los niveles escolar y de núcleo.
+
+**Artículo 14°.-** Cada uno de los Asesores Pedagógicos, presta apoyo a todas las unidades educativas de dos núcleos escolares y su sede de trabajo permanente debe estar alternativamente en uno de los dos núcleos. En casos excepcionales, el número de núcleos asignados a un Asesor Pedagógico puede ser modificado por el Director Distrital si el caso lo amerita.
+
+## Capítulo V Disposiciones transitorias
+
+**Artículo 15°.-** En tanto las Unidades Departamentales y Distritales no estén capacitadas para elaborar las planillas y boletas de pago, el Departamento de Administración de Recursos Humanos de la Unidad Nacional de Administración de Recursos es responsable de la administración del sistema de planillas y pagos, a fin de asegurar el pago de salarios en los primeros días de cada mes.
+
+**Artículo 16°.-** Para el diseño, instalación, capacitación de personal y puesta en marcha de los sistemas de información necesarios en las Unidades de Administración e decursos y de Servicios Técnico-Pedagógicos del Sistema Educativo Nacional, se organizara un Departamento de Sistemas de Información que tendrá a su cargo el diseño de sistemas computarizados para la administración de recursos humanos, financieros y materiales, asi como para el levantamiento y procesamiento de información estadística educativa. Capacitará también a los operadores y usuarios de los diversos niveles del sistema educativo en el uso de estos programas. Además, brindará asesoramiento y soporte técnico a las Unidades del Sistema que lo requieran. Concluido el proceso de diseño, instalación y puesta en marcha de los sistemas, la operación de cada sistema quedara bajo responsabilidad de la Unidad donde hubiera sido instalado.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda y Desarrollo Humano, quedan encalcados de la ejecución y cumplimiento del presente Decreto Suprema.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de febrero de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Carlos Sánchez Berzaín, Raúl Tovar Piérola, José G. Justiniano Sandoval, Rene Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

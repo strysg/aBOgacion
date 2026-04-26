@@ -1,0 +1,34 @@
+# Bolivia: Decreto Supremo Nº 22904, 19 de octubre de 1991
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el artículo 9 numeral 2 de la Ley Orgánica de Municipalidades de 10 de enero de 1,985 establece la competencia de las municipalidades para administrar los instrumentos reguladores del Sistema de Catastro Urbano;
+* Que la institución de las Oficinas de Catastro Urbano en las municipalidades, a partir de la Ley mencionada, ha producido dualidad de funciones con las oficinas distritales de catastro de dependientes del Ministerio de Asuntos Urbanos;
+* Que el artículo 7 de la Ley de administración y Control Gubernamental 1178 de 20 de julio de 1,990 clara y terminantemente establece que debe evitarse la duplicación de objetivos y atribuciones mediante la adecuación, fusión o supresión de las entidades públicas del Estado, para su mejor y eficiente administración;
+* Que el Reglamento Nacional de Catastro Urbano, aprobado por el [Decreto Supremo Nº 22902](https://www.lexivox.org//norms/BO-DS-22902.html) de 19 de septiembre de 1,991, establece el ordenamiento del Catastro Urbano, haciendo necesario el fortalecimiento y adecuación de la Dirección Nacional de Catastro Urbano, dependiente del Ministerio de Asuntos Urbanos;
+* Que se busca, dentro la política de descentralización administrativa del Poder Ejecutivo, modernizar y reducir la función del Estado, mediante una mejor distribución del presupuesto y personal asignado a las diferentes instituciones públicas del país;
+* Que la República de Bolivia y el Banco Interamericano de Desarrollo BID, han suscrito los créditos 601/OC-BO por CUARENTA MILLONES 00/100 DOLARES AMERICANOS (US$ 40.000.000.-) Y 846/SF-BO por VEINTE MILLONES 00/100 DOLARES AMERICANOS (US$ 20.000.000.-), para la implementación del Programa global de crédito regional para el Desarrollo y Saneamiento (PRODURSA) del Fondo Nacional de Desarrollo Regional (FNDR), siendo uno de sus componentes básicos la catastración de todos los inmuebles de los centros urbanos del país, en que se incluye la asistencia técnica a la Dirección Nacional de Catastro Urbano, dependiente del Ministerio de Asuntos Urbanos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Quedan suspendidas definitivamente, a partir de la fecha, las actividades de las oficinas distritales de Catastro Urbano, dependientes de la Dirección General de Catastro Urbano del Ministerio de Asuntos Urbanos, debiendo procederse a su cierre de acuerdo a procedimientos administrativos establecidos por ley.
+
+**Artículo 2°.-** La documentación existente (registros y cartografía), dependiente de las mencionadas oficinas distritales, pasará a las municipalidades correspondientes a cada distrito.
+
+**Artículo 3°.-** Las municipalidades asumirán el pleno ejercicio de la administración de sus catastros de conformidad a las disposiciones normativas y reglamentarias nacionales emitidas por la Dirección General de Catastro Urbano, dependiente del Ministerio de Asuntos Urbanos.
+
+**Artículo 4°.-** Créase el proyecto Sistematización y Modernización del Catastro Urbano Nacional, dependiente del Ministerio de Asuntos Urbanos, bajo la tuición de la Dirección de Catastro Urbano como entidad ejecutora, con recursos asignados por la asistencia técnica al PRODURSA, como parte internacional, y recursos de contraparte necional otorgados por el Ministerio de Finanzas, mediante el Tesoro General de la Nación, por dieciocho meses.
+
+---
+
+Los señores Ministros de Estado en los despachos de Finanzas y Asuntos Urbanos quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de septiembre de mil novecientos noventa y un años.
+  
+Fdo. JAIME PAZ ZAMORA, Carlos Iturralde Ballivián, Carlos A. Saavedra Bruno, Gustavo Fernández Saavedra, Alberto Sainz Klinski, Jorge Landívar Roca, Samuel Doria Medina Auza, David Blanco Zabala, Edim Céspedes Cossio, Willy Vargas Vacaflor, Leopoldo López Cossio, Oscar Zamora Medinacelli, Mario Paz Zamora, Gonzalo Valda Cárdenas, Mauro Bertero Gutiérrez, Herbert Muller Costas, Fernando Kieffer Guzmán, Mario Rueda Peña.

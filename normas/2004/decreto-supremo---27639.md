@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 27639, 19 de julio de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 7 de la [Ley Nº 2627](https://www.lexivox.org//norms/BO-L-2627.html) de 30 de diciembre de 2003, señala que el Resultado Fiscal en cada presupuesto institucional se calculará en base al resultado fiscal (superávit/déficit) y su participación e incidencia en el resultado fiscal global del presupuesto General de la Nación 2004.
+* Que según el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004, se establece la reducción del gasto en consultorías independientemente de la fuente de financiamiento, especificando que corresponde un 10% de reducción para las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público” del PGN, aprobado para la presente gestión fiscal, debiéndose cualquier incremento en las referidas partidas aprobarse mediante Decreto Supremo.
+* Que en fecha 3 de diciembre de 2003, se ha suscrito el Convenio Marco entre la Embajada Real de los Países Bajos y los Ministerios de Desarrollo Sostenible y de Hacienda con el objetivo de fortalecer al Ministerio de Desarrollo Sostenible, adecuando su organización a los recientes cambios y desarrollar su capacidad para implementar una política de desarrollo sostenible que transversalice los temas de sostenibilidad y equidad de género en las políticas nacionales y sectoriales del Gobierno Nacional, Departamental y Municipal.
+* Que el Convenio establece dos fases la Fase I - De Arranque por un monto de $us.483.500.- y la Fase II por un monto de $us.5.016.500.-, para lo cual el Ministerio de Desarrollo Sostenible, debe proceder a inscribir un presupuesto por Bs.3.827.649,76.-, de los cuales Bs.2.470.881.- corresponden a la partida 25200 “Estudios e Investigaciones”, en favor del Proyecto de Fortalecimiento “Programa de Fortalecimiento Institucional del MDS”, financiado con recursos de donación externa provenientes del Gobierno de Holanda.
+* Que en cumplimiento al Artículo 7 de la [Ley Nº 2627](https://www.lexivox.org//norms/BO-L-2627.html), el Consejo Nacional de Política Económica y Social - CONAPES, en fecha 15 de julio del presente año, mediante Resolución Nº 44/2004, aprueba la inscripción de presupuesto adicional para el Ministerio de Desarrollo Sostenible.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba y autoriza la inscripción de Presupuesto de Bs.3.827.649,76.- (TRES MILLONES novecientos VEINTISIETE mil SEISCIENTOS CUARENTA Y NUEVE 76/100 BOLIVIANOS), de los cuales Bs.2.470.881.- (DOS MILLONES CUATROCIENTOS SETENTA mil novecientos OCHENTA Y UN 00/100 BOLIVIANOS) corresponden a la partida 25200 “Estudios e Investigaciones”, en favor del Proyecto de Fortalecimiento “Programa de Fortalecimiento Institucional del MDS” del Ministerio de Desarrollo Sostenible, financiado con recursos de donación externa del Gobierno de Holanda, de acuerdo a Anexo de Modificaciones Presupuestarias, de conformidad a lo establecido por el Artículo 7 de la [Ley Nº 2627](https://www.lexivox.org//norms/BO-L-2627.html), concordante con el Artículo 8 del [Decreto Supremo Nº 27327](https://www.lexivox.org//norms/BO-DS-27327.html) de 31 de enero de 2004.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda y Desarrollo Sostenible, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de julio del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Guillermo Torres Orias, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Rodolfo Erostegui Torres Ministro Interino de Trabajo, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

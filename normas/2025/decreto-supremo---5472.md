@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 5472, 8 de octubre de 2025
+
+DECRETO SUPREMO N° 5472
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 28473](https://www.lexivox.org//norms/BO-DS-28473.html), de 2 de diciembre de 2005, tiene por objeto ordenar en un texto único las disposiciones legales referidas al desarrollo del Polo del Sud Este Boliviano y de los yacimientos mineralógicos del Mutún. Asimismo, el Artículo 2 del citado Decreto Supremo, crea la Empresa Siderúrgica del Mutún.
+* Que el Parágrafo I del Artículo 1 de la [Ley Nº 3790](https://www.lexivox.org//norms/BO-L-3790.html), de 24 de noviembre de 2007, refrenda la creación de la Empresa Siderúrgica del Mutún – ESM, efectuada mediante el Artículo 2 del [Decreto Supremo Nº 28473](https://www.lexivox.org//norms/BO-DS-28473.html), como empresa pública con patrimonio propio, autonomía de gestión técnica, administrativa, económica, financiera y legal, bajo tuición del Ministerio de Minería y Metalurgia.
+* Que el Parágrafo III del Artículo 1 de la [Ley Nº 3790](https://www.lexivox.org//norms/BO-L-3790.html), establece que la ESM tendrá en su cargo la dirección y administración de la exploración, explotación, fundición, industrialización, comercialización y transporte de minerales y productos derivados de los yacimientos del Mutún.
+* Que el Artículo 3 de la [Ley Nº 3790](https://www.lexivox.org//norms/BO-L-3790.html), señala que la ESM estará dirigida y legalmente representada por un Presidente Ejecutivo, designado por el Presidente de la República actual Presidente del Estado Plurinacional de una terna elevada por 2/3 de votos de la Cámara de Diputados y contará con un Directorio compuesto por el Presidente Ejecutivo y siete (7) representantes, de los cuales tres (3) son del Poder Ejecutivo actual Órgano Ejecutivo, designados mediante Decreto Supremo.
+* Que en cumplimiento a la normativa vigente, corresponde designar a uno de los representantes del Órgano Ejecutivo como miembro del Directorio de la ESM.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo único.-** 
+
+1. Se designa a la ciudadana **CECILIA QUISPE VACAFLOR** como **MIEMBRO DEL DIRECTORIO** de la **EMPRESA SIDERÚRGICA DEL MUTÚN – ESM**, en representación del Órgano Ejecutivo.
+2. Se abroga el [Decreto Supremo Nº 5338](https://www.lexivox.org//norms/BO-DS-N5338.html), de 19 de febrero de 2025.
+
+---
+
+El señor Ministro de Estado en el Despacho de Minería y Metalurgia, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo en la ciudad de La Paz, a los ocho días del mes de octubre del año dos mil veinticinco.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Roberto Ignacio Rios Sanjines, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Alejandro Gallardo Baldiviezo, Zenón Pedro Mamani Ticona, Edgar Montaño Rojas, Alejandro Santos Laura, Jessica Paola Saravia Atristain, Víctor Pedro Quispe Ticona, María Renee Castro Cusicanqui, Álvaro Horacio Ruiz García, Omar Veliz Ramos, Juan Yamil Flores Lazo, Esperanza Guevara.

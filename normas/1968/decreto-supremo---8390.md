@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 8390, 19 de junio de 1968
+
+[Decreto Supremo Nº 08390](https://www.lexivox.org//norms/BO-DS-8390.html)  
+GRAL. RENE BARRIENTOS ORTUÑO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que, los productos farmacéuticos de las firmas Importadoras, así como las nacionales para su expendio al publico, llevan un timbre con el precio del producto, en el que figura el nombre del Ministerio de Salud Pública, sin que este portafolio, tenga en la práctica ninguna intervención en la determinación del precio.
+* Que, es necesario controlar el precio de los productos farmacéuticos, de tal manera que estén al alcance de la economía de la población y se cumpla una función en la protección, fomento y recuperación de la salud.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** A partir de la fecha el Ministerio de la Salud Pública, ejercerá control y fiscalización sobre las hojas de costo, de las casas importadoras productoras nacionales y establecimientos farmacéuticos, empresas que deberán presentar sus costos aprobados por el Ministerio de Salud Pública antes de que el producto salga a la venta.
+
+**Artículo 2°.-** Los formularios para las hojas de costo y los timbres que fijarán los precios de los productos farmacéuticos para su venta al público, serán adquiridos del Ministerio de Salud Pública, de acuerdo al costo de los aranceles establecidos para cada gestión económica;
+
+**Artículo 3°.-** El ministeriio de Salud Pública, a través de sus dependencias especializadas, revisará y controlará en todos los establecimientos de importación, fabricación y venta de productos farmacéuticos, los precios de expendio al público.
+
+**Artículo 4°.-** Las infracciones a las disposiciones contenidas en los artículos precedentes, previo informe, serán sancionados con multas de $b 1.000 a $b.10.000 según la gravedad de la infracción calificada por el organismo especializado del Ministerio de Salud Publica, y en caso de reincidencia con cierre temporal y por tercera vez con el cierre definitivo.
+
+---
+
+Los señores Ministros en los Despachos de Salud Pública y Economía Nacional, quedan encargados de la ejecución y cumplimiento del presente Decreto.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de junio de mil novecientos sesenta y ocho años.
+  
+FDO. GRAL. RENE BARRIENTOS ORTUÑO, Antonio Arguedas M., Tomás Guillermo Elío, José Romero Loza, Gral. Enrique Gallardo B., Hugo Carmona M., Mario Estenssoro V., Gustavo Méndez T., Miguel Bonifaz P., Alberto Larrea H., Lucio Paz Rivero, Jesús Lijerón R., Juan Asbún Z., Jorge Solíz R., Rolando Pardo R., Marcelo Galindo de U.

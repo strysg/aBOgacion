@@ -1,0 +1,414 @@
+# Bolivia: Reglamento del Régimen de Sanciones Administrativas de la Ley Nº 393 de Servicios Financieros, 13 de julio de 2022
+
+REGLAMENTO DEL RÉGIMEN DE SANCIONES ADMINISTRATIVAS DE LA [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) DE SERVICIOS FINANCIEROS
+
+## Capítulo I Disposiciones y aspectos generales
+
+**Artículo 1°.- (Objeto)** El presente Reglamento tiene por objeto normar el Régimen de Sanciones Administrativas establecido en la Sección IV del Capítulo IV del Título I de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), de 21 de agosto de 2013, de Servicios Financieros.
+
+**Artículo 2°.- (Ámbito de aplicación)** El presente Reglamento, aplicará a las personas naturales y jurídicas detalladas en los Parágrafos I y II del Artículo 40 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y de manera enunciativa y no limitativa, a:
+
+1. Toda entidad financiera, independientemente de su naturaleza o norma que las hubiera creado, inclusive a las sociedades vinculadas patrimonialmente a dicha entidad;
+2. Toda entidad en proceso de adecuación o entidad en trámite de constitución;
+3. Toda entidad que en conformidad con lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) o la norma emitida por la Autoridad de Supervisión del Sistema Financiero – ASFI, se encuentre en proceso de disolución y liquidación voluntaria, en intervención, en procedimiento de solución, en proceso de liquidación con seguro de depósitos o en liquidación forzosa judicial;
+4. Toda sociedad controladora de grupos financieros;
+5. Todo director, miembro de los consejos de administración y vigilancia, síndico, inspector de vigilancia, fiscalizador interno, auditor interno, administrador, gerente, apoderado general, funcionario, empleado y/u otro sin excepción, sin importar el cargo otorgado por la entidad financiera, sociedad controladora de un grupo financiero, entidad de intermediación financiera intervenida, entidad que, conforme lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) o la norma emitida por la ASFI, se encuentre en proceso de adecuación, liquidación con seguro de depósitos, liquidación forzosa judicial, disolución y liquidación voluntaria o en procedimiento de solución;
+6. Toda firma de auditoría externa, calificadora de riesgo, perito tasador y evaluadores que presten servicios a las entidades financieras y a las sociedades controladoras;
+7. Toda empresa financiera sobre la cual la ASFI declare la existencia de un Grupo Financiero de Hecho.
+
+**Artículo 3°.- (Definiciones)** Para efectos de aplicación del presente Reglamento se establecen las siguientes definiciones, sin perjuicio de aquellas establecidas en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y normas conexas:
+
+1. Autoridad Sectorial Competente: Es la institución responsable de la regulación y supervisión de la Empresa Financiera Integrante del Grupo Financiero – EFIG, con las atribuciones conferidas por Ley;
+2. Alta Gerencia: Gerente general y gerentes de área o instancias equivalentes que conforman el plantel ejecutivo de la entidad supervisada;
+3. Conflicto de interés: Cualquier acto, omisión o toda situación o evento, que conlleva a una persona natural o jurídica, a obtener o intentar acceder a ventajas o beneficios ilegítimos, para sí o para terceros, interfiriendo con sus deberes o llevando a ésta a motivaciones diferentes al correcto y real cumplimiento de sus responsabilidades;
+4. Daño económico o daño: Entendidos como el detrimento real, cierto y cuantificable del patrimonio de la persona natural o jurídica como consecuencia de una infracción;
+5. Entidad en intervención o intervenida: Entidad de Intermediación Financiera – EIF que por disposición de la ASFI mediante Resolución expresa, se le aplicará el procedimiento de solución, el proceso de liquidación con seguro de depósitos o la liquidación forzosa judicial;
+6. Entidad en procedimiento de solución: EIF que se encuentra en un procedimiento destinado a proteger los depósitos del público y otras obligaciones privilegiadas, con carácter posterior a la intervención y previo a la revocatoria de la Licencia de Funcionamiento de la EIF Intervenida por la ASFI;
+7. Entidad en proceso de adecuación: Entidad en funcionamiento que realiza actividades propias de las EIF, que se encuentra en proceso de obtención de su licencia de funcionamiento;
+8. Entidad en proceso de disolución y liquidación voluntaria: Entidad que se encuentra en proceso de cesar su capacidad legal para cumplir el fin para el que se creó, subsistiendo su personalidad jurídica únicamente para la resolución de los vínculos establecidos por la sociedad con terceros, a través de la realización de activos y cancelación de pasivos, dispuesta por su junta general de accionistas o asamblea general de socios o asociados;
+9. Entidad en proceso de liquidación forzosa judicial: Entidad en proceso de realización de activos para la cancelación de pasivos, solicitado ante el Juez competente del domicilio de la entidad, rigiendo para la liquidación forzosa judicial las disposiciones del Código de Comercio relativas al procedimiento de quiebra con las especialidades determinadas en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y norma emitida por la ASFI;
+10. Entidad en proceso de liquidación con seguro de depósitos: EIF en proceso de liquidación y que por disposición de la ASFI cuando los recursos que requiera la ejecución del procedimiento de solución, excedan el treinta por ciento (30%) de los pasivos privilegiados;
+11. Entidad en trámite de constitución: Empresa que ha iniciado el trámite para establecerse como una EIF o una empresa de servicios financieros complementarios;
+12. Infracción (general o específica): Incumplimiento a la norma sea por acción o por omisión, a la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), Decretos Supremos, normativa reglamentaria o regulatoria, Resoluciones Administrativas, Circulares o Instrucciones emitidas por la ASFI, por el Banco Central de Bolivia – BCB, por el Ministerio de Economía y Finanzas Públicas y/o a reglamentos, normas, estatutos y políticas internas aprobadas por la entidad financiera, según corresponda;
+13. Norma: Leyes, Decretos Supremos, Resoluciones Ministeriales y normativa que emite la ASFI, el BCB y el Ministerio de Economía y Finanzas Públicas, en ejercicio de la potestad reglamentaria o normativa, así como reglamentos, normas, estatutos y políticas internas aprobadas por la entidad supervisada;
+14. Operaciones intragrupo: Son aquellas operaciones comerciales, financieras o de prestación de servicios que realizan las EFIG entre sí y cuyas condiciones de plazo, tasas, montos, garantías y comisiones, deben ser similares a las que se apliquen en operaciones con terceros;
+15. Perjuicio: Afectación no cuantificable o no patrimonial a la persona natural o jurídica, como consecuencia de la infracción cometida;
+16. Práctica inapropiada: Conducta de la sociedad controladora que expone a riesgos, que afecten la solvencia, situación financiera o reputación de la misma y/o de sus EFIG;
+17. Servicio administrativo compartido: Servicio cuya naturaleza es de soporte administrativo acorde con la estrategia establecida por la sociedad controladora para el grupo financiero, dentro de los límites y condiciones establecidos en la norma emitida por la ASFI.
+
+**Artículo 4°.- (Autoridad competente)** 
+
+1. El Director General Ejecutivo o la Directora General Ejecutiva de la ASFI, es la autoridad competente para aplicar sanciones administrativas, previo cumplimiento del procedimiento administrativo establecido por norma.
+2. En los casos de entidades o empresas que se encuentren bajo la supervisión y regulación específica de otra Autoridad y se adviertan presuntos incumplimientos a la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y disposiciones regulatorias relacionadas, la ASFI aplicará las sanciones correspondientes. Sin perjuicio del proceso administrativo sancionatorio, la ASFI comunicará a la Autoridad Sectorial Competente sobre el inicio del mismo.
+
+## Capítulo II Infracciones en el ámbito de las operaciones, los servicios financieros, los servicios financieros complementarios y las sociedades controladoras
+
+**Artículo 5°.- (Infracciones generales)** 
+
+1. Se constituyen en infracciones generales de manera enunciativa y no limitativa, las siguientes:
+   1. Incumplir la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y otras disposiciones legales y reglamentarias en el ámbito de las operaciones, de los servicios financieros, de los servicios financieros complementarios y de las actividades de las sociedades controladoras;
+   2. Inobservar la reglamentación emitida por la ASFI, el BCB y el Ministerio de Economía y Finanzas Públicas;
+   3. Contravenir los reglamentos, normas, estatutos y políticas internas emitidas por la entidad financiera y por la sociedad controladora;
+   4. Incumplir los requerimientos o instrucciones efectuados por la ASFI.
+2. Sin perjuicio de lo antes determinado, constituyen infracciones específicas, aquellas conductas que están descritas en el presente Reglamento.
+
+**Artículo 6°.- (Infracciones a la libre competencia)** Se consideran infracciones específicas a la libre competencia, el llevar a cabo actos por parte de entidades financieras que tengan por finalidad generar cualquier práctica monopólica u oligopólica y/o anticompetitiva, en la búsqueda de mantener una posición dominante, o cualquier acuerdo que pretenda el control y la exclusividad en la prestación de servicios financieros o servicios financieros complementarios.
+
+**Artículo 7°.- (Infracciones al envío de información)** Se consideran infracciones específicas a los siguientes incumplimientos relacionados al envío de información a la ASFI:
+
+1. No cumplir plazos, periodos, condiciones, formas, requisitos, procedimientos y/o medidas de seguridad establecidos en la norma para el envío de información;
+2. No informar documentalmente a la ASFI dentro los diez (10) días calendario posteriores al conocimiento de todo supuesto hecho delictivo cometido, en la entidad financiera o contra la entidad financiera, por sus funcionarios o terceros;
+3. No informar a la ASFI, dentro los diez (10) días calendario posteriores a la notificación con la sanción impuesta por la autoridad competente a directores, consejeros de administración y vigilancia, síndicos, fiscalizadores internos, inspectores de vigilancia, administradores, apoderados y empleados de la entidad financiera, por hechos delictivos;
+4. No remitir información prevista en la norma que de manera específica fuera requerida por la ASFI;
+5. Impedir o incumplir la entrega de información y documentación referida a cuestiones que sean de su conocimiento conforme a norma;
+6. Remitir información con errores y/o inconsistencias.
+
+**Artículo 8°.- (Infracciones a los derechos de los consumidores financieros)** Se consideran infracciones específicas a los derechos de los consumidores financieros, las siguientes:
+
+1. Contratar por cuenta del consumidor financiero y/o transferir costos al mismo, por servicios financieros o no financieros, sin contar con su autorización expresa;
+2. Limitar, retardar, impedir o negar, el ejercicio de derechos del consumidor financiero definidos por norma;
+3. No atender, no procesar y/o no responder, en los plazos y en la forma establecida por la norma, los reclamos presentados por los consumidores financieros;
+4. Prestar operaciones o servicios financieros, vulnerando los derechos de los consumidores financieros y/o infringiendo las obligaciones de la entidad financiera establecidas por norma;
+5. Incumplir con la obligación de informar, en los plazos establecidos, los horarios de atención y cambios en los mismos o incumplir el horario de atención al consumidor financiero;
+6. Limitar o restringir la libre terminación de los contratos por parte del consumidor financiero en el marco de la norma;
+7. Modificar unilateralmente los términos y las condiciones de los contratos, excepto cuando la modificación beneficie al consumidor financiero;
+8. No impartir y/o ejecutar los programas de educación financiera dirigidos al consumidor financiero en el marco de la norma;
+9. No brindar buena atención y/o trato digno al consumidor financiero, incumpliendo la obligación de actuar con la debida diligencia;
+10. Prestar operaciones o servicios financieros bajo formas o prácticas inequitativas o discriminatorias, por razones de edad, género, raza, religión o identidad cultural;
+11. No brindar información por cualquier medio de forma fidedigna, amplia, íntegra, clara, comprensible, oportuna y accesible sobre las características y/o condiciones de los productos, tasas y servicios financieros que la entidad financiera ofrece;
+12. No emitir dentro del plazo establecido en norma, la minuta de desgravamen de la garantía a la cancelación del crédito y/o no devolver a quién en derecho corresponda, la documentación de derecho propietario depositada en la entidad financiera para fines de constitución de la garantía;
+13. Incumplir la norma emitida por la ASFI en materia de defensa de los derechos del consumidor financiero;
+14. Extraviar y no reponer dentro de plazos justificables, la documentación del consumidor financiero que mantiene en custodia la entidad financiera o se le haya sido entregado;
+15. Emitir información que induzca a error o confusión sobre las características y/o condiciones de los productos, operaciones y servicios financieros que ofrece la entidad financiera;
+16. No contar con programas de educación financiera para los consumidores financieros debidamente aprobados por el directorio u órgano equivalente de la entidad supervisada;
+17. No se provea los recursos humanos, físicos y/o tecnológicos para que en las sucursales y agencias y demás puntos de atención financiera, se brinde una atención eficiente y oportuna a los consumidores financieros;
+18. No suministrar información a los consumidores financieros sobre las atribuciones y funciones de la Defensoría del Consumidor Financiero;
+19. Incumplir las instrucciones que, con base en los dictámenes emitidos por la Defensoría del Consumidor Financiero, disponga la ASFI;
+20. No asistir a las audiencias de conciliación;
+21. Condicionar la prestación de operaciones y/o servicios financieros a la atención o desistimiento del reclamo, sea que se encuentre en primera o segunda instancia;
+22. Obligar al consumidor financiero, a adquirir servicios de terceros para la otorgación de créditos u otras operaciones y servicios que otorgue la entidad financiera, salvo disposición legal expresa.
+
+**Artículo 9°.- (Infracciones al régimen de tasas de interés, cobro de cargos y comisiones)** Se consideran infracciones específicas respecto a los límites de tasas de interés, comisiones y otros cobros, las siguientes:
+
+1. Establecer tasas de interés activas y pasivas contraviniendo los límites determinados por norma;
+2. Modificar unilateralmente el cobro y/o pago de tasas de interés, en desmedro del consumidor financiero;
+3. Efectuar el cobro de comisiones, tarifas, primas de seguro u otros cargos al consumidor financiero, que no estén permitidos por norma y/o que no hayan sido pactados y aceptados en forma escrita por el consumidor financiero;
+4. Efectuar el cobro de cargos o comisiones que no impliquen una contraprestación efectiva de servicios o el cobro de más de una comisión por un mismo hecho, acto o evento;
+5. No cumplir las limitaciones y prohibiciones establecidas en la norma emitida por la ASFI sobre el régimen de tasas, cobro de cargos y comisiones;
+6. Generar o permitir cobros excesivos y/o sin respaldo por gastos judiciales.
+
+**Artículo 10°.- (Infracciones a los límites legales)** Se consideran infracciones específicas a los límites legales, las siguientes:
+
+1. Incumplir la norma referida a límites máximos de inversiones;
+2. Otorgar financiamiento a entidades financieras por encima de los límites establecidos por norma;
+3. Incumplir los límites para otorgar o recibir créditos de otras entidades financieras por encima de los establecidos en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), Decretos Supremos y norma emitida por la ASFI;
+4. Conceder o mantener créditos con un solo prestatario o grupo prestatario que excedan los límites de endeudamiento y concentración crediticia establecidos por norma;
+5. Incumplir los límites legales o regulatorios, establecidos en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), Decretos Supremos y norma emitida por la ASFI.
+
+**Artículo 11°.- (Infracciones al régimen de solvencia)** Se consideran infracciones específicas respecto al régimen de solvencia, las siguientes:
+
+1. Incumplir disposiciones legales y normas en el cálculo de suficiencia patrimonial y/o ponderación de activos y/o contingentes;
+2. Distribuir dividendos o excedentes cuando exista prohibición expresa o se exceda del límite permitido;
+3. Incumplir con la constitución de la reserva legal definida por Ley.
+
+**Artículo 12°.- (Infracciones en el funcionamiento, operaciones y servicios financieros)** Se consideran infracciones específicas respecto al funcionamiento, operaciones y prestación de servicios financieros, las siguientes:
+
+1. Realizar operaciones y/o servicios no permitidos o no autorizados por la ASFI;
+2. Otorgar, autorizar o aprobar créditos u otros activos de riesgo a prestatarios o grupo de prestatarios vinculados a la entidad financiera al margen de la Ley y norma emitida por la ASFI, salvo excepciones establecidas en las mismas;
+3. Operar con formatos y/o modelos de contratos no aprobados y/o no registrados en la ASFI; en los casos en los que existan dichos formatos y/o modelos que deban ser aprobados y/o registrados;
+4. Incumplir con la cancelación de las acuotaciones destinadas al presupuesto institucional de la ASFI en los plazos previstos en la norma emitida al efecto;
+5. Incumplir con el pago de aportes al Fondo de Protección del Ahorrista en la forma y/o plazos establecidos en la norma;
+6. Utilizar medios de transporte de material monetario y valores que no cumplan los requisitos establecidos en la norma;
+7. Incumplir la norma emitida por la ASFI, el BCB y la norma interna de las entidades financieras respecto a la gestión de seguridad de la información y tecnologías relacionadas;
+8. No cumplir con las órdenes de retención, suspensión de retención y/o remisión de fondos, emitidas por autoridad competente, en los plazos establecidos por norma;
+9. No conservar de manera ordenada, íntegra y/o completa los documentos, libros, microfilmes o registros en medios físico, magnético y/o electrónico, durante el tiempo expresamente previsto por norma;
+10. No realizar la publicación de avisos, estados financieros y/u otros establecidos por disposiciones legales y reglamentarias o hacerlo fuera de los plazos y/o incumpliendo formatos previstos por norma;
+11. No contar o incumplir con las políticas, planes y/o procedimientos propios de la entidad requeridos por la norma;
+12. Incumplir con disposiciones de publicidad, propaganda, promoción y/o material informativo respecto a las operaciones, servicios y/o productos financieros ofertados;
+13. Hacer publicidad en el país, por parte de la sucursal de un Banco extranjero, sobre la cuantía del capital y reservas de su oficina central;
+14. Efectuar operaciones propias de una sucursal, cuando la EIF actúa como corresponsal financiero;
+15. Incumplir las normas de eficiencia y calidad de gestión definidas por la norma;
+16. No constituir previsiones establecidas por norma o aquellas instruidas por la ASFI, producto de identificación de factores adicionales de riesgo crediticio, operativo y mercado y demás riesgos existentes;
+17. Incumplir la norma emitida por la ASFI que establezca los parámetros para el funcionamiento y la prestación de las operaciones y servicios financieros, así como la norma emitida por el BCB y el Ministerio de Economía y Finanzas Públicas, en el marco de sus competencias;
+18. Recibir en garantía de créditos, en todo o en parte, acciones, certificados de aportación o títulos análogos de la propia EIF;
+19. Conceder créditos con el objeto de que su producto sea destinado, por cualquier medio, a la adquisición de acciones, certificados de aportación o títulos análogos de la propia EIF;
+20. Otorgar créditos a los directores, integrantes de los consejos de administración y de vigilancia, síndicos, fiscalizadores internos, inspectores de vigilancia, miemb ros del comité de créditos y de otros comités especiales, por el tiempo que dure su mandato, asesores permanentes, auditor interno, apoderados y demás funcionarios cuyas decisiones puedan comprometer la solvencia de la EIF y con prestatarios o grupos prestatarios vinculados a estas personas, salvo lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+21. Dar como EIF, fianzas, garantías u otra modalidad que tenga como objeto el respaldar obligaciones de dinero o mutuo entre terceros, que no se encuentren dentro de lo establecido en norma emitida por la ASFI;
+22. Dar en garantía activos de la EIF, directa o indirectamente, bajo cualquier modalidad prevista por norma, salvo por lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+23. Invertir en el capital accionario de otra sociedad, en incumplimiento a las limitaciones y prohibiciones establecidas en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y norma de la ASFI;
+24. Realizar cualquier tipo de sorteo, rifa u otras modalidades similares que tengan por objeto la concesión de premios u otros mecanismos fundamentados en el azar para captar o mantener clientes, sin la debida autorización de la ASFI;
+25. Pagar a directores o consejeros de administración y de vigilancia, miembros de la alta gerencia, asesores y ejecutivos, sueldos, salarios, honorarios, primas, bonos o cualquier otra forma de remuneración o retribución, que en conjunto excedan el veinte por ciento (20%) de los gastos administrativos de la EIF.
+
+**Artículo 13°.- (Infracciones a inversiones en activos fijos)** Se considera infracción específica cuando el monto total de las inversiones que realice la EIF en activos fijos, en sus agencias y sucursales, en acciones de empresas de servicios financieros complementarios, empresas de los sectores de valores, seguros y pensiones, y bancos de desarrollo, exceda el importe de su capital regulatorio.
+
+**Artículo 14°.- (Infracciones en la incorporación de bienes adjudicados)** Se considera infracción específica de la entidad financiera cuando se incorporen bienes adjudicados como bienes de uso, sin previa autorización de ASFI.
+
+**Artículo 15°.- (Infracciones cometidas por miembros de instancias de gobierno corporativo y funcionarios)** Los miembros de un directorio u órgano equivalente, consejeros de administración y vigilancia, síndicos, inspectores de vigilancia, fiscalizadores internos, gerentes, administradores, auditores internos y funcionarios de las entidades financieras, serán sancionados cuando incurran en las siguientes infracciones específicas:
+
+1. Incumplimiento de funciones y/o responsabilidades establecidas por norma;
+2. Realizar actos de gestión, dirección y/o administración, según corresponda, o participar en éstos, cuando se encuentren suspendidos o inhabilitados;
+3. Incumplir la norma establecida por la ASFI para la contratación de firmas de auditoría externa, peritos tasadores y evaluadores de riesgo;
+4. Incumplir con la constitución de la caución calificada por la norma de la ASFI;
+5. Designar o contratar a personas en funciones directivas, de control, administración, ejecutivas o como empleados, cuando se encuentren comprendidos en los impedimentos establecidos o no reúnan las condiciones exigidas por norma;
+6. Proporcionar información reservada y/o confidencial que conozcan en el ejercicio de sus funciones cuando no esté permitido por la norma;
+7. Influir de manera directa o indirecta en la entidad financiera para obtener ventajas en beneficio propio, de familiares o de terceros;
+8. Obstruir o impedir la investigación de un delito a cargo de la autoridad competente;
+9. Aprobar o consentir con su firma o rúbrica la afectación de recursos de la entidad financiera para el pago de multas personales;
+10. No poner en conocimiento de la ASFI o informar fuera del plazo establecido en norma y/o no registrar las designaciones, nombramientos, contrataciones, suspensiones o inhabilitaciones, desvinculaciones, renuncias, cesaciones de accionistas, socios o asociados, directores o consejeros, personal jerárquico de las instancias de gobierno corporativo, gerentes, administradores, apoderados, miembros del órgano de control interno, funcionarios, ex directores, ex consejeros, ex miembros del citado órgano, ex gerentes, ex administradores, ex apoderados o ex funcionarios conforme lo determinado por norma;
+11. Incumplir la obligación de reportar cualquiera de las causales de regularización en las que haya incurrido la EIF;
+12. Ejecutar o permitir la ejecución de operaciones prohibidas o no autorizadas por la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), así como actividades restringidas o con prohibición temporal o definitiva determinada por la ASFI, o que infrinjan la norma que regula a las entidades financieras;
+13. No informar verazmente a los accionistas, socios u asociados, de cualquier situación que afecte la liquidez o solvencia de la entidad;
+14. No informar a los socios, accionistas y/o asociados, según corresponda, las sanciones impuestas por la ASFI a la entidad financiera;
+15. Incumplir o no implementar el uso del Código de Conducta.
+
+**Artículo 16°.- (Infracciones a la gestión integral de riesgos)** Se consideran infracciones específicas respecto a la gestión inte gral de riesgos, las siguientes:
+
+1. Incumplir la norma referida a la gestión de riesgo: operativo, de liquidez, de gobierno, de mercado y/o de crédito;
+2. No aprobar políticas y procedimientos internos para la gestión de riesgos;
+3. Contar con políticas y procedimientos para la gestión de riesgos que presenten debilidades y/o limiten una óptima gestión de los riesgos;
+4. Contravenir sus propias políticas, procedimientos y/o normas internas de gestión de riesgos.
+
+**Artículo 17°.- (Infracciones por incumplimiento en niveles de cartera de créditos)** Se consideran infracciones específicas a los incumplimientos de los niveles mínimos o máximos de cartera de créditos establecidos por norma.
+
+**Artículo 18°.- (Infracciones respecto a la facultad de supervisión)** Se consideran infracciones específicas respecto a la facultad de supervisión de la ASFI, las siguientes:
+
+1. Impedir, no facilitar o limitar el ejercicio de las funciones, facultades y atribuciones de supervisión de la ASFI previstas por norma;
+2. Impedir la asistencia de la Directora General Ejecutiva o Director General Ejecutivo de la ASFI, o de su delegado designado, a las sesiones de juntas de accionistas, asambleas de socios y reuniones de directorio u órgano equivalente, en calidad de observador;
+3. No atender dentro los plazos establecidos, los requerimientos de información física o electrónica y todo requerimiento efectuado por la ASFI;
+4. No remitir o remitir fuera de plazo, los planes de acción requeridos por la ASFI;
+5. Incumplir el plan de acción comprometido por las entidades financieras para subsanar las observaciones determinadas en procesos de supervisión llevados a cabo por la ASFI;
+6. Incumplir instrucciones emitidas por la ASFI, en el marco de sus facultades y atribuciones de supervisión.
+
+**Artículo 19°.- (Infracciones de las firmas de auditoría externa)** Se consideran infracciones específicas de las firmas de auditoría externa, las siguientes:
+
+1. Incumplir las funciones y responsabilidades establecidas por norma, para la realización de trabajos de auditoría externa en entidades financieras;
+2. Emitir informes con información incompleta, inexacta, incomprensible, no verificable o no veraz;
+3. Realizar de manera directa o indirecta trabajos de asesoramiento o consultoría sobre temas observados en sus dictámenes;
+4. No remitir información en los plazos determinados por la ASFI;
+5. Prestar servicios de auditoría externa a una misma entidad supervisada por más de tres (3) años continuos;
+6. Emitir dictámenes que hayan subestimado u omitido la revelación de hechos que distorsionen de manera significativa la situación económica y financiera reflejada en los estados financieros;
+7. No respaldar el trabajo desarrollado con los respectivos papeles de trabajo;
+8. No guardar la reserva y confidencialidad de los asuntos y operaciones del sistema financiero y sus clientes que lleguen a su conocimiento en el ejercicio de sus funciones;
+9. No presentar el dictamen a la entidad financiera en los plazos establecidos contractualmente;
+10. No presentar papeles de trabajo a requerimiento de la ASFI;
+11. No comunicar a la ASFI la detección de irregularidades, errores o hechos que a su juicio profesional puedan poner en peligro la estabilidad o solvencia de la entidad financiera auditada o puedan poner en riesgo los depósitos del público.
+
+**Artículo 20°.- (Infracciones de entidades en proceso de adecuación, en trámite de constitución y/o de los miembros de los órganos de gobierno, control y ejecutivos)** Se consideran infracciones específicas de las entidades en proceso de adecuación, en trámite de constitución y/o de los miembros de los órganos de gobierno, control y ejecutivos, con carácter enunciativo y no limitativo, las siguientes:
+
+1. Impedir, restringir o limitar el ejercicio de las funciones, facultades y atribuciones de supervisión de la ASFI previstas por Ley;
+2. Incumplir los requerimientos de información o las instrucciones emitidas por la ASFI, en los plazos señalados;
+3. No informar oportunamente a los socios o asociados, situaciones que comprometan la viabilidad de la entidad.
+
+**Artículo 21°.- (Infracciones de peritos y evaluadores)** Se consideran infracciones específicas de peritos tasadores y evaluadores, las siguientes:
+
+1. Llevar a tomar acciones erróneas y no oportunas a la entidad financiera que los contrató, a la ASFI, al BCB, a la Autoridad de Fiscalización y Control de Pensiones y Seguros y/o al Ministerio de Economía y Finanzas Públicas;
+2. Realizar trabajos para una EIF cuando sea cónyuge o pariente de sus directores, consejeros de administración o de vigilancia y gerentes, hasta el cuarto grado de consanguinidad y segundo grado de afinidad.
+
+**Artículo 22°.- (Infracciones de las sociedades controladoras de grupos financieros)** Se consideran infracciones específicas de las Sociedades Controladoras de Grupos Financieros, las siguientes:
+
+1. Adoptar prácticas inapropiadas de gestión del grupo financiero;
+2. Limitar, impedir, negar, obstaculizar y/o restringir a la ASFI practicar efectivamente la supervisión consolidada del grupo financiero;
+3. Incumplir con las medidas prudenciales adicionales que establezca la ASFI, en el marco de lo determinado en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y norma emitida por la ASFI;
+4. No cumplir el correspondiente plan de adecuación conforme lo previsto en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), en caso de que el grupo financiero presente déficit patrimonial respecto del nivel consolidado que enfrenta;
+5. No cumplir el respectivo plan de adecuación, en caso que el grupo financiero presente exceso en los límites al financiamiento previstos en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+6. Incumplir el convenio de responsabilidad suscrito con las EFIG, establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+7. Efectuar actos contrarios a la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y/o norma emitida por la ASFI, respecto a su objeto social, disolución y liquidación, fusión o escisión;
+8. Exponer a riesgos y/o fallas en la gestión de riesgos del grupo financiero, por el incumplimiento a la norma emitida por la ASFI y/o a la norma interna de la sociedad controladora;
+9. Impedir la asistencia de la Directora General Ejecutiva o Director General Ejecutivo de la ASFI o de su delegado designado formalmente, a las sesiones de juntas de accionistas y/o reuniones de directorio, en calidad de observador;
+10. Permitir que las EFIG pacten o concilien acuerdos en detrimento de la sociedad controladora, de una o más EFIG y/o de terceros;
+11. No atender en los plazos y condiciones respectivas y/o de forma diligente, los requerimientos de información y documentación para efectos de la supervisión consolidada que ejerce la ASFI, limitando, impidiendo, negando, obstaculizando y/o restringiendo las tareas de supervisión consolidada;
+12. No registrar, no actualizar y/o no contar con políticas y procedimientos para el registro de la composición accionaria del grupo financiero y/o de las relaciones de control común, en inobservancia a lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y/o la norma aplicable sobre dicho registro;
+13. Permitir o no controlar que las EFIG ejerciten e implementen prácticas comerciales que directa o indirectamente obliguen a los consumidores financieros al uso de servicios de las EFIG pertenecientes al mismo grupo financiero o se restrinja la libertad de los consumidores financieros a elegir alternativas y recurrir al uso complementario de los servicios de otras entidades financieras autorizadas, en incumplimiento a lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+14. Permitir o no controlar que las EFIG realicen operaciones entre ellas que subvalúen o sobrevalúen valores monetarios, contables o bursátiles, a efectos de favorecer ganancias o utilidades ficticias que vayan a incrementar el patrimonio de una o varias de las EFIG, los patrimonios autónomos o de los fondos de inversión que administran las mismas, en inobservancia a lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y norma emitida al efecto;
+15. Efectuar inversiones al margen de lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+16. No controlar o permitir que una o más EFIG efectúen actos propios al objeto social exclusivo de la sociedad controladora;
+17. No mantener el monto de capital pagado mínimo de la sociedad controladora, establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+18. Incumplir lo dispuesto en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y norma conexa, referidos al requerimiento patrimonial del grupo financiero;
+19. No controlar o permitir que las EFIG efectúen operaciones comerciales, financieras o de prestación de servicios entre sí, en condiciones de plazo, tasas, montos, garantías y comisiones, diferentes a las que apliquen en operaciones similares con terceros, en incumplimiento a lo estipulado en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y/o norma reglamentaria;
+20. No llevar un registro de las operaciones comerciales, financieras y de servicios que se realicen entre las EFIG;
+21. No vigilar que las EFIG establezcan, implementen y/o mantengan mecanismos y sistemas de comunicación, coordinación, así como controles internos, necesarios para conocer y adoptar las estrategias generales del grupo financiero;
+22. Contraer deuda con garantía de las acciones que pertenecen a las EFIG;
+23. Incorporar o separar a las EFIG, sin contar con la autorización escrita de la ASFI;
+24. Contratar firmas de auditoría externa que incumplan las directrices o los requisitos exigidos por norma;
+25. No implementar un sistema de gestión integral de riesgos a nivel consolidado o implementar dicho sistema sin que el mismo permita la identificación y administración de los riesgos inherentes al desarrollo de las actividades como grupo financiero;
+26. Incumplir los límites al financiamiento establecidos en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+27. No comunicar el exceso o excesos del grupo financiero a los límites al financiamiento, dentro del plazo y/o conforme los requisitos estipulados en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html);
+28. Ausencia de controles internos efectivos de la sociedad controladora en la preparación y presentación razonable de los estados financieros de la misma y/o estados financieros consolidados;
+29. Elaborar y/o publicar estados financieros consolidados del grupo financiero, en contravención con las normas de contabilidad;
+30. Registrar en el libro de accionistas la adquisición por parte de personas naturales o jurídicas de más del cinco por ciento (5%) del capital suscrito y pagado de la sociedad controladora, sin contar con la autorización de la ASFI;
+31. Incumplir directrices, restricciones y/o controles, en las adquisiciones y/o transmisiones de propiedad accionaria, relativos al cumplimiento de la propiedad de la sociedad controladora de al menos el cincuenta y uno por ciento (51%) de las acciones en cada una de las EFIG;
+32. Celebrar operaciones propias de las EFIG;
+33. Permitir la participación de la EFIG en el capital de la sociedad controladora y/o de las demás EFIG;
+34. Adquirir bienes inmuebles con propósitos ajenos a su objeto social exclusivo;
+35. Prestar o permitir la prestación de servicios administrativos compartidos, sin contar con la no objeción de la ASFI;
+36. Incumplir la norma para la realización del servicio administrativo compartido o no controlar o permitir su incumplimiento por parte de las EFIG;
+37. Prestar o recibir servicios administrativos compartidos a empresas financieras o de empresas financieras, que fueron separadas del grupo financiero o permitir que las EFIG reciban o presten servicios administrativos compartidos de empresas financieras que fueron separadas del grupo financiero;
+38. Incumplir las acciones comprometidas en el plan de acción producto de los procesos de supervisión consolidada llevados a cabo por la ASFI o no remitir el citado plan de acción;
+39. Permitir prácticas contrarias a la transparencia de la información; nn) Ocultar u omitir revelar información que deba ser divulgada;
+40. No aprobar y/o no contar con políticas y procedimientos internos para la gestión integral de riesgos del grupo financiero;
+41. No aprobar, no contar y/o no actualizar las políticas y procedimientos internos para la gestión integral de riesgos del grupo financiero;
+42. Registrar en el Sistema de Registro de Accionistas de la ASFI, información que no cumpla con los criterios de seguridad, integridad, consistencia, veracidad y confiabilidad;
+43. Remitir fuera de plazo o no remitir, el plan de acción de los procesos de supervisión consolidada llevados a cabo por la ASFI;
+44. No asegurar que las EFIG elaboren sus estados financieros aplicando las políticas contables de la sociedad controladora, de forma adicional a los requerimientos efectuados por la norma, a efectos de la consolidación de los estados financieros;
+45. No controlar que las EFIG, dentro de las transacciones registradas en cada cuenta de su sistema contable, implementen procedimientos que permitan una efectiva identificación de las transacciones correspondientes a las operaciones intragrupo;
+46. Emitir informes y reportes de la sociedad controladora sin la firma de la máxima instancia del directorio;
+47. No llevar o no mantener actualizados los libros, registros o archivos, conforme lo exigido por la norma aplicable;
+48. Incumplir la norma relacionada a la seguridad y resguardo de la información y documentación.
+
+**Artículo 23°.- (Infracciones de los directores, síndicos, gerentes, administradores, ejecutivos, apoderados generales, auditores internos y funcionarios de las sociedades controladoras de grupos financieros)** Se consideran infracciones específicas de los directores, síndicos, gerentes, administradores, ejecutivos, apoderados generales, auditores internos y funcionarios de las sociedades controladoras de grupos financieros, las siguientes:
+
+1. Modificar u omitir registros, para ocultar la verdadera naturaleza de los actos celebrados, afectando cualquier concepto de los estados financieros u otros;
+2. Destruir o modificar, total o parcialmente, información, documentos o archivos, incluso aquellos en medios electrónicos, así como los sistemas o registros contables o la documentación que dé origen a los asientos contables, con el propósito de ocultar registros o evidencias;
+3. Tener un conflicto de interés y no excusarse y/o no comunicar sobre un evento relativo a dicho conflicto;
+4. Divulgar o proporcionar información sujeta a reserva y/o confidencialidad que conozca o haya obtenido en el ejercicio de sus funciones, incluso después de haber cesado en las mismas;
+5. Hacer uso indebido de la información a la cual tuvo acceso por sus labores o funciones desempeñadas;
+6. No comunicar a la ASFI y/o las instancias pertinentes de la sociedad controladora, irregularidades, afectaciones y/o desviaciones relacionadas con la sociedad controladora y/o de las EFIG, sobre las cuales haya tomado conocimiento en las labores desempeñadas;
+7. Ejercer funciones cuando se encuentre inhabilitado o suspendido;
+8. Incumplir los deberes y las funciones establecidos por la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), norma emitida por la ASFI y/o norma interna, en el desempeño de sus labores en la sociedad controladora;
+9. No incluir en el plan anual de trabajo de la unidad de auditoría interna de la sociedad controladora, la revisión de prácticas y principios contables aplicados en la consolidación de estados financieros del grupo financiero, el cómp uto del requerimiento patrimonial consolidado, el cumplimiento de límites consolidados, el sistema de gestión integral de riesgos del grupo financiero, así como del cumplimiento a la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y demás norma;
+10. Falta de ejecución, verificación, revisión y/o deficiencias, en las labores establecidas para la unidad de auditoría interna;
+11. Designar a personas en funciones de control, administración, ejecutivas, de representación o como funcionarios, cuando se encuentren comprendidos en los impedimentos legales y norma aplicable o no reúnan las condiciones exigidas por norma;
+12. Influir directa o indirectamente en la sociedad controladora y/o en las EFIG, para obtener ventaja o beneficio propio o de terceros;
+13. Aprobar o consentir con su firma o rúbrica, la afectación de recursos de la sociedad controladora para el pago de multas personales, sin prever el correspondiente reembolso a la sociedad controladora por parte del sancionado;
+14. Emitir, difundir, publicar o proporcionar información al público, accionistas, a la ASFI, sociedad controladora y/o a las EFIG, que induzca al error;
+15. Ocultar u omitir revelar información que deba ser divulgada;
+16. No resguardar la información, documentación y demás elementos utilizados para la elaboración de sus informes u otros que correspondan según su naturaleza;
+17. Emitir informes cuyo contenido sea incompleto, inexacto, incomprensible y/o no verificable;
+18. Incumplir requisitos establecidos en norma relacionados al cargo y responsabilidades asumidas.
+
+## Capítulo III Del régimen sancionatorio
+
+**Artículo 24°.- (Naturaleza de la sanción)** Las sanciones a ser aplicadas, en función del presente Reglamento, son de naturaleza administrativa.
+
+**Artículo 25°.- (Lineamientos generales)** El proceso administrativo sancionatorio se desarrollará en el marco de lo establecido en la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), la [Ley Nº 2341](https://www.lexivox.org//norms/BO-L-2341.html), de 23 de abril de 2002, de Procedimiento Administrativo y el [Decreto Supremo Nº 27175](https://www.lexivox.org//norms/BO-DS-27175.html), de 15 de septiembre de 2003, que reglamenta la [Ley Nº 2341](https://www.lexivox.org//norms/BO-L-2341.html), para el Sistema de Regulación Financiera – SIREFI, siendo de aplicación preferente para efectos del citado proceso, las disposiciones establecidas en el presente Capítulo.
+
+**Artículo 26°.- (Notificación electrónica)** La ASFI dentro del proceso administrativo sancionatorio podrá, previo registro en Ciudadanía Digital y con la conformidad de los sujetos regulados y/o terceros interesados, efectuar notificaciones por medios electrónicos o digitales, en el marco de lo establecido en la [Ley Nº 1080](https://www.lexivox.org//norms/BO-L-N1080.html), de 11 de julio de 2018, de Ciudadanía Digital y norma conexa.
+
+**Artículo 27°.- (Actuaciones por medios electrónicos)** Los sujetos regulados y/o terceros interesados podrán presentar a la ASFI sus descargos, pruebas, alegaciones, explicaciones, informaciones y justificativos, dentro del proceso administrativo sancionatorio a través de medios electrónicos y/o digitales, en el marco de lo dispuesto en la [Ley Nº 1080](https://www.lexivox.org//norms/BO-L-N1080.html), disposiciones regulatorias conexas, y procedimientos aprobados por la ASFI.
+
+**Artículo 28°.- (Aclaración y/o complementación)** 
+
+1. Ante la solicitud de los administrados de aclaración y/o complementación, en el marco de lo establecido en la reglamentación a la [Ley Nº 2341](https://www.lexivox.org//norms/BO-L-2341.html), la ASFI, a través de proveído, resolverá su procedencia o improcedencia dentro del plazo de hasta cinco (5) días hábiles siguientes a su presentación.
+2. En caso de proceder la aclaración y/o complementación de una Resolución Administrativa, se emitirá un acto administrativo de igual jerarquía y dentro del plazo antes señalado.
+
+**Artículo 29°.- (Recursos administrativos)** Las entidades financieras, sociedades controladoras, entidades en proceso de adecuación o en trámite de constitución y/o personas que fueren sancionadas a través de una Resolución Administrativa de la ASFI, consumidores financieros o terceros interesados que consideren afectados sus derechos o intereses legítimos por dicha Resolución Administrativa, podrán interponer los recursos impugnatorios por la vía recursiva determinada por la [Ley Nº 2341](https://www.lexivox.org//norms/BO-L-2341.html).
+
+**Artículo 30°.- (Calificación de la sanción)** 
+
+1. La ASFI calificará en cada caso la sanción a ser aplicada por la comisión de una acción u omisión, con base en los siguientes criterios de gravedad:
+   1. Gravedad Máxima. Cuando la infracción por acción u omisión, no sea enmendable o subsanable, sea resultado de culpa o dolo y causen daño económico o perjuicio a la entidad financiera, al consumidor financiero y/o terceros y sea a beneficio propio o de terceros;
+   2. Gravedad Media. Cuando la infracción por acción u omisión haya sido causada por negligencia, falta de pericia o culpa y causen daño económico o perjuicio a la entidad financiera, al consumidor financiero y/o terceros o en su caso sea en beneficio propio o de terceros;
+   3. Gravedad Leve. Cuando la infracción por acción u omisión, haya sido provocada de manera preterintencional y en el resultado no exista el beneficio propio, de personas relacionadas al infractor o terceros;
+   4. Gravedad Levísima. Cuando la infracción por acción u omisión haya sido cometidas por negligencia o imprudencia del infractor que no causen daño o perjuicio económico a la entidad, consumidores financieros y en general para ninguna persona.
+2. Los criterios contemplados en el Parágrafo precedente, también alcanzarán a todos los sujetos descritos en el ámbito de aplicación del presente Reglamento.
+
+**Artículo 31°.- (Sanciones administrativas)** 
+
+1. Las Sanciones Administrativas que podrá imponer la Máxima Autoridad Ejecutiva de la ASFI, en el marco de lo establecido por la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html) y el presente Reglamento, son las siguientes:
+   1. Amonestación escrita: Llamada de atención escrita que aplica a infracciones calificadas de gravedad leve o levísima, la reincidencia será sancionada con multa pecuniaria;
+   2. Multa pecuniaria: Sanción económica a ser pagada en moneda nacional en los límites determinados por el Artículo 43 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), ante la comisión de una infracción de gravedad media y máxima y en caso de reincidencia en infracciones de gravedad leve o levísima, alcanzando dichos límites, también a las Sociedades Controladoras y a directores, miembros del órgano de control interno, auditores internos, administradores, gerentes, apoderados generales, empleados, ex directores, ex consejeros, ex miembros del citado órgano, ex gerentes, ex administradores, ex apoderados o ex funcionarios de las mismas;
+   3. Suspensión temporal de autorización para apertura de puntos de atención financiera: Limitación, por un plazo determinado, para que una entidad financiera realice la apertura de nuevas oficinas, sucursales, agencias u otros puntos de atención financiera, según corresponda al tipo de entidad, en caso de infracción de gravedad media o máxima;
+   4. Prohibición temporal: Cuando se incurra en infracción de gravedad media o máxima que por su naturaleza o características amerite una sanción mayor a la multa pecuniaria, podrá aplicarse la sanción de restricción para realizar determinadas actividades por un plazo determinado;
+   5. Prohibición definitiva: Restricción permanente para realizar determinadas operaciones, servicios o determinados actos en caso de infracción calificada como gravedad máxima;
+   6. Suspensión temporal: Cuando los directores, consejeros, síndicos, inspectores de vigilancia, fiscalizadores internos, gerentes, administradores, ejecutivos, apoderados generales, auditores internos y funcionarios, incurran en infracción de gravedad media o máxima, que por su naturaleza o característica amerite una sanción mayor a la multa pecuniaria, podrá aplicarse la sanción de restricción para desempeñar cualquier función en la entidad financiera o en la sociedad controladora, por un plazo determinado;
+   7. Suspensión definitiva e inhabilitación: Restricción permanente para los directores, consejeros, síndicos, inspectores de vigilancia, fiscalizadores internos, gerentes, administradores, ejecutivos, apoderados generales, auditores internos y funcionarios, para desempeñar cualquier función en la entidad financiera o en la sociedad controladora, ante la comisión de una infracción de gravedad máxima;
+   8. Cancelación o revocatoria de licencia de funcionamiento: Se dejará sin efecto la autorización para que una entidad financiera o sociedad controladora, desarrolle actividades, por incurrir en una infracción de gravedad máxima o en causales que determinen su intervención para su liquidación, en cuyo caso procederá la revocatoria, una vez concluida la intervención o liquidación dispuesta por la ASFI.
+2. Para los casos de multas pecuniarias máximas a las entidades financieras y a las sociedades controladoras, se aplicarán los límites establecidos en el Parágrafo III del Artículo 43 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), en tanto que, para las personas naturales o jurídicas que no sean entidades financieras o sociedades controladoras, corresponderá lo siguiente:
+   1. Gravedad media: La multa no deberá exceder el cinco por ciento (5%) del patrimonio de la persona jurídica o hasta cinco (5) veces la remuneración o ingreso mensual de la persona natural;
+   2. Gravedad leve: La multa no deberá exceder el uno coma cinco por ciento (1,5%) del patrimonio de la persona jurídica o hasta tres (3) veces la remuneración o ingreso mensual de la persona natural;
+   3. Gravedad levísima: La multa no deberá exceder el cero coma tres por ciento (0,3%) del patrimonio de la persona jurídica o hasta dos (2) veces la remuneración o ingreso mensual de la persona natural.
+3. La determinación del plazo de suspensión o prohibición temporal deberá ser proporcional en función al beneficio propio o de terceros y/o el daño o perjuicio ocasionado.
+
+**Artículo 32°.- (Sanciones a firmas de auditoría externa)** 
+
+1. La firma de auditoría externa que incurra en incumplimiento a la norma será sancionada de acuerdo con la gravedad de la infracción.
+2. Cuando la infracción sea de gravedad máxima, las firmas de auditoría externa serán sancionadas con la exclusión definitiva del Registro de Firmas de Auditoría Externa de la ASFI.
+
+**Artículo 33°.- (Agravante por reincidencia)** 
+
+1. Existirá reincidencia cuando el infractor sancionado, mediante Resolución Administrativa, incurra en la misma infracción con identidad de conducta y norma vulnerada, que provocó la sanción, siempre y cuando ésta haya sido cometida en la misma gestión.
+2. La reincidencia conllevará el agravamiento de la sanción, implicando la imposición de una sanción mayor, conforme lo dispuesto en el Artículo 47 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html).
+3. Para la deficiencia en encaje legal y las multas por retraso en el envío de información periódica no aplica la reincidencia.
+
+**Artículo 34°.- (Sanciones por infracción a la constitución del encaje legal)** 
+
+1. La no constitución o la deficiencia en la constitución de encaje legal, es una infracción que será sancionada con multa del dos por ciento (2%) de la deficiencia promedio incurrida en el período de dos (2) semanas.
+2. En caso de continuar la deficiencia por cada período sucesivo de dos (2) semanas, se impondrá el doble de la multa establecida en el Parágrafo I del presente Artículo.
+3. El importe de las multas por la no constitución o la deficiente constitución del encaje legal, debe ser depositado en la cuenta corriente habilitada por la ASFI. El comprobante del depósito realizado debe ser enviado a la ASFI, en el plazo de veinticuatro (24) horas de efectuada la cancelación.
+4. Si vencido el plazo de dos (2) días hábiles de establecida la multa en la respectiva Resolución Administrativa Sancionatoria, la entidad financiera no realizara el pago de la misma, la ASFI comunicará al BCB para que efectúe el débito del importe de cualquiera de las cuentas de encaje legal que la entidad financiera infractora mantenga con el ente emisor.
+5. La ASFI podrá suspender la aplicación de multas por desencaje por causa de fuerza mayor verificada.
+
+**Artículo 35°.- (Sanciones por incumplimiento en el envío de información periódica)** 
+
+1. Las entidades financieras y las sociedades controladoras que incumplan con el envío de información periódica impresa o electrónica o inobserven los plazos, formatos, requisitos y condiciones de presentación previstos en la norma, serán pasibles a sanción con multa, considerando las siguientes categorías:
+   1. Categoría 1: Sociedad controladora de un grupo financiero, Banco Público, Banco de Desarrollo Productivo, Banco de Desarrollo Privado, Banco Múltiple, Banco PYME y Entidad Financiera Pública de Desarrollo;
+   2. Categoría 2: Entidad Financiera de Vivienda, Institución Financiera de Desarrollo, Cooperativa de Ahorro y Crédito, Empresa de Arrendamiento Financiero y Entidad Financiera Comunal;
+   3. Categoría 3: Empresa de Servicios de Pago Móvil, Empresa Administradora de Tarjetas Electrónicas, Empresa de Transporte de Material Monetario y Valores, Cámara de Compensación y Liquidación, Almacén General de Depósito, Buró de Información y Empresa de Factoraje;
+   4. Categoría 4: Empresa de Giro y Remesas de Dinero y Casa de Cambio.
+2. La escala de multas por el retraso en el envío de información periódica de entidades financieras y sociedades controladoras, en función a las categorías descritas en el Parágrafo I del presente Artículo, será la siguiente:
+     
+   Escala de Multas por el Retraso en el Envío de Información Periódica
+
+   |  |  |  |
+   | --- | --- | --- |
+   | Categoría | Del 1° al 5° Día de Retraso (\*) | Del 6° al 30° Día de Retraso (\*) |
+   | 1 | UFV210 por día | UFV340 por día |
+   | 2 | UFV65 por día | UFV105 por día |
+   | 3 | UFV15 por día | UFV30 por día |
+   | 4 | UFV5 por día | UFV10 por día |
+
+     
+   (\*) Días calendario.
+3. La multa será pagada en moneda nacional, utilizando el valor de la Unidad de Fomento de Vivienda – UFV a la fecha de pago, publicado por el BCB.
+4. Con posterioridad al trigésimo día calendario de vencido el plazo establecido para el envío de información periódica, ésta se considerará como no presentada, correspondiendo la aplicación de una multa equivalente a treinta (30) días calendario de retraso. La aplicación de la multa no implica la exoneración de la obligación del envío de la información periódica.
+5. El cómputo de multas por retrasos en el envío de información periódica, en los casos de reprocesos o reenvíos, por contener información incompleta, inconsistente y/o con errores, será efectuado de acuerdo a lo establecido en los Parágrafos II, III y IV del presente Artículo, a partir del día siguiente hábil de notificado el reproceso o reenvío.
+6. No se considerará infracción por retraso o incumplimiento en el envío, reenvío o reproceso de información periódica, cuando exista caso fortuito o fuerza mayor, debiendo en ambos casos ser comprobada.
+
+**Artículo 36°.- (Responsabilidad solidaria ante la sociedad controladora)** El director, síndico, auditor interno, administrador, gerente, apoderado general o funcionario de la sociedad controladora, que con conocimiento ejecute o permita que se realicen actuaciones u operaciones prohibidas, restringidas o no autorizadas por norma, son solidariamente responsables frente a la sociedad controladora, conforme lo señalan los Artículos 321, 322, 323 y 327 del Código de Comercio, sin perjuicio de que la ASFI eleve obrados al Ministerio Público para que promueva la acción penal conforme a lo previsto en el Artículo 225 de la Constitución Política del Estado.
+
+**Artículo 37°.- (Ejecución de actos administrativos definitivos)** 
+
+1. La ASFI ejecutará sus resoluciones conforme al procedimiento establecido por la [Ley Nº 2341](https://www.lexivox.org//norms/BO-L-2341.html), decretos reglamentarios y las normas contenidas en el presente Reglamento, sólo cuando se haya agotado la vía administrativa.
+2. Son medios de ejecución coactiva de actos administrativos definitivos emitidos por la ASFI:
+   1. La imposición de multas diarias progresivas hasta por treinta (30) días calendario;
+   2. La ejecución por un tercero a costa del deudor;
+   3. La ejecución judicial forzada de bienes.
+3. La multa diaria progresiva, prevista en el inciso a) del Parágrafo precedente, por incumplimiento de la Resolución Administrativa, será de uno (1) a diez (10) días calendario, el equivalente a UFV1.000 (UN MIL UNIDADES DE FOMENTO DE VIVIENDA) por cada día de incumplimiento; del día once (11) al día veinte (20) calendario, el equivalente a UFV2.000 (DOS MIL UNIDADES DE FOMENTO DE VIVIENDA) por cada día de incumplimiento; y del día veintiuno (21) al día treinta (30) calendario, el equivalente a UFV3.000 (TRES MIL UNIDADES DE FOMENTO DE VIVIENDA) por cada día de incumplimiento.
+4. Vencido el plazo de treinta (30) días calendario señalado en el Parágrafo precedente, la ASFI emitirá la conminatoria para el cumplimiento de la sanción.
+5. Si habiendo transcurrido treinta (30) días hábiles, desde la notificación con la conminatoria y la misma no haya sido cumplida, la ASFI emitirá resolución determinativa estableciendo montos líquidos y exigibles referidos a la sanción, costos de ejecución por tercero y monto acumulado de multas.
+6. La ejecución forzada de bienes estará destinada a cubrir la obligación establecida en la resolución determinativa del monto de la sanción, costo de ejecución por terceros y el acumulado de la multa.
+7. En el caso determinado en el Parágrafo anterior y en el marco de lo previsto por el Artículo 504 de la [Ley Nº 393](https://www.lexivox.org//norms/BO-L-N393.html), los miembros del directorio u órgano equivalente y los administradores de la EIF serán sometidos a proceso sancionatorio.
+8. La ejecución de deficiencias de encaje legal, se regirá únicamente por lo dispuesto en el Artículo 34 del presente Reglamento.
+
+**Artículo 38°.- (Destino de las multas)** El destino de las multas resultantes de las sanciones previstas en el presente Reglamento, se constituirán en ingresos para el Tesoro General de la Nación – TGN.
+
+**Artículo 39°.- (Central de información de reclamos y sanciones)** 
+
+1. La ASFI llevará un registro histórico denominado Central de Información de Reclamos y Sanciones, base de datos que será de acceso público a través de su sitio web, registrando sistemáticamente y de manera clara las estadísticas de los reclamos por tema y entidad, presentados por los consumidores financieros a las entidades financieras.
+2. En la Central de Información de Reclamos y Sanciones también se registrarán las sanciones que se encuentren firmes en sede administrativa emitidas por la ASFI a las EIF.
+
+**Artículo 40°.- (Obligación de informar sobre las sanciones impuestas)** Las sanciones que imponga la Directora General Ejecutiva o Director General Ejecutivo de la ASFI serán puestas en conocimiento del directorio u órgano equivalente, debiendo el presidente del directorio u órgano equivalente, informar a la junta general de accionistas o asamblea de socios o asociados sobre todas las sanciones impuestas.
+
+## Capítulo IV Reparación de daño y de la restitución de derechos conculcados
+
+**Artículo 41°.- (Solicitud de reparación de daños)** 
+
+1. El consumidor financiero podrá solicitar a la ASFI que, además de las sanciones administrativas, se incluya si correspondiese, la obligación por parte de la entidad financiera de cubrir todos los gastos, pérdidas, daños y perjuicios ocasionados por la transgresión de las normas, cuando el daño no supere el cero coma cinco por ciento (0,5%) del capital mínimo requerido para la entidad financiera.
+2. A efectos de lo dispuesto en el Parágrafo anterior se deberán cumplir los siguientes requisitos:
+   1. Fundamentar la solicitud de reparación de daño;
+   2. Cuantificar el daño, gasto, pérdida o perjuicio sufrido adjuntando las pruebas de respaldo correspondientes.
+3. El consumidor financiero podrá requerir a la ASFI que, en el marco de sus competencias, realice las actuaciones o diligencias que sean necesarias y pertinentes, relacionadas con la entidad financiera a los efectos de obtener medios probatorios para respaldar la existencia y veracidad del daño, gasto, pérdida o perjuicio reclamados.
+4. Verificado el cumplimiento de los requisitos para la solicitud de reparación del daño, la ASFI pondrá la misma en conocimiento de la entidad financiera con la notificación de cargos por el presunto incumplimiento.
+
+**Artículo 42°.- (Evaluación para la reparación del daño reclamado)** 
+
+1. Efectuada la notificación de cargos, la entidad financiera, podrá presentar pruebas de descargo respecto a los incumplimientos notificados y al daño, gasto, pérdida o perjuicio sufrido y reclamado por el consumidor financiero, dentro del plazo otorgado para la presentación de descargos.
+2. La ASFI dentro del proceso administrativo sancionatorio, evaluará la prueba y los descargos presentados, a efecto de determinar los incumplimientos y la reparación del daño reclamado, si corresponde.
+3. No será admitida la solicitud de reparación de daños en la vía administrativa, en caso de haberse interpuesto una demanda de reparación de daños y perjuicios en instancia judicial, arbitral u otra administrativa, de forma paralela o previa a este procedimiento.
+4. Para el caso de resarcimiento de daños y perjuicios, la carga de la prueba recaerá sobre el consumidor financiero, salvando lo establecido en el Parágrafo III del Artículo 41 del presente Reglamento.
+
+**Artículo 43°.- (Restitución de derechos conculcados)** La ASFI, en caso de identificar dentro el proceso sancionatorio conductas de una entidad financiera que vulneren o transgredan los derechos de los consumidores financieros, instruirá de ofic io a la entidad financiera, la restitución de los mismos.
+
+---
+
+Reglamento anexo al [Decreto Supremo Nº 4755](https://www.lexivox.org//norms/BO-DS-N4755.html) promulgado a los trece días del mes de julio del año dos mil veintidós.

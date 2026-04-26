@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 24228, 8 de febrero de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Considerando:
+
+* Que el Tratado de Montevideo de 1980, suscrito por la República de Bolivia en 12 de agosto de 1980 y ratificado por [Decreto Supremo Nº 18508](https://www.lexivox.org//norms/BO-DS-18508.html) de23 de julio de 1981, instituyó la Asociación Latinoamericana de Integración, ALADL en sustitución de la Asociación Latinoamericana de Libre Comercio, ALALC;
+* Que el Gobierno de Bolivia y los gobiernos de los Estados Partes del MERCOSUR firmaron el 7 de diciembre de 1995, el acuerdo de alcance parcial de complementaron económica 34, puesto en vigencia por el [Decreto Supremo Nº 24201](https://www.lexivox.org//norms/BO-DS-24201.html) de 23 de diciembre de 1995, que concretó la multilateralización de las preferencias que se tenían negociadas en los acuerdos de alcance parcial de complementaron económica números 19, 26, 29 y 15, suscritos por Bolivia en el marco del Tratado de Montevideo 1980 con Argentina, Brasil, Paraguay y Uruguay, respectivamente.
+* Que fue suscrito por el Gobierno de la República de Bolivia y los gobiernos de los Estados Panes del MERCOSUR, el primer protocolo adicional al acuerdo de complementaron económica 34, el 26 de diciembre de 1995. con el fin de registrar los cuatro anexos del referido acuerdo.
+* Que es necesario disponer la vigencia administrativa del citado instrumento jurídico internacional, para el cumplimiento de los compromisos internacionales asumidos por el Gobierno de Bolivia, de conformidad a lo establecido en el inciso el del artículo 127 del [Decreto Supremo Nº 21660](https://www.lexivox.org//norms/BO-DS-21660.html) de 10 de julio de 1987.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Dispónese la vigencia administrativa del primer protocolo adicional al Acuerdo de Alcance Parcial de Complementaron Económica 34 suscrito en la ciudad de Montevideo, Uruguay, el 26 de diciembre de 1995, por el Gobierno de Bolivia y por los gobiernos de las Repúblicas de Argentina, Brasil, Paraguay y Uruguay, estados partes del MERCOSUR, depositado y registrado en la Secretaría General de la Asociación Latinoamericana de Integración (ALADI), que incorpora al acuerdo cuatro anexos Los anexos I y II incluyen las preferencias y demás condiciones para la importación de productos negociados originarios de los respectivos territorios de las partes signatarias, clasificados de conformidad con la nomenclatura arancelaria de la asociación (NALADISA). El anexo III se refiere al régimen de origen y el anexo IV a la solución de controversias.
+
+---
+
+Los Señores Ministros de Estado en los despachos de Relaciones Exteriores y Culto así como Hacienda y Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los ocho días del mes de febrero de mil novecientos noventa y seis años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzain, Jorge Otasevic Toledo, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer, Femando Candia Castillo, Freddy Teodovich Ortiz, Moisés Jarmúsz Levy, Reynaldo Peters Arzabe, Irving Alcaráz del Castillo, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés

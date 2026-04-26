@@ -1,0 +1,25 @@
+# Bolivia: Decreto Supremo Nº 8621, 28 de enero de 1969
+
+[Decreto Supremo Nº 08621](https://www.lexivox.org//norms/BO-DS-8621.html)  
+RENE BARRIENTOS ORTUÑO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que numerosos contribuyentes del Fisco han pedido al Supremo Gobierno la ampliación del término para la cancelación de impuestos con la condenación de intereses, multas y recargos establecida por el [Decreto Supremo Nº 8597](https://www.lexivox.org//norms/BO-DS-8597.html) el 11 de diciembre de 1968 en atención a que no han podido beneficiarse con dichas ventajas durante la vigencia del Decreto, por circunstancias propias del último mes del año en que existe multiplicidad de obligaciones que atender, aparte de que numerosas instituciones cerraron sus operaciones de préstamo con motivo de balance y otros, dificultándose así el pago de los impuestos en la forma permitida por el [Decreto Supremo Nº 8597](https://www.lexivox.org//norms/BO-DS-8597.html).
+* Que son atendibles los argumentos expuestos, correspondiendo en consecuencia conceder la prórroga solicitada.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Prorrógase hasta el 31 de enero del presente año los efectos del [Decreto Supremo Nº 8597](https://www.lexivox.org//norms/BO-DS-8597.html), de 11 de diciembre de 1968, que faculta a los deudores de impuestos devengados, nacionales, departamentales y municipales, cancelar sus obligaciones con condonaciones de intereses y multas en forma proporcional a los montos que se paguen al contado.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de enero de 1969 años.
+  
+FDO. GRAL. RENE BARRIENTOS ORTUÑO, Víctor Hoz de Vila, Cap. David Fernández Viscarra, Enrique Gallardo B., Rolando Pardo Rojas, Angel Baldivieso, Gustavo Méndez Torrico, Edwin Tapia, Hugo Suárez Guzmán, Alberto Larrea Humerez, René Baldivieso, Joaquín Villanueva, Ignacio Paravicini, Alvaro Torrico, Jorge Ríos Gamarra.

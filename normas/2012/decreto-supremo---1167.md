@@ -1,0 +1,58 @@
+# Bolivia: Decreto Supremo Nº 1167, 14 de marzo de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 5 del Parágrafo I del Artículo 328 de la [Constitución Política del Estado](https://www.lexivox.org//norms/BO-CPE-20090207.html), establece que es atribución del Banco Central de Bolivia - BCB, entre otras, en coordinación con la política económica determinada por el Órgano Ejecutivo, la administración de las reservas internacionales, constituidas por varios activos de aceptación internacional, entre ellos el oro monetario.
+* Que la [Ley Nº 843](https://www.lexivox.org//norms/BO-L-843.html), establece que el Impuesto al Valor Agregado - IVA, forma parte integrante del precio neto de venta del bien, del servicio o prestación gravada y se factura juntamente con éste, sin mostrarse por separado.
+* Que la [Ley Nº 175](https://www.lexivox.org//norms/BO-L-N175.html), de 11 de octubre de 2011, autoriza al BCB a comprar oro en barras destinado al incremento de las Reservas Internacionales de Oro. Asimismo, el Artículo 5 de esta ley, dispone que el Órgano Ejecutivo reglamentará dicha norma.
+* Que el Órgano Ejecutivo ha establecido como política, que el oro producido en territorio nacional forme parte de las Reservas Internacionales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar parcialmente la [Ley Nº 175](https://www.lexivox.org//norms/BO-L-N175.html), de 11 de octubre de 2011, estableciendo las condiciones, requisitos y procedimientos necesarios para la compra de oro por parte del Banco Central de Bolivia - BCB, a las Empresas Mineras Estatales, destinado al incremento de las Reservas Internacionales.
+
+**Artículo 2°.- (Condiciones de entrega del oro)** 
+
+1. Las Empresas Mineras Estatales entregarán con carácter provisional al BCB, sin que ello implique la traslación de dominio, oro fundido en barras con un peso entre cinco (5) a diez (10) kilos y un porcentaje de pureza mínima del noventa por ciento (90%) acompañando certificación de laboratorio acreditado, para su análisis. Las barras de oro deberán tener el sello de identificación de las Empresas Mineras Estatales y un número serial correlativo.
+2. El BCB entregará en calidad de garantía el monto equivalente de al menos el ochenta por ciento (80%) sobre el porcentaje mínimo de pureza de cada barra de oro conforme el Parágrafo I del presente Artículo, y en base a la cotización internacional del oro establecida en la Tabla de Cotizaciones del BCB en la fecha de entrega provisional del oro.
+3. El BCB a través de su Directorio definirá el Reglamento de entrega del oro; así como el tratamiento de las barras de oro entregadas que no cumplan con el porcentaje de pureza mínimo establecido en el Parágrafo I del presente Artículo.
+
+**Artículo 3°.- (Determinación del importe final, liquidación y facturación)** 
+
+1. El BCB determinará el importe final a ser pagado en base a la cotización publicada en la Tabla de Cotizaciones del BCB y el análisis de porcentaje de pureza, en la fecha en la que reciba los análisis; importe sobre el cual se aplicará la tasa efectiva del Impuesto al Valor Agregado - IVA.
+2. El BCB efectuará la liquidación definitiva descontando la garantía entregada, conforme el Parágrafo II del Artículo 2 del presente Decreto Supremo, y la emisión de la factura de venta por el importe total por parte de las Empresas Mineras Estatales.
+
+**Artículo 4°.- (Costos asumidos por los vendedores de oro)** Las Empresas Mineras Estatales asumirán los costos de fundición, transporte, seguridad y los que correspondan, hasta el momento de la entrega del oro al BCB.
+
+**Artículo 5°.- (Costos asumidos por el BCB)** El BCB asumirá los costos por la contratación de los servicios de muestreo, pruebas de laboratorio, transporte y refinación del oro desde el momento de la entrega provisional del metal, en el marco del Reglamento a ser aprobado por el BCB.
+
+**Artículo 6°.- (Verificación del grado de pureza del oro)** 
+
+1. A objeto de verificar el porcentaje de pureza del oro, se tomarán tres (3) muestras de las barras de oro al momento de la entrega provisional del metal al BCB. La primera, corresponderá al BCB y será enviada a un laboratorio certificado internacionalmente para su análisis. La segunda, será entregada al vendedor, la cual podrá ser sujeta a una prueba de laboratorio, cuyo costo será asumido por el mismo. La tercera muestra, será dirimidora y quedará en custodia del BCB, misma que será sometida a prueba de laboratorio en caso de que los resultados de las dos (2) pruebas anteriores difieran en el grado de pureza del oro, más allá del margen de error admisible establecido por el BCB en su Reglamento.
+2. Los costos de la prueba dirimidora emergente serán asumidos por la parte cuyo resultado de laboratorio tenga mayor diferencia respecto a los resultados de la tercera prueba.
+3. El peso final de la barra no incluirá el peso de las muestras correspondientes al vendedor y a la prueba dirimidora. Una vez concluida la operación el BCB devolverá al vendedor la muestra de la prueba dirimidora.
+
+**Artículo 7°.- (Regulaciones administrativas)** 
+
+1. El BCB, en el marco del Artículo 3 de la [Ley Nº 175](https://www.lexivox.org//norms/BO-L-N175.html), mediante Resolución de su Directorio, reglamentará los procedimientos operativos de la compra del oro, incluyendo el lugar de las operaciones de compra, el porcentaje de la garantía, el margen de error admisible en el grado de pureza del oro, condiciones de seguridad y resguardo de las barras de oro.
+2. El BCB establecerá un cronograma y volúmenes de compra de oro.
+
+**Artículo 8°.- (Notas de crédito fiscal)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a emitir Notas de Crédito Fiscal fraccionables y negociables con cargo al Presupuesto General del Estado de cada gestión a favor del BCB, a objeto de que el Ente Emisor asuma la tasa efectiva del IVA, por la compra de oro en barras a Empresas Mineras Estatales, destinado a las Reservas Internacionales.
+2. El BCB solicitará al Ministerio de Economía y Finanzas Públicas, en forma anticipada al pago del importe final del precio de compra de oro, la entrega de las Notas de Crédito Fiscal por el monto equivalente a la tasa efectiva del IVA, que serán entregadas en un plazo no mayor a cinco (5) días hábiles a partir de la solicitud.
+3. El Ministerio de Economía y Finanzas Públicas y el BCB efectuarán conciliaciones mensuales a efectos de compensar las posibles diferencias entre los importes de las notas de crédito fiscal emitidas y el IVA pagado por el BCB.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Minería y Metalurgia, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de marzo del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga, MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL E INTERINA DE ECONOMÍA Y FINANZAS PÚBLICAS, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola MINISTRA DE DESARROLLO RURAL Y TIERRAS E INTERINA DE MEDIO AMBIENTE Y AGUA, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.
