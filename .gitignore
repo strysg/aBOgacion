@@ -9,3 +9,24 @@ auto-save-list
 tramp
 .\#*
 .#*
+
+# logs
+logs/
+
+logs/
+venv/
+data/
+
+# browser state
+fb_browser_state.json
+
+# local files
+*.local.py
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/

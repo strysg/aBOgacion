@@ -10,7 +10,7 @@ Licencia GPL v3 para el software.
 
 Requisitos:
 
-`pip install beautifulsoup4 markdownify lxml`
+`pip install beautifulsoup4 markdownify lxml playwright asyncclick asyncio click`
 
 ## Datos
 
