@@ -22,26 +22,26 @@ LOGGER = CustomLogger('gaceta - metadata ')
 selectors = {
     "lista de normas": {
         "título": {
-            "value": "//div[@class='row']//h6",
-            "type": "xpath"
+            "value": "//div[@id='main_content']//div[@class='row']//h6",
+            "stype": "xpath"
         },
         'código': {
             "value": "//div[@class='row']//div[@class='card-body']//p[contains(text(), 'Publicado en')]/strong/a",
-            "type": "xpath"
+            "stype": "xpath"
         },
         "cabecera meta": {
             "value": "//div[@class='row']//div[@class='card-body']//p[contains(text(), 'Publicado en')]",
             # para obtener la fecha de publicación hay que filtrar el texto entre '| Fecha de Publicación: <fecha> |'
             #  | Fecha de Publicación: 2025-11-09 |  Formato de fecha YYYY-MM-DD
-            "type": "xpath"
+            "stype": "xpath"
         },
         "enlace": {
             "value": "//div[@class='row']//div[@class='card-footer bg-transparent text-end']/a[text()='Ver Norma']",
-            "type": "xpath"
+            "stype": "xpath"
         },
         "botón siguiente": {
             "value": "//div[@class='paging']/a[not(@class='disabled')][text()='siguiente >>']",
-            "type": "xpath"
+            "stype": "xpath"
         }
     }
 }
@@ -71,11 +71,14 @@ async def obtener_metadata(desde_fecha, hasta_fecha):
     else:
         until_date = datetime_from_yyyymmdd(until_date)
 
-    url = f'http://www.gacetaoficialdebolivia.gob.bo/normas/buscarFecha/{from_date}/{until_date}/page:1'
+
+    base_url = 'http://www.gacetaoficialdebolivia.gob.bo'
+        
+    url = f'{base_url}/normas/buscarFecha/{from_date}/{until_date}/page:1'
     print(url)
 
     metadata = []
-    archivo_metadata = os.path.join('..','..','..','normas',f'{today_yyyymmdd()}_gaceta_metadata.json')
+    archivo_metadata = os.path.join('normas',f'{today_yyyymmdd()}_gaceta_metadata.json')
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
@@ -86,58 +89,67 @@ async def obtener_metadata(desde_fecha, hasta_fecha):
         )
         page = await context.new_page()
         await page.goto(url, wait_until="networkidle")
-        await random_sleep(5, 12)
+        await random_sleep(2, 9)
 
-        btn_siguiente_el = await get_all_elements_from_locator(selectors['lista de normas']['botón siguiente'])
+        btn_siguiente_el = await get_all_elements_from_locator(page, selectors['lista de normas']['botón siguiente'])
 
         normas_pagina = []
+        pagina = 0
         # Página por página
         while True:
-            titulos_el = await get_all_elements_from_locator(
+            print(f'------ página: {pagina} -------')
+            titulos_el = await get_all_elements_from_locator(page,
                 selectors['lista de normas']['título'])
-            codigos_el = await get_all_elements_from_locator(
+            codigos_el = await get_all_elements_from_locator(page,
                 selectors['lista de normas']['código'])
-            cabeceras_el = await get_all_elements_from_locator(
+            cabeceras_el = await get_all_elements_from_locator(page,
                 selectors['lista de normas']['cabecera meta'])
-            enalces_el = await get_all_elements_from_locator(
+            enlaces_el = await get_all_elements_from_locator(page,
                 selectors['lista de normas']['enlace'])
 
             # extrayendo datos de cada norma
-            for i, titulo_el in enumerate(titulos_el):
-                print(f'----- pág. {i} -----')
+            for i in range(0, len(titulos_el)):
+                print(f'norma. {i}:')
                 norma = {}
-                norma['nombre'] = titulo_el.inner_text()
-                norma['nroEnGaceta'] = codigos_el[i].inner_text()
-                cabecera_text = cabeceras_el[i].inner_text()
-                norma['fecha'] = cabecera_text.split('| Fecha de Publicación: ').split(' |')[0]
+                norma['nombre'] = (await titulos_el[i].inner_text()).strip()
+                norma['nroEnGaceta'] = await codigos_el[i].inner_text()
+                cabecera_text = await cabeceras_el[i].inner_text()
+                norma['fecha'] = cabecera_text.split('| Fecha de Publicación: ')[1].split(' |')[0]
                 fecha = datetime_from_yyyymmdd(norma['fecha'])
                 norma['MM/AAAA'] = fecha.strftime('%m/%Y')
                 norma['mesAnio'] = f'{mes_from_number(fecha.strftime("%m"))}/{fecha.year}'
                 norma['tipoNorma'] = norma['nombre'].split(' N°')[0]
-                norma['enalceNorma'] = enlaces_el[i].get_attribute('href')
-                # {
-                #     "enlaceNorma": "https://www.lexivox.org/norms/BO-L-N1690.xhtml",
-                #     "nroEnGaceta": " 1963nec",
-                #     "tipoNorma": "Ley",
-                #     "mesAnio": "noviembre/2025",
-                #     "MM/AAAA": "11/2025",
-                #     "nombre": "Ley - 1690"
-                # },
+                enlace = await enlaces_el[i].get_attribute('href')
+                norma['enlaceNorma'] = f"{base_url}{enlace}"
+
+                # Deberia estar en formato como el ejemplo:
+                # "nombre": "Decreto Presidencial N° 5487",
+                # "nroEnGaceta": "1965NEC",
+                # "fecha": "2025-11-13",
+                # "MM/AAAA": "11/2025",
+                # "mesAnio": "noviembre/2025",
+                # "tipoNorma": "Decreto Presidencial",
+                # "enalceNorma": "/normas/verGratis_gob/280965",
+                # "enlaceNorma": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/280965"
 
                 print(norma)
                 metadata.append(norma)
                 
-                guardar_progreso(metadatos, archivo_metadata)
+                guardar_progreso(metadata, archivo_metadata)
 
-            btn_siguiente_el = await get_all_elements_from_locator(
-                selector['lista de normasl']['botón siguiente'])
+            btn_siguiente_el = await get_all_elements_from_locator(page,
+                selectors['lista de normas']['botón siguiente'])
 
             if len(btn_siguiente_el) > 0:
-                await btn_siguiente_el.click()
+                await btn_siguiente_el[0].click()
+                # TODO: Cambiar a networkidle o hasta que se cargue la página
+                await random_sleep(4,10)
             else:
                 break
 
-        print(f'Terminado, obtenidos en total: {len(metadata)}')
+            pagina += 1
+
+        print(f'Terminado, obtenidos en total: {len(metadata)}. Páginas: {pagina}')
 
 
         

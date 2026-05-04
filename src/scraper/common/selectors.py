@@ -4,6 +4,11 @@ Copyright Rodrigo Garcia 2026
 
 Functions modified from gobbo-datos
 """
+from src.common.custom_logger import CustomLogger
+
+
+LOGGER = CustomLogger('selectors ')
+
 
 def get_selector_value(selector, *args):
     """Helps checking the selector value.
