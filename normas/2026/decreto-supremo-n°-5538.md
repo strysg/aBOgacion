@@ -1,0 +1,67 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5538**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el Parágrafo II del Artículo 8 de la Constitución Política del Estado determina que el Estado se sustenta en una serie de valores, entre ellos el de transparencia y responsabilidad que tienen como finalidad el Vivir Bien.
+
+Que los numerales 1 y 8 del Artículo 172 de la Constitución Política del Estado establecen que son atribuciones de la Presidenta o del Presidente del Estado, además de las que establece la Constitución y la ley, cumplir y hacer cumplir la Constitución y las Leyes; y dictar decretos supremos y resoluciones, concordantes con los numerales 1 y 2 del Artículo 235 del Texto Constitucional, que señalan que es obligación de las servidoras y los servidores públicos cumplir la Constitución y las leyes; y cumplir con sus responsabilidades, de acuerdo con los principios de la función pública.
+
+Que el Artículo 213 de la Constitución Política del Estado dispone que la Contraloría General del Estado es la institución técnica que ejerce la función de control de la administración de las entidades públicas y de aquéllas en las que el Estado tenga participación o interés económico. La Contraloría está facultada para determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal; tiene autonomía funcional, financiera, administrativa y organizativa. y su organización, funcionamiento y atribuciones, que deben estar fundados en los principios de legalidad, transparencia, eficacia, eficiencia, economía, equidad, oportunidad y objetividad, se determinarán por la ley.
+
+Que el Artículo 214 del Texto Constitucional establece que la Contralora o Contralor General del Estado se designará por dos tercios de votos de los presentes de la Asamblea Legislativa Plurinacional. La elección requerirá de convocatoria pública previa, y calificación de capacidad profesional y méritos a través de concurso público, concordante con el Artículo 3 de la Ley N° 381, de 20 de mayo de 2013, de AplicaciónNormativa.
+
+Que el Artículo 70 del Decreto Supremo N° 23215, de 22 de julio de 1992, dispone que el Contralor General de la República actual Contralor General del Estado comunicará al Presidente de la República actual Presidente del Estado Plurinacional cuando deba ausentarse del país. El Contralor designará mediante resolución expresa al servidor público de la Contraloría que habrá de reemplazarlo en caso de ausencias temporales, escogido entre los cinco principales ejecutivos que le siguen en jerarquía. En la eventualidad de no existir resolución expresa, lo reemplazará el Subcontralor General.
+
+Que el Artículo 216 de la Constitución Política del Estado señala que la Contralora o Contralor General del Estado ejercerá sus funciones por un periodo de seis años, sin posibilidad de nueva designación.
+
+**CONSIDERANDO:**
+
+Que la Sentencia Constitucional Nº 0129/2004, de 10 de noviembre de 2004, llegó al razonamiento de que la obligatoriedad de cumplir con los dos tercios de votos para nombrar autoridades, se lo hizo con el propósito de que las fuerzas políticas, por consenso garanticen dichos nombramientos, como la mejor forma de reflejar la voluntad ciudadana en el marco de la soberanía del pueblo y nos remite a las Sentencias Constitucionales N° 0491/2003, 0218/2004 y 0129/2004, para modular que las designaciones interinas realizadas por el "Poder Ejecutivo", no vulneran la independencia de los otros Órganos del Estado.
+
+Que la Sentencia Constitucional Nº 0218/2004 – R, de 11 de febrero de 2004, reconoce al Presidente, la facultad de nombrar interinamente a ciertos servidores públicos que en principio corresponde a otro Órgano del Estado, como el Legislativo, fundada en que el interés nacional lo justifique y lo requiera; y así ratifica el Tribunal Constitucional en la Declaración Constitucional 01/2002, de 15 de mayo, que implícitamente determina el principio de que el Presidente de la República puede efectuar las designaciones interinas en circunstancias en que el interés nacional lo justifique y lo requiera; sin que ello signifique que esté sujeto a la voluntad del Primer Mandatario, sino que deben concurrir circunstancias especiales que den lugar a la existencia de razones debidamente justificadas de interés nacional, para prescindir del procedimiento y formalidades previstas por Ley.
+
+**CONSIDERANDO:**
+
+Que el Artículo 70 del Decreto Supremo N° 23215 prevé únicamente la designación de Contralora o Contralor General interino en caso de ausencia temporal del Titular, no existiendo previsión legal alguna para el nombramiento de interinato en caso de ausencia definitiva por cumplimiento del mandato del titular.
+
+Que en base a dichas consideraciones, no debe existir ausencia de alguna de las autoridades de los Órganos o Instituciones del Poder Público, para garantizar el funcionamiento del Estado, resultando ineludible el funcionamiento de toda la estructura del Estado; cuestiones por las que, no es viable generar una ausencia de autoridad a partir de la conclusión del mandato de Contralor General del Estado.
+
+Que frente al riesgo de que el Órgano Rector del Control Gubernamental y Autoridad Superior de Auditoria del Estado suspenda sus funciones, el Presidente del Estado Plurinacional de Bolivia, precautelando el interés nacional, designa de manera interina al Contralor General del Estado.
+
+Que la designación de Autoridades interinas por parte del Presidente del Estado, es de naturaleza provisoria o transitoria, que trata de resolver la falta de autoridad cuyo rol es de suma importancia, en tanto dure la etapa de selección de una Autoridad electa por parte de la Asamblea Legislativa Plurinacional, por lo que se emite el presente Decreto Supremo.
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO ÚNICO.-**
+
+**I.** Desígnese **CONTRALORA GENERAL DEL ESTADO INTERINA** a la ciudadana **SANDRA QUIROGA SOLANO****,** hasta que la Asamblea Legislativa Plurinacional cumpla con su mandato constitucional.
+
+**II.**          Se abroga el Decreto Supremo Nº 4749, de 4 de julio de 2022.
+
+Es dado en el Palacio de Gobierno, a los tres del mes de febrero del año dos mil veintiséis.
+
+**FDO. RODRIGO PAZ PEREIRA**, Fernando Hugo Aramayo Carrasco, José Luis Lupo Flores, Marco Antonio Oviedo Huerta, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Sergio Mauricio MedinaceliMonrroy MINISTRO DE HIDROCARBUROS Y ENERGÍAS E INTERINO DE MINERÍA Y METALURGIA, Oscar Mario JustinianoPinto, MINISTRO DE DESARROLLO PRODUCTIVO, RURAL Y AGUA E INTERINO DE DEFENSA, Mauricio Zamora Liebers, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/9.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia

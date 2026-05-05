@@ -1,0 +1,67 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5494**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el numeral 1 del Parágrafo II del Artículo 311 de la Constitución Política del Estado determina que el Estado ejercerá la dirección integral del desarrollo económico y sus procesos de planificación.
+
+Que el Resultado 1.1.1 de la Meta 1.1 "Reconstruir la economía reinstaurando el Modelo Económico Social Comunitario Productivo con Estabilidad Macroeconómica", del Eje 1 "Reconstruyendo la economía, retomando la estabilidad macroeconómica y social" del Plan de Desarrollo Económico y Social 2021-2025, aprobado por Ley N° 1407, de 9 de noviembre de 2021, Plan de Desarrollo Económico y Social 2021-2025 "Reconstruyendo la Economía para Vivir Bien, Hacia la Industrialización con Sustitución de Importaciones", dispone que al 2025 se ha continuado de manera soberana con la implementación de medidas que permiten devolver al país la sostenibilidad macroeconómica y el crecimiento.
+
+Que el Decreto Supremo N° 3364, de 18 de octubre de 2017, tiene por objeto determinar las obligaciones de las Entidades que intervengan en el proceso de transferencia de recursos externos de crédito o donación oficial.
+
+Que el Parágrafo I del Artículo 3 del Decreto Supremo N° 3364 establece que la transferencia de recursos externos de crédito será establecida mediante el Decreto Supremo que autorice la suscripción del Documento de Crédito. En el caso de recursos de donación, dicha transferencia operará con la suscripción del Documento de Donación.
+
+Que el inciso l) del Artículo 38 del Decreto Supremo N° 4857, de 6 de enero de 2023, Organización del Órgano Ejecutivo, modificado por Decreto Supremo N° 5488, de 16 de noviembre de 2025, dispone que es atribución de la Ministra(o) de Planificación del Desarrollo y Medio Ambiente, gestionar, negociar y suscribir convenios de financiamiento externo, de cooperación económica y financiera internacional, en el marco del Plan de Desarrollo Económico y Social - PDES, en coordinación con los Ministerios de Relaciones Exteriores y de Economía y Finanzas Públicas.
+
+Que se ha gestionado un préstamo con la Corporación Andina de Fomento - CAF para la "Liquidez en Apoyo a la Gestión Económica", con el objetivo de apoyar al Gobierno de Bolivia para atender los compromisos y obligaciones presupuestarias del Estado boliviano.
+
+Que es necesario autorizar la suscripción del Contrato de Préstamo con la CAF, a objeto de materializar el financiamiento para la "Liquidez en Apoyo a la Gestión Económica".
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO 1.- (OBJETO).** El presente Decreto Supremo tiene por objeto:
+
+1. Autorizar la suscripción del Contrato de Préstamo con la Corporación Andina de Fomento - CAF para la "Liquidez en Apoyo a la Gestión Económica";
+2. Disponer la transferencia de los recursos externos de crédito a la Libreta de Recursos Ordinarios de la Cuenta Única del Tesoro - CUT.
+
+**ARTÍCULO 2.- (AUTORIZACIÓN).**
+
+**I.**            Se autoriza al Ministro de Planificación del Desarrollo y Medio Ambiente, en nombre y representación del Estado Plurinacional de Bolivia, a suscribir con la CAF un Contrato de Préstamo por un monto de hasta $us550.000.000.- (QUINIENTOS CINCUENTA MILLONES 00/100 DÓLARES ESTADOUNIDENSES), destinados a la "Liquidez en Apoyo a la Gestión Económica".
+
+**II.**          Suscrito el Contrato de Préstamo con la CAF, éste deberá ser remitido a consideración y aprobación de la Asamblea Legislativa Plurinacional, en cumplimiento a lo dispuesto en el numeral 10 del Parágrafo I del Artículo 158 de la Constitución Política del Estado.
+
+**ARTÍCULO 3.- (TRANSFERENCIA DE RECURSOS EXTERNOS DE CRÉDITO).**
+
+**I.**            Cumplida la formalidad prevista en el Parágrafo II del Artículo 2 del presente Decreto Supremo, se otorgará en calidad de transferencia los recursos del Contrato de Préstamo con la CAF, mismos que serán depositados en la Libreta de Recursos Ordinarios de la CUT.
+
+**II.**          El Ministerio de Economía y Finanzas Públicas, en su condición de Organismo Ejecutor, queda sujeto a lo establecido en el Decreto Supremo N° 3364, de 18 de octubre de 2017, en lo que corresponda.
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo y Medio Ambiente; y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado en el Palacio de Gobierno, a los veinticuatro días del mes de noviembre del año dos mil veinticinco.
+
+**FDO. RODRIGO PAZ PEREIRA**, Fernando Hugo Aramayo Carrasco, José Luis Lupo Flores, Marco Antonio Oviedo Huerta, Raúl Marcelo Salinas Gamarra, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Sergio Mauricio Medinacelli Monrroy, Oscar Mario JustinianoPinto, Mauricio Zamora Liebers, Marco Antonio Calderon De La Barca Quintanilla, Jorge Franz García Pinto, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/3.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026

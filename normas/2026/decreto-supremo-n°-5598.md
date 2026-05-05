@@ -1,0 +1,87 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5598**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el numeral 5 del Parágrafo I del Artículo 298 de la Constitución Política del Estado determina que el comercio exterior es una competencia privativa del nivel central del Estado.
+
+Que el numeral 3 del Artículo 316 del Texto Constitucional establece que una de las funciones del Estado en la economía es ejercer la dirección y el control de los sectores estratégicos de la economía.
+
+Que el Parágrafo I del Artículo 378 de la Constitución Política del Estado dispone que las diferentes formas de energía y sus fuentes constituyen un recurso estratégico, su acceso es un derecho fundamental y esencial para el desarrollo integral y social del país, y se regirá por los principios de eficiencia, continuidad, adaptabilidad y preservación del medio ambiente.
+
+Que el Parágrafo II del Artículo 378 del Texto Constitucional señala que es facultad privativa del Estado el desarrollo de la cadena productiva energética en las etapas de generación, transporte y distribución, a través de empresas públicas, mixtas, instituciones sin fines de lucro, cooperativas, empresas privadas, y empresas comunitarias y sociales, con participación y control social. La cadena productiva energética no podrá estar sujeta exclusivamente a intereses privados ni podrá concesionarse. La participación privada será regulada por la ley.
+
+Que el Parágrafo II del Artículo 379 de la Constitución Política del Estado establece que el Estado garantizará la generación de energía para el consumo interno; la exportación de los excedentes de energía debe prever las reservas necesarias para el país.
+
+Que el Artículo 9 de la Ley Nº 1604, de 21 de diciembre de 1994, dispone que las exportaciones e importaciones de electricidad y las interconexiones internacionales se efectuarán de acuerdo a las políticas establecidas por el Poder Ejecutivo, actual Órgano Ejecutivo y las disposiciones de la citada ley.
+
+Que el Decreto Supremo N° 2399, de 10 de junio de 2015, tiene por objeto normar las actividades de la industria eléctrica, respecto al intercambio internacional de electricidad, su operación y transacciones comerciales, así como las interconexiones internacionales de electricidad.
+
+Que en fecha 9 de julio de 2024, el Estado Plurinacional de Bolivia y la República Federativa de Brasil suscribieron un Memorándum de Entendimiento para la modificación de la operación de la Central Hidroeléctrica Jirau a Cota 90 m, que reconoce una asignación de beneficios energéticos a favor del Estado Plurinacional de Bolivia.
+
+Que con la finalidad de aprovechar los beneficios energéticos derivados de la modificación de la operación de la Central Hidroeléctrica Jirau a Cota 90 m, es necesario establecer el uso y disposición de los recursos provenientes de los beneficios energéticos transfronterizos que correspondan al Estado Plurinacional de Bolivia.
+
+Que con la finalidad de permitir a cualquier agente del mercado eléctrico realizar intercambios internacionales con sistemas eléctricos de otros países en beneficio del país es necesaria la modificación del Decreto Supremo N° 2399.
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO 1.- (OBJETO).** El presente Decreto Supremo tiene por objeto modificar el Decreto Supremo N° 2399, de 10 de junio de 2015, con la finalidad de permitir a cualquier agente del mercado eléctrico realizar intercambios internacionales con sistemas eléctricos de otros países.
+
+**ARTÍCULO 2.- (MODIFICACIONES).**
+
+**I.**            Se modifica el Artículo 2 del Decreto Supremo Nº 2399, de 10 de junio de 2015, con el siguiente texto:
+
+*"       **ARTÍCULO 2.- (INTERCAMBIO INTERNACIONAL DE ELECTRICIDAD).***
+
+***I.*** *El intercambio internacional de electricidad consiste en la transacción de electricidad que realiza un agente del mercado eléctrico autorizado por la instancia competente, con sistemas eléctricos de otros países, tales como: exportación, importación, transmisión y tránsito.*
+
+***II.*** *Cualquier agente del mercado eléctrico, público, mixto o privado, podrá ser autorizado por la instancia competente para realizar actividades de intercambio internacional de electricidad, pudiendo suscribir contratos, mientras no se afecte la seguridad, continuidad y prioridad del abastecimiento del mercado interno."*
+
+**II.**          Se modifica el Parágrafo I del Artículo 5 del Decreto Supremo Nº 2399, de 10 de junio de 2015, con el siguiente texto:
+
+*"**I.**     La transmisión dedicada a los intercambios internacionales de electricidad, será desarrollada en caso de ENDE, por sí misma, a través de sus filiales o subsidiarias o asociada a terceros, así como por cualquier agente del mercado eléctrico, público, mixto o privado."*
+
+**III.**         Se modifica el Parágrafo II del Artículo 7 del Decreto Supremo Nº 2399, de 10 de junio de 2015, con el siguiente texto:
+
+*"**II.**   Los precios y cargos señalados en el Parágrafo precedente, serán establecidos por el Ministerio de Hidrocarburos y Energías conjuntamente con el agente del mercado eléctrico, público, mixto o privado."*
+
+**DISPOSICIONES ABROGATORIAS Y DEROGATORIAS**
+
+**DISPOSICIÓN ABROGATORIA.-** Se abroga el Decreto Supremo N° 4794, de 7 de septiembre de 2022.
+
+**DISPOSICIONES FINALES**
+
+**DISPOSICIÓN FINAL ÚNICA.-**
+
+**I.**            En el marco del Memorándum de Entendimiento suscrito entre el Ministerio de Hidrocarburos y Energías del Estado Plurinacional de Bolivia y el Ministerio de Minas y Energía de la República Federativa de Brasil para la modificación de la operación de la Central Hidroeléctrica Jirau a Cota 90 m, ENDE ejecutará los recursos provenientes de los beneficios energéticos transfronterizos de acuerdo a lo dispuesto por el Ministerio de Hidrocarburos y Energías, en favor del sector energético.
+
+**II.**          El uso y disposición de los recursos provenientes de los beneficios energéticos transfronterizos serán reglamentados por el Ministerio de Hidrocarburos y Energías, en un plazo de hasta treinta (30) días calendario, computables a partir de la publicación del presente Decreto Supremo.
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos y Energías, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado en el Palacio de Gobierno, a los treinta días del mes de marzo del año dos mil veintiséis.
+
+**FDO. RODRIGO PAZ PEREIRA,** Fernando Hugo Aramayo Carrasco, José Luis Lupo Flores, Marco Antonio Oviedo Huerta, Raúl Marcelo Salinas Gamarra, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Sergio Mauricio Medinaceli Monrroy, Oscar Mario Justiniano Pinto MINISTRO DE DESARROLLO PRODUCTIVO, RURAL Y AGUA E INTERINO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA, Marco Antonio Calderón De La Barca Quintanilla, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/7.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia

@@ -1,0 +1,99 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5616**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el Parágrafo I del Artículo 20 de la Constitución Política del Estado determina que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+
+Que el Parágrafo I del Artículo 378 del Texto Constitucional establece que las diferentes formas de energía y sus fuentes constituyen un recurso estratégico, su acceso es un derecho fundamental y esencial para el desarrollo integral y social del país, y se regirá por los principios de eficiencia, continuidad, adaptabilidad y preservación del medio ambiente.
+
+Que el Parágrafo II del Artículo 379 de la Constitución Política del Estado dispone que el Estado garantizará la generación de energía para el consumo interno; la exportación de los excedentes de energía debe prever las reservas necesarias para el país.
+
+Que el Artículo 1 de la Ley N° 1604, de 21 de diciembre de 1994, norma las actividades de la Industria Eléctrica y establece los principios para la fijación de precios y tarifas de electricidad en todo el territorio nacional. Están sometidas a la presente ley, todas las personas individuales y colectivas dedicadas a la Industria Eléctrica, cualesquiera sean su forma y lugar de constitución. La producción de electricidad de origen nuclear será objeto de ley especial.
+
+Que el inciso f) del Artículo 3 de la Ley Nº 1604, señala que las actividades relacionadas con la Industria Eléctrica se regirán por principios, entre otros, el principio de neutralidad que exige un tratamiento imparcial a todas las Empresas Eléctricas y a todos los consumidores.
+
+Que el inciso d) del Artículo 15 de la Ley Nº 1604, establece que, excepcionalmente, y de acuerdo a reglamento, las empresas de Distribución podrán ser propietarias directas de instalaciones de Generación, que utilice y aproveche recursos naturales renovables, siempre que esta capacidad no exceda el quince por ciento (15%) del total de su demanda máxima.
+
+Que es necesario reglamentar el inciso d) del Artículo 15 de la Ley N° 1604, de 21 de diciembre de 1994, a fin de establecer criterios de eficiencia, sostenibilidad y diversificación energética, para el desarrollo de generación de energía eléctrica con el aprovechamiento de recursos naturales renovables por las empresas de Distribución.
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO 1.- (OBJETO).** El presente Decreto Supremo tiene por objeto reglamentar el inciso d) del Artículo 15 de la Ley Nº 1604, de 21 de diciembre de 1994, con la finalidad de establecer criterios de eficiencia, sostenibilidad y diversificación energética que permitan a las empresas de Distribución generar electricidad con energías renovables hasta el quince por ciento (15%) del total de su demanda máxima.
+
+**ARTÍCULO 2.- (AUTORIZACIÓN).** En el marco del inciso d) del Artículo 15 de la Ley N° 1604, de 21 de diciembre de 1994, de manera excepcional, las empresas de Distribución podrán ser propietarias directas de instalaciones de Generación, que utilice y aproveche recursos naturales renovables, siempre que la capacidad no exceda el quince por ciento (15%) del total de su demanda máxima.
+
+**ARTÍCULO 3.- (DEFINICIONES).** Para la aplicación del presente Decreto Supremo, además de las definiciones contenidas en el Artículo 2 de la Ley Nº 1604, se establecen las siguientes definiciones:
+
+1. **Costo Nivelado de Energía - LCOE:** Es el valor actual neto del costo unitario de generación eléctrica a lo largo de la vida útil de una planta, se representa de acuerdo a la siguiente expresión estándar:
+
+![](http://www.gacetaoficialdebolivia.gob.bo/img/DS5616_1.PNG)  
+
+- **Costo Nivelado de Energía - LCOE Regulado:** Es el valor actual neto del costo unitario de generación eléctrica que establece la Autoridad de Fiscalización de Electricidad y Tecnología Nuclear – AETN;
+- **Central Generadora Sumergida:** Es una central que, vincula a un nodo del Sistema Troncal de Interconexión – STI a través de instalaciones de transmisión no pertenecientes al STI y que no inyecta energía a dicho sistema. El efecto de estas centrales es reducir la demanda en el nodo de vinculación al STI;
+- **Energías renovables:** Son energías derivadas de fuentes naturales que llegan a reponerse más rápido de lo que pueden consumirse;
+- **Sistema de Generación Renovable Económicamente Adaptado – SGREA:** Es el conjunto de instalaciones de una determinada Potencia, con una determinada tecnología de generación renovable, en un determinado lugar, que están dimensionadas de forma tal, que constituyan la alternativa de mínimo costo total de inversión, operación, mantenimiento, administración y pérdidas, para conectar a la red de distribución en Media Tensión;
+- **Sistema de Generación Renovable Económicamente Adaptado – SGREA Regulado:** Es el SGREA que establece la AETN;
+- **WACC:** Es el costo medio ponderado del capital, mide el costo medio en el que incurre una empresa para financiar sus operaciones.
+
+![](http://www.gacetaoficialdebolivia.gob.bo/img/DS5616_2.PNG)  
+
+**ARTÍCULO 4.- (CAPACIDAD MÁXIMA PERMITIDA).** La AETN, en el marco de sus atribuciones, mediante Resolución Administrativa reglamentará la forma de determinación de la Capacidad Máxima permitida de la sumatoria de las capacidades de las plantas de generación de cada empresa de Distribución en el Sistema Interconectado Nacional – SIN, considerando las mediciones reportadas del último año eléctrico.
+
+**ARTÍCULO 5.- (EMPRESAS DE DISTRIBUCIÓN PROPIETARIAS DIRECTAS DE INSTALACIONES DE GENERACIÓN).** Las empresas de Distribución que deseen ejercer el derecho de excepción previsto en el inciso d) del Artículo 15 de la Ley Nº 1604, deben:
+
+1. Presentar su solicitud de licencia provisional a la AETN, cumpliendo los requisitos establecidos en la Ley Nº 1604 y sus reglamentos;
+2. El contrato de licencia de generación suscrita entre la AETN y la empresa de Distribución debe establecer que la capacidad instalada al momento de su aprobación, no podrá exceder el quince por ciento (15%) del total de la demanda máxima de la empresa de Distribución en el SIN conforme al último registro del año eléctrico anterior;
+3. La producción de electricidad, tanto en potencia como energía no podrá inyectarse al STI, salvo condiciones extraordinarias calificadas y dispuestas por el Comité Nacional de Despacho de Carga – CNDC;
+4. La empresa de Distribución no podrá realizar subsidios cruzados entre su actividad fundamental de distribución y la excepcional de generación. La empresa de Distribución debe llevar, a tal efecto, contabilidad separada e independiente para la actividad de generación. La distribución de los gastos generales debe ser aprobada por la AETN;
+5. Las empresas de Distribución no pueden asociarse para conformar una empresa de Generación que acumule el quince por ciento (15%) descrito en el inciso d) del Artículo 15 de la Ley Nº 1604.
+
+**ARTÍCULO 6.- (COSTO DE GENERACIÓN Y ACTUALIZACIÓN).**
+
+**I.** La AETN realizará el cálculo del LCOE Regulado con base a criterios de eficiencia y sostenibilidad del SGREA Regulado, en cada caso que corresponda, así como definir su actualización de acuerdo a las fórmulas de indexación correspondientes.
+
+**II.**          El costo de generación resultante según lo establecido en el Parágrafo precedente, será incluido en los correspondientes estudios tarifarios, sujeto a procedimiento especifico por parte de la AETN.
+
+**III.**         La AETN desarrollará la reglamentación que garantice que no existan subsidios cruzados entre la actividad de distribución y la de generación.
+
+**IV.**          La AETN determinará diferentes SGREA Regulado para cada Distribuidora considerando regiones con características homogéneas para el aprovechamiento de energías primarias estableciendo en cada caso el LCOE Regulado correspondiente.
+
+**V.**           La AETN determinará una tasa de descuento en base a la metodología WACC.
+
+**DISPOSICIONES TRANSITORIAS**
+
+**DISPOSICIÓN TRANSITORIA ÚNICA.-** En un plazo de hasta treinta (30) días hábiles, computables a partir de la publicación del presente Decreto Supremo, la AETN, mediante Resolución Administrativa, reglamentará lo establecido en la presente norma.
+
+**DISPOSICIONES ABROGATORIAS Y DEROGATORIAS**
+
+**DISPOSICIÓN ABROGATORIA.-** Se abroga el Decreto Supremo Nº 24651, de 13 de junio de 1997.
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos y Energías, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado en el Palacio de Gobierno, a los veintisiete días del mes de abril del año dos mil veintiséis.
+
+**FDO. RODRIGO PAZ PEREIRA**, Fernando Hugo Aramayo Carrasco, José Luis Lupo Flores, Marco Antonio Oviedo Huerta, Raúl Marcelo Salinas Gamarra, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Carlos Pedro Marcelo Blanco Quintanilla, Oscar Mario JustinianoPinto, Mauricio Zamora Liebers, Marco Antonio Calderón De La Barca Quintanilla, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/2.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026

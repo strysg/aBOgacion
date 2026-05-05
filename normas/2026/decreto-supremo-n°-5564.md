@@ -1,0 +1,70 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5564**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el Parágrafo I del Artículo 16 de la Constitución Política del Estado determina que toda persona tiene derecho al agua y a la alimentación.
+
+Que el Parágrafo I del Artículo 20 del Texto Constitucional establece que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+
+Que el numeral 9 del Parágrafo II del Artículo 299 de la Constitución Política del Estado dispone como competencia que se ejercerá de forma concurrente por el nivel central del Estado y las entidades territoriales autónomas, los proyectos de agua potable y tratamiento de residuos sólidos.
+
+Que el Parágrafo I del Artículo 373 del Texto Constitucional señala que el agua constituye un derecho fundamentalísimo para la vida, en el marco de la soberanía del pueblo. El Estado promoverá el uso y acceso al agua sobre la base de principios de solidaridad, complementariedad, reciprocidad, equidad, diversidad y sustentabilidad.
+
+Que el Parágrafo II del Artículo 83 de la Ley N° 031, de 19 de julio de 2010, Marco de Autonomías y Descentralización "Andrés Ibáñez", establece que de acuerdo a la competencia concurrente del numeral 9 del Parágrafo II del Artículo 299 de la Constitución Política del Estado y en el marco de la delegación de la facultad reglamentaria y/o ejecutiva de la competencia exclusiva del numeral 30 del Parágrafo II del Artículo 298 de la Constitución Política del Estado, se desarrollan las competencias de la siguiente manera: Elaborar, financiar y ejecutar subsidiariamente proyectos de agua potable y alcantarillado de manera concurrente con los otros niveles autonómicos, en el marco de las políticas de servicios básicos.
+
+Que el Decreto Supremo N° 3364, de 18 de octubre de 2017, tiene por objeto determinar las obligaciones de las Entidades que intervengan en el proceso de transferencia de recursos externos de crédito o donación oficial.
+
+Que el Parágrafo I del Artículo 3 del Decreto Supremo N° 3364 dispone que la transferencia de recursos externos de crédito será establecida mediante el Decreto Supremo que autorice la suscripción del Documento de Crédito. En el caso de recursos de donación, dicha transferencia operará con la suscripción del Documento de Donación.
+
+Que el inciso l) del Artículo 38 del Decreto Supremo N° 4857, de 6 de enero de 2023, Organización del Órgano Ejecutivo, modificado por el Decreto Supremo N° 5488, de 16 de noviembre de 2025, señala que es atribución de la Ministra(o) de Planificación del Desarrollo y Medio Ambiente, en el marco de las competencias asignadas al nivel central por la Constitución Política del Estado: gestionar, negociar y suscribir convenios de financiamiento externo, de cooperación económica y financiera internacional, en el marco del Plan de Desarrollo Económico y Social – PDES, en coordinación con los Ministerios de Relaciones Exteriores y de Economía y Finanzas Públicas.
+
+Que se ha gestionado ante la Corporación Andina de Fomento – CAF un Contrato de Préstamo, para el financiamiento del "Proyecto Construcción de Colectores, Emisario y Planta de Tratamiento de Aguas Residuales (PTAR) Cabeza de Toro", siendo necesario autorizar la suscripción del Contrato de Préstamo a objeto de contribuir al mejoramiento de la gestión integral del recurso hídrico en áreas urbanas y periurbanas en el Departamento de Tarija.
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO 1.- (OBJETO).** El presente Decreto Supremo tiene por objeto:
+
+1. Autorizar la suscripción de un Contrato de Préstamo con la Corporación Andina de Fomento – CAF para financiar el "Proyecto Construcción de Colectores, Emisario y Planta de Tratamiento de Aguas Residuales (PTAR) Cabeza de Toro";
+2. Disponer la transferencia de los recursos externos de crédito a favor del Ministerio de Desarrollo Productivo, Rural y Agua, en su condición de Organismo Ejecutor.
+
+**ARTÍCULO 2.- (AUTORIZACIÓN).**
+
+**I.**            Se autoriza al Ministro de Planificación del Desarrollo y Medio Ambiente, en nombre y representación del Estado Plurinacional de Bolivia, a suscribir con la CAF, un Contrato de Préstamo por un monto de hasta $us65.000.000.- (SESENTA Y CINCO MILLONES 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el "Proyecto Construcción de Colectores, Emisario y Planta de Tratamiento de Aguas Residuales (PTAR) Cabeza de Toro".
+
+**II.**          Suscrito el Contrato de Préstamo con la CAF, éste deberá ser remitido a consideración y aprobación de la Asamblea Legislativa Plurinacional, en cumplimiento a lo dispuesto en el numeral 10 del Parágrafo I del Artículo 158 de la Constitución Política del Estado.
+
+**ARTÍCULO 3.- (TRANSFERENCIA DE RECURSOS EXTERNOS DE CRÉDITO).**
+
+**I.** Cumplida la formalidad prevista en el Parágrafo II del Artículo 2 del presente Decreto Supremo, se otorga en calidad de transferencia el monto de hasta $us65.000.000.- (SESENTA Y CINCO MILLONES 00/100 DÓLARES ESTADOUNIDENSES), al Ministerio de Desarrollo Productivo, Rural y Agua como Organismo Ejecutor de los recursos del Contrato de Préstamo con la CAF, para el "Proyecto Construcción de Colectores, Emisario y Planta de Tratamiento de Aguas Residuales (PTAR) Cabeza de Toro".
+
+**II.**          El Ministerio de Desarrollo Productivo, Rural y Agua en su condición de Organismo Ejecutor, queda sujeto a lo establecido en el Decreto Supremo N° 3364, de 18 de octubre de 2017, para la administración de los recursos transferidos.
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo y Medio Ambiente; de Economía y Finanzas Públicas; y de Desarrollo Productivo, Rural y Agua, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado a los dos días del mes de marzo del año dos mil veintiséis.
+
+**FDO. RODRIGO PAZ PEREIRA**, Fernando Hugo Aramayo Carrasco, José Luis Lupo Flores, Marco Antonio Oviedo Huerta, Raúl Marcelo Salinas Gamarra, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Sergio Mauricio MedinaceliMonrroy MINISTRO DE HIDROCARBUROS Y ENERGÍAS E INTERINO DE MINERÍA Y METALURGIA, Mauricio Zamora Liebers MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA E INTERINO DE DESARROLLO PRODUCTIVO, RURAL Y AGUA, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/3.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia
