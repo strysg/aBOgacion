@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= nombre %> – <%= siteTitle %></title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a href="../index.html" class="home-link">← Volver a la búsqueda</a>
+      <div class="meta">
+        Tipo de norma: <span class="type"><%= tipoNorma %></span><br>
+	Mes/Año:<span class="mesAnio"><%= mesAnio.split('/')[0] %></span> <a href="/<%= year %>"><%= year %></a><br>
+	Fecha: <span class="fecha"><%= fecha %></span><br>
+	Enlace a norma: <a class="enlaceNorma" href="<%- enlaceNorma %>"><%= enlaceNorma %></a><br>
+	Núm. en Gaceta: <span class="nroEnGaceta"><%= nroEnGaceta %></span><br>
+	Extraído de: <span class="fuente"><% fuente %></span>
+      </div>
+      <h4><%= nombre %></h4>
+    </header>
+    <main class="norm-content">
+      <%- htmlContent %>
+    </main>
+  </div>
+  <script src="/assets/search.js" defer></script>
+</body>
+</html>

@@ -30,3 +30,22 @@ normas
 │   └── resolución-suprema---31903.md
 ...
 ```
+
+## Visor
+
+Construido con node.js para generar un sitio estático con búsqueda de flexsearch.
+
+
+Construir
+```
+cd src/visor
+npm install
+node build.js
+```
+
+Resultados en ouput
+
+Correr servidor de prueba
+```
+npx serve output
+```

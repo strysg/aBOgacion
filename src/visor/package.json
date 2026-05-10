@@ -1,0 +1,24 @@
+{
+  "name": "visor_normas_bolivianas_md",
+  "version": "1.0.0",
+  "description": "Visor de normas Bolivianas",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gaceta",
+    "leyes",
+    "Bolivia"
+  ],
+  "author": "Rodrigo Garcia",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "flexsearch": "^0.8.212",
+    "fs-extra": "^11.3.4",
+    "glob": "^13.0.6",
+    "he": "^1.2.0",
+    "marked": "^18.0.3"
+  }
+}
