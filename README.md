@@ -41,6 +41,7 @@ Construir
 cd src/visor
 npm install
 node build.js
+# node build.js -f para hacer reconstrucción rápida en caso de haber echo build.js completo antes)
 ```
 
 Resultados en ouput

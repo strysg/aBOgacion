@@ -7,23 +7,32 @@
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
-  <div class="container">
-    <header>
-      <a href="../index.html" class="home-link">← Volver a la búsqueda</a>
-      <div class="meta">
-        Tipo de norma: <span class="type"><%= tipoNorma %></span><br>
-	Mes/Año:<span class="mesAnio"><%= mesAnio.split('/')[0] %></span> <a href="/<%= year %>"><%= year %></a><br>
-	Fecha: <span class="fecha"><%= fecha %></span><br>
-	Enlace a norma: <a class="enlaceNorma" href="<%- enlaceNorma %>"><%= enlaceNorma %></a><br>
-	Núm. en Gaceta: <span class="nroEnGaceta"><%= nroEnGaceta %></span><br>
-	Extraído de: <span class="fuente"><% fuente %></span>
-      </div>
-      <h4><%= nombre %></h4>
-    </header>
-    <main class="norm-content">
+  <header>
+    <a href="../index.html" class="home-link">← Volver a la búsqueda</a>
+  </header>
+  <div class="norm-container">
+    <div class="norm-content">
+      <% if (estado === 'no vigente') { %>
+        <h3 class="no-vigente">No vigente</h3>
+      <% } %>
       <%- htmlContent %>
-    </main>
+    </div>
+    <div class="norm-meta">
+      <p>Tipo: <span class="type"><%= tipoNorma %></span></p>
+      <p>Enlace: <a class="enlaceNorma" href="<%- enlaceNorma %>"><%= enlaceNorma %></a></p>
+      <p>Núm. en Gaceta: <code><%= nroEnGaceta %></code></p>
+      <p>Extraído de: <i><%= fuente %></i></p>
+      <p>Estado:
+        <% if (estado === 'vigente') { %>
+          <strong>vigente</strong>
+        <% } else if (estado === 'no vigente') { %>
+        <code>No vigente</code>
+      <% } %>
+      <p>Mes/Año: <span class="mesAnio"><%= mesAnio.split('/')[0] %></span> <a href="/<%= year %>"><%= year %></a></p>
+      <p>Fecha: <span class="fecha"><%= fecha %></span></p>
+      </p>
+    </div>
   </div>
-  <script src="/assets/search.js" defer></script>
+<script src="/assets/search.js" defer></script>
 </body>
 </html>

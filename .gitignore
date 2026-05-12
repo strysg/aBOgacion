@@ -33,3 +33,7 @@ build/
 
 # visor
 visor/node_modules
+# archivo muy grande
+visor/output/metadata.json
+metadata.json
+docs.json

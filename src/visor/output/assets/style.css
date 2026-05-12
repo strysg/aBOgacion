@@ -4,8 +4,18 @@ body {
 tr { border-bottom: 1px solid #ddd; }
 th { border-bottom: 1px solid #bbb; }
 td { border-bottom: 1px solid #ddd; border-right: 1px solid #ddd; }
-.container { max-width: 1200px; margin: 0 auto; }
+.container {
+    display: flex;
+    gap: 20 px;
+    /* max-width: 1200px; */
+    /* margin: 0 auto; */
+}
 h1 { color: #1e3a8a; }
+.column {
+  flex: 1; /* Makes columns equal width */
+  padding: 10px;
+  background-color: #f4f4f4;
+}
 .search-bar { background: white; padding: 1.5rem; border-radius: 1rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 2rem; }
 #searchInput { width: 100%; padding: 0.75rem; font-size: 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; margin-bottom: 1rem; }
 .filters { display: flex; gap: 1rem; }
@@ -17,9 +27,52 @@ select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; back
 .result-title a { text-decoration: none; color: #1e3a8a; }
 .result-meta { display: flex; gap: 1rem; font-size: 0.85rem; color: #6b7280; margin-bottom: 0.5rem; }
 .result-preview { color: #4b5563; font-size: 0.9rem; }
-.norm-content { background: white; padding: 2rem; border-radius: 1rem; margin-top: 1rem; }
+.norm-container {
+  display: flex;
+  flex-wrap: wrap;          /* allows stacking on small screens */
+  gap: 1rem;             /* space between columns */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Left column – main content (85% width, max 880px) */
+.norm-content {
+  flex: 1 1 85%;           /* grows, shrinks, base 85% */
+  max-width: 880px;
+  min-width: 200px;
+  background: #f2f1f4;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+/* Right column – metadata (15% width, fixed position at right) */
+.norm-meta {
+  flex: 0 0 220px;         /* fixed width instead of percentage for better readability */
+  /* or use flex: 0 0 15%; with min-width: 180px; */
+  background: white;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  align-self: start;       /* prevents stretching */
+}
+
+/* On screens smaller than 800px, stack vertically and put metadata after content */
+@media (max-width: 800px) {
+  .norm-container {
+    flex-direction: column;
+  }
+  .norm-content {
+    max-width: 100%;
+  }
+  .norm-meta {
+    flex-basis: auto;
+    width: 100%;
+  }
+}
 .norm-content h1, .norm-content h2 { color: #1e3a8a; }
-.meta { display: flex; gap: 0.5rem; margin-bottom: 1rem; }
+.norm-content .vigente { color: #639467; }
+.norm-content .no-vigente { color: #c95354; background-color: #ebe73e; padding: 0.25rem 0.75rem; font-size: 1rem; }
 .type, .year { display: inline-block; background: #e5e7eb; padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.8rem; }
 .home-link { display: inline-block; margin-bottom: 1rem; color: #2563eb; text-decoration: none; }
 .loading { text-align: center; padding: 2rem; }
@@ -30,6 +83,6 @@ select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; back
 }
 
 .indice li {
-  flex: 0 0 25%; /* Each item takes up 1/5 of the width */
+  flex: 0 0 50%; /* Each item takes up 1/5 of the width */
   box-sizing: border-box;
 }

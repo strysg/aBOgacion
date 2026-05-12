@@ -9,9 +9,39 @@ const ejs = require('ejs');
 const { marked } = require('marked');
 const FlexSearch = require('flexsearch');
 const { glob } = require('glob');
-const { cleanAllHtmlsAndJson, loadMarkdownFilesFromMetadata } = require('./utils.js');
+const { cleanAllHtmlsAndJson, findMetadataFiles, loadMarkdownFilesFromMetadata } = require('./utils.js');
 
-// Configuration
+// ----- CLI argument parsing -----
+const args = process.argv.slice(2);
+let action = null; // e.g., 'all', 'skip-clean', etc.
+
+for (let i = 0; i < args.length; i++) {
+    switch (args[i]) {
+        case '-f':
+            action = 'fast';
+            break;
+        case '--help':
+            console.log(`
+Usage: node build.js [options]
+
+Options:
+  -f <action>   Para construir sin volver a generar el archivo output/metadata.json.
+                Sin esta opción
+                se vuelve a buscar todos los archivos markdown en /normas/ y se los intentan encontrar 
+                en los archivos de metada (/normas/*.metadata.json para asegurar se actualice todo.
+                Possible actions: "force" (delete everything), "append" (keep existing, only add new)
+  --help        Show this help message
+            `);
+            process.exit(0);
+        default:
+            console.warn(`Unknown argument: ${args[i]}`);
+    }
+}
+
+// Example: if action === 'force', we will use the aggressive cleaner
+const FAST_BUILD = (action === 'fast');
+
+// ------ Configuration --------
 const INPUT_DIR = '../../normas';
 const OUTPUT_DIR = './output';
 const SITE_TITLE = 'Visor de normas Bolivianas';
@@ -39,14 +69,20 @@ async function build() {
     // cargar plantillas ejs
     const normasTemplate = await fs.readFile(path.join(__dirname, 'templateNorma.ejs'), 'utf-8');
     const mainTemplate = await fs.readFile(path.join(__dirname, 'templateMain.ejs'), 'utf-8');
-    // TODO: cargar template de indices
 
-    const files = await loadMarkdownFilesFromMetadata(
-        [
-            '../../normas/2026-05-04_gaceta_metadata.json',
-            '../../normas/24-abril-metadata.json'
-        ]
-    );
+    let files = [];
+    if (FAST_BUILD) {
+        console.log('⏩ Construcción rápida (evitando actualización de metadata)');
+        files = JSON.parse(await fs.readFile(path.join(OUTPUT_DIR, 'metadata.json'), 'utf-8'));
+    } else {
+        console.log('🔨 Iniciando construcción completa (actualizando metadata)');
+        const metadataFiles = await findMetadataFiles();
+        files = await loadMarkdownFilesFromMetadata(metadataFiles);
+        // guardando la metadata cargado de documentos json y archivos markdown
+        // util cuando se quiere evitar la función loadmarkdownfilesfrommetadata
+        await fs.writeFile(path.join(OUTPUT_DIR, 'metadata.json'), JSON.stringify(files));
+    }
+
 
     let count = 0;
     let skipped = 0;
@@ -71,7 +107,7 @@ async function build() {
                            <pre>${rawMarkdown.slice(0, 1000)}</pre>`;
         }
 
-        const textPreview = rawMarkdown.replace(/[#*`>\[\]()]/g, '').slice(0, 500);
+        const textPreview = rawMarkdown.replace(/[#*`>\[\]()]/g, '').slice(0, 290);
 
         // generar html
         const yearPath = path.join(OUTPUT_DIR, fileMetadata.year);
@@ -93,7 +129,7 @@ async function build() {
             title: fileMetadata.nombre,           // e.g. "Resolución Suprema N° 32206"
             type: fileMetadata.tipoNorma,         // e.g. "Resolución Suprema"
             year: fileMetadata.year,
-            content_preview: textPreview,  // already set from textPreview
+            p: textPreview,
             url: `${fileMetadata.year}/${fileMetadata.nombre}.html`  // include .html
         });
         count ++;

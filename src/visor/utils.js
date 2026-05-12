@@ -82,7 +82,8 @@ async function cleanAllHtmlsAndJson() {
 
     // Find all .html and .json files recursively inside OUTPUT_DIR
     const htmlFiles = await glob('**/*.html', { cwd: OUTPUT_DIR, absolute: true });
-    const jsonFiles = await glob('**/*.json', { cwd: OUTPUT_DIR, absolute: true });
+    //const jsonFiles = await glob('**/*.json', { cwd: OUTPUT_DIR, absolute: true });
+    const jsonFiles = [];
     const allFiles = [...htmlFiles, ...jsonFiles];
 
     let deletedCount = 0;
@@ -118,6 +119,18 @@ function escapeHtml(str) {
 }
 
 /**
+ * Recursively finds all files ending with "metadata.json" inside a directory.
+ * @param {string} baseDir - The directory to scan (default: '../../normas').
+ * @returns {Promise<string[]>} - Array of absolute file paths.
+ */
+async function findMetadataFiles(baseDir = '../../normas') {
+    const pattern = path.join(baseDir, '**', '*metadata.json');
+    const files = await glob(pattern, { absolute: false });
+    console.log(`🔍 Encontrados ${files.length} archivos metadata.json en ${baseDir}`);
+    return files;
+}
+
+/**
  * Escanea las normas en la carpeta normas/ y dados los archivos de metadata,
  * construye un nuevo conjunto de metadatos con información adicional para ser
  * leída y generar contenido en HTML por cada norma y que esta sea indexable
@@ -132,7 +145,8 @@ function escapeHtml(str) {
         "tipoNorma": "Decreto Presidencial",
         "enlaceNorma": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/280962",
         "archivoNorma": "normas/2025/decreto-presidencial---5486.md,
-        "fuente": "gaceta oficial de Bolivia"
+        "fuente": "gaceta oficial de Bolivia",
+        "estado": "vigente"
  * }
  *
  */
@@ -178,7 +192,8 @@ async function loadMarkdownFilesFromMetadata (metadataFiles = []) {
                 archivoNorma: mdFilepath,
                 nroEnGaceta: match.nroEnGaceta || '',
                 'MM/AAAA': match['MM/AAAA'] || '',
-                fuente: match.fuente || metadata.fuente || 'desconocido'
+                fuente: match.fuente || metadata.fuente || 'desconocido',
+                estado: match.noVigente ? 'no vigente' : 'vigente'
             });
         } else {
             console.log(`No se encontró metadata para: ${mdFilepath}`);
@@ -193,7 +208,8 @@ async function loadMarkdownFilesFromMetadata (metadataFiles = []) {
                 nroEnGaceta: '',
                 mesAnio: '',
                 enlaceNorma: '',
-                fuente: metadata.fuente || 'gaceta oficial'
+                fuente: metadata.fuente || 'gaceta oficial',
+                estado: 'vigente'
             });
             fallidosCount++;
         }
@@ -208,6 +224,7 @@ module.exports = {
     parseFile,
     cleanAllHtmlsAndJson,
     scanMarkdownFiles,
+    findMetadataFiles,
     loadMarkdownFilesFromMetadata
 };
 

@@ -3151,6 +3151,7 @@
     },
     {
         "nombre": "Decreto Supremo N° 5503",
+	"noVigente": true,
         "nroEnGaceta": "1979NEC",
         "fecha": "2025-12-17",
         "MM/AAAA": "12/2025",

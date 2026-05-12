@@ -10,7 +10,7 @@ async function initSearch() {
     searchIndex = new FlexSearch.Document({
         document: {
             id: 'id',
-            index: ['title', 'type', 'year', 'content_preview'],
+            index: ['title', 'type', 'year', 'p'],
             store: ['title', 'type', 'year', 'url']
         }
     });
@@ -96,17 +96,22 @@ async function search() {
     if (results.length === 0) {
         container.innerHTML = '<div class="result-card">No se encontraron normas.</div>';
         return;
-    }
-    
-    container.innerHTML = results.map(r => `
+    } else {
+        const htmlResults = results.map(r => `
         <div class="result-card">
             <div class="result-title"><a href="${r.url}">${escapeHtml(r.title)}</a></div>
             <div class="result-meta">
                 <span>${escapeHtml(r.type)}</span> · <span>${escapeHtml(r.year)}</span>
             </div>
-            <div class="result-preview">${escapeHtml(r.content_preview)}…</div>
+            <div class="result-preview">${escapeHtml(r.p)}…</div>
         </div>
-    `).join('');
+       `).join('');
+
+        container.innerHTML = `<span>Encontradas <strong>${results.length}</strong> coincidencias. ${htmlResults}`;
+    }
+
+    
+
 }
 
 function escapeHtml(str) {
