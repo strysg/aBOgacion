@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 27941, 20 de diciembre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 3 de la [Ley Nº 2627](#TODO-link) de 30 de diciembre de 2003 - Ley del Presupuesto General de la Nación Gestión 2004, establece que los niveles de honorarios mensuales de consultores independientes, contratados con recursos públicos para ejercer actividades profesionales, técnicas y administrativas, no podrán ser superiores a los establecidos para el personal designado mediante memorandumes o Resoluciones que tengan asignaciones de funciones equivalentes en el órgano, institución o entidad; asimismo, estos honorarios no podrán sobrepasar la renumeración que perciba un Director General, exceptuándose a esta restricción las consultorías para realizar trabajos específicos por plazo y producto determinado y no renovable en un período similar al de la duración de un contrato.
+* Que el Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, establece que para cualquier incremento en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público” para la gestión 2004, deberá ser aprobado mediante Decreto Supremo.
+* Que la Prefectura del Departamento de Tarija mediante Resolución del Consejo Departamental Nº 319/2004, ha resuelto incrementar el presupuesto Prefectural con recursos provenientes de Regalías Adicionales para financiar proyectos de inversión pública en la presente gestión y autorizó la asignación de recursos en las Partidas 25800 y 46200.
+* Que de acuerdo a las demandas y priorización de proyectos entre el Consejo Departamental, Unidades Ejecutoras y las comunidades beneficiarias, se acordó financiar los costos de consultarías de los proyectos que se detallan en el Anexo Nº 1 del presente Decreto Supremo, con la asignación de recursos a las Partidas 25800 y 46200.
+* Que en cumplimiento al Reglamento de Modificaciones Presupuestarias, aprobado mediante [Decreto Supremo Nº 26866](#TODO-link) de 14 de diciembre de 2002, la Prefectura del Departamento de Tarija, ha realizado las modificaciones presupuestarias de incremento de los recursos en las Partidas 25800 y 46200.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba las Modificaciones Presupuestarias Gestión 2004, por un total de Bs.1.740.051.- (UN MILLON novecientos CUARENTA mil CINCUENTA Y UN 00/100 BOLIVIANOS) de recursos provenientes del incremento de Regalías, a favor de la Prefectura del Departamento de Tarija para incrementar las Partidas 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público”, de acuerdo al anexo adjunto y, de conformidad al Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link).
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de diciembre del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Luis Carlos Jemio Mollinedo, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Guillermo Torres Orías, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

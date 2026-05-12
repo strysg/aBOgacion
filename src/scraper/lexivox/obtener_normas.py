@@ -50,8 +50,8 @@ for norma in normas:
     anio = norma['MM/AAAA'].split('/')[-1]  # Extrae '1990'
     nombre_base = limpiar_nombre(norma['nombre'])
     
-    # Crear ruta de carpeta: normas/1990
-    ruta_carpeta = os.path.join("..", "..", "..", "normas", anio)
+    # Crear ruta de carpeta: normas/raw/1990
+    ruta_carpeta = os.path.join("..", "..", "..", "normas", "raw", anio)
     if not os.path.exists(ruta_carpeta):
         os.makedirs(ruta_carpeta)
     

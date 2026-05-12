@@ -1,0 +1,21 @@
+# Bolivia: Decreto Presidencial Nº 3814, 6 de marzo de 2019
+
+[Decreto Presidencial Nº 3814](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el ciudadano Carlos René Ortuño Yañez, Ministro de Medio Ambiente y Agua, mediante nota MMAYA/DESPACHO Nº 0241/2019, de 22 de febrero de 2019, presentada en la misma fecha, comunica que se ausentará del país en misión oficial del 05 al 10 de marzo de 2019, a la ciudad de La Haya - Reino de los Países Bajos, a objeto de participar en la Reunión Técnica en relación al proceso “Disputa sobre el Estatus y el Uso de las Aguas del Silala (Chile Vs. Bolivia)” que se encuentra radicado en la Corte Internacional de Justicia, razón por la cual solicita se designe Ministro Interino mientras dure su ausencia.
+* Que es necesario designar Ministra Interina o Ministro Interino para la continuidad administrativa del mencionado Despacho de conformidad a lo dispuesto por el Parágrafo I del Artículo 128 del [Decreto Supremo Nº 29894](#TODO-link), de 07 de febrero de 2009, Organización del Órgano Ejecutivo.
+
+DECRETA:
+
+**Artículo Único.-** Se designa MINISTRO INTERINO DE MEDIO AMBIENTE Y AGUA, al ciudadano Roberto Iván Aguilar Gómez, Ministro de Educación, mientras dure la ausencia del titular.
+
+---
+
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintiocho días del mes de febrero del año dos mil diecinueve.
+  
+FDO. EVO MORALES AYMA, Juan Ramón Quintana Taborga.

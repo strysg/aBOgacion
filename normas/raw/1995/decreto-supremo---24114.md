@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 24114, 2 de septiembre de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, mediante Declaración Conjunta Argentino -Boliviana, de fecha 31 de agosto de 1989, firmada por los Ministros de Relaciones Exteriores y Culto de la República Argentina y de la República de Bolivia, se acordó formalizar la compensación contable del total de las deudas pendientes entre ambos países para su eliminación recíproca, cuya fecha de cierre sería determinada de común acuerdo.
+* Que, mediante Declaración Presidencial de fecha 13 de diciembre de 1989, firmada entre los presidentes de la República Argentina, Carlos Saúl Menem, y de Bolivia, Jaime Paz Zamora, se acordó concluir los aspectos técnicos derivados del Acuerdo celebrado el 6 de septiembre de 1989, por el cual se dispuso la compensación contable del total de las deudas pendientes entre ambos países al 31 de julio de ese año.
+* Que, en base al acuerdo alcanzado entre las Repúblicas de Argentina y de Bolivia, el Tesoro General de la Nación (TGN) y Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) deberán conciliar y regularizar sus estados contables al 31 de diciembre de 1994, a fin de reflejar el impacto que dicho acuerdo tiene sobre su situación financiera.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Tesoro General de la Nación (TGN) a registrar en sus estados contables el monto de novecientos NOVENTA Y TRES MILLONES QUINIENTOS NUEVE mil CUATROCIENTOS vienticuatro 80/100 BOLIVIANOS (Bs793.509.424, 80) por concepto de pagos efectuados por Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) por cuenta del Tesoro General de la Nación (TGN), que guarda relación directa o indirecta con la compensación contable del total de la cuentas entre la República de Argentina y la República de Bolivia al 31 de Julio de 1989 y cuyo detalle se consigna en el anexo I de la presente disposición legal.
+
+**Artículo 2°.-** Se autoriza a Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) a registrar en sus estados contables el monto de SEISCIENTOS SESENTA Y TRES MILLONES novecientos SESENTA Y CUATRO mil CUATROCIENTOS SESENTA Y NUEVE 62/100 BOLIVIANOS (Bs.663.964.469, 62), por concepto de pagos efectuados por el Tesoro General de la Nación (TGN) por cuenta de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), que guardan relación directa o indirecta con la compensación contable del total de las deudas entre la República Argentina y la República de Bolivia al 31 de julio de 1989 y cuyo detalle se consigna en el Anexo I de la presente disposición legal. Estas transacciones serán registradas tanto en el pasivo corriente de sus estados como en la cuenta de resultados acumulados, por tratarse de actividades que corresponden a gestiones anteriores, que no deben afectar los resultados de la gestión de 1994.
+
+**Artículo 3°.-** Se autoriza tanto al Tesoro General de la Nación (TGN) como a Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) a compensar los saldos deudores y acreedores a los que se refiere los artículos primero y segundo de la presente disposición legal.
+
+**Artículo 4°.-** El saldo neto resultado de estas compensaciones será aplicado a las deudas directas, intereses diferenciales de los préstamos AIF-S/25/BO del Banco Mundial y a los contratos DGL-91-87 y DGL-42-88 del Gobierno de Dinamarca, otorgados en favor de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), gravámenes impositivos y otros cargos que pudieran surgir hasta el 30 de septiembre de 1995. En caso de persistir un importe pendiente de pago por parte del Tesoro General de la Nación (TGN), éste deberá ser castigado contablemente por Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) contra los resultados acumulados al 30 de septiembre de 1995.
+
+---
+
+Los señores Ministros de Estado en los despachos de Hacienda y sin Cartera Responsable de Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de septiembre de mil novecientos noventa y cinco anos.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Eduardo Trigo O’Connor d'Arlach MINISTRO SUPLENTE DE RELACIONES EXTERIORES Y CULTO, Carlos Sánchez Berzaín, Jorge Otasevic Toledo, José G. Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Freddy Teodovich Ortíz, Moisés Jarmusz Levy, Reynaldo Peters Arzabe, Irving Alcaraz del Castillo, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

@@ -1,0 +1,38 @@
+# Bolivia: Decreto Supremo Nº 24617, 14 de mayo de 1997
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 1ro. de la [Ley Nº 1544](#TODO-link) de 21 de marzo de 1994 (Ley de Capitalización) autorizó al Poder Ejecutivo a aportar los activos y/o derechos de las empresas públicas, entre ellas Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), para la constitución de nuevas sociedades de economía mixta que serán objeto de capitalización.
+* Que YPFB y Petróleo Brasileiro S.A.(Petrobrás), suscribieron en fecha 16 de agosto de 1996 el Contrato de Compra-Venta de Gas Natural, que contempla, entre otros, el desarrollo, la construcción, el financiamiento, la propiedad, operación y administración de un gasoducto de Bolivia al sur del Brasil para el transporte de gas natural, así como la creación de una empresa transportadora boliviana y una empresa transportadora brasileña, para implementar dicho Contrato.
+* Que en cumplimiento al [Decreto Supremo Nº 23908](#TODO-link) de 8 de diciembre de 1994, YPFB y Enron (Bolivia) C. V. suscribieron un Contrato de Asociación Accidental con Pacto de Accionistas, para participar en forma conjunta en el gasoducto al Brasil, previsto en el Contrato de Compra-Venta de Gas Natural celebrado entre YPFB y Petrobrás. El Contrato de Asociación Accidental con Pacto de Accionistas en su nueva versión fue aprobado mediante [Decreto Supremo Nº 24428](#TODO-link) de 4 de diciembre de 1996.
+* Que mediante [Decreto Supremo Nº 24410](#TODO-link) de 14 de noviembre de 1996, el Poder Ejecutivo autorizó la formación y constitución de la empresa Transportadora Boliviana de Hidrocarburos Sociedad de Economía Mixta (TBH S.A. M.) y el aporte de YPFB a dicha empresa de los activos de transporte y ciertos pasivos de YPFB. TBH S.A. M. ha cambiado posteriormente su denominación a Transredes - Transporte de Hidrocarburos Sociedad de Economía Mixta (Transredes S.A. M.).
+* Que mediante carta MC/DM/No.1175/96 de 20 de noviembre de 1996, el Ministerio sin Cartera Responsable de Capitalización ha comunicado a Enron (Bolivia) C. V. que podía participar en el proceso de capitalización de YPFB si forma parte de un consorcio con una o más de las empresas preseleccionadas y si en dicho consorcio no tiene una participación mayor al 50%. De conformidad a la carta mencionada, si el consorcio en el que participe Enron o sus empresas vinculadas resulta adjudicatario, debía vender a los restantes integrantes del Consorcio el 50% de su participación en el Contrato de Asociación Accidental con Pacto de Accionistas.
+* Que como parte de la Licitación Pública Internacional para la Capitalización de YPFB (Ref.: MC-05/95), el Ministerio sin Cartera Responsable de Capitalización ha emitido la Circular No.46, referida a la transferencia de derechos y obligaciones de YPFB en el Contrato de Asociación Accidental con Pacto de Accionistas.
+* Que mediante [Decreto Supremo Nº 24431](#TODO-link) de 5 de diciembre de 1996, el Poder Ejecutivo adjudicó las acciones a ser emitidas para la capitalización de Transredes S.A. M. al Consorcio Enron Transportadora (Bolivia) S.A.- Shell Overseas Holding Ltd., y autorizó a YPFB a ceder y transferir a Transredes S.A. M. los derechos y obligaciones bajo el Contrato de Asociación Accidental con Pacto de Accionistas.
+* Que Enron Transportadora (Bolivia) S.A. y Shell Gas (Latin America) B. V. han constituido la sociedad TR Holdings Ltda., para que actúe como la Sociedad Suscriptora prevista en los Términos de Referencia de la Segunda Etapa de la Licitación Pública Internacional para la Capitalización de YPFB (Ref.: MC-05/95).
+* Que Enron Transportadora Holdings Ltd. y Shell Gas (Latin America) B. V. han conformado la sociedad Gas Transboliviano S.A., que será la empresa transportadora boliviana contemplada en el Contrato de Compra Venta de Gas Natural cuando Transredes, Petrobrás y los socios de ésta sean sus accionistas.
+* Que con la facultad conferida a YPFB mediante la cláusula 6.7. del Contrato de Compra Venta de Gas Natural, se decidió incorporar a Enron (Bolivia) C. V., Shell Gas (Latin America) B. V. y a Transredes S.A. M. como sus socios en las compañías de transporte previstas en el mencionado contrato, tanto para el lado boliviano como para el lado brasileño del gasoducto, habiéndose elaborado a este efecto los contratos correspondientes.
+* Que mediante carta de fecha 14 de mayo de 1997 el Ministerio sin Cartera Responsable de Capitalización ha manifestado su acuerdo con la cesión del 50% de la participación en el Contrato de Asociación Accidental con Pacto de Accionistas, efectuada por Enron (Bolivia) C. V. en favor de Shell Gas (Latin America) B. V., en cumplimiento de la carta MC/DM/No.1175/96 emitida por el mismo Ministerio.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** En cumplimiento de la [Ley Nº 1544](#TODO-link) de 21 de marzo de 1994 (Ley de Capitalización) y como parte de los actos requeridos para el cierre del proceso de capitalización de la empresa Transredes - Transporte de Hidrocarburos Sociedad de Economía Mixta (Transredes S.A. M.), se instruye a la Presidencia Ejecutiva de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) la suscripción de los siguientes contratos, cuyos textos se aprueban mediante el presente decreto supremo:
+
+1. Contrato de Cesión, Aceptación y Coordinación, celebrado entre YPFB, Transredes S.A. M., Enron (BoliviC. V., Shell Gas (Latin AmericB. V., TR Holdings Ltda., Enron Transportadora Holdings Ltd. y Gas Transboliviano S.A., en sus 10 cláusulas y anexos 1, 1A, 1B, 1C, 2, 2A, 3 y 3A.
+2. Contrato de Cesión Parcial y Aceptación, para la cesión parcial del Contrato de Compra Venta de Gas Natural (“GSA”), en la forma del anexo 1 del Contrato especificado en el inciso a) del presente artículo, a ser suscrito entre YPFB y Transredes S.A. M. en sus 6 cláusulas.
+3. Contrato de Cesión y Aceptación, para la cesión del Contrato de Ingeniería, adquisición y Construcción Llave en Mano, en la forma del anexo 2 del Contrato especificado en el inciso a) del presente artículo, a ser suscrito entre YPFB, y Gas Transboliviano S.A. en sus 6 cláusulas.
+4. Contrato de Cesión y Aceptación, para la cesión del Contrato de Pago Anticipado y de los Términos de Referencia del Contrato de Transporte en el Tramo Brasileño, en la forma del anexo 3 del Contrato especificado en el inciso a) del presente artículo, a ser suscrito entre YPFB y Gas Transboliviano S.A..
+
+---
+
+Los señores Ministros de Estado en los Despachos sin Cartera Responsable de Desarrollo Económico y sin Cartera Responsable de Capitalización, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de mayo de mil novecientos noventa y siete años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Victor Hugo Canelas Zannier, Alfonso Erwin Kreidler Guillaux, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Candia Castillo, Franklin Anaya Vásquez, Moisés Jarmúsz Levy, Alberto Vargas Covarrubias, Mauricio Antezana Villegas, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

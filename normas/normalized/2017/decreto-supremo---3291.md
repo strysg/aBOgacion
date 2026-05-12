@@ -1,0 +1,48 @@
+# Bolivia: Decreto Supremo Nº 3291, 24 de agosto de 2017
+
+[Decreto Supremo Nº 3291](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 49 de la [Constitución Política del Estado](#TODO-link), establece que la ley regulará las relaciones laborales relativas a contratos y convenios colectivos; salarios mínimos generales, sectoriales e incrementos salariales.
+* Que el Artículo 123 del Texto Constitucional, determina que la ley sólo dispone para lo venidero y no tendrá efecto retroactivo, excepto en materia laboral, cuando lo determine expresamente a favor de las trabajadoras y de los trabajadores.
+* Que el Parágrafo I del Artículo 361 de la [Constitución Política del Estado](#TODO-link), dispone que Yacimientos Petrolíferos Fiscales Bolivianos - YPFB es una empresa autárquica de derecho público, inembargable, con autonomía de gestión administrativa, técnica y económica, en el marco de la política estatal de hidrocarburos. YPFB, bajo tuición del Ministerio del ramo y como brazo operativo del Estado, es la única facultada para realizar las actividades de la cadena productiva de hidrocarburos y su comercialización.
+* Que el Parágrafo IV de la Disposición Transitoria Primera de la [Ley Nº 466](#TODO-link), de 26 de diciembre de 2013, de la Empresa Pública, señala que la empresa continuará desarrollando sus actividades conforme a su normativa hasta el día siguiente hábil a la notificación con el registro de la empresa que establezca la adopción de la nueva tipología.
+* Que el Parágrafo II del Artículo 17 de la [Ley Nº 614](#TODO-link), de 13 de diciembre de 2014, del Presupuesto General del Estado Gestión 2015, vigente por disposición del inciso n) de la Disposición Final Tercera de la [Ley Nº 856](#TODO-link), de 28 de noviembre de 2016, del Presupuesto General del Estado Gestión 2017, establece que la remuneración básica mensual de la Máxima Autoridad Ejecutiva - MAE de las entidades públicas, no deberá ser superior a la de un Ministro de Estado; asimismo, el total percibido incluido los beneficios colaterales, no debe ser superior al definido para el Presidente del Estado Plurinacional.
+* Que el Artículo Único del [Decreto Supremo Nº 0086](#TODO-link), de 18 de abril de 2009, otorga el carácter de Empresa Pública Nacional Estratégica - EPNE a YPFB.
+* Que el Artículo 2 del [Decreto Supremo Nº 2348](#TODO-link), de 1 de mayo de 2015, dispone que el incremento salarial para las trabajadoras y los trabajadores de las Empresas Públicas del nivel central del Estado, será autorizado mediante Decreto Supremo expreso; asimismo, el Artículo 3 del citado Decreto Supremo, señala que el porcentaje de incremento salarial no podrá ser superior al incremento salarial aprobado anualmente para el sector público, de acuerdo a la utilidad neta y disponibilidad financiera de cada empresa.
+* Que el inciso b) del Artículo 3 del [Decreto Supremo Nº 3162](#TODO-link), de 1 de mayo de 2017, aprueba el incremento salarial de hasta el siete por ciento (7%), para las entidades Desconcentradas, Descentralizadas, Autárquicas y otras del Órgano Ejecutivo del nivel central del Estado.
+* Que de acuerdo a la normativa antes citada, es necesario aprobar el incremento salarial de las trabajadoras y los trabajadores de YPFB, con el fin de establecer una remuneración que asegure su subsistencia y la de sus familias, incentivando a los mismos a prestar un mejor servicio en las actividades del sector hidrocarburífero.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se aprueba el incremento salarial de hasta cinco por ciento (5%) al haber básico en la escala vigente del personal Administrativo Operativo de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB Casa Matriz, evitando superposiciones de niveles salariales.
+2. La ejecución del incremento salarial señalado en el Parágrafo precedente, será financiado con recursos específicos de YPFB.
+3. El incremento salarial señalado en el Parágrafo I del presente Artículo, se aplicará con carácter retroactivo al 1 de enero de 2017. Se excluye de este incremento a los salarios del personal especializado de YPFB.
+4. La aplicación del incremento salarial establecido en el presente Decreto Supremo, es responsabilidad de la Máxima Autoridad Ejecutiva de YPFB.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+     
+
+   # Disposiones finales
+
+**DISPOSICIÓN FINAL ÚNICA.-** Para el cumplimiento del Artículo Único del presente Decreto Supremo, YPFB deberá remitir al Ministerio de Economía y Finanzas Públicas, la escala salarial modificada en un plazo máximo de quince (15) días hábiles posteriores a la publicación del presente Decreto Supremo, para su correspondiente evaluación y aprobación.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Hidrocarburos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de agosto del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, Fernando Huanacuni Mamani, René Martínez Callahuanca, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Mariana Prado Noya, Mario Alberto Guillén Suárez, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Carlos Rene Ortuño Yañez MINISTRO DE MEDIO AMBIENTE Y AGUA E INTERINO DE SALUD, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

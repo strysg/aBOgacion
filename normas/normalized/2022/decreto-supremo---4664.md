@@ -1,0 +1,41 @@
+# Bolivia: Decreto Supremo Nº 4664, 27 de enero de 2022
+
+[Decreto Supremo Nº 4664](#TODO-link) LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 16 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](#TODO-link), determina como competencia privativa del nivel central del Estado, los Censos Oficiales.
+* Que el numeral 13 del Parágrafo II del Artículo 298 del Texto Constitucional, establece como competencia exclusiva del nivel central del Estado, la elaboración y aprobación de estadísticas oficiales.
+* Que el Parágrafo I del Artículo 321 de la [Constitución Política del Estado](#TODO-link), señala que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, dispone que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Parágrafo I del Artículo 6 de la [Ley Nº 1405](#TODO-link), de 1 de noviembre de 2021, de Estadísticas Oficiales del Estado Plurinacional de Bolivia, determina que el Instituto Nacional de Estadísticas - INE es una institución pública descentralizada, técnica-especializada, con autonomía de gestión administrativa, financiera, legal y técnica, con patrimonio propio, bajo tuición del Ministerio de Planificación del Desarrollo, con sede principal en la ciudad de La Paz y con oficinas en el territorio del Estado Plurinacional de Bolivia.
+* Que el Parágrafo I del Artículo 9 de la [Ley Nº 1267](#TODO-link), de 20 de diciembre de 2019, del Presupuesto General del Estado Gestión 2020, vigente por el inciso x) de la Disposición Final Segunda de la [Ley Nº 1413](#TODO-link), de 17 de diciembre de 2021, del Presupuesto General del Estado Gestión 2022, establece que en el marco del numeral 23 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link), los Ministerios de Economía y Finanzas Públicas, y de Planificación del Desarrollo, aprobarán mediante Resolución Ministerial, las modificaciones presupuestarias destinadas a gasto corriente o inversión pública, respectivamente, de las entidades públicas que afecten negativamente el resultado fiscal global del sector público; exceptuándose los saldos no ejecutados de donación externos e internos, y aquellas autorizadas mediante Decreto Supremo.
+* Que el Artículo 4 de la [Ley Nº 1413](#TODO-link), dispone que la Máxima Autoridad Ejecutiva - MAE de cada entidad pública, es responsable del uso, administración, destino, cumplimiento de objetivos, metas, resultados de los recursos públicos y la aprobación, ejecución, seguimiento, evaluación y cierre de proyectos, a cuyo efecto deberá observar las disposiciones contenidas en la citada Ley y las establecidas en las normas legales vigentes.
+* Que el Artículo 2 del [Decreto Supremo Nº 4546](#TODO-link), de 21 de julio de 2021, declara prioridad nacional la realización del Censo de Población y Vivienda - 2022 en todas sus etapas, debiendo las autoridades públicas y privadas, instituciones, organizaciones y población en general, prestar su apoyo y participar en su realización, en el marco de la competencia privativa de censos oficiales establecida en el numeral 16 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](#TODO-link).
+* Que el inciso b) del Artículo 4 del [Decreto Supremo Nº 4546](#TODO-link), señala que para el desarrollo del Censo de Población y Vivienda - 2022 tendrá como fuente de financiamiento recursos externos para financiamiento y/o reposición, para lo cual el Ministerio de Planificación del Desarrollo suscribirá convenios, acuerdos y/o contratos de financiamiento con la cooperación bilateral y/o multilateral.
+* Que el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 4646](#TODO-link), de 29 de diciembre de 2021, que reglamenta la aplicación de la [Ley Nº 1413](#TODO-link), señala que en el marco de sus competencias, se autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo, la inscripción y/o incremento de las partidas de gasto 25200 "Estudios, Investigaciones, Auditorías Externas y Revalorizaciones", 25800 "Estudios e Investigaciones para Proyectos de Inversión No Capitalizables" y subgrupo 46000 "Estudios y Proyectos para Inversión", con recursos de financiamiento externo de crédito, donación, y su contraparte nacional establecidos en los convenios respectivos. Para las demás fuentes de financiamiento el incremento de estas partidas deberá aprobarse mediante Decreto Supremo.
+* Que con la finalidad de dar inicio a las actividades pre censales para la realización del Censo de Población y Vivienda - 2022, es necesario autorizar al INE el incremento de las subpartidas de Consultorías Individuales de Línea y Consultorías por Producto.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar en la gestión 2022, al Instituto Nacional de Estadística - INE, el incremento de las subpartidas de Consultorías por Producto y Consultorías Individuales de Línea, para el inicio de actividades pre censales destinadas a la realización del Censo de Población y Vivienda - CPV 2022.
+
+**Artículo 2°.- (Consultorías)** 
+
+1. Se autoriza al INE incrementar, en la gestión 2022, las subpartidas:
+   1. 25810 "Consultorías por Producto" por el monto de Bs13.693.627.- (TRECE MILLONES SEISCIENTOS NOVENTA Y TRES mil SEISCIENTOS VEINTISIETE 00/100 BOLIVIANOS);
+   2. 25820 "Consultores Individuales de Línea" por el monto de Bs51.768.333.- (CINCUENTA Y UN MILLONES novecientos SESENTA Y OCHO mil TRESCIENTOS TREINTA Y TRES 00/100 BOLIVIANOS).
+2. Para el incremento de las subpartidas señaladas precedentemente, se autoriza al Ministerio de Economía y Finanzas Públicas a través del Tesoro General de la Nación - TGN transferir el monto de Bs65.461.960.- (SESENTA Y CINCO MILLONES CUATROCIENTOS SESENTA Y UN mil novecientos SESENTA 00/100 BOLIVIANOS), a favor del INE, a través de un traspaso presupuestario interinstitucional afectando la partida 57100 "Incremento de Caja y Bancos" de la entidad 0099 "TGN", destinado al inicio de las actividades pre censales para el desarrollo del Censo de Población y Vivienda - CPV 2022.
+3. Los recursos señalados precedentemente serán repuestos por el Ministerio de Planificación del Desarrollo al TGN con cargo al financiamiento externo establecido en el inciso b) del Artículo 4 del [Decreto Supremo Nº 4546](#TODO-link), de 21 de julio de 2021.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintiséis días del mes de enero del año dos mil veintidós.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Edgar Pary Chambi, Remmy Ruben Gonzales Atila, Sabina Orellana Cruz.

@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 23083, 13 de marzo de 1992
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, la Declaración Conjunta Argentino Boliviana suscrita por los Cancilleres de las Repúblicas de Bolivia y Argentina el 31 de agosto de 1989 establece la compensación contable del total de las deudas pendientes entre ambos países para su eliminación recíproca.
+* Que, por Notas Reversales firmadas entre ambos países en fecha 6 de septiembre de 1989 se acordó como fecha de cierre para la compensación de deudas, el 31 de julio de 1989.
+* Que, la Declaración Presidencial suscrita por los Presidentes de las Repúblicas de Bolivia y Argentina el 31 de diciembre de 1989 ratifica los acuerdos antes mencionados.
+* Que, los organismos del Gobierno Central, Gobiernos Locales, Empresas e Instituciones del sector público, han obtenido créditos de la República Argentina, mediante líneas de crédito, contratos y operaciones de crédito documentario a través del Convenio de Pagos y Créditos Recíprocos -ALADI- que se incluyen en la compensación total de obligaciones recíprocas entre Bolivia y Argentina.
+* Que, es propósito del Gobierno Nacional que los beneficios de la compensación total de obligaciones recíprocas sea trasladado en la alícuota correspondiente a los deudores originales del sector público.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** El Banco Central de Bolivia, en cumplimiento de los Acuerdos referidos en la Compensación del total de las obligaciones recíprocas entre las Repúblicas de Bolivia y Argentina, deberá efectuar el cierre contable de las mismas al 31 de julio de 1989.
+
+**Artículo 2°.-** Las entidades del sector público podrán saldar sus obligaciones provenientes de créditos que se consideran dentro de la compensación de deudas con la Argentina, con deudas del Gobierno Central. Si después de esta compensación quedaren saldos de sus obligaciones, éstas se acogerán a lo dispuesto en el artículo tercero del presente Decreto Supremo.
+
+**Artículo 3°.-** Los organismos del Gobierno Central, Gobiernos Locales, Empresas e Instituciones del sector público, podrán eliminar sus obligaciones incluidas en la compensación de deudas, con los saldos determinados a la fecha de promulgación del presente Decreto Supremo, a cuyo efecto en el plazo improrrogable de 120 días realizarán la conciliación de cifras con el Banco Central de Bolivia.
+
+**Artículo 4°.-** Las obligaciones del sector privado mantendrán las estipulaciones contractuales originalmente suscritas con las instituciones del sistema financiero nacional y a su vez éstas con el Banco Central de Bolivia.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planeamiento y Coordinación y de Finanzas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de marzo de mil novecientos noventa y dos años.
+  
+Fdo. JAIME PAZ ZAMORA, Carlos Iturralde Ballivián, Carlos A. Saavedra Bruno, Gustavo Fernández Saavedra, Alberto Sainz Klinski, Jorge Landívar Roca, Samuel Doria Medina Auza, David Blanco Zabala, Hedim Céspedes Cossio, Willy Vargas Vacaflor, Leopoldo López Cossio, Oscar Zamora Medinacelli, Mario Paz Zamora, Gonzalo Valda Cárdenas, Mauro Bertero Gutiérrez, Herbert Muller Costas, Fernando Kieffer Guzmán, Mario Rueda Peña.

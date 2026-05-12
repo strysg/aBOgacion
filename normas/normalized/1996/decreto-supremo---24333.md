@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 24333, 3 de julio de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Considerando:
+
+* Que la [Ley Nº 1330](#TODO-link) de 24 de abril de 1992 (Ley de Privatización) autoriza a las instituciones, entidades y empresas del sector público enajenar los activos, bienes, valores, acciones y derechos de su propiedad y transferirlos a personas naturales o jurídicas, nacionales o extranjeras, o aportar los mismos a la constitución de nuevas sociedades anónimas mixtas.
+* Que por [Decreto Supremo Nº 23991](#TODO-link) se reglamenta la [Ley Nº 1330](#TODO-link) disponiendo que todas las empresas y demás entidades públicas propietarias de unidades económicas, activos, bienes, valores, acciones y derechos, deben someterse a procesos de reordenamiento.
+* Que en virtud de la resolución 013/95 de 25 de agosto de 1995 del Consejo de Desarrollo Nacional (CODENA), resolución ministerial 080/95 de 20 de septiembre de 1995 del Ministerio sin Cartera Responsable de Capitalización y resolución 07/95 de 20 de marzo de 1995 del Directorio de la Corporación Regional de Desarrollo de La Paz, se convoco a la venta de los activos pertenecientes a la unidad económica conocida con el nombre de Planta Hilandería Viacha, de propiedad de la entonces Corporación Regional de Desarrollo de La Paz, mediante Licitación Pública No. MC/SNCI/UR/LIC.013/95.
+* Que mediante resolución ministerial 112/95 de fecha 17 de noviembre de 1995, emitida por el Ministerio sin Cartera Responsable de Capitalización, en aplicación del artículo quinto de la resolución suprema 215521 de 13 de abril de 1995, se designan Vocales de la Comisión de Calificación para la Licitación Pública referida.
+* Que de acuerdo a lo previsto en la convocatoria y Pliego de Condiciones, en la ciudad de La Paz, en fecha 18 de diciembre de 1995, se instaló la Comisión Calificadora en el lugar y hora señalada sin que se presentaran ofertas, emitiendo el informe de fecha 18 de diciembre, declarando desierta la Licitación e instruyendo a la Unidad de Reordenamiento efectuar una nueva convocatoria de acuerdo a las exigencias y modalidades establecidas en el punto 23 del Pliego de Condiciones.
+* Que en virtud de las disposiciones contenidas en la [Ley Nº 1654](#TODO-link) de 28 de julio de 1995 (Ley de Descentralización Administrativa), [Decreto Supremo Nº 24206](#TODO-link) de 29 de diciembre de 1995 y [Decreto Supremo Nº 24229](#TODO-link) de techa 8 de febrero de 1996, la Planta Hilandería Viacha pasó a ser de propiedad de la Prefectura de La Paz quedando el Prefecto del Departamento encargado de proseguir las acciones iniciadas por la Corporación Regional de Desarrollo de La Paz.
+* Que a mérito de la segunda convocatoria No. MC/SNCI/UR/LIC-01395-II, en fecha 29 de mayo de 1996, la Comisión Calificadora efectuó la recepción y apertura de sobres con las siguientes propuestas por los activos que componen los lotes Uno (1) y Dos (2) de la unidad económica: a) HILANDERIA SENDTEX Ltda. representa por Sender Aizencang Ender oferto la suma de $us 672 000 (SEISCIENTOS SETENTA Y DOS MIL 00/100 DOLARES ESTADOUNIDENSES) por ambos lotes, en tanto que, b)POLAR TEXTIL Ltda. representada por el Sr. José Iberkleid Ungerson ofertó la suma de $us 401.000.- (CUATROCIENTOS UN MIL 00/100 DOLARES ESTADOUNIDENSES) por el lote número 1 y por el lote Nº 2 la suma de $us 50.000.- (CINCUENTA MIL 00/100 DOLARES ESTADOUNIDENSES)
+* Que el Ministro sin Cartera Responsable de Capitalización ha presentado a consideración del Presidente de la República en Consejo de Ministros el informe de la Comisión Calificadora, que en uso de las atribuciones establecidas en la resolución suprema 215521, de acuerdo al análisis efectuado, recomienda la adjudicación de los activos pertenecientes a la Planta Hilandería Viacha en favor de HILANDERIA SENDTEX Ltda , representada por Sender Aizencang linder en el precio de $us. 672.000 (SEISCIENTOS SETENTA Y DOS MIL 00/1OO DOLARES ESTADOUNIDENSES) por los lotes 1 y 2 ofertados, a ser pagados al contado a la suscripción del contrato de compra - venta.
+* Que de conformidad al artículo séptimo de la resolución suprema 2115121 corresponde efectuar la adjudicación mediante Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Adjudicase los lotes Uno y Dos pertenecientes a la Planta Hilandería Viacha, ofertados mediante Licitación Pública No. MC/SNCI/UR/LIC-013/95 - II, en favor de HILANDERIA SENDEX Ltda, representada por Sender Aizencang Ender en el precio de $us. 672.000 (SEISCIENTOS SETENTA Y DOS MIL 00/100 DOLARES ESTADOUNIDENSES).
+
+**Artículo 2°.-** El precio total señalado en el artículo anterior, deberá ser pagado al contado y en efectivo a la firma del contrato de compra-venta, el cual será suscrito por el Ministro sin Cartera Responsable de Capitalización y el Prefecto del Departamento de La Paz.
+
+---
+
+El señor Ministro sin Cartera Responsable de Capitalización, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los tres días del mes de julio de mil novecientos noventa y seis años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Hugo San Martin Arzabe. MINISTRO SUPLENTE DE GOBIERNO. Jorge Otasevic Toledo, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer. Gonzalo Afcha de la Parra, MINISTRO SUPLENTE DE HACIENDA, Freddy Teodovich Ortiz, Moisés Jarmusz Levy, Reynaldo Peters Arzabe, Guillermo Richter Ascimani. Alfonso Revollo Thenier. Jaime Villalobos Sanjinés.

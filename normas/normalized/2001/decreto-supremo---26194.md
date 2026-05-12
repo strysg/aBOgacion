@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 26194, 24 de mayo de 2001
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Decreto Supremo Nº 25833](#TODO-link) de 06 de julio del 2000, se autorizó la cancelación de un beneficio anual denominado “Asignación por Campaña de Vacunación” en favor de los servidores públicos afiliados a la Confederación Sindical de Trabajadores en Salud de Bolivia con cargo al presupuesto tanto del Ministerio de Salud y Previsión Social como de las Prefecturas Departamentales.
+* Que el Convenio suscrito el 30 de enero del 2001, por los Ministros de Salud y Previsión Social y del Trabajo y Microempresa y la Confederación Sindical de Trabajadores en Salud de Bolivia, reconoce la cancelación del beneficio mencionado en Bs900.-, imputable el monto de Bs716.- al Ministerio de Salud y Previsión Social y Bs184.- a las Prefecturas de Departamento.
+* Que, el referido convenio en el párrafo precedente crea a partir de la presente gestión el reconocimiento a los años de Servicio, que se cancelará por una sola vez conjuntamente con la “Asignación por Campaña de Vacunación”, de acuerdo a la escala vigente, quedando este beneficio institucionalizado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza el pago único de Bs900.- (NOVECIENTOS 00/100 BOLIVIANOS), como “Asignación por Campaña de Vacunación” por la gestión 2001, en favor de los servidores públicos dependientes del Ministerio de Salud y Previsión Social y de los Servicios Departamentales de Salud, de acuerdo a procedimientos establecidos por el Ministerio de Salud y Previsión Social.
+
+**Artículo 2°.-** El pago de este beneficio será confinanciado entre el Ministerio de Salud y Previsión Social con Bs716.- (SETECIENTOS dieciséis 00/100 BOLIVIANOS) por persona con cargo a los recursos establecidos en el artículo 27 de la [Ley Nº 2042](#TODO-link) y las Prefecturas Departamentales con Bs184.- (CIENTO OCHENTA Y CUATRO 00/100 BOLIVIANOS) por persona, con sus recursos propios.
+
+**Artículo 3°.-** Conforme a la [Ley Nº 843](#TODO-link), para efectos del RC - IVA los beneficiarios de este emolumento obtendrán el crédito a través del Formulario 101 del SNII, con la presentación de facturas o notas fiscales.
+
+**Artículo 4°.-** Se determina que de acuerdo a importes de anexo del presente decreto, las Prefecturas Departamentales deberán proceder al Traspaso Presupuestario de recursos al Ministerio de Salud y Previsión Social, hasta el 15 de junio del presente año, de acuerdo a procedimientos establecidos por disposiciones vigentes, a objeto de la cancelación en una papeleta única.
+
+**Artículo 5°.-** Se crea a partir de la presente gestión el reconocimiento a los años de servicio que se cancelará conjuntamente con la “Asignación por Campaña de Vacunación” de acuerdo a convenio y escala vigente.
+
+**Artículo 6°.-** Se faculta al Ministerio de Salud y Previsión Social y de Hacienda aprobar por resolución expresa, las modificaciones presupuestarias emergentes de la aplicación del presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Hacienda y de Salud y Previsión Social, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno e la ciudad de La Paz, a los vienticuatro días del mes de mayo del año dos mil uno.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Marcelo Pérez Monasterios, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Carlos Saavedra Bruno, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Mario Galindo Sosa MINISTRO INTERINO DE DESARROLLO SOSTENIBLE Y PLANIFICACION, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

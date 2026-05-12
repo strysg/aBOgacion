@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 4692, 30 de marzo de 2022
+
+[Decreto Supremo Nº 4692](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 17 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](#TODO-link), determina que es competencia privativa del nivel central del Estado la política general sobre tierras y territorio, y su titulación.
+* Que el Artículo 17 de la [Ley Nº 1715](#TODO-link), de 18 de octubre de 1996, del Servicio Nacional de Reforma Agraria, modificado por el Artículo 12 de la [Ley Nº 3545](#TODO-link), de 28 de noviembre de 2006, Modificación de la [Ley Nº 1715](#TODO-link) Reconducción de la Reforma Agraria, crea el Instituto Nacional de Reforma Agraria - INRA, como entidad pública descentralizada del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente actual Ministerio de Desarrollo Rural y Tierras, con jurisdicción nacional, personalidad jurídica y patrimonio propio, como el órgano técnico-ejecutivo encargado de dirigir, coordinar y ejecutar las políticas establecidas por el Servicio Nacional de Reforma Agraria.
+* Que el Parágrafo I del Artículo Único de la [Ley Nº 852](#TODO-link), de 11 de noviembre de 2016, señala que de conformidad a lo establecido en el numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](#TODO-link), se aprueba el Contrato de Préstamo N° 3722/BL-BO suscrito entre el Estado Plurinacional de Bolivia y el Banco Interamericano de Desarrollo - BID, en fecha 5 de octubre de 2016, por un monto de hasta $us60.000.000.- (Sesenta Millones 00/100 Dólares Estadounidenses), para contribuir a la financiación y ejecución del “Programa de Saneamiento y Titulación de Tierras Rurales”.
+* Que el Parágrafo I del Artículo 12 del [Decreto Supremo Nº 0283](#TODO-link), de 2 de septiembre de 2009, modificado por el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 2063](#TODO-link), de 23 de julio de 2014, dispone que independientemente de la fuente de financiamiento, la compra de vehículos debe ser autorizada mediante Decreto Supremo expreso.
+* Que el INRA, requiere la compra de vehículos con el fin de ejecutar el Programa de Saneamiento y Titulación de Tierras Rurales conforme lo establecido en el Contrato de Préstamo BID N° 3722/BL-BO, aprobado por [Ley Nº 852](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar para la presente gestión, la compra de vehículos al Instituto Nacional de Reforma Agraria - INRA.
+
+**Artículo 2°.- (Autorización)** Se autoriza al INRA, la compra de treinta y cinco (35) camionetas 4x4 destinadas a las actividades de trabajo operativo, brigadas de campo en área rural y una (1) vagoneta destinada a las actividades de trabajo ejecutivo de seguimiento al proceso de saneamiento en el área rural; para la ejecución del Programa de Saneamiento y Titulación de Tierras Rurales conforme lo establecido en el Contrato de Préstamo BID N° 3722/BL-BO, aprobado por [Ley Nº 852](#TODO-link), de 11 de noviembre de 2016.
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Rural y Tierras, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los treinta días del mes de marzo del año dos mil veintidós.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gómez García, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Ramiro Félix Villavicencio Niño De Guzmán, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz MINISTRO DE MEDIO AMBIENTE Y AGUA E INTERINO DE DESARROLLO RURAL Y TIERRAS, Edgar Pary Chambi, Sabina Orellana Cruz.

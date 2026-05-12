@@ -1,0 +1,195 @@
+# Bolivia: Decreto Supremo Nº 28719, 17 de mayo de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Estado tiene la ineludible obligación de garantizar y defender el capital humano, así como la salud de su población, siendo ambos derechos consagrados por el Artículo 7 de la Constitución Política del Estado, es también deber del Estado determinar los mecanismos e instancias para cumplir con esta obligación primordial.
+* Que las instancias competentes para garantizar tanto el capital humano como la salud de la población son el Ministerio de Salud y Deportes, así como los Entes Gestores en Salud.
+* Que los Entes Gestores a cargo de las Cajas de Salud administran la gestión, aplicación y ejecución del Régimen de Seguridad Social a Corto Plazo (Enfermedad, Maternidad y Riesgos Profesionales a Corto Plazo). Que la Caja Nacional de Salud, como principal Ente Gestor en Seguridad Social, reconocida como Institución Descentralizada de Derecho Público, sin fines de lucro, con personalidad jurídica, autonomía de gestión y patrimonio independiente, tiene como misión brindar la protección integral en el campo de salud a toda su población asegurada.
+* Que tomando en cuenta que la Caja Nacional de Salud como primer Ente Gestor de Seguridad Social de los Regímenes a Corto Plazo, es la más importante por su numerosa población asegurada, con el propósito de que cumpla sus eminentes funciones de protección al capital humano, en condiciones compatibles con la realidad económica y social del País, precisaba contar con personal de primer nivel, altamente capacitado y de reconocida trayectoria, emitiéndose para tal fin el [Decreto Supremo Nº 26495](#TODO-link) de 4 de febrero de 2002, modificado por el [Decreto Supremo Nº 26637](#TODO-link) de 24 de mayo de 2002.
+* Que el objeto del [Decreto Supremo Nº 26495](#TODO-link) fue el de “...implementar la institucionalización de la Caja Nacional de Salud — CNS...”, instruyendo para este propósito al Ministerio de Salud y Previsión Social, iniciar el correspondiente proceso, fijando lineamientos claros y precisos establecidos en el citado Decreto Supremo.
+* Que en primera instancia el [Decreto Supremo Nº 26495](#TODO-link), dispuso la institucionalización de la Caja Nacional de Salud en todos sus niveles, debiendo efectuarse a través de Convocatorias Públicas por Empresas Especializadas en la selección y contratación de recursos humanos, al amparo de lo previsto por el Artículo 10 del [Decreto Supremo Nº 25749](#TODO-link) de 27 de octubre de 1999.
+* Que ante la evidencia del Proceso de Institucionalización de la Caja Nacional de Salud tuvo resultados positivos, debiendo obligatoriamente continuar con el mismo, siendo preciso para este efecto actualizar y reajustar la Norma Legal, sobre la base de la experiencia adquirida, en tal sentido, el [Decreto Supremo Nº 26495](#TODO-link), es sustituido por la presente disposición legal. EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Prosecucion del proceso de institucionalizacion de la Caja Nacional de Salud
+
+**Artículo 1°.- (Objeto)** 
+
+1. El presente Decreto Supremo tiene por objeto disponer la prosecución del Proceso de Institucionalización de la Caja Nacional de Salud — CNS, en base a los procedimientos legales que permitan contar con personal de alto nivel en los diferentes cargos ejecutivos, jerárquicos e intermedios de la Caja Nacional de Salud, garantizando de esta manera la prestación de las atenciones con calidad profesional, eficiencia y calidez. Asimismo se abroga el [Decreto Supremo Nº 26495](#TODO-link) de 4 de febrero de 2002.
+2. Se instruye al Directorio de la Caja Nacional de Salud, proseguir y supervisar el Proceso de Institucionalización, bajo los nuevos parámetros previstos en la presente Norma Legal, para lo cual se le autoriza establecer un mecanismo de Reclutamiento, Selección y Elección de los postulantes a los diferentes Cargos a ser convocados.
+
+**Artículo 2°.- (Proceso de reclutamiento, seleccion y eleccion de postulantes)** El Directorio de la Caja Nacional de Salud, en el término de treinta (30) días hábiles a partir de la promulgación del presente Decreto Supremo, elaborará un “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a los Cargos Vacantes de la Caja Nacional De Salud”; en el que se definirán los parámetros para lograr objetivos y los procedimientos a seguir. El referido Reglamento, deberá adecuarse a los procesos previstos en el [Decreto Supremo Nº 26115](#TODO-link) de 15 de marzo de 2001 y ser aprobado por el Ministerio de Salud y Deportes, a través de Resolución expresa, lo que no implica una asimilación a los alcances del Estatuto del Funcionario Público.
+
+**Artículo 3°.- (Tribunal)** I. Se establece un Tribunal encargado de la Selección de los postulantes a cargos ejecutivos, jerárquicos e intermedios de la Caja Nacional de Salud, de la lista de quienes hubieran obtenido el puntaje mínimo para su elección.
+
+1. El Tribunal estará conformado por:
+     
+   - Un Representante del Ministerio de Salud y Deportes.
+     
+   - Un Representante del Ministerio de la Presidencia.
+     
+   - Tres miembros del Directorio (uno por cada sector).
+
+**Artículo 4°.- (Cargos de confianza y libre nombramiento)** Se elimina la incorporación directa a los cargos de confianza y libre nombramiento, debiendo convocarse los cargos ejecutivos, jerárquicos e intermedios de la Caja Nacional de Salud en base a la capacidad y reconocimiento de méritos. La desvinculación funcionaria, debe estar sujeta a la evaluación de desempeño y a la decisión de la Máxima Autoridad Ejecutiva — MAE de la CNS.
+
+**Artículo 5°.- (Terminos)** El nombramiento del cargo de Gerente General, se realizará en el término de sesenta (60) días hábiles a partir de la promulgación del presente Decreto Supremo. Su elección esta sujetará a los procedimientos establecidos en el “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a Cargos Vacantes de la Caja Nacional de Salud”, bajo responsabilidad del Directorio de la Caja Nacional de Salud.
+
+**Artículo 6°.- (Investigacion y responsabilidad sobre hechos de corrupcion)** Se instruye, el inicio y consecución de los procesos judiciales y administrativos, hasta su ejecutoria, de los hechos de corrupción considerados de acuerdo a lo establecido en la Convención Interamericana contra la Corrupción, [Ley Nº 1743](#TODO-link) de 15 de enero de 1997.
+
+## Capítulo II Directorio de la Caja Nacional de Salud
+
+**Artículo 7°.- (Conformacion)** El Directorio de la Caja Nacional de Salud, estará conformado por nueve (9) Directores, con la siguiente composición:
+
+1. TRES REPRESENTANTES ESTATALES.- Actuarán en representación del Poder Ejecutivo.
+2. TRES REPRESENTANTES LABORALES.- Actuarán en representación de la Central Obrera de Bolivia — COB.
+3. TRES REPRESENTANTES PATRONALES.- Actuarán en representación de la Confederación de Empresarios Privados de Bolivia.
+     
+   Los Directores serán designados por cada sector al que representan - Poder Ejecutivo, Central Obrera Boliviana y Confederación de Empresarios Privados de Bolivia -, cuya nómina será enviada al Ministerio de Salud y Deportes, que en su condición de cabeza de sector que ejerce tuición sobre la Caja Nacional de Salud, ratificará a los nueve (9) Directores, a través de Resolución Ministerial.
+
+**Artículo 8°.- (Requisitos de nombramiento)** Para ser nombrados Directores, se deberá demostrar conocimientos en el campo de Seguridad Social y Salud Pública.
+
+**Artículo 9°.- (Periodo de funciones)** Los Miembros del Directorio de la Caja Nacional de Salud, ejercerán sus funciones por el lapso de cuatro (4) años, no pudiendo ser designados nuevamente.
+
+**Artículo 10°.- (Causas de destitucion)** 
+
+1. Los Directores podrán ser relevados de sus funciones por las causas siguientes:
+   1. Renuncia.
+   2. Revocatoria de mandato por el sector mandante al que representa.
+   3. Invalidez ó muerte, conforme a las disposiciones legales aplicables.
+   4. Sentencia condenatoria ejecutoriada por la comisión de delitos de Acción Pública.
+   5. Por tener Pliegos de Cargo ejecutoriados y no pagados con el Estado.
+   6. Conflicto de intereses y/o incompatibilidades con sus funciones.
+2. Los Miembros del Directorio no podrán desempeñar actividades que puedan ocasionar conflicto de intereses con la Caja Nacional de Salud, cuando concurra alguna de las siguientes condiciones:
+   1. Ser parte interesada en acciones legales dirigidas contra la Caja Nacional de Salud.
+   2. Ser Socio, Director, Síndico o Representante Legal de cualquier Empresa que tenga relación contractual con la Caja Nacional de Salud.
+   3. Percibir remuneración directa de cualquier Empresa que tenga relación contractual con la Caja Nacional de Salud.
+   4. Prestar asesoría profesional a terceros en temas que deben ser conocidos y resueltos en el Directorio.
+   5. Tener relación de parentesco hasta el cuarto grado de consanguinidad o segundo de afinidad con accionistas, representantes legales de cualquiera Empresa que tenga relación contractual con la Caja Nacional de Salud.
+   6. Tener relación de parentesco hasta el cuarto grado de consanguinidad o segundo de afinidad con funcionarios de la Caja Nacional de Salud.
+   7. Realizar negocios o celebrar contratos privados, estrechamente relacionados o contratos con el desempeño de sus tareas.
+
+**Artículo 11°.- (Sesiones y dietas)** 
+
+1. El Directorio sesionará con carácter ordinario y obligatorio cuatro (4) veces al mes, a convocatoria de su Presidente, ante su ausencia, la convocatoria podrá realizarla cualquier Director representante del sector laboral. El incumplimiento a esta disposición, generará responsabilidades para el Presidente.
+2. Asimismo, el Presidente Convocará a reunión extraordinaria, a solicitud de cualquiera de sus miembros, cuando se presenten temas importantes y que requieran su consideración inmediata.
+3. Las dietas de los Miembros del Directorio, estarán sujetas a la normativa vigente establecida por el Ministerio de Hacienda.
+
+**Artículo 12°.- (Quorum para sesionar)** El Directorio sesionará, adoptará medidas y emitirá Resoluciones, con la mitad más uno del total de sus Miembros, exigiéndose que en toda sesión participen los tres sectores, por lo menos con uno de sus Directores.
+
+**Artículo 13°.- (Responsabilidad y mandato)** 
+
+1. El Directorio de la Caja Nacional de Salud es la Máxima Autoridad para la definición de Políticas y Fiscalización dentro la Institución, en el marco de lo establecido por el Código de Seguridad Social y la [Ley Nº 1178](#TODO-link).
+2. Asimismo, el Directorio definirá normas internas y procedimientos institucionales para llevar adelante el Proceso de Institucionalización de la Caja Nacional de Salud.
+3. El Presidente del Directorio y los Miembros del Directorio (Directores) de la Caja Nacional de Salud, serán responsables solidarios de las decisiones que se adopten en el Directorio, en caso de estar presentes en las sesiones. Deberán participar activamente en la toma de decisiones tanto a favor o en contra, y estableciendo por escrito su posición en la respectiva acta de sesión.
+4. Las decisiones y resoluciones que se asuman al interior del Directorio, en temas delicados y que exijan reserva, deberán respetar el principio de confidencialidad.
+
+**Artículo 14°.- (Voz y voto)** Cada uno de los miembros del Directorio de la Caja Nacional de Salud tiene derecho a voz y voto.
+
+**Artículo 15°.- (Facultades y atribuciones del Directorio)** Las facultades y atribuciones del Directorio son las siguientes:
+
+1. Establecer y aprobar las políticas y normas internas de la Caja Nacional de Salud, en el marco de la misión y visión institucionales, así como de las políticas nacionales de Seguridad Social.
+2. Las políticas y normas internas de la Caja Nacional de Salud deberán estar enmarcadas en las Políticas Nacionales de Salud emitidas por el Ministerio de Salud y Deportes.
+3. Elaborar el “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a los Cargos Vacantes de la Caja Nacional de Salud”.
+4. Aprobar y modificar el Estatuto de Funcionamiento del Directorio, el Estatuto Orgánico, la Estructura Orgánica, Manual de Organización y Funciones, el Reglamento de Prestaciones y otras Normas Internas y Procedimientos Administrativos de la Caja Nacional de Salud, por dos tercios de votos de la totalidad de sus Miembros e instruir su remisión al Instituto Nacional de Seguros de Salud — INASES para su homologación.
+5. Aprobar el Reglamento Interno y los Reglamentos Específicos de la Caja Nacional de Salud emergentes de los Sistemas establecidos en la [Ley Nº 1178](#TODO-link), instruyendo su remisión para su validación por la Entidad competente.
+6. Aprobar el Programa Operativo Anual — POA de la Caja Nacional de Salud y el Proyecto de Presupuesto de Ingresos y Egresos para la siguiente gestión, en el marco de las Políticas de Salud y Seguridad Social establecidas por el Gobierno Nacional e instruir su remisión para su aprobación definitiva por la Entidad facultada por disposición legal específica y fiscalizar su ejecución.
+7. Ejercer el control y la fiscalización en la Entidad, adoptando previsiones en el orden técnico — médico, económico — financiero, administrativo y legal, canalizados a través de la Gerencia General.
+8. Aprobar en la primera quincena del mes de enero de cada gestión la memoria anual de actividades de la Caja Nacional de Salud, la que será presentada por el Gerente General.
+9. Solicitar informes de gestión al Gerente General para fines de fiscalización.
+10. Aprobar los viajes al interior y al exterior del País de los Miembros del Directorio que en representación de la Caja Nacional de Salud, realicen, según normas vigentes. Las solicitudes de viajes serán presentadas al Directorio para su consideración cuando menos con una semana de anticipación, antes del viaje. En casos de emergencia y únicamente para viajes al interior, se podrá obviar el plazo de solicitud, debiéndose presentar el informe de las actividades realizadas en el viaje en la siguiente reunión de Directorio para su consideración y aprobación.
+11. Aprobar los viajes al exterior del Gerente General, Gerentes de Area y Funcionarios de la Entidad, siempre y cuando se trasladen en representación de la Caja Nacional de Salud, en el marco de las normas vigentes. Las solicitudes de viaje serán presentadas al Directorio para su consideración con una anticipación mínima de una semana previa a la fecha de viaje.
+12. Aprobar la compra de bienes inmuebles de la Caja Nacional de Salud, a propuesta fundamentada y técnicamente respaldada del Gerente General, observando y sea conforme a las disposiciones legales vigentes que rigen la materia, verificando su inserción en el POA y en el Presupuesto de la Gestión — Plan de Inversión Anual. En caso de una eventual enajenación del bien inmueble se procederá conforme a lo previsto en el Numeral 7, Artículo 59 de la Constitución Política del Estado.
+13. Resolver los Recursos formulados contra las Resoluciones dictadas por instancias y comisiones de menor grado de la Institución.
+14. Fiscalizar el cumplimiento por parte de la Caja Nacional de Salud de las políticas establecidas por el Gobierno Nacional en materia de Seguridad Social para el otorgamiento de Prestaciones a Corto Plazo.
+15. Fiscalizar el cumplimiento de las normas institucionales y atribuciones de la Caja Nacional de Salud para el logro de su misión institucional. Asimismo fiscalizar el cumplimiento de planes, programas y proyectos, en materia de Seguridad Social de Corto Plazo elaborados y ejecutados por la Caja Nacional de Salud.
+16. Fiscalizar la adopción de medidas correctivas emergentes de las recomendaciones de los informes de auditoria interna y externa.
+17. Designar al Gerente General a través de Resolución para un mandato en sus funciones de tres años, como resultado del procedimiento institucional aplicado en sujeción al “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a Cargos Vacantes de la Caja Nacional de Salud”.
+18. Elegir al personal ejecutivo, jerárquico e intermedio de la Caja Nacional de Salud de las listas remitidas por el Tribunal de Selección, de acuerdo al “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a Cargos Vacantes de la Caja Nacional de Salud”.
+19. Elegir a los Administradores Regionales de una terna propuesta por el Gerente General, resultante del proceso de selección. Estos Administradores Regionales, una vez que sean elegidos por el Directorio inmediatamente serán designados por el Gerente General, otorgándoseles un mandato de tres (3) años.
+20. Destituir al Gerente General antes del término de su Contrato por las siguientes causales:
+      
+    - Como resultado de un Proceso Interno Administrativo en el que se le establezca Responsabilidad Administrativa que falle por su destitución (Observando lo previsto por el [Decreto Supremo Nº 23318-A](#TODO-link), modificado por el [Decreto Supremo Nº 26237](#TODO-link)).
+      
+    - Por Dictamen de Responsabilidad Ejecutiva en su contra, emitido por el Contralor General de la República.
+      
+    - Cuando tenga Sentencia Condenatoria Ejecutoriada, con pena privativa de libertad por la comisión de delitos de acción pública e interdicción judicialmente declarada.
+      
+    - Cuando la evaluación semestral al Gerente General sea insuficiente o insatisfactoria.
+21. Designar al Gerente General interino por impedimento, vacación o ausencia del titular por un plazo no mayor a treinta (30) días calendario. El funcionario interino será un Gerente de Area, a excepción del Director Administrativo y Financiero. En caso de renuncia del Gerente General o rescisión de su contrato, nombrar al funcionario interino, por el lapso máximo de sesenta (60) días.
+22. Encomendar al Gerente General elabore, en coordinación con los Directores de Area la reglamentación necesaria para la implantación de políticas y normas de los Seguros de Enfermedad, Maternidad y Riesgos Profesionales a Corto Plazo.
+23. Aprobar la creación y/o supresión de Distritales y Postas Sanitarias de acuerdo a las necesidades y posibilidades de la Institución.
+24. Otorgar licencias que no excedan los 180 días calendario a los funcionarios que lo soliciten, previa presentación de documentación respaldatoria.
+25. Autorizar la suscripción de convenios y delegaciones de Seguros del Régimen a Corto Plazo de conformidad a disposiciones legales vigentes.
+26. Considerar y aprobar dentro del primer trimestre de cada gestión el estado de ingresos y gastos y el balance general de la Institución.
+27. Aprobar en primera instancia, a propuesta del Gerente General, la Escala y Planilla Salarial Anual, así como el reordenamiento administrativo e instruir su remisión para la aprobación definitiva por la Entidad facultada por disposición legal específica.
+28. Aprobar y fiscalizar la ejecución del presupuesto de la CNS.
+29. Otras que le permitan el cumplimiento de sus atribuciones de acuerdo a disposiciones legales en vigencia y al Estatuto de Funcionamiento del Directorio.
+
+**Artículo 16°.- (Presidente del Directorio de la Caja Nacional de Salud)** 
+
+1. El Presidente del Directorio de la Caja Nacional de Salud será elegido de acuerdo a lo establecido por los Artículo s 62 y 96 de la Constitución Política del Estado, de las ternas presentadas por los tres sectores que conforman el Directorio.
+2. El Presidente del Directorio, ejercerá esas funciones por el lapso de dos (2) años. IEn caso de encontrarse acéfalo el cargo, asumirá como presidente interino uno de los miembros del Directorio.
+
+**Artículo 17°.- (Atribuciones del Presidente del Directorio de la Caja Nacional de Salud)** El Presidente del Directorio de la Caja Nacional de Salud, tendrá las siguientes atribuciones:
+
+1. Presidir las sesiones de Directorio.
+2. Convocar a sesiones ordinarias o extraordinarias.
+3. Velar por el cumplimiento de las determinaciones asumidas por el Directorio.
+4. Otras atribuciones específicas establecidas en el Estatuto de Funcionamiento del Directorio, el mismo que debe ser homologado por Resolución Ministerial del Ministerio de Salud y Deportes previo pronunciamiento favorable del Instituto Nacional de Seguros de Salud.
+
+## Capítulo III Gerencia general
+
+**Artículo 18°.- (Gerente General)** El Gerente General es la Máxima Autoridad Ejecutiva de la Caja Nacional de Salud y primer responsable del manejo institucional y de la gestión médica, administrativa, financiera, legal y técnica en el marco de lo establecido por el Código de Seguridad Social y la [Ley Nº 1178](#TODO-link). Asimismo, es corresponsable de proseguir el Proceso de Institucionalización de la Caja Nacional de Salud.
+
+**Artículo 19°.- (Nombramiento)** El Gerente General de la Caja Nacional de Salud será nombrado por el Directorio de la Institución, en sujeción a Procedimiento Institucional y de acuerdo a lo previsto por el “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a Cargos Vacantes de la Caja Nacional de Salud”.
+
+**Artículo 20°.- (Requisitos)** Para ser designado Gerente General de la Caja Nacional de Salud, se requiere:
+
+1. Ser boliviano.
+2. Tener pleno goce de los derechos civiles.
+3. Tener formación profesional a nivel licenciatura y preferentemente con estudios de especialización o maestría en salud pública.
+4. Contar con conocimientos y experiencia en el campo de la Administración y la Seguridad Social.
+
+**Artículo 21°.- (Funciones del Gerente General)** Son funciones del Gerente General de la Caja Nacional de Salud las siguientes:
+
+1. Ejercer la Representación Legal de la Caja Nacional de Salud.
+2. Dirigir a la Institución en todas sus actividades administrativas, financieras, legales, reglamentarias y técnico operativas especializadas, en el marco de la misión Institucional y atribuciones establecidas por la Caja Nacional de Salud.
+3. Proponer políticas, planes y proyectos institucionales al Directorio de la Caja Nacional de Salud.
+4. Firmar cheques, letras de cambio, boletas de garantía y otros documentos mercantiles, conjuntamente con el Gerente Administrativo Financiero, controlando y precautelando la estabilidad económica y financiera de la Institución.
+5. Realizar transacciones a objeto de monetizar letras de cambio, bonos del Tesoro, notas de crédito fiscal y otros, previa aprobación del Directorio.
+6. Otorgar, Poderes Generales y Especiales, así como delegar funciones para el cumplimiento de actos jurídicos y/o administrativos.
+7. Presentar al Directorio el Plan Estratégico Institucional, el Programa Operativo Anual, el Proyecto de Presupuesto Institucional de cada Gestión, la Ejecución Presupuestaria, los Estados Financieros, la Evaluación de las Prestaciones de Salud y el Avance de Proyectos. h) Presentar al Directorio para su aprobación los documentos siguientes: Reglamentos, Manuales de Organización y Funciones, Manuales de Procedimientos y los Reglamentos Específicos de los Sistemas de la [Ley Nº 1178](#TODO-link).
+8. Presentar al Directorio sus informes semestrales, en sujeción a lo estipulado en el Contrato suscrito por este Funcionario y la Caja Nacional de Salud. j) Mantener relaciones con Organismos Patronales y Laborales de los Asegurados, cuidando que los compromisos estipulados sean compatibles con los fines y objetivos de la Institución.
+9. Supervisar, evaluar y controlar las prestaciones de los Seguros de Enfermedad, Maternidad y Riesgos Profesionales a Corto Plazo.
+10. Ejercer la supervisión técnico — administrativa y financiera de las Gerencias, Administraciones Regionales y Agencias Distritales.
+11. Autorizar las operaciones económicas — financieras y firmar las órdenes de pago.
+12. Cumplir y hacer cumplir las Leyes, disposiciones legales, Estatuto Orgánico, Reglamentos y otras normas que rigen la organización, funcionamiento y actividades de la Caja Nacional de Salud en el nivel ejecutivo y operativo.
+13. Cumplir y hacer cumplir las Resoluciones de Directorio, con derecho de representarlas en caso de ser contrarias al ordenamiento legal vigente.
+14. Presentar de Estados Financieros y Evaluación del POA, para consideración del Directorio, dentro del primer trimestre de la gestión.
+15. Designar, nombrar, promover, remover, sancionar y exonerar personal de conformidad a Normas y Procedimientos Institucionales, así como en observancia al Reglamento Específico del Sistema de Administración de Personal en el marco de la [Ley Nº 1178](#TODO-link) y otros que fueran aprobados por el Directorio.
+16. Participar en reuniones de Directorio en calidad de secretario, con derecho a voz y no a voto.
+17. Gestionar financiamiento nacional o internacional en el marco de los objetivos y funciones de la Caja Nacional de Salud, previa autorización del Directorio.
+18. Instruir la adopción de medidas correctivas emergentes de las Recomendaciones de los Informes de Auditoria Interna y Externa.
+19. Dictar normas administrativas para la conducción de la Caja Nacional de Salud, previa aprobación del Directorio.
+20. Solicitar autorización al Directorio para la suscripción de Convenios o Contratos con Organismo Nacionales e Internacionales.
+21. Cumplir rigurosamente con la prosecución del Proceso de Institucionalización de la Caja Nacional de Salud, debiendo comunicar a la instancia pertinente prevista en el “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a Cargos Vacantes de la Caja Nacional de Salud”, la acefalía de un cargo, para que sea convocado inmediatamente.
+22. Designar a las Autoridades Jerárquicas e Intermedias, previa elección del Directorio de la Caja Nacional de Salud, en sujeción al “Reglamento Específico de Reclutamiento, Selección y Elección de Postulantes a Cargos Vacantes de la Caja Nacional de Salud”.
+23. Designar al personal no comprendido en el inciso anterior, seleccionado en base a los procedimientos establecidos en Reglamento Específico aprobado por el Directorio.
+
+**Artículo 21°.- (Vigencia de normas)** 
+
+1. Se abroga el [Decreto Supremo Nº 26495](#TODO-link) de 4 de febrero de 2002 y el [Decreto Supremo Nº 26637](#TODO-link) de 24 de mayo de 2002.
+2. Quedan derogadas y abrogadas todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Salud y Deportes, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de mayo del año dos mil seis.
+  
+FDO. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga, Luís Alberto Arce Catacora, Celinda Sosa Lunda Ministra de Producción y Microempresa e Interina del Agua, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

@@ -1,0 +1,38 @@
+# Bolivia: Decreto Supremo Nº 29384, 19 de diciembre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que según lo previsto por el inciso h) del Artículo 4 de la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, es atribución del Ministro de la Presidencia, actuar como custodio y mantener el archivo de leyes, decretos y resoluciones supremas y promover el desarrollo normativo, la sistematización y actualización de la legislación.
+* Que el Parágrafo IV del Artículo 26 del [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, establece que el Director General de Asuntos Jurídicos del Ministerio de la Presidencia, tendrá bajo su dependencia funcional, como unidad desconcentrada a la Gaceta Oficial de Bolivia, para atender la edición y publicación oficial de la normativa emitida por el Poder Ejecutivo.
+* Que el Artículo 69 de la Ley de 19 de enero de 1925, de Imprenta señala: “La edición de la Constitución del Estado, de los Códigos vigentes, de las compilaciones de leyes y de las colecciones oficiales en general, bajo cualquier denominación, requieren para ser legal, la licencia previa del gobierno”.
+* Que según la normativa vigente, corresponde al Poder Ejecutivo facultar al Ministro de la Presidencia a determinar el procedimiento para autorizar la publicación oficial de textos legales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto facultar al Ministro de la Presidencia a establecer el procedimiento para la autorización de publicación oficial de textos legales.
+
+**Artículo 2°.- (Procedimiento)** El procedimiento para la autorización de publicación de textos legales será aprobado mediante Resolución Ministerial emitido por el Ministro de la Presidencia.
+
+**Artículo 3°.- (Plazo)** El Ministro de la Presidencia, debe emitir la Resolución Ministerial que determine el procedimiento para la autorización de publicación oficial de textos legales, en el plazo de treinta (30) días a partir de la publicación del presente Decreto Supremo.
+
+**Artículo 4°.- (Publicaciones clandestinas)** Las publicaciones que no cumplan con el procedimiento establecido por el Ministro de la Presidencia, para la autorización de publicación oficial de textos legales, se las tendrá como clandestinas y estarán sujetas a lo dispuesto por los Artículos 5 y 70 de la Ley de Imprenta.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo derogatorio Único.-** Se deroga el Artículo Séptimo del [Decreto Supremo Nº 21294](#TODO-link) de 4 de junio de 1986.
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de la Presidencia, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de diciembre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga, Alfredo Rada Vélez MINISTRO DE GOBIERNO É INTERINO DE RELACIONES EXTERIORES Y CULTOS, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Walter Valda Rivera, Celinda Sosa Lunda, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Walter Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE MINERÍA Y METALURGIA, Nila Heredia Miranda MINISTRA DE SALUD Y DEPORTES É INTERINA DE EDUCACIÓN Y CULTURAS.

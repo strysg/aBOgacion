@@ -1,0 +1,105 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5617**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el Parágrafo I del Artículo 361 de la Constitución Política del Estado determina que Yacimientos Petrolíferos Fiscales Bolivianos – YPFB es una empresa autárquica de derecho público, inembargable, con autonomía de gestión administrativa, técnica y económica, en el marco de la política estatal de hidrocarburos. YPFB, bajo tuición del Ministerio del ramo y como brazo operativo del Estado, es la única facultada para realizar las actividades de la cadena productiva de hidrocarburos y su comercialización.
+
+Que el Artículo 367 del Texto Constitucional establece que la explotación, consumo y comercialización de los hidrocarburos y sus derivados deberán sujetarse a una política de desarrollo que garantice el consumo interno. La exportación de la producción excedente incorporará la mayor cantidad de valor agregado.
+
+Que el segundo párrafo el Artículo 9 de la Ley N° 3058, de 17 de mayo de 2005, de Hidrocarburos, señala que el aprovechamiento de los hidrocarburos deberá promover el desarrollo integral, sustentable y equitativo del país, garantizando el abastecimiento de hidrocarburos al mercado interno, incentivando la expansión del consumo en todos los sectores de la sociedad, desarrollando su industrialización en el territorio nacional y promoviendo la exportación de excedentes en condiciones que favorezcan los intereses del Estado y el logro de sus objetivos de política interna y externa, de acuerdo a una Planificación de Política Hidrocarburífera.
+
+Que el inciso d) del Artículo 10 de la Ley N° 3058 establece como uno de los principios de las actividades petroleras, la continuidad, que obliga a que el abastecimiento de los hidrocarburos y los servicios de transporte y distribución, aseguren satisfacer la demanda del mercado interno de manera permanente e ininterrumpida, así como el cumplimiento de los contratos de exportación.
+
+Que los incisos d) y f) del Artículo 11 de la Ley N° 3058 disponen como objetivos de la Política Nacional de Hidrocarburos, entre otros, el garantizar, a corto, mediano y largo plazo, la seguridad energética, satisfaciendo adecuadamente la demanda nacional de hidrocarburos; y garantizar y fomentar el aprovechamiento racional de los hidrocarburos, abasteciendo con prioridad a las necesidades internas del país.
+
+Que el Decreto Supremo N° 5517, de 13 de enero de 2026, establece y adopta medidas excepcionales destinadas a garantizar el abastecimiento de combustibles y energía; reactivar la producción, con la finalidad de devolver la calidad de vida a las y los bolivianos y garantizar la reconstrucción integral de la economía boliviana.
+
+Que en el marco de la emergencia energética y social establecida por el Decreto Supremo N° 5517, es necesario adoptar medidas extraordinarias que permitan garantizar la continuidad del abastecimiento de hidrocarburos en el mercado interno, cumpliendo los parámetros de calidad, por lo que se requiere autorizar a YPFB de manera excepcional, la adquisición de hidrocarburos mediante operaciones en el mercado spot internacional.
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO 1.- (OBJETO).** En el marco de la emergencia energética y social establecida por el Decreto Supremo N° 5517, de 13 de enero de 2026, y con la finalidad de garantizar el abastecimiento de hidrocarburos en el mercado interno, el presente Decreto Supremo tiene por objeto autorizar a Yacimientos Petrolíferos Fiscales Bolivianos – YPFB, de manera excepcional, la adquisición de hidrocarburos mediante operaciones en el mercado spot internacional, así como establecer las condiciones para el control de calidad.
+
+**ARTÍCULO 2.- (AUTORIZACIÓN).** A fin de garantizar el abastecimiento continuo de hidrocarburos en el mercado interno, se autoriza a YPFB, de manera excepcional, a realizar contrataciones directas en territorio extranjero para la adquisición de hidrocarburos, mediante operaciones en el mercado spot internacional, cuando las condiciones de oferta, demanda, disponibilidad y oportunidad así lo requieran, con estrictas condiciones de calidad.
+
+**ARTÍCULO 3.- (CONDICIONES PARA LA ADQUISICIÓN EN MERCADO SPOT).**
+
+**I.**            Las adquisiciones en mercado spot son aquellas operaciones de compra inmediata de hidrocarburos, a precio de mercado vigente, con entrega de producto a corto plazo y sin sujeción a contratos de largo plazo.
+
+**II.** Las adquisiciones en mercado spot deberán sustentarse en criterios técnicos, económicos y de oportunidad, considerando:
+
+1. Disponibilidad inmediata de productos;
+2. Condiciones del mercado internacional;
+3. Necesidad de garantizar el abastecimiento.
+
+**III.** YPFB es responsable de garantizar que los hidrocarburos adquiridos en mercado spot cumplan con los parámetros técnicos de calidad establecidos dentro de la normativa vigente.
+
+**ARTÍCULO 4.- (PROCESO DE ADQUISICIÓN PARA LA COMPRA SPOT).**
+
+**I.** El Presidente Ejecutivo, como Máxima Autoridad Ejecutiva de YPFB, es el Responsable del proceso de adquisición, pudiendo delegar dicha función mediante Resolución Expresa.
+
+**II.** Al tratarse de adquisiciones excepcionales, no se requerirá la autorización del Directorio de YPFB, prevista en los Estatutos aprobados por Decreto Supremo N° 28324, de 1 de septiembre de 2005.
+
+**III.** YPFB deberá realizar invitaciones a proveedores extranjeros, pudiendo recurrir a su base de datos existente para la adquisición de hidrocarburos.
+
+**IV.** A efectos del registro en el Sistema de Contrataciones Estatales – SICOES y el Sistema de Registro de Contratos de la Contraloría General del Estado – CGE, la carta de aceptación de oferta tendrá la calidad de contrato.
+
+**V.** Para las adquisiciones en mercado spot, YPFB no requerirá garantía de cumplimiento de contrato, debido a que el pago será efectuado contra entrega del producto o de manera posterior a la entrega del producto, y previa verificación de los parámetros de calidad.
+
+**ARTÍCULO 5.- (VERIFICACIÓN DE LA CALIDAD).**
+
+**I.** YPFB deberá implementar mecanismos de verificación técnica mediante análisis de laboratorio completo de acuerdo a los parámetros técnicos establecidos en el Reglamento de Calidad de Carburantes y la normativa vigente en Bolivia.
+
+**II.** YPFB deberá realizar los análisis de laboratorio completos, por lotes, en laboratorios debidamente acreditados.
+
+**DISPOSICIONES ADICIONALES**
+
+**DISPOSICIÓN ADICIONAL PRIMERA.-** Se autoriza a YPFB, de manera excepcional, a realizar contrataciones directas en territorio extranjero para la adquisición de equipos de laboratorios y laboratorios móviles para el análisis de verificación de calidad conforme a reglamento a ser aprobado por el Directorio de YPFB.
+
+**DISPOSICIÓN ADICIONAL SEGUNDA.-**
+
+**I.**            Se autoriza al Ministerio de Hidrocarburos y Energías, a través de la Entidad Ejecutora de Conversión a Gas Natural Vehicular – EEC-GNV de manera excepcional, la contratación directa de bienes y servicios de talleres especializados para los programas de conversión, mantenimiento, recalificación y reposición para vehículos a Gas Natural Vehicular – GNV, conforme a reglamento a ser aprobado por el Ministerio de Hidrocarburos y Energías.
+
+**II.**          Se autoriza al Ministerio de Hidrocarburos y Energías, a través de la EEC-GNV, de manera excepcional, la contratación directa en el territorio extranjero de bienes y servicios para la ejecución de sus Programas, conforme a reglamento a ser aprobado por el Ministerio de Hidrocarburos y Energías
+
+**DISPOSICIÓN ADICIONAL TERCERA.-** En el marco de la Disposición Final Segunda del Decreto Supremo N° 0181, de 28 de junio de 2009, Normas Básicas del Sistema de Administración de Bienes y Servicios, continúa vigente la aplicación del Decreto Supremo N° 29506, de 9 de abril de 2008.
+
+**DISPOSICIONES TRANSITORIAS**
+
+**DISPOSICIÓN TRANSITORIA PRIMERA.-** A partir de la publicación del presente Decreto Supremo, el Directorio de YPFB, mediante Resolución de Directorio, aprobará en un plazo de hasta diez (10) días hábiles, el Reglamento establecido en la Disposición Adicional Primera de la presente norma y el procedimiento para la adquisición de hidrocarburos en el mercado spot.
+
+**DISPOSICIÓN TRANSITORIA SEGUNDA.-** A partir de la publicación del presente Decreto Supremo, el Ministerio de Hidrocarburos y Energías, mediante Resolución Ministerial, reglamentará lo establecido en la Disposición Adicional Segunda de la presente norma en un plazo de hasta diez (10) días hábiles.
+
+**DISPOSICIONES FINALES**
+
+**DISPOSICIÓN FINAL ÚNICA.-** Para la adquisición de hidrocarburos en el mercado spot, en la medida que los proveedores son extranjeros, estos no requieren presentar la Solvencia Fiscal emitida por la CGE ni el Registro Único de Proveedores del Estado – RUPE emitido por el Ministerio de Economía y Finanzas Públicas.
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos y Energías, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado en el Palacio de Gobierno, a los veintinueve días del mes de abril del año dos mil veintiséis.
+
+**FDO. RODRIGO PAZ PEREIRA**, Fernando Hugo Aramayo Carrasco, José Luis Lupo Flores, Marco Antonio Oviedo Huerta, Raúl Marcelo Salinas Gamarra, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Carlos Pedro Marcelo Blanco Quintanilla, Oscar Mario JustinianoPinto, Mauricio Zamora Liebers, Marco Antonio Calderón De La Barca Quintanilla, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/6.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia

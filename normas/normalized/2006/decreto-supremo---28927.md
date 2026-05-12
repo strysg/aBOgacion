@@ -1,0 +1,48 @@
+# Bolivia: Decreto Supremo Nº 28927, 15 de noviembre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Atribución 1ra. del Artículo 96 de la Constitución Política del Estado, faculta al Presidente de la República, a ejecutar y hacer cumplir las leyes, expidiendo los decretos y órdenes convenientes, sin definir privativamente derechos, alterar los definidos por ley ni contrariar sus disposiciones, respetando las restricciones consignadas en la Constitución.
+* Que el Artículo 3 de la [Ley Nº 3351](#TODO-link) del 21 de febrero de 2006 - Ley de Organización del Poder Ejecutivo, establece que es atribución de los Ministros proponer al Presidente de la República proyectos de normas legales, en el área de su competencia.
+* Que las gestiones de gobiernos anteriores han permitido la apertura y funcionamiento de universidades y carreras al margen de las normas legales, a pesar del conocimiento de las regulaciones legales, iniciaron actividades académicas ocasionando daños y perjuicios a los estudiantes y padres de familia.
+* Que algunas universidades, sólo por intereses institucionales y económicos, ofertan carreras sin la respectiva Resolución Ministerial.
+* Que las actuales autoridades del Gobierno Nacional y del Ministerio de Educación y Culturas, pensando en la juventud estudiosa y en los padres de familia que buscan mejores oportunidades y a fin de brindar seguridad jurídica, también tienen toda la predisposición de solucionar los conflictos académicos de la educación superior universitaria privada.
+* Que el Artículo 144 del Reglamento General de Universidades Privadas aprobado mediante el [Decreto Supremo Nº 28570](#TODO-link) de 22 de diciembre de 2005, establece que la Universidad Privada Plena que promueva la apertura de nuevas Carreras Universitarias, sin cumplir con los requisitos establecidos en el mismo Reglamento, será sancionada con el cierre de dichas carreras por un año calendario y de persistir con esa actitud, se cancelará la autorización de funcionamiento de la Universidad.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 13 de noviembre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Educación y Culturas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo, tiene por objeto autorizar, con carácter excepcional y por única vez, la regularización de trámites de apertura y funcionamiento de carreras y subsedes académicas irregulares de universidades privadas en todo el país.
+
+**Artículo 2°.- (Alcance)** La regularización excepcional se aplicara sólo a carreras y subsedes académicas que hubieren presentado la solicitud de apertura al Ministerio de Educación y Culturas hasta antes del 22 de enero de 2006.
+
+**Artículo 3°.- (Plazo de regularizacion)** 
+
+1. Se establece un plazo de noventa (90) días calendario a partir de la publicación del presente Decreto Supremo para concluir con la regularización excepcional y extraordinaria de los trámites de apertura de carreras y subsedes académicas.
+2. Las solicitudes de conclusión de trámite, deben ser presentadas en forma individual y separada, por carrera y subsede académica, debiendo las universidades presentar la documentación de todas las carreras y subsedes académicas que no cuentan con Resolución Ministerial de autorización.
+
+**Artículo 4°.- (Restriccion de inscripcion)** Las universidades que no cumplieron la norma y estén funcionando sin la autorización respectiva, no podrán inscribir a nuevos estudiantes en ningún semestre hasta cumplir la sanción establecida y consiguiente regularización.
+
+**Artículo 5°.- (Procedimiento)** El procedimiento para la regularización excepcional y extraordinaria de carreras y subsedes académicas que no cuentan con la Resolución Ministerial de autorización de funcionamiento se detallará en el Reglamento Específico a ser aprobado por el Ministerio de Educación y Culturas.
+
+**Artículo 6°.- (Estado de los TRAMITES)** Todos los trámites de apertura y funcionamiento que se encuentran en la Dirección General de Educación Universitaria del Ministerio de Educación y Culturas sin la correspondiente evaluación para la regularización, deberán presentar la documentación requerida conforme al Reglamento específico.
+
+**Artículo 7°.- (Informacion requerida)** Las Universidades Privadas brindarán toda la información requerida al Ministerio de Educación y Culturas referente a las carreras y subsedes académicas que iniciaron sus actividades y que funcionan sin la autorización respectiva. Esta información contempla los requisitos necesarios para la inscripción de los estudiantes.
+
+**Artículo 8°.- (Sancion)** El Ministerio de Educación y Culturas procederá a sancionar económicamente a las Universidades Privadas que funcionan sin la respectiva Resolución Ministerial que autoriza la apertura y funcionamiento de las carreras, subsedes académicas de acuerdo a los aranceles establecidos en la Resolución Ministerial Nº 169/05 de fecha 7 de junio de 2005.
+  
+Asimismo, mientras estas Universidades no regularicen esta situación, no podrán iniciar nuevos trámites para la apertura y funcionamiento de nuevas carreras y subsedes académicas.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Educación y Culturas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de noviembre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga, Alicia Muñoz Alá Ministra de Gobierno e Interina de RR. EE. y Cultos, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera Ministro de Obras Públicas, Servicios y Vivienda e Interino de Planificación del Desarrollo, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani Ministro de Trabajo e Interino de Salud y Deportes, Félix Patzi Paco.

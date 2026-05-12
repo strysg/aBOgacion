@@ -1,0 +1,42 @@
+# Bolivia: Resolución Ministerial de 29 de agosto de 2018
+
+RESOLUCIÓN MINISTERIAL Nº 238
+  
+La Paz, 26 de julio de 2018
+
+VISTOS Y CONSIDERANDO:
+
+* Que el parágrafo I del artículo 20 de la [Constitución Política del Estado](#TODO-link), señala que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+* Que el parágrafo II del artículo 20 del Texto Constitucional, establece que es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias.
+* Que en los casos de electricidad, gas domiciliario y telecomunicaciones, se podrá prestar el servicio mediante contratos con la empresa privada. La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social.
+* Que el numeral 1 del artículo 5 de la [Ley Nº 164](#TODO-link) de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, establece que el Estado en todos sus niveles de gobierno, promoverá el derecho al acceso universal a las telecomunicaciones y tecnologías de información y comunicación, así como el servicio postal, para todas y todos los habitantes del Estado Plurinacional.
+* Que el parágrafo III del artículo 66 de la citada Ley, determina que el Ministerio a cargo del sector de telecomunicaciones, elaborará planes y proyectos para expandir la infraestructura de telecomunicaciones para la provisión del acceso universal al servicio de internet de banda ancha hasta el año 2015, que permita reducir los costos de la salida internacional. La administración y utilización de dicha infraestructura, servicios de voz, ancho de banda de internet y otros servicios, serán establecidas mediante reglamento.
+* Que el parágrafo I del artículo 72 de la Ley General de Telecomunicaciones, Tecnologías de la Información y Comunicación, dispone que el Estado en todos sus niveles, fomentará el acceso, uso y apropiación social de las tecnologías de información y comunicación, el despliegue y uso de infraestructura, el desarrollo de contenidos y aplicaciones, la protección de las usuarias y usuarios, la seguridad informática y de redes, como mecanismos de democratización de oportunidades para todos los sectores de la sociedad y especialmente para aquellos con menores ingresos y con necesidades especiales.
+* Que el [Decreto Supremo Nº 1391](#TODO-link) de 24 de octubre de 2012, establece en su Disposición Final Séptima que para expandir la infraestructura de internet de banda ancha, el Ministerio de Obras Públicas, Servicios y Vivienda, a través del Viceministerio de Telecomunicaciones, elaborará el Plan Nacional de Banda Ancha, que contemple, entre otros, conexiones para salida internacional e integración regional, así como conexiones de las ciudades capitales y ciudades intermedias.
+* Que mediante Resolución Ministerial Nº 034 de 1 de febrero de 2017, se aprueba el Plan Nacional de Banda Ancha.
+* Que el Plan Nacional de Banda Ancha en su acápite 6 “Objetivos, Metas y Plazos”, establece que el Ministerio de Obras Públicas, Servicios y Vivienda en un plazo no mayor a 3 meses, coordinará con los operadores la elaboración de una Hoja de Ruta para el despliegue de la Red Troncal Boliviana a las localidades objetivo que no cuenten con cobertura de redes de transporte.
+* Que a través de la Resolución Ministerial Nº 081 de 15 de marzo de 2017, publicada el 27 de marzo de 2017, se complementa el segundo párrafo del apartado Oferta del Servicio de Acceso a Internet del Punto 10 “Red Troncal Boliviana” del Plan Nacional de Banca Ancha, aprobado mediante Resolución Ministerial Nº 034/2017.
+* Que mediante Resolución Ministerial Nº 047-A de 26 de enero de 2018, se aprueba la ampliación y modificación del punto 6, subtítulo Plazos del Plan Nacional de Banda Ancha aprobado mediante Resolución Ministerial Nº 034 de 1 de febrero de 2017 y complementado a través de la Resolución Ministerial Nº 081 de 15 de marzo de 2017.
+* Que mediante Informe VMTEL/DGTEL Nº 0073/2018 de 23 de julio de 2018, el Encargado de Fiscalización en Telecomunicaciones dependiente del Viceministerio de Telecomunicaciones, concluyó que, teniendo en cuenta los proyectos IFO-1, IFO-2 y la cobertura actual de los operadores de internet, las localidades objetivo que no fueron contempladas en los mencionados proyectos ni cuentan con cobertura de una red troncal de alta capacidad, deben ser incluidas en la Hoja de Ruta para el despliegue de la Red Troncal Boliviana.
+* Que a través del Informe Jurídico MOPSV - DGAJ Nº 536/2018 de 26 de julio de 2018, la Técnico Legal de la Dirección General de Asuntos Jurídicos “en virtud a las conclusiones expuestas y en mérito al Informe Técnico VMTEL/DGTEL Nº 0073/2018 de 23 de julio de 2018, recomienda emitir la Resolución Ministerial que establezca que las localidades con población mayor a 2.000 habitantes, denominadas localidades objetivo que no fueron contempladas en los proyectos Instalación de Comunicaciones por Fibra Óptica - Fase 1 e Instalación de Comunicaciones por Fibra Óptica - Fase 2 con recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, y que no cuentan con cobertura de una Red Troncal de alta capacidad, sean incluidas en la Hoja de Ruta para el Despliegue de la Red Troncal Boliviana, de acuerdo a la solicitud efectuada por el Viceministerio de Telecomunicaciones”
+* Que el numeral 22, del parágrafo I, del Art.14 del [Decreto Supremo Nº 29894](#TODO-link) de 07 de febrero de 2009 de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, dispone que los Ministerios de Estado, en el marco de sus competencias tiene la atribución de emitir resoluciones Ministeriales.
+
+POR TANTO:
+
+El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones,
+
+RESUELVE:
+
+**Primero .-** Establecer que las localidades con población mayor a 2.000 habitantes, denominadas localidades objetivo, que no fueron contempladas en los proyectos Instalación de Comunicaciones por Fibra Óptica - Fase 1 e Instalación de Comunicaciones por Fibra Óptica - Fase 2 con recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, y que no cuentan con cobertura de redes de transporte de alta capacidad sean incluidas y priorizadas en la Hoja de Ruta para el Despliegue de la Red Troncal Boliviana.
+
+**Segundo .-** Establecer la implementación de la Hoja de Ruta para el Despliegue de la Red Troncal Boliviana mediante la Empresa Nacional de Telecomunicaciones - ENTEL S. A.
+
+**Tercero .-** La Hoja de Ruta para el Despliegue de la Red Troncal Boliviana, será implementada mediante recursos propios de ENTEL S. A. y/o recursos PRONTIS.
+
+**Cuarto .-** Encargar el cumplimiento de la presente Resolución Ministerial, así como su publicación al Viceministerio de Telecomunicaciones.
+
+---
+
+Comuníquese, regístrese y archívese.
+  
+Milton Claros Hinojosa MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA

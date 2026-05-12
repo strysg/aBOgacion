@@ -1,0 +1,38 @@
+# Bolivia: Decreto Supremo Nº 5437, 30 de julio de 2025
+
+Decreto Supremo Nº 5437
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 321 de la [Constitución Política del Estado](#TODO-link) determina que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el numeral 4 del Artículo 407 del Texto Constitucional establece como uno de los objetivos de la política de desarrollo rural integral del Estado, en coordinación con las entidades territoriales autónomas y descentralizadas, proteger la producción agropecuaria y agroindustrial ante desastres naturales e inclemencias climáticas, geológicas y siniestros. La ley preverá la creación del seguro agrario.
+* Que el Parágrafo I del Artículo 30 de la [Ley Nº 144](#TODO-link), de 26 de junio de 2011, de la Revolución Productiva Comunitaria Agropecuaria, crea el Seguro Agrario Universal "Pachamama", con la finalidad de asegurar la producción agraria afectada por daños provocados por fenómenos climáticos y desastres naturales adversos, en la forma y de acuerdo con lo previsto en las disposiciones de la citada Ley.
+* Que el Parágrafo I del Artículo 32 de la [Ley Nº 144](#TODO-link) crea el Instituto del Seguro Agrario – INSA, como institución pública, autárquica, con patrimonio propio, autonomía de gestión técnica, económica, operativa, administrativa y legal, bajo tuición del Ministerio de Desarrollo Rural y Tierras. El INSA se constituye en una instancia operativa y normativa del Seguro Agrario Universal "Pachamama", con ámbito de competencia en todo el territorio del Estado Plurinacional de Bolivia.
+* Que el Parágrafo II del Artículo 32 de la [Ley Nº 144](#TODO-link) dispone que el INSA, se financiará con recursos del Tesoro General de la Nación – TGN de acuerdo a su disponibilidad financiera, recursos propios, donaciones y otras fuentes de financiamiento.
+* Que los numerales 4 y 5 del Artículo 33 de la [Ley Nº 144](#TODO-link) señalan que para la implementación del Seguro Agrario Universal "Pachamama", el INSA tendrá entre otras, las atribuciones y funciones de aprobar y generar modalidades o productos de seguro a ser implementados de acuerdo a las características propias de regiones y productores; y de administrar directamente modalidades o productos de seguro para las y los productores más pobres según reglamento.
+* Que el [Decreto Supremo Nº 0942](#TODO-link), de 2 de agosto de 2011, modificado por los Decretos Supremos [Nº 4049](#TODO-link), de 25 de septiembre de 2019 y [Nº 4591](#TODO-link), de 29 de septiembre de 2021, reglamenta parcialmente el Seguro Agrario Universal "Pachamama", mediante la creación del Seguro Agrario MINKA; así como la naturaleza y financiamiento institucional, el rol y atribuciones de la Máxima Autoridad Ejecutiva – MAE del INSA.
+* Que en el marco de los objetivos de la política de desarrollo rural integral, previstos en la [Constitución Política del Estado](#TODO-link), se debe garantizar la soberanía y seguridad alimentaria, estableciendo mecanismos de protección a la producción agropecuaria y agroindustrial ante desastres naturales e inclemencias climáticas, geológicas y siniestros.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** Con la finalidad de apoyar al sector agropecuario y promover la seguridad alimentaria con soberanía, el presente Decreto Supremo tiene por objeto autorizar la asignación presupuestaria de recursos adicionales para la protección de la producción agrícola ante fenómenos climáticos adversos, en el marco de la [Ley Nº 144](#TODO-link), de 26 de junio de 2011, de la Revolución Productiva Comunitaria Agropecuaria.
+
+**Artículo 2°.- (Autorización)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del Tesoro General de la Nación – TGN, realizar en la gestión 2025 la asignación presupuestaria de recursos adicionales por un monto de Bs16.000.000.- (DIECISEIS MILLONES 00/100 BOLIVIANOS), a favor del Instituto del Seguro Agrario – INSA, por concepto de pago de la prima del seguro agrario para la campaña agrícola 2024-2025, en el marco de la [Ley Nº 144](#TODO-link).
+2. El INSA realizará el pago por concepto de indemnización, a través de la subpartida de gasto 71630 "Otros de Carácter Social Establecidos por Norma Legal". Para el efecto, el INSA aprobará la reglamentación específica.
+3. El desembolso del monto establecido en el Parágrafo I del presente Artículo estará sujeto a disponibilidad financiera del TGN.
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Rural y Tierras, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los treinta días del mes de julio del año dos mil veinticinco.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Roberto Ignacio Rios Sanjines, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Alejandro Gallardo Baldiviezo, Zenón Pedro Mamani Ticona, Edgar Montaño Rojas, Alejandro Santos Laura, Jessica Paola Saravia Atristain, Víctor Pedro Quispe Ticona, María Renee Castro Cusicanqui, Álvaro Horacio Ruiz García, Omar Veliz Ramos, Juan Yamil Flores Lazo, Esperanza Guevara.

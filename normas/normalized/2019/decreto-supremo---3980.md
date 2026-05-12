@@ -1,0 +1,42 @@
+# Bolivia: Decreto Supremo Nº 3980, 18 de julio de 2019
+
+[Decreto Supremo Nº 3980](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 2 del Artículo 9 de la [Constitución Política del Estado](#TODO-link), determina que son fines y funciones esenciales del Estado garantizar el bienestar, el desarrollo, la seguridad y la protección e igual dignidad de las personas, las naciones, los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe.
+* Que el Artículo 8 de la [Ley Nº 264](#TODO-link), de 31 de julio de 2012, del Sistema Nacional de Seguridad Ciudadana “Para una Vida Segura”, establece que el Ministerio de Gobierno es la máxima autoridad responsable de la formulación, planificación, aprobación y gestión de las políticas públicas, como también de la coordinación y control de la seguridad ciudadana.
+* Que el numeral 1 del Artículo 9 de la [Ley Nº 264](#TODO-link), señala como responsabilidad del Ministerio de Gobierno formular, aprobar y ejecutar las políticas públicas para la prevención, mantenimiento y restablecimiento en materia de seguridad ciudadana.
+* Que el Artículo 10 de la [Ley Nº 259](#TODO-link), de 11 de julio de 2012, de Control al Expendio y Consumo de Bebidas Alcohólicas, dispone que el Gobierno Nacional, las Entidades Territoriales Autónomas y las Instituciones Públicas y Privadas; implementarán medidas de promoción de la salud y prevención del consumo de bebidas alcohólicas en el ámbito de sus competencias.
+* Que el Parágrafo I del Artículo 15 de la [Ley Nº 259](#TODO-link), determina que las personas naturales o jurídicas, que se dediquen a la actividad de comercialización de bebidas alcohólicas deberán sujetar su venta, a las prohibiciones establecidas en la mencionada Ley y normativa vigente.
+* Que el Artículo 28 del [Decreto Supremo Nº 1347](#TODO-link), de 10 de septiembre de 2012, establece que el Viceministerio de Seguridad Ciudadana del Ministerio de Gobierno y el Viceministerio de Defensa de los Derechos del Usuario y del Consumidor del Ministerio de Justicia, actual Ministerio de Justicia y Transparencia Institucional, coordinarán acciones orientadas a la prevención del consumo excesivo de bebidas alcohólicas.
+* Que es necesario implementar medidas de concientización y prevención que promuevan la coexistencia armónica y pacífica de las bolivianas y los bolivianos, a través de Jornadas de Sensibilización por parte de los Gobiernos Autónomos Municipales y de los Gobiernos Autónomos Indígena Originario Campesinos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el [Decreto Supremo Nº 1347](#TODO-link), de 10 de septiembre de 2012.
+
+**Artículo 2°.- (Incorporación)** Se incorpora el Artículo 29 en el [Decreto Supremo Nº 1347](#TODO-link), de 10 de septiembre de 2012, con el siguiente texto:
+> “ ARTÍCULO 29.- (JORNADAS DE SENSIBILIZACIÓN PARA LA PREVENCIÓN DE VIOLENCIA). En el marco de la seguridad ciudadana y la prevención del consumo excesivo de bebidas alcohólicas, los Gobiernos Autónomos Municipales y los Gobiernos Autónomos Indígena Originario Campesinos podrán declarar mínimamente un día al año como “JORNADAS DE SENSIBILIZACIÓN PARA LA PREVENCIÓN DE VIOLENCIA”
+
+, donde podrán implementar en su jurisdicción una o varias de las siguientes acciones:
+
+1. Prohibir el expendio y consumo de bebidas alcohólicas durante vienticuatro (24) horas;
+2. Promover actividades que fortalezcan las relaciones familiares;
+3. Promover actividades en espacios públicos que fomenten la sana recreación en comunidad;
+4. Realizar actividades de sensibilización y promoción de la prevención de violencia en espacios públicos;
+5. Realizar coordinadamente con instituciones educativas, actividades lúdicas y/o acciones informativas para la prevención de la violencia;
+6. Otras que se consideren convenientes dentro de cada jurisdicción.”
+
+---
+
+Los señores Ministros de Estado en los Despachos de Gobierno; y de Justicia y Transparencia Institucional, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los quince días del mes de julio del año dos mil diecinueve.
+  
+FDO. EVO MORALES AYMA, Diego Pary Rodríguez, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Luis Alberto Sánchez Fernández, Rafael Alarcón Orihuela, Nélida Sifuentes Cueto, Oscar Coca Antezana, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Milton Gómez Mamani, Lilly Gabriela Montaño Viaña, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana MINISTRO DE DESARROLLO RURAL Y TIERRAS E INTERINO DE ECONOMÍA Y FINANZAS PÚBLICAS, Wilma Alanoca Mamani, José Manuel Canelas Jaime, Tito Rolando Montaño Rivera.

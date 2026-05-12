@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 1354, 20 de septiembre de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 262 de la [Constitución Política del Estado](#TODO-link), determina que la zona de seguridad fronteriza estará sujeta a un régimen jurídico, económico, administrativo y de seguridad especial, orientado a promover y priorizar su desarrollo, y a garantizar la integridad del Estado.
+* Que el Artículo 1 de la [Ley Nº 571](#TODO-link), de 12 de octubre de 1983, establece que con la finalidad de impulsar aceleradamente el desarrollo social y económico del Departamento de Pando, créase por el lapso de veinte (20) años una zona franca comercial e industrial en la ciudad de Cobija.
+* Que el Artículo Único de la [Ley Nº 1850](#TODO-link), de 7 de abril de 1998, amplía la vigencia de la Zona Franca Comercial e Industrial de la ciudad de Cobija, por un período adicional de veinte (20) años, a partir de la promulgación de la citada Ley.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, dispone que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Artículo 42 del [Decreto Supremo Nº 25933](#TODO-link), de 10 de octubre de 2000, modificado por el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 29744](#TODO-link), de 15 de octubre de 2008, señala que la Zona Franca Comercial e Industrial de Cobija es una entidad pública descentralizada, con personalidad jurídica de derecho público, patrimonio propio, autonomía de gestión administrativa, financiera, legal y técnica, bajo tuición del Ministerio de Producción y Microempresa actual Ministerio de Desarrollo Productivo y Economía Plural.
+* Que el Parágrafo I del Artículo 33 del [Decreto Supremo Nº 1134](#TODO-link), de 8 de febrero de 2012, que reglamenta la aplicación de la [Ley Nº 211](#TODO-link), de 23 de diciembre de 2011, del Presupuesto General del Estado - Gestión 2012, autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo, la inscripción o incremento de las partidas de gasto 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y 46000 “Estudios y Proyectos para Inversión”, con recursos de financiamiento externo de crédito, donación y/o contraparte nacional establecidos en los convenios específicos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento el incremento de estas partidas deberá aprobarse mediante Decreto Supremo.
+* Que a fin de elaborar el estudio de preinversión del Proyecto “Implementación Cogeneradora de Energía Eléctrica por Biomasa ZOFRACOBIJA”, se requiere autorizar a ZOFRACOBIJA, el incremento del gasto en consultorías.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Zona Franca Comercial e Industrial de Cobija - ZOFRACOBIJA, incrementar la subpartida 46110 “Consultoría por Producto para Construcciones de Bienes Públicos de Dominio Privado” en Bs350.000.- (TRESCIENTOS CINCUENTA mil 00/100 BOLIVIANOS), financiado con Fuente20 “Recursos Específicos” y Organismo Financiador 230 “Otros Recursos Específicos”, a través de un traspaso intrainstitucional afectando la subpartida 57100 “Incremento de Caja y Bancos” en el mismo monto, para la elaboración del estudio de preinversión del Proyecto “Implementación Cogeneradora de Energía Eléctrica por Biomasa ZOFRACOBIJA”.
+
+---
+
+La señora Ministra de Estado en el Despacho de Desarrollo Productivo y Economía Plural, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de septiembre del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Rubén Aldo Saavedra Soto MINISTRO DE DEFENSA E INTERINO DE GOBIERNO, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

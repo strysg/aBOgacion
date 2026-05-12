@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 685, 27 de octubre de 2010
+
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que mediante [Ley Nº 2436](#TODO-link), de 21 de diciembre de 2002, se aprobó el Contrato de Crédito NDF-367, suscrito entre República de Bolivia y el Fondo Nórdico para el Desarrollo - NDF, el 21 de junio de 2002, por un monto de hasta Euros3.500.000.- (TRES MILLONES QUINIENTOS mil 00/100 EUROS), destinados a financiar el Proyecto de “Protección Medioambiental y Social para la Carretera Santa Cruz - Puerto Suárez”.
+* Que el [Decreto Supremo Nº 27585](#TODO-link), de 21 de junio de 2004, tiene por objeto transferir a la Prefectura del Departamento de Santa Cruz, la ejecución del Proyecto de “Protección Medioambiental y Social para la Carretera Santa Cruz - Puerto Suárez”.
+* Que en fecha 13 de abril de 2010, se suscribió la Enmienda Nº 2 al Contrato de Crédito NDF-367, entre el NDF y la Ministra de Planificación del Desarrollo, documento que establece como entidad ejecutora al Instituto Nacional de Reforma Agraria - INRA, a fin de lograr fluidez y agilidad en la ejecución del componente asignado a esta institución.
+* Que para cumplir con este objetivo, es necesario autorizar a las instancias correspondientes a suscribir la Enmienda al Convenio Subsidiario correspondiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se transfiere al Instituto Nacional de Reforma Agraria - INRA, la ejecución de los recursos del Contrato de Crédito NDF-367, en el marco de lo establecido en la Enmienda Nº 2 a dicho Contrato, suscrita en fecha 13 de abril de 2010.
+2. Se autoriza al Ministerio de Planificación del Desarrollo y al Ministerio de Economía y Finanzas Públicas, a suscribir la enmienda al Convenio Subsidiario de 20 de marzo de 2003, enmendado el 16 de enero de 2006, en el marco de la Enmienda Nº 2 al Contrato de Crédito NDF-367 de 13 de abril de 2010, en la que se establece como única entidad ejecutora de los recursos del Contrato de Crédito NDF-367 al INRA, a solicitud del Viceministerio de Inversión Pública y Financiamiento Externo.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Planificación del Desarrollo, de Economía y Finanzas Públicas, y de Desarrollo Rural y Tierras, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de octubre del año dos mil diez.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elizabeth Arismendi Chumacero, Elba Viviana Caro Hinojosa, Luís Fernando Vincenti Vargas, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo MINISTRO DE MINERIA Y METALURGIA E INTERINO DE ECONOMIA Y FIN. PÚBLICAS, Nilda Copa Condori, Carmen Trujillo Cárdenas, Nila Heredia Miranda, María Esther Udaeta Velásquez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola MINISTRA DE DES. RURAL Y TIERRAS E INTERINA DE DES. PRODUC. Y ECONOMIA PLURAL, Carlos Romero Bonifaz, Nardy Suxo Iturry, Zulma Yugar Párraga.

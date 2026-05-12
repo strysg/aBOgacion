@@ -1,0 +1,93 @@
+
+
+# Bolivia: Resolución Ministerial Nº 235, 20 de julio de 2016
+
+RESOLUCIÓN MINISTERIAL Nº 235 La Paz, 24 JUN.2016
+
+VISTOS Y CONSIDERANDO:
+
+* Que el parágrafo I del artículo 20 de la [Constitución Política del Estado](#TODO-link) señala que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+* Que la [Ley Nº 164](#TODO-link) de 08 de agosto de 2011, General de Telecomunicaciones, Tecnologías de la Información y Comunicación tiene por objeto establecer el régimen general de telecomunicaciones y tecnologías de información y comunicación, del servicio postal y el sistema de regulación, en procura del vivir bien garantizando el derecho humano individual y colectivo a la comunicación, con respeto a la pluralidad económica, social, jurídica, política y cultural de la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas del Estado Plurinacional de Bolivia.
+* Que el parágrafo I del artículo 65 de la [Ley Nº 164](#TODO-link), crea el Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, destinado al financiamiento de programas y proyectos de telecomunicaciones y tecnologías de información y comunicación, que permitan la expansión de redes de telecomunicaciones y desarrollo de contenidos y aplicaciones, para el logro del acceso universal en áreas rurales y de interés social.
+* Que el parágrafo III del artículo 65 de la referida Ley señala que los recursos del PRONTIS no podrán ser utilizados para fines distintos a los señalados en la misma.
+* Que el [Decreto Supremo Nº 1391](#TODO-link), de 24 de octubre de 2012 aprobó el Reglamento General a la [Ley Nº 164](#TODO-link), de 8 de agosto de 2011, Ley General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, el cual establece las condiciones generales para la utilización de los recursos del Programa Nacional de Telecomunicaciones de Inclusión Social.
+* Que el artículo 192 del citado Reglamento General a la [Ley Nº 164](#TODO-link), prevé que el contenido del contrato, plazos, procedimiento y condiciones de financiamiento se establecerán mediante Resolución Ministerial del Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que la [Ley Nº 769](#TODO-link) de 17 de diciembre de 2015 aprobó el Presupuesto General del Estado - PGE del sector público para la Gestión Fiscal 2016, y otras disposiciones específicas para la administración de las finanzas públicas.
+* Que la Disposición Adicional Primera de la precitada Ley, modifica el artículo 67 de la [Ley Nº 164](#TODO-link) de 08 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación estableciendo que la ejecución del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, estará a cargo de la Unidad de Ejecución de Proyectos del PRONTIS, la cual del total de las recaudaciones de la gestión, deducirá hasta el 0.5%, para su funcionamiento. Del importe restante, se autoriza al Ministerio de Obras Públicas, Servicios y Vivienda, suscribir contratos de hasta un 80% con la Empresa Nacional de Telecomunicaciones - ENTEL S. A. para la ejecución de proyectos de instalación de comunicaciones por fibra óptica, radio bases y dotación de servicio de internet para Unidades Educativas; si la empresa no pudiese ejecutar los proyectos de telecomunicaciones señalados, el Ministerio podrá licitar los proyectos entre los operadores de servicios establecidos en el país. El 20% restante será transferido al Ministerio de Comunicación, para proyectos de inclusión social, del cual se destinará hasta un 75% para Bolivia TV y Red Patria Nueva; y hasta 25% a TV Culturas.
+* Que el parágrafo II del precitado artículo 67, autoriza a las entidades beneficiarias de los recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, dependiente del Ministerio de Obras Públicas, Servicios y Vivienda, destinar hasta un 20% de los recursos que perciban, para gastos de mantenimiento y operaciones. Asimismo, los costos del servicio de internet provisto en las Unidades Educativas con recursos del PRONTIS, serán cubiertos por el mismo Programa por un año a partir del inicio de la provisión del servicio.
+* Que el [Decreto Supremo Nº 2644](#TODO-link) de 31 de diciembre de 2015 tiene por objeto reglamentar la aplicación de la [Ley Nº 769](#TODO-link) de 17 de diciembre de 2015, que aprueba el Presupuesto General de Estado Gestión 2016, estableciendo en su Disposición Adicional Primera que el Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS deberá cumplir sus objetivos mediante el financiamiento de proyectos, para lo cual la materia regulada en los artículos 184,186,192,193 y 194 del [Decreto Supremo Nº 1391](#TODO-link), será adecuado a lo señalado para su aplicación.
+* Que la Disposición Adicional Segunda del señalado Decreto Supremo modificó el artículo 189 del Reglamento General a la [Ley Nº 164](#TODO-link) de 08 de agosto de 2011, aprobado mediante [Decreto Supremo Nº 1391](#TODO-link) de 24 de octubre de 2012, sobre las Transferencias al Ministerio de Comunicación, estableciendo en su parágrafo I que el Ministerio de Obras Públicas, Servicios y Vivienda, previa aprobación del proyecto transferirá al Ministerio de Comunicación, de acuerdo a Convenio suscrito, los recursos correspondientes a cada proyecto, hasta completar el veinte por ciento (20%) de lo presupuestado en la gestión y conforme a la recaudación efectiva.
+* Que el parágrafo II del mencionado artículo 189 dispone que los recursos que el Ministerio de Comunicación no comprometa en la gestión, serán reasignados al Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, para el financiamiento de proyectos de instalación de comunicaciones por fibra óptica, radio bases y dotación del servicio de internet para Unidades Educativas.
+* Que el parágrafo III prescribe que una vez concluida la ejecución de los proyectos financiados con los recursos transferidos del PRONTIS y los mismos cuenten con sus respectivas auditorias especiales, el Ministerio de Comunicación deberá informar al Ministerio de Obras Públicas, Servicios y Vivienda los resultados e impactos obtenidos.
+* Que la Disposición Adicional Tercera, del [Decreto Supremo Nº 2644](#TODO-link), modifica el Artículo 191 del Reglamento General a la [Ley Nº 164](#TODO-link), de 8 de agosto de 2011, Ley General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, aprobado por [Decreto Supremo Nº 1391](#TODO-link), de 24 de octubre de 2012, estableciendo en su parágrafo V que los proyectos de instalación de comunicaciones serán ejecutados con recursos no reembolsables, de acuerdo a lo siguiente a) Invitación directa a ENTEL S. A.; b) Licitación pública entre los operadores de servicios establecidos en el país, en caso que ENTEL S. A. no pudiese ejecutar los proyectos.”
+* Que la Resolución Ministerial Nº 013 de 14 de enero de 2013, aprobó el Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social, el cual tiene por objeto establecer las condiciones para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, en el marco de la [Ley Nº 164](#TODO-link) de 08 de agosto de 2011 y del [Decreto Supremo Nº 1391](#TODO-link) de 24 de octubre de 2012.
+
+CONSIDERANDO:
+
+* Que el parágrafo I del artículo 1 del [Decreto Supremo Nº 0181](#TODO-link) de 28 de junio de 2009, que aprueba las Normas Básicas del sistema de Administración de Bienes y Servicios (NB-SABS) establece que el Sistema de Administración de Bienes y Servicios es el conjunto de normas de carácter jurídico, técnico y administrativo que regula la contratación de bienes y servicios, el manejo y la disposición de los bienes de la entidades públicas.
+* Que el parágrafo I del artículo 73 de las referidas NB-SABS prevé que las condiciones para la Contratación Directa de Bienes y Servicios deberán ser reglamentadas por cada entidad pública en su Reglamento Específico del Sistema de Administración de Bienes y Servicios.
+* Que la Resolución Ministerial Nº 328 de 09 de diciembre de 2014 aprobó el Reglamento Específico del Sistema de Administración de Bienes y Servicios (RE-SABS) del Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que el precitado Reglamento no establece los procedimientos, requisitos ni plazos adecuados para la contratación directa de ENTEL S. A. requerida por la Unidad Ejecutora de Proyectos del PRONTIS - UEPP, por lo que ante tal circunstancia es necesario establecer un procedimiento específico para dicha contratación mediante Resolución Ministerial, norma de igual jerarquía que la Resolución Ministerial Nº 328 que aprobó las RE-SABS de este Ministerio.
+* Que mediante Resolución Ministerial N° 095 de 14 de abril de 2015, se aprobó el Proyecto “Radio Bases Focalizadas para la Inclusión Social - Fase I”
+
+CONSIDERANDO:
+
+* Que el Informe Técnico MOPSV/VMTEL/UEPP Nº 0042/2016 de 14 de abril de 2016, emitido por el Viceministerio de Telecomunicaciones, solicitó la modificación de la Resolución Ministerial Nº 013 de 14 de enero de 2013 que reglamentó la aplicación del PRONTIS, considerando las modificaciones a la [Ley Nº 164](#TODO-link) de 08 de agosto de 2011 y [Decreto Supremo Nº 1391](#TODO-link) de 24 de octubre de 2012, que establecen una nueva forma de ejecución de proyectos del PRONTIS, a través de contratos con ENTEL S. A. y transferencias al Ministerio de Comunicación, efectuadas mediante [Ley Nº 769](#TODO-link), dando viabilidad técnica a la propuesta de emisión de Resolución Ministerial que apruebe las modificaciones al Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS. Asimismo, en la gestión 2015 fue aprobado el proyecto “Radio Bases Focalizadas para la Inclusión Social Fase I” mediante Resolución Ministerial N° 095 de 14 de abril de 2015, el cual no fue ejecutado dado que ENTEL S. A. no manifestó su interés y en proceso de licitación ningún operador se presentó, no pudiéndose adjudicar el mismo, y considerando que las modificaciones efectuadas a la Ley General de Telecomunicaciones señalan que se llevarán a cabo tres proyectos con recursos PRONTIS, se hace necesario replantear el señalado proyecto, correspondiendo dejar sin efecto la Resolución Ministerial N° 095.
+* Que por Informe Técnico MOPSV/VMTEL/UEPP Nº 0073/2016 de 15 de junio de 2016, la Asesora Legal de la UEPP, concluyó que de acuerdo a las necesidades de la Unidad, se ve necesario establecer un procedimiento especifico de invitación directa para la ejecución de proyectos del PRONTIS, señalando que las condiciones acordadas para la invitación directa son viables técnicamente para la Unidad Ejecutora de Proyectos del PRONTIS.
+* Que a través del Informe Jurídico MOPSV - DGAJ Nº 500/2016 de 24 de junio de 2016 la Dirección General de Asuntos Jurídicos de este Ministerio se pronunció por la procedencia de la emisión de Resolución Ministerial que apruebe el Reglamento Específico para la Contratación Directa con Recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS y la modificación del Reglamento para la aplicación del PRONTIS aprobado mediante Resolución Ministerial Nº 013 de 14 de enero de 2013, propuesto por el Viceministerio de Telecomunicaciones, así como la abrogación de la Resolución Ministerial N° 095 de 14 de abril de 2015.
+* Que en el marco de las modificaciones efectuadas a la [Ley Nº 164](#TODO-link) a través de la [Ley Nº 769](#TODO-link), se deben efectuar modificaciones al Reglamento para la aplicación del Programa de Telecomunicaciones de Inclusión Social - PRONTIS” aprobado mediante Resolución Ministerial Nº 013, considerando que se establece una nueva forma de ejecución de proyectos del PRONTIS, a través de contratos con ENTEL S. A. y transferencias al Ministerio de Comunicación.
+* Que bajo ese marco es necesario establecer el procedimiento, requisitos y plazos adecuados para la contratación directa de ENTEL S. A. requeridos por la Unidad Ejecutora de Proyectos del PRONTIS - UEPP, debiéndose aprobar la reglamentación específica.
+* Que el numeral 22) del artículo 14 del [Decreto Supremo Nº 29894](#TODO-link) del 07 de febrero de 2009, de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, establece que las Ministras y Ministros, en el marco de las competencias asignadas al nivel central en la [Constitución Política del Estado](#TODO-link), tienen la atribución de emitir resoluciones ministeriales, en el marco de sus competencias. POR TANTO:
+
+El Ministro de Obras Públicas, Servicios y Vivienda en ejercicio de sus atribuciones,
+
+RESUELVE:
+
+**Primero.-.-** Aprobar el Reglamento para la Contratación Directa con Recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, con sus tres Capítulos y quince (15) artículos, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+
+**Segundo.-.-** Aprobar la modificación del “Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS” aprobado mediante Resolución Ministerial Nº 013 de 14 de enero de 2013, de acuerdo a lo siguiente:
+
+1. Se modifican los incisos a) y c) del artículo 3, quedando el texto final con la siguiente redacción:
+   > “**a) Eficiencia**. Los recursos serán asignados a los proyectos que garanticen mayor cobertura, menor plazo de implementación, tecnología moderna, calidad, menores tarifas para la población beneficiaria y menor monto de financiamiento solicitado.
+   >   
+   > **c) Transparencia**. Los recursos para el financiamiento de proyectos de telecomunicaciones de interés social, serán administrados a través de mecanismos de control aplicables que garanticen su verificación y adecuada fiscalización.”
+2. Se modifica el parágrafo II del artículo 5 quedando el texto final con la siguiente redacción:
+   > “II. Los operadores de telecomunicaciones y tecnologías de información y comunicación que ejecuten los proyectos deberán asumir la obligación de implementar el proyecto de acuerdo a las condiciones técnicas establecidas y el Contrato.”
+3. Se modifica el artículo 8, con el siguiente texto:
+   > “Artículo 8.- (LICITACIÓN PARA LA EJECUCIÓN DE PROYECTOS).
+   >   
+   > I. Para el inicio del proceso de licitación se deberá contar con la nota de ENTEL S. A. en la cual señale que la empresa no puede ejecutar el proyecto, y con el informe correspondiente de la Unidad de Ejecución de Proyectos del PRONTIS, el cual señale que el Proyecto no será ejecutado por ENTEL S. A.
+   >   
+   > II. La Dirección General de Asuntos Administrativos en coordinación con la Unidad de Ejecución de Proyectos del PRONTIS, realizará la licitación para seleccionar al operador u operadores de telecomunicaciones que se adjudicará(n) los proyectos financiados con los recursos del PRONTIS.”
+4. Se modifica el artículo 9, cuyo texto final es el siguiente:
+   > “Artículo 9.- (CRITERIOS DE EVALUACIÓN). Los criterios de evaluación para la adjudicación de los Proyecto del PRONTIS, serán los siguientes:
+   >   
+   > Mejores condiciones técnicas y económicas. Cronograma de instalación y de operación en el menor tiempo. Otros aprobados en el Documento Base de Contratación, en el marco de los principios del presente Reglamento.”
+
+   V. Se modifica el artículo 10, con el siguiente texto:
+   > “Artículo 10.- (CONTENIDO DE LOS CONTRATOS). Para las adjudicaciones de forma directa o a través de licitaciones, el contenido del contrato deberá considerar los siguientes aspectos, los cuales son referenciales:
+   >   
+   > Antecedentes. Legislación aplicable. Documentos integrantes. Objeto del Contrato. Plazo de ejecución del proyecto. Vigencia del Contrato. Monto, forma y cronograma de desembolsos y contraparte a cargo del beneficiario del financiamiento. Mecanismos de supervisión y control. Obligaciones de las partes. Garantías a ser ofrecidas por el adjudicatario, de acuerdo al objeto del contrato. Penalidades y sanciones derivadas del incumplimiento de las obligaciones del adjudicatario. Causales de resolución o rescisión del contrato. Mecanismos de solución de controversias.”
+
+   VI. Se modifica el Artículo 13 quedando el texto final con la siguiente redacción:
+   > “Artículo 13.- (FISCALIZACIÓN). La Unidad de Ejecución de Proyectos del PRONTIS supervisará, fiscalizará y controlará las obligaciones contractuales asumidas por el operador adjudicado de los proyectos financiados con recursos del PRONTIS.”
+
+**Tercero.-.-** Se derogan los artículos 4, 6, 7, 11 y 12 del “Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS” aprobado mediante Resolución Ministerial Nº 013 de 14 de enero de 2013.
+
+**Cuarto.-.-** Se ratifican los demás artículos del Reglamento para la aplicación del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS aprobado mediante Resolución Ministerial Nº 013 de 14 de enero de 2013.
+
+**Quinto.-.-** La presente Resolución Ministerial y su anexo entrarán en vigencia a partir de su publicación, conforme a normas legales vigentes.
+
+**Sexto.-.-** Abrogar la Resolución Ministerial Nº 095 de 14 de abril de 2015, del Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Séptimo.-.-** Encargar el cumplimiento de la presente Resolución Ministerial y su anexo, así como su publicación al Viceministerio de Telecomunicaciones.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+Fdo. Milton Claros Hinojosa MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA.
+
+# Anexo Reglamento para la contratación directa con recursos del Programa Nacional de Telecomunicaciones de Inclusión Social
+
+[Reglamento para la contratación directa con recursos del Programa Nacional de Telecomunicaciones de Inclusión Social](#TODO-link)

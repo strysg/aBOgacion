@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 27146, 30 de agosto de 2003
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Prefectura del Departamento de Cochabamba es propietaria de 1.196.065, 30. m2 de terreno ubicado en la Provincia Germán Jordán, Primera Sección - Cliza, Zona de Carcaje del Departamento de Cochabamba, de acuerdo a transferencia judicial otorgada por el Juez 1º de Partido Administrativo, Coactivo Fiscal y Tributario en virtud al proceso coactivo seguido contra René Saavedra Antezana y otros; transferencia que se halla registrada en la Oficina de Derechos Reales de la Provincia Germán Jordán a fojas 395, Partida Nº 395 del Libro 1º.
+* Que mediante Comunicación Interna Nº UAD 419/2002, de 7 de Mayo de 2002, el Jefe de la Unidad Administrativa de la Prefectura de Cochabamba, indica que previa verificación in situ, dicho terreno se encuentran sin uso.
+* Que en base a dichos antecedentes, la Prefectura del Departamento de Cochabamba, a solicitud del Comando General de la Fuerza Naval, mediante documento de 2 de Junio de 2003, otorgó bajo la modalidad de comodato el indicado terreno a favor de la Fuerza Naval, por el plazo de un año.
+* Que la [Ley Nº 1178](#TODO-link) de 20 de julio de 1990, de Administración y Control Gubernamentales, en su Articulo 3 establece que los Sistemas de Administración y Control se aplicarán en todas la entidades del Sector Público sin excepción y en toda otra persona jurídica en la que el Estado tenga la mayoría del Patrimonio.
+* Que en este contexto, mediante [Decreto Supremo Nº 25964](#TODO-link) de 21 de Octubre de 2000, se aprueban las Normas Básicas del Sistema de Administración de Bienes y Servicios, que regulan en forma interrelacionada con otros sistemas de administración y control, la contratación, manejo y disposición de bienes y servicios de las entidades públicas.
+* Que las Normas Básicas del Sistema de Administración de Bienes y Servicios, disponen que la transferencia a título gratuito podrá darse solamente entre entidades publicas; consistiendo esta, en la cesión definitiva del derecho propietario de un bien, sin recibir una contraprestación económica a cambio del mismo y cuando éste no sea utilizado por la entidad.
+* Que la infraestructura de la Escuela Naval Militar no reúne los requisitos necesarios para la formación profesional de Oficiales Navales, requiriéndose una estructura acorde al plan de estudios y entrenamientos militares.
+* Que la Fuerza Naval Boliviana, ha emitido la Resolución Nº 010/03 de 10 de Abril de 2003, mediante la cual se aprueba el traslado de la Escuela Naval Militar al Departamento de Cochabamba.
+* Que el plazo establecido en el comodato no garantiza las inversiones que se deben realizar en construcciones y funcionamiento de la Escuela Naval Militar.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Prefectura del Departamento de Cochabamba, en el marco de las Normas Básicas del Sistema de Administración de Bienes y Servicios, a transferir a título gratuito el terreno ubicado en la Provincia Germán Jordán, Primera Sección - Cliza, Zona de Carcaje del Departamento de Cochabamba, con una extensión de 1.196.065, 30 m2, registrado en las oficinas de Derechos Reales de la Provincia Germán Jordán a fojas 395, Partida Nº 395 del Libro 1º, a favor del Ministerio de Defensa Nacional, con destino a la edificación y funcionamiento de la Escuela Naval Militar.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Defensa Nacional queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de agosto de dos mil tres años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Franklin Anaya Vásquez Ministro Interino de RR. EE. y Culto, José Guillermo Justiniano Sandoval, Yerko Kukoc del Carpio, Carlos Sánchez Berzaín, Javier Comboni Salinas, Erick Reyes Villa Bacigalupi, Jorge Torres Obleas, Carlos Morales Landivar, Jorge Berindoague Alcocer, Hugo Carvajal Donoso, Javier Tórres Goitia Caballero, Adalberto Kuajara Arandia, Guido Añez Moscoso, Dante Pino Archondo, Mirtha Quevedo Acalinovic

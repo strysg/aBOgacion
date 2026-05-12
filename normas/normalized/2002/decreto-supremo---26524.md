@@ -1,0 +1,50 @@
+# Bolivia: Decreto Supremo Nº 26524, 22 de febrero de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Decreto Supremo Nº 23459](#TODO-link) de 31 de marzo de 1993, se autorizó al Superintendente de Bancos y Entidades Financieras proseguir los trámites de Ley para la liquidación del ex Banco Minero de Bolivia, hasta su total conclusión, conforme a las normas y previsiones contenidas en la [Ley Nº 1488](#TODO-link) de Bancos y Entidades Financieras de 14 de abril de 1993, el [Decreto Ley Nº 14379](#TODO-link) de 25 de febrero de 1977, Código de Comercio y disposiciones legales aplicables a la materia.
+* Que por [Decreto Supremo Nº 23926](#TODO-link) de 23 de diciembre de 1994, se autorizó a la Superintendencia de Bancos y Entidades Financieras aplicar en el proceso de liquidación del ex Banco Minero de Bolivia los criterios y facilidades de pago que establecía el [Decreto Supremo Nº 23320](#TODO-link) de 9 de noviembre de 1992, [Decreto Supremo Nº 23427](#TODO-link) de 17 de marzo de 1993, [Decreto Supremo Nº 23499](#TODO-link) de 19 de mayo de 1993 y el [Decreto Supremo Nº 23670](#TODO-link) de 8 de noviembre de 1993, así como el artículo 129 de la [Ley Nº 1488](#TODO-link) de Bancos y Entidades Financieras, implementando políticas de mayor celeridad en la conclusión de la liquidación, de modo que se posibilite la recuperación de la cartera de créditos.
+* Que el Artículo 8 del [Decreto Supremo Nº 24649](#TODO-link) de 13 de junio de 1997, dispuso que la Superintendencia de Bancos y Entidades Financieras, a la conclusión del proceso de liquidación del ex Banco Minero de Bolivia, transfiera los activos y pasivos remanentes al Tesoro General de la Nación.
+* Que en ejecución del [Decreto Supremo Nº 24649](#TODO-link), el Ministro de Hacienda, el Viceministro de Tesoro y Crédito Público, el Superintendente de Bancos y Entidades Financieras y el Intendente Liquidador del ex Banco Minero de Bolivia, en fecha 9 de marzo de 1999, suscribieron el Convenio de Transferencia de Activos y Pasivos remanentes del Banco Minero de Bolivia en Liquidación al Tesoro General de la Nación, los juicios en trámite por y contra el Banco Minero de Bolivia, y los informes de auditoria en curso de reformulación o evaluación de la Contraloría General de la República, que fueron recibidos por el Servicio Nacional de Patrimonio del Estado-SENAPE en cumplimiento del citado Convenio y de la Resolución Ministerial Nº 188 de 4 de marzo de 1999.
+* Que es necesario otorgar al Servicio Nacional de Patrimonio del Estado-SENAPE facultades para que asuma la defensa correspondiente en los procesos judiciales, en el tratamiento para la recuperación de las acreencias y en la disposición de los bienes muebles e inmuebles, equipos y maquinaria remanentes recibidos de la Intendencia de Liquidación del Banco Minero de Bolivia.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Personeria juridica del SENAPE)** A partir de la fecha de publicación del presente Decreto Supremo, el Servicio Nacional de Patrimonio del Estado-SENAPE ejercerá la representación y personería jurídica en los procesos judiciales recibidos de la Intendencia de Liquidación que se tramitan por y contra el ex Banco Minero de Bolivia. El Tesoro General de la Nación cubrirá los adeudos que por concepto de estas demandas sean determinados en sentencias ejecutoriadas por autoridades jurisdiccionales.
+
+**Artículo 2°.- (Informes de auditoria)** Los informes de auditoria recibidos que se encuentran en curso de reformulación o evaluación de la Contraloría General de la República, serán atendidos por la Unidad de Auditoria Interna del SENAPE y procesados conforme a los antecedentes recibidos.
+
+**Artículo 3°.- (Suscripcion de acuerdos transaccionales)** Para la recuperación de la cartera en mora del ex Banco Minero de Bolivia, se faculta al SENAPE, suscribir acuerdos transaccionales para la reprogramación y/o cobro de las acreencias, bajo los términos, condiciones y modalidades que se señalan en el presente Decreto Supremo.
+
+**Artículo 4°.- (Conciliacion de cuentas)** El SENAPE condonará hasta el 100% los intereses corrientes, penales, gastos, costas y otros cargos adicionales sobre los créditos recibidos tanto en ejecución como los créditos que dieron origen a procesos judiciales en trámite, en favor de los deudores del ex Banco Minero de Bolivia, e imputará en un 100% a los saldos de capital, los intereses corrientes y penales que hayan sido cancelados por los deudores desde el 2 de enero de 1987 hasta la fecha de publicación del presente Decreto Supremo. Si como consecuencia de la conciliación existiesen saldos a favor de los deudores del ex Banco Minero de Bolivia, estos quedarán consolidados a favor del Tesoro General de la Nación.
+
+**Artículo 5°.- (Autorizacion de condonacion)** Se autoriza al SENAPE condonar del nuevo saldo deudor, producto de las conciliaciones o liquidaciones, hasta un 26% del capital, en caso de cancelación total al contado, y hasta un 15% en caso de reprogramación, la misma que devengará el interés del 7, 5% anual sobre saldos, fijar los plazos y exigir las garantías correspondientes.
+
+**Artículo 6°.- (Autorizacion al pago de patentes)** Se autoriza al Tesoro General de la Nación para que proceda al pago de patentes mineras de las concesiones vigentes, adjudicadas judicialmente por recuperación de créditos que el fueron entregadas por la Intendencia de Liquidación del ex Banco Minero de Bolivia; de las concesiones que constituyan garantía en los procesos judiciales que se encuentran en trámite y de las que pudieran ser adjudicadas posteriormente al Ministerio de Hacienda por acciones legales, acuerdos transaccionales y otros.
+
+**Artículo 7°.- (Transferencia directa de bienes inmuebles)** El SENAPE, en representación del Ministerio de Hacienda y Viceministro de Tesoro y Crédito Público, procederá a la transferencia directa de los bienes inmuebles adjudicados judicialmente en los procesos de recuperación de créditos, en los Departamentos de Oruro y Potosí, en favor de los propietarios originales y/o que sean ocupantes a cualquier título, que constituyan vivienda unifamiliar y no sobrepase el monto de $us.25.000 (veinticinco mil dólares americanos); con el fin de no incurrir en mayores gastos por concepto de juicios de desapoderamiento, despojo o desalojo. Las transferencias se realizarán en los valores de la adjudicación judicial, previo pago del precio al contado con deducción de los pagos a cuenta.
+
+**Artículo 8°.- (Transferencia de bienes inmuebles a título oneroso)** Los demás bienes inmuebles adjudicados y por adjudicarse, sobre los que no se hubiera convenido el pacto de retroventa, independientemente del monto, o por efecto de acuerdos transaccionales, serán transferidos por el SENAPE por cuenta del Ministerio de Hacienda y Viceministro de Tesoro y Crédito Público, a título oneroso, en forma directa a las entidades estatales, y mediante subasta o remate no judicial al sector privado cumpliendo el [Decreto Supremo Nº 25964](#TODO-link), de 21 de octubre de 2000, de las Normas Básicas del Sistema de Administración de Bienes y Servicios. El precio de venta directa o base del remate será el monto del valor adjudicado o recibido de los deudores.
+
+**Artículo 9°.- (Transferencia a titulo gratuito)** 
+
+1. Se autoriza al SENAPE, en representación del Ministerio de Hacienda y Viceministro de Tesoro y Crédito Público, transferir a título gratuito los bienes muebles, enseres, equipos y maquinaria remanentes de la liquidación del ex Banco Minero de Bolivia a favor de entidades estatales. Los bienes muebles, enseres, equipo y maquinaria sobrantes que no puedan ser transferidos a las entidades estatales, serán enajenados al sector privado mediante subasta pública no judicial, cumpliendo los artículos 191, 192, 193 numerales II y III, 194, 195, 196, 197, 198, 199, 200 y 201 de las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+2. Los bienes muebles, enseres y equipos que no puedan ser transferidos al sector público o privado por el estado de deterioro en que se encuentran, serán dados de baja de los estados financieros del ex Banco Minero de Bolivia con la intervención de Notario de Fe Pública, debiendo elevarse informes sobre estas operaciones a la Contraloría General de la República con fines de control posterior.
+
+**Artículo 10°.- (Acciones judiciales)** Las acciones judiciales iniciadas contra los deudores del ex Banco Minero de Bolivia, serán suspendidas o sujetas a desistimiento en caso que los deudores se acojan a las facilidades contenidas en el presente Decreto Supremo hasta el 31 de julio de 2002.
+
+**Artículo 11°.- (Transferencia de bienes inmuebles propios del ex Banco Minero de Bolivia)** El SENAPE, por instrucciones del Ministerio de Hacienda y Viceministro de Tesoro y Crédito Público, procederá a la transferencia directa en favor de las entidades estatales, de los bienes inmuebles propios del ex Banco Minero de Bolivia, en calidad de venta, asignación o compensación presupuestaria o pago de deudas, en el valor con que fueron transferidos por la Intendencia de Liquidación al Tesoro General de la Nación.
+
+---
+
+El Señor Ministro de Estado en la Cartera de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de febrero el año dos mil dos.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, José Luís Lupo Flores, Leopoldo Fernández Ferreira, Oscar Guilarte Luján, Eduardo Antelo Callisperis MINISTRO INTERINO DE HACIENDA, Mario Serrate Ruíz, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña , Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña , Xavier Nogales Iturri, Mauro Bertero Gutiérrez, Wigberto Rivero Pinto

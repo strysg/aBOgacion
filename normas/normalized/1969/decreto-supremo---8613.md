@@ -1,0 +1,179 @@
+# Bolivia: Decreto Supremo Nº 8613, 21 de enero de 1969
+
+[Decreto Supremo Nº 08613](#TODO-link)  
+RENE BARRIENTOS ORTUÑO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 08338](#TODO-link) de 17 de abril de 1968, establece el uso de la sal yodada en todo el territorio de la República, señalando las condiciones que deben llenarse en la elaboración, envase y comercialización de este producto destinado al consumo humano y animal;
+* Que en el Art.8º del citado Decreto Supremo, está previsto el estudio y adopción de medidas técnicas y de control para el mejor empleo del artículo mencionado, mediante disposiciones reglamentarias;
+  Ques es indispensable, por consiguiente, dictar un reglamento que regule el estricto cumplimiento de las normas impuestas al uso de la sal yodada en defensa de la salud pública;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Normas generales
+
+**Artículo 1°.-** De conformidad con el artículo 8º del [Decreto Supremo Nº 08338](#TODO-link) del 17 de abril de 1968, el presente reglamento establece las normas técnicas, sanitarias y administrativas mínimas sobre la elaboración, envase, inspección, control y comercialización de la sal común (cloruro de sodio) enriquecida con yodato de potasio y destinada a la alimentación del hombre y de los animales creados para el consumo humano. Asimismo se determina un plan quinquenal durante el cual se crearán las facilidades necesarias para la yodación obligatoria de toda sal consumida en el país.
+
+**Artículo 2°.-** La aplicación del presente reglamento será responsabilidad directa del Comité Permanente de la Sal el que en coordinación con los Ministerios de Salud Pública y de Agricultura y las Honorables Alcaldías Municipales y por intermedio de sus divisiones técnicas respectivas organizará los servicios de inspección y control de laboratorio necesarios para el debido cumplimiento de las disposiciones legales objeto de la presente reglamentación; debiendo formularse los manuales específicos de procedimientos para cada caso en particular.
+
+**Artículo 3°.-** Las disposiciones contenidas en el presente reglamento deberán ser cumplidas por toda persona natural o jurídica, que elabore, fraccione, conserve, transporte, expenda o utice sal de acuerdo al artículo 10; ya sea directamente o incorporada a alimentos tratados industrialmente de acuerdo al reglamento sanitario de alimentos y bebidas en vigencia.
+
+**Artículo 4°.-** La obligatoriedad de yodación de la sal señalada por el Decreto Supremo objeto del presente reglamento se refiere al consumo directo o indirecto de sal, tanto por el hombre como por los animales, entendiéndose por indirecto a los alimentos elaborados industrialmente.(alimentos enlatados, deshidratados, congelados, chacinería, conservas, panificación, repostería, etc).
+
+## Capítulo II Obligatoriedad de yodación de la sal
+
+**Artículo 5°.-** Los diversos tipos de sal y sus características son:
+
+1. Se entiende por el nombre de sal, sin otro calificativo, al producto comercialmente puro o purificado que se designa quimícamente cloruro de sodio y que proviene de fuentes naturales o de procesos industriales debidamente aprobados.
+2. La sal común puede presentarse bajo tres formas: Sal gruesa, o de cocina, con un contenido mínimo de 85 por ciento de cloruro de sodio y con distintas gradaciones de triturado o molido; sal entrefina o de mesa, con un contenido de por lo menos 94 por ciento de cloruro de sodio, y que pase por el tamiz de 420 micrones; y sal fina o de mesa, refinada con un mínimo de 96 por ciento de cloruro de sodio, cuyos cristales pasen por el tamiz de 125 micrones, tolerándose hasta no más del diez por ciento de sal impalpable.
+     
+   Cualesquiera de estos tipos de sal deberá satisfacer las siguientes condiciones mínimas:
+     
+   - Presentarse en forma de cristales blancos, inodoros, solubles en agua y de sabor salino franco.
+     
+   - No contener nitritos, ni más de 0.5 por ciento de nitratos expresados en nitrato de potasio, ni más de 5 % de agua. El resíduo insoluble no excederá del 0.5 por ciento (impurezas).
+     
+   - El resíduo seco no deberá contener más de 1.4 por ciento de sulfatos expresados en sulfato de calcio, ni más del 1 por ciento en total de cloruros de calcio, magnesio y potasio.
+3. Se entiende por sal enriquecida al cloruro de sodio adicionado de yodato de potasio, según las especificaciones del presente reglamento.
+     
+   Queda excluída del presente reglamento toda la sal que no responda a alguno de los tipos señalados en el inciso b) considerándosela industrial y por consiguiente no apta para el consumo alimenticio. Podrá ser empleada en industrias no relacionadas con la alimentación, como ser curtiembres, textiles, industria química, etc.
+
+**Artículo 6°.-** La tenencia de la sal común no enriquecida está permitida solamente a los concesionarios de yacimientos en explotación, a los industriales que la yodizan y a aquellos incluídos en el artículo anterior.
+
+**Artículo 7°.-** La comercialización de sal común, fuera de los alcances de los artículos precedentes, será considerada como delito contra la salud pública.
+
+**Artículo 8°.-** Los establecimientos que se ocupan de la elaboración de sal enriquecida para consumo humano o animal, o su empleo en industrias alimentarias, deberán, además de las normas generales, satisfacer las siguientes condiciones:
+
+1. Disponer de locales higiénicos para el procesamiento de la sal hasta su envase final.
+2. Utilizar únicamente envases higiénicos y de primer uso.
+3. Los establecimientos dedicados al fraccionamiento de la sal enriquecida para uso alimentario no podrá recibir ni conservar dicho producto sino en envases de primer uso e higiénicos.
+4. La sal, antes de ser envasada, no deberá contener más de 20.000 gérmenes banales por gramo y ausencia de E. coli, estafilococos, estreptococos, shigellas y salmonellas.
+5. Las industrias ajenas al proceso alimentario debidamente registradas, y aquellas que se dedican a la fabricación de sal enriquecida serán las únicas que puedan recibir sal común a granel, despachada directamente de la fuente de origen.
+6. Las industrias de la alimentación no podrán tener en sus depósitos, salvo excepciones debidamente autorizadas, otra sal que la enriquecida, conservada en sus envases higiénicos de primer uso.
+
+## Capítulo III De las fábricas de sal enriquecida
+
+**Artículo 9°.-** No podrá elaborarse ni empatarse o fraccionar la sal enriquecida para consumo humano o animal, sino en locales técnicamente aprobados por el Servicio Nacional de Salud y autorizados por las Honorables Alcaldías Municipales.
+
+**Artículo 10°.-** Las personas interesadas en la fabricación o fraccionamiento de sal enriquecida deberán presentar, juntamente con su solicitud de autorización de funcionamiento, el plano del establecimiento y una descripción detallada de los procesos de elaboración, señalando el orígen de la materia utilizada.
+
+**Artículo 11°.-** El Servicio Nacional de Salud y las Honorables Alcaldías Municipales, establecerán conjuntamente el procedimiento de aprobación de requisitos técnicos y el sistema de empadronamiento de las fábricas de sal enriquecida, en el que deberá constar las características del establecimiento así como la dirección y el nombre del o de los propietarios.
+
+**Artículo 12°.-** La documentación aprobada a la que se refiere el artículo anterior será puesta en conocimiento de los Ministerios de Hacienda y Economía, de conformidad con el [Decreto Supremo Nº 03654](#TODO-link) del 25 de febrero de 1954, a fines de inscripción.
+
+**Artículo 13°.-** Todo establecimiento ya inscrito deberá recabar anualmente su tarjeta industrial presentando el balance de la gestión vencida, el formulario estadístico único y los certificados de análisis de las materias primas utilizadas y el grado de enriquecimiento de la sal.
+
+**Artículo 14°.-** Las fábricas de sal enriquecida deberán reunir los requisitos de seguridad e higiene, particularmente en las secciones de manipulación y almacenamiento, que determinan las autoridades correspondientes.
+  
+Las siguientes condiciones sanitarias generales serán imprescindibles:
+
+1. Buena iluminación.
+2. Espacio suficiente.
+3. Buena ventilación, que será superior y lateral, con la debida protección.
+4. Material de construcción primera calidad, con zócalo reglamentario de 1.50 de altura.
+5. Pisos impermeables, con desagües apropiados, conservados en buen estado.
+6. Mesas de trabajo de material impermeable.
+7. Agua potable en abundancia.
+8. Un baño de lluvia y un laboratorio, dotados de agua caliente y fría, por cada diez operarios.
+9. Servicio higiénico, convenientemente aislado, iluminado y adecuadamente provisto, en conexión con la red matriz de desague.
+
+**Artículo 15°.-** La limpieza de las máquinas, aparatos y demás útiles de elaboración, así como los medios de envase, de almacenamiento y de transporte será practicada diariamente.
+
+**Artículo 16°.-** Las personas, sociedades, firmas comerciales y otros, que figuran como propietarios de las fábricas o establecimientos que elaboren o fraccionen la sal enriquecida, son responsables de todo producto que sea entregado a la venta con defectos de elaboración o deficiencias en el envase, no admitiéndose excusa alguna tendiente a atenuar o eludir dicha responsabilidad.
+
+## Capítulo IV De los envases y rotulaciones
+
+**Artículo 17°.-** Los envases y envoltorios destinados al transporte, almacenamiento, fraccionamiento y expendio de la sal enriquecida deberán ser nuevos, de primer uso, y de los siguientes materiales:
+
+1. Plásticos y resinas artificiales derivadas de la celulosa, caseína, politetraflouretileno, poliester, polamida, etc., que no cedan substancias de ninguna clase cuando se los someta a una acción de contacto con agua carbónica a diez atmósferas de presión, prolongada por lo menos durante vienticuatro horas.
+2. Cartón, cartulina y papel grueso y resistente, simples o impermeabilizados, blancos o de color libres de carga mineral y de substancias nocivas.
+     
+   El papel, cartulina y cartón simples pueden ser empleados como envase exterior del material impermeabilizado o plástico. Cuando se trate de envase único, este deberá ser de plástico.
+
+**Artículo 18°.-** La sal yodada envasada para la venta deberá llevar un rótulo visible en español en el que conste:
+
+1. La designación de “sal enriquecida” y la composición exacta de la mezcla.
+2. El peso neto de cada unidad, en unidades métrica-decimales.
+3. Nombre del establecimiento productor o fabricante y localidad.
+4. La leyenda, en lugar visible, de “Industria boliviana”.
+
+**Artículo 19°.-** Queda prohibido emplear indicaciones que se refieran a propiedades medicinales o terapéuticas.
+
+## Capítulo V Normas técnicas
+
+**Artículo 20°.-** Se reconoce tres métodos para la yodación de la sal: la mezcla en seco, la asperción o rociado y el tratamiento de salmueras, de acuerdo al volumen de sal común a ser tratada por hora de elaboración. La elección del método es libre, aconsejándose la mezcla en seco para cantidades menores de mil kilos por hora.
+
+**Artículo 21°.-** El enriquecimiento de la sal común para consumo humano se llevará a cabo mediante la mezcla con yodato de potasio en proporción de un kilo y seiscientos ochenta y seis gramos de yodato de potasio (equivalente a un kilo de yodo) por veinte mil kilos de sal común. Podrá utilizarse igualmente yoduro de potasio en proporción de un kilo, trescientos siete gramos por veinte mil kilos de sal común. En el caso de utilizarse yoduro de potasio, se deberá utilizar igualmente estabilizadores en la proporción de veinte por mil.
+
+**Artículo 22°.-** El yodato de potasio utilizado para mezcla en seco debe tener una granulación tal que el permita pasar por malla Nº 100. Esta misma regla se aplicará a los estabilizadores carbonato de calcio, carbonato de magnesio y fosfato de calcio tribásico.
+
+**Artículo 23°.-** El enriquecimiento de sal destinada al consumo animal se realizará, igualmente, mediante la mezcla con yodato de potasio en las proporciones fijadas de acuerdo a las especies a las que se destine el producto, por el Ministerio de Agricultura.
+
+**Artículo 24°.-** Todos los tipos de sal enriquecida con yodato de potasio podrán ser estabilizados mediante el uso de carbonato de calcio, carbonato de magnesio y trifosfato de calcio.
+
+**Artículo 25°.-** Toda planta yodizadora de sal tiene la obligación de llevar un libro de laboratorio, numerado y registrado ante notario de fe pública, en el que se inscribirá la producción diaria y los resultados del análisis de una muestra tomada al azar cada mil kilos producidos.
+
+**Artículo 26°.-** La supervisión y control de la yodación de la sal para consumo humano será efectuada por la División de Nutrición del Ministerio de Salud Pública, a nivel de producción (fábrica), de mercado (depósito y comercio) y de consumo (expendio en almacenes).
+
+**Artículo 27°.-** El control de la yodación de la sal destinada a la alimentación animal será realizado por el laboratorio de biología animal, dependiente del Ministerio de Agricultura.
+
+**Artículo 28°.-** Los métodos oficiales para el análisis de la sal enriquecida serán los aceptados por la Asociación de Químicos Oficiales Agrícolas (A. O. A. C.) de los Estados Unidos, en base a estudios de Von Fellenberg, modificados por Werner, Andrew y Mandeno, Reith y otros.
+
+**Artículo 29°.-** La concentración de yodo en las sales enriquecidas serán calificadas normales, mientras el contenido analizado en un número suficiente de muestras tomadas al acaso, no varíe en más o en menos del veinte por ciento del patrón señalando en el artículo 21.
+
+## Capítulo VI De la elaboración, fraccionamiento, almacenamiento transporte y comercialización de la sal enriquecida
+
+**Artículo 30°.-** Las personas naturales o jurídicas que gerentan empresas dedicadas a la elaboración, fraccionamiento y comercialización de la sal enriquecida para consumo humano o animal, deberán cumplir todos los requisitos de registro exigidos por el Ministerio de Economía, el Ministerio de Salud Pública, la oficina Recaudadora de la Renta y las Municipalidades, tanto para fines impositivos como de control e higiéne.
+
+**Artículo 31°.-** Las fábricas de sal enriquecida aportarán una cuota equivalente al uno y medio por ciento de su producción total. La alícuota procedente de sal para consumo humano beneficiará exclusivamente a la División de Nutrición del Ministerio de Salud Pública, y aquella destinada a la alimentación de animales será puesta a disposición del Ministerio de Agricultura.
+
+**Artículo 32°.-** Para realizar el control de la producción de sal enriquecida, el Ministerio correspondiente designará un inspector. El o los propietarios de las fábricas deberán prestarle la cooperación necesaria para el mejor desempeño de su cometido.
+
+**Artículo 33°.-** Los envases de sal enriquecida ofrecidos en venta llevarán adherido en lugar visible un sello numerado que atestigue que pasó la inspección arriba señalada.
+
+**Artículo 34°.-** Las personas, jurídicas o naturales, dedicadas al fraccionamiento, almacenamiento y/o transporte de sal enriquecida que no hubiese sido elaborada por las mismas, deberán poseer la documentación pertinente que certifique que dicha sal ya pasó la inspección ministerial correspondiente, sin cuyo requisito no podrán recibir los sellos numerados arriba descritos.
+
+**Artículo 35°.-** Toda sal enriquecida, antes de ser puesta a la venta, deberá ser registrada en el Ministerio de Salud Pública, si es de consumo humano y en el de Agricultura destinado al consumo animal, previa presentación de los certificados de análisis químico y bacteriológico señalados en el presente reglamento.
+
+**Artículo 36°.-** Cualquier envase de sal enriquecida ofrecido en venta al público que no reúna las condiciones específicas en los artículos 32º, 33º y 34º del presente reglamento será considerado como de producción clandestina y pasible de decomiso por parte de las autoridades competentes.
+
+**Artículo 37°.-** En caso de establecerse, mediante el doble análisis de un número suficiente de muestras tomadas al azar que una partida de sal en venta no se halla yodizada, se procederá al decomiso de la cantidad total, levantándose un acta firmada por el Inspector del Ministerio respectivo y por el propietario o encargado responsable del negocio, distribuyéndose copias al establecimiento afectado, al laboratorio del Ministerio respectivo y al Comité Permanente de la Sal.
+
+**Artículo 38°.-** En tanto no se establezca en el país el número suficiente de plantas yodizadoras de sal para cubrir la totalidad de la demanda interna, se obliga a las plantas de yodización existentes a la fecha de promulgación del Decreto Supremo objeto de la presente reglamentación a procesar toda la producción de sal de las pequeñas moliendas que así lo soliciten.
+
+**Artículo 39°.-** Todos los productos de sal común destinada directa o indirectamente al consumo humano deberán tomar las precauciones necesarias para que, una vez fenecido el período de transición determinado en la última parte del articulo 1º puedan cumplir con las disposiciones del Decreto Supremo objeto del presente Reglamento.
+
+## Capítulo VII De las campañas educativas
+
+**Artículo 40°.-** Se reconoce al bocio endémico como uno de los problemas más importantes de Salud Pública por lo que el Ministerio de Salud Pública debe realizar encuestas periódicas para determinar la extensión del mal y los resultados de la acción profiláctica del consumo habitual de sal enriquecida.
+
+**Artículo 41°.-** La regalía establecida en el artículo 31º, será destinada exclusivamente a sufragar los gastos de las encuestas a que se refiere el artículo anterior en el ámbito nacional, asi como los que demande el análisis rutinario de las muestras de sal obtenidas en el comercio, y a sostener campañas educativas en la radio, el cine y la prensa, bajo la responsabilidad de la División de Nutrición del Ministerio de Salud Pública. Iguales disposiciones regirán para la alícuota parte destinada al Ministerio de Agricultura.
+
+## Capítulo VIII De la importación de aditivos, reactivos y materiales de laboratorio
+
+**Artículo 42°.-** El Comité Permanente de la Sal tramitará la importación libre de gravámenes de los aditivos, (yodato de potasio, yoduro de sodio, carbonato de calcio, carbonato de magnesio, fosfato tribásico de calcio) los reactivos, (ácido sulfúrico, nitrito de potasio bisulfito de sodio, ácido fosfórico, bromo, etc.) y el material de laboratorio (matraces, pipetas, buretas, etc.) que se utilice directamente en la fabricación y en los análisis de control de la sal enriquecida para consumo humano y animal.
+
+## Capítulo IX De la represión del expendio de sal no enriquecida
+
+**Artículo 43°.-** A los efectos de la aplicación de las penalidades establecidas en el presente Reglamento, se considera como responsables directos de las contravenciones a los expendedores de los productos hallados defectuosos, como también a los propietarios de las fábricas, depósitos o comercio donde se elabora, fracciona, conserva o comercia con la sal para consumo humano directo o indirecto.
+
+**Artículo 44°.-** El expendio o tenencia de sal común no enriquecida con excepción de lo determinado en los artículos 5º y 6º, será considerado como delito contra la salud, durante el periodo quincenal de reforzamiento progresivo de las disposiciones legales aquí reglamentadas, toda sal común será yodizada compulsivamente, cargándose su costo al infractor responsable.
+
+**Artículo 45°.-** La comprobación reiterada de enriquecimiento defectuoso de la sal para consumo humano en las fábricas donde ésta se elabora será pasible de una sanción pecuniaria, que fluctúe entre $b.5.000 a 10.000 y con la clausura temporal o definitiva del establecimiento.
+
+## Capítulo X De las modificaciones del reglamento
+
+**Artículo 46°.-** El presente Reglamento podrá ser modificado de acuerdo a la experiencia acumulada, por iniciativa del Comité Permanente de la Sal o a solicitud de cualquiera de sus miembros.
+
+---
+
+El señor Ministro de Estado en el Despacho de Salud Pública, queda encargado del cumplimiento y ejecución del presente Decreto.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de Diciembre de mil novecientos sesenta y ocho.
+  
+FDO. GRAL. RENE BARRIENTOS ORTUÑO Angel Baldivieso; Edwin Tapia; Alberto Larrea H., Jorge Rojas Tardio; Ignacio Paravicini; Dante Pavisich; Alvaro Torrico; Jorge Ríos Gamarra; René Baldivieso.

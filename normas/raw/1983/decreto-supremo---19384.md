@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 19384, 31 de enero de 1983
+
+DECRETOS SUPREMO Nº 19384
+  
+DR. HERNAN SILES ZUAZO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, mediante Decreto Supremo No.19323 del 10 de Diciembre de 1982, el Supremo Gobierno declaró de interés nacional el Xo CAMPEONATO SUDAMERICANO DE FUTBOL “JUVENTUD DE AMERICA”, disponiendo que la Secretaria General de Deportes y Juventudes, instruya a las autoridades deportivas departamentales, concedan máximas facilidades a la Federación Boliviano de Fútbol para el verificativo del mencionado evento deportivo.
+* Que, el Comité de Obras Deportivas Departamentales de Santa Cruz, ha solicitado a través de la Secretaría General de Deportes y Juventudes, la dispensación del trámite que establece la Ley de Licitaciones, para la inmediata construcción de un pozo de agua en el Estadio Departamental de aquella ciudad, en vista de la inutilización inesperada del existen en dicho campo deportivo y que regaba el mismo, toda vez que la ciudad de Santa Cruz ha sido designada sub-sede del referido campeonato.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Autorízase por esta única ves al Comité de Obras Deportiva Departamentales de Santa Cruz, la Contratación directa para la perforación, construcción e instalación de un pozo de agua en el Estadio Departamental “Tahuichi Aguilera” de la ciudad de Santa Cruz, debiendo invitarse por lo menos a tres (3) Empresas del ramo, legalmente inscritas y suscribirse el contrato respectivo con intervención de las autoridades y garantías establecidas por Ley.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Finanzas y de Secretaría General de la Presidencia de la República, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de enero de mil novecientos ochenta y tres años.
+  
+Fdo. DR. HERNAN SILES ZUAZO, Mario Velarde Dorado, Mario Roncal Antezana, José Ortiz Mercado, Arturo Núñes del Prado, Ernesto Aranibar Quiroga, Alfonso Camacho Peña, Hermamdo Poppe Martínez, Jorge Crespo Velasco, Roberto Arnez Villaroel, Mario Argandeña Yañez, Carlos Barragán Vargas, Zenón Barrientos Mamani, Jorge O’ Connor D’ Arlach, Jaime Ponce Garcia, Horacio Torres Guzman, Oscar Villa Urioste, Hormando Vaca Diez, Jorge Gonzales Roda.

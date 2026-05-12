@@ -1,0 +1,20 @@
+# Bolivia: Decreto Presidencial Nº 24977, 10 de marzo de 1998
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Ministro de Educación, Cultura y Deportes Sr. TITO HOZ DE VILA Q., se ausentará del país en misión oficial a la ciudad de Cartagena de Indias-Colombia, a objeto de participar en los seminarios “PROGRAMAS SOCIALES, POBREZA Y PARTICIPACIÓN CIUDADANA” y “PROMOVIENDO LA CONVIVENCIA CIUDADANA”, del 11 al 14 de marzo de 1998.
+* Que de conformidad a lo dispuesto por el artículo 10 numeral II de la [Ley Nº 1788](#TODO-link), de 16 de septiembre de 1997, es necesario designar al Ministro interino para la continuidad administrativa del mencionado Despacho de Estado.
+
+DECRETA:
+
+**Artículo Único.-** Desígnase Ministro interino de Educación, Cultura y Deportes a la Viceministra de Educación Inicial, Primaria y Secundaria señora AMALIA ANAYA JALDIN, mientras dure la ausencia del titular.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de marzo de mil novecientos noventa y ocho años.
+  
+Fdo. HUGO BANZER SUAREZ PRESIDENTE DE LA REPUBLICA

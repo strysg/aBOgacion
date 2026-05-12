@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 24064, 6 de julio de 1995
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el tratado de Montevideo de 1980 suscrito por la República de Bolivia el 12 de agosto de 1980 y ratificado por [Decreto Supremo Nº 18508](#TODO-link) de 23 de julio de 1981, instituyó la Asociación Latinoamericana de Integración, ALADI, en substitución de la Asociación Latinoamericana de Libre Comercio, ALALC;
+* Que el Gobierno de Bolivia suscribió en el marco del tratado de Montevideo de 1980 los acuerdos de complementación económica con las República Argentina, número 19, el 13 de diciembre de 1989, Federativa del Brasil, número 26, el 27 de enero de [Ley Nº 994](#TODO-link), Paraguay, número 29, el 15 de marzo de 1994, y Oriental del Uruguay, número 15, el 12 de julio de 1994, acuerdos que fenecen en su vigencia el 30 de junio de 1995;
+* Que los mencionados acuerdos de complementación económica fueron puestos en vigencia administrativa por los decretos supremos [Nº 23301](#TODO-link) del 19 de octubre de 1992 con Argentina, [Nº 23972](#TODO-link) de 1 de marzo de 1995 con Brasil, por [Ley Nº 1598](#TODO-link) del 12 de agosto de 1994 y [Decreto Supremo Nº 23964](#TODO-link) del 23 de febrero de 1995 con Paraguay, y por [Decreto Supremo Nº 23947](#TODO-link) del 30 de enero de 1995 con el Uruguay, concediendo las respectivas desgravaciones arancelarias a los productos procedentes de esos paises, cuyas concesiones también fenecen el 30 de junio de 1995;
+* Que el Gobierno boliviano suscribió además con la República Argentina, el protocolo de adecuación, el primero y segundo protocolos adicionales al acuerdo de complementación económica, número 19; con la República Federativa del Brasil, el primero y segundo protocolos adicionales al acuerdo de complementación económica, número 26; con la República del Paraguay el primer y segundo protocolos adicionales al acuerdo de complementación económica, número 29; y con la República Oriental del Uruguay, el primero, segundo y tercer protocolos adicionales al acuerdo de complementación económica, número 15;
+* Que el Gobierno de Bolivia suscribió también el 22 de junio de 1995 con los gobiernos de las Repúblicas Argentina, Federativa del Brasil, Paraguay y Oriental del Uruguay, los protocolos de prórroga de los acuerdos de complementación económica números 19, 26, 29 y 15, y de preferencias arancelarias otorgadas en los mencionados acuerdos, hasta el 31 de diciembre de 1995;
+* Que corresponde disponer la continuidad de las desgravaciones arancelarias del gravamen aduanero consolidado, GAC, y las restricciones de todo orden a los productos procedentes de las Repúblicas Argentina, Federativa del Brasil, Paraguay y Oriental del Uruguay, para el cumplimiento de los compromisos internacionales asumidos por el Gobierno de Bolivia, dentro la excepción prevista en el artículo 127 inciso d del [Decreto Supremo Nº 21660](#TODO-link) de 10 de julio de 1987.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Dispónese la prórroga de la vigencia administrativa de los acuerdos de complementación económica suscritos por el Gobierno de Bolivia con los gobiernos de la República Argentina, número 19, República Federativa del Brasil, número 26, República del Paraguay, número 29 y República Oriental del Uruguay, número 15 y de sus protocolos adicionales, desde el 1 de julio de 1995 hasta el 31 de diciembre de 1995.
+
+**Artículo 2°.-** Se dispone, en cumplimiento de los citados acuerdos de complementación económica, sus protocolos adicionales y los protocolos de prórroga suscritos con los gobiernos de Argentina, Brasil, Paraguay y Uruguay, la continuación de las concesiones arancelarias del gravamen aduanero consolidado, GAC, otorgadas entre el 50% y el 100% a la importación de los productos originarios procedentes de la Argentina; entre el 20% y el 100% para los productos originarios procedentes del Brasil; entre el 10% y el 100% para los productos originarios procedentes del Paraguay y el 100% para los productos originarios procedentes del Uruguay, según las condiciones previstas en los anexos respectivos de los mencionados acuerdos de complementación económica y de sus protocolos adicionales, desde el 1 de julio de 1995 hasta el 31 de diciembre de 1995.
+
+**Artículo 3°.-** Se dispone la eliminación de las restricciones “no arancelarias” a la importación de los productos señalados en el articulo 2 del presente decreto supremo, con excepción de aguellos a que se refiere el articuló 5 del tratado de Montevideo de 1980.
+
+**Artículo 4°.-** Se debe cumplir, para los fines del artículo 2 de este decreto supremo con . las condiciones sobre normas de origen previstas en el Régimen General de Origen de la ALADI, adoptadas mediante la resolución 78 del Comité de Representantes de la Asociación Latinoamericana de Integración para los casos de Argentina y Uruguay. También debe cumplirse, para los casos del Brasil y del Paraguay, además de la Resolución 78, las condiciones previstas en el anexo III del acuerdo de complementación. económica número 2 6 y en el anexo I del acuerdo de complementación económica número 2 respectivamente.
+
+**Artículo 5°.-** Dispónese gue no se aplicará, para los efectos del artículo 2 de este decreto el artículo único del [Decreto Supremo Nº 14582](#TODO-link) del 15 de mayo de 1977 y la consiguiente disposición de la resolución ministerial 639/77 de 15 de julio de 1977.
+
+---
+
+Los señores Ministros de Estado en los despachos de Relaciones Exteriores y Culto, Hacienda y Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los seis días del mes de julio de mil novecientos noventa y cinco años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Hugo San Martín Arzabe MIN. SUPLENTE DE GOBIERNO, Raúl Tovar Piérola, José G. Justiniano Sandoval, Rene Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, Luis Lema Molina, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

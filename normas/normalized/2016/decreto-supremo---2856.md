@@ -1,0 +1,52 @@
+# Bolivia: Decreto Supremo Nº 2856, 2 de agosto de 2016
+
+[Decreto Supremo Nº 2856](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 16 de la [Constitución Política del Estado](#TODO-link), determina que el Estado tiene la obligación de garantizar la seguridad alimentaria, a través de una alimentación sana, adecuada y suficiente para toda la población.
+* Que los numerales 11 y 12 del Parágrafo I del Artículo 100 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, establece que es competencia exclusiva del nivel central del Estado, definir políticas y mecanismos de protección financiera para enfrentar contingencias y permitir la recuperación por desastres en el nivel nacional; y gestionar los recursos para la atención de desastres y/o emergencias y la recuperación del desastre.
+* Que la [Ley Nº 602](#TODO-link), de 14 de noviembre de 2014, de Gestión de Riesgos, tiene por objeto regular el marco institucional y competencial para la gestión de riesgos que incluye la reducción del riesgo a través de la prevención, mitigación y recuperación y; la atención de desastres y/o emergencias a través de la preparación, alerta, respuesta y rehabilitación ante riesgos de desastres ocasionados por amenazas naturales, socio-naturales, tecnológicas y antrópicas, así como vulnerabilidades sociales, económicas, físicas y ambientales.
+* Que el Artículo 43 del Presupuesto General del Estado - Gestión 2010, vigente por disposición del inciso b) de la Disposición Final Segunda de la [Ley Nº 769](#TODO-link), de 17 de diciembre de 2015, del Presupuesto General del Estado Gestión 2016, señala que en situaciones de emergencias, encarecimiento de precios, desastres naturales, inseguridad y desabastecimiento de alimentos e hidrocarburos, se autoriza al Órgano Ejecutivo aprobar mediante Decreto Supremo, la aplicación de mecanismos de subvención con recursos del Tesoro General de la Nación - TGN, créditos y/o donaciones.
+* Que el Pilar 8 “Soberanía Alimentaria” del Plan de Desarrollo Económico y Social 2016-2020 en el Marco del Desarrollo Integral para Vivir Bien, aprobado por [Ley Nº 786](#TODO-link), de 9 de marzo de 2016, dispone que los alimentos son un elemento esencial de la vida, así como una parte central de las culturas, su identidad y espiritualidad que permite consolidar la comunidad como una entidad de diálogo con la Madre Tierra que garantiza la provisión de alimentos y la seguridad alimentaria para los pueblos.
+* Que el [Decreto Supremo Nº 0255](#TODO-link), de 19 de agosto de 2009, aprueba la Política de Subvención, dirigida a la producción y comercialización de productos agropecuarios y sus derivados, a precio justo, a ser implementada a través de la Empresa de Apoyo a la Producción de Alimentos - EMAPA.
+* Que siendo que los reportes de afectación nacional emitidos por el Sistema Integrado de Información y Alerta para la Gestión de Riesgos de Desastres - SINAGER, muestran una alta afectación por sequías, con una menor incidencia de granizos heladas y otros; es necesario generar mecanimos excepcionales de apoyo a pequeños productores agricolas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer de manera excepcional y por única vez mecanismos de apoyo a productores agrícolas de pequeña escala, comunitarios e indígena originario campesinos.
+
+**Artículo 2°.- (Compra de maíz)** 
+
+1. Con el fin de incentivar la producción de maíz en el país, de manera excepcional y por única vez, la Empresa de Apoyo a la Producción de Alimentos - EMAPA podrá acopiar la producción de maíz a los productores que inicien su siembra a partir de la publicación del presente Decreto Supremo:
+   1. Pagando un precio base de Bs80.- (OCHENTA 00/100 BOLIVIANOS) la bolsa de cuarenta y seis (46) kilogramos, incentivo que se dará a los productores que entreguen su producción hasta el 31 de diciembre de 2016;
+   2. Pagando un precio base de Bs75.- (SETENTA Y CINCO 00/100 BOLIVIANOS) la bolsa de cuarenta y seis (46) kilogramos, incentivo que se dará a los productores que entreguen su producción hasta el 31 de enero de 2017.
+2. En caso de que el precio de mercado supere los precios bases definidos en el Parágrafo precedente, la EMAPA aplicará la normativa vigente.
+
+**Artículo 3°.- (Venta de semillas)** 
+
+1. Se autoriza a la Empresa Estratégica de Producción de Semillas - EEPS la venta de semillas de maíz, trigo, arroz, papa y forraje la cual se efectuará mediante pagos diferidos, sin cobro de intereses.
+2. Los pagos diferidos por las semillas especificadas en el Parágrafo anterior se efectuará hasta la conclusión de las campañas agrícolas de las gestiones 2016 y 2017.
+3. A fin de garantizar la obligación adquirida por la compra de semillas con pagos diferidos establecida en el Parágrafo I del presente Artículo, los miembros de las asociaciones de productores, serán solidariamente responsables del cumplimiento de dicha obligación. IV. El procedimiento para establecer la Garantía será reglamentado por la Empresa Estratégica de Producción de Semillas - EEPS.
+     
+
+   # Disposiciones adicionales
+
+**Artículo adicional Único.-** De manera excepcional durante las gestiones 2016 y 2017 las importaciones de trigo realizadas por la EMAPA no estarán sujetas a la aplicación del procedimiento de nacionalización de mercancías en frontera sobre medios y unidades de transporte, establecidos en el [Decreto Supremo Nº 2295](#TODO-link), de 18 de marzo de 2015.
+
+# Disposiciones finales
+
+**Artículo final Único.-** Para el cumplimiento de lo señalado en el Artículo 2 del presente Decreto Supremo el Ministerio de Economía y Finanzas Públicas, repondrá la diferencia a la EMAPA, en caso que el precio de mercado del maíz sea menor al precio base, con recursos provenientes del Tesoro General de la Nación - TGN, de acuerdo a su disponibilidad.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Desarrollo Productivo y Economía Plural, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Municipio de Challapata del Departamento de Oruro, a los dos días del mes de agosto del año dos mil dieciséis .
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

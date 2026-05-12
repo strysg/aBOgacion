@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 3872, 18 de abril de 2019
+
+[Decreto Supremo Nº 3872](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 13 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](#TODO-link), determina como una competencia privativa del nivel central del Estado, la administración del patrimonio del Estado Plurinacional y de las entidades públicas del nivel central del Estado.
+* Que el Artículo 209 del [Decreto Supremo Nº 0181](#TODO-link), de 28 de junio de 2009, Normas Básicas del Sistema de Administración de Bienes y Servicios, dispone que la causal para la enajenación a título gratuito se dará cuando los bienes no sean utilizados por la entidad y su venta no sea factible. La imposibilidad de la venta será determinada mediante informe técnico y legal.
+* Que el Artículo Único del [Decreto Supremo Nº 2438](#TODO-link), de 8 de julio de 2015 autoriza al Ministerio de Economía y Finanzas Públicas, transferir a título gratuito a favor del Ministerio de la Presidencia, el bien inmueble ubicado en la calle Uruguay de la Zona Central de la ciudad de La Paz, registrado a nombre del Ministerio de Economía y Finanzas Públicas, bajo la partida Nº 2.01.0.99.0021172, con una superficie de 2.011,30 m2 de acuerdo a los documentos de propiedad y superficie construida de 3.783 m2, inscrito en Derechos Reales del Distrito Judicial de La Paz, con destino a la implementación de oficinas administrativas para el Órgano Ejecutivo; y de acuerdo a disponibilidad financiera, transferir recursos del Tesoro General de la Nación - TGN, al Ministerio de la Presidencia, para realizar la demolición del área construida en el inmueble antes descrito.
+* Que en el marco de la [Ley Nº 1099](#TODO-link), de 17 de septiembre de 2018, el Programa de Intervenciones Urbanas de Innovación Social ejecutado por el Ministerio de Planificación de Desarrollo, ha identificado bienes inmuebles para la ejecución del Urbanismo Táctico, entre los cuales se encuentra el bien inmueble citado previamente, por lo cual, es preciso modificar el [Decreto Supremo Nº 2438](#TODO-link).
+* Que para el cumplimiento de la normativa vigente, el Ministerio de la Presidencia requiere contar con un instrumento legal y suficiente para la inscripción del derecho propietario del bien inmueble ubicado en la calle Uruguay de la Zona Central de la ciudad de La Paz.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar el Artículo Único del [Decreto Supremo Nº 2438](#TODO-link), de 8 de julio de 2015.
+
+**Artículo 2°.- (Modificación)** Se modifica el Artículo Único del [Decreto Supremo Nº 2438](#TODO-link), de 8 de julio de 2015, con el siguiente texto:
+> “ ARTÍCULO ÚNICO.-
+>   
+> I. Se autoriza al Ministerio de Economía y Finanzas Públicas, transferir a título gratuito el bien inmueble ubicado en la calle Uruguay de la Zona Central de la ciudad de La Paz, registrado a nombre del Ministerio de Economía y Finanzas Públicas, bajo la partida Nº 2.01.0.99.0021172, con una superficie de 2.011,30 m2 y una superficie construida de 3.783 m2, a favor del Ministerio de la Presidencia.
+>   
+> II. El Presente Decreto Supremo se constituye en instrumento legal y suficiente para la inscripción del derecho propietario del bien inmueble señalado en Parágrafo precedente, en Derechos Reales y demás registros ante otras instancias.”
+
+---
+
+El señor Ministro de Estado en el Despacho de la Presidencia, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los diecisiete días del mes de abril del año dos mil diecinueve.
+  
+FDO. EVO MORALES AYMA, Diego Pary Rodríguez, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Luis Alberto Arce Catacora, Luis Alberto Sánchez Fernández, Rafael Alarcón Orihuela, Nélida Sifuentes Cueto, Oscar Coca Antezana, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Milton Gómez Mamani, Lilly Gabriela Montaño Viaña, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, José Manuel Canelas Jaime, Tito Rolando Montaño Rivera.

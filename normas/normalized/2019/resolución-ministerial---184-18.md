@@ -1,0 +1,47 @@
+
+
+# Bolivia: Resolución Ministerial Nº 184-18, 30 de enero de 2019
+
+RESOLUCIÓN MINISTERIAL N° 184-18
+  
+La Paz, 31 de diciembre de 2018
+  
+El Ministro de Hidrocarburos en ejercicio de sus atribuciones conferidas por ley y demás disposiciones conexas;
+  
+RESUELVE:
+
+VISTOS Y CONSIDERANDO:
+
+* Que conforme a los numerales 2 y 4 de Parágrafo I del Artículo 175 de la C. P. E., entre las atribuciones de las y los Ministros de Estado se encuentran las de: Proponer y dirigir las políticas gubernamentales en su sector; y dictar normas administrativas en el ámbito de su competencia.
+* Que la Ley de Hidrocarburos N° 3058 de 17 de mayo de 2005, en su Artículo 9 establece el aprovechamiento de los hidrocarburos deberá promover el desarrollo integral, sustentable y equitativo del país, garantizando el abastecimiento de hidrocarburos al mercado interno, incentivando la expansión del consumo en todos los sectores de la sociedad, desarrollando su industrialización en el territorio nacional y promoviendo la exportación de excedentes en condiciones que favorezcan los intereses del Estado y el logro de sus objetivos de política interna y externa, de acuerdo a una Planificación de Política Hidrocarburífera.
+* Que los incisos d), f), g) y h) del Artículo 11 de la [Ley N° 3058](#TODO-link) de Hidrocarburos, disponen como objetivos de la Política Nacional de Hidrocarburos, entre otros: el Garantizar, a corto, mediano y largo plazo, la seguridad energética, satisfaciendo adecuadamente la demanda nacional de hidrocarburos; el Garantizar y fomentar el aprovechamiento racional de los hidrocarburos, abasteciendo con prioridad a las necesidades internas del país; el garantizar y fomentar la industrialización, comercialización y exportación de los hidrocarburos con valor agregado y; establecer políticas competitivas de exportación, industrialización y comercialización de los hidrocarburos y sus derivados, en beneficio de los objetivos estratégicos del país.
+* Que el inciso b) del Artículo 21 de la [Ley N° 3058](#TODO-link) de Hidrocarburos determina como una atribución del Ministerio de Hidrocarburos y Energía, entre otras; el normar en el marco de su competencia, para la adecuada aplicación de la presente Ley y la ejecución de la Política Nacional de Hidrocarburos.
+* Que el inciso f) del Artículo 25 de la [Ley N° 3058](#TODO-link), otorga al Ente Regulador la atribución de aprobar tarifas para las actividades reguladas y fijar precios conforme a Reglamento.
+* Que el Parágrafo I, del Artículo 7 de la [Ley N° 1098](#TODO-link), de 15 de septiembre de 2018, señala que la Agencia Nacional de Hidrocarburos - ANH determinará el precio de los Aditivos de Origen Vegetal nacionales que se utilizarán para ser mezclados con las gasolinas o Diésel Oíl, sobre la base de la metodología a ser aprobada por el Ministerio de Hidrocarburos.
+* Que el inciso a) del Numeral 1, Parágrafo I, Artículo 7 de la [Ley N° 1098](#TODO-link), establece para el Etanol Anhidro que, para el primer periodo, el cálculo del precio deberá contemplar entre los factores pertinentes: Las inversiones necesarias realizadas para el inicio del proceso de producción del Etanol Anhidro a partir del producto o subproducto industrial correspondiente; y el precio de indiferencia entre transformar la materia prima en alcohol u otro producto principal.
+* Que el inciso b) del Numeral 1, Parágrafo I, Artículo 7 de la [Ley N° 1098](#TODO-link) prevé para el Etanol Anhidro que, para el periodo posterior, se establecerá un nuevo precio que contemple para su cálculo el precio de indiferencia mencionado en el inciso anterior; dicho nuevo precio se actualizará en función al precio del combustible resultante de la mezcla del Etanol Anhidro con gasolinas.
+* Que conforme a lo establecido en los numerales 2) y 22) del Parágrafo I del Artículo 14 del [Decreto Supremo N° 29894](#TODO-link), 7 de febrero de 2009, entre las atribuciones de las y los Ministro de Estado, se encuentran las de: Proponer y dirigir las políticas gubernamentales en su sector; y emitir resoluciones ministeriales, así como bi-ministeriales y multi-ministeriales en coordinación con los Ministros que correspondan, en el marco de sus competencias.
+* Que la Disposición Transitoria Primera de la [Ley N° 1098](#TODO-link) de 15 de septiembre de 2018 establece que el Órgano Ejecutivo mediante Decreto Supremo, reglamentará en el plazo de ciento ochenta (180) días calendario computables a partir de la vigencia de dicha Ley, los aspectos técnicos de calidad, seguridad, trasporte, almacenamiento, comercialización y distribución de los Aditivos de Origen Vegetal y el combustible final resultante de la mezcla, según corresponda. En tanto se aprueben los referidos reglamentos, el Ministerio de Hidrocarburos podrá reglamentar dichas actividades mediante Resolución Ministerial.
+* Que la Resolución Ministerial N° 127-18 de fecha 18 de octubre de 2018, aprueba la metodología para la determinación del precio del Etanol Anhidro, como Aditivo de Origen Vegetal nacional para su mezcla con gasolinas base para la obtención de un combustible líquido de Octanaje 92, en el marco de lo establecido por el Numeral 1, Parágrafo I del Artículo 7 de la [Ley 1098](#TODO-link), de 15 de septiembre de 2018.
+* Que el Informe Técnico MH-VMICTAH-DGCTA-UCOH-INF 0015/2018 de fecha 31 de diciembre de 2018, elaborado por el Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos del Ministerio de Hidrocarburos; concluye que el reemplazo de la Metodología de cálculo para la determinación del precio del Etanol Anhidro, aprobada por la Resolución Ministerial Nº 127 - 18 de 18 de octubre de 2018 y su respectiva modificación mediante RM 133-18 de 24 de octubre de 2018, es técnicamente viable y permite que la ANH pueda determinar los precios del Etanol Anhidro, según nuevas condiciones volumétricas y de mercado para distintos cortes de combustibles con mezcla de este Aditivo de Origen Vegetal, a fin de hacerlas efectivas en el marco de las disposiciones establecidas en la [Ley Nº 1098](#TODO-link) de 15 de septiembre de 2018.
+* Que el Informe Jurídico MH-DGAJ-UAJ-INF-0159/2018 de fecha 31 de diciembre de 2018 elaborado por la Dirección General de Asuntos Jurídicos dependiente del Ministerio de Hidrocarburos, concluye que el señor Ministro de Hidrocarburos tiene la atribución de dirigir las políticas gubernamentales en su sector, así como el de reglamentar los aspectos legales para la comercialización del combustible final resultante de la mezcla de Aditivos de Origen Vegetal con combustibles líquidos; para tal efecto, se encuentra facultado para emitir y suscribir la correspondiente Resolución Ministerial que apruebe la metodología para la determinación de precios del Etanol Anhidro, como Aditivo de Origen Vegetal, para su mezcla con Gasolinas Base de conformidad a lo dispuesto en el marco normativo vigente.
+* Que es necesario establecer una metodología de cálculo para que el Ente Regulador (Agencia Nacional de Hidrocarburos - ANH) pueda determinar el precio del Etanol Anhidro, para su uso como Aditivo de Origen Vegetal a ser mezclado con Gasolinas Base.
+* Que se avizora una mayor demanda de Etanol Anhidro por parte de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB para la gestión 2019, debido a la formulación de nuevos cortes de combustibles líquidos con mezcla de Aditivo de Origen Vegetal, así como nuevas condiciones comerciales, por lo que resulta necesario considerar estos nuevos aspectos y establecer un marco general para la determinación de precios de este Aditivo de Origen Vegetal. Una vez definidos estos precios, las condiciones contractuales y comerciales de este Aditivo de Origen Vegetal podrán hacerse efectivas y dar cumplimiento a las disposiciones establecidas en la [Ley N° 1098](#TODO-link) de 15 de septiembre de 2018.
+
+POR TANTO:
+
+**Artículo 1°.-** Aprobar la metodología para la determinación de precios del Etanol Anhidro, como Aditivo de Origen Vegetal nacional para su mezcla con gasolinas base, en el marco de lo establecido por el Numeral 1, Parágrafo I del Artículo 7 de la [Ley 1098](#TODO-link), de 15 de septiembre de 2018; que en Anexo I forma parte integrante de la presente Resolución Ministerial.
+
+**Artículo 2°.-** El Ministerio de Hidrocarburos - MH, Yacimientos Petrolíferos Fiscales Bolivianos - YPFB y el Ente Regulador (Agencia Nacional de Hidrocarburos - ANH) quedan encargados de la ejecución y cumplimiento de la presente Resolución Ministerial, en el marco de sus competencias.
+
+**Artículo 3°.-** Los respaldos y Declaraciones Juradas que fueron presentados en cumplimiento a los incisos b) y d) del Anexo I de la Resolución Ministerial N° 127 - 18 de 18 de octubre de 2018, serán válidos para efectos de la aplicación de la presente Resolución Ministerial.
+
+**Artículo 4°.-** Se abroga las Resoluciones Ministeriales N° 127 - 18 de 18 de octubre de 2018 y la Resolución Ministerial N°133 -18 de 24 de octubre de 2018.
+
+**Artículo 5°.-** La Dirección General de Asuntos Jurídicos del Ministerio de Hidrocarburos queda encargada de la notificación con la presente Resolución Ministerial.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+FDO. Luis Alberto Sánchez Fernández MINISTRO DE HIDROCARBUROS.

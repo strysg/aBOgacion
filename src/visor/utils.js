@@ -9,7 +9,7 @@ const ejs = require('ejs');
 const { glob } = require('glob');
 
 // Configuration
-const INPUT_DIR = '../../normas';
+const INPUT_DIR = '../../normas/normalized';
 const OUTPUT_DIR = './output';
 const SITE_TITLE = 'Visor de normas Bolivianas';
 

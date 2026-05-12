@@ -1,0 +1,146 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5519**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el Artículo 173 de la Constitución Política del Estado determina que la Presidenta o el Presidente del Estado podrá ausentarse del territorio boliviano por misión oficial, sin autorización de la Asamblea Legislativa Plurinacional, hasta un máximo de diez días.
+
+Que el numeral 2 del Parágrafo II del Artículo 298 del Texto Constitucional establece como una competencia exclusiva del nivel central del Estado, el régimen general de las comunicaciones y las telecomunicaciones.
+
+Que el Artículo 71 de la Ley Nº 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, declara de prioridad nacional la promoción del uso de las tecnologías de información y comunicación para procurar el vivir bien de todas las bolivianas y bolivianos.
+
+Que el Parágrafo I del Artículo 72 de la Ley Nº 164 dispone que el Estado en todos sus niveles, fomentará el acceso, uso y apropiación social de las tecnologías de información y comunicación, el despliegue y uso de infraestructura, el desarrollo de contenidos y aplicaciones, la protección de las usuarias y usuarios, la seguridad informática y de redes, como mecanismos de democratización de oportunidades para todos los sectores de la sociedad y especialmente para aquellos con menores ingresos y con necesidades especiales.
+
+Que el Parágrafo I del Artículo 75 de la Ley Nº 164 señala que el nivel central del Estado promueve la incorporación del Gobierno Electrónico a los procedimientos gubernamentales, a la prestación de sus servicios y a la difusión de información, mediante una estrategia enfocada al servicio de la población.
+
+Que el Parágrafo I del Artículo 9 de Ley Nº 1356, de 28 de diciembre de 2020, del Presupuesto General del Estado Gestión 2021, previsto en el inciso w) del Parágrafo I del Anexo de la Ley N° 2042, de 21 diciembre de 1999, de Administración Presupuestaria, incorporado por la Disposición Final Segunda de la Ley N° 1613, del Presupuesto General del Estado Gestión 2025, publicada el 1 de enero de 2025, establece que en el marco de la política de austeridad implementada por el Gobierno Nacional, y a objeto de precautelar la sostenibilidad financiera a largo plazo, el Ministerio de Economía y Finanzas Públicas efectuará la evaluación de la estructura del Sector Público, y realizará una propuesta de ajuste que principalmente evite la duplicidad de objetivos y atribuciones mediante la adecuación, fusión o supresión de las entidades, previa evaluación de ingresos y gastos. Dicha propuesta será aprobada mediante Decreto Supremo, independientemente del nivel normativo de creación de la entidad, normas que se entenderán como abrogadas o derogadas, según corresponda.
+
+Que el Parágrafo I del Artículo 2 del Decreto Supremo N° 2514, de 9 de septiembre de 2015, crea la Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación – AGETIC, como una institución pública descentralizada de derecho público, con personalidad jurídica, autonomía de gestión administrativa, financiera, legal y técnica, y patrimonio propio, bajo tuición del Ministerio de la Presidencia.
+
+Que el Parágrafo I del Artículo 2 del Decreto Supremo N° 5500, de 15 de diciembre de 2025, establece el Centro de Gobierno – CENGOB del Estado Plurinacional de Bolivia como el modelo de gestión articulado encargado de la gestión estratégica, coordinación, monitoreo y mejora del desempeño de las prioridades del nivel central del Estado.
+
+Que la Disposición Transitoria Única del Decreto Supremo N° 5515, de 29 de diciembre de 2025, dispone que el Ministerio de la Presidencia en coordinación con la Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación – AGETIC en el plazo de hasta diez (10) días calendario, establecerán los canales de comunicación oficial tecnológicos, a efectos del cumplimiento de lo establecido en el citado Decreto Supremo.  
+  
+Que los Organismos Multilaterales y Estados han implementado reuniones virtuales con Jefes de Estado, Presidentes y autoridades extranjeras, con plena validez legal, diplomática y protocolar. Bolivia no puede quedarse al margen de los avances tecnológicos, por lo que corresponde que el Estado mediante la AGETIC enmarque sus objetivos en fortalecer el desarrollo del Gobierno Electrónico de manera transversal, con el fin de consolidar la innovación y neutralidad tecnológica, a través de la transformación de un Estado Plurinacional digital.
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO 1.- (OBJETO).** Con la finalidad de fortalecer y garantizar la implementación de Gobierno Electrónico y Tecnologías de Información y Comunicación en el Estado Plurinacional de Bolivia, el presente Decreto Supremo tiene por objeto realizar modificaciones e incorporaciones en el Decreto Supremo N° 2514, de 9 de septiembre de 2015, modificado por el Decreto Supremo N° 3900, de 15 de mayo de 2019.
+
+**ARTÍCULO 2.- (MODIFICACIONES).**
+
+**I.**            Se modifican los incisos j), o), p) y s) del Artículo 7 del Decreto Supremo N° 2514, de 9 de septiembre de 2015, con el siguiente texto:
+
+*"j)     Implementar mecanismos de control y realizar el seguimiento y evaluación a la aplicación de políticas, lineamientos y planes de gobierno electrónico, software libre y estándares abiertos y seguridad de la información por las entidades del sector público;*
+
+*o)      Gestionar políticas y desarrollar acciones orientadas a reducir la brecha digital, fortalecer los procesos de transparencia, acceso a la información pública, participación y control social y avanzar en la soberanía tecnológica del Estado Plurinacional de Bolivia;*
+
+*p)      Gestionar políticas y desarrollar acciones orientadas a mejorar la calidad, eficiencia y transparencia de la gestión y servicios públicos, en el marco de la implementación de Gobierno Electrónico y Tecnologías de Información y Comunicación;*
+
+*s)       Prestar servicios relacionados con Gobierno Electrónico, certificación y firma digital a personas naturales y jurídicas públicas y privadas."*
+
+**II.**          Se modifica el Artículo 17 del Decreto Supremo N° 2514, de 9 de septiembre de 2015, con el siguiente texto:  
+  
+*"       **ARTÍCULO 17.- (OBLIGACIONES EN MATERIA DE SEGURIDAD DE LA INFORMACIÓN).***
+
+***I.*** *Los responsables de seguridad de la información de todas las entidades del sector público deben reportar la ocurrencia de incidentes informáticos que se produzcan en un plazo no mayor a veinticuatro (24) horas de conocido el hecho al Centro de Gestión de Incidentes Informáticos – CGII para realizar las acciones necesarias, conforme a los procedimientos establecidos por el CGII.*
+
+***II.*** *Las entidades públicas, en el marco de sus posibilidades, deben atender con prioridad los incidentes informáticos identificados y proporcionar la información necesaria conforme a procedimientos a ser establecidos por el CGII.*
+
+***III.*** *Las entidades del sector público deben desarrollar e implementar el Plan Institucional de Seguridad de la Información acorde a lineamientos a ser establecidos por el CGII."*
+
+**III.**         Se modifican los Parágrafos II y III del Artículo 18 del Decreto Supremo N° 2514, de 9 de septiembre de 2015, con el siguiente texto:
+
+*"**II.** Las entidades del sector público, en el marco de la Soberanía Tecnológica, deben designar al Responsable de Gobierno Electrónico y Tecnologías de Información y Comunicación y al Responsable de Seguridad de la Información, a fin de coordinar con la AGETIC. Esta coordinación podrá realizarse a través del Centro de Gobierno - CENGOB.*
+
+***III.*** *Las entidades del sector público coordinarán el desarrollo de Planes Institucionales de Gobierno Electrónico; Seguridad de la Información; y Software Libre y Estándares Abiertos con la AGETIC."*
+
+**ARTÍCULO 3.- (INCORPORACIONES).** Se incorporan los incisos u), v), w), x), y) y z) en el Artículo 7 del Decreto Supremo N° 2514, de 9 de septiembre de 2015, modificado por el Decreto Supremo N° 3900, de 15 de mayo de 2019, con el siguiente texto:
+
+*"u)    Brindar soporte técnico al Centro de Gobierno – CENGOB, para la proyección y elaboración de las herramientas tecnológicas necesarias para el monitoreo y seguimiento de las prioridades del nivel central del Estado, a través de sistemas de visualización, indicadores, alertas tempranas y cualquier otro que permita su implementación;*
+
+*v)       Implementar la Oficina Virtual del Presidente y del Consejo de Ministros "Despacho Virtual del Presidente" como canal de comunicación oficial tecnológico y brindar el soporte técnico y asistencia tecnológica de la misma de carácter permanente, dinámico, cifrado y con altos estándares de protección a la seguridad de la información, garantizando la seguridad y confidencialidad del Estado;*
+
+*w)      Implementar oficinas virtuales en las diferentes entidades del nivel central del Estado, a requerimiento, como canal de comunicación oficial tecnológico y brindar el soporte técnico y asistencia tecnológica de la misma de carácter permanente, dinámico, cifrado y con altos estándares de protección a la seguridad de la información;*
+
+*x)       Administrar el Repositorio Estatal de Software Libre para el registro, preservación y custodia, así como publicar en línea la información de todos los sistemas y las aplicaciones que se encuentren en el Repositorio;*
+
+*y)       Establecer las normas técnicas, estándares de desarrollo, mecanismos y procesos de registro, consulta, uso y licenciamiento de software libre para el registro en el repositorio y uso por parte del Estado;*
+
+*z)       Administrar y registrar nombres de dominio ".bo", en el marco de lo establecido por la normativa vigente."*
+
+**DISPOSICIONES ADICIONALES**
+
+**DISPOSICIÓN ADICIONAL PRIMERA.-** La Agencia para el Desarrollo de la Sociedad de la Información en Bolivia – ADSIB administrará los servicios de certificación digital, el dominio ".bo" y el repositorio estatal de software libre, hasta el 14 de enero de 2026.
+
+**DISPOSICIÓN ADICIONAL SEGUNDA.-** Del 15 de enero al 26 de febrero de 2026, la ADSIB mantendrá un personal de hasta cinco (5) servidores públicos, incluida entre estos, la Máxima Autoridad Ejecutiva, para realizar los Estados Financieros de la gestión 2025, de la gestión 2026 de los meses de enero a febrero y los informes de confiabilidad respectivos, mismos que deben ser remitidos a las instancias correspondientes, así como el cumplimiento de lo establecido en el presente Decreto Supremo.
+
+**DISPOSICIÓN ADICIONAL TERCERA.-** A partir del 27 de febrero de 2026, se dispone el cierre de la ADSIB.
+
+**DISPOSICIÓN ADICIONAL CUARTA.-**
+
+**I.**            A partir del 15 de enero de 2026, la Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación – AGETIC asumirá:
+
+1. Las funciones de la ADSIB establecidas en normativa vigente;
+2. Los procesos administrativos, judiciales y otros en los que la ADSIB sea parte.
+
+**II.**          El personal de la ADSIB podrá ser incorporado a la AGETIC, previa evaluación.
+
+**DISPOSICIÓN ADICIONAL QUINTA.-**
+
+**I.**            A partir de la publicación del presente Decreto Supremo:
+
+1. Los activos, pasivos, documentación, incluidas las obligaciones sociales y laborales del personal de la ADSIB, serán asumidos por la AGETIC.
+2. En un plazo de hasta diez (10) días hábiles, la ADSIB formalizará la entrega a la AGETIC de los activos, pasivos y documentación, bajo actas e inventarios.
+
+**II.**          La continuidad de los servicios estará garantizada por la ADSIB hasta el 14 de enero de 2026 y por la AGETIC a partir del 15 de enero de 2026.
+
+**DISPOSICIÓN ADICIONAL SEXTA.-** Quedan válidas y vigentes las certificaciones, los registros, acuerdos, convenios y contratos suscritos por la ADSIB, con las personas naturales y jurídicas, instituciones, entidades y empresas públicas, y privadas nacionales e internacionales.  
+  
+**DISPOSICIÓN ADICIONAL SÉPTIMA.-** Se autoriza al Ministerio de Economía y Finanzas Públicas y a las entidades involucradas realizar los ajustes y/o registros presupuestarios, contables y de tesorería necesarios para el cumplimiento de las disposiciones establecidas en el presente Decreto Supremo, en el marco de la normativa vigente.
+
+**DISPOSICIONES TRANSITORIAS**
+
+**DISPOSICIÓN TRANSITORIA PRIMERA.-** Los recursos presupuestarios, aprobados en el Presupuesto General del Estado Gestión 2026, y saldos disponibles en cuentas y libretas de la ADSIB, deben ser transferidos a la AGETIC, conforme a las nuevas atribuciones asignadas en la presente norma, previa evaluación del Ministerio de Economía y Finanzas Públicas.
+
+**DISPOSICIÓN TRANSITORIA SEGUNDA.-** De manera excepcional la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT, a través de las actuaciones y actos administrativos necesarios permitirá a la AGETIC, administrar y ejercer la autorización para la prestación de servicios de certificación digital otorgada a la ADSIB.
+
+**DISPOSICIONES ABROGATORIAS Y DEROGATORIAS**
+
+**DISPOSICIONES ABROGATORIAS.-** En aplicación a lo establecido en el Parágrafo I del Artículo 9 de Ley Nº 1356, de 28 de diciembre de 2020, del Presupuesto General del Estado Gestión 2021, previsto en el inciso w) del Parágrafo I del Anexo de la Ley N° 2042, de 21 diciembre de 1999, de Administración Presupuestaria, incorporado por la Disposición Final Segunda de la Ley N° 1613, del Presupuesto General del Estado Gestión 2025, publicada el 1 de enero de 2025, a partir del 27 de febrero de 2026 quedan abrogados los Decretos Supremos N° 26553, de 19 de marzo de 2002 y N° 27739, de 22 de septiembre de 2004.
+
+**DISPOSICIONES DEROGATORIAS.-** Se derogan los incisos c) y k) del Parágrafo II del Artículo 8 del Decreto Supremo N° 2514, de 9 de septiembre de 2015.
+
+**DISPOSICIONES FINALES**
+
+**DISPOSICIÓN FINAL ÚNICA.-** A partir de la entrada en vigencia del presente Decreto Supremo, se adecua en toda la normativa vigente la denominación de Agencia para el Desarrollo de la Sociedad de la Información en Bolivia – ADSIB por Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación – AGETIC.  
+  
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado en el Palacio de Gobierno, a los trece días del mes de enero del año dos mil veintiséis.
+
+**FDO. RODRIGO PAZ PEREIRA**, Fernando Hugo Aramayo Carrasco, José Luis Lupo Flores, Marco Antonio Oviedo Huerta, Raúl Marcelo Salinas Gamarra, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Sergio Mauricio MedinaceliMonrroy, Oscar Mario JustinianoPinto, Mauricio Zamora Liebers, Marco Antonio Calderon De La Barca Quintanilla, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/3.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026

@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 27114, 30 de julio de 2003
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1604](#TODO-link) de 21 de diciembre de 1994, de Electricidad, norma las actividades de la industria eléctrica y establece los principios generales para la fijación de precios y tarifas.
+* Que el Reglamento de Precios y Tarifas establece los plazos que las empresas distribuidoras titulares de una concesión, deben cumplir para la elaboración y aprobación por parte de la Superintendencia de Electricidad de los estudios tarifarios.
+* Que el [Decreto Supremo Nº 27030](#TODO-link) de 8 de mayo de 2003, autoriza a las empresas distribuidoras titulares de una concesión, a distribuir de manera uniforme entre todos los usuarios de su concesión, los costos de distribución.
+* Que es necesario ampliar el plazo de presentación de los estudios tarifarios por parte de las empresas distribuidoras titulares de una concesión, a objeto que los mismos incluyan el alcance del [Decreto Supremo Nº 27030](#TODO-link) de 8 de mayo de 2003.
+* Que el Poder Ejecutivo en uso de sus facultades establecidas en el Artículo 67 de la Ley de Electricidad, procede a dictar la presente norma.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Por única vez y de manera excepcional se posterga hasta el mes de diciembre del año 2003 la aprobación de tarifas que hace mención el Artículo 58 del Reglamento de Precios y Tarifas, aprobado mediante el [Decreto Supremo Nº 26094](#TODO-link) de 2 de marzo del 2001.
+2. Por tanto, las empresas distribuidoras titulares de una concesión entregarán a la Superintendencia de Electricidad hasta el 1 de septiembre de 2003, los estudios tarifarios que se mencionan en el segundo párrafo del Artículo 60 del Reglamento de Precios y Tarifas, aprobado mediante el [Decreto Supremo Nº 26094](#TODO-link) de 2 de marzo del 2001.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Servicios y Obras Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de Julio del año dos mil tres.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA , Carlos Saavedra Bruno, José Guillermo Justiniano Sandoval, . Yerko Kukoc del Carpio, Freddy Teodovich Ortiz, Javier Comboni Salinas, Moira Paz Estenssoro, Jorge Torres Obleas, Carlos Morales Landivar, Jorge Berindoague Alcocer, Hugo Carvajal Donoso, Javier Tórres Goitia Caballero, Juan Walter Subirana Suárez, Arturo Liebers Baldivieso.

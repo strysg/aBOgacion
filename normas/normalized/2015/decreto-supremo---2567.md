@@ -1,0 +1,51 @@
+# Bolivia: Decreto Supremo Nº 2567, 28 de octubre de 2015
+
+[Decreto Supremo Nº 2567](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Título IV de la [Ley Nº 3058](#TODO-link), de 17 de mayo de 2005, de Hidrocarburos, determina un Régimen de Patentes, Regalías, Participaciones y Tasas.
+* Que el Artículo 51 de la [Ley Nº 3058](#TODO-link), establece que el Tesoro General de la Nación - TGN en un periodo de treinta (30) días de cobradas las Patentes transferirá el cincuenta por ciento (50%) del valor de las mismas a los municipios en cuyas circunscripciones se encuentran las concesiones petroleras que generan el pago de aquellas con destino únicamente a programas y proyectos de inversión pública y/o gestión ambiental. El restante cincuenta por ciento (50%) será utilizado por el entonces Ministerio de Desarrollo Sostenible para programas y proyectos de inversión pública y gestión ambiental en los departamentos productores de hidrocarburos.
+* Que el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 26570](#TODO-link), de 2 de abril de 2002, dispone que los datos de la tabla anexa se basan en la información cartográfica contemplada en el Atlas Estadístico de Municipios publicado en octubre de 1999.
+* Que el [Decreto Supremo Nº 28457](#TODO-link), de 24 de noviembre de 2005, aprueba el Reglamento de Pago de Patentes que tiene la finalidad de normar el Título IV, Capítulo I de la [Ley Nº 3058](#TODO-link), relativo al pago de patentes sobre las áreas sujetas a Contratos Petroleros.
+* Que el [Decreto Supremo Nº 29046](#TODO-link), de 28 de febrero de 2007, reglamenta las transferencias de los recursos provenientes del pago de patentes petroleras, dispuestas en el Artículo 51 de la [Ley Nº 3058](#TODO-link).
+* Que el Artículo 7 del [Decreto Supremo Nº 1560](#TODO-link), de 17 de abril de 2013, señala que el Ministerio de Autonomías es la entidad responsable de administrar el Sistema de Información de Organización Territorial.
+* Que es necesario modificar y complementar el Artículo 2 del [Decreto Supremo Nº 29046](#TODO-link), a fin de viabilizar el procedimiento para la transferencia del cincuenta por ciento (50%) de la recaudación de patentes petroleras a los municipios correspondientes.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se modifica y complementa el Artículo 2 del [Decreto Supremo Nº 29046](#TODO-link), de 28 de febrero de 2007, con el siguiente texto:
+  
+“ARTÍCULO 2.- (TRANSFERENCIA DEL 50% DE LAS PATENTES PETROLERAS).
+
+1. El Ministerio de Autonomías remitirá al Ministerio de Hidrocarburos y Energía y a Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, la información establecida en el Artículo 2 del [Decreto Supremo Nº 26570](#TODO-link), de 2 de abril de 2002 y/o las actualizaciones correspondientes de acuerdo a Ley, en el plazo de hasta quince (15) días hábiles a partir de la solicitud del Ministerio de Hidrocarburos y Energía. En base a la información remitida, el Ministerio de Hidrocarburos y Energía en coordinación con YPFB, establecerán los municipios sobrepuestos en las áreas de contrato.
+2. YPFB remitirá al Ministerio de Hidrocarburos y Energía, en un plazo de hasta cinco (5) días hábiles a partir del último día de marzo, un reporte con la siguiente información: a) Montos reembolsados por el Titular a YPFB por concepto de patentes petroleras de cada gestión, detallando la información por área de contrato y Titular, y; b) Ubicación espacial en base a las coordenadas “Universal Transversal de Mercator - UTM” de todas las áreas establecidas en los contratos de exploración y explotación, de acuerdo al Sistema de Información Catastral de Hidrocarburos de YPFB.
+     
+   En caso de que existan observaciones a la información remitida, el Ministerio de Hidrocarburos y Energía en el plazo de hasta cinco (5) días hábiles de haber recepcionado dicha información, solicitará a YPFB absolver las observaciones en los siguientes cinco (5) días hábiles.
+3. Una vez recepcionada la información sin observaciones señalada en el Parágrafo precedente, el Ministerio de Hidrocarburos y Energía remitirá al Ministerio de Economía y Finanzas Públicas en un plazo de hasta cuatro (4) días hábiles, los nombres de los municipios beneficiarios de las patentes petroleras y la certificación del monto total recaudado por este concepto, adjuntando los respaldos correspondientes.
+4. En base a la información proporcionada por el Ministerio de Hidrocarburos y Energía, el Ministerio de Economía y Finanzas Públicas procederá a la transferencia del cincuenta por ciento (50%) de las patentes petroleras de forma igualitaria a los municipios beneficiarios, en las cuentas corrientes fiscales municipales correspondientes. Una vez concluidas las transferencias, serán comunicadas al Ministerio de Hidrocarburos y Energía.
+5. Las patentes petroleras generadas por concepto de duodécimas y/o actualización del valor de las mismas por pago fuera de plazo, deberán seguir el procedimiento descrito en el presente Artículo para cada reembolso realizado.”
+     
+
+   # Disposiciones transitorias
+
+**Artículo transitorio Único.-** Las patentes petroleras correspondientes a la gestión 2015 u otras pendientes, serán transferidas conforme al procedimiento establecido en el presente Decreto Supremo, computando los plazos a partir de la publicación de la presente norma.
+  
+
+# Disposiciones abrogatorias y derogatorias
+
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, de Hidrocarburos y Energía, y de Autonomías, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de octubre del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Carlos Gustavo Romero Bonifaz , Reymi Luis Ferreira Justiniano MINISTRO DE DEFENSA E INTERINO DE MINERÍA Y METALURGIA, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana MINISTRO DE DESARROLLO RURAL Y TIERRAS E INTERINO DE ECONOMÍA Y FINANZAS PÚBLICAS, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

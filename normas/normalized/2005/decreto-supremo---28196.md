@@ -1,0 +1,65 @@
+# Bolivia: Decreto Supremo Nº 28196, 3 de junio de 2005
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Numeral 1 del Artículo 96 de la [Constitución Política del Estado](#TODO-link), establece que es atribución del Presidente de la República ejecutar y hacer cumplir las leyes, expidiendo para ello los decretos y órdenes convenientes sin definir privativamente derechos, alterar los definidos por ley ni contrariar sus disposiciones, guardando las restricciones consignadas en la Constitución.
+* Que el acceso a la tierra y los recursos forestales maderables y no maderables en el norte de Bolivia han tenido características distintas a las del resto del país, generando un permanente clima de intranquilidad y hostilidad entre los diferentes sectores que confluyen en el Norte Amazónico.
+* Que el saneamiento es el instrumento procesal técnico jurídico transitorio destinado a regularizar y perfeccionar el derecho de propiedad agraria, el mismo que es ejecutado por el Instituto Nacional de Reforma Agraria - INRA en todo el territorio nacional, según mandato del Artículo 64 de [Ley Nº 1715](#TODO-link) de 18 de octubre 1996 - Ley del Servicio Nacional de Reforma Agraria.
+* Que la regularización de los derechos en la zona, tanto en el aspecto forestal como agrario, en el marco de la [Ley Nº 1700](#TODO-link) de 12 de julio de 1996 - Ley Forestal, y la [Ley Nº 1715](#TODO-link), a través de la sumisión a los resultados del saneamiento por parte de los beneficiarios de concesiones forestales y de la ejecución del proceso transitorio agrario, permiten evidenciar actualmente un nuevo mapa de tenencia y expectativa de acceso al aprovechamiento de los recursos naturales en el Norte Amazónico.
+* Que los Decretos Supremos [Nº 25848](#TODO-link) de 18 de julio de 2000 y [Nº 27572](#TODO-link) de 17 de junio de 2004, han establecido criterios para la aplicación de este procedimiento en el Norte Amazónico del país, mediante la definición de la superficie mínima de dotación por familia a favor de comunidades campesinas en el área, la aplicación de dicha unidad mínima de dotación y el acceso a los recursos forestales no maderables.
+* Que por los conflictos suscitados en el Departamento de Pando, Provincia Vaca diez y parte del Municipio de Ixiamas del Departamento de La Paz, ha quedado de manifiesta la necesidad de establecer de forma específica la aplicación de los Decretos Supremos antes mencionados, otorgando seguridad jurídica a los sectores sociales y productivos del Norte Amazónico, en búsqueda de paz para el desarrollo de la región, respetando la capacidad de uso mayor de la tierra y los planes de uso de suelo de los Departamentos involucrados.
+* Que la conciliación es un mecanismo alternativo de solución de controversias, reconocido por [Ley Nº 1770](#TODO-link) - Ley Forestal, [Ley Nº 1715](#TODO-link) - Ley del Servicio Nacional de Reforma Agraria, y su Decreto Reglamentario, cuyos acuerdos y actas deben ser debidamente valorados durante la ejecución del proceso de saneamiento.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto complementar el [Decreto Supremo Nº 27572](#TODO-link), para la adecuada y pacífica ejecución del saneamiento de la propiedad agraria en el Norte Amazónico, de acuerdo al Artículo 64 de la [Ley Nº 1715](#TODO-link) - Ley del Servicio Nacional de Reforma Agraria.
+
+**Artículo 2°.- (Superficie para dotación y titulación de comunidades campesinas extractivistas)** De conformidad al [Decreto Supremo Nº 25848](#TODO-link), el Instituto nacional de Reforma Agraria - INRA en caso de no existir conflictos, dotará y titulará de oficio como propiedad comunal forestal a favor de comunidades campesinas la superficie de 500 hectáreas como mínimo por familia, de acuerdo a los datos levantados en pericias de campo, dentro del proceso de saneamiento y en observancia de lo establecido en el Parágrafo I del Artículo 66 de la [Ley Nº 1715](#TODO-link) y los Artículos 198,201 y el inciso d) del Parágrafo III del Artículo 238 de su Reglamento, y disposición Transitoria Primera del [Decreto Supremo Nº 25848](#TODO-link).
+  
+En caso de que como efecto de la pericia de campo, la superficie fuese mayor a 500 hectáreas y no hubiese conflicto de derechos, el INRA procederá a dotar la superficie mensurada sin efectuar recortes.
+
+**Artículo 3°.- (Superficie insuficiente)** Si la superficie mensurada en pericias de campo fuese menor a 500 hectáreas por familia, el INRA procederá a dotar sin necesidad de declaratoria de tierras fiscales debido a que estas áreas se encuentran en proceso de saneamiento, de la siguiente forma:
+  
+- Identificando tierras preferentemente colindantes, para alcanzar la superficie mínima de dotación.
+  
+- Cuando no exista conciliación entre las partes en conflicto, el INRA aplicará lo dispuesto en el Artículo 43 y la Disposición Final Segunda de la [Ley Nº 1715](#TODO-link).
+  
+- En caso de existir comunidades campesinas, en áreas protegidas se los dotará respetando la capacidad de uso mayor de la tierra y las normas de uso y conservación del área protegida.
+  
+- En caso de existir comunidades campesinas tituladas sobrepuestas a concesiones forestales, el INRA procederá a dotar por tierra insuficiente, previa conciliación entre comunarios y concesionarios.
+  
+- En caso de comunidades con tierras insuficientes dentro de Tierras Comunitarias de Origen - TCO, se las dotará en áreas discontinuas fuera de la TCO.
+  
+- En caso de no haber sido identificadas comunidades campesinas en las pericias de campo, se procederá a la dotación ordinaria siempre y cuando no afecten derechos legalmente adquiridos.
+  
+- En la identificación de tierras paras comunidades con tierras insuficientes, el INRA no deberá afectar las áreas que se encuentren bajo derecho de concesión forestal y aquéllas donde las barracas cuenten con mejoras identificadas en pericias de campo.
+
+**Artículo 4°.- (Conciliación y homologación)** El INRA en atención al Artículo 290 del Reglamento de la [Ley Nº 1715](#TODO-link), convocará a la comisión de conciliación creada por el [Decreto Supremo Nº 27572](#TODO-link), compuesta por los representantes de los concesionarios forestales, barraqueros, empresarios forestales y comunidades campesinas, debiéndose suscribirse un acta entre partes interesadas, que debe ser homologada por la Prefectura, el INRA y la Superintendencia Forestal, y garantizada por las organizaciones matrices de los actores para su fiel cumplimiento.
+  
+Los resultados de la conciliación surtirán efectos de ejecutoria, irrevisables e irrenunciables por las partes intervinientes, y serán de cumplimiento obligatorio para la respectiva titulación.
+
+**Artículo 5°.- (Resoluciones finales de saneamiento)** El INRA emitirá resoluciones finales de saneamiento, que deberán disponer además de lo establecido en el [Decreto Supremo Nº 25763](#TODO-link), lo siguiente:
+  
+- En caso de contar con resolución final de saneamiento ejecutoriada, se emitirá una nueva resolución final complementaria por la superficie faltante previo informe técnico - jurídico, que dote por tierra suficiente a las comunidades campesinas conforme lo previsto en los Artículos precedentes, disponiendo la emisión de un solo título ejecutorial.
+  
+- La Resolución final de saneamiento simultáneamente determinará la calidad de fiscales de las tierras no otorgadas en propiedad.
+  
+- Ejecutoriada la resolución complementaria final de saneamiento, la Superintendencia Forestal podrá otorgar los derechos forestales que correspondan.
+
+**Artículo 6°.- (Aporte voluntario)** A efectos de contar con un presupuesto para concluir el proceso de saneamiento, el Ministerio de Desarrollo Sostenible emitirá una Resolución Ministerial que establezca un aporte voluntario sobre la base de los productos maderables y no maderables de exportación del norte amazónico. El monto del aporte voluntario, será puesto en conocimiento del Ministerio de Desarrollo Sostenible por escrito y por los interesados y, será administrado directamente por las Direcciones Departamentales del INRA que tienen competencia en el Norte Amazónico, con el control social de la comisión de conciliación.
+
+**Artículo 7°.- (Sanciones)** Los Viceministerios de Tierras y, de Recursos Naturales y Medio Ambiente, conjuntamente las organizaciones productivas del Norte Amazónico del país, en un plazo de noventa días a partir de la fecha de publicación del presente Decreto Supremo, deberán presentar un proyecto de reglamento de sanciones a la inobservancia del CUMAT y PLUS departamentales, así como, al abandono y compra - venta irregular de tierras en el Norte Amazónico.
+
+---
+
+El Señor Ministro de Estado en el despacho de Desarrollo Sostenible queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno en la ciudad de la Paz, a los tres días del mes de junio del año dos mil cinco.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Luis Carlos Jemio Mollinedo, Erwin Aguilera Antunez, Walter Kreidler Guillaux, René Gómez García Palao, Guillermo Torres Orias, Celestino Choque Villca Ministro Interino de Educación, Graciela Rosario Quiroga Morales, Audalia Zurita Zelada, Víctor Gabriel Barrios Arancibia, Jorge Espinoza Morales, Gloria Ardaya Salinas, Pedro Ticona Cruz.

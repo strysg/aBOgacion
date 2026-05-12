@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 3339, 27 de septiembre de 2017
+
+[Decreto Supremo Nº 3339](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 98 de la [Constitución Política del Estado](#TODO-link), determina que la diversidad cultural constituye la base esencial del Estado Plurinacional Comunitario. La interculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones. La interculturalidad tendrá lugar con respeto a las diferencias y en igualdad de condiciones.
+* Que el Parágrafo I del Artículo 265 del Texto Constitucional, señala que el Estado promoverá, sobre los principios de una relación justa, equitativa y con reconocimiento de las asimetrías, las relaciones de integración social, política, cultural y económica con los demás estados, naciones y pueblos del mundo y, en particular, promoverá la integración latinoamericana.
+* Que en conmemoración de los 50 años de la muerte de Ernesto “Che” Guevara, acaecida el 9 de octubre de 1967, después de su captura en la quebrada del Yuro por efectivos del Ejército boliviano, siendo ejecutado en la escuela de La Higuera por orden de la Agencia Central de Inteligencia - CIA y del Gobierno boliviano de entonces, presidido por el General René Barrientos Ortuño.
+* Que a fin de facilitar y promover las relaciones de integración social, política, cultural y económica con los demás estados, naciones y pueblos del mundo, corresponde la realización de actos conmemorativos de homenaje, es necesario emitir el presente Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se declará de carácter oficial, las actividades conmemorativas de los 50 años de la muerte de Ernesto “Che” Guevara en Bolivia, a realizarse del 5 al 9 de octubre de 2017, en la ciudad de Vallegrande del Departamento de Santa Cruz.
+2. Para el cumplimiento del Parágrafo precedente, los Ministerios del Órgano Ejecutivo y entidades públicas, en el marco de sus competencias, realizarán actividades relacionadas a dicho evento.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de septiembre del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, Fernando Huanacuni Mamani, René Martínez Callahuanca, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Mariana Prado Noya, Mario Alberto Guillén Suárez, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

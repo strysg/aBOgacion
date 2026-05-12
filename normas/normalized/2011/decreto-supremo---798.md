@@ -1,0 +1,50 @@
+# Bolivia: Decreto Supremo Nº 798, 21 de febrero de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 11 del Artículo 108 de la [Constitución Política del Estado](#TODO-link), establece que es deber de las bolivianas y los bolivianos, socorrer con todo el apoyo necesario, en casos de desastres naturales y otras contingencias.
+* Que el Artículo 407 de la [Constitución Política del Estado](#TODO-link), determina que son objetivos de la política de desarrollo rural integral del Estado, en coordinación con las entidades territoriales autónomas y descentralizadas, entre otros, establecer mecanismos de protección a la producción agropecuaria boliviana; proteger la producción agropecuaria y agroindustrial ante desastres naturales e inclemencias climáticas, geológicas y siniestros.
+* Que el Artículo 3 de la [Ley Nº 2140](#TODO-link), de 25 de octubre de 2000, para la Reducción de Riesgos y Atención de Desastres, establece el principio de obligatoriedad e interés colectivo, en virtud del cual la reducción de riesgos y atención de desastres y/o emergencias, son de interés colectivo y las medidas establecidas para este fin, son de cumplimiento obligatorio. Asimismo, conforme al principio de responsabilidad, la generación de riesgos vinculados con desastres y/o emergencias por parte de instituciones públicas, privadas o personas individuales, conlleva necesariamente la responsabilidad que corresponda.
+* Que el numeral 1 del Artículo 24 de la [Ley Nº 2140](#TODO-link), expresa que tanto los Desastres como las Emergencias se clasificarán como Nacional, cuando el Desastre o Emergencia afecta a más de un Departamento.
+* Que de conformidad a lo señalado por el Artículo 49 del Reglamento General de Reducción de Riesgos y Atención de Desastres y/o Emergencias aprobado por [Decreto Supremo Nº 26739](#TODO-link), de 4 de agosto de 2002, la Declaratoria de Emergencia en los diferentes niveles territoriales, implica la declaratoria de un régimen especial para la aplicación de un régimen normativo de excepción, establecido en las Normas Básicas del Sistema de Administración de Bienes y Servicios y el Sistema de Inversión Pública, así como la aplicación de Planes de Reducción de Riesgos entre otros.
+* Que la Gobernación de los Departamentos de Cochabamba y La Paz, mediante normas y disposiciones departamentales, en el marco del Artículo 100 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Ley Marco de Autonomías y Descentralización “Andrés Ibáñez” y [Ley Nº 2140](#TODO-link), se han declarado en Situación de Emergencia Departamental y se encuentran en estado de alerta por la presencia de inundaciones, riadas, granizada, deslizamientos, desbordes y otros, efectos producidos por las variaciones climáticas del Fenómeno de La Niña 2010-2011, afectando a las poblaciones y medios de vida en esos departamentos, provocando grandes pérdidas y daños a la actividad productiva, agropecuaria, infraestructura vial y social.
+* Que el Artículo 23 de la [Ley Nº 2140](#TODO-link), faculta al Presidente del Estado, declarar Situación de Desastre y/o Emergencia, mediante Decreto Supremo, previa recomendación del Consejo Nacional para la Reducción de Riesgos y Atención de Desastres y/o Emergencias - CONARADE. Asimismo, el Artículo 48 del Reglamento General de Reducción de Riesgos y Atención de Desastres y/o Emergencias, faculta al Presidente del Estado, declarar situación de emergencia cuando las alteraciones internas en las personas, las comunidades, los bienes, los servicios y el medio ambiente, por la presencia real o inminente de un evento natural, antrópico, socioeconómico, impliquen por su magnitud variaciones sustanciales en el modo de vida, el desarrollo económico, social y productivo de la comunidad.
+* Que es atribución del CONARADE, como instancia superior de decisión y coordinación del Sistema Nacional para la Reducción de Riesgos y Atención de Desastres y/o Emergencias - SISRADE, establecer la dimensión del desastre o la emergencia de acuerdo a la naturaleza de las amenazas y riesgos que se presenten.
+* Que mediante Informe Técnico DGEA Nº 028/11, de 18 de febrero de 2011, la Dirección General de Emergencias y Auxilio, dependiente del Viceministerio de Defensa Civil, en calidad de Secretaria Técnica del CONARADE, recomienda gestionar ante el CONARADE una Resolución que recomiende al Presidente del Estado Plurinacional, declarar Situación de Emergencia Nacional, asimismo recomienda gestionar recursos de emergencia para la recuperación agropecuaria y ganadera e implementar acciones de rehabilitación de vías y accesos en las regiones afectadas.
+* Que asimismo los fenómenos climatológicos afectan también la provisión de servicios básicos, cuya continuidad debe ser garantizada por el Estado al constituir derechos fundamentales.
+* Que mediante Resolución CONARADE 01/2011, de 21 de febrero de 2011, se recomienda al Presidente del Estado Plurinacional la Declaratoria de Emergencia Nacional mediante Decreto Supremo por la presencia de inundaciones, riadas, granizada, desbordes, deslizamientos y heladas, además de la presencia de sequía en otras regiones, provocadas por la presencia del Fenómeno de La Niña 2010-2011.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto declarar Situación de Emergencia por la presencia de inundaciones, riadas, granizada, desbordes de ríos, deslizamientos y heladas, además de la presencia de sequía en otras regiones, provocadas por la presencia del Fenómeno de La Niña 2010-2011, en el marco de la [Ley Nº 2140](#TODO-link), de 25 de octubre de 2000, para la Reducción de Riesgos y Atención de Desastres, y del Reglamento General de Reducción de Riesgos y Atención de Desastres y/o Emergencias aprobado por [Decreto Supremo Nº 26739](#TODO-link), de 4 de agosto de 2002.
+
+**Artículo 2°.- (Ámbito de aplicación)** 
+
+1. Se declara Situación de Emergencia de carácter Nacional con aplicación en todo el territorio nacional.
+2. Por la magnitud de la Emergencia Declarada, los efectos del presente Decreto Supremo se aplicarán a los departamentos o municipios que hayan declarado situación de emergencia departamental, municipal conforme lo establecido en la [Ley Nº 2140](#TODO-link) y el Artículo 100 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Ley Marco de Autonomías y Descentralización “Andrés Ibáñez”.
+
+**Artículo 3°.- (Responsabilidad)** 
+
+1. Las Máximas Autoridades Ejecutivas de entidades e instituciones públicas, Gobernaciones, Municipios y responsables de empresas públicas, conforme a su responsabilidad, competencia y jurisdicción en el ámbito nacional, departamental y municipal en materia de Reducción de Riesgos y Atención de Desastres y/o Emergencias, son responsables de asumir las acciones de atención y de reducción de riesgos, emergentes de la emergencia declarada, así como del destino de los recursos asignados a los fines establecidos en el presente Decreto Supremo, en el marco de la [Ley Nº 1178](#TODO-link), de 20 de julio de 1990, de Administración y Control Gubernamentales y el Reglamento de la Responsabilidad por la Función Pública, aprobado por [Decreto Supremo Nº 23318](#TODO-link)-A, de 3 de noviembre de 1992.
+2. En el marco de las atribuciones y competencias del Ministerio de Defensa, a través del Viceministerio de Defensa Civil, como Secretaría Técnica del CONARADE, coordinará las acciones necesarias para la atención de la emergencia declarada y la atención de las necesidades humanitarias, rehabilitación, reconstrucción y recuperación de los sectores afectados, en coordinación con las instancias que corresponda.
+
+**Artículo 4°.- (Transferencia e inscripcion de los recursos)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, la transferencia presupuestaria de recursos adicionales destinados a financiar la ejecución de acciones necesarias para la atención de la emergencia declarada y la atención de las necesidades humanitarias, rehabilitación, reconstrucción y recuperación de los sectores afectados, a favor del Ministerio de Defensa y/u otras entidades involucradas en el cumplimiento del presente Decreto Supremo.
+2. Las Gobernaciones de Departamento están autorizadas a realizar la reasignación de los recursos económicos que requieran para ejecutar acciones que demanden la atención de la emergencia, en el marco de sus competencias en el ámbito departamental.
+3. Los Gobiernos Municipales, en el ámbito de sus competencias, están autorizados a realizar la reasignación de los recursos económicos y/o transferencias presupuestarias correspondientes que permitan atender la emergencia declarada.
+4. Las entidades, instituciones públicas y empresas públicas, involucradas en la atención de la emergencia y recuperación de los sectores afectados, en el ámbito de sus competencias, están autorizadas a realizar la reasignación de los recursos económicos que requieran.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de febrero del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

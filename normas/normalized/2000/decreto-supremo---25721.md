@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 25721, 31 de marzo de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Registro de Identificación Nacional (RIN) fue creado mediante [Ley Nº 1864](#TODO-link) de 15 de junio de 1998, reglamentada por [Decreto Supremo Nº 25316](#TODO-link) de 26 de febrero de 1999, como entidad pública descentralizada y con autonomía de gestión, bajo la tuición del Ministerio de Justicia y Derechos Humanos, cuyo objeto es disponer de un sistema de identificación personal y proporcionar un documento de identificación único, seguro y confiable a toda la población nacional;
+* Que la citada disposición legal establece que los beneficiarios de la capitalización deberán registrarse ante el Registro de Identificación Nacional, dentro de los tres años calendario de la fecha de inicio, prorrogables por un año adicional mediante Decreto Supremo, con el fin de quedar registrados en la Base de Datos del Fondo de Capitalización Colectiva, cuya administración está a cargo de las Administradoras de Fondos de Pensiones;
+* Que para el cumplimiento de la citada [Ley Nº 1864](#TODO-link) es necesario establecer un sistema de identificación biométrico que utiliza tecnología de identificación automática de huellas dactilares, y reúne las condiciones de seguridad, eficiencia y eficacia requeridos por el Registro de Identificación Nacional, debiendo para este objeto procederse a la selección y contratación de una empresa internacional especializada en el rubro y con capacidad comprobada;
+* Que la contratación de la empresa internacional no puede efectuarse con la prontitud requerida por el Registro de Identificación Personal debido a los plazos estipulados en las Normas Básicas del Sistema de Administración de Bienes y Servicios, situación que podría ocasionar el retraso en el registro y cedulación de los beneficiarios de la capitalización, siendo necesario autorizar el procedimiento especial para dicha contratación;
+* Que el artículo 53 de la [Ley Nº 1864](#TODO-link), establece que el Registro de Identificación Nacional se financiará con recursos propios generados por la actividad específica y por la comisión a ser cobrada a cada administradora del Fondo de Capitalización Colectiva, que será pagada con recursos de dicho Fondo, por información sobre el registro de personas que el RIN provea para ese efecto;
+* Que para el cumplimiento de esta tarea el Registro de Identificación Nacional ha elaborado una justificación técnica bajo el sistema de “tercerización”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se prorroga por un año adicional el plazo para el registro de los beneficiarios de la capitalización al 1ro de mayo del año 2001, de conformidad con lo dispuesto en el artículo 8 de la [Ley Nº 1864](#TODO-link) de 15 de junio de 1998.
+
+**Artículo 2°.-** Se autoriza con carácter excepcional al Registro de Identificación Nacional (RIN) a convocar a concurso internacional para la selección y posterior suscripción del contrato con la empresa que tendrá a su cargo la provisión de los servicios requeridos para el proceso de identificación. El procedimiento específico deberá ser elaborado por el Registro de Identificación Nacional, con aprobación de su Directorio mediante resolución expresa, en base a la justificación técnica que forma parte anexa del presente Decreto Supremo.
+
+**Artículo 3°.-** La identificación y el registro de la población nacional se iniciará con los beneficiarios de la capitalización; a tal efecto, los recursos con los que se cubrirá el pago a la empresa especializada contratada y otros costos vinculados al proceso de identificación, provendrán del Fondo de Capitalización Colectiva, a cargo y cuenta de la comisión por información sobre el registro de las personas que el RIN provea para el funcionamiento de dicho Fondo y acuerde con las Administradoras de Fondos de Pensiones el procedimiento para el pago de la comisión.
+
+---
+
+El señor Ministro de Estado en el Despacho de Justicia, y Derechos Humano queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de marzo del año dosmil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Herbert Müller Costas, Juán Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, Oswaldo Antezana Vaca Diez, José Luis Carvajal Palma, Carlos Saavedra Bruno, Rubén Poma Rojas, Ronald MacLean Abaroa.

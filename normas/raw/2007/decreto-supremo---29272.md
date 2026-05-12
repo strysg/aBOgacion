@@ -1,0 +1,72 @@
+# Bolivia: Decreto Supremo Nº 29272, 12 de septiembre de 2007
+
+DECRETO SUPREMO Nº 29272
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Constitución Política del Estado en su Artículo 144 dispone que: “La programación del desarrollo económico del país se realizará en ejercicio y procura de la soberanía nacional. El Estado formulará periódicamente el plan general de desarrollo económico y social de la República, cuya ejecución será obligatoria. Este planeamiento comprenderá a los sectores estatal, mixto y privado de la economía nacional”.
+* Que en virtud del mandato social conferido al Gobierno Nacional, existe la necesidad imperiosa de articular la implementación de políticas económicas y sociales en el marco del Plan Nacional de Desarrollo, que se viene ejecutando, a través de una nueva concepción del desarrollo de políticas y estrategias económicas, que establecerán un nuevo patrón de desarrollo; un nuevo enfoque social y comunitario; una nueva matriz productiva y la inserción internacional, promoviendo la participación efectiva de las organizaciones sociales, comunitarias, ciudadanas y productivas, para erradicar la pobreza y la exclusión social.
+* Que conforme dispone la Ley N° 3351 de 21 de febrero de 2006, de Organización del Poder Ejecutivo, el Ministerio de Planificación del Desarrollo tiene entre sus atribuciones planificar y coordinar el desarrollo integral del país, mediante la elaboración, coordinación y seguimiento de la estrategia nacional del desarrollo económico, social y cultural en relación con los Ministerios correspondientes; formular y coordinar las políticas y estrategias de desarrollo productivo y social; articular los Planes de Desarrollo Departamental y Municipal con la Estrategia Nacional de Desarrollo Económico y Social; y definir políticas para fortalecer la presencia del Estado como actor productivo y financiero para la redistribución de la riqueza económica.
+* Que el Decreto Supremo N° 28631 de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, reglamenta las competencias y atribuciones conferidas a los Ministros de Estado y señala las funciones que cumplen los Viceministros que conforman cada una de las carteras ministeriales, asignando al Viceministro de Planificación y Coordinación del Ministerio de Planificación del Desarrollo, la función de planificar el desarrollo integral del país mediante la elaboración, coordinación y seguimiento de la estrategia nacional de desarrollo, económico, social y cultural, en relación con los Ministerios correspondientes, para concluir el Plan General de Desarrollo Económico y Social.
+* Que en el marco de las competencias antes señaladas, el Ministerio de Planificación del Desarrollo ha presentado los lineamientos estratégicos del Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática, para Vivir Bien”, como un instrumento de planificación, gestión y monitoreo para el Desarrollo Nacional que permitirá transformar sustancialmente el rumbo del país, acorde al proceso de cambio implementado en la presente gestión de Gobierno, siendo preciso aprobarlas para su observación inmediata por todas las entidades.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** . El presente Decreto Supremo tiene por objeto aprobar el Plan General de Desarrollo Económico y Social de la República: “Plan Nacional de Desarrollo: Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien - Lineamientos Estratégicos”, que en Anexo forma parte del presente Decreto Supremo, con la finalidad de orientar y coordinar el desarrollo del país en los procesos de planificación sectorial, territorial e institucional.
+
+**Artículo 2°.- (Coordinación y seguimiento)** . El Ministerio de Planificación del Desarrollo es responsable de la coordinación, elaboración y ajuste del Plan Nacional de Desarrollo y de la evaluación de su ejecución.
+
+**Artículo 3°.- (Obligatoriedad)** .
+
+1. Conforme dispone el Artículo 144 de la Constitución Política del Estado, el Plan Nacional de Desarrollo es de ejecución obligatoria. Este planeamiento comprenderá a los sectores estatal, mixto y privado de la economía nacional.
+2. Los Planes Sectoriales, Planes de Desarrollo Departamental, Planes de Desarrollo Regional, y Planes de Desarrollo Municipal deberán ser elaborados, formulados y ejecutados bajo los lineamientos del Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien”
+3. Los recursos del Presupuesto General de la Nación se enmarcarán en los lineamientos estratégicos del Plan Nacional de Desarrollo.
+4. Los recursos provenientes de la cooperación internacional se canalizarán de acuerdo a los lineamientos estratégicos del Plan Nacional de Desarrollo.
+
+**Artículo 4°.- (Contenido del Plan Nacional de Desarrollo)** . El Plan Nacional de Desarrollo: “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien” se desarrolla en seis (6) capítulos:
+  
+Capítulo I : Concepción del Desarrollo
+  
+Capítulo II : Bolivia Digna
+  
+Capítulo III : Bolivia Democrática
+  
+Capítulo IV : Bolivia Productiva
+  
+Capítulo V : Bolivia Soberana
+  
+Capítulo VI : Sostenibilidad Macroeconómica
+
+**Artículo 5°.- (Lineamientos estratégicos)** . El Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien”, implica la concepción, políticas, estrategias y programas de desarrollo del país en todos los ámbitos sectoriales y territoriales, de acuerdo a los siguientes lineamientos:
+
+1. Contribuir al proceso de transformación del país; desmontar el modelo de desarrollo concebido desde el colonialismo y el neoliberalismo, y cambiar el patrón de desarrollo primario exportador;
+2. Formular y ejecutar en el marco del paradigma de desarrollo sustentado en la filosofía del Vivir Bien, propio de nuestras culturas. El Vivir Bien plantea fundamentalmente la complementariedad entre el acceso y disfrute de los bienes materiales y la realización afectiva, subjetiva y espiritual, en armonía con la naturaleza y en comunidad con los seres humanos;
+3. Contribuir a la construcción de un nuevo Estado plurinacional, promotor y protagonista del desarrollo, social comunitario, que redistribuye equitativamente la riqueza, ingresos y oportunidades;
+4. Desarrollar la convivencia equilibrada y la complementariedad con equidad de la Economía Estatal, la Economía Comunitaria -que se asienta en procesos productivos, impulsados por organizaciones sociales, comunitarias, y micro y pequeños empresarios, artesanos, organizaciones económicas campesinas, organizaciones productivas, comunidades y asociaciones urbanas y rurales-, la Economía Mixta y la Economía Privada.
+5. Promover el desarrollo integral a través de la construcción de un nuevo patrón de desarrollo diversificado e integrado y la erradicación de la pobreza, desigualdad social y exclusión.
+6. Desarrollar, de manera prioritaria, los ejes transversales: equidad, innovación, medio ambiente y gestión de riesgos.
+
+**Artículo 6°.- (Pilares)** . Los pilares del Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien”, que deben ser incorporados en todos los ámbitos sectoriales y territoriales según sus características, son:
+
+1. **BOLIVIA DIGNA**. Es la erradicación de la pobreza y la inequidad, de manera de lograr un patrón equitativo de distribución y/o redistribución de ingresos, riqueza y oportunidades. Está conformada por los sectores generadores de activos y condiciones sociales, y por la política, estrategias y programas intersectoriales de Protección Social y Desarrollo Integral Comunitario.
+2. **BOLIVIA DEMOCRÁTICA**. Es la construcción de una sociedad y Estado plurinacional y socio - comunitario, donde el pueblo ejerce el poder social y comunitario y es corresponsable de las decisiones sobre su propio desarrollo y del país. Está constituido por los sectores orientados a lograr una mejor gestión gubernamental, transparencia y construir el poder social comunitario.
+3. **BOLIVIA PRODUCTIVA**. Está orientada hacia la transformación, el cambio integrado y diversificación de la matriz productiva, logrando el desarrollo de los complejos productivos integrales y generando excedentes, ingreso y empleo con la finalidad de cambiar el patrón primario exportador excluyente. Está conformada por los sectores estratégicos generadores de excedentes y los sectores generadores de empleo e ingreso. De manera transversal, se encuentran los sectores de infraestructura para el desarrollo productivo y de apoyo a la producción.
+4. **BOLIVIA SOBERANA**. Es la constitución del Estado en un actor internacional, soberano, autodeterminado, con identidad propia, mediante una política exterior que oriente la acción política y diplomática con presencia de los pueblos y defensa sostenible de los recursos naturales y de la biodiversidad. Está conformada por los sectores de Relaciones Exteriores y Relaciones Económicas internacionales.
+     
+   La concepción de desarrollo y los pilares del Plan Nacional de Desarrollo, requieren de un equilibrio entre el cambio deseado y la sostenibilidad macroeconómica del país como instrumento que coadyuvará a implementar las mencionadas estrategias, de manera que las políticas adoptadas profundicen la recuperación de la economía y promuevan mayor justicia social.
+
+**Artículo 7°.- (Remisión)** . Póngase en conocimiento del Honorable Congreso Nacional de conformidad con el Artículo 96 de la Constitución Política del Estado.
+
+---
+
+Los Señores Ministros de Estado, en sus respectivos despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de septiembre del año dos mil siete.
+  
+FDO. EVO MORALES AYMA, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez MINISTRO DE DEFENSA NAL. E INTERINO DE RELACIONES EXTERIORES Y CULTOS, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Celinda Sosa Lunda, José Kinn Franco MINISTRO DE OO.PP. SERVICIOS Y VIVIENDA É INTERINO DEL AGUA, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros MINISTRO DE TRABAJO E INTERINO DE JUSTICIA, María Magdalena Cajías de la Vega, Nila Heredia Miranda.

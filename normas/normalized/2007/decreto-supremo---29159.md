@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 29159, 13 de junio de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establece entre las atribuciones del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, las de estructurar políticas y planes de aprovechamiento y conservación del medio ambiente y de la biodiversidad, promoviendo y ejecutando planes y programas integrales de desarrollo rural.
+* Que el Artículo 72 del [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, establece como funciones del Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente, entre otras, las de fomentar la gestión y custodia de los recursos silvestres, formulando y ejecutando políticas y normas para su protección y preservación e impulsando el desarrollo económico y social de las poblaciones vinculadas a las áreas protegidas.
+* Que siendo la vicuña una especie de la vida silvestre, patrimonio natural y de dominio originario del Estado, su conservación es de interés social, cultural, económico y ecológico, la que se ejecuta en el marco del Convenio sobre Diversidad Biológica, ratificado mediante [Ley Nº 1580](#TODO-link) de 15 de junio de 1994; Convenio para la Conservación y Manejo de la Vicuña, suscrito entre Perú, Bolivia, Chile y Ecuador, que establece las bases para la conservación de la especie y el aprovechamiento de su fibra; y Convenio CITES - Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, suscrito por Bolivia y en el que inicialmente se registraba a la vicuña en el apéndice I, que incluye las especies en peligro de extinción.
+* Que la Convención CITES, en su Décima Segunda Conferencia de Partes (COP 12), aprobó la transferencia al Apéndice II del resto de las poblaciones de vicuña que aún se encontraban en el Apéndice I, con el exclusivo propósito de permitir el comercio internacional de productos elaborados con fibra, procedente de la esquila de animales vivos.
+* Que mediante [Decreto Supremo Nº 24529](#TODO-link) de 21 de marzo de 1997, se autoriza la esquila de vicuñas vivas y la transformación de la fibra en tela, con carácter experimental, por un plazo mínimo de dos (2) años en las áreas piloto seleccionadas de las Unidades de Conservación de la Vicuña: Ulla Ulla, Mauri - Desaguadero y Lípez - Chichas. La norma referida dispone que, cumplido este plazo y en función de la experiencia adquirida, se podrá iniciar el aprovechamiento comercial de la especie y la incorporación de nuevas áreas.
+* Que el [Decreto Supremo Nº 25458](#TODO-link) de 21 de julio de 1999, ratifica la veda general e indefinida establecida en el [Decreto Supremo Nº 22641](#TODO-link) de 8 de marzo de 1990 y modifica los Artículos 4 y 5, permitiendo el uso sostenible de algunas especies de la vida silvestre en base a planes de uso sostenible, estudios e inventarios por grupos taxonómicos que determinen la factibilidad de su aprovechamiento y los cupos permisibles por periodos de dos años.
+* Que mediante [Decreto Supremo Nº 28593](#TODO-link) de 17 de enero de 2006, se establece mecanismos de comercialización de la fibra de vicuña y lineamientos generales de su conservación, orientando su aprovechamiento en beneficio de las comunidades campesinas involucradas en el manejo sostenible.
+* Que el Artículo 11 del precitado Decreto Supremo, sólo autoriza la comercialización de la fibra de vicuña acopiada desde 1998 hasta 2005, constituyéndose esta disposición en una limitación para la actividad de comercialización de este producto.
+* Que las comunidades pertenecientes a las áreas piloto, referidas en el [Decreto Supremo Nº 24529](#TODO-link), esquilan vicuñas vivas desde 1998 hasta 2005 bajo supervisión del ex Ministerio de Desarrollo Sostenible y durante la gestión 2006 a través del Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, así como del cuerpo de Guardafaunas y Guardaparques, habilitados para dicho efecto.
+* Que por las características de finura de la fibra de vicuña, la autorización para su transformación en tela ha sido imposible de ejecutar por la suficiente capacidad tecnológica en el país para su procesamiento, además de los altos costos que implica. En consecuencia, la única actividad que ejecutan experimentalmente las comunidades de las áreas piloto: Ulla Ulla, Mauri - Desaguadero y Lípez - Chichas, además del Área Protegida Sajama, es la esquila de vicuñas vivas.
+* Que en el marco del [Decreto Supremo Nº 28593](#TODO-link), el Comité Nacional de Comercialización de Fibra de Vicuña cuenta con un stock acopiado desde 1998 hasta 2005, que ha puesto a la venta a través de un Comité de Comercialización conformado por sus representantes y organizado por la Dirección General de Biodiversidad, apoyado por las Prefecturas de los Departamentos involucrados y por el Proyecto MAPZA - SERNAP.
+* Que en el marco de este proceso de comercialización se han recibido ofertas de compra, cuyas condiciones mejoran si se incluye la producción de fibra de vicuña de la gestión 2006 y se considera la venta del producto de gestiones futuras.
+* Que esta oferta ha generado una fuerte expectativa en las comunidades manejadoras de fibra de vicuña sobre los beneficios que los generaría dicha comercialización, más aún considerando que se trata de regiones que tienen economías deprimidas, por lo que han solicitado, ante diferentes instancias del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, se los autorice continuar con la comercialización de la fibra de vicuña.
+* Que para dar continuidad al Programa Nacional para la Conservación y Aprovechamiento Sostenible de la Vicuña, es necesario asegurar la participación de la población local en la conservación y aprovechamiento sostenible de la vicuña, por lo que a demanda de las comunidades campesinas manejadoras de la especie, se debe ampliar el período de comercialización de la fibra de vicuña a objeto de que puedan percibir resultados efectivos por la labor que vienen desarrollando.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se modifica el texto del Artículo 11 del [Decreto Supremo Nº 28593](#TODO-link) de 17 de enero de 2006, de la siguiente manera:
+> “ARTÍCULO 11.- (AUTORIZACIÓN). Habiendo transcurrido 8 años desde el inicio del proceso de aprovechamiento con carácter experimental en las áreas piloto de las Unidades de Conservación de la Vicuña: Ulla Ulla, Mauri - Desaguadero y Lípez - Chichas, y al haberse incorporado, con autorización y supervisión del ex Ministerio de Desarrollo Sostenible, otras áreas en forma paulatina, se autoriza la comercialización de la fibra esquilada de vicuñas vivas, acopiada desde la gestión 1998, exclusivamente en el marco del Programa de Conservación y Manejo de la Vicuña, en cualquiera de sus diferentes condiciones: fibra bruta, predescerdada, y descerdada en hilo y/o tela, conforme a lo dispuesto en los Artículos 11 al 17 del presente Decreto Supremo.
+>   
+> El Programa Nacional de Conservación y Aprovechamiento Sostenible de la Vicuña, remitirá informes anuales de la comercialización de la fibra de vicuña al Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente, a fin de ejercer control y evitar la comercialización indiscriminada de la fibra esquilada de vicuña.”
+
+# Disposiciones finales
+
+**Artículo final Único.-** La denominación de Ministerio de Desarrollo Sostenible debe adecuarse a lo dispuesto en la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, asumiendo las atribuciones correspondientes el Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+
+---
+
+La Señora Ministra de Estado, en el Despacho de Desarrollo Rural, Agropecuario y Medio Ambiente, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de la Paz, a los trece días del mes de junio del año dos mil siete
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Magdalena Cajias de la Vega, Nila Heredia Miranda MINISTRA DE SALUD Y DEPORTES E INTERINA DE TRABAJO.

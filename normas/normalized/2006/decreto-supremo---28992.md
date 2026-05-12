@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 28992, 29 de diciembre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3302](#TODO-link) de 16 de diciembre de 2005, aprueba el Presupuesto General de la Nación para la gestión 2006, estableciendo los límites de gasto para las entidades públicas.
+* Que el Presupuesto General de la Nación para la Gestión 2006, asigna al Proyecto IBTA - CHAPARE, Proyecto dependiente del ex Viceministerio de Desarrollo Alternativo actual Viceministerio de Coca y Desarrollo Integral, la suma de Bs827.549.- (OCHOCIENTOS VEINTISIETE mil QUINIENTOS CUARENTA Y NUEVE 00/100 BOLIVIANOS), presupuesto que no consigna recursos en la partida 25800 “Estudios e Investigaciones para Proyectos de Inversión”.
+* Que el IBTA - CHAPARE no podrá cumplir lo programado en el POA 2006, por lo que se hace necesario disponer recursos adicionales para garantizar el funcionamiento del Proyecto hasta el 31 de diciembre de 2006 y viabilizar un traspaso de recursos, considerando que el “Proyecto Capacitación Mano de Obra” Proyecto AD/BOL/00/E07 tiene inscrito en su presupuesto una suma en demasía.
+* Que en el marco de las disposiciones contenidas en la [Ley Nº 1178](#TODO-link) de 20 de julio de 1990 - Ley de Administración y Control Gubernamentales, deben establecerse los procedimientos y responsabilidades de las entidades y funcionarios públicos, que permitan un apropiado ajuste del Presupuesto General de la Nación para cumplir con los objetivos de gestión previstos por cada Entidad Pública.
+* Que el Artículo 4 del nuevo Reglamento de Modificaciones Presupuestarias, aprobado por el [Decreto Supremo Nº 27849](#TODO-link) de 12 de noviembre de 2004, considera que “la responsabilidad por la observancia y cumplimiento de las Normas Legales en el trámite de aprobación y/o registro de modificaciones presupuestarias en el Sistema de Gestión y Modernización Administrativa, es total y exclusiva de la entidad solicitante”.
+* Que el Capitulo III, Artículo 5 del Reglamento de Modificaciones Presupuestarias, aprobado por el [Decreto Supremo Nº 27849](#TODO-link), establece los cambios al Presupuesto General de la Nación aprobados para cada gestión fiscal y que se clasifican en presupuestos adicionales, traspasos interinstitucionales y traspasos intrainstitucionales, incluyendo cambios de fuente y organismo financiador.
+* Que de acuerdo a lo establecido en el Artículo 59 de la Constitución Política del Estado, se aprueban los Presupuestos Institucionales del Sector Público, para su vigencia del 1 de enero al 31 de diciembre de 2006, contemplando el presupuesto para el Proyecto IBTA - CHAPARE por un monto total de Bs827.549.- (OCHOCIENTOS VEINTISIETE mil QUINIENTOS CUARENTA Y NUEVE 00/100 BOLIVIANOS), de los cuales Bs767.549.- (SETECIENTOS SESENTA Y siete mil QUINIENTOS CUARENTA Y NUEVE 00/100 BOLIVIANOS) son financiados con Fuente10 “Tesoro General de la Nación”, Organismo Financiador 111 “Tesoro General de la Nación”.
+* Que el importe inscrito fue determinado en base a necesidades y requerimientos, programados inicialmente para desarrollar y continuar actividades administrativas tendientes al resguardo de bienes de infraestructura y mantenimiento de huertos en las Estaciones Experimentales La Jota, Chipiriri y Vivero de Villa Tunari. Sin embargo, por gestiones realizadas por el Viceministerio de Desarrollo Alternativo, se ha logrado nuevamente que el IBTA - CHAPARE, desde fines del año 2005, retome su rol esencialmente técnico dentro el contexto del Desarrollo Alternativo Integral que se ha propuesto el Viceministerio de Coca y Desarrollo Integral, decisión que obviamente requiere de mayores recursos para el cumplimiento de las actividades programadas.
+* Que dando cumplimiento a las actividades enmarcadas en el POA 2006, se precisa realizar la segunda modificación presupuestaria intrainstitucional, con fondos provenientes del Proyecto AD/BOL/00/E7 a Proyecto “IBTA - CHAPARE”, en la Fuente10 “Tesoro General de la Nación”, Organismo Financiador 111 “Tesoro General de la Nación”, por Bs289.840.- (DOSCIENTOS OCHENTA Y NUEVE mil novecientos CUARENTA 00/100 BOLIVIANOS).
+* Que la Resolución Ministerial Nº 286 de 5 de diciembre de 2006, emitida por el Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, aprueba la modificación presupuestaria por un monto de Bs289.840.- (DOSCIENTOS OCHENTA Y NUEVE mil novecientos CUARENTA 00/100 BOLIVIANOS), de la Fuente10 “Tesoro General de la Nación”, Organismo Financiador 111 “Tesoro General de la Nación”.
+* Que el Artículo 3 del [Decreto Supremo Nº 28750](#TODO-link) de 20 de junio de 2006, señala que los traspasos intrainstitucionales que incrementen las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Para Construcciones de Bienes de Dominio Público”, requerirán aprobación por Decreto Supremo
+
+EL CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, efectuar la modificación presupuestaria intrainstitucional, incrementando la partida 25800 “Estudios e Investigaciones para Proyectos de Inversión”, por un monto de Bs289.840.- (DOSCIENTOS OCHENTA Y NUEVE mil novecientos CUARENTA 00/100 BOLIVIANOS), con recursos existentes en las Partidas 25700 “Capacitación de Personal”, con Fuentede Financiamiento 10 “Tesoro General de la Nación” y Organismo Financiador 111 “Tesoro General de la Nación”, para el Proyecto “IBTA - CHAPARE”, de acuerdo a Anexo adjunto.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Hacienda y Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte y nueve días del mes de diciembre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Hernando Larrazábal Córdova, Luís Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

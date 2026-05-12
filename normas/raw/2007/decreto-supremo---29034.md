@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 29034, 17 de febrero de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que de acuerdo al Servicio Nacional de Meteorología e Hidrología - SENAMHI, se ha presentado sobre gran parte del territorio boliviano un inusual régimen de lluvias que ha superado los promedios normales de precipitación pluvial.
+* Que las intensas lluvias han desencadenado una serie de efectos tales como el incremento vertiginoso del caudal de los ríos, producción de riadas o inundaciones lentas, deslaves, deslizamientos de tierras y granizadas en el altiplano que impactaron a las poblaciones, sus acervos y actividades económicas.
+* Que se requiere de recursos para atender las actividades de rehabilitación del capital físico, ambiental, social local, construcción, adquisición, reembolso y otros de inversión, de las pérdidas de infraestructura física y de servicios ocasionadas por los desórdenes climáticos que han afectado al país.
+* Que durante el año 2006 el Gobierno de Bolivia inició las gestiones ante la Corporación Andina de Fomento - CAF para el financiamiento del Programa de Atención de Emergencias Naturales Bolivia 2006.
+* Que dada la situación de extrema emergencia que enfrenta el país en la presente gestión, la Corporación Andina de Fomento - CAF ha acordado conceder a la República de Bolivia, un crédito de $us15.000.000.- (QUINCE MILLONES 00/100 DOLARES AMERICANOS), destinados al Programa anteriormente mencionado.
+* Que estos recursos serán destinados a otorgar a los municipios afectados en enero y febrero de la presente gestión, un mecanismo de financiamiento que los permita atender las tareas de rehabilitación, construcción y otros de inversión de las pérdidas de infraestructura física y de servicios locales.
+* Que la ejecución de este Programa estará a cargo de la Unidad de Coordinación del Programa - UCP, dependiente del Ministerio de Hacienda.
+* Que es preciso autorizar la suscripción del respectivo Convenio de Crédito con la Corporación Andina de Fomento - CAF, a objeto de materializar el financiamiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministro de Planificación del Desarrollo a suscribir con la Corporación Andina de Fomento - CAF, en nombre y representación del Gobierno de la República de Bolivia, el Contrato de Préstamo por $us15.000.000.- (QUINCE MILLONES 00/100 DOLARES AMERICANOS), destinados a financiar el Programa de Atención de Emergencias Naturales Bolivia 2006.
+2. Se autoriza la suscripción de la Resolución Bi - Ministerial entre el Ministerio de Planificación del Desarrollo y el Ministerio de Hacienda, en coordinación con el Viceministerio de Inversión Pública y Financiamiento Externo, para la transferencia de los recursos externos y ejecución del contrato de préstamo a la Unidad de Coordinación del Programa - UCP.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Planificación del Desarrollo y Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de febrero del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Walter Juvenal Delgadillo Terceros, Victor Cáceres Rodríguez, Nila Heredia Miranda.

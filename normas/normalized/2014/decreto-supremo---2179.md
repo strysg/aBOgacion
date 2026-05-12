@@ -1,0 +1,134 @@
+# Bolivia: Reglamento a la Ley Nº 306, de 8 de noviembre de 2012, de Promoción y desarrollo artesanal, DS Nº 2179, 12 de noviembre de 2014
+
+[Decreto Supremo Nº 2179](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+REGLAMENTO A LA [Ley Nº 306](#TODO-link), DE 8 DE NOVIEMBRE DE 2012, DE PROMOCIÓN Y DESARROLLO ARTESANAL
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 47 de la [Constitución Política del Estado](#TODO-link), establece que las trabajadoras y los trabajadores de pequeñas unidades productivas urbanas o rurales, por cuenta propia, y gremialistas en general, gozarán por parte del Estado de un régimen de protección especial mediante una política de intercambio comercial equitativo y de precios justos para sus productos, así como la asignación preferente de recursos económicos financieros para incentivar su producción.
+* Que los numerales 1 y 3 del Artículo 334 del Texto Constitucional, determinan que en el marco de las políticas sectoriales, el Estado protegerá y fomentará: Las organizaciones económicas campesinas, y las asociaciones u organizaciones de pequeños productores urbanos, artesanos, como alternativas solidarias y recíprocas. La política económica facilitará el acceso a la capacitación técnica y a la tecnología, a los créditos, a la apertura de mercados y al mejoramiento de procesos productivos; y, La producción artesanal con identidad cultural.
+* Que el Artículo 2 de la [Ley Nº 306](#TODO-link), de 8 de noviembre de 2012, de Promoción y Desarrollo Artesanal, dispone que la finalidad de la citada Ley es facilitar el acceso del sector artesanal al financiamiento, asistencia técnica, capacitación, acceso a mercados, recuperación y difusión de sus saberes, técnicas, aptitudes y habilidades de las artesanas y los artesanos, en el marco del desarrollo integral del Estado Plurinacional, creando conciencia en la población sobre su importancia económica, social y cultural.
+* Que el Artículo 3 del [Decreto Supremo Nº 29727](#TODO-link), de 1 de octubre de 2008, señala que PRO - BOLIVIA está destinada a impulsar el cambio de la matriz productiva nacional a través del incremento de la agregación de valor a la producción primaria, transformación tecnológica, alza de la productividad, diversificación productiva y mayor generación de excedentes e ingresos en la producción artesanal, agroindustrial, manufacturera e industrial, participando en la creación, consolidación, modernización y tecnificación de los emprendimientos productivos del conjunto de las Unidades Productivas urbanas y rurales del país.
+* Que el inciso d) del Artículo 64 del [Decreto Supremo Nº 29894](#TODO-link), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece como atribución de la Ministra(o) de Desarrollo Productivo y Economía Plural, entre otros, plantear y ejecutar políticas dirigidas a buscar el acceso a mercados nacionales y externos; y promoción de compras estatales en favor de las unidades productivas entendiéndose estas, a las micro, pequeña, mediana, gran empresa, industria, organizaciones económicas campesinas, asociaciones, organizaciones de pequeños productores urbanos y/o rurales, artesanos, organizaciones económico comunitaria y social cooperativa, precautelando el abastecimiento del mercado interno.
+* Que es necesario dictar las normas reglamentarias correspondientes a los diversos aspectos de la actividad artesanal, regulados por la [Ley Nº 306](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la [Ley Nº 306](#TODO-link), de 8 de noviembre de 2012, de Promoción y Desarrollo Artesanal, que reconoce, protege, fomenta, promueve y promociona el desarrollo sostenible del sector productivo artesanal.
+
+## Capítulo II Régimen orgánico y promoción
+
+**Artículo 2°.- (Órgano rector)** El Ministerio de Desarrollo Productivo y Economía Plural, a través del Viceministerio de la Micro y Pequeña Empresa, se constituye en el Órgano Rector encargado del cumplimiento e implementación de la [Ley Nº 306](#TODO-link) y el presente Decreto Supremo.
+
+**Artículo 3°.- (Organización del sector artesanal)** El sector artesanal se organiza de la siguiente manera:
+
+1. **Unidad Familiar Artesanal**: Grupo de personas ligados por parentesco, que tienen una cultura, ritos, ceremonias y valores comunes, sobre todo dedicados a la actividad artesanal;
+2. **Asociación de Artesanos**: Es la aglutinación voluntaria y legalmente reconocida de varias personas dedicadas a la actividad artesanal; con el fin de ejercer representación de las mismas en procura de mejores condiciones de vida y trabajo para las artesanas y los artesanos.
+
+**Artículo 4°.- (Coordinación)** 
+
+1. Con el propósito de desarrollar y promocionar la actividad artesanal, a través de programas y proyectos de capacitación, preservación, apoyo a la comercialización y difusión de la actividad artesanal a nivel internacional, nacional, regional, departamental y municipal; el Órgano Rector a través del Consejo de Coordinación Sectorial de Desarrollo Productivo, podrá concertar con las entidades territoriales autónomas, la gestión de recursos e inscripción en sus correspondientes Programas Operativos Anuales, para el diseño y/o implementación de estos programas y proyectos.
+2. El Ministerio de Desarrollo Productivo y Economía Plural, a través del Viceministerio de Comercio Interno y Exportaciones y PROMUEVE - BOLIVIA, podrán coordinar con los gobiernos autónomos departamentales, regionales, municipales, e indígena originario campesinos y otras instituciones competentes encargadas de la promoción de las exportaciones y turismo, en el marco de sus competencias, el acceso a los mercados internos y externos de las artesanas y los artesanos productores.
+3. El Ministerio de Desarrollo Productivo y Economía Plural y el Ministerio de Culturas y Turismo, podrán coordinar con las entidades territoriales autónomas, y los organismos privados del sector turístico y artesanal, el diseño, ejecución y supervisión de programas y proyectos; incorporando la producción artesanal a circuitos y/o productos turísticos, haciendo prevalecer la imagen nacional, el valor cultural y ecológico de los productos a ser comercializados.
+
+**Artículo 5°.- (Acceso)** Las artesanas y los artesanos, previa inscripción en el Registro Nacional Artesanal, podrán:
+
+1. Acceder al Programa Nacional de Promoción a la Actividad Artesanal, así como a programas, proyectos de apoyo y otros de fomento al sector artesanal productivo;
+2. Participar en Comités Departamentales, Regionales, Municipales e Indígena Originarios Campesinos de Artesanía.
+
+**Artículo 6°.- (Fomento financiero y técnico)** El Ministerio de Desarrollo Productivo y Economía Plural en el marco de sus atribuciones, desarrollará proyectos orientados a la promoción de acceso a financiamiento, capacitaciones, asistencias técnicas, en condiciones favorables y preferenciales para su mejoramiento técnico económico y desarrollo de tecnologías apropiadas para el sector productivo artesanal.
+
+**Artículo 7°.- (Centros de formación artesanal)** La creación de los Centros de Formación Artesanal, bajo modalidad de Convenio Interinstitucional se sujetará a reglamento específico emitido por el Ministerio de Educación, en coordinación con el Ministerio de Desarrollo Productivo y Economía Plural, en el marco de las previsiones establecidas en la [Ley Nº 070](#TODO-link), de 20 de diciembre de 2010, de la Educación “Avelino Siñani - Elizardo Pérez”.
+
+**Artículo 8°.- (Certificación de competencias)** El Ministerio de Educación en coordinación con el Ministerio de Desarrollo Productivo y Economía Plural elaborará, ajustará y validará los estándares ocupacionales para el sector productivo artesanal; así mismo, evaluará a las artesanas y artesanos en el marco del Sistema Plurinacional de Certificación de Competencias, para tal efecto el Ministerio de Educación como instancia responsable de la certificación, emitirá el instrumento jurídico correspondiente.
+
+**Artículo 9°.- (Becas)** 
+
+1. En el marco de la responsabilidad social, las instituciones educativas privadas que impartan procesos formativos vinculados al sector productivo artesanal, deberán establecer en su Reglamento de Becas, la disponibilidad de una determinada cantidad de becas para las artesanas y artesanos que serán beneficiados como resultado de un proceso de convocatoria, propuesta por el Ministerio de Educación en coordinación con el Ministerio de Desarrollo Productivo y Economía Plural y el Ministerio de Relaciones Exteriores.
+2. El Ministerio de Desarrollo Productivo y Economía Plural, coordinará con el Ministerio de Educación y el Ministerio de Relaciones Exteriores para suscribir convenios dirigidos a otorgar becas de capacitación y especialización.
+
+## Capítulo III Feria Plurinacional Artesanal y acceso a mercados
+
+**Artículo 10°.- (Objetivos de la feria)** La Feria Plurinacional Artesanal, tendrá como objetivos:
+
+1. Fortalecer el sector productivo artesanal;
+2. Promover la comercialización de la producción artesanal boliviana;
+3. Rescatar y preservar la identidad y los valores de la actividad artesanal;
+4. Realizar rueda de negocios que promuevan la comercialización de productos artesanales; y
+5. Difundir las expresiones culturales artesanales.
+
+**Artículo 11°.- (Promoción y difusión de la feria)** El Ministerio de Comunicación en el marco de sus competencias y a requerimiento específico del Ministerio de Desarrollo Productivo y Economía Plural, realizará la promoción y difusión de la Feria Plurinacional Artesanal, en medios de comunicación social, de acuerdo a su disponibilidad financiera.
+
+**Artículo 12°.- (Acceso a mercados externos)** Para el acceso al mercado externo, el Ministerio de Desarrollo Productivo y Economía Plural, a través del Viceministerio de Comercio Interno y Exportaciones y PROMUEVE - BOLIVIA, en el marco de sus competencias, brindarán el apoyo técnico y logístico necesario para la exportación de la producción de las artesanas y artesanos, en el marco de la normativa, convenios y tratados vigentes.
+
+## Capítulo IV Centros artesanales y propiedad intelectual
+
+**Artículo 13°.- (Centros artesanales)** El Órgano Rector, a través del Consejo de Coordinación Sectorial de Desarrollo Productivo, podrá concertar con las entidades territoriales autónomas, la dotación de infraestructura para la creación de Centros Artesanales.
+
+**Artículo 14°.- (Derechos de autor y/o propiedad intelectual)** El Órgano Rector a través del Servicio Nacional de Propiedad Intelectual - SENAPI, en el marco de sus competencias, realizará el registro de los derechos de autor y/o propiedad intelectual de las artesanas y artesanos, a objeto de mantener una información actualizada sobre la materia y desarrollar una política de protección de la artesanía nacional.
+
+## Capítulo V Registro y sistema nacional de información artesanal
+
+**Artículo 15°.- (Registro nacional artesanal y certificación)** 
+
+1. El Registro Nacional Artesanal - RNA, tiene carácter obligatorio para todas las artesanas y artesanos, talleres y asociaciones productivas artesanales y cooperativas artesanales, contemplados en las categorías de arte popular, artesanía utilitaria, artesanía de servicios y artesanía urbana y rural con identidad cultural, siendo la entidad responsable de su administración PRO - BOLIVIA.
+2. El Certificado de Registro otorgado por PRO - BOLIVIA, constituirá un requisito para acceder a los incentivos que establece la [Ley Nº 306](#TODO-link), además de los beneficios emergentes del Sistema Nacional de Información Artesanal - SINIART que sean otorgados por el Ministerio de Desarrollo Productivo y Economía Plural y/o sus entidades.
+3. El procedimiento y requisitos para la emisión del Certificado de Registro, serán establecidos mediante Resolución Ministerial emitido por el Ministerio de Desarrollo Productivo y Economía Plural.
+4. La vigencia del Certificado de Registro tendrá una duración de dos (2) años.
+
+**Artículo 16°.- (Información registrada)** La información y documentación presentada será considerada bajo el principio de buena fe y tendrá calidad de Declaración Jurada, pudiendo PRO - BOLIVIA realizar en cualquier momento verificaciones respecto a lo presentado y/o declarado.
+
+**Artículo 17°.- (Sistema Nacional de Información Artesanal)** 
+
+1. PRO - BOLIVIA es la entidad encargada de la administración y funcionamiento del SINIART.
+2. Su organización y funcionamiento serán financiados y reglamentados por el Ministerio de Desarrollo Productivo y Economía Plural.
+
+## Capítulo VI Consejo Boliviano de la Artesanía
+
+**Artículo 18°.- (Consejo Boliviano de la Artesanía)** El Consejo Boliviano de la Artesanía, es un órgano de coordinación entre el sector público y el sector privado, vinculado a la actividad artesanal, tiene carácter consultivo, de promoción y desarrollo en materia de la actividad productiva artesanal.
+
+**Artículo 19°.- (Conformación y designación)** 
+
+1. Los representantes de los siguientes ministerios que componen el Consejo Boliviano de la Artesanía, serán designados mediante Resolución Ministerial, de acuerdo a sus atribuciones y competencias:
+   1. Dos (2) representantes titulares y un (1) alterno del Ministerio de Desarrollo Productivo y Economía Plural;
+   2. Dos (2) representantes titulares y un (1) alterno del Ministerio de Educación;
+   3. Dos (2) representantes titulares y un (1) alterno del Ministerio de Planificación del Desarrollo;
+   4. Dos (2) representantes titulares y un (1) alterno del Ministerio de Culturas y Turismo.
+2. Los representantes de las siguientes organizaciones artesanales pertenecientes al Consejo Boliviano de la Artesanía, deberán estar acreditados por sus entes matrices, mediante instrumentos legales válidos y en concordancia con sus Estatutos de Constitución.
+   1. Un (1) representante de la Confederación Sindical de Trabajadores Artesanos de Bolivia - CSTAB;
+   2. Un (1) representante de la Unión Nacional de Productores del Arte Popular de Bolivia - UNAPB;
+   3. Un (1) representante de la Central Única de Artesanos de Bolivia - CUTAB;
+   4. Un (1) representante de la Red de Organizaciones Económicas de Productores Artesanos con Identidad Cultural - OEPAIC.
+3. La designación de los miembros del Consejo Boliviano de la Artesanía será por dos (2) años y deberá contemplar equidad de género entre sus representantes.
+4. Los miembros del Consejo Boliviano de la Artesanía, no percibirán remuneración o dieta alguna por el ejercicio de las funciones propias del Consejo.
+
+**Artículo 20°.- (Reuniones del Consejo)** El Consejo se reunirá de manera ordinaria dos (2) veces al año y de manera extraordinaria las veces que sean necesarias.
+
+**Artículo 21°.- (Presidencia y Secretaría Técnica Ejecutiva)** 
+
+1. El Consejo Boliviano de la Artesanía, estará presidido por el Ministerio de Desarrollo Productivo y Economía Plural.
+2. El Consejo Boliviano de la Artesanía, tendrá una Secretaría Técnica Ejecutiva, encargada de coordinar acciones ligadas al cumplimiento de sus funciones, dependiente del Viceministerio de la Micro y Pequeña Empresa del Ministerio de Desarrollo Productivo y Economía Plural.
+
+## Capítulo VII Cultura ecológica y preservación ambiental en el sector artesanal
+
+**Artículo 22°.- (Protección ecológica)** El Ministerio de Medio Ambiente y Agua, en el marco de sus competencias, supervisará el desarrollo productivo sustentable, preservando los recursos naturales genéticos, biodiversidad y del medio ambiente, respetando los usos y costumbres, sin atentar contra el medio ambiente y el equilibrio ecológico, en el proceso de transformación.
+
+## Disposiciones transitorias
+
+**Artículo transitorio Único.-** El Ministerio de Desarrollo Productivo y Economía Plural, en coordinación con el Ministerio de Culturas y Turismo, en el marco de sus competencias, aprobarán el “Reglamento de la Feria Plurinacional Artesanal”, en un plazo no mayor a noventa (90) días a partir de la publicación del presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Relaciones Exteriores, de Planificación del Desarrollo, de Desarrollo Productivo y Economía Plural, de Medio Ambiente y Agua, de Educación, de Culturas y Turismo, y de Comunicación, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de noviembre del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Jorge Perez Valenzuela, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora MINISTRO DE ECONOMÍA Y FINANZAS PÚBLICAS E INTERINO DE DESARROLLO RURAL Y TIERRAS, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

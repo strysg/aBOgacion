@@ -1,0 +1,34 @@
+# Bolivia: Decreto Supremo Nº 1847, 24 de diciembre de 2013
+
+Decreto Supremo Nº 1847
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 24 de la [Ley Nº 211](#TODO-link), de 23 de diciembre de 2011, del Presupuesto General del Estado - Gestión 2012, vigente por disposición del inciso g) de la Disposición Final Segunda de la [Ley Nº 317](#TODO-link), de 11 de diciembre de 2012, del Presupuesto General del Estado - Gestión 2013, determina que los ex Entes Gestores de la Seguridad Social que administraban los seguros de Invalidez, Vejez, Jubilación, Muerte y Riesgos Profesionales a largo plazo del antiguo Sistema de Reparto, que actualmente se encuentran bajo administración del Estado Plurinacional, mantendrán su personalidad jurídica sólo a efectos de su cierre y liquidación misma que estará a cargo del Liquidador designado por la Máxima Autoridad Ejecutiva del Ministerio de Economía y Finanzas Públicas.
+* Que el numeral 9 del Artículo 7 del [Decreto Supremo Nº 28565](#TODO-link), de 22 de diciembre de 2005, dispone como competencia básica del Servicio Nacional de Patrimonio del Estado - SENAPE, concluir los procesos de liquidación de los ex Entes Gestores de la Seguridad Social, a través del o de los liquidadores nombrados por el Ministerio de Hacienda, actual Ministerio de Economía y Finanzas Públicas.
+* Que el Servicio General de Identificación Personal - SEGIP, requiere contar con infraestructura adecuada para el cumplimiento de sus objetivos, para lo cual es necesario que adquiera a título oneroso, un inmueble en la ciudad de Trinidad del Departamento del Beni.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del Liquidador de los ex Entes Gestores de la Seguridad Social, a transferir a título oneroso el bien inmueble ubicado en las calles La Paz y Santa Cruz, de la ciudad de Trinidad del Departamento del Beni, inscrito en Derechos Reales bajo la Matrícula Nº 8.01.1.01.0013057, de propiedad del Fondo de Pensiones de Trabajadores de la Banca Privada, a favor del Servicio General de Identificación Personal - SEGIP.
+2. El SEGIP, por la transferencia del inmueble citado en el Parágrafo precedente, pagará el monto equivalente en US$152.464,64 (CIENTO CINCUENTA Y DOS mil CUATROCIENTOS SESENTA Y CUATRO 64/100 DÓLARES ESTADOUNIDENSES) al tipo de cambio vigente a la fecha de pago, que serán depositados a la cuenta del Tesoro General de la Nación - TGN, con cargo a la partida presupuestaria 41100 “Edificios”, inscrita en el presupuesto del SEGIP, de acuerdo al siguiente plan de pagos:
+   1. $us50.821,55 (CINCUENTA mil novecientos veintiún 55/100 DÓLARES ESTADOUNIDENSES) como intencionalidad de compra en la gestión 2013;
+   2. $us50.821,55 (CINCUENTA mil novecientos veintiún 55/100 DÓLARES ESTADOUNIDENSES) en la gestión 2014;
+   3. $us50.821,54 (CINCUENTA mil novecientos veintiún 54/100 DÓLARES ESTADOUNIDENSES) en la gestión 2015.
+3. El Liquidador de los ex Entes Gestores de la Seguridad Social, estará a cargo de la suscripción de la minuta de transferencia por cuenta del Ministro de Economía y Finanzas Públicas, una vez que se haya cancelado el primer pago del monto establecido en el Parágrafo anterior.
+
+---
+
+Los señores Ministros de Estado en los despachos de Gobierno, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de diciembre del año dos mil trece.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

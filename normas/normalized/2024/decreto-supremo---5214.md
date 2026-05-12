@@ -1,0 +1,41 @@
+# Bolivia: Decreto Supremo Nº 5214, 4 de septiembre de 2024
+
+Decreto Supremo Nº 5214
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 58 de la [Constitución Política del Estado](#TODO-link) considera niña, niño o adolescente a toda persona menor de edad. Las niñas, niños y adolescentes son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta, y de los derechos específicos inherentes a su proceso de desarrollo; a su identidad étnica, sociocultural, de género y generacional; y a la satisfacción de sus necesidades, intereses y aspiraciones.
+* Que el Parágrafo II del Artículo 59 del Texto Constitucional establece que toda niña, niño y adolescente tiene derecho a vivir y a crecer en el seno de su familia de origen o adoptiva. Cuando ello no sea posible, o sea contrario a su interés superior, tendrá derecho a una familia sustituta, de conformidad con la Ley.
+* Que el Artículo 60 de la [Constitución Política del Estado](#TODO-link) dispone que es deber del Estado, la sociedad y la familia garantizar la prioridad del interés superior de la niña, niño y adolescente, que comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, la prioridad en la atención de los servicios públicos y privados, y el acceso a una administración de justicia pronta, oportuna y con asistencia de personal especializado.
+* Que el numeral 1 del Artículo 9 de la Convención sobre los Derechos del Niño, ratificada por [Ley Nº 1152](#TODO-link), de 14 de mayo de 1990, señala que los Estados Partes velarán por que el niño no sea separado de sus padres contra la voluntad de éstos, excepto cuando, a reserva de revisión judicial, las autoridades competentes determinen, de conformidad con la ley y los procedimientos aplicables, que tal separación es necesaria en el interés superior del niño.
+* Que la [Ley Nº 548](#TODO-link), de 17 de julio de 2014, Código Niña, Niño y Adolescente, tiene por objeto reconocer, desarrollar y regular el ejercicio de los derechos de la niña, niño y adolescente, implementando un Sistema Plurinacional Integral de la Niña, Niño y Adolescente, para la garantía de esos derechos mediante la corresponsabilidad del Estado en todos sus niveles, la familia y la sociedad.
+* Que el inciso a) del Artículo 12 de la [Ley Nº 548](#TODO-link) establece que el Interés Superior es el principio por el cual se entiende toda situación que favorezca el desarrollo integral de la niña, niño y adolescente en el goce de sus derechos y garantías. Para determinar el interés superior de las niñas, niños y adolescentes en una situación concreta, se debe apreciar su opinión y de la madre, padre o ambos padres, guardadora o guardador, tutora o tutor; la necesidad de equilibrio entre sus derechos, garantías y deberes; su condición específica como persona en desarrollo; la necesidad de equilibrio entre sus derechos y garantías, y los derechos de las demás personas.
+* Que el Parágrafo I del Artículo 35 de la [Ley Nº 548](#TODO-link) dispone que las niñas, niños y adolescentes tienen derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad en su familia de origen o excepcionalmente, cuando ello no sea posible o contrario a su interés superior, en una familia sustituta que el asegure la convivencia familiar y comunitaria.
+* Que el Parágrafo III del Artículo 163 de la [Ley Nº 548](#TODO-link) señala que las Políticas de Protección Integral, se implementarán a través de la formulación, ejecución, evaluación y seguimiento de planes, programas y proyectos.
+* Que el inciso a) del Parágrafo I del Artículo 164 de la [Ley Nº 548](#TODO-link) establece que, dentro de las políticas públicas en materia de Protección Integral de la Niña, Niño y Adolescente, se encuentra la política de Prevención que, comprenden políticas y programas de prevención y promoción de derechos en cuanto a situaciones que pudieran atentar contra la integridad y dignidad de niñas, niños y adolescentes, y sus derechos reconocidos en el citado Código.
+* Que los incisos a), c) y d) del Artículo 165 de la [Ley Nº 548](#TODO-link) dispone que los fines prioritarios que persiguen las Políticas de Protección Integral de la Niña, Niño y Adolescente son, el fortalecimiento del papel fundamental de la familia; la definición de acciones públicas que garanticen el pleno goce de los derechos de niñas, niños y adolescentes; y la implementación de estrategias que garanticen la efectiva y eficiente articulación de las decisiones estatales y la gestión pública, en todos sus niveles, en lo que respecta a la protección de los derechos de niñas, niños y adolescentes.
+* Que el Parágrafo IV del Artículo 4 del [Decreto Supremo Nº 2377](#TODO-link), de 27 de mayo de 2015, Reglamento a la [Ley Nº 548](#TODO-link), Código Niña, Niño y Adolescente, señala que la armonización de Políticas de Protección Integral de la Niña, Niño y Adolescente con las Políticas Sectoriales del Estado Plurinacional en el Plan Plurinacional de la Niña, Niño y Adolescente, en el nivel central, deberá considerar con claridad las responsabilidades intersectoriales, evitando la dispersión de recursos y esfuerzos, así como las doctrinas de protección para el desarrollo integral y de la promoción del protagonismo de niñas, niños y adolescentes.
+* Que el Artículo 17 del [Decreto Supremo Nº 2377](#TODO-link) establece que, en la formulación y ejecución de políticas públicas y programas de fomento a la cultura de paz y resolución de conflictos dentro de la familia para la prevención del abandono de niñas, niños y adolescentes, las entidades de atención priorizarán la preservación y el fortalecimiento de los vínculos familiares.
+* Que las niñas, niños y adolescentes tienen el derecho a vivir, desarrollarse y educarse en un entorno afectivo, seguro y protector fuera de los efectos de la institucionalización, por lo que corresponde establecer lineamientos conceptuales, estratégicos e institucionales para fortalecer el trabajo desarrollado en prevención y restitución del derecho a vivir en familia, a través de la aprobación de una política específica.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Con la finalidad de establecer los lineamientos conceptuales, estratégicos e institucionales para que las niñas, niños y adolescentes tengan la oportunidad de crecer bajo el ciudado y protección de una familia, se aprueba la Política Pública Plurinacional de Prevención del Abandono y Derecho a Vivir en Familia de Niñas, Niños y Adolescentes, que en Anexo forma parte indisoluble del presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Justicia y Transparencia Institucional, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los cuatro días del mes de septiembre del año dos mil veinticuatro.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Celinda Sosa Lunda, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Alejandro Gallardo Baldiviezo, Néstor Huanca Chura, Edgar Montaño Rojas, Alejandro Santos Laura, Iván Manolo Lima Magne, Erland Julio Rodríguez Lafuente, María Renee Castro Cusicanqui, Humberto Alan Lisperguer Rosales, Omar Veliz Ramos, Juan Yamil Flores Lazo, Esperanza Guevara.
+
+# Anexo Política Pública Plurinacional de prevención del abandono y derecho a vivir en familia de niñas, niños y adolescentes - 2024
+
+Política pública plurinacional de prevención del abandono y derecho a vivir en familia de niñas, niños y adolescentes - 2024

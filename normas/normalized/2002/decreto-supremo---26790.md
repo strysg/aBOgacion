@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 26790, 13 de septiembre de 2002
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2235](#TODO-link), de 31 de julio de 2000, del Diálogo Nacional, establece los lineamientos básicos para la gestión de la Estrategia de Reducción de la Pobreza y dispone las modificaciones en las estructuras y competencias institucionales de los órganos públicos responsables de la ejecución de los programas de reducción de pobreza.
+* Que los Artículo 20º, 21º y 23º de dicha Ley establece las directrices generales de organización del Fondo Nacional de Desarrollo Regional - FNDR, el Fondo Nacional de Inversión Productiva y Social - FPS y crea el Directorio Único de Fondos - DUF, con el objetivo de ser los ejecutores del Programa de Reducción de la Pobreza.
+* Que las actuales estructuras de los órganos públicos mencionados se encuentran sobredimensionadas, lo que produce lentitud y burocracia en sus operaciones, con la consiguiente imposibilidad de reaccionar con rapidez y efectividad; motivo por el cual, se hace necesario reorganizar dichas entidades reduciendo su tamaño a las necesidades reales y orientándolas a privilegiar el financiamiento de los proyectos de inversión municipal con generación de empleos.
+* Que es potestad del Presidente de la República establecer las políticas públicas relacionadas con la administración de dichas entidades, con el objeto de que cumplan una función administrativa eficiente y eficaz, y que obtenga como efecto principal la generación de empleos.
+* Que para el logro de tal objetivo es necesario proceder al reordenamiento administrativo y financiero de las citadas Instituciones, con la finalidad de movilizar en forma rápida, eficiente, eficaz y transparente los recursos de inversión social y desarrollo urbano, con la participación de los municipios y mancomunidades, en el marco de la normativa necesaria para el efecto.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposicion general
+
+**Artículo Único.-** Se instruye al Presidente del Directorio Único de Fondos, al Director Ejecutivo del Fondo Nacional de Desarrollo Regional y al Director Ejecutivo del Fondo Nacional de Inversión Productiva y Social proceder al reordenamiento administrativo de sus respectivas Instituciones, en el plazo máximo de 45 días a partir de la promulgación del presente Decreto Supremo, debiendo remitir al Poder Ejecutivo, los instrumentos técnicos y jurídicos que sean necesarios para su aprobación y aplicación en el indicado reordenamiento.
+
+---
+
+El Señor Ministro de Estado en la Cartera de Desarrollo Sostenible y Planificación, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de septiembre del año dos mil dos.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Victor Rico Frontaura Ministro Interino de RR. EE. y Culto, Carlos Sánchez Berzain, Alberto Gasser Vargas, Freddy Teodovich Ortiz, Gina Luz Méndez Hurtado, José Guillermo Justiniano Sandoval, Javier Comboni Salinas, Oscar Farfán Mealla, Arturo Liebers Baldivieso, Juan Carlos Virreira Méndez, Fernando Illanes de la Riva, Isaac Maidana Quisbert, Javier Torres Goitia Caballero, Jaime Navarro Tardio, Hernán Paredes Muñoz, Javier Suárez Ramírez, Silvia Amparo Velarde Olmos.

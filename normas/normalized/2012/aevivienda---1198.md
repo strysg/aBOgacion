@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 1198, 18 de abril de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 0986](#TODO-link), de 21 de septiembre de 2011, crea la Agencia Estatal de Vivienda - AEVIVIENDA, como institución pública descentralizada de derecho público, con personalidad jurídica, autonomía de gestión administrativa, financiera, legal y técnica, y patrimonio propio, bajo tuición del Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que el Artículo 30 de la [Ley Nº 062](#TODO-link), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, vigente por el inciso c) de la Disposición Final Tercera de la [Ley Nº 211](#TODO-link), de 23 de diciembre de 2011, del Presupuesto General del Estado - Gestión 2012, autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo, dependiente del Ministerio de Planificación del Desarrollo, en el marco de sus competencias, inscribir y/o incrementar el gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que a fin de cumplir con los objetivos institucionales, la AEVIVIENDA requiere incrementar el gasto de consultorías de línea y por producto, para la contratación del personal técnico especializado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Agencia Estatal de Vivienda - AEVIVIENDA incrementar las subpartidas 25210 “Consultorías por Producto” en Bs172.300.- (CIENTO SETENTA Y DOS mil TRESCIENTOS 00/100 BOLIVIANOS) y 25220 “Consultores de Línea” en Bs208.900.-(DOSCIENTOS OCHO mil novecientos 00/100 BOLIVIANOS), financiadas con fuente 20 “Recursos Específicos”, a través de un traspaso presupuestario intrainstitucional, afectando la subpartida 26990 “Otros” en Bs381.200.- (TRESCIENTOS OCHENTA Y UN mil DOSCIENTOS 00/100 BOLIVIANOS), destinadas a la contratación de consultorías que contribuirán a atender la demanda de viviendas de interés social favoreciendo a los sectores de menores ingresos de la población boliviana.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de abril del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Felipe Quispe Quenta, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

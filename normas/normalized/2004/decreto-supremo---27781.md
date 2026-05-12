@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 27781, 8 de octubre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2446](#TODO-link) de 19 de marzo de 2003 - Ley de Organización del Poder Ejecutivo, señala que las atribuciones del Ministerio de Hacienda son las de formular, ejecutar y controlar la política fiscal nacional en materia de presupuesto, contaduría, tesorería, crédito público, política tributaria, inversión publica, política de endeudamiento y financiamiento externo.
+* Que la [Ley Nº 2446](#TODO-link) señala que las atribuciones específicas del Ministerio de Asuntos Campesinos y Agropecuarios son las de ejercer y fomentar el desarrollo económico y social de las comunidades campesinas e indígenas y, proteger sus derechos sociales.
+* Que el [Decreto Supremo Nº 22879](#TODO-link) de 26 de julio de 1992, dispone la entrega de los equipos integrales Hanne a favor del Ministerio de Asuntos Campesinos y Agropecuarios.
+* Que el [Decreto Supremo Nº 23368](#TODO-link) de 22 de diciembre de 1992, autorizó al Ministro de Asuntos Campesinos y Agropecuarios, el remate en subasta pública nacional o internacional, del lote de maquinaria almacenada en Puerto Rosario, República de Argentina.
+* Que el [Decreto Supremo Nº 27127](#TODO-link) de 14 de agosto de 2003, faculta al Ministerio de Asuntos Campesinos y Agropecuarios, realizar el trámite ante el Ministerio de Hacienda para la emisión correspondiente de notas de Crédito Fiscal, en relación con los equipos integrales Hanne.
+* Que el [Decreto Supremo Nº 27174](#TODO-link) de 15 de septiembre de 2003, establece que el Ministerio de Asuntos Campesinos y Agropecuarios debe efectuar los trámites necesarios ante el Ministerio de Hacienda para la emisión de notas de crédito fiscal con cargo a su presupuesto, para el pago de los tributos aduaneros de importación y los servicios de almacenaje que se adeudan por el depósito de 99 tractores marca FIAT y 10 cajones con estructuras de cabinas para tractores.
+* Que las Resoluciones Ministeriales Nº 097 y Nº 098 de 5 de julio de 2004, autorizan a la Dirección General de Asuntos Administrativos del Ministerio de Asuntos Campesinos y Agropecuarios, a efectuar el Traspaso Interinstitucional ante el Ministerio de Hacienda, para regular la situación de los Carritos Hanne y Tractores Puerto Rosario.
+* Que mediante Nota MACA - DESPACHO 532 - 2004 de 6 de julio del 2004, el Ministro de Asuntos Campesinos y Agropecuarios solicitó al Ministro de Hacienda, traspasos interinstitucionales sobre los Carritos Hanne y Tractores Puerto Rosario.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. El presente Decreto Supremo tiene por objeto autorizar el traspaso interinstitucional para el Ministerio de Asuntos Campesinos y Agropecuarios, para regularizar la situación legal de los Carritos Hanne y Tractores Puerto Rosario, de acuerdo a los anexos adjuntos y, que forman parte indisoluble del presente Decreto Supremo.
+2. La Dirección General de Asuntos Administrativos del Ministerio de Asuntos Campesinos y Agropecuarios queda autorizada a efectuar los trámites pertinentes ante el Ministerio de Hacienda, para realizar el traspaso interinstitucional para la Gestión 2004.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y, Asuntos Campesinos y Agropecuarios quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de octubre del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saul Lara Torrico, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Guillermo Torres Orías, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

@@ -1,0 +1,74 @@
+# Bolivia: Decreto Supremo Nº 25988, 16 de noviembre de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Decreto Supremo Nº 24914](#TODO-link) de 5 de diciembre de 1997 y disposiciones modificatorias fue aprobado el Reglamento sobre el Régimen de Precios de los Productos del Petróleo, mismos que establecen la metodología de cálculo de los precios máximos finales de los carburantes, entre ellos el gas licuado de petróleo (GLP).
+* Que el precio del crudo y de los productos refinados de referencia en el mercado internacional registraron un acelerado y continuo incremento.
+* Que como resultado del mencionado incremento y el método de cálculo de precios para el mercado interno, los precios del GLP tendian a reflejar alzas significativas.
+* Que mediante [Decreto Supremo Nº 25588](#TODO-link) de 19 de noviembre de 1999, fue adjudicada la Licitación Pública Nacional e Internacional MCEI/YPFB/UR/LIC de las Refinerías Gualberto Villarroel y Guillermo Elder Bell, a favor del consorcio “Asociación Petrobras Bolivia S. A. Perez Company Internacional”, en las condiciones establecidas en el Pliego de Condiciones de la Licitación.
+* Que mediante circular aclaratoria al proceso de privatización se señaló que la eliminación del subsidio del GLP será gradual conforme a las determinaciones del Consejo Nacional de Política Económica, el mismo que tenía un valor de $us -7.39 por barril en la fecha de adjudicación de las refinerías, modificándose a $us -8.30 por barril el 24 de noviembre de 1999, mediante [Decreto Supremo Nº 25598](#TODO-link).
+* Que mediante [Decreto Supremo Nº 25614](#TODO-link) de 13 de diciembre de 1999, se estableció dos mecanismos para eliminar gradualmente el subsidio del GLP, hasta el 31 de marzo del 2001: mediante ajuste del margen refinería del GLP con variaciones negativas de los precios de referencia; y con un mecanismo de modificaciones por periodos fijos, posteriormente, la implementación del mecanismo para eliminar gradualmente el GLP fue postergado en repetidas oportunidades.
+* Que mediante [Decreto Supremo Nº 25842](#TODO-link) de 14 de julio de 2000, se restablece el mecanismo de modificaciones por periodos fijos.
+* Que no se registraron nuevas variaciones negativas en los precios de referencia hasta la fecha.
+* Que se debe garantizar el abastecimiento del Gas Licuado de Petróleo en todo el país.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Abrogación)** Abrógase el [Decreto Supremo Nº 25842](#TODO-link) de 14 de julio de 2000.
+
+**Artículo 2°.- (Margen Refinería)** El Margen Refinería de Gas Licuado de Petróleo (GLP), a ser utilizado para el cálculo del precio exrefineria, a ser pagado por YPFB a partir de la promulgación del presente Decreto Supremo, será de menos cuatro punto dieciocho dólares americanos por barril ($us -4.18 por BBL), más el valor resultante de la aplicación del mecanismo descrito en el siguiente artículo.
+
+**Artículo 3°.- (Mecanismo de Ajuste)** Introdúcese el siguiente mecanismo de ajuste por periodos fijos para el precio exrefineria de GLP a ser pagado por YPFB.
+  
+Al margen de refinería señalado en el Artículo 2 ($us -4.18/Bbl) del presente reglamento, se adicionará el monto resultante de aplicar la siguiente formula en valor absoluto, por períodos de 60 días, a partir del 1 de noviembre del 2000 (01/11/2000):
+  
+MRS = MR2/((DR + 60 días)/60días)
+  
+Donde:
+  
+MRS = Monto en valor absoluto a ser adicionado al margen refineria señalado en Artículo 2 ($us - 4.18/Bbl) del presente Decreto Supremo.
+  
+MR2 = Margen de refinería señalado en el Artículo 2 ($us -4.18/Bbl) del presente reglamento.
+  
+DR = Número de días restantes entre la fecha de cálculo de la reducción del subsidio y el 31 de Marzo de 2001.
+  
+El cálculo descrito en la formula precedente será realizado hasta el período de 60 días inmediatamente anterior al 31 de marzo de 2001 (31/03/2001).
+  
+La última reducción del margen de refinería señalado en el Artículo 2 del presente Decreto Supremo se realizará el 31 de marzo de 2001 (31/03/2001), fecha en la que el margen deberá alcanzar el valor de cero dólares por barril ($us 0.00 por barril).
+
+**Artículo 4°.- (Emisión de Notas de Crédito)** Autorizasé al Tesoro General de la Nación, emitir Notas de Crédito Fiscal Negociables, a favor de Yacimientos Petrolíferos Fiscales Bolivianos:
+
+1. Por el valor resultante de la siguiente formula:
+     
+   MR1 = MR - 4.18
+     
+   Donde:
+     
+   MR1 = Monto en valor absoluto a ser emitido de Notas de Crédito Fiscal.
+     
+   MR = Margen de refinería en valor absoluto, vigente a la fecha de cálculo.
+2. Y, por el valor resultante de la aplicación de la fórmula del Artículo 3.
+     
+   Para fines de cálculo:
+     
+   - YPFB comprará el GLP a precio exrefineria más el valor resultante de la aplicación del Artículo 2, más el valor resultante de la formula del Artículo 3 del presente reglamento.
+     
+   - YPFB venderá el GLP a precio máximo final menos margen minorista publicados por la Superintendencia de Hidrocarburos.
+
+**Artículo 5°.- (Vigencia)** El mecanismo especificado en la fórmula del artículo 3 del presente Decreto Supremo, será aplicada hasta el 31 de marzo de 2001.
+
+**Artículo 6°.- (Cálculo de Precio)** Los mecanismos de compensación señalados en éste Decreto Supremo, no deben modificar los márgenes ni el cálculo de precios establecido mediante [Decreto Supremo Nº 24914](#TODO-link) de 5 de diciembre de 1997, modificado por [Decreto Supremo Nº 25530](#TODO-link) de fecha 30 de Septiembre de 1999.
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Económico queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de noviembre del año dos mil.
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo, MINISTRO INTERINO DE RR. EE. Y CULTO, Wálter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Carlos Saavedra Bruno, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

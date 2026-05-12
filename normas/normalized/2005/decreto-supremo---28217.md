@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 28217, 24 de junio de 2005
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, dentro del marco de austeridad y racionalización del gasto de las entidades públicas, establece que cualquier incremento en las partidas 25200 "Estudios e Investigaciones", 25800 "Estudios e Investigaciones" para Proyectos de "Inversión" y 46200 "Estudios y Proyectos para Construcciones de Bienes de Dominio Público" deberá ser aprobado mediante Decreto Supremo.
+* Que de acuerdo a lo establecido en la R. A.05-42/88 y R. A 05-34/92 del Servicio de Impuestos Nacionales - SIN y la [Ley Nº 843](#TODO-link), los Estados Financieros de una gestión concluida, requieren ser auditados y dictaminados, por lo que para dicho fin YPFB, contrató a la empresa Berthin Amengual & Asociados, a la cual de acuerdo a Contrato Nº 103/2005, ya se el adeuda el primer pago.
+* Que es importante el cumplimiento del Memorándum de Entendimiento suscrito en fecha 27 de junio entre los Gobiernos de Bolivia y Canadá, consistente en la Cooperación Técnica entre las dos naciones con relación al Proyecto de Hidrocarburos en Bolivia, con la finalidad de fortalecer las operaciones y las instituciones responsables en Bolivia, servicio que debe ser retribuido en cuanto a gastos de honorarios, estadías y otros, que se adeudan de enero hasta abril de 2005.
+* Que es necesaria la contratación de Servicios de Copiado de Datos Sísmicos, perfiles de Pozos y Sistema de Información Geográfica S. I. G., con el objeto de seleccionar, clasificar y copiar la información de los registros electrónicos de sísmica de campo que se encuentra en cintas magnéticas, a un sistema digital adecuado que brinde un mejor servicio a Yacimientos Petrolíferos Fiscales Bolivianos - YPFB.
+* Que es necesaria la contratación de Servicios de Consultoría en Desarrollo de Software, para la adecuación y actualización del sistema informático de facturación para la utilización en la Gerencia de Control de Exportación, asimismo, para complementar y actualizar los sistemas informáticos administrativos existentes en YPFB.
+* Que de acuerdo a lo dispuesto en Artículo 44 de la [Ley Nº 843](#TODO-link) y normas contables, se debe realizar la valuación de los bienes del Activo, por lo que será necesaria la contratación de los servicios de consultoría para la realización de la Revalorización Técnica de los Activos Fijos, para que se refleje una adecuada valuación en los Estados Financieros.
+* Que YPFB, requiere la inscripción del presupuesto en la gestión 2005, de un monto total de Bs.1.705.650.- (UN MILLON novecientos CINCO mil SEISCIENTOS CINCUENTA 00/100 BOLIVIANOS) con Fuentede Financiamiento 20: Recursos Específicos, para cubrir los gastos en la contratación de Servicios de Auditoria Externa por Bs.450.000.-, Servicios de Asesoría - Cooperación Técnica, según Convenio suscrito entre Bolivia y Canadá "Hydrocarbon Projet" por Bs.600.000.-, Servicios de Copiado de Datos Sísmicos, perfiles de Pozos y Sistema de Información Geográfica - SIG por Bs.448.250.-, Servicios de Consultoría en Desarrollo de Software por Bs.82.000.- y Servicios de Revalorización Técnica de Activos Fijos por Bs.125.400.-
+* Que en el Anteproyecto de Presupuesto de YPFB para la gestión 2005, presentado al Ministerio de Hacienda en fecha 23 de septiembre de 2004, consideró el monto de Bs.1.705.650.- (UN MILLON novecientos CINCO mil SEISCIENTOS CINCUENTA 00/100 BOLIVIANOS) en el Programa 00 PRS-VPNC partida de gasto 25200 "Estudios e Investigaciones", con Fuentede Financiamiento 20: Recursos Específicos, el mismo que fue recortado por el Ministerio de Hacienda en el Presupuesto Aprobado.
+* Que mediante Resolución Administrativa PRS-001-2005 de fecha 5 de enero de 2005, se realizó el traspaso presupuestario para reponer el monto de Bs.1.705.650.- (UN MILLON novecientos CINCO mil SEISCIENTOS CINCUENTA 00/100 BOLIVIANOS) que por restricciones del SIGMA se registró provisionalmente a la partida de gasto 26990 "Otros Servicios no Personales".
+* Que mediante Resolución Administrativa PRS-018-2005 de fecha 23 de marzo de 2005, se aprueba el traspaso Presupuestario Intrainstitucional en el marco de [Decreto Supremo Nº 27849](#TODO-link) de 12 de noviembre de 2004 "Reglamento de Modificaciones Presupuestarias", a objeto de contar con saldos presupuestarios para cubrir obligaciones por contratación de servicios de consultoría y otros.
+* Que para viabilizar el tramite, mediante nota Nº VPAF-134-DFN-306 DVPS-43/05 se envió al Ministerio de Hacienda, toda la documentación sobre el mencionado Traspaso Presupuestario Intrainstitucional, el mismo que fue devuelto en fecha 29 de abril de 2005 con nota DPP/CE-1157/V-1265/D-1060/2005, para que continúe el proceso correspondiente en base al Informe favorable DPP/126/2005 emitido por la Dirección General de Presupuesto dependiente del Ministerio de Hacienda.
+* Que entre las partidas presupuestarias para su inscripción se cuenta con la partida 25200 "Estudios e Investigaciones", la misma que en aplicación al Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link), requiere ser aprobada mediante Decreto Supremo.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](#TODO-link) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 23 de junio de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba la inscripción de la Partida 25200 "Estudios e Investigaciones” en el presupuesto del Programa 00: Presidencia Ejecutiva-Vicepresidencia de Negociaciones Internacionales y Contratos, dependiente de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, por un monto de Bs. [Ley Nº 705](#TODO-link).650.- (UN MILLON novecientos CINCO mil SEISCIENTOS CINCUENTA 00/100 BOLIVIANOS), mediante el traspaso presupuestario instrainstitucional de la Partida 26990 “Otros Servicios No Personales.”
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de junio del año dos mil cinco.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Luis Carlos Jemio Mollinedo, Irma Elizabeth Peredo Obleas, Carlos Melchor Díaz Villavicencio, Mario Moreno Viruéz, Jaime Eduardo Dunn Castellanos, Maria Cristina Mejía Barragán, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Guillermo Rivera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

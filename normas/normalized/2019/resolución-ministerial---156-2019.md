@@ -1,0 +1,89 @@
+# Bolivia: Resolución Ministerial de 2 de octubre de 2019
+
+RESOLUCIÓN MINISTERIAL Nº 156
+  
+La Paz, 22 de julio de 2019
+
+VISTOS Y CONSIDERANDO:
+
+* Que la [Ley Nº 165](#TODO-link) de 16 de agosto de 2011, General de Transporte, modificada por la [Ley Nº 821](#TODO-link) de 16 de agosto de 2016, determina en el parágrafo II del artículo 191, que para la importación de vehículos automotores, se deberá cumplir con las Normas de Emisiones Atmosféricas EURO o equivalentes. La Norma de Emisiones Atmosféricas EURO IV o equivalentes a otras posteriores, serán aplicadas una vez que los combustibles producidos e importados por el Estado Plurinacional de Bolivia cumplan con la calidad exigida por estas Normas.
+* Que el párrafo segundo del artículo 82 de la [Ley Nº 1990](#TODO-link) de 28 de julio de 1999, Ley General de Aduanas, establece que a los efectos de los regímenes aduaneros se considera iniciada la operación de importación con el embarque de la mercancía en el país de origen o de procedencia, acreditada mediante el correspondiente documento de transporte.
+* Que el Reglamento a la Ley General de Aduanas aprobado por [Decreto Supremo Nº 25870](#TODO-link), de 11 de agosto de 2000, establece las prohibiciones y autorizaciones previas para la importación o ingreso de mercancías a territorio nacional, así como las certificaciones para el despacho aduanero de mercancías.
+* Que en tal sentido, se ha emitido el [Decreto Supremo Nº 3244](#TODO-link) de 05 de julio de 2017, mismo que en su artículo Único establece: El Ministerio de Obras Públicas, Servicios y Vivienda, a través del Viceministerio de Trasportes, otorgará Autorizaciones Previas por medio electrónico, para la importación de vehículos automotores, que acrediten el cumplimiento de las condiciones medioambientales establecidas en el parágrafo II del artículo 191 de la [Ley Nº 165](#TODO-link) de 16 de agosto de 2011, General de Transporte, modificado por la [Ley Nº 821](#TODO-link) de 16 de agosto de 2016, identificados en el Anexo adjunto al presente Decreto Supremo, en un plazo de hasta diez (10) días hábiles a partir de la fecha de recepción de la solicitud. II. Para dar cumplimiento al parágrafo precedente, el documento que acredite las condiciones medioambientales, emitido al fabricante por un laboratorio debidamente acreditado para el efecto, se constituiría en requisito indispensable para que el Ministerio de Obras Públicas, Servicios y Vivienda, otorgue la Autorización Previa.
+* Que la Resolución Ministerial N° 351 de 21 de diciembre de 2018, en el Resuelve Primero, aprueba el Reglamento para la Emisión de Autorizaciones Previas para Vehículos Automotores Antiguos y Vehículos Automotores para Reacondicionamiento y anexo(...)
+* Que el numeral 10 de la Resolución Ministerial N° 351, señala que, para la otorgación de las Autorizaciones Previas para vehículos de las Misiones Diplomáticas y Organismos Internacionales se emitirá un reglamento en el marco de la Convención de Viena sobre Relaciones Diplomáticas de 18 de abril de 1961, la [Ley Nº 456](#TODO-link) de 14 de diciembre de 2013 que eleva a rango de Ley del [Decreto Supremo Nº 10529](#TODO-link) de 13 de octubre de 1972 que ratifica la convención de Viena, la [Ley Nº 465](#TODO-link) de 19 de diciembre de 2013 Ley del Servicio de Relaciones Exteriores del Estado Plurinacional de Bolivia y el [Decreto Supremo Nº 22225](#TODO-link) de 16 de junio de 1989 que aprueba el Reglamento de Exenciones Tributarias para Importaciones.
+* Que por lo descrito, el Viceministerio de Transportes ha elaborado el proyecto de Reglamento para la emisión del documento de ingreso para Vehículos de las Misiones Diplomáticas y Organismos Internacionales, y de la revisión del mismo, se ve la necesidad de la aprobación del referido Reglamento ya que se debe contar con un procedimiento especial para este tipo de vehículos en el marco de la Convención de Viena.
+* Que el Informe Técnico INF/MOPSV/VMT/DGTTFL N°0189/2019, de 08 de julio de 2019, la Encargada Ambiental del Sector de Transportes del Viceministerio de Transportes, concluye señalando:
+  - Podrán ingresar al país los vehículos que cumplan con las condiciones medio ambientales establecidas en el Parágrafo II del Artículo 191 de la [Ley Nº 165](#TODO-link), de 16 de agosto de 2011, General de Transporte, modificado por la [Ley Nº 821](#TODO-link), de 16 de agosto de 2016, para lo cual deberán contar con una Autorización previa emitida por el Viceministerio de Transportes.
+  - Sin embargo, existe normativa específica de mayor jerarquía y su aplicación preferente para las Misiones Diplomáticas y Organismos Internacionales en lo que se refiere a las Autorizaciones Previas para la Importación de vehículos.
+  - En este contexto, se realizó la propuesta de REGLAMENTO PARA EMISIÓN DEL DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMÁTICAS Y ORGANISMOS INTERNACIONALES que tiene por objeto dar cumplimiento al punto 10 del Reglamento para la Emisión de las Autorizaciones Previas para Vehículos Automotores Antiguos y Vehículos Automotores para Reacondicionamiento aprobado con Resolución Ministerial N° 351 de 21.12.2018.
+  - El Reglamento Técnico propuesto, contempla a los vehículos de las Misiones Diplomáticas y Organismos Internacionales, debido a la necesidad de contar con un procedimiento especial para este tipo de vehículos en el marco de la Convención de Viena y otra normativa que regula a las Misiones Diplomáticas y Organismos Internacionales.
+* Que mediante Informe Jurídico MOPSV - DGAJ Nº 367/2019 de 11 de julio de 2019, la Dirección General de Asuntos Jurídicos del Ministerio de Obras Públicas, Servicios y Vivienda, recomienda aprobar a través de Resolución Ministerial el Reglamento para la Emisión del Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales.
+
+POR TANTO:
+
+**Artículo Único.-** El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones contenidas en el Numeral 22) del Parágrafo I del Artículo 14 del [Decreto Supremo Nº 29894](#TODO-link), de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional.
+  
+RESUELVE:
+
+**Primero .-** Aprobar el Reglamento para la Emisión del Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales, que en Anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+
+**Segundo .-** Aprobar los Informes Técnico INF/MOPSV/VMT/DGTTFL N°0189/2019, de 08 de julio de 2019, emitido por el Viceministerio de Transportes y Legal MOPSV - DGAJ N° 367/2019, de 11 de julio de 2019, emitido por la Dirección General de Asuntos Jurídicos sobre el Reglamento para la Emisión del Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales, que en Anexo forma parte integrante e indivisible de la Presente Resolución Ministerial.
+
+**Tercero .-** La presente Resolución Ministerial entrará en vigencia una vez sea publicada.
+
+**Cuarto .-** Se instruye al Viceministerio de Transportes realizar la publicación y el cumplimiento de la presente Resolución Ministerial.
+
+---
+
+Comuníquese, regístrese y archívese.
+  
+FDO. Oscar Coca Antezana MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA.
+
+# Anexo Reglamento para la emisión del documento de ingreso para vehículos automotores de las misiones diplomáticas y organismos internacionales
+
+REGLAMENTO PARA LA EMISIÓN DEL DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMÁTICAS Y ORGANISMOS INTERNACIONALES
+1. OBJETO
+Aprobar el Reglamento para la Emisión del Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales, dando cumplimiento al punto 10 de la Resolución Ministerial N° 351 de 21 de diciembre de 2018, que aprueba el Reglamento para la Emisión de las Autorizaciones Previas para Vehículos Automotores Antiguos y Vehículos Automotores para Reacondicionamiento.
+2. CAMPO DE APLICACIÓN
+El presente Reglamento, se aplicará a los vehículos automotores nuevos, antiguos y para reacondicionamiento de las Misiones Diplomáticas y los Organismos Internacionales.
+3. DEFINICIONES
+3.1 Vehículo Automotor. Es todo medio de transporte motorizado que sirve para transportar personas o mercancías.
+3.2 Vehículo Automotor nuevo. Vehículo automotor cuyo año del modelo corresponde a la gestión vigente o la gestión siguiente.
+3.3 Vehículo Automotor antiguo. Vehículo automotor usado o sin uso, que de acuerdo al año modelo correspondan a gestiones anteriores a la vigente.
+3.4 Vehículo Automotor para reacondicionamiento. Vehículo automotor destinados a Zonas Francas Industriales conforme lo establece el [Decreto Supremo Nº 28963](#TODO-link) de 06 de diciembre de 2006.
+4. CONTENIDO TÉCNICO ESPECÍFICO DEL REGLAMENTO
+4.1 CONDICIONES GENERALES
+La presente reglamentación establece los procedimientos de verificación para la emisión del Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales en el marco de la Convención de Viena.
+4.2 REQUISITOS
+4.2.1 REQUISITOS PARA LA SOLICITUD DE DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMÁTICAS Y ORGANISMOS INTERNACIONALES
+Toda persona natural o jurídica que desee obtener el Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales, deberá registrarse en línea por única vez en el Sistema Informático de Otorgación de Autorizaciones Previas - SIOAP de la página oficial del Ministerio de Obras Públicas, Servicios y Vivienda, siguiendo el procedimiento establecido en el Reglamento para la Emisión de las Autorizaciones Previas para Vehículos Automotores Nuevos o en el Reglamento para la Emisión de las Autorizaciones Previas para Vehículos Automotores Antiguos y Vehículos Automotores para Reacondicionamiento.
+Una vez obtenido el “usuario del SIOAP”, el solicitante para obtener el Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales, deberá cargar datos y completar en el SIOAP los siguientes documentos en formato digital:
+N° DOCUMENTO
+1 Formulario de registro en el sistema SIOAP
+2 Documento que acredite el vehículo que ingresará al país para las Misiones Diplomáticas y Organismos Internacionales
+La información a ser presentada deberá ser cargada en el formulario de registro en la plataforma SIOAP por el solicitante y tendrá carácter de Declaración Jurada.
+El Viceministerio de Transportes podrá requerir al solicitante la presentación de documentos originales cargados al SIOAP, en caso de que lo considere necesario.
+4.2.2 SOLICITUD DE DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMATICAS Y ORGANISMOS INTERNACIONALES
+Al momento de recibir la solicitud electrónica en el SIOAP, el servidor público dependiente del Viceministerio de Transportes, efectuará una revisión de la documentación presentada - en un plazo máximo de dos (2) días hábiles - respecto a los siguientes puntos:
+· Formulario de solicitud de emisión de Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales debidamente llenado.
+· La documentación requerida y datos, se encuentran completos y vigentes.
+En caso de cumplir con la presentación de los requisitos antes señalados, la solicitud será admitida formalmente. En caso de no ser admitida la solicitud de Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales se comunicará al solicitante a través de la emisión del respectivo mensaje electrónico.
+La solicitud admitida formalmente será procesada por el Viceministerio de Transportes, emitiéndose el Informe de Evaluación, en el que se consigna el resultado de la evaluación de documentos presentados en un plazo máximo de dos (2) días hábiles, pudiendo ser la solicitud:
+· Aprobada
+· Observada
+· Rechazada
+4.2.2.1 SOLICITUD DEL DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMÁTICAS Y ORGANISMOS INTERNACIONALES - APROBADO
+En caso de que el trámite sea aprobado, el Viceministerio de Transportes en un plazo máximo de un (1) día hábil emitirá el Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales, para tal efecto para tal efecto el SIOAP generará un código que permitirá al solicitante la impresión del Documento de Ingreso del Vehículo Automotor a importar.
+El Viceministerio de Transportes habilitará el Documento de Ingreso en el SIOAP, el cual se enlazará al sistema informático de la Aduana Nacional, a efectos de su verificación al momento de la importación y su posterior despacho aduanero.
+4.2.2.2 SOLICITUD DEL DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMÁTICAS Y ORGANISMOS INTERNACIONALES - OBSERVADO
+En caso de que el Viceministerio de Transportes observe la solicitud de Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales deberá cargar al SIOAP las observaciones de manera detallada, comunicando las mismas al solicitante a través de un mensaje electrónico, quien tendrá un plazo de hasta dos (2) días hábiles desde su comunicación, para subsanar lo observado a través del SIOAP.
+Una vez que el solicitante subsane las observaciones, el Viceministerio de Transportes verificará si las mismas fueron subsanadas y en el plazo de un (1) día hábil emitirá el Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales.
+En caso de que el solicitante no subsane las observaciones realizadas por el Viceministerio de Transportes en el plazo establecido, el SIOAP enviará un mensaje electrónico al solicitante comunicando el rechazo de la solicitud debiendo iniciar el trámite nuevamente.
+4.2.2.3 SOLICITUD DEL DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMÁTICAS Y ORGANISMOS INTERNACIONALES - RECHAZADO
+En caso de que la solicitud de Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales sea rechazada, en un plazo de un (1) día hábil desde su recepción, el Viceministerio de Transportes enviará un mensaje electrónico al solicitante, comunicando las causas que motivan el Rechazo de la solicitud.
+El solicitante, si así lo requiere, podrá iniciar un nuevo trámite.
+4.3 VIGENCIA DEL DOCUMENTO DE INGRESO PARA VEHÍCULOS AUTOMOTORES DE LAS MISIONES DIPLOMÁTICAS Y ORGANISMOS INTERNACIONALES
+El Documento de Ingreso para Vehículos Automotores de las Misiones Diplomáticas y Organismos Internacionales emitido por el Viceministerio de Transportes, tendrá una vigencia de ciento ochenta (180) días calendario a partir de la fecha de su emisión.
+5. ENTRADA EN VIGENCIA
+El presente Reglamento entrará en vigencia una vez que la Resolución Ministerial que lo aprueba sea publicada.

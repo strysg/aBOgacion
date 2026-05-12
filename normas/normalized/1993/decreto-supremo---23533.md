@@ -1,0 +1,61 @@
+# Bolivia: Decreto Supremo Nº 23533, 17 de junio de 1993
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el artículo 24 de la Ley Orgánica de las Fuerzas Armadas de la Nación 1405 de 30 de diciembre de 1992 designa con el nombre de Subsecretaría de la FUERZA NAVAL, a la anterior Subsecretaría de la Armada e Intereses Marítimos sin variar su organización, puesta en vigencia por los decretos supremos [Nº 18176](#TODO-link) de 9 de abril de 1981 y [Nº 22723](#TODO-link) de 30 de enero de 1991;
+* Que el [Decreto Supremo Nº 18176](#TODO-link) aprobó el estatuto de la indicada subsecretaría, así como la descripción de funciones y organigrama, con sujeción a la ley financial y demás disposiciones vigentes en la materia;
+* Que es necesario para los efectos de reconocimiento internacional, incluir en el nombre de la Subsecretaría, los vocablos “naval”, como función castrense, e “intereses marítimos”, como actividad civil complementaria;
+* Que se debe tomar las previsiones para la aplicación armonizada de la política de los intereses marítimos del país, a los efectos del cumplimiento de las convenciones, convenios y acuerdos suscritos a nivel internacional, regional y subregional, con el objeto de facilitar el comercio y el transporte por vía acuática, así como la participación de Bolivia en la explotación de los recursos del mar;
+* Que corresponde incorporar a los funcionarios civiles de la Subsecretaría Naval y de Intereses Marítimos, especializados en la atención de los intereses marítimos del país, al programa de carrera en la administración pública, en cumplimiento del [Decreto Supremo Nº 23326](#TODO-link) de 10 de noviembre de 1992;
+* Que los artículos 6 y 9 del estatuto de la Subsecretaría de Intereses Marítimos Fluviales y Lacustres, aprobado por [Decreto Supremo Nº 18176](#TODO-link), deben ser precisados y complementados de acuerdo con la evolución de la administración de los intereses marítimos del país;
+* Que es necesario, en cumplimiento del articulo 138 de la [Ley Nº 1405](#TODO-link) de 30 de diciembre de 1992, determinar la competencia y funciones de la Subsecretaría de la Fuerza Naval.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Ratifícase la jurisdicción y competencia de la Subsecretaría de la Fuerza Naval sobre el sector intereses marítimos y el subsector transporte por agua.
+
+**Artículo 2°.-** El nombre correcto y real de la Subsecretaría de la Fuerza Naval es SUBSECRETARIA NAVAL Y DE INTERESES MARITIMOS, para los efectos de reconocimiento internacional.
+
+**Artículo 3°.-** Se mantiene bajo la jurisdicción y competencia de la subsecretaría Naval y de Intereses Marítimos: la navegación y transporte fluvial y lacustre, los intereses marítimos, la formulación, conducción y ejecución de la política de la marina mercante, puertos y vias navegables del país, así como la utilización de los mares, ríos y lagos, como fuente de recursos económicos, previstos en el artículo 2 del [Decreto Supremo Nº 22723](#TODO-link) y en la convención del derecho del mar.
+
+**Artículo 4°.-** La Subsecretaría Naval y de Intereses Marítimos se regirá por el estatuto y organización, aprobados por [Decreto Supremo Nº 18176](#TODO-link) de 9 de abril de 1981, en sus 6 capítulos y 10 artículos.
+
+**Artículo 5°.-** Se autoriza a la Subsecretaría Naval y de Intereses Marítimos dictar resoluciones administrativas internas, en todo lo concerniente a la jurisdicción y competencia establecida en el artículo 3 del presente decreto.
+
+**Artículo 6°.-** Se incorpora al programa de Carrera en la Administración Pública a los funcionarios civiles que prestan servicios en la Subsecretaría Naval y de Intereses Marítimos, especializados en la atención de los intereses marítimos del país, en materia de marina mercante, puertos, vías navegables y recursos económicos del mar.
+
+**Artículo 7°.-** Se amplía el artículo 6 del estatuto de la Subsecretaría de Intereses Marítimos Fluviales y Lacustres, que en su nueva redacción dira:
+> “Artículo 6.- Forman asimismo parte integrante y dependen de la Subsecretaría, las siguientes entidades descentralizadas:
+>   
+> - Dirección General de Capitanías de Puerto.
+>   
+> - Servicio de Hidrografía Naval.
+>   
+> - Unidad ejecutiva de Puerto Busch.
+>   
+> - Servicio al Mejoramiento de la Navegación Amazónica (SEMENA).
+>   
+> - Empresa Naviera Boliviana (ENABOL)”
+
+.
+
+**Artículo 8°.-** Modifícase el artículo 9 del estatuto de la Subsecretaría de Intereses Marítimos, Fluviales y Lacustres, que en su nueva redacción dirá:
+> “Artículo 9.- La Subsecretaría es un organismo técnico especializado, responsable del subsector transporte por agua, dependiente del Ministerio de Defensa Nacional, con autonomía de gestión financiera y administrativa”
+
+.
+
+**Artículo 9°.-** Derógase las disposiciones contrarias a este decreto supremo.
+
+---
+
+Los señores Ministros de Estado en los despachos de Defensa Nacional y Finanzas quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de junio de mil novecientos noventa y tres años.
+  
+Fdo. JAIME PAZ ZAMORA, Ronald MacLean Abaroa, Carlos Saavedra Bruno., Gustavo Fernández Saavedra, Alberto Saenz Klinsky, Roberto Peña Rodriguez, Samuel Doria Medina Auza, Pablo Zegarra Arana, Emma Navajas de Alandia, Carlos Aponte Pinto, Fernando Campero Prudencio, Jaime Vega Quiroga Min. Trabajo y Desarrollo Laboral a. i., Guillermo Cuentas Yañez Min. Previsión Social y Salud Pública a. i., Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Herbert Muller Costas, Germán Velasco Cortés, José Luis Lupo Flores.

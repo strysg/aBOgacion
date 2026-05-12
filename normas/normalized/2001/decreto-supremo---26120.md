@@ -1,0 +1,40 @@
+# Bolivia: Decreto Supremo Nº 26120, 22 de marzo de 2001
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la ejecución del Proyecto Múltiple Misicuni, que beneficia al Departamento de Cochabamba con la dotación de agua para consumo humano, doméstico y riego, así como para la generación de energía eléctrica, fue declarada de prioridad y urgencia nacional mediante [Ley Nº 559](#TODO-link) de 14 de septiembre de 1983.
+* Que mediante [Ley Nº 951](#TODO-link) de 22 de octubre de 1987 se ha creado la Empresa Misicuni, como entidad de derecho público, con autonomía de gestión técnica, administrativa y financiera, encargada de la ejecución y administración del Proyecto Múltiple Misicuni.
+* Que por [Decreto Supremo Nº 24841](#TODO-link) de 12 de Septiembre de 1997 se autorizó al Directorio de la Empresa Misicuni a suscribir el Contrato de Construcción del Primer Tramo del Túnel de Trasvase de los Ríos Titiri y Serkheta con el consorcio ASTALDI - ICE.
+* Que mediante escrituras públicas 2263/97 y 2264/97, ambas otorgadas el 14 de noviembre de 1997 ante la Dra. Gretzell Vidaurre, Notario de Gobierno de la ciudad de Cochabamba, la Empresa Misicuni suscribió con las empresas ASTALDI S. p. A. e ICE Ingenieros S. A. integradas en el Consorcio ASTALDI - ICE, el “Contrato de Construcción del Túnel de Trasvase de los ríos Titiri - Serkheta entre la ventana Calio y la Falla Misicuni” y el “Contrato de Construcción de las obras del Túnel Principal del Proyecto Múltiple Misicuni entre el Túnel de Trasvase y la Bocatoma de Embalse”, respectivamente, para la ejecución de las Obras de la Primera Etapa del Proyecto Múltiple Misicuni.
+* Que el avance de obra objeto de los Contratos de Construcción señalados, confronta atrasos que provocan que la entrega y recepción provisional de la misma no pueda efectuarse en la fecha originalmente prevista para el 5 de mayo de 2001.
+* Que con el propósito de dar una solución estructural al problema de abastecimiento de agua potable y riego de los municipios y tierras agrícolas de los valles del Departamento de Cochabamba, el Gobierno Nacional ha formulado una estrategia integral de desarrollo de los recursos hídricos, entre los que figura la ejecución y la conclusión del Proyecto Múltiple Misicuni.
+* Que un hito importante dentro del Proyecto Múltiple Misicuni constituye la construcción del Primer Tramo del Túnel de Trasvase de los Ríos Titiri y Serkheta,
+* Que es prioridad del Supremo Gobierno dar solución a las necesidades de agua potable y agua para riego de la ciudad de Cochabamba y de los valles de Cochabamba y que la ejecución del Proyecto Múltiple Misicuni tiene carácter impostergable.
+* Que con este propósito, es necesario buscar medidas que permitan garantizar la conclusión de la construcción de las obras comprometidas en los contratos de construcción 2263/97 y 2264/97, sin modificar las condiciones técnicas de la construcción y el precio establecido en cada contrato, pero permitiendo que el plazo de conclusión y entrega provisional de las obras sea ampliado.
+* Que con el auspicio del Ministerio de Comercio Exterior e Inversión, la Empresa Misicuni y el Consorcio ASTALDI - ICE han sostenido una serie de reuniones con el fin de establecer los mecanismos más adecuados para asegurar y garantizar la conclusión de la construcción del Primer Tramo del Túnel de Trasvase de los Ríos Titiri y Serkheta.
+* Que las reuniones referidas han concluido con la redacción de los textos de un addendum al Contrato 2263/97 y un addendum al Contrato 2264/97, cuyos textos han sido presentados al Señor Ministro de Comercio Exterior e Inversión por parte de la Empresa Misicuni, mediante la nota EM. PRES.005/01 de 19 de marzo de 2001.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza e instruye a la Empresa Misicuni para que, a través del Presidente de su Directorio, suscriba los siguientes documentos, remitidos por dicha Empresa al Ministerio de Comercio Exterior e Inversión mediante nota EM. PRES.005/01 de fecha 19 de marzo de 2001:
+
+1. Addendum al Contrato 2263/97 de “Construcción de las Obras del Túnel de Trasvase de los Ríos Titiri y Serkheta” en sus doce cláusulas.
+2. Addendum al Contrato 2264/97de “Construcción de las Obras del Túnel Principal entre el Túnel de Trasvase y la Bocatoma de Embalse” en sus doce cláusulas.
+
+**Artículo 2°.-** Se autoriza a la Empresa Misicuni la modificación de la modalidad de entrega de Boletas de Garantía de Buena Ejecución establecidas en los contratos de construcción 2263/97 y 2264/97, a través de los documentos cuya suscripción se instruye en el artículo anterior, exigiendo al Consorcio Astaldi - ICE la presentación y entrega de boletas bancarias de garantía de buena ejecución por un monto equivalente al 10% (diez por ciento) del monto total de cada contrato, únicamente a tiempo de efectuarse la entrega provisional de las obras, adecuándose de esta manera a los requerimientos mínimos establecidos por las Normas Básicas del Sistema de Administración de Bienes y Servicios aprobadas mediante la Resolución Suprema Nº 216145 de 3 de agosto de 1995.
+  
+Las boletas de garantía de buena ejecución que hayan sido entregadas hasta la fecha por el Consorcio Astaldi - ICE en aplicación de lo establecido en los contratos de construcción 2263/97 y 2264/97, deberán mantenerse vigentes hasta la entrega provisional de las obras y serán devueltas por la Empresa Misicuni al Consorcio Astaldi - ICE, una vez que éste haya presentado las boletas de garantía de buena ejecución señaladas en el párrafo anterior.
+
+---
+
+El señor Ministro de Estado en el Despacho de Comercio Exterior e Inversión, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de marzo del año dos mil uno
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Marcelo Pérez Monasterios, Guillermo Fortún Suárez , Oscar Vargas Lorenzetti, Alberto Machicao Barbery MINISTRO INTERINO DE HACIENDA, Luis Vásquez Villamor, Carlos Saavedra Bruno, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto .

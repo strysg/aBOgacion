@@ -1,0 +1,51 @@
+# Bolivia: Decreto Supremo Nº 4802, 28 de septiembre de 2022
+
+[Decreto Supremo Nº 4802](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 323 de la [Constitución Política del Estado](#TODO-link), determina que la política fiscal se basa en los principios de capacidad económica, igualdad, progresividad, proporcionalidad, transparencia, universalidad, control, sencillez administrativa y capacidad recaudatoria.
+* Que el numeral 3 del Artículo 10 de la [Ley Nº 300](#TODO-link), de 15 de octubre de 2012, Marco de la Madre Tierra y Desarrollo Integral para Vivir Bien, establece que el Estado Plurinacional de Bolivia tiene la obligación de formular, implementar, realizar el monitoreo y evaluar las políticas, normas, estrategias, planes, programas y proyectos para el cumplimiento de los objetivos, metas e indicadores del Vivir Bien, a través del desarrollo integral en armonía y equilibrio con la Madre Tierra.
+* Que el Resultado 1.1.1 de la Meta 1.1 “Reconstruir la Economía Reinstaurando el Modelo Económico Social Comunitario Productivo con Estabilidad Macroeconómica” del Eje 1 “Reconstruyendo la Economía, Retomando la Estabilidad Macroeconómica y Social” del Plan de Desarrollo Económico y Social 2021-2025 “Reconstruyendo la Economía para Vivir Bien, hacia la Industrialización con Sustitución de Importaciones”, aprobado por [Ley Nº 1407](#TODO-link), de 9 de noviembre de 2021, señala que al 2025 se ha continuado de manera soberana con la implementación de medidas que permiten devolver al país la sostenibilidad macroeconómica y el crecimiento.
+* Que el Resultado 8.2.1 de la Meta 8.2 “Impulsar Acciones de Mitigación, Adaptación y Monitoreo para el Cambio Climático, con Medidas de Respuesta Efectiva a sus Impactos en Armonía y Equilibrio con la Madre Tierra” del Eje 8 “Medio Ambiente Sustentable y Equilibrado en Armonía con la Madre Tierra” del Plan de Desarrollo Económico y Social 2021-2025 “Reconstruyendo la Economía para Vivir Bien, hacia la Industrialización con Sustitución de Importaciones”, aprobado por [Ley Nº 1407](#TODO-link), dispone que al 2025 se ha defendido a nivel internacional los derechos de la Madre Tierra, en organismos subregionales, regionales y/o multilaterales.
+* Que el inciso l) del Artículo 46 del [Decreto Supremo Nº 29894](#TODO-link), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece como atribución de la Ministra(o) de Planificación del Desarrollo, gestionar, negociar y suscribir convenios de financiamiento externo, de Cooperación Económica y Financiera Internacional, en el marco del Plan de Desarrollo Económico y Social, en coordinación con los Ministerios de Relaciones Exteriores y Economía y Finanzas Públicas.
+* Que el inciso a) del Artículo 52 del [Decreto Supremo Nº 29894](#TODO-link), modificado por el Parágrafo I del Artículo 12 del [Decreto Supremo Nº 0429](#TODO-link), de 10 de febrero de 2010, señala que es atribución de la Ministra(o) de Economía y Finanzas Públicas, formular políticas macroeconómicas en el marco del Plan General de Desarrollo Económico y Social en coordinación con el Ministerio de Planificación del Desarrollo.
+* Que el [Decreto Supremo Nº 3364](#TODO-link), de 18 de octubre de 2017, determina las obligaciones de las Entidades que intervengan en el proceso de transferencia de recursos externos de crédito o donación oficial.
+* Que el Parágrafo I del Artículo 3 del [Decreto Supremo Nº 3364](#TODO-link), dispone que la transferencia de recursos externos de crédito será establecida mediante el Decreto Supremo que autorice la suscripción del Documento de Crédito. En el caso de recursos de donación, dicha transferencia operará con la suscripción del Documento de Donación.
+* Que se ha gestionado un préstamo con la Agencia Francesa de Desarrollo - AFD, para el financiamiento del “Programa de Apoyo a la Reactivación Económica Sostenible y a la Resiliencia al Cambio Climático en Bolivia”.
+* Que es necesario autorizar la suscripción del Convenio de Crédito CBO 1037 02 L con la AFD, a objeto de materializar el financiamiento para la ejecución del “Programa de Apoyo a la Reactivación Económica Sostenible y a la Resiliencia al Cambio Climático en Bolivia”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto:
+
+1. Autorizar la suscripción del Convenio de Crédito CBO 1037 02 L con la Agencia Francesa de Desarrollo - AFD, para financiar el “Programa de Apoyo a la Reactivación Económica Sostenible y a la Resiliencia al Cambio Climático en Bolivia”;
+2. Disponer la transferencia de los recursos externos de crédito a la Libreta de Recursos Ordinarios de la Cuenta Única del Tesoro - CUT.
+
+**Artículo 2°.- (Autorización)** 
+
+1. Se autoriza al Ministro de Planificación del Desarrollo, en nombre y representación del Estado Plurinacional de Bolivia, a suscribir con la AFD, el Convenio de Crédito CBO 1037 02 L por un monto de hasta EUR200.000.000.- (DOSCIENTOS MILLONES 00/100 EUROS), para financiar el “Programa de Apoyo a la Reactivación Económica Sostenible y a la Resiliencia al Cambio Climático en Bolivia”.
+2. Suscrito el Convenio de Crédito CBO 1037 02 L con la AFD, éste deberá ser remitido a consideración y aprobación de la Asamblea Legislativa Plurinacional, en cumplimiento a lo dispuesto en el numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](#TODO-link).
+
+**Artículo 3°.- (Transferencia de recursos externos de crédito)** 
+
+1. Cumplida la formalidad prevista en el Parágrafo II del Artículo 2 del presente Decreto Supremo, se otorga en calidad de transferencia los recursos del Convenio de Crédito CBO 1037 02 L con la AFD, mismos que serán depositados en la Libreta de Recursos Ordinarios de la CUT.
+2. Los Ministerios de Economía y Finanzas Públicas, y de Planificación del Desarrollo, en su condición de Organismos Ejecutores, quedan sujetos a lo establecido en el [Decreto Supremo Nº 3364](#TODO-link), de 18 de octubre de 2017, en lo que corresponda.
+     
+
+   # Disposiciones finales
+
+**Única.-** Los recursos establecidos en el Parágrafo I del Artículo 2 del presente Decreto Supremo podrán ser destinados a financiar las metas del Plan de Desarrollo Económico y Social 2021-2025 “Reconstruyendo la Economía para Vivir Bien, hacia la Industrialización con Sustitución de Importaciones”, aprobado por [Ley Nº 1407](#TODO-link), de 9 de noviembre de 2021.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintiocho días del mes de septiembre del año dos mil veintidós.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Ramiro Félix Villavicencio Niño De Guzmán, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada MINISTRA DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINA DE CULTURAS, DESCOLONIZACIÓN Y DESPATRIARCALIZACIÓN, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Edgar Pary Chambi, Remmy Rubén Gonzales Atila.

@@ -243,7 +243,7 @@ async def obtener_normas_desde_metadata(archivo=None):
         nombre_base = limpiar_nombre(norma['nombre'])
        
         # Buscar carpeta, sino existe crearla
-        ruta_carpeta = os.path.join("normas", anio)
+        ruta_carpeta = os.path.join("normas", "raw", anio)
         if not os.path.exists(ruta_carpeta):
             os.makedirs(ruta_carpeta)
 

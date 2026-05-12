@@ -1,0 +1,46 @@
+# Bolivia: Decreto Supremo Nº 383, 16 de diciembre de 2009
+
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 20 de la [Constitución Política del Estado](#TODO-link), reconoce como un derecho fundamental el acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones. Asimismo, establece que es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias.
+* Que el numeral 3 del Artículo 316 del citado Texto Constitucional establece que el Estado ejerce la dirección y el control de los sectores estratégicos de la economía.
+* Que el Artículo 378 de la [Constitución Política del Estado](#TODO-link) señala que las diferentes formas de energía y sus fuentes constituyen un recurso estratégico, su acceso es un derecho fundamental y esencial para el desarrollo integral y social del país, y se regirá por los principios de eficiencia, continuidad, adaptabilidad y preservación del medio ambiente; y que es facultad privativa del Estado el desarrollo de la cadena productiva energética en las etapas de generación, transporte y distribución, a través de empresas públicas, mixtas, instituciones sin fines de lucro, cooperativas, empresas privadas y empresas comunitarias y sociales con participación y control social; la cadena productiva energética no podrá estar sujeta exclusivamente a intereses privados ni podrá concesionarse.
+* Que el Artículo 15 de la [Ley Nº 1604](#TODO-link), de 21 de diciembre de 1994, de Electricidad, establece que las empresas eléctricas en el Sistema Interconectado Nacional, deberán estar disgregadas en empresas de Generación, Transmisión y Distribución, y dedicadas a una sola de estas actividades.
+* Que el Artículo 28 de la mencionada Ley, establece los requisitos para las solicitudes de concesión de servicio público y Licencia, los mismos que son detallados en el Artículo 7 del Reglamento de Concesiones, Licencias y Licencias Provisionales, aprobado mediante [Decreto Supremo Nº 24043](#TODO-link), de 28 de junio de 1995.
+* Que el Artículo Único de la [Ley Nº 3783](#TODO-link), de 23 de noviembre de 2007, que modifica el Artículo 65 de la [Ley Nº 1604](#TODO-link), faculta al organismo regulador del sector eléctrico a otorgar Concesiones, Licencias y Licencias Provisionales a personas colectivas constituidas como Empresas Públicas con el objeto de ejercer la industria eléctrica y a personas colectivas constituidas como Sociedades Anónimas, Sociedades de Economía Mixta, Sociedades de Responsabilidad Limitada y Cooperativas.
+* Que la [Ley Nº 1986](#TODO-link), de 22 de julio de 1999, declara la Necesidad Nacional el suministro de energía eléctrica a la ciudad de Trinidad Departamento del Beni instruyendo al Poder Ejecutivo, actual Órgano Ejecutivo, prestar toda la cooperación necesaria, a fin de lograr este objetivo a la brevedad posible.
+* Que el [Decreto Supremo Nº 29224](#TODO-link), de 9 de agosto de 2007, autoriza la formación de una Sociedad de Economía Mixta entre la Empresa Nacional de Electricidad S. A. ENDE y PDVSA BOLIVIA S. A., y aprueba la Escritura Constitutiva y Estatutos de ENDE ANDINA SAM; asimismo, el Artículo 5 establece que la participación estatal de ENDE ANDINA S. A. M. corresponde al sesenta por ciento (60%) del capital aportado.
+* Que el [Decreto Supremo Nº 29644](#TODO-link), de 16 de julio de 2008, establece la naturaleza jurídica de la Empresa Nacional de Electricidad - ENDE como empresa pública nacional estratégica y corporativa, con una estructura central y nuevas empresas de su propiedad. Bajo tales parámetros, se establece que ENDE operará y administrará empresas eléctricas de generación, transmisión y/o distribución, en forma directa, asociada con terceros o mediante su participación accionaria en sociedades anónimas, sociedades de economía mixta y otras dispuestas por Ley.
+* Que el [Decreto Supremo Nº 29635](#TODO-link), de 9 de julio de 2008, aprueba el “Programa Electricidad para Vivir con Dignidad”, que tiene como objetivo lograr el acceso universal al servicio público de electricidad en áreas urbanas y rurales, estableciendo cuatro (4) políticas fundamentales, desarrollar infraestructura eléctrica para atender las necesidades internas y generar excedentes con la exportación de electricidad; incrementar la cobertura del servicio eléctrico en el área urbana y rural para lograr la universalización del servicio de electricidad; soberanía e independencia energética; y consolidar la participación del Estado en el desarrollo de la industria eléctrica con soberanía y equidad social.
+* Que el Proyecto “Línea de Transmisión Eléctrica Caranavi - Trinidad” es una inversión pública que permitirá la integración del Sistema Aislado de Trinidad favoreciendo a mas de ciento cincuenta mil (150.000) familias en las poblaciones que se encuentran a lo largo de la línea de Transmisión; y el Proyecto “Generación Termoeléctrica Entre Rios” beneficiará a todos los consumidores del Sistema Interconectado Nacional y determinará que este Sistema cuente con reservas de generación para que el suministro de electricidad sea confiable.
+* Que conforme las disposiciones señaladas precedentemente y en cumplimiento de las políticas de desarrollo energético establecidas por el Plan Nacional de Desarrollo, Programa Electricidad para Vivir con Dignidad, servicios de electricidad, es necesario facilitar la participación de ENDE y ENDE ANDINA S. A. M. en la industria eléctrica y así garantizar el abastecimiento de energía eléctrica para el consumo interno del país.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto:
+
+1. Liberar a la Empresa Nacional de Electricidad - ENDE del cumplimiento de algunos requisitos y obligaciones impuestas por el Reglamento de Concesiones, Licencias y Licencias Provisionales aprobado mediante [Decreto Supremo Nº 24043](#TODO-link), de 28 de junio de 1995, en tanto entre en vigencia la nueva Ley referida al sector eléctrico y la reglamentación relativa a concesiones y títulos habilitantes.
+2. Liberar de manera excepcional a ENDE ANDINA S. A. M del cumplimiento de algunos requisitos y obligaciones impuestas por el Reglamento de Concesiones, Licencias y Licencias Provisionales para la ejecución del Proyecto de “Generación Termoeléctrica Entre Rios”.
+
+**Artículo 2°.- (Dispensa de requisitos)** Para efectos de la aplicación del Reglamento de Concesiones, Licencias y Licencias Provisionales:
+
+1. ENDE no está obligada a presentar ante la Autoridad de Fiscalización y Control Social de Electricidad - AE los requisitos descritos en los incisos c) y d) del numeral 1 del Artículo 7; de la misma manera lo exigido por el numeral 10 del mencionado Artículo.
+2. ENDE ANDINA S. A. M. no está obligada a presentar ante la AE los requisitos descritos en el numeral 10 del Artículo 7.
+
+**Artículo 3°.- (Liberación de pago)** ENDE, queda liberada de realizar el pago de derechos por el otorgamiento de nuevos títulos habilitantes, previsto en el Artículo 49 del Reglamento de Concesiones, Licencias y Licencias Provisionales.
+
+**Artículo 4°.- (Exención de garantías)** ENDE y ENDE ANDINA S. A. M., en virtud de la inversión realizada y el avance de las obras de los Proyectos “Línea de Transmisión Eléctrica Caranavi - Trinidad” y “Generación Termoeléctrica Entre Ríos” respectivamente, quedan exentas de presentar las boletas de garantía de Cumplimiento de Contrato y Cumplimiento de la Inversión Comprometida, previstas por el Artículo 51 del Reglamento de Concesiones, Licencias y Licencias Provisionales.
+
+**Artículo 5°.- (Fiscalización y seguimiento)** La liberación de requisitos y obligaciones, establecida en el presente Decreto Supremo no exime a ENDE ni a ENDE ANDINA S. A. M. de estar sujetas a la fiscalización y seguimiento del cumplimiento de la inversión comprometida que efectúa la AE y de cualquier otro control gubernamental.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Economía y Finanzas Públicas, y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de diciembre del año dos mil nueve.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Nardi Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, María Cecilia Rocabado Tubert, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros MINISTRO DE OO. PP, SERVICIOS Y VIVIENDA E INTERINO DE MEDIO AMBIENTE Y AGUA, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, Jorge Ramiro Tapia Sainz, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Groux Canedo.

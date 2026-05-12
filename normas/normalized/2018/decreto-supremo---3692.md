@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 3692, 18 de octubre de 2018
+
+[Decreto Supremo Nº 3692](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 6 del Artículo 9 de la [Constitución Política del Estado](#TODO-link), determina como fines y funciones esenciales del Estado, promover y garantizar el aprovechamiento responsable y planificado de los recursos naturales, e impulsar su industrialización, a través del desarrollo y del fortalecimiento de la base productiva en sus diferentes dimensiones y niveles, así como la conservación del medio ambiente, para el bienestar de las generaciones actuales y futuras.
+* Que los numerales 4 y 6 del Artículo 316 del Texto Constitucional, establecen las funciones del Estado en la economía, entre las que se encuentran, participar directamente en la economía mediante el incentivo y la producción de bienes y servicios económicos y sociales para promover la equidad económica y social, e impulsar el desarrollo; y promover prioritariamente la industrialización de los recursos naturales renovables y no renovables, en el marco del respeto y protección del medio ambiente, para garantizar la generación de empleo y de insumos económicos y sociales para la población.
+* Que el Parágrafo I del Artículo 77 del [Decreto Supremo Nº 0181](#TODO-link), de 28 de junio de 2009, Normas Básicas del Sistema de Administración de Bienes y Servicios, dispone que las contrataciones de bienes y servicios especializados que las entidades públicas realicen en el extranjero, se sujetarán a lo dispuesto en el [Decreto Supremo Nº 26688](#TODO-link), de 5 de julio de 2002 y a los principios establecidos en las Normas Básicas del Sistema de Administración de Bienes y Servicios - NB-SABS.
+* Que el [Decreto Supremo Nº 3592](#TODO-link), de 13 de junio de 2018, constituye a la Empresa Boliviana de Alimentos y Derivados denominada EBA, dándole el carácter estratégico toda vez que se generará excedentes económicos para potenciar el desarrollo económico productivo del país, tiene como principal actividad económica la extracción, recolección, acopio, producción, industrialización, comercialización y distribución de alimentos y productos derivados agropecuarios, agroindustriales, forestales no maderables y apícolas, así como fomentar el desarrollo de los complejos productivos donde interviene.
+* Que es necesario autorizar a la EBA, la contratación en el extranjero de bienes, obras y servicios especializados, que sean provistos por empresas de reconocida capacidad, experiencia en la industria legalmente constituidas en el extranjero, en condiciones técnicas o económicas favorables y de mayor beneficio para la entidad mediante mecanismos de contratación agiles, eficientes y transparentes para el cumplimiento de las responsabilidades y fines institucionales de la empresa.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto, modificar los Parágrafos II y III del Artículo 4 del [Decreto Supremo Nº 26688](#TODO-link), de 5 de julio de 2002, para que la Empresa Boliviana de Alimentos y Derivados - EBA realice contrataciones en territorio extranjero.
+
+**Artículo 2°.- (Modificación)** Se modifican los Parágrafos II y III del Artículo 4 del [Decreto Supremo Nº 26688](#TODO-link), de 5 de julio de 2002, complementado y modificado por los Decretos Supremos [Nº 0224](#TODO-link), de 24 de julio de 2009; [Nº 0800](#TODO-link), de 23 de febrero de 2011; [Nº 1306](#TODO-link), de 1 de agosto de 2012; [Nº 1972](#TODO-link), de 9 de abril de 2014; [Nº 1979](#TODO-link), de 16 de abril de 2014; [Nº 2005](#TODO-link), de 21 de mayo de 2014; [Nº 2030](#TODO-link), de 11 de junio de 2014; [Nº 2209](#TODO-link), de 10 de diciembre de 2014; [Nº 2328](#TODO-link), de 15 de abril de 2015; [Nº 2697](#TODO-link), de 9 de marzo de 2016; [Nº 2803](#TODO-link), de 15 de junio de 2016 y [Nº 3627](#TODO-link), de 25 de julio de 2018, con el siguiente texto:
+> “II. Se autoriza a Yacimientos Petrolíferos Fiscales Bolivianos - YPFB; a la Empresa Boliviana de Industrialización de Hidrocarburos - EBIH; al Servicio Nacional Textil - SENATEX; a la Empresa Azucarera San Buenaventura - EASBA; a la Empresa Estatal “YACANA”
+
+; a la Empresa Estatal “Boliviana de Turismo”; a la Corporación Minera de Bolivia - COMIBOL y a sus empresas filiales y subsidiarias; a la Administración de Servicios Portuarios - Bolivia - ASP-B; al Servicio de Desarrollo de las Empresas Públicas Productivas - SEDEM; a la Empresa Nacional de Electricidad Matriz - ENDE; a la Empresa estatal de Televisión denominada “BOLIVIA TV”; al Ministerio de Culturas y Turismo; a la Agencia Boliviana de Energía Nuclear - ABEN; al Ministerio de Comunicación; a la Empresa Pública Nacional Estratégica de Yacimientos de Litio Bolivianos - YLB y a la Empresa Boliviana de Alimentos y Derivados - EBA, realizar contrataciones directas o por comparación de ofertas en territorio extranjero de bienes, obras y servicios especializados cuando éstos no estén disponibles en el mercado nacional o no se puedan recibir ofertas en el país o la contratación de éstos sea de mayor beneficio económico para la entidad.
+
+1. En la contratación de los bienes y servicios especializados y la contratación directa señalada en el Parágrafo precedente, las entidades públicas, YPFB; EBIH; SENATEX; EASBA; YACANA; Boliviana de Turismo; COMIBOL y sus empresas filiales y subsidiarias; ASP-B; SEDEM; ENDE; BOLIVIA TV; Ministerio de Culturas y Turismo; ABEN; Ministerio de Comunicación; YLB y EBA, podrán adherirse a los contratos elaborados por los proveedores y contratistas”.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los diecisiete días del mes de octubre del año dos mil dieciocho.
+  
+FDO. EVO MORALES AYMA, Diego Pary Rodríguez, Alfredo Rada Vélez, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López, Mariana Prado Noya, Mario Alberto Guillén Suárez, Luis Alberto Sanchez Fernandez, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE ENERGÍAS Y DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, Héctor Enrique Arce Zaconeta, Rodolfo Edmundo Rocabado Benavides, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

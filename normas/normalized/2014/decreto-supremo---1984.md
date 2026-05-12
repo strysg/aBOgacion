@@ -1,0 +1,189 @@
+# Bolivia: Reglamento a la Ley N° 475, de prestaciones de servicios de salud integral del Estado Plurinacional de Bolivia, DS Nº 1984, 30 de abril de 2014
+
+[Decreto Supremo Nº 1984](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+REGLAMENTO A LA [Ley Nº 475](#TODO-link), DE PRESTACIONES DE SERVICIOS DE SALUD INTEGRAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 37 de la [Constitución Política del Estado](#TODO-link), determina que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
+* Que la [Ley Nº 475](#TODO-link), de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, establece y regula la atención integral y la protección financiera en salud de la población beneficiaria descrita en la citada Ley, que no se encuentre cubierta por el Seguro Social Obligatorio de Corto Plazo; así como establece las bases para la universalización de la atención integral en salud.
+* Que la Disposición Transitoria Segunda de la [Ley Nº 475](#TODO-link), dispone que la misma, será reglamentada mediante Decreto Supremo en un plazo máximo de sesenta (60) días hábiles, computables a partir de la publicación de la citada Ley.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la [Ley Nº 475](#TODO-link), de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia.
+
+**Artículo 2°.- (Definiciones)** Para efectos de aplicación del presente Decreto Supremo, se establecen las siguientes definiciones:
+  
+**Emergencia**: Es la situación de salud que se presenta repentinamente, requiere inmediato tratamiento o atención ya que lleva implícito una alta probabilidad de riesgo de vida del paciente;
+  
+**Urgencia**: Es una situación de salud que también se presenta repentinamente, pero sin riesgo de vida del paciente y puede requerir asistencia médica dentro de un período de tiempo razonable ya sea para calmar la signo-sintomatología o para prevenir complicaciones mayores;
+  
+**Red funcional de servicios de salud**: Es aquella conformada por establecimientos de salud de primer, segundo y tercer nivel, de los subsectores público, de la seguridad social a corto plazo y el privado con o sin fines de lucro, articulados mediante el componente de referencia y contrareferencia, complementados con la medicina tradicional ancestral boliviana y la estructura social en salud;
+  
+**Capacidad resolutiva**: Son las habilidades y destrezas del equipo de salud de los establecimientos en sus diferentes niveles de atención según su complejidad para diagnosticar, tratar y resolver problemas de salud de acuerdo al conocimiento y tecnología a su alcance, contribuyendo de esta manera a la solución de estos problemas;
+  
+**Trato preferente**: Son las acciones integradoras que procuran eliminar las desventajas de grupos vulnerables, garantizando su equiparación e igualdad con el resto de las personas con carácter de primacía;
+  
+**Carnet de discapacidad**: Es el documento legal que acredita a la persona con discapacidad definiendo el tipo, grado y porcentaje de discapacidad para el reconocimiento y ejercicio de sus derechos;
+  
+**Centros de Rehabilitación**: Son unidades prestadoras de servicios en rehabilitación integral, con extensión comunitaria, que permiten a las personas con deficiencias, obtener una máxima independencia, capacidad física, intelectual, mental, social y vocacional;
+  
+**Entes Gestores**: Son entidades descentralizadas que otorgan prestaciones de salud en el seguro social obligatorio de corto plazo con patrimonio propio, autonomía de gestión administrativa - financiera, legal y técnica;
+  
+**Establecimientos de salud Privados**: Son aquellos prestadores de servicios de salud del subsector privado, con o sin fines de lucro.
+
+**Artículo 3°.- (Responsabilidades)** Se establecen las siguientes responsabilidades:
+  
+**Ministerio de Salud**.- Es responsable de ejercer la rectoría, política, regulación y control de la aplicación de la [Ley Nº 475](#TODO-link);
+  
+**Establecimientos de Salud**.- Los establecimientos de salud públicos, de la seguridad social de corto plazo y privados bajo convenio, además de la Medicina Tradicional Ancestral Boliviana y otras entidades reconocidas por el Sistema Nacional de Salud, tienen la obligación de otorgar servicios y atenciones integrales e interculturales de salud determinados en la [Ley Nº 475](#TODO-link), de acuerdo a la normativa específica emitida por el Ministerio de Salud.
+
+## Capítulo II Requisitos para el acceso, prestaciones, capacidad resolutiva de los establecimientos de salud, provisión de prestaciones y medios de promoción de la salud
+
+**Artículo 4°.- (Requisitos para acceder a los beneficios)** Las beneficiarias y los beneficiarios señalados en el Artículo 5 de la [Ley Nº 475](#TODO-link), para recibir las prestaciones de salud deberán presentar previamente al menos uno de los siguientes documentos vigentes:
+
+1. Mujeres embarazadas:
+   1. Certificado de Nacimiento;
+   2. Cédula de identidad;
+   3. Pasaporte;
+   4. Carnet de control prenatal; o
+   5. Boleta de Referencia y Contrareferencia.
+2. Niñas y niños menores de cinco años de edad:
+   1. Certificado de Nacimiento;
+   2. Cédula de identidad;
+   3. Pasaporte;
+   4. Carnet de Salud Infantil;
+   5. Certificado de nacido vivo emitido por establecimiento de salud; o
+   6. Boleta de Referencia y Contrareferencia.
+3. Mujeres y hombres a partir de los sesenta años de edad:
+   1. Certificado de Nacimiento;
+   2. Cédula de identidad;
+   3. Libreta de Servicio Militar;
+   4. Pasaporte; o
+   5. Boleta de Referencia y Contrareferencia.
+4. Mujeres en edad fértil:
+   1. Certificado de Nacimiento;
+   2. Cédula de identidad;
+   3. Pasaporte; o
+   4. Boleta de Referencia y Contrareferencia.
+5. Personas con discapacidad:
+   1. Carnet de discapacidad de acuerdo al Sistema Informático del Programa de Registro Único Nacional de Personas con Discapacidad - SIPRUNPCD; o
+   2. Boleta de Referencia y Contrareferencia.
+
+**Artículo 5°.- (Registro de beneficiarias y beneficiarios)** Con fines de control, el Ministerio de Salud en coordinación con los Gobiernos Autónomos Municipales y los Servicios Departamentales de Salud - SEDES, determinará procesos de registro de beneficiarias y beneficiarios que sean atendidos en el marco de la [Ley Nº 475](#TODO-link), de acuerdo al área geográfica establecida en las redes funcionales de servicios de salud.
+
+**Artículo 6°.- (Acceso a los servicios de salud integrales e interculturales)** El Ministerio de Salud, en coordinación con los SEDES y los gobiernos autónomos municipales, realizará la reorganización de los establecimientos de salud en redes funcionales de servicios de salud de acuerdo a la normativa vigente.
+
+**Artículo 7°.- (Prestaciones de salud)** 
+
+1. El Ministerio de Salud, deberá reglamentar y actualizar, al menos cada dos (2) años, las prestaciones de salud de acuerdo a lo establecido en el Artículo 6 de la [Ley Nº 475](#TODO-link).
+2. Las prestaciones de salud que sean otorgadas a los beneficiarios, deben enmarcarse en las Normas Nacionales de Atención Clínica y de Promoción de la Salud desarrolladas por el Ministerio de Salud.
+3. Los medicamentos destinados a la atención de los beneficiarios se enmarcarán exclusivamente en la Lista Nacional de Medicamentos Esenciales - LINAME, debiendo ser prescritos y dispensados utilizando la Denominación Común Internacional - DCI o nombre genérico.
+4. Los insumos - dispositivos médicos, destinados a la atención de los beneficiarios se enmarcarán en la Lista de Dispositivos Médicos Esenciales.
+5. Los productos naturales tradicionales, destinados a la atención de los beneficiarios se enmarcarán exclusivamente en la Lista Plurinacional de Productos Naturales y Tradicionales - LIPAT.
+6. El personal de salud deberá otorgar trato preferente a las personas con discapacidad, personas adultas mayores y aquellas que sean referidas desde el área rural.
+7. Los equipos móviles de salud realizarán la atención integral e intercultural en la comunidad de acuerdo a normativa vigente definida por el Ministerio de Salud; así como, la identificación de personas con discapacidad y otros grupos de riesgo.
+
+**Artículo 8°.- (Atención de urgencias y emergencias)** En el marco del Parágrafo IV del Artículo 7 de la [Ley Nº 475](#TODO-link), en los casos de urgencias y emergencias, el paciente, los familiares o apoderados, deberán presentar los documentos señalados en el Artículo 4 del presente Decreto Supremo, durante o después de la resolución de la situación crítica de la beneficiaria o del beneficiario.
+
+**Artículo 9°.- (Extensión de beneficios)** 
+
+1. En el caso de enfermedades agudas cuyo diagnóstico se hubiese realizado antes que la beneficiaria o el beneficiario cumplan los cinco (5) años de edad o los seis (6) meses posteriores al parto, el establecimiento de salud deberá garantizar la continuidad del tratamiento específico hasta su conclusión.
+2. El financiamiento de estas prestaciones se realizará de acuerdo a lo señalado en el Parágrafo II del Artículo 10 de la [Ley Nº 475](#TODO-link).
+
+**Artículo 10°.- (Excepción de gratuidad a la atención integral de salud)** 
+
+1. Las beneficiarias y beneficiarios que accedan a los hospitales públicos de segundo y tercer nivel de manera directa por atenciones no consideradas emergencias o urgencias, deberán cancelar el costo de las atenciones recibidas de acuerdo a los aranceles establecidos por las entidades territoriales autónomas correspondientes.
+2. En los entes gestores y establecimientos privados, se aplicarán los aranceles vigentes en cada uno de ellos.
+
+**Artículo 11°.- (Capacidad resolutiva de los establecimientos de salud)** 
+
+1. El Ministerio de Salud, de acuerdo a tecnología sanitaria existente en el país y capacidad resolutiva de los establecimientos de salud, reglamentará la atención de los niveles correspondientes a través de normativa específica.
+2. El Ministerio de Salud en coordinación con los SEDES y los gobiernos autónomos municipales o indígena originario campesinas, emitirá normativa específica para la asignación y reasignación de sus recursos humanos en salud.
+
+**Artículo 12°.- (Provisión de prestaciones)** 
+
+1. Las prestaciones a beneficiarias y beneficiarios se brindarán con carácter obligatorio en todo el territorio nacional en los establecimientos de salud públicos y de la seguridad social sin necesidad de establecerse convenios con los gobiernos autónomos municipales o indígena originario campesinas.
+2. Las prestaciones a beneficiarias y beneficiarios que se brinden en establecimientos de salud privados estarán sujetos a la suscripción de convenios con los gobiernos autónomos municipales o indígena originario campesinas, cuando los servicios de salud públicos y de la seguridad social de su jurisdicción territorial demuestren ser insuficientes o inexistentes.
+3. En los municipios que se requiera complementar y articular los servicios de salud con la medicina tradicional ancestral boliviana, los gobiernos autónomos municipales o indígena originario campesinas, podrán establecer acuerdos con las instancias asociativas de la Medicina Tradicional Ancestral Boliviana reconocidas por el Ministerio de Salud.
+
+## Capítulo III Financiamiento y administración de recursos
+
+**Artículo 13°.- (Cuentas municipales de salud)** 
+
+1. En el marco del Artículo 108 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez” y la [Ley Nº 475](#TODO-link), se autoriza al Ministerio de Economía y Finanzas Públicas a través del Viceministerio del Tesoro y Crédito Público la apertura masiva de las cuentas corrientes fiscales en las entidades territoriales autónomas denominadas: “Cuenta Municipal de Salud” previa comunicación a las mismas.
+2. En el marco del Artículo 108 de la [Ley Nº 031](#TODO-link) y la [Ley Nº 475](#TODO-link), se autoriza al Ministerio de Economía y Finanzas Públicas a través del Viceministerio del Tesoro y Crédito Público el cierre masivo de las cuentas corrientes fiscales de las entidades territoriales autónomas aperturadas en virtud a las Leyes [N°2426](#TODO-link), de 21 de noviembre de 2002, del Seguro Universal Materno Infantil y del [Decreto Supremo Nº 28968](#TODO-link), de 13 de diciembre de 2006, previa comunicación a las mismas.
+3. Los saldos de las cuentas corriente fiscales descritos en el Parágrafo II del presente Artículo, serán traspasados a las cuentas denominadas: “Cuenta Municipal de Salud”.
+4. Serán plenamente aplicables las previsiones establecidas en el Parágrafo XI del Artículo 114 de la [Ley Nº 031](#TODO-link), para las cuentas corrientes fiscales correspondientes al Seguro Universal Materno Infantil - SUMI y Seguro de Salud Para el Adulto Mayor - SSPAM.
+5. Se autoriza al Ministerio de Economía y Finanzas Públicas así como sus instancias dependientes, emitir las normas e instrucciones que sean necesarias para el cumplimiento del presente Artículo.
+
+**Artículo 14°.- (Fondo Compensatorio Nacional de Salud)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a través del Viceministerio del Tesoro y Crédito Público el cierre de la cuenta correspondiente al Fondo Solidario Nacional del SUMI.
+2. Se autoriza al Ministerio de Economía y Finanzas Públicas a través del Viceministerio del Tesoro y Crédito Público la apertura de la cuenta denominada “Fondo Compensatorio Nacional de Salud - COMSALUD”, que será inscrita en el presupuesto del Ministerio de Salud.
+3. Los saldos de la cuenta fiscal descrita en el Parágrafo I del presente Artículo serán traspasados a la cuenta denominada “Fondo Compensatorio Nacional de Salud - COMSALUD”.
+4. La gestión administrativa y los procedimientos de solicitud de acceso de los gobiernos autónomos municipales al “Fondo Compensatorio Nacional de Salud - COMSALUD” serán reglamentados por el Ministerio de Salud.
+5. Una vez realizadas las conciliaciones y efectuadas todas las transferencias a las cuentas municipales de salud de los gobiernos autónomos municipales que accedieron al COMSALUD, al final de la gestión, el Ministerio de Salud establecerá los saldos de recursos del COMSALUD, los mismos que podrán ser utilizados de acuerdo al Parágrafo III del Artículo 11 de la [Ley Nº 475](#TODO-link).
+
+## Capítulo IV Gestión administrativa
+
+**Artículo 15°.- (Recursos iniciales disponibles de los establecimientos de salud públicos)** Se constituyen en recursos iníciales disponibles de los establecimientos de salud públicos, de todos los niveles, para el inicio de la atención a beneficiarias y beneficiarios de la [Ley Nº 475](#TODO-link), los siguientes:
+
+1. Los medicamentos, insumos y reactivos del SUMI y SSPAM, existentes en la Farmacia Institucional Municipal, reportados de acuerdo a lo establecido en el Sistema Nacional Único de Suministros - SNUS, mediante los sistemas SALMI y SIAL;
+2. Los saldos o remanentes locales acumulados por concepto de desembolsos del SUMI y del SSPAM;
+3. Los recursos humanos existentes, independientemente de su fuente de financiamiento;
+4. La Infraestructura y equipamiento sanitario existente.
+
+**Artículo 16°.- (Modalidad de pago)** 
+
+1. La modalidad de pago de las prestaciones definidas por el Ministerio de Salud, en el marco de la [Ley Nº 475](#TODO-link), será por prestación de servicio otorgado y de manera mensual.
+2. La atención de beneficiarias y beneficiarios residentes en municipios diferentes al del establecimiento que efectuó la prestación de servicios de salud, no generará deudas intermunicipales, debiendo ser cancelada por el gobierno autónomo municipal o indígena originario campesina donde se efectuó la misma.
+3. El Ministerio de Salud reglamentará la aplicación de herramientas e instrumentos administrativos e informáticos para estos fines.
+4. El Ministerio de Salud a través de la Dirección General de Seguros de Salud, anualmente establecerá los costos de las prestaciones en el subsector público y los ajustará con el propósito de establecer tarifas únicas para las atenciones realizadas en las Cajas de Salud, de acuerdo a la estructura de costos referencial de los entes gestores.
+
+**Artículo 17°.- (Facturación)** Los entes gestores del Seguro Social Obligatorio de Corto Plazo y los establecimientos de salud privados bajo Convenio deben emitir la factura correspondiente al gobierno autónomo municipal o indígena originario campesina por la prestación de servicios a beneficiarias y beneficiarios comprendidos en el Artículo 5 de la [Ley Nº 475](#TODO-link), conforme la normativa tributaria vigente.
+
+**Artículo 18°.- (Sistema Informático de Control Financiero en Salud - SICOFS)** 
+
+1. El Ministerio de Salud dotará a los gobiernos autónomos municipales o indígena originario campesinas, para su aplicación y sostenibilidad, el Sistema Informático de Control Financiero en Salud - SICOFS, como herramienta informática para la gestión administrativa y financiera de la [Ley Nº 475](#TODO-link).
+2. El Ministerio de Salud queda encargado del ajuste y actualización permanente del SICOFS.
+
+## Capítulo V Ampliación o inclusión de fuentes de financiamiento, beneficiarias, beneficiarios y prestaciones
+
+**Artículo 19°.- (Consejo de Coordinación Sectorial en Salud)** 
+
+1. La Ministra o el Ministro de Salud convocará al Consejo de Coordinación Sectorial en Salud de manera obligatoria al menos una vez cada año.
+2. El Ministerio de Salud, a través de la Dirección General de Seguros de Salud y el Instituto Nacional de Seguros de Salud - INASES, se constituye en la instancia previa de recepción, consolidación, análisis y verificación técnica de las propuestas orientadas a la ampliación o inclusión de fuentes de financiamiento, beneficiarias, beneficiarios y prestaciones de salud que sean presentadas por las entidades territoriales autónomas para ser consideradas en el Consejo de Coordinación Sectorial en Salud.
+3. La Resolución emitida por los participantes del Consejo de Coordinación Sectorial de Salud será elevada al Órgano Ejecutivo a través del Ministerio de Salud para ser refrendada y aprobada mediante Decreto Supremo.
+     
+
+   ## Disposiciones transitorias
+
+**Artículo transitorio 1°.-** El cierre financiero del SUMI y del SSPAM será reglamentado por el Ministerio de Economía y Finanzas Públicas y el Ministerio de Salud.
+
+**Artículo transitorio 2°.-** Los centros de rehabilitación se articularán progresivamente al Sistema Nacional de Salud bajo reglamentación del Ministerio de Salud.
+
+## Disposiciones finales
+
+**Artículo final 1°.-** Los entes gestores del Seguro Social Obligatorio de Corto Plazo deberán efectuar el pago de las prestaciones contempladas en la [Ley Nº 475](#TODO-link), que de manera extraordinaria reciban las personas afiliadas y beneficiarias de estas entidades en establecimientos de salud públicos.
+
+**Artículo final 2°.-** Los Consejos Departamental y Municipal de Salud, son los encargados de promover e implementar procesos de gestión participativa de la salud que competan a la [Ley Nº 475](#TODO-link).
+
+**Artículo final 3°.-** El Ministerio de Salud deberá elaborar la normativa específica establecida en el presente Decreto Supremo en el plazo de hasta sesenta (60) días calendario, computables a partir de su publicación.
+
+---
+
+Los señores Ministros de Estado en los despachos de Economía y Finanzas Públicas, y de Salud, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de abril del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCIÓN, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

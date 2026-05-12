@@ -1,0 +1,55 @@
+# Bolivia: Resolución Ministerial de 2 de octubre de 2019
+
+RESOLUCIÓN MINISTERIAL N° 203
+  
+La Paz, 12 de septiembre de 2019
+  
+El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones,
+
+VISTOS Y CONSIDERANDO
+
+* Que el Parágrafo I, Artículo 348 de la [Constitución Política del Estado](#TODO-link) establece que el espectro electromagnético es un recurso natural. El Parágrafo II del mencionado Artículo señala que los recursos naturales son de carácter estratégico y de interés público para el desarrollo del país.
+* Que la [Ley Nº 164](#TODO-link), General de Telecomunicaciones, Tecnologías de Información y Comunicación de 8 de agosto de 2011 establece el nuevo marco normativo para las Telecomunicaciones, Tecnologías de Información y Comunicación en el Estado Plurinacional de Bolivia.
+* Que el numeral 5, Parágrafo II, Artículo 6 de la [Ley Nº 164](#TODO-link), dispone que el Espectro Radioeléctrico es el conjunto de frecuencias del espectro electromagnético usadas para los servicios de radiodifusión, de telecomunicaciones y tecnologías de información y comunicación.
+* Que el Parágrafo III, Artículo 10 de dicha Ley establece que la distribución de bandas de frecuencias para el servicio de radiodifusión televisiva digital será establecida en el respectivo plan de Implementación aprobado mediante Decreto Supremo.
+* Que a través de la Resolución Ministerial N° 294 de 08 de noviembre de 2012 del Ministerio de Obras Públicas, Servicios y Vivienda, se aprobó el Plan Nacional de Frecuencias del Estado Plurinacional de Bolivia, instrumento que define la atribución de las bandas de frecuencias del espectro radioeléctrico destinadas a los servicios de radiodifusión sonora y televisiva.
+* Que el [Decreto Supremo Nº 3152](#TODO-link) de 19 de abril de 2017 aprueba el Plan de Implementación de Televisión Digital Terrestre, el cual tiene como objetivo establecer los lineamientos, procedimientos y plazos para la transición de la televisión con tecnología analógica hacia la digital.
+* Que la Disposición Final Sexta del mencionado Decreto Supremo dispone que el Ministerio de Obras Públicas, Servicios y Vivienda elaborará los Planes de Asignación de Frecuencias y Planes de Asignación de Canales Digitales.
+* Que el Numeral 4.2 del Plan de Implementación de Televisión Digital Terrestre, determina que para la prestación del Servicio de Radiodifusión Televisiva Digital Terrestre y del Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre, se definen cinco (5) Modelos de Planificación para cada canal radioeléctrico.
+* Que el numeral 6.3.2 de dicho Plan establece que los operadores de Radiodifusión Televisiva con tecnología analógica podrán participar de otorgamientos directos, licitaciones o invitaciones a concursos de proyectos, según corresponda, para la obtención de una Licencia de Valor Agregado para Radiodifusión Televisiva Digital Terrestre. Estos podrán operar solamente un canal digital en formato HD o SD dependiendo de los Planes de Asignación de Canales Digitales. Asimismo, deberán entregar su señal en condición de ser multiplexada y transmitida por el operador del servicio de Radiodifusión Televisiva Digital Terrestre.
+* Que el [Decreto Supremo Nº 3896](#TODO-link) de 8 de mayo de 2019 modifica el Plan de Implementación de Televisión Digital Terrestre, aprobado en el Anexo del [Decreto Supremo Nº 3152](#TODO-link).
+* Que la Resolución Ministerial N° 225 del Ministerio de Obras Públicas, Servicios y Vivienda, de fecha 19 de julio de 2017, aprueba el Reglamento de Otorgamiento de Licencias para el Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre.
+* Que la Resolución Ministerial N° 227 del Ministerio de Obras Públicas, Servicios y Vivienda, de fecha 19 de julio de 2017, determina las Áreas de Servicio para Radiodifusión Televisiva Digital Terrestre.
+* Que a través de la Nota ATT-DTLTIC-N LP 3288/2018 la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes remitió al Ministerio de Obras Públicas, Servicios y Vivienda las expresiones de interés para prestar el Servicio de Radiodifusión Televisiva Digital Terrestre y el Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre.
+* Que a través de la Nota ATT-DTLTIC-N LP 3516/2018 la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes remitió al Ministerio de Obras Públicas, Servicios y Vivienda el detalle de la disponibilidad de canales digitales, considerando el Modelo de Planificación 4.
+* Que mediante Informe Técnico MOPSV/VMTEL/DGTEL N° 0140/2019 de 27 de agosto de 2019, la Dirección General de Telecomunicaciones del Viceministerio de Telecomunicaciones presentó la propuesta del Plan de Asignación de Canales Digitales para el Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre, recomendando su aprobación a través Resolución Ministerial para que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes proceda a la asignación de canales digitales.
+* Que por Informe Jurídico MOPSV/DGAJ N° 484/2019 de 5 de septiembre de 2019, se pronunció por la procedencia de aprobar, mediante Resolución Ministerial el Plan de Asignación de Canales Digitales para el Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre, en atención a la solicitud efectuada por el Viceministerio de Telecomunicaciones.
+* Que el numeral 22, Parágrafo I, Artículo 14 del [Decreto Supremo Nº 29894](#TODO-link) de 07 de febrero de 2009, de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, establece como atribución de los Ministros de Estado, emitir resoluciones ministeriales en el marco de sus competencias.
+
+POR TANTO:
+
+RESUELVE:
+
+**Primero .-** 
+
+1. Aprobar el Plan de Asignación de Canales Digitales para el Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre, que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes aplicará en los procesos y procedimientos de asignación de acuerdo a lo siguiente:
+   1. Hasta cinco (5) canales digitales para el Área de Servicio de La Paz considerando el total de canales digitales disponibles.
+   2. Hasta cuatro (4) canales digitales para el Área de Servicio de Cochabamba considerando el total de canales digitales disponibles.
+   3. Hasta cinco (5) canales digitales para el Área de Servicio de. Santa Cruz considerando el total de canales digitales disponibles.
+2. La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes en un plazo no mayor a quince (15) días hábiles a partir de la publicación de la presente Resolución Ministerial, deberá establecer y hacer público el cronograma de asignación de canales digitales de acuerdo a los procedimientos previstos.
+
+**Segundo .-** Establecer que la presente Resolución Ministerial se aplicará a las asignaciones de canales digitales destinadas al Servido de Valor Agregado para Radiodifusión Televisiva Digital Terrestre, únicamente para operadores con licencias vigentes del Servicio de Radiodifusión Televisiva que no que hayan realizado la transición simultánea.
+
+**Tercero .-** Definir el uso de Gestión Compartida, establecida en el numeral 4.1 del Plan de Implementación de Televisión Digital Terrestre, para la asignación de los canales digitales dispuestos por la presente Resolución.
+
+**Cuarto .-** Definir el uso del Modelo de Planificación del Canal Radioeléctrico 4, establecido en el numeral 4.2 del Plan de Implementación de Televisión Digital Terrestre para la asignación de los canales digitales dispuestos por la presente Resolución.
+
+**Quinto .-** La presente Resolución Ministerial entrará en vigencia a partir de su publicación y tendrá una vigencia de seis (6) meses.
+
+**Sexto .-** Encargar el cumplimiento de la presente Resolución Ministerial y su publicación al Viceministerio de Telecomunicaciones dependiente del Ministerio de Obras Públicas, Servicios y Vivienda y a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+FDO. Oscar Coca Antezana MINISTRO DE OBRAS PÚBLICAS, SERVICIOS Y VIVIENDA.

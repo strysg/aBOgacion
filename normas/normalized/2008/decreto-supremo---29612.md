@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 29612, 25 de junio de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que conforme al Parágrafo III del Artículo 147 de la [Constitución Política del estado](#TODO-link) se aprobó el Presupuesto General de la Nación Gestión 2008, el cual señala en su Artículo 12 que el Poder Ejecutivo a través del Ministerio de Hacienda, está autorizado a inscribir y/o incrementar el gasto en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, según lo establecido en los convenios respectivos; asimismo, señala que para las demás fuentes de financiamiento deberá aprobarse un Decreto Supremo.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link) de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados y en su Artículo 8 faculta al Poder Ejecutivo que las donaciones y créditos externos para gastos de capital, gastos corrientes y aplicaciones financieras no contempladas en el Presupuesto General de la Nación aprobado anualmente, sean incorporadas por el Ministerio de Hacienda en los presupuestos de las instituciones.
+* Que el Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 27849](#TODO-link) de 12 de noviembre de 2004, establece que los procedimientos y responsables para la elaboración, presentación, aprobación y registro de las modificaciones al Presupuesto General de la Nación, deben ser aprobados por Resolución de la máxima autoridad de la entidad solicitante; asimismo, establece distintas competencias de aprobación, según el tipo y alcance de las modificaciones presupuestarias.
+* Que en fecha 20 de diciembre del 2001 se suscribe el Convenio de Cooperación Financiera entre el Gobierno de la República Federal de Alemania y el Gobierno de la República de Bolivia, refrendado mediante [Ley Nº 2378](#TODO-link) del 22 de mayo 2002.
+* Que mediante [Decreto Supremo Nº 27286](#TODO-link) de 13 de diciembre de 2003, se autoriza la suscripción de un Contrato de Préstamo y Aporte Financiero por un total de EUR 7.669.376, 22 (SIETE MILLONES SEISCIENTOS SESENTA Y NUEVE mil TRESCIENTOS SETENTA Y SEIS 22/100 EUROS), destinados a financiar el Subprograma de Inversiones en Riego Intercomunal - SIRIC.
+* Que en fecha 19 de diciembre de 2003, se suscribe el Contrato de Préstamo y Aporte Financiero, entre la KfW y el Gobierno de la República de Bolivia por el monto de EUR 6.000.000.- (SEIS MILLONES 00/100 EUROS) en calidad de préstamo y de EUR 1.669.376, 22 (UN MILLÓN SEISCIENTOS SESENTA Y NUEVE mil TRESCIENTOS SETENTA Y SEIS 22/100 EUROS) de aporte financiero (donación), destinados a la ejecución del SIRIC.
+* Que mediante el Convenio subsidiario de 1 de marzo de 2004 suscrito entre la República de Bolivia, representada por el Ministerio de Hacienda, y el Ministerio de Asuntos Campesinos y Agropecuarios representado por el Ministro y Viceministro de Desarrollo Rural, se transfieren los fondos destinados al Programa desde el Ministerio de Hacienda al Ministerio de Asuntos Campesinos y Agropecuarios, en su calidad de entidad ejecutora del Programa SIRIC.
+* Que mediante Convenio Subsidiario de Préstamo, suscrito el 8 de junio de 2006 entre el Ministerio de Hacienda, Ministerio del Agua, Viceministerio de Riego y Prefectura del Departamento de Santa Cruz, se aprueba la transferencia de parte de los fondos de préstamo a la Prefectura, para la elaboración de estudios complementarios al diseño final, construcción, supervisión y acompañamiento del Proyecto de Riego Mairana, por un monto de $us1.632.398.- (UN MILLÓN SEISCIENTOS TREINTA Y DOS mil TRECIENTOS NOVENTA Y OCHO 00/100 DÓLARES ESTADOUNIDENSES) que equivale al sesenta y ocho por ciento (68%) del costo del Proyecto.
+* Que la Prefectura del Departamento de Santa Cruz debe inscribir presupuesto para proyectos de inversión que no fueron inscritos en el Presupuesto General de la Nación Gestión 2008. En este marco, requiere inscribir presupuesto adicional, con recursos del Contrato de Préstamo y Aporte Financiero que incremente la partida 46210 “Consultoría por Producto para Construcciones de Bienes de Dominio Público”, para la contratación de consultorías destinadas a Proyectos de Riego.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Prefectura del Departamento de Santa Cruz, incrementar la subpartida 46210 “Consultoría por Producto para Construcciones de Bienes de Dominio Público” en Bs494.451.- (CUATROCIENTOS NOVENTA Y CUATRO mil CUATROCIENTOS CINCUENTA Y UN 00/100 BOLIVIANOS), a través de la inscripción adicional de recursos externos provenientes del Convenio de Cooperación Financiera entre el Gobierno de la República Federal de Alemania y el Gobierno de la República de Bolivia de fecha 20 de Diciembre de 2001, refrendado por [Ley Nº 2378](#TODO-link) de 22 de mayo de 2002 y el Contrato de Préstamo y Aporte Financiero suscrito entre la KfW y el Gobierno de la República de Bolivia, que financian el Subprograma de Inversiones en Riego Intercomunal - SIRIC, dentro del cual se asignaran estos recursos para la culminación de estudios de preinversión del Proyecto “Construcción Sistema de Riego Mairana”, de acuerdo al Anexo adjunto y de conformidad al Artículo 12 de la Ley del Presupuesto General de la Nación 2008.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de la Presidencia y de Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de junio del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Célima Torrico Rojas, Graciela Toro Ibañez, Luís Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Ángel Javier Hurtado Mercado, Oscar Coca Antezana, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, María Magdalena Cajías de la Vega, Walter Selum Rivero, Héctor E. Arce Zaconeta.

@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 27448, 13 de abril de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la República de Argentina y la República Oriental del Uruguay han mostrado permanentemente su solidaridad con los problemas que afectan al país.
+* Que actualmente ambas Repúblicas hermanas se encuentran atravesando una severa crisis de abastecimiento de gas natural, para cubrir sus necesidades energéticas, situación particularmente grave dada la proximidad del invierno austral.
+* Que la República de Bolivia, en honor a los principios de su creación y su historia permanente de colaboración con sus vecinos, debe colaborar temporalmente con la provisión de gas natural por un período no mayor a seis meses, a menos que el referéndum sobre la venta de gas permita su extensión.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la suscripción de un Convenio de Compra - Venta de Gas Natural entre la República de Bolivia y la República de Argentina.
+
+**Artículo 2°.- (Autorizacion)** Se autoriza al Ministro de Minería e Hidrocarburos en representación del Gobierno nacional a suscribir con el Gobierno de la República de Argentina un Convenio de Compra - Venta de Gas Natural, sobre las bases detalladas en los Artículos siguientes.
+
+**Artículo 3°.- (Plazo)** El período de vigencia del Contrato de Compra - Venta será de seis (6) meses, pudiendo ser renovado o ampliado siempre que el Referéndum vinculante sobre la exportación de gas natural así lo permita.
+
+**Artículo 4°.- (Volumen exportable)** El volumen máximo de exportación de gas natural será de 4 millones de metros cúbicos por día. El poder calorífico de gas natural de exportación tendrá un valor máximo de 1.000 (UN MIL) Unidades Térmicas Británicas - BTU por pie cúbico, en condiciones estándar de temperatura y presión. Cuando el poder calorífico del gas natural de exportación excede el valor fijado, las empresas productoras pagaran al Tesoro General de la Nación un cargo por excedente de hasta un 36% del valor energético exportado.
+
+**Artículo 5°.- (Agente del estado)** Yacimientos Petrolíferos Fiscales Bolivianos - YPFB participará como agente del Estado para llevar a cabo lo acordado en el contrato de compra venta, para lo cual actuará como agregador y vendedor.
+
+**Artículo 6°.- (Precio)** El precio de venta en frontera será igual a la suma de:
+  
+El precio en boca de pozo igual al precio ponderado de oferta de las empresas productoras.
+  
+El costo de manejo y transporte del gas hasta la frontera.
+  
+Una partición a favor de YPFB por sus labores.
+
+**Artículo 7°.- (Reexportacion)** Acordar con el Gobierno de la República Argentina que se comprometa a no aumentar los volúmenes de venta efectiva de gas natural a la República de Chile sobre aquellos vigentes a la fecha de firma del Contrato de Compra - Venta con la República de Bolivia. El incumplimiento de este requisito determinará la resolución del Contrato.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Minería e Hidrocarburos queda encargado de la ejecución y cumplimiento del presente Decreto Supremo
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de abril del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Xavier Nogales Iturri, Donato Ayma Rojas, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

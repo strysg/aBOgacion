@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 24933, 30 de diciembre de 1997
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Gobierno nacional ha definido como prioridad la ejecución del Proyecto Múltiple Misicuni, a fin de dotar de agua potable y de riego así como de energía eléctrica a la ciudad de Cochabamba y sus alrededores;
+* Que la empresa Servicio Municipal de Agua Potable y Alcantarillado (SEMAPA) atiende los servicios de agua potable y alcantarillado en la ciudad de Cochabamba y sus alrededores;
+* Que el sistema de tratamiento de agua potable, distribución y tratamiento de afluentes, así como la generación de energía eléctrica debe ejecutarse con la participación del sector privado;
+* Que el Ministerio de Comercio Exterior e Inversión tiene, entre sus funciones, las de formular y ajecutar políticas para captar inversiones privadas nacionales y extranjeras, así como ejecutar las actividades correspondientes a los procesos de privatización y capitalicación de las empresas del sector público;
+* Que debe efectuarse los estudios y promoción necesaria para la participación del sector privado en la empresa de agua SEMAPA y en el proyecto Misicuni mediante un banco de inversión;
+* Que la empresa Banque Paribas ha efectuado parte de los estudios necesarios para la participación privada en SEMAPA, de acuerdo al contrato de servicios suscrito con el entonces Ministerio sin Cartera Responsable de Capitalización el 16 de septiembre de 1996, contrato que se encuentra vigente por el cual existe un alcance de trabajo por realizar y un saldo por concepto de honorarios.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza la suscripción de un addendum al contrato celebrado por el Ministerio sin Cartera Responsable de Capitalización con la empresa BANQUE PARIBAS, en fecha 16 de septiembre de 1996, para la ampliación del alcance de trabajo relacionado con los servicios de consultoría y banca de inversión para la empresa SEMAPA y el Proyecto Múltiple Misicuni.
+
+**Artículo 2°.-** Se aprueba los honorarios por el nuevo alcance del trabajo, de acuerdo a la propuesta de la empresa Banque Paribas y al acta de negociación de 12 de diciembre de 1997, en la suma de doscientos mil dólares americanos (US$.200.000.00) como honorario fijo, y la suma de un millón doscientos mil dólares americanos (US$.1.200.000.00) como honorario de éxito. Estos montos serán pagados por los concesionarios adjudicados de acuerdo a las estipulaciones que se prevean en el correspondiente pliego de condiciones.
+
+**Artículo 3°.-** El honorario fijo referido en el artículo anterior será adelantado por el Tesoro General de la Nación y comprende los saldos existentes a favor de Banque Paribas por los servicios realizados en virtud del contrato de servicios suscrito con el Ministerio sin Cartera Responsable de Capitalización el 16 de septiembre de 1996 y los honorarios por concepto del nuevo alcance de los servicios. Dichos fondos serán devueltos al TGN por los concesionarios después de la adjudicación.
+
+---
+
+Los señores Ministros de Estado en los despachos de Hacienda y de Comercio Exterior e Inversión quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de diciembre de mil novecientos noventa y siete años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada, Luis Daza Montero, MINISTRO INTERINO DE DEFENSA NACIONAL, Edgar Millares Ardaya, Ana María Cortéz de Soriano, Ivo Kuljis Futchner, Tito Hoz de Vila Quiroga, Tonchy Marinkovic Uzqueda, Leopoldo López Cossio, Luis Freddy Conde López, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Javier Escóbar Salguero.

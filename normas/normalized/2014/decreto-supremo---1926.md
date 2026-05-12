@@ -1,0 +1,41 @@
+# Bolivia: Decreto Supremo Nº 1926, 13 de marzo de 2014
+
+[Decreto Supremo Nº 1926](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 1 de la [Ley Nº 875](#TODO-link), de 30 de mayo de 1986, eleva a rango de Ley el [Decreto Supremo Nº 12333](#TODO-link), de 3 de abril de 1975, por el cual se ratifica el Convenio Constitutivo del FONPLATA suscrito en Buenos Aires, República Argentina, el 12 de junio de 1974.
+* Que el Parágrafo I del Artículo 134 del [Decreto Supremo Nº 29894](#TODO-link), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, determina que la representación titular del Estado ante organismos financieros internacionales, en particular ante el Banco Mundial, Banco Interamericano de Desarrollo, Corporación Andina de Fomento, Fondo Financiero para el Desarrollo de la Cuenca del Plata - FONPLATA y otros de igual naturaleza, será ejercida por la Ministra o Ministro Servidor Público de Planificación del Desarrollo y la representación alterna la ejercerá la Ministra o Ministro Servidor Público de Economía y Finanzas Públicas.
+* Que el inciso l) del Artículo 56 del [Decreto Supremo Nº 29894](#TODO-link), establece que el Viceministerio del Tesoro y Crédito Público, tiene entre otras competencias, realizar el pago por aporte de capital accionario a organismos internacionales.
+* Que el inciso c) del Artículo 19° del Convenio Constitutivo del FONPLATA, dispone que la Asamblea de Gobernadores decidirá sobre la interpretación del Convenio Constitutivo de FONPLATA y de su Reglamento, la modificación del monto de recursos propios y su modo de integración.
+* Que el Artículo 4° de la Resolución No.14 A. G. E. II-14/79, de 29 de noviembre de 1979, establece que el capital exigible estará sujeto a los requerimientos del Fondo, en caso de que por sus propios medios no se encontrará en condiciones de cumplir las obligaciones contraídas con distintas fuentes de financiamiento, para la obtención de recursos destinados a financiar operaciones de préstamo a los Países Miembros.
+* Que la Asamblea de Gobernadores de FONPLATA, en su 11° Reunión Extraordinaria celebrada en la ciudad de Brasilia, Brasil el pasado 20 de junio de 2013, acordó aprobar el aumento de los recursos de capital, siendo refrendado mediante Resolución A. G. N° 138/2013, de 1 de agosto de 2013 “Aumento de los Recursos de Capital de FONPLATA. Aprobación”, en la que la Asamblea de Gobernadores de FONPLATA resuelve aprobar el aumento de los recursos de capital suscrito de FONPLATA por un monto de $us1.150.000.000.- (MIL CIENTO CINCUENTA MILLONES 00/100 DÓLARES ESTADOUNIDENSES), comprometiéndose Bolivia a contribuir con un monto de $us127.769.000.- (CIENTO VEINTISIETE MILLONES novecientos SESENTA Y NUEVE mil 00/100 DÓLARES ESTADOUNIDENSES) del total fijado para los Estados Miembros.
+* Que la reposición de los recursos de FONPLATA permitirán que este Organismo tenga la posibilidad de mantener una capacidad prestable de $us250.000.000.- (DOSCIENTOS CINCUENTA MILLONES 00/100 DÓLARES ESTADOUNIDENSES) anualmente por diez (10) años.
+* Que es necesario autorizar la firma del respectivo Instrumento de Suscripción con Compromiso de Contribución por el monto señalado en la Resolución A. G. N° 138/2013, de 1 de agosto de 2013.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza a la Ministra de Planificación del Desarrollo a firmar, en representación del Estado Plurinacional de Bolivia, el “Instrumento de Suscripción con Compromiso de Contribución” ante el Fondo Financiero para el Desarrollo de la Cuenca del Plata - FONPLATA, por un monto de $us127.769.000.- (CIENTO VEINTISIETE MILLONES novecientos SESENTA Y NUEVE mil 00/100 DÓLARES ESTADOUNIDENSES), compuesto por un capital integrado pagadero en efectivo de $us38.889.000.- (TREINTA Y OCHO MILLONES novecientos OCHENTA Y NUEVE mil 00/100 DÓLARES ESTADOUNIDENSES) y un capital exigible de $us88.880.000.- (OCHENTA Y OCHO MILLONES novecientos OCHENTA mil 00/100 DÓLARES ESTADOUNIDENSES), así como realizar todas las acciones necesarias conducentes al cumplimiento de las formalidades requeridas para la ejecución de lo dispuesto en el presente Decreto Supremo.
+
+**Artículo 2°.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a través del Tesoro General de la Nación - TGN, a efectuar el pago de $us38.889.000.- (TREINTA Y OCHO MILLONES novecientos OCHENTA Y NUEVE mil 00/100 DÓLARES ESTADOUNIDENSES), correspondientes al capital integrado pagadero en efectivo, en cinco (5) cuotas anuales de $us7.777.800.- (SIETE MILLONES novecientos SETENTA Y siete mil novecientos 00/100 DÓLARES ESTADOUNIDENSES) a partir de la gestión 2014, según lo dispuesto en la Resolución A. G.138/2013, de 1 de agosto de 2013.
+2. En caso de existir la solicitud de FONPLATA de hacer efectivo el pago del capital exigible, se autoriza al Ministerio de Planificación del Desarrollo a solicitar dicho pago al Ministerio de Economía y Finanzas Públicas. Asimismo, se autoriza al Ministerio de Economía y Finanzas Públicas a través del TGN, a efectuar el pago solicitado, de acuerdo a lo establecido en la normativa vigente y Resoluciones de FONPLATA aprobadas para el efecto.
+
+**Artículo 3°.-** Se autoriza al Ministerio de Economía y Finanzas Públicas:
+
+1. Realizar las modificaciones presupuestarias correspondientes en el Presupuesto General del Estado 2014, e incorporar en el Presupuesto General del Estado de cada ejercicio fiscal el monto correspondiente de las gestiones 2015, 2016, 2017 y 2018, para el pago de las cuotas anuales del capital integrado pagadero en efectivo;
+2. Realizar las modificaciones presupuestarias correspondientes para dar cumplimiento a lo establecido en el Parágrafo II del Artículo precedente.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de marzo del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga, Elba Viviana Caro Hinojosa, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL E INTERINA DE RELACIONES EXTERIORES E INTERINA DE GOBIERNO, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Elizabeth Sandra Gutierrez Salazar MINISTRA DE JUSTICIA E INTERINA DE AUTONOMÍAS, Daniel Santalla Torrez MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE DEFENSA, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

@@ -1,0 +1,125 @@
+# Bolivia: Decreto Supremo Nº 29200, 18 de julio de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que en el marco de la política del desarrollo económico y fortalecimiento de la minería, el Gobierno Nacional debe crear condiciones favorables para las actividades del sector productivo.
+* Que de acuerdo al [Decreto Supremo Nº 28473](#TODO-link) de 2 de diciembre de 2005, se ha decidido desarrollar la exploración, explotación, fundición e industrialización para el aprovechamiento de los recursos minerales del yacimiento del Mutún, ubicado en la provincia Germán Busch del Departamento de Santa Cruz.
+* Que el [Decreto Supremo Nº 28473](#TODO-link) tiene por objeto ordenar un texto único de las disposiciones legales referidas al desarrollo del polo del sud este boliviano y de los yacimientos mineralógicos del Mutún, creando para tal fin la Empresa Siderúrgica del Mutún, conformada con bienes cedidos por la Corporación Minera de Bolivia - COMIBOL, consistentes en activos y el derecho de explotación en el área comprometida (50% del yacimiento) para el riesgo compartido a ser suscrito con la empresa adjudicataria del proceso de licitación publica.
+* Que por razones de interés nacional, necesidad, resguardo y recuperación de las riquezas mineralógicas y demás recursos naturales susceptibles de aprovechamiento, el Estado debe restituir la constitución de Reserva Fiscal de las áreas que comprenden los yacimientos Mutún I, Mutún II, Mutún III, Mutún IV, Mutún V, Mutún VI, Mutún VII, San Miguel, San Miguel II, San Tadeo, San Tadeo II y Yacuses, a los efectos que dispone la Ley de 5 de diciembre de 1917.
+* Que es necesario modificar lo dispuesto por los Artículos 2, 3, 6, 9, 10 y 11 del [Decreto Supremo Nº 28473](#TODO-link) y el Artículo 77 del [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, a fin de que la COMIBOL, a nombre del Estado, aglutine y reordene las competencias y atribuciones de las empresas minero - metalúrgicas del país.
+* Que una de las prioridades de la política del Gobierno Nacional, es superar la condición de país exportador de materias primas, para abarcar toda la cadena productiva hasta llegar a la industrialización de nuestros recursos naturales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar la naturaleza jurídica y la tipología de la Empresa Siderúrgica del Mutún y de la Empresa Metalúrgica Vinto, señalada en los Artículos 2 y 3 del [Decreto Supremo Nº 28473](#TODO-link) de 2 de diciembre de 2005, del Artículo 77 del [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, respectivamente y el [Decreto Supremo Nº 29026](#TODO-link) de 7 de febrero de 2007, transformándolas en Empresas Subsidiarias de la Corporación Minera de Bolivia - COMIBOL, con personalidad jurídica propia y con autonomía de gestión técnica, legal, administrativa, económica y financiera.
+
+**Artículo 2°.- (Modificación de los artículos 6, 9, 10 y 11 del Decreto Supremo Nº 28473)** 
+
+1. Se modifica el Artículo 6 del [Decreto Supremo Nº 28473](#TODO-link) de 2 de diciembre de 2005, con el siguiente texto:
+   > “Por la cesión de derechos y activos a que se refiere los Artículos precedentes la COMIBOL percibirá el veinte por ciento (20%) de los ingresos netos anuales que genere la Empresa Subsidiaria del Mutún, en el marco del Contrato de Riesgo Compartido.”
+2. Se modifica el Artículo 9 del [Decreto Supremo Nº 28473](#TODO-link) de 2 de diciembre de 2005, con el siguiente texto:
+   > “I. Para ordenar y optimizar el manejo administrativo y de operación en el rubro minero, se dispone que a partir de la fecha, la Empresa Subsidiaria Siderúrgica del Mutún está dirigida por un Directorio integrado por un Presidente, designado por Resolución Expresa del Directorio General de COMIBOL.
+   >   
+   > II. El Directorio está representado por las siguientes Instituciones:
+   >   
+   > - Dos (2) Representantes del Ministerio de Minería y Metalurgia.
+   >   
+   > - Cuatro (4) Representantes de la Corporación Minera de Bolivia.
+   >   
+   > - Un (1) Representante del Ministerio de Producción y Microempresa.
+   >   
+   > - Un (1) Representante del Ministerio de Planificación del Desarrollo.
+   >   
+   > - Un (1) Representante de la Prefectura del Departamento de Santa Cruz.
+   >   
+   > - Un (1) Consejero Departamental de la provincia Germán Busch.
+   >   
+   > - Un (1) Representante del Concejo Municipal de Puerto Suárez.
+   >   
+   > III. El Presidente del Directorio tiene funciones ejecutivas y ejerce la representación legal de la Empresa. El Directorio así conformado, elegirá a un Vicepresidente que reemplazará al Presidente en caso de renuncia, ausencia o enfermedad.”
+3. Se modifica el Artículo 10 del [Decreto Supremo Nº 28473](#TODO-link) de 2 de diciembre de 2005, con el siguiente texto:
+   > “Con la finalidad de garantizar una distribución equitativa de los recursos generados de las operaciones del Proyecto Siderúrgico del Mutún, se establece el siguiente porcentaje de participación:
+   >   
+   > a) Para el Municipio de Puerto Suárez un quince por ciento (15%); estos recursos deberán ser invertidos en obras de infraestructura básica para el asentamiento humano.
+   >   
+   > b) Para la Prefectura del Departamento de Santa Cruz un cinco por ciento (5%); estos recursos deberán ser invertidos como contraparte para obras de infraestructura caminera y desarrollo humano en la Provincia Germán Busch.
+   >   
+   > c) Para el Ministerio de Minería y Metalurgia un cinco por ciento (5%).
+   >   
+   > d) Para la COMIBOL un veinte por ciento (20%), como participación por los aportes del cincuenta por ciento (50%) de los derechos sobre las concesiones mineras: Mutún I, Mutún II, San Miguel, San Tadeo y otros activos.
+   >   
+   > e) Para el Tesoro General de la Nación cincuenta por ciento (50%).
+   >   
+   > f) Para la Empresa Subsidiaria del Mutún el cinco por ciento (5%)”
+4. Se modifica el Artículo 11 del [Decreto Supremo Nº 28473](#TODO-link) de 2 de diciembre de 2005, con el siguiente texto:
+   > “La Comisión Calificadora del Proceso de Licitación Publica Internacional es presidida por el Ministerio de Producción y Microempresa y está conformada por:
+   >   
+   > - Un (1) Representante del Ministerio de Minería y Metalurgia.
+   >   
+   > - Un (1) Representante del Ministerio de Producción y Microempresa.
+   >   
+   > - Un (1) Representante del Ministerio de Hacienda.
+   >   
+   > - Un (1) Representante de la Corporación Minera de Bolivia.
+   >   
+   > - Un (1) Representante de la Prefectura del Departamento de Santa Cruz.
+   >   
+   > - Un (1) Consejero Departamental de la Provincia Germán Busch.
+   >   
+   > - Un (1) Representante del Concejo Municipal de Puerto Suárez.”
+
+     
+   La Comisión permanecerá en sus funciones hasta la suscripción del Contrato de Riesgo Compartido.
+     
+   Para su validez, el Contrato de Riesgo Compartido deberá sujetarse estrictamente a lo establecido por la Atribución 5ª del Artículo 59 de la [Constitución Política del estado](#TODO-link).
+
+**Artículo 3°.- (Contrato de riesgo compartido)** Se aclara que el área comprometida para el desarrollo del contrato, representa el cincuenta por ciento (50%) del yacimiento de hierro del Mutún y se encuentra delimitada técnicamente en las cuadrículas especificadas en el Anexo 3B, que forma parte del Contrato de Riesgo Compartido, manteniendo COMIBOL su derecho de libre disponibilidad sobre el otro cincuenta por ciento (50%) del área no comprometida en el citado contrato.
+
+**Artículo 4°.- (Monetización de concentrados)** Con referencia a las ochenta mil (80.000) toneladas de concentrados de hierro existentes en el Mutún, cuya cesión se disponía en el acápite Segundo del Artículo 7 del [Decreto Supremo Nº 28473](#TODO-link), se determina que dicha medida no se encuadra a las normativas vigentes, motivo por el cual se autoriza a la COMIBOL que lleve a cabo un proceso público de comercialización para la monetización de los concentrados, con cuya venta cubrirá gastos previstos para las actividades mineras.
+
+**Artículo 5°.- (Reserva fiscal)** El Estado, en su condición de titular de la propiedad del suelo y el subsuelo, por razones de interés nacional, necesidad, resguardo y recuperación de las riquezas mineralógicas y demás recursos naturales susceptibles de aprovechamiento, declara Reserva Fiscal la totalidad del área que comprende la superficie de las concesiones mineras de los yacimientos Mutún I, Mutún II, Mutún III, Mutún IV, Mutún V, Mutún VI, Mutún VII, San Miguel, San Miguel II, San Tadeo, San Tadeo I. y Yacuses, a los efectos que dispone la Ley de 5 de diciembre de 1917.
+
+**Artículo 6°.- (Modificación del artículo 77 del Decreto Supremo Nº 28631)** Se modifica el Artículo 77 del [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamentario a la Ley de Organización del Poder Ejecutivo, con el siguiente texto:
+> “I. El Ministerio de Minería y Metalurgia tiene bajo su tuición o dependencia orgánica y administrativa, a las siguientes entidades:
+>   
+> Institución Pública Desconcentrada
+>   
+> - Servicio de Geología y Técnico de Minas - SERGEOTECMIN.
+>   
+> Instituciones Públicas Descentralizadas
+>   
+> - Superintendencia General de Minas.
+>   
+> - Fondo Minero de Inversión - FOMIN.
+>   
+> - Complejo Industrial de los Recursos Evaporíticos del Salar de Uyuni - CIRESU.
+>   
+> - Servicio Nacional de Registro y Control de Comercialización de Minerales y Metales - SENARECOM.
+>   
+> Empresa Pública Autárquica
+>   
+> - Corporación Minera de Bolivia - COMIBOL, con sus empresas subsidiarias:
+>   
+> a) Empresa Subsidiaria Mutún.
+>   
+> b) Empresa Subsidiaria Metalúrgica Vinto.
+>   
+> II. El Ministerio de Minería y Metalurgia, por delegación del Presidente de la República, preside:
+>   
+> - El Consejo Nacional de Minería.”
+
+**Artículo 7°.- (Vigencia de normas)** Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de julio del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, Maria Magdalena Cajías de la Vega, Nila Heredia Miranda.

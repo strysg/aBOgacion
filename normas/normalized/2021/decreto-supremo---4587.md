@@ -1,0 +1,93 @@
+# Bolivia: Decreto Supremo Nº 4587, 15 de septiembre de 2021
+
+[Decreto Supremo Nº 4587](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 22 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](#TODO-link), determina que es competencia privativa del nivel central del Estado la política económica y planificación nacional; asimismo, el numeral 35 del Parágrafo II del mencionado Artículo, señala que es competencia exclusiva del nivel central de Estado las políticas generales de desarrollo productivo.
+* Que los Parágrafos I y II del Artículo Único de la [Ley Nº 747](#TODO-link), de 5 de octubre de 2015, autoriza al Fondo Nacional de Inversión Productiva y Social - FPS, la ejecución de programas o proyectos en el marco del numeral 11 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link); así como, ejecutar obras públicas de infraestructura de interés del nivel central del Estado, en predios que no sean de su propiedad, siempre que sean bienes de dominio público, o destinados a la prestación de un servicio público.
+* Que el Artículo 5 de la [Ley Nº 1393](#TODO-link), de 13 de septiembre de 2021, de Modificaciones al Presupuesto General del Estado - Gestión 2021, crea el Fondo Concursable de Inversión Pública Productiva - FOCIPP para los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, para proyectos orientados a la sustitución de importaciones, infraestructura productiva y proyectos productivos, en procura de mejorar las condiciones de desarrollo económico y social de las regiones y localidades; el FOCIPP podrá ser financiado con recursos del Tesoro General de la Nación - TGN de acuerdo a disponibilidad, financiamiento externo y otras fuentes; y el Órgano Ejecutivo establecerá los términos, condiciones, alcances y operatividad del FOCIPP, mediante Decreto Supremo.
+* Que el Artículo 12 del [Decreto Supremo Nº 25984](#TODO-link), de 16 de noviembre de 2000, crea el Fondo Nacional de Inversión Productiva y Social, como entidad de derecho público, descentralizada, con personería jurídica propia, autonomía administrativa, técnica y financiera, actualmente bajo tuición del Ministerio de Planificación del Desarrollo, para contribuir al desarrollo económico y social.
+* Que en el [Decreto Supremo Nº 3115](#TODO-link), de 15 de marzo de 2017, autoriza al Fondo Nacional de Inversión Productiva y Social - FPS, registrar y aprobar traspasos presupuestarios interinstitucionales e intrainstitucionales en el Sistema de Gestión Pública que involucran traspaso de recursos entre proyectos y programas de inversión pública, al interior y entre entidades territoriales autónomas, en el marco de los contratos de financiamiento y de los convenios intergubernativos de transferencia y financiamiento que consideren expresamente la autorización de las citadas modificaciones; asimismo, señala que las mismas serán aprobadas mediante Resolución expresa, conforme a los precitados instrumentos, estarán destinadas a la optimización en la asignación y ejecución de recursos durante la gestión fiscal y no afectarán la estructura de financiamiento de los programas y proyectos.
+* Que las medidas asumidas por el Gobierno de facto ocasionaron un impacto negativo en la gestión de los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, aspecto que repercutió en la paralización de la inversión pública, reducción de los recursos de coparticipación tributaria para municipios y universidades públicas, lo cual se tradujo en enormes pérdidas y la caída de la economía con una subida del desempleo y contracción de la actividad económica.
+* Que los mecanismos establecidos en la [Ley Nº 1393](#TODO-link), buscan reactivar la economía con el fin de dar un mayor impulso al crecimiento y diversificación del sector productivo nacional, mediante sustitución de importaciones, infraestructura productiva y proyectos productivos.
+* Que el mal manejo de la economía durante la gestión 2020, sumado a la Pandemia de la COVID-19, contrajo la capacidad productiva, afectando la generación de ingresos y empleo, por lo que existe la necesidad imperiosa de que el Estado apoye con medidas económicas a favor de los Gobiernos Autónomos Municipales e Indígena Originario Campesinos.
+* Que es necesario dar cumplimiento al mandato de la precitada Ley mediante la puesta en vigencia de un Decreto Supremo que señale los términos, condiciones, alcances y operatividad del FOCIPP, de manera que los Gobiernos Autónomos Municipales e Indígena Originario Campesinos puedan presentar sus postulaciones para acceder al financiamiento de sus proyectos nuevos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar el Artículo 5 de la [Ley Nº 1393](#TODO-link), de 13 de septiembre de 2021, de Modificaciones al Presupuesto General del Estado - Gestión 2021, que crea el Fondo Concursable de Inversión Pública Productiva - FOCIPP para los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, estableciendo los términos, condiciones, alcances y operatividad del mismo.
+
+**Artículo 2°.- (Ámbito de aplicación)** El ámbito de aplicación del presente Decreto Supremo comprende a los Gobiernos Autónomos Municipales e Indígena Originario Campesinos que busquen acceder y/o accedan al FOCIPP.
+
+**Artículo 3°.- (Alcance)** 
+
+1. El FOCIPP se orientará a la sustitución de importaciones, infraestructura productiva y proyectos productivos, en procura de mejorar las condiciones de desarrollo económico y social de las regiones y localidades.
+2. En el caso de los Gobiernos Autónomos Municipales y Gobiernos Autónomos Indígena Originario Campesinos de categorías A y B, podrán concursar al FOCIPP la contraparte de proyectos nuevos que sean concurrentes con el nivel central del Estado.
+
+**Artículo 4°.- (Administración de los recursos del FOCIPP)** La administración y ejecución del FOCIPP, estará a cargo del FPS, en el marco de la normativa vigente.
+
+**Artículo 5°.- (Categorías de los proyectos de inversión)** Los proyectos presentados incluidos aquellos proyectos que requieran contrapartes en proyectos concurrentes con el nivel central del Estado por Gobiernos Autónomos Municipales y Gobiernos Autónomos Indígena Originario Campesinos que postulen para acceder al financiamiento del FOCIPP deberán enmarcarse en las siguientes categorías: a) Sustitución de importaciones. Los proyectos deberán incentivar la producción de aquellos bienes que son importados por el país para satisfacer la demanda interna, de manera que los bienes producidos internamente pasen a sustituir tal importación; b) Infraestructura productiva. Los proyectos deberán coadyuvar al fortalecimiento de la base productiva y al valor agregado de la misma con obras de infraestructura económica productiva, facilitando la producción agraria, transformación, comercialización de productos alimentarios y agroindustriales y otros sectores productivos; c) Proyectos productivos. Los proyectos productivos deberán apoyar a emprendimientos locales, los mismos serán relacionados a la producción agraria, transformación y/o comercialización de productos alimentarios y/o agroindustriales y otros sectores relacionados a la producción de bienes.
+
+**Artículo 6°.- (Ciclo operativo del FOCIPP)** 
+
+1. El ciclo operativo del FOCIPP comprenderá mínimamente las siguientes fases: 1. Lanzamiento de la Convocatoria; 2. Admisión de Proyectos; 3. Evaluación, priorización y aprobación; 4. Publicación y comunicación de resultados y suscripción de convenios y/o acuerdos intergubernativos; 5. Programación y reprogramación de presupuesto de inversión; 6. Ejecución de los proyectos; 7. Seguimiento y evaluación de resultado de los proyectos.
+2. Las convocatorias a concurso público del FOCIPP serán realizadas al menos tres (3) veces al año por el FPS, las mismas se efectuarán a través de un medio escrito de difusión masiva y alcance nacional; adicionalmente se podrá hacer uso de portales institucionales y/o de otros medios.
+3. La convocatoria definirá los plazos para la admisión de las propuestas de los proyectos y la documentación de respaldo correspondiente.
+4. En las fases de evaluación, priorización y aprobación de proyectos, se debe considerar que los proyectos: a) Sean nuevos; b) No incluyan transferencias público-privadas; c) No estén duplicados en la misma ubicación geográfica; d) Se encuentren en la fase de inversión; e) No superen los vienticuatro (24) meses en su plazo de ejecución; f) Cumplan lo establecido en la respectiva convocatoria, bases y normativa vigente.
+5. El FPS deberá efectuar la publicación de los proyectos aprobados de los Gobiernos Autónomos Municipales e Indígena Originario Campesinos beneficiarios, señalando los plazos para la suscripción de los acuerdos y/o convenios intergubernativos.
+6. Una vez aprobados los proyectos de inversión: a) Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos beneficiarios, suscribirán los acuerdos y/o convenios intergubernativos y la documentación necesaria para el acceso al financiamiento con el FPS según corresponda; b) El FPS programará la ejecución de los recursos inscritos de manera mensual.
+7. Las fases previstas en los numerales 1 al 5 del Parágrafo I del presente Artículo, deberán ser efectuadas en un plazo máximo de hasta setenta y cinco (75) días calendario.
+
+**Artículo 7°.- (Responsabilidades)** 
+
+1. El Ministerio de Planificación del Desarrollo estará a cargo de la priorización y aprobación de los proyectos financiados con el FOCIPP.
+2. En todos los casos el FPS es responsable de la evaluación, ejecución, seguimiento y monitoreo de los proyectos financiados con el FOCIPP.
+
+**Artículo 8°.- (Financiamiento)** 
+
+1. El Ministerio de Economía y Finanzas Públicas a través del Tesoro General de la Nación - TGN, asignará recursos al FPS por un monto de hasta Bs1.500.000.000.- (UN mil QUINIENTOS MILLONES 00/100 BOLIVIANOS), de acuerdo a disponibilidad financiera, destinados al FOCIPP.
+2. Se autoriza al Ministerio de Planificación del Desarrollo gestionar recursos para el financiamiento externo del FOCIPP, de acuerdo a disponibilidad financiera.
+
+**Artículo 9°.- (Límites de financiamiento)** La distribución de los recursos del FOCIPP para los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, será de la siguiente manera: a) Categoría A, se destinará hasta Bs350.000.000.- (TRESCIENTOS CINCUENTA MILLONES 00/100 BOLIVIANOS); b) Categoría B, se destinará hasta Bs600.000.000.- (SEISCIENTOS MILLONES 00/100 BOLIVIANOS); c) Categoría C, se destinará hasta Bs350.000.000.- (TRESCIENTOS CINCUENTA MILLONES 00/100 BOLIVIANOS); d) Categoría D, se destinará hasta Bs200.000.000.- (DOSCIENTOS MILLONES 00/100 BOLIVIANOS)
+
+**Artículo 10°.- (Autorización)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a través del TGN, asignar recursos a favor del FPS, destinados a cubrir los gastos operativos y administrativos de los proyectos de inversión financiados con el FOCIPP, el monto asignado no podrá superar el cinco por ciento (5%) de los componentes de inversión y supervisión según el ciclo de vida del proyecto.
+2. Se autoriza al FPS incrementar a través de traspasos presupuestarios intrainstitucionales, las subpartidas de consultorías con cargo a los recursos asignados a la operación y administración del FOCIPP.
+     
+
+   # Disposiciones finales
+
+**Disposición Final Primera.-** 
+
+1. A efecto de dar cumplimiento al presente Decreto Supremo, se exceptúa a los Ministerios de Planificación del Desarrollo y de Economía y Finanzas Públicas y al FPS, de la aplicación del Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 3607](#TODO-link), de 27 de junio de 2018, así como del inciso a) del Parágrafo I del Artículo 30 del [Decreto Supremo Nº 4434](#TODO-link), de 30 de diciembre de 2020.
+2. Las solicitudes de autorización de reasignación con recursos de fuente TGN, de los programas de inversión sectorial a los proyectos de inversión seleccionados, serán presentadas por el FPS, adjuntando el detalle de modificación con la cartera de proyectos aprobados y convenios respectivos. Tales requerimientos serán remitidos mediante nota de conformidad por el Viceministerio de Inversión Pública y Financiamiento Externo, dependiente del Ministerio de Planificación del Desarrollo, al Ministerio de Economía y Finanzas Públicas para su autorización.
+
+**Disposición Final Segunda.-** 
+
+1. A efecto de llevar adelante la primera Convocatoria del FOCIPP, se autoriza al Ministerio de Economía y Finanzas Públicas, a través del TGN, realizar el registro de recursos a favor del FPS hasta Bs250.000.000.- (DOSCIENTOS CINCUENTA MILLONES 00/100 BOLIVIANOS), debiendo registrar inicialmente Bs100.000.000.- (CIEN MILLONES 00/100 BOLIVIANOS) en el presupuesto institucional del FPS en los programas de inversión sectorial, para lo cual el Viceministerio de Inversión y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo asignará los Códigos SISIN correspondientes, una vez publicado el presente Decreto Supremo. El saldo de Bs150.000.000.- (CIENTO CINCUENTA MILLONES 00/100 BOLIVIANOS) será registrado a requerimiento del FPS.
+2. Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del TGN, incorporar del total de recursos del FOCIPP Bs500.000.000.- (QUINIENTOS MILLONES 00/100 BOLIVIANOS) en el presupuesto institucional del FPS, en el proceso de formulación del Presupuesto General del Estado Gestión 2022.
+3. Se autoriza al Ministerio de Economía y Finanzas Públicas realizar el registro de la reprogramación de los recursos previstos en los parágrafos precedentes de la presente Disposición, que fueron comprometidos y no ejecutados en la gestión 2021, en el presupuesto institucional del FPS de las gestiones 2022 y 2023, según corresponda. La solicitud de registro del FPS deberá adjuntar informes técnico y legal, resolución de la máxima instancia legalmente facultada y detalle de modificación presupuestaria, misma que será canalizada por el Viceministerio de Inversión y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo.
+
+**Disposición Final Tercera.-** 
+
+1. La observancia y cumplimiento de las normas legales en el trámite de aprobación y/o registro de modificaciones presupuestarias, es responsabilidad exclusiva de la entidad solicitante.
+2. El registro, confiabilidad y veracidad de la información de las modificaciones presupuestarias y cualquier otra información que sea presentada ante los Ministerios de Economía y Finanzas Públicas y de Planificación del Desarrollo, es responsabilidad de la entidad solicitante.
+
+**Disposición Final Cuarta.-** El FPS elaborará el reglamento operativo del FOCIPP en un plazo máximo de diez (10) días hábiles administrativos a partir de la publicación del presente Decreto Supremo, que será aprobado por el Ministerio de Planificación del Desarrollo en un plazo de hasta diez (10) días hábiles administrativos posteriores.
+
+**Disposición Final Quinta.-** La primera convocatoria del FOCIPP se efectuará en un término de treinta (30) días calendario, una vez aprobado el reglamento operativo para la administración y ejecución de los recursos del FOCIPP por parte del FPS.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas y de Planificación del Desarrollo, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los quince días del mes de septiembre del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Remmy Ruben Gonzales Atila, Sabina Orellana Cruz.

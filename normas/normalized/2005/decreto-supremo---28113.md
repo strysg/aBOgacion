@@ -1,0 +1,40 @@
+# Bolivia: Decreto Supremo Nº 28113, 9 de mayo de 2005
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Ministerio de Hacienda, en representación del Gobierno Nacional, y la Universidad Mayor de San Andrés suscribieron Convenios el 29 de enero de 2001, el 20 de julio de 2001 y el 4 de abril de 2002, comprometiéndose a gestionar a favor de esa Casa Superior de Estudios, la transferencia de cuatro bienes inmuebles registrados en el patrimonio de los entes gestores de la seguridad social en liquidación, ubicados en la Avenida Guerra del Pacífico Nº 1331 Zona Miraflores, Calle Juan de la Riva Nº 1413, y terreno de la calle Nicolás Acosta Nº 242 conectado físicamente con el inmueble de la calle Colombia Nº 239, ambos de la Zona San Pedro.
+* Que los Artículos 55 y 56 de la [Ley Nº 1732](#TODO-link) de 29 de noviembre de 1996 - Ley de Pensiones, establecen la liquidación de los Entes Gestores de la Seguridad Social que administran los regímenes de vejez, invalidez, riesgos profesionales y muerte, así como, los seguros y regímenes especiales a corto y largo plazo del Sistema de Reparto de la Seguridad Social.
+* Que el [Decreto Supremo Nº 25052](#TODO-link) de 23 de mayo de 1998, establece que los activos fijos, valores, acciones y otros títulos valores, así como, los pasivos de los entes gestores señalados en el Artículo 56 de la [Ley Nº 1732](#TODO-link) y en el Artículo 4 del mencionado Decreto Supremo, serán administrados y liquidados por liquidadores designados por el Ministerio de Comercio Exterior e Inversión; los bienes mencionados serán objeto de disposición y transferencia a cargo de la Unidad de Reordenamiento.
+* Que el [Decreto Supremo Nº 26035](#TODO-link) de 22 de diciembre de 2000, autoriza el remate de los bienes muebles e inmuebles de propiedad de los Entes Gestores en liquidación, en base al procedimiento establecido por las Normas Básicas del Sistema de Administración de Bienes y Servicios, aprobadas por el [Decreto Supremo Nº 25964](#TODO-link) de 21 de octubre de 2000.
+* Que la [Ley Nº 2446](#TODO-link) de 19 de marzo de 2003 - Ley de Organización del Poder Ejecutivo, suprime la Unidad de Reordenamiento dependiente del Ministerio de Comercio Exterior e Inversión, que tenia a su cargo la disposición y transferencia con fines de monetización de los bienes del patrimonio de los Fondos Complementarios de Seguridad Social, liquidados por efecto de la [Ley Nº 1732](#TODO-link), determinando que los liquidadores sean designados por el Ministerio de Hacienda.
+* Que el Ministerio de Hacienda a través de la Resolución Ministerial Nº 660 de 1 de octubre de 2004, designa a la Liquidadora de los ex - Entes Gestores de la Seguridad Social, con facultad necesaria para llevar adelante el proceso de liquidación señalado.
+* Que los Informes emitidos por la Unidad Fondos en Liquidación en fecha 26/06/03, SNPE/EP/008/03 de 26/06/03, SNPE/EP/009/03 de 26/06/03 y CITE Nº FL-28-088-2003 de 26/06/2003, de la Unidad Entes Gestores del SENAPE, establecen la situación de las características técnicas y legales de los inmuebles a ser transferidos a favor de la Universidad Mayor de San Andrés - UMSA.
+* Que las autoridades de la UMSA han tomado conocimiento de los informes emitidos sobre la situación técnica - legal en la que se encuentran los inmuebles señalados y mediante Nota RECT Nº 062/03 de 23 de enero de 2003 manifiestan su conformidad y aceptan la transferencia de los inmuebles en la situación técnica y legal en la que se encuentran, comprometiéndose, por su parte, a concluir el saneamiento del derecho propietario.
+* Que la Unidad de Análisis, Seguimiento, Gestión de Patrimonio del SENAPE en Informe SNPE/FL/002/05 de 10/01/05, establece que el monto de los cuatro inmuebles asciende a $us.1.945.747,16.- (UN MILLON novecientos CUARENTA Y CINCO mil novecientos CUARENTA Y siete 16/100 DOLARES AMERICANOS), por otra parte el Informe Legal SNPE/DJ-047/2005 de 14/02/05, señala que en mérito a los antecedentes recomienda autorizar la transferencia de los inmuebles citados anteriormente, mediante Decreto Supremo que debe contener el motivo del mismo y la delegación expresa del Ministerio de Hacienda a la Liquidadora de los ex - Entes Gestores de la Seguridad Social.
+* Que considerando que los inmuebles motivo del presente, como bienes de los ex - Fondos Complementarios de la Seguridad Social deben ser monetizados mediante remate o puja abierta conforme establece la disposición normativa expresa, se requiere la emisión de una norma de igual jerarquía que autorice la transferencia directa a título oneroso de los bienes inmuebles comprometidos a favor de la UMSA, en cumplimiento a Convenios de 29 de enero y 20 de julio de la gestión 2001, suscritos por el Gobierno Nacional.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](#TODO-link) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 4 de mayo de 2005.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Hacienda a través de la Liquidadora de los Entes Gestores de la Seguridad Social, transferir a título oneroso a favor de la Universidad Mayor de San Andrés - UMSA, los inmuebles de los ex - Entes Gestores de la Seguridad Social en Liquidación, detallados a continuación:
+   1. Inmueble ubicado en la calle Juan de la Riva Nº 1413 de la ciudad de La Paz, inscrito en Derechos Reales del Distrito Judicial de La Paz bajo la partida computarizada Nº 01079666 de propiedad del Fondo de Pensiones de los Trabajadores de la Banca Privada, con registro catastral Nº 137745, avalúo de $us.241.372,80.- (DOSCIENTOS CUARENTA Y UN mil TRESCIENTOS SETENTA Y DOS 80/100 DOLARES AMERICANOS).
+   2. Inmueble ubicado en la Av. Guerra del Pacífico Nº 1331 de la ciudad de La Paz, inscrito en Derechos Reales del Distrito Judicial de La Paz, con Folio Real Nº 2.01.0.99.0015992 de 3 de julio de 2001, Tarjeta de Propiedad Nº 01528014 de 21/10/71, inscrito a nombre del ex - Fondo Complementario de Seguridad Social Aeronáutico, avalúo de $us.136.644,36.- (CIENTO TREINTA Y SEIS mil SEISCIENTOS CUARENTA Y CUATRO 36/100 DOLARES AMERICANOS).
+   3. El inmueble ubicado en la calle Nicolás Acosta Nº 242 de la ciudad de la Paz, inscrito en Derechos Reales del Distrito Judicial de La Paz con matrícula Nº 2.01.0.99.0019166 de 11 de agosto de 2003, tarjeta de propiedad Nº 01384030 de 08/07/71, inscrito a nombre del Fondo de Pensiones de la Banca Estatal, avalúo $us.159.120.- (CIENTO CINCUENTA Y NUEVE mil CIENTO VEINTE 00/100 DOLARES AMERICANOS).
+   4. El inmueble ubicado en la calle Colombia Nº 239, inscrito en Derechos Reales del Distrito Judicial de La Paz, bajo la partida computarizada 01162113 a nombre del Fondo de Pensiones de la Banca Estatal, avalúo $us.1.408.610.- (UN MILLON CUATROCIENTOS OCHO mil SEISCIENTOS DIEZ 80/100 DOLARES AMERICANOS).
+2. El Ministerio de Hacienda deberá realizar el procedimiento presupuestario - contable pertinente, para regularizar las operaciones señaladas en el Parágrafo precedente.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo
+  
+Es dado en el palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de mayo del año dos mil cinco.
+  
+Fdo. CARLOS D. MESA GISBERT, Jorge Gumucio Granier Ministro Interino de RR. EE. y Culto, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Luis Carlos Jemio Mollinedo, Erwin Aguilera Antunez, Wálter Kreidler Guillaux, René Gómez García Palao, Guillermo Torres Orias, María Soledad Quiroga Trigo, Graciela Rosario Quiroga Morales, Audalia Zurita Zelada, Victor Gabriel Barrios Arancibia, Jorge Espinoza Morales, Gloria Ardaya Salinas, Pedro Ticona Cruz.

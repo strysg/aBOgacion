@@ -1,0 +1,69 @@
+# Bolivia: Decreto Supremo Nº 2366, 20 de mayo de 2015
+
+[Decreto Supremo Nº 2366](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 19 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link), establece que las áreas protegidas son competencia exclusiva y responsabilidad del nivel central del Estado.
+* Que el Artículo 348 del Texto Constitucional, determina que son recursos naturales los minerales en todos sus estados, los hidrocarburos, el agua, el aire, el suelo y el subsuelo, los bosques, la biodiversidad, el espectro electromagnético y todos aquellos elementos y fuerzas físicas susceptibles de aprovechamiento; y que los recursos naturales son de carácter estratégico y de interés público para el desarrollo del país.
+* Que el Parágrafo I del Artículo 385 de la [Constitución Política del Estado](#TODO-link), dispone que las áreas protegidas constituyen un bien común y forman parte del patrimonio natural y cultural del país; cumplen funciones ambientales, culturales, sociales y económicas para el desarrollo sustentable.
+* Que la [Ley Nº 300](#TODO-link), de 15 de octubre de 2012, Marco de la Madre Tierra y Desarrollo Integral para Vivir Bien, tiene por objeto establecer la visión y los fundamentos del desarrollo integral en armonía y equilibrio con la madre tierra para vivir bien, garantizando la continuidad de la capacidad de regeneración de los componentes y sistemas de vida de la madre tierra, recuperando y fortaleciendo los saberes locales y conocimientos ancestrales, en el marco de la complementariedad de derechos, obligaciones y deberes; así como los objetivos del desarrollo integral como medio para lograr el vivir bien, las bases para la planificación, gestión pública e inversiones y en el marco institucional estratégico para su implementación.
+* Que los numerales 1 y 6 del Artículo 23 de la [Ley Nº 300](#TODO-link), señalan que las bases y orientaciones del Vivir Bien a través del desarrollo integral en conservación de la diversidad biológica y cultural, incluyendo áreas protegidas, son desarrollar políticas, estrategias, planes, programas y proyectos de uso, aprovechamiento, protección y conservación de la biodiversidad de forma participativa, de acuerdo a las características de cada sistema de vida; y que el fortalecimiento del Sistema de Áreas Protegidas Nacional es uno de los principales instrumentos de defensa de la Madre Tierra.
+* Que el Reglamento General de Áreas Protegidas aprobado por [Decreto Supremo Nº 24781](#TODO-link), de 31 de julio de 1997, regula la gestión de las áreas protegidas y establece su marco institucional en función a la [Ley Nº 1333](#TODO-link), de 27 de abril de 1992 y Convenio sobre la Diversidad Biológica ratificado por [Ley Nº 1580](#TODO-link), de 25 de junio de 1994.
+* Que el [Decreto Supremo Nº 24176](#TODO-link), de 8 de diciembre de 1995, aprueba los Reglamentos a la [Ley Nº 1333](#TODO-link), de Medio Ambiente, estableciendo en el Reglamento de Prevención y Control Ambiental, las disposiciones referentes a Evaluación de Impacto Ambiental - EIA y Control de Calidad Ambiental - CCA, dentro del marco de desarrollo sostenible.
+* Que de conformidad a los mandatos constitucionales, es necesario establecer medidas normativas relacionadas a actividades hidrocarburíferas que se desarrollen en áreas protegidas, promoviendo la reducción de la extrema pobreza en comunidades que habitan las áreas protegidas y la gestión integral de los sistemas de vida en las áreas intervenidas, así como el fortalecimiento del Sistema Nacional de Áreas Protegidas, a fin de garantizar las funciones esenciales del Estado para el aprovechamiento responsable y planificado de los recursos naturales y beneficio de todas las bolivianas y bolivianos y el bienestar de las generaciones actuales y futuras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer las medidas para el aprovechamiento de los recursos hidrocarburíferos en todo el territorio nacional, en el marco de su carácter constitucional, estratégico y de interés público para el desarrollo del país; vinculado a la reducción de la extrema pobreza en comunidades que habitan las áreas protegidas y la gestión integral de los sistemas de vida.
+
+**Artículo 2°.- (Actividades autorizadas)** 
+
+1. Se permite el desarrollo de actividades hidrocarburíferas de exploración en las diferentes zonas y categorías de áreas protegidas, en cumplimiento a los condicionamientos ambientales establecidos por el Servicio Nacional de Áreas Protegidas - SERNAP y la Autoridad Ambiental Competente Nacional - AACN, en el marco del presente Decreto Supremo, debiendo prever medidas ambientales adecuadas, con mayor atención en zonas de alta sensibilidad ecológica, para precautelar la conservación de los sistemas de vida de la madre tierra.
+2. El desarrollo de pozos exploratorios, estará sujeto a un procedimiento independiente de Evaluación de Impacto Ambiental y Control de Calidad Ambiental, considerando los resultados de los estudios evaluatorios, de reconocimiento y/o exploratorios para la identificación, ubicación y/o cualificación de los recursos hidrocarburíferos.
+3. En caso que los resultados de exploración concluyan con un descubrimiento comercial para la fase de explotación, el Titular podrá solicitar al SERNAP la evaluación y revisión de los instrumentos de planificación u ordenamiento espacial del Área Protegida, para su adecuación y/o actualización cuando corresponda, limitada solo al área de intervención, en el marco del [Decreto Supremo Nº 24781](#TODO-link), de 31 de julio de 1997, debiendo cumplirse el procedimiento de Evaluación de Impacto Ambiental, Control de Calidad Ambiental y las medidas ambientales establecidos por el SERNAP y la AACN, considerando los objetivos de creación del Área Protegida.
+4. No está permitida la realización de actividades hidrocarburíferas de exploración y explotación en categorías de Santuario y Monumento Natural previstas en el Reglamento General de Áreas Protegidas, aprobado por [Decreto Supremo Nº 24781](#TODO-link), así como en Sitios RAMSAR.
+
+**Artículo 3°.- (Medidas ambientales)** 
+
+1. Cuando se realicen actividades, obras o proyectos en el marco del presente Decreto Supremo, además de lo establecido en el procedimiento de evaluación de impacto ambiental, el Estudio a presentar deberá considerar lo siguiente:
+   1. Incorporar y utilizar mecanismos, equipos, tecnologías más adecuadas y limpias de última generación, en forma progresiva, que tengan por objeto minimizar el impacto negativo e incentivar los positivos, priorizando la tecnología helitransportable, conforme determine la autoridad competente;
+   2. Considerar la existencia de ecosistemas frágiles y sensibles, a fin de reducir su vulnerabilidad y riesgos en la biodiversidad;
+   3. Priorizar tecnologías que minimicen la perturbación de la biodiversidad en zonas donde existan especies endémicas o en peligro de extinción;
+   4. Establecer medidas socio-económicas para contribuir en la erradicación de la extrema pobreza promoviendo medios de vida integrales y sustentables para las poblaciones que viven en las áreas protegidas y áreas de influencia de la Actividad Obra o Proyecto - AOP hidrocarburífero;
+   5. Desarrollar medidas de gestión integral de los sistemas de vida, con énfasis en la protección de las funciones ambientales, preservación de suelos y fuentes de agua, conservación y protección de la biodiversidad y gestión comunitaria;
+   6. Establecer medidas de aislamiento en las áreas de intervención hidrocarburífera, a efectos de evitar nuevos asentamientos humanos.
+2. La aplicación de las medidas establecidas en el Parágrafo anterior u otras propuestas para cada proyecto específico, serán evaluadas por el OSC, SERNAP y la AACN, considerando las características ecológicas y ambientales de cada sitio de intervención dentro del área protegida, y la temporalidad de manera diferenciada para proyectos de exploración y de explotación de hidrocarburos.
+
+**Artículo 4°.- (Inversiones en el Sistema Nacional Áreas Protegidas)** 
+
+1. Las empresas que desarrollen AOPs hidrocarburíferos en áreas protegidas en el marco del presente Decreto Supremo, destinarán el uno por ciento (1%) del monto de inversión establecido en el EEIA, para el fortalecimiento del área protegida intervenida.
+     
+   Dichos recursos serán transferidos por las empresas a Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, el cual transferirá los mismos al Tesoro General de la Nación - TGN, para su posterior inscripción en el presupuesto del Ministerio de Medio Ambiente y Agua a solicitud y previa justificación de este Ministerio, conforme a lo establecido en la normativa vigente.
+2. Se autoriza a YPFB Casa Matriz, realizar transferencias interinstitucionales de hasta el uno por ciento (1%) del monto de inversión prevista por la estatal petrolera para las actividades establecidas en el presente Decreto Supremo, destinadas a la gestión ambiental integral y el fortalecimiento prioritario del Sistema Nacional de Áreas Protegidas.
+     
+   Los recursos señalados, serán transferidos por YPFB Casa Matriz al TGN para su posterior inscripción en el presupuesto del Ministerio de Medio Ambiente y Agua a solicitud y previa justificación de este Ministerio, conforme a lo establecido en la normativa vigente.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+     
+
+   # Disposiciones finales
+
+**Artículo final Único.-** Para las actividades en áreas protegidas del sector de hidrocarburos, se aplicará de manera preferente el presente Decreto Supremo sobre las disposiciones normativas de igual jerarquía que regulan dichas actividades.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hidrocarburos y Energía, y de Medio Ambiente y Agua, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de mayo del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, José Hugo Moldiz Mercado, Reymi Luis Ferreira Justiniano, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE EDUCACIÓN, Ariana Campero Nava, María Alexandra Moreira Lopez, Nemesia Achacollo Tola, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marianela Paco Duran, Tito Rolando Montaño Rivera MINISTRO DE DEPORTES E INTERINO DE CULTURAS Y TURISMO.

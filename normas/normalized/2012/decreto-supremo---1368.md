@@ -1,0 +1,49 @@
+# Bolivia: Decreto Supremo Nº 1368, 3 de octubre de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 349 de la [Constitución Política del Estado](#TODO-link), establece que los recursos naturales son de propiedad y dominio directo, indivisible e imprescriptible del pueblo boliviano y corresponderá al Estado su administración en función del interés colectivo.
+* Que el Parágrafo I del Artículo 369 del Texto Constitucional, determina que el Estado será responsable de las riquezas mineralógicas que se encuentren en el suelo y subsuelo cualquiera sea su origen, y que se reconoce como actores productivos a la industria minera estatal, industria minera privada y sociedades cooperativas.
+* Que el Parágrafo III del Artículo 370 de la [Constitución Política del Estado](#TODO-link), dispone que el derecho minero así como los contratos mineros tienen que cumplir una función económica social ejercida por sus titulares.
+* Que la [Ley Nº 3720](#TODO-link), de 31 de julio de 2007, señala que la Corporación Minera de Bolivia - COMIBOL, participará directamente en la cadena productiva desarrollando las actividades mineras de prospección y exploración; explotación; concentración; fundición y refinación; comercialización de minerales y metales; y administración de las áreas fiscales.
+* Que el [Decreto Supremo Nº 1264](#TODO-link), de 20 de junio de 2012, determina que la COMIBOL, asume el control del Centro Minero Colquiri, así como de la dirección y administración directa sobre los yacimientos otorgados mediante Contrato de Arrendamiento de fecha 24 de febrero de 2000.
+* Que es función del Estado ejercer la administración y control de los sectores estratégicos de la economía y promover las diferentes formas económicas de producción, con el objeto de lograr el desarrollo económico y social del país. Por lo que es necesario, que el Gobierno del Estado Plurinacional emita el presente Decreto Supremo estableciendo las áreas mineras a ser trabajadas por los actores mineros, en el marco de los acuerdos suscritos entre partes, para recuperar la convivencia en paz y armonía de la población de Colquiri.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se modifica el Parágrafo II del Artículo 2 del [Decreto Supremo Nº 1264](#TODO-link), de 20 de junio de 2012, con el siguiente texto:
+> “ARTÍCULO 2.-
+>   
+> II. La COMIBOL, cumpliendo con la normativa vigente, suscribirá contrato de arrendamiento sobre la Veta Rosario a favor de la Cooperativa Minera “26 de Febrero” Ltda., de acuerdo al plano presentado en el Anexo del presente Decreto Supremo y a los siguientes puntos:
+>   
+> La división de la veta Rosario está definida por la línea de referencia 82N en todos los niveles de la mina; hacia el sud queda en poder de la COMIBOL, y hacia el norte de la línea de referencia, queda en poder la Cooperativa “26 de Febrero” Ltda.;
+>   
+> El transformador (punto 2) queda en poder de la COMIBOL; la rampa (punto 3) queda en poder de la Cooperativa Minera “26 de Febrero” Ltda. como punto de ingreso entre el nivel - 325 al nivel - 365 ubicado en la línea 82N;
+>   
+> El ramal Rosario “N” queda en su integridad a favor de la Cooperativa “26 de Febrero” Ltda. El ramal Rosario “D” queda para la COMIBOL, hasta la línea de referencia 87N en todos los niveles, de ahí en adelante, hacia el norte la veta Rosario “D” queda en manos de la Cooperativa Minera “26 de Febrero” Ltda.;
+>   
+> La COMIBOL y la Cooperativa Minera “26 de Febrero” Ltda., tienen la obligación de cuidar las chimeneas de ventilación y respetar las instalaciones de servicio de aire y agua, para evitar perjuicios al desarrollo de las actividades mineras de las partes y en particular de la Empresa Minera Colquiri.”
+
+**Artículo 2°.-** La Cooperativa Minera “26 de Febrero” Ltda., desarrollará actividades mineras en las vetas determinadas en el Parágrafo II del Artículo 2 del [Decreto Supremo Nº 1264](#TODO-link) modificada por el Artículo 1 del presente Decreto Supremo, en base a un proyecto minero, sin asociarse con empresas transnacionales o con empresas privadas organizadas en Bolivia, y con la cantidad de socios registrados al 19 de junio de 2012.
+
+**Artículo 3°.-** En caso que un estudio técnico, económico y legal demuestre que la Empresa Minera Sinchi Wayra S. A., tiene derecho a devolución de la inversión realizada en la preparación para voladura al techo de las estructuras de las vetas Rosario, Rosario “N” y Rosario “D”, la Cooperativa Minera “26 de Febrero” Ltda., y la Corporación Minera de Bolivia - COMIBOL, asumirán esa obligación, de acuerdo a lo que corresponda a cada parte.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo abrogatorio Único.-** Se abroga el [Decreto Supremo Nº 1337](#TODO-link), de 29 de agosto de 2012.
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Minería y Metalurgia, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los tres días del mes de octubre del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

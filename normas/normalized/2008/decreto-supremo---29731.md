@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 29731, 8 de octubre de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que conforme al Parágrafo III del Artículo 147 de la [Constitución Política del estado](#TODO-link), se aprobó el Presupuesto General de la Nación Gestión 2008, el cual señala en su Artículo 12 que el Poder Ejecutivo a través del Ministerio de Hacienda, está autorizado a inscribir y/o incrementar el gasto en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, según lo establecido en los convenios respectivos; asimismo, señala que para las demás fuentes de financiamiento deberá aprobarse un Decreto Supremo.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link) de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 27849](#TODO-link) de 12 de noviembre de 2004, establece los procedimientos y responsables para la elaboración, presentación, aprobación y registro de las modificaciones al Presupuesto General de la Nación, y que dichas modificaciones deben ser aprobadas por Resolución expresa de la máxima autoridad de la entidad solicitante; asimismo, establece distintas competencias de aprobación, según el tipo y alcance de las modificaciones presupuestarias.
+* Que el Artículo 21 de la [Ley Nº 1700](#TODO-link) de 12 de julio de 1996, Ley Forestal, crea el Sistema de Regulación de Recursos Naturales Renovables - SIRENARE, como órgano autárquico, persona jurídica de derecho público con jurisdicción nacional, con autonomía de gestión técnica, administrativa y económica, cuyo objetivo es regular, controlar y supervisar la utilización sostenible de los recursos naturales renovables, Artículo que fue reglamentado mediante [Decreto Supremo Nº 26389](#TODO-link) de 8 de noviembre de 2001.
+* Que mediante [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, se establece a la Superintendencia General del Sistema de Regulación de Recursos Naturales Renovables - SIRENARE, como Institución Pública Autárquica, bajo tuición del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+* Que para la gestión 2008, se aprobó para la Superintendencia General del SIRENARE, el monto de Bs3.087.748.- (TRES MILLONES OCHENTA Y siete mil novecientos CUARENTA Y OCHO 00/100 BOLIVIANOS), financiados con recursos de la Fuente42: Transferencias de Recursos Específicos; Organismo Financiador 230: Otros Recursos Específicos.
+* Que en los presupuestos aprobados para las gestiones 2005, 2006 y 2007 para la Superintendencia General del SIRENARE, no se contempló la asignación de recursos financieros para la realización de las auditorias externas que la institución debe realizar periódicamente. Las auditorias correspondientes a las gestiones 2003, 2004, 2005 y 2006 no se efectuaron, razón por la cual debe transferirse a la partida 25230 “Auditorias Externas” el monto de Bs69.000.- (SESENTA Y NUEVE mil 00/100 BOLIVIANOS) para su realización.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Superintendencia General del Sistema de Regulación de Recursos Naturales Renovables incrementar la subpartida 25230 “Auditorias Externas” en Bs69.000.- (SESENTA Y NUEVE mil 00/100 BOLIVIANOS), a través del traspaso intrainstitucional que afecta la partida 57100 “Incremento de Caja y Bancos”, para la contratación de auditorias externas para las gestiones 2003, 2004, 2005 y 2006, de acuerdo al Anexo adjunto y de conformidad a lo establecido en el Artículo 12 del Presupuesto General de la Nación Gestión 2008.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Hacienda y de Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de octubre del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Walker Sixto San Miguel Rodríguez MINISTRO DE DEFENSA NACIONAL E INTERINO DE GOBIERNO, Celima Torrico Rojas, Carlos Villegas Quiroga, Luís Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Susana Rivero Guzmán, Oscar Coca Antezana, Carlos Romero Bonifaz, Saúl Ávalos Cortez, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, María Magdalena Cajías de la Vega, Jorge Ramiro Tapia Sainz, Héctor E. Arce Zaconeta.

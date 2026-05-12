@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 37, 11 de marzo de 2009
+
+Decreto Supremo Nº 0037
+  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE INTERINO DEL ESTADO PLURINACIONAL
+
+CONSIDERANDO:
+
+* Que el Artículo 407 de la [Constitución Política del Estado](#TODO-link), establece como objetivos de la política de desarrollo rural integral del Estado promover sistemas de riego con el fin de garantizar la producción agropecuaria.
+* Que el [Decreto Supremo Nº 29272](#TODO-link) de 12 de septiembre de 2007 que aprueba el Plan Nacional de Desarrollo establece como política prioritaria del Estado el incremento de las áreas cultivables bajo riego, otorgando mayor acceso al agua de riego, a través del mejoramiento y construcción de nueva infraestructura, la asistencia técnica, la capacitación y el desarrollo tecnológico en riego a las familias campesinas, indígenas, originarias, regantes, colonizadores y productores agropecuarios.
+* Que se ha formulado el “Programa Nacional de Riego con Enfoque de Cuenca” con la finalidad de aumentar el ingreso agrario de los hogares rurales a través de un aumento en la superficie agrícola bajo riego y un mejoramiento de la eficiencia en el uso y distribución del agua para fines agropecuarios.
+* Que para el efecto, el Banco Interamericano de Desarrollo - BID, ha acordado conceder a la República de Bolivia, un crédito de $us.34.300.000.(TREINTA Y CUATRO MILLONES TRESCIENTOS mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a apoyar el financiamiento del citado Programa.
+* Que es preciso autorizar la suscripción del respectivo Contrato de Préstamo con el BID, a objeto de materializar el financiamiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministro de Planificación del Desarrollo, para que en nombre y representación del Gobierno del Estado Plurinacional, suscriba con el Banco Interamericano de Desarrollo - BID, el Contrato de Préstamo por $us.34.300.000.00.-(TREINTA Y CUATRO MILLONES TRESCIENTOS mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el “Programa Nacional de Riego con Enfoque de Cuenca” a ser ejecutado por el Ministerio de Medio Ambiente y Agua, a través del Viceministerio de Recursos Hídricos y Riego.
+2. Se autoriza al Ministerio de Planificación del Desarrollo y al Ministerio de Economía y Finanzas Públicas la suscripción del Convenio Subsidiario con el Ministerio de Medio Ambiente y Agua, para la transferencia de recursos externos y ejecución del Contrato de Préstamo, a solicitud del Ministerio de Planificación del Desarrollo a través del Viceministerio de Inversión Pública y Financiamiento Externo.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Planificación del Desarrollo y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los once días del mes de marzo del año dos mil nueve.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez MINISTRO DE GOBIERNO É INTERINO DE RELACIONES EXTERIORES, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luis Alberto Arce Catacora, Oscar Coca Antezana, Patricia A. Ballivián Estenssoro MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL É INTERINA DE DESARROLLO RURAL Y TIERRAS, Walter Juvenal Delgadillo Terceros MINISTRO DE OO. PP. SERVICIOS Y VIVIENDA E INTERINO DE MEDIO AMBIENTE Y AGUA, Luis Alberto Echazú Alvarado, Celima Torrico Rojas MINISTRA DE JUSTICIA É INTERINA DE LA PRESIDENCIA, Calixto Chipana Callizaya MINISTRO DE TRABAJO, EMPLEO Y PREVISION SOCIAL É INTERINO DE EDUCACIÓN, Jorge Ramiro Tapia Sainz, Pablo César Groux Canedo.

@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 142, 28 de mayo de 2009
+
+Decreto Supremo Nº 0142
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 22 del Presupuesto General de la Nación Gestión - 2009, autoriza al Poder Ejecutivo actual Órgano Ejecutivo, a través del Ministerio de Hacienda actual Ministerio de Economía y Finanzas Públicas, inscribir y/o incrementar el gasto en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos. Para las demás fuentes de financiamiento y los casos que no corresponda a contraparte nacional, deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 29881](#TODO-link), de 7 de enero de 2009, establece los procedimientos y responsables para elaborar, presentar, aprobar y registrar las modificaciones al Presupuesto General de la Nación, así como las competencias de aprobación según el tipo y alcance de las modificaciones presupuestarias.
+* Que el [Decreto Supremo Nº 24110](#TODO-link), de 1 de septiembre de 1995, crea el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF, como entidad descentralizada del Poder Ejecutivo, entidad que tiene el objeto de ampliar la base patrimonial de las entidades del sistema de intermediación financiera de carácter privado, constituidas bajo la Ley de Bancos y Entidades Financieras y el Código de Comercio, como sociedades por acciones, así como para aumentar la disponibilidad de recursos financieros del sector productivo nacional.
+* Que el FONDESIF y el BHN Multibanco S. A., en fecha 23 de abril de 1997, suscribieron un contrato dentro del Plan de Fortalecimiento implementado por el Estado Boliviano mediante Decretos Supremos [Nº 24114](#TODO-link), de 2 de septiembre de 1995 y [Nº 24436](#TODO-link), de 13 de diciembre de 1996, con el objeto de contemplar determinadas operaciones destinadas a fortalecer el status financiero del BHN Multibanco S. A.
+* Que el CITIBANK N. A. Sucursal Bolivia, mediante un proceso de fusión por absorción adquirió el cien por ciento (100%) del patrimonio del BHN Multibanco S. A., en fecha 28 de junio de 1998.
+* Que mediante Resolución del Consejo Superior del FONDESIF Nº 02/2007, de 21 de agosto de 2007, se autoriza al Director General Ejecutivo del FONDESIF la contratación de la Auditoría Especial Financiera y Legal que permita determinar el cumplimiento de las obligaciones asumidas por el CITIBANK N. A. Sucursal Bolivia para la recuperación de la Cartera 1 y 2 previa aprobación de un Presupuesto Adicional, determinación ratificada en reunión del Consejo Superior de fecha 29 de enero de 2009.
+* Que el Presupuesto 2009 del FONDESIF aprobado en el marco de la [Constitución Política del Estado](#TODO-link), no contempla recursos para la contratación de la Auditoria Especial Financiera y Legal de las operaciones del CITIBANK N. A. Sucursal Bolivia, por lo que se requiere incrementar la subpartida 25230 “Auditorías Externas” para la contratación de la consultoría señalada.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF incrementar la subpartida 25230 “Auditorías Externas” en Bs1.200.000.- (UN MILLÓN DOSCIENTOS mil 00/100 BOLIVIANOS) a través del traspaso interinstitucional que realizará el Tesoro General de la Nación - TGN afectando la partida 99200 “Provisiones para Gastos Corrientes”, para la realización de la Auditoría Especial Financiera y Legal a las operaciones realizadas por el CITIBANK N. A.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Planificación del Desarrollo; y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de mayo del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardi Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Velez, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia A. Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luis Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Cesar Groux Canedo.

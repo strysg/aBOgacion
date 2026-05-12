@@ -1,0 +1,94 @@
+# Bolivia: Decreto Supremo Nº 26778, 31 de agosto de 2002
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley de Organización del Poder Ejecutivo](#TODO-link) Nº 1788 - LOPE de 16 de septiembre de 1997, establece las normas que rigen la organización y funcionamiento del Poder Ejecutivo, determinando su estructura y competencias.
+* Que el [Decreto Supremo Nº 26772](#TODO-link) de 15 de agosto de 2002, establece la nueva reglamentación de la LOPE, en el marco de la actual política del Gobierno Nacional.
+* Que es necesaria una complementación a la nueva reglamentación de la LOPE, con el propósito de perfeccionar la conformación del Poder Ejecutivo y mejorar el desarrollo de sus funciones.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposicion general
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto realizar adecuaciones y complementaciones al [Decreto Supremo Nº 26772](#TODO-link) de 15 de agosto de 2002 reglamentario a la [Ley de Organización del Poder Ejecutivo](#TODO-link) - LOPE.
+
+## Capítulo II Ministerio de la Presidencia
+
+**Artículo 2°.- (Modificacion)** 
+
+1. Se suprime, de las funciones del Viceministro de Coordinación Gubernamental, el inciso h) establecido en el Artículo 17 del [Decreto Supremo Nº 26772](#TODO-link), el mismo que pasa en su integridad, como inciso g), a ser parte de las funciones del Coordinador de la Gestión de la Presidencia de la República establecidas en el parágrafo II del Artículo 74 de dicho Decreto Supremo.
+2. El Servicio Nacional de Organización del Poder Ejecutivo pasa a dependencia funcional del Coordinador de la Gestión de la Presidencia de la República, ejercida por el Asesor General del Ministerio de la Presidencia; por lo que, se deroga en su integridad el parágrafo II del Artículo 16 del [Decreto Supremo Nº 26772](#TODO-link).
+
+**Artículo 3°.- (Adicion)** Se adiciona un párrafo al parágrafo I del Artículo 74 del [Decreto Supremo Nº 26772](#TODO-link), con el siguiente texto:
+> “El cargo de Coordinador de la Gestión de la Presidencia de la República en virtud a la responsabilidad y funciones que desempeña, y con el objeto de concordar las mismas a la estructura jerárquica del Ministerio de la Presidencia, tiene rango de Viceministro.”
+
+## Capítulo III Ministerio de Agricultura, Ganaderia y Desarrollo Rural
+
+**Artículo 4°.- (Supresion)** 
+
+1. Se suprime de los parágrafos I y II del Artículo 43 del [Decreto Supremo Nº 26772](#TODO-link), la frase “Servicio Nacional de Control de Fiebre Aftosa, Rabia y Brucelosis”, que figuraba en la conformación del Ministerio de Agricultura, Ganadería y Desarrollo Rural y tenía definida su dependencia directa hacia el Ministro.
+2. Se suprime, de la estructura del Viceministerio de Agricultura, Ganadería y Pesca, la Dirección General de Desarrollo Tecnológico.
+
+## Capítulo IV Ministerio Sin Cartera Responsable de Servicios Financieros
+
+**Artículo 5°.- (Modificacion)** En el parágrafo II del Artículo 64 del [Decreto Supremo Nº 26772](#TODO-link), en donde aparece la referencia al Viceministro de Pensiones, Valores y Seguros, se suprime el termino Valores; por lo que la referencia correcta es: “Viceministro de Pensiones y Seguros”.
+
+**Artículo 6°.- (Adicion)** Se adiciona el inciso J. al Artículo 63 del [Decreto Supremo Nº 26772](#TODO-link), relativo a las funciones del Ministro sin Cartera Responsable de Asuntos Financieros, el siguiente texto:
+> “J. Asumirá todas las competencias establecidas para el Ministerio de Desarrollo Económico de acuerdo a lo establecido en el Artículo 28 del [Decreto Supremo Nº 26215](#TODO-link) de 15 de junio de 2001 - Reglamento de Concesión del Servicio de Registro de Comercio.”
+
+## Capítulo V Ministerio Sin Cartera Responsable de Asuntos Campesinos e Indigenas, Genero y Generacionales
+
+**Artículo 7°.- (Viceministro de Asuntos Campesinos)** 
+
+1. Se incluye en la conformación del Viceministro de Asuntos Campesinos establecida en el Artículo 61 del [Decreto Supremo Nº 26772](#TODO-link) el:
+     
+   Director General de Acuerdos y Convenios con el Sector Campesino
+2. La Dirección General de Acuerdos y Convenios con el Sector Campesino será responsable de realizar el seguimiento y evaluación al cumplimiento de los acuerdos y convenios con el Sector Campesino, coordinando con los Ministerios respectivos según la temática específica.
+
+**Artículo 8°.- (Viceministro de los Asuntos del Niño, Niña y Adolescente)** 
+
+1. Se incluye en la conformación del Ministerio sin Cartera Responsable de Asuntos Campesinos e Indígenas, Género y Generacionales establecida en el Artículo 61 del [Decreto Supremo Nº 26772](#TODO-link) el:
+   > “Viceministro de los Asuntos del Niño, Niña y Adolescente
+   >   
+   > Director General de Políticas y Gestión para el Niño, Niña y Adolescente”
+2. El Viceministro de los Asuntos del Niño, Niña y Adolescente tendrá las siguientes funciones específicas:
+   > “Proponer políticas y normas para fortalecer el régimen de prevención, protección y atención integral a todo niño, niña o adolescente.
+   >   
+   > Proponer políticas de asistencia social, educativa y recreativa a favor de los niños, niñas y adolescentes, reafirmando sus condiciones de libertad, respeto, dignidad, equidad y justicia.
+   >   
+   > Vigilar el cumplimiento del Código del Niño, Niña y Adolescente, recomendando acciones que coadyuven a su implementación.
+   >   
+   > Apoyar a las Prefecturas de Departamento y Municipios, en el funcionamiento de sus áreas y unidades especializadas con la finalidad de apoyar a los niños, niñas y adolescentes.”
+
+**Artículo 9°.- (Recursos financieros)** 
+
+1. El Ministerio sin Cartera Responsable de Asuntos Campesinos e Indígenas, Género y Generacionales presentará al Ministerio de Hacienda un presupuesto mínimo de funcionamiento para la presente gestión, con el objeto de que se puedan desarrollar las competencias y funciones establecidas en el presente Decreto Supremo.
+2. El Ministerio de Hacienda deberá presentar el presupuesto elaborado por el Ministerio sin Cartera Responsable de Asuntos Campesinos e Indígenas, Género y Generacionales a consideración del Consejo Nacional de Política Económica - CONAPE, para su respectiva evaluación y aprobación.
+
+## Capítulo VI Consejo de Coordinacion
+
+**Artículo 10°.- (Sustitucion)** Se sustituye el Artículo 90 del [Decreto Supremo Nº 26772](#TODO-link), de la siguiente manera:
+> “Artículo 90.(CONSEJO NACIONAL PARA LA REDUCCION DE RIESGOS Y ATENCION DE DESASTRES Y/O EMERGENCIAS).- De acuerdo al Artículo 4 de la [Ley Nº 2335](#TODO-link) de 5 de marzo de 2002, el Consejo Nacional para la Reducción de Riesgos y Atención de Desastres y/o Emergencias - CONARADE, será presidido por el presidente de la República y estará conformado por el Ministro de Defensa Nacional, Ministro de Desarrollo Sostenible y Planificación, Ministro de Hacienda, Ministro de la Presidencia, Ministro de Gobierno, Ministro de Salud y Previsión Social, Ministro de Agricultura, Ganadería y Desarrollo Rural y Ministro de Vivienda y Servicios Básicos. En ausencia o por delegación del Presidente de la República el CONARADE será presidido por el Ministro de Defensa Nacional o el Ministro de Desarrollo Sostenible y Planificación, en función a la naturaleza de la convocatoria y en el marco de las atribuciones conferidas en el Artículo 10 de la [Ley Nº 2140](#TODO-link).”
+
+## Capítulo VII Disposiciones finales
+
+**Artículo 11°.- (Reforma institucional)** 
+
+1. En el marco del Proceso de Reforma Institucional, se ratifican los Acuerdos de Reforma suscritos por los Ministerios Pilotos de: Agricultura, Ganadería y Desarrollo Rural y, Vivienda y Servicios Básicos.
+2. al haberse abrogado los Decretos Supremos [Nº 26300](#TODO-link) de 1 de septiembre de 2001 y [Nº 26631](#TODO-link) de 22 de mayo de 2002, mediante los cuales se aprobaban las Estructuras Organizacionales de los Ministerios de Agricultura, Ganadería y Desarrollo Rural y de Vivienda y Servicios Básicos, respectivamente, se instruye a los Ministros de estas Carteras, presenten en el plazo de sesenta días Proyectos de decretos supremos complementarios que se adecuen al nuevo marco institucional establecido en el [Decreto Supremo Nº 26772](#TODO-link) y tomen en cuenta los Acuerdos firmados con el Programa de Reforma Institucional
+
+**Artículo 12°.- (Abrogaciones y derogaciones)** Se abrogan y derogan todas las disposiciones legales contrarias al presente Decreto Supremo.
+
+---
+
+Los Ministros de Estado en los Despachos de la Presidencia, Hacienda, Agricultura, Ganadería y Desarrollo Rural, Desarrollo Sostenible y Planificación, sin Cartera Responsable de Servicios Financieros, sin Cartera Responsable de Asuntos Campesinos e Indígenas, Género y Generacionales, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de agosto del año dos mil dos.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Carlos Saavedra Bruno, Carlos Sánchez Berzain, Alberto Gasser Vargas, Freddy Teodovich Ortiz, Gina Luz Méndez Hurtado, José Guillermo Justiniano Sandoval, Javier Comboni Salinas, Oscar Farfán Mealla, Arturo Liebers Baldivieso, Juan Carlos Virreira Méndez, Carlos Morales Landivar MINISTRO DE VIVIENDA Y SERVICIOS BASICOS E INTERINO RESPONSABLE DE HIDROCARBUROS, Isaac Maidana Quisbert , Javier Torres Goitia Caballero, Jaime Navarro Tardio, Hernán Paredes Muñoz, Javier Suárez Ramírez, Silvia Amparo Velarde Olmos.

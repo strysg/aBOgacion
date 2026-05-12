@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 29131, 16 de mayo de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 16 de la [Ley Nº 1405](#TODO-link) de 30 de diciembre de 1992, Ley Orgánica de las Fuerzas Armadas de la Nación, establece que la Institución Castrense está constituida por el Ejército, la Fuerza Aérea y la Fuerza Naval, organizadas bajo los siguientes Comandos: Comando en Jefe, Comando General del Ejército, Comando General de la Fuerza Aérea y Comando General de la Fuerza Naval.
+* Que el Artículo 36 de la [Ley Nº 1405](#TODO-link), señala que el Comando en Jefe de las Fuerzas Armadas de la Nación es el más alto organismo de Mando y Decisión de carácter técnico operativo, de permanente coordinación y dirección de las Fuerzas Armadas.
+* Que el Artículo 39 de la [Ley Nº 1405](#TODO-link), establece que el Comandante en Jefe tiene rango de Ministro de Estado y podrá asistir a las reuniones de gabinete cuando sea expresamente convocado para tratar asuntos de interés sobre la Seguridad y Defensa Nacional. Recibe órdenes del Presidente de la República.
+* Que para el cumplimiento de esas funciones, el Comandante en Jefe de las Fuerzas Armadas debe efectuar operativos para los cuales requiere medios materiales suficientes, como ser un vehículo para ejercer el mando y coordinar las actividades del Ejército, la Fuerza Aérea y la Fuerza Naval y otras atribuciones y funciones señaladas en la [Ley Nº 1405](#TODO-link).
+* Que de acuerdo al informe técnico - financiero, emitido por el Director Administrativo Financiero del Comando en Jefe, el vehículo del que dispone el Comandante en Jefe de las Fuerzas Armadas debe ser reemplazado con urgencia, por presentar desgaste y deterioro emergente de su continuo funcionamiento, puesto que se constituye en instrumento imprescindible para el cumplimiento de las funciones y responsabilidades de la autoridad.
+* Que como consecuencia de la distribución de utilidades de la Corporación de las Fuerzas Armadas para el Desarrollo Nacional - COFADENA, mediante Resolución del Directorio Nº 008/2006 se autoriza la transferencia de los recursos a favor del Comando en Jefe de las Fuerzas Armadas de la Nación, así como la transferencia de la cuota parte del Ejército, a objeto de viabilizar la compra de un vehículo para el Comandante en Jefe de las Fuerzas Armadas.
+* Que el Artículo 20 del [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, prohíbe a las entidades públicas la compra o alquiler de vehículos, por lo que a fin de que el Comandante en Jefe de las Fuerzas Armadas pueda dar cumplimiento a sus funciones y responsabilidades asignadas por Ley, se hace necesario exceptuar al Comando en Jefe de las Fuerzas Armadas de la aplicación de la citada disposición.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 14 de mayo de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Defensa Nacional.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Defensa Nacional, a través de la Dirección Genera l de Administración Financiera del Comando en Jefe de las Fuerzas Armadas, la compra de un (1) vehículo para uso oficial del Comandante en Jefe de las Fuerzas Armadas de la Nación, de acuerdo a las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+2. La compra del vehículo se financiará con cargo al presupuesto del Comando en Jefe de las Fuerzas Armadas.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Defensa Nacional, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de mayo del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Juvenal Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE SALUD Y DEPORTES, Victor Cáceres Rodríguez.

@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 29582, 27 de mayo de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que las Fuerzas Armadas de la Nación, por mandato Constitucional participan activamente, dentro del desarrollo integral del país, realizando obras de infraestructura social y productiva, construyendo caminos, escuelas, postas sanitarias, captación de agua potable, alfabetización, forestación, preservación ecológica, formación de mano de obra en todo el territorio nacional, y particularmente en las zonas fronterizas.
+* Que el Artículo 50 de la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establece que el Ministerio de Defensa Nacional tiene bajo su tuición o dependencia orgánica y administrativa, como Institución Pública Descentralizada a la Escuela Militar de Ingeniería - EMI.
+* Que el [Decreto Supremo Nº 21295](#TODO-link) de 6 de junio de 1986, reconoce a la Escuela Militar de Ingeniería “Mariscal Antonio José de Sucre” como Institución Superior Universitaria que desarrolla la función de formación profesional y el otorga la potestad de extender diplomas académicos y títulos en provisión nacional.
+* Que la Escuela Militar de Ingeniería “Mariscal Antonio José de Sucre”, es una Escuela de gran presencia a nivel nacional y prestigio internacional, con oferta académica en diversas áreas del conocimiento, asimismo tiene la misión de formar y especializar profesionales de excelencia, con valores éticos, morales y cívicos; caracterizados por su responsabilidad, liderazgo y disciplina; promoviendo la interacción social, la investigación científica y tecnológica para contribuir al desarrollo integral del país.
+* Que el Rector de la Escuela Militar de Ingeniería “Mariscal Antonio José de Sucre” y las Unidades Académicas en el cumplimiento de sus objetivos con la institución y el mejoramiento de las actividades de su alumnado precisa planificar, coordinar y evaluar el cumplimiento de los objetivos en cada una de las Unidades Académicas; así como la participación en seminarios, conferencias, ferias estudiantiles, actos cívicos de autoridades, personal operativo - técnico y alumnado en general; asimismo precisa movilizar a las Unidades Académicas material didáctico y de construcción, para lo cual es necesario renovar los actuales vehículos que se encuentran en regular y mal estado, perjudicando el cumplimiento de los objetivos y la misión institucional de la citada Escuela.
+* Que el [Decreto Supremo Nº 29364](#TODO-link) de 5 de diciembre de 2007, modifica el [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, y establece en el Parágrafo III del Artículo 2, la sustitución del Artículo 20 del [Decreto Supremo Nº 27327](#TODO-link) y determina la prohibición a las entidades públicas de compra o alquiler de vehículos, excepcionalmente en casos de extrema necesidad, previa justificación y certificación del Servicio Nacional de Patrimonio del Estado - SENAPE, que acredite la inexistencia de los vehículos requeridos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza a la Escuela Militar de Ingeniería - EMI, entidad bajo tuición del Ministerio de Defensa Nacional, la compra de una (1) vagoneta 4x4 modelo estándar, destinada al cumplimiento de las funciones específicas del Rector de la Escuela, y la compra de cuatro (4) camionetas doble cabina, modelo estándar, destinadas al cabal cumplimiento de las funciones operativas de las Unidades Académicas de La Paz, Cochabamba, Santa Cruz y Riberalta, respectivamente, en el marco de las disposiciones y normas vigentes del Sistema de Administración de Bienes y Servicios.
+2. La compra de los vehículos, se financiará con recursos propios de la EMI.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Defensa Nacional, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la Ciudad de La Paz, a los veintisiete días del mes de mayo del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Cespedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas MINISTRA DE JUSTICIA E INTERINA DE EDUCACION Y CULTURAS, Graciela Toro Ibañez, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Angel Javier Hurtado Mercado, Oscar Coca Antezana, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, Walter Selum Rivero.

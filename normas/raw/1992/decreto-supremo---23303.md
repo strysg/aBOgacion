@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 23303, 19 de octubre de 1992
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la Corporación Andina de Fomento, persona jurídica de Derecho internacional público con sede en Caracas, Venezuela, creada mediante el convenio constitutivo suscrito por Bolivia, Ecuador, Colombia, Chile, Perú y Venezuela el 27 de febrero de 1968, inició formalmente sus operaciones el 8 de junio de 1970;
+* Que el mencionado organismo tiene el propósito de exhibir en el salón de directorio de su sede Caracas, una muestra pictórica representativa de los países miembros, como una manifestación de la integración subregional, habiendo solicitado que Bolivia esté representada en esa exposición;
+* Que el Banco Central de Bolivia es propietario de un cuadro en témpera sobre lino, en perfecto estado de conservación del pintor boliviano Fernando Montes, titulado “Familia y Tierra” de 1.18 por 1.18 metros, que representa en primer plano en tono marrón, dentro un círculo, tres figuras indígenas femeninas más dos niños y un paisaje altiplánico en el fondo, con el cielo color blanco; cuadro inventariado bajo clave 76601-0066 en la cuenta “Obras de arte” del instituto emisor;
+* Que el patrimonio cultural nacional debe ser conocido en el exterior, correspondiendo en tal sentido autorizar al Banco Central prestar temporalmente el cuadro al organismo solicitante.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Banco Central de Bolivia prestar su cuadra “Familia y Tierra” del pintor boliviano Fernando Montes a la Corporación Andina de Fomento, por el plazo de dos (2) años, para exhibirlo en su sede en Caracas, Venezuela, préstamo que se concretará con la entrega de la obra artística al Jefe de la representación oficial de la CAF en Bolivia, previa suscripción de la pertinente acta de entrega y recepción asi como de los respectivos servicios administrativos entre los personeros legales del banco emisor y la CAF.
+
+**Artículo 2°.-** Autorízase a la representación oficial de la Corporación Andina de Fomento en Bolivia, la salida y envío del cuadro “Familia y Tierra” a Caracas, Venezuela, para su exhibición durante dos (2) años en su sede en la mencionada ciudad.
+
+**Artículo 3°.-** La representación de la Corporación Andina de Fomento en Bolivia se encargará del envío del cuadro a Caracas, con el asesoramiento del departamento de Repositorios Culturales del Banco Central de Bolivia y la cooperación de los pertinentes organismos administrativos y aduaneros e Instituto Boliviano de Cultura, debiendo adoptar todas las precauciones y medidas de seguridad que garanticen plenamente la óptima conservación y posterior devolución de la pintura prestada.
+
+**Artículo 4°.-** La custodía del cuadro estará esencialmente a cargo de la presidencia ejecutiva de la CAF.
+
+---
+
+Los señores Ministros de Estado en los despachos de Planeamiento y Coordinación, Relaciones Exteriores y Culto asi como Finanzas quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de octubre de mil novecientos noventa y dos años.
+  
+Fdo. JAIME PAZ ZAMORA, Carlos A. Saavedra Bruno, Ronald MacLean Abaroa, Gustavo Fernández Saavedra, Alberto Saenz Klinsky, Jorge Landívar Roca, Samuel Doria Medina Auza, Jorge Quiroga Ramirez, Hedim Céspedes Cossio, Carlos Aponte Pinto, Fernando Campero Prudencio, Oscar Zamora Medinacelli, Carlos Dabdoub Arrien, Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Herbert Muller Costas, Fernando Kieffer Guzmán, Jaime Céspedes Toro.

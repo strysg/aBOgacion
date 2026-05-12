@@ -1,0 +1,87 @@
+# Bolivia: Decreto Supremo Nº 3204, 7 de junio de 2017
+
+[Decreto Supremo Nº 3204](#TODO-link)  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 6 del Artículo 9 de la [Constitución Política del Estado](#TODO-link), determina que son fines y funciones esenciales del Estado entre otros, promover y garantizar el aprovechamiento responsable y planificado de los recursos naturales, e impulsar su industrialización, a través del desarrollo y del fortalecimiento de la base productiva en sus diferentes dimensiones y niveles, así como la conservación del medio ambiente, para el bienestar de las generaciones actuales y futuras.
+* Que el Artículo 384 del Texto Constitucional, establece que el Estado protege a la coca originaria y ancestral como patrimonio cultural, recurso natural renovable de la biodiversidad de Bolivia, y como factor de cohesión social; en su estado natural no es estupefaciente. La revalorización, producción, comercialización e industrialización se regirá mediante la ley.
+* Que el numeral 5 del Artículo 405 de la [Constitución Política del Estado](#TODO-link), señala que el desarrollo rural integral sustentable es parte fundamental de las políticas económicas del Estado, que priorizará sus acciones para el fomento de todos los emprendimientos económicos comunitarios y del conjunto de los actores rurales, con énfasis en la seguridad y en la soberanía alimentaria, a través del fortalecimiento de la economía de los pequeños productores agropecuarios y de la economía familiar y comunitaria.
+* Que el Parágrafo I del Artículo 406 del Texto Constitucional, dispone que el Estado garantizará el desarrollo rural integral sustentable por medio de políticas, planes, programas y proyectos integrales de fomento a la producción agropecuaria, artesanal, forestal y al turismo, con el objetivo de obtener el mejor aprovechamiento, transformación, industrialización y comercialización de los recursos naturales renovables.
+* Que la [Ley Nº 144](#TODO-link), de 26 de junio de 2011, de la Revolución Productiva Comunitaria Agropecuaria, tiene por objeto normar el proceso de la Revolución Productiva Comunitaria Agropecuaria, para la soberanía alimentaria estableciendo las bases institucionales, políticas y mecanismos técnicos, tecnológicos y financieros de la producción, transformación y comercialización de productos agropecuarios y forestales, de las y los diferentes actores de la economía plural; priorizando la producción orgánica en armonía y equilibrio con las bondades de la Madre Tierra.
+* Que la Agenda Patriótica del Bicentenario 2025, elevada a rango de Ley mediante [Ley Nº 650](#TODO-link), de 15 de enero de 2015, es un mandato social que pretende consolidar el proceso de transformaciones estructurales del Estado Plurinacional de Bolivia en base a trece (13) pilares fundamentales, de los cuales guardan relación con el presente Decreto Supremo: La soberanía científica y tecnológica con identidad propia, la soberanía productiva con diversificación y desarrollo integral sin la dictadura del mercado capitalista, la soberanía alimentaria a través de la construcción del saber alimentarse para Vivir Bien y la soberanía ambiental con desarrollo integral, respetando los derechos de la Madre Tierra.
+* Que el Plan de Desarrollo Económico y Social 2016 - 2020 en el marco del Desarrollo Integral para Vivir Bien aprobado por [Ley Nº 786](#TODO-link), de 9 de marzo de 2016, se constituye en el marco estratégico y de priorización de Metas, Resultados y Acciones a ser desarrolladas en el tercer periodo del gobierno de la Revolución Democrática Cultural, mismo que se elabora sobre la base de la Agenda Patriótica del Bicentenario 2025 y el Programa de Gobierno 2015 - 2020.
+* Que los Parágrafos I y II de la Disposición Transitoria Primera de la [Ley Nº 906](#TODO-link), de 8 de Marzo de 2017, General de la Coca, establece que el Fondo Nacional de Desarrollo Alternativo - FONADAL será sustituido por el Fondo Nacional de Desarrollo Integral - FONADIN, bajo dependencia del Ministerio de Desarrollo Rural y Tierras. Su naturaleza jurídica, finalidades y funciones serán establecidas mediante Decreto Supremo en el plazo máximo de noventa (90) días calendario. A los fines de la citada Ley y en tanto se cumplan los procedimientos administrativos pertinentes, se mantienen vigentes las disposiciones que regulan el funcionamiento del FONADAL.
+* Que con la finalidad de dar cumplimiento a la Disposición Transitoria Primera de la [Ley Nº 906](#TODO-link), es necesaria la aprobación de un Decreto Supremo para el funcionamiento del FONADIN, como institución pública desconcentrada del Ministerio de Desarrollo Rural y Tierras, bajo una nueva concepción de desarrollo integral con coca, que represente el cambio de visión del denominado “desarrollo alternativo”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (OBJETO)** El presente Decreto Supremo tiene por objeto establecer la naturaleza jurídica, finalidades y funciones del Fondo Nacional de Desarrollo Integral - FONADIN, en el marco de la Disposición Transitoria Primera de la [Ley Nº 906](#TODO-link), de 8 de marzo de 2017, General de la Coca.
+
+**Artículo 2°.- (NATURALEZA JURÍDICA)** 
+
+1. El FONADIN, es una institución pública desconcentrada del Ministerio de Desarrollo Rural y Tierras, con independencia de gestión administrativa, financiera, legal y técnica, bajo la normativa interna de esta Cartera de Estado.
+2. Tiene dependencia directa de la Máxima Autoridad Ejecutiva del Ministerio de Desarrollo Rural y Tierras y funcional del Viceministerio de Coca y Desarrollo Integral.
+
+**Artículo 3°.- (ZONA DE INTERVENCIÓN)** Se entiende por zona de intervención, las zonas autorizadas establecidas en el Artículo 16 de la [Ley Nº 906](#TODO-link), así como aquellas zonas de influencia establecidas mediante reglamentación específica y/o estrategias del Estado.
+
+**Artículo 4°.- (FINALIDAD)** El FONADIN, tiene por finalidad fomentar el desarrollo integral sustentable, promoviendo el desarrollo productivo, el fortalecimiento de los sistemas de educación, salud, saneamiento básico y articulación territorial, con enfoque de género- generacional, resiliencia al cambio climático y con énfasis en la seguridad alimentaria que permitan mejorar las condiciones productivas y económicas de las familias hacia la satisfacción de sus necesidades.
+
+**Artículo 5°.- (FUNCIONES)** En el marco de las políticas y estrategias nacionales, las funciones del FONADIN son las siguientes:
+
+1. Promover el desarrollo integral sustentable, a través de la ejecución y/o financiamiento de planes, programas, proyectos y actividades en las zonas de intervención;
+2. Promover la inter e intrasectorialidad a través de la articulación y coordinación entre instituciones públicas y privadas, a nivel nacional e internacional;
+3. Apoyar y fortalecer a las organizaciones sociales y productivas legalmente constituidas a través de la implementación planes, programas, proyectos y actividades en las zonas de intervención;
+4. Gestionar convenios, en el marco de sus competencias, con entidades territoriales autónomas, instituciones públicas y organizaciones privadas, para el financiamiento y ejecución de planes, programas, proyectos y actividades;
+5. Apoyar con asistencia técnica a la ejecución de planes, programas, proyectos y actividades en el marco de los convenios suscritos;
+6. Realizar seguimiento, monitoreo y evaluación a planes, programas, proyectos y actividades en el marco de los convenios suscritos;
+7. Desarrollar, implementar y operar sistemas de información para la gestión de planes, programas, proyectos y actividades;
+8. Promover la transparencia y el desarrollo de mecanismos de participación y control social comunitario en todos los planes, programas, proyectos y actividades;
+9. Apoyar la transformación de productos resultantes del desarrollo integral sustentable en coordinación con el Ministerio de Desarrollo Productivo y Economía Plural y las instancias competentes;
+10. Elaborar propuestas de estrategias, planes, programas, proyectos y actividades para el desarrollo integral sustentable, prioritariamente en los rubros potenciales de las zonas de intervención;
+11. Otras funciones que permitan el cumplimiento de las obligaciones adquiridas y mandatos emitidos por la Máxima Autoridad Ejecutiva del Ministerio de Desarrollo Rural y Tierras.
+
+**Artículo 6°.- (ORGANIZACIÓN)** 
+
+1. El FONADIN cuenta con los niveles de organización ejecutivo y operativo. El Director General del FONADIN se constituye en el nivel ejecutivo, será designado por la Ministra(o) de Desarrollo Rural y Tierras mediante Resolución Ministerial.
+2. El FONADIN tendrá como sede la ciudad de La Paz, pudiendo contar dentro del territorio nacional con oficinas regionales transitorias o permanentes, en función a la necesidad de ejecución de los planes, programas y proyectos administrados, previa autorización mediante Resolución Ministerial.
+
+**Artículo 7°.- (FINANCIAMIENTO)** El FONADIN para el cumplimiento de sus funciones tendrá las siguientes fuentes de financiamiento:
+
+1. Créditos y donaciones;
+2. Recursos provenientes del apoyo presupuestario sectorial, y su respectiva contraparte del Tesoro General de la Nación - TGN, establecida en los convenios de financiación;
+3. Otros recursos, excepto el TGN.
+
+**Artículo 8°.- (TRANSFERENCIAS PÚBLICO - PRIVADAS)** 
+
+1. Se autoriza al Ministerio de Desarrollo Rural y Tierras, a través del FONADIN, realizar transferencias público-privadas en efectivo y/o en especie para la implementación de programas, proyectos y actividades.
+2. El Ministerio de Desarrollo Rural y Tierras mediante Resolución Ministerial aprobará la reglamentación específica que regulará el importe, uso y destino de las transferencias público-privadas.
+     
+
+   # Disposiciones transitorias
+
+**DISPOSICIÓN TRANSITORIA ÚNICA.-** 
+
+1. Los saldos presupuestarios del Fondo Nacional de Desarrollo Alternativo - FONADAL serán transferidos al Fondo Nacional de Desarrollo Integral - FONADIN.
+2. Los derechos, obligaciones y pasivos del FONADAL, serán asumidos por el FONADIN.
+3. Los contratos y convenios suscritos por el FONADAL, serán asumidos por el FONADIN.
+4. Todos los procesos judiciales, administrativos y de cualquier otra naturaleza que estuvieran iniciados y/o por iniciarse por el FONADAL, serán asumidos por el FONADIN.
+5. El FONADIN dará continuidad, seguimiento y evaluación a los convenios vigentes asumidos por el FONADAL.
+     
+
+   # Disposiciones finales
+
+**DISPOSICIÓN FINAL ÚNICA.-** El funcionamiento y entrada en vigencia del Fondo Nacional de Desarrollo Integral - FONADIN, se hará efectiva a partir del primer día hábil del mes de agosto de la gestión 2017, debiendo ejecutarse a ese fin las acciones necesarias de sustitución.
+
+---
+
+El señor Ministro de Estado en el Despacho de Desarrollo Rural y Tierras, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los siete días del mes de junio del año dos mil diecisiete.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, René Martínez Callahuanca MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE HIDROCARBUROS, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Carlos Rene Ortuño Yañez MINISTRO DE MEDIO AMBIENTE Y AGUA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana MINISTRO DE DESARROLLO RURAL Y TIERRAS E INTERINO DE ECONOMÍA Y FINANZAS PÚBLICAS, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

@@ -1,0 +1,39 @@
+# Bolivia: Decreto Supremo Nº 26588, 17 de abril de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Decreto Supremo Nº 22154](#TODO-link) de 15 de marzo de 1989, se creó el Fondo de Desarrollo Campesino - FDC, como entidad de derecho público, de fomento y sin fines de lucro, con personalidad jurídica propia, autonomía administrativa, técnica y financiera con el principal objetivo de contribuir al desarrollo económico social del campesino, para con ello disminuir la pobreza promoviendo el desarrollo de la población que vive en el área rural.
+* Que el Artículo 13 del [Decreto Supremo Nº 25984](#TODO-link) de 16 de noviembre de 2000, dispone que el Fondo de Desarrollo Campesino - FDC inicie su etapa de liquidación, estableciendo que no podrá contar con nuevos recursos de financiamiento para su funcionamiento ni para la ejecución de programas y proyectos, pasando esta entidad en proceso de liquidación a partir del 1 de febrero de 2001, bajo tuición directa del Ministerio de Trabajo y Microempresa.
+* Que el [Decreto Supremo Nº 26423](#TODO-link) de 1 de diciembre de 2001, establece la continuación del proceso de liquidación del Fondo de Desarrollo Campesino, determina los mecanismos operativos y transfiere su dependencia al Ministerio de Hacienda.
+* Que el Fondo de Desarrollo Campesino, generaba sus recursos propios mediante la administración de proyectos financiados por los organismos internacionales y las recuperaciones de las Carteras de: Banco Agrícola de Bolivia - BAB, otros Bancos en Liquidación y el PL 480, transferidas a la institución como patrimonio propio, por los Decretos Supremos [Nº 24649](#TODO-link) de 13 de junio de 1997, [Nº 25365](#TODO-link) de 26 de abril de 1999 y [Nº 26339](#TODO-link) de 29 de septiembre de 2001.
+* Que por [Ley Nº 2201](#TODO-link) de 18 de mayo de 2001, se condonan los préstamos otorgados hasta $us 5.000 (Cinco mil 00/100 Dólares estadounidenses), intereses corrientes, penales y multas del BAB, otros Bancos en Liquidación y el PL 480; y, los Decretos Supremos [Nº 25984](#TODO-link) de 16 de noviembre de 2000 y [Nº 26423](#TODO-link) de 1 de diciembre de 2001, ordenan la transferencia de los programas y proyectos administrados por el FDC con financiamiento externo, determinando que la administración financiera del FDC-L, no cuente con recursos económicos para el cumplimiento del proceso de liquidación hasta su cierre definitivo.
+* Que en cumplimiento de las disposiciones legales que establecen el inicio y la prosecución del proceso de liquidación del Fondo de Desarrollo Campesino en Liquidación, se han elaborado informes legales, técnicos, financieros y contables de cada una de las fuentes de financiamiento y de la administración del FDC, que han demostrado que la institución en la actualidad tiene obligaciones pendientes laborales y comerciales con personas naturales y jurídicas, las mismas que deben honrarse a fin de evitar complicaciones legales futuras.
+* Que el Artículo 7º del [Decreto Supremo Nº 26478](#TODO-link) de 28 de diciembre de 2001, autoriza al Ministerio de Hacienda otorgar al Fondo de Desarrollo Campesino en Liquidación, un presupuesto de $us 105.000.- (Ciento cinco mil 00/100 Dólares estadounidenses), únicamente para el equipo de intervención, según lo dispuesto por el Artículo 7º del [Decreto Supremo Nº 26423](#TODO-link).
+* Que el Fondo de Desarrollo Campesino en Liquidación, al no contar con un presupuesto de financiamiento propio para el proceso de liquidación dispuesto por el Gobierno Nacional, requiere para el cumplimiento de sus operaciones y actividades un presupuesto adicional para financiar los gastos corrientes del proceso de liquidación.
+* Que los Artículos 6 y 7 del [Decreto Supremo Nº 26423](#TODO-link), autorizan al Ministerio de Hacienda a gestionar y asignar los recursos necesarios para cubrir los gastos de la liquidación, cierre y devolución de fondos a los organismos internacionales, así como los emolumentos, gastos de operaciones y de viaje del equipo de apoyo y asesoramiento.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Gastos de la liquidacion)** Se autoriza al Ministerio de Hacienda con cargo a recursos del Tesoro General de la Nación asigne, DOS MILLONES novecientos SEIS mil novecientos CUARENTA Y TRES 00/100 BOLIVIANOS (Bs.2, 906, 743.00), al Fondo de Desarrollo Campesino en Liquidación para financiar los gastos corrientes de su liquidación.
+
+**Artículo 2°.- (Gastos gestiones anteriores)** Se autoriza al Ministerio de Hacienda, con cargo a recursos del Tesoro General de la Nación, asigne DOS MILLONES SEISCIENTOS NOVENTA Y UN mil CIENTO NUEVE 00/100 BOLIVIANOS (Bs.2, 691, 109.00 BOLIVIANOS), al Fondo de Desarrollo Campesino en Liquidación para honrar compromisos asumidos en gestiones anteriores con proveedores comerciales de servicios, empresas de auditoria externa, funcionarios y consultores del FDC-L y cargas sociales no canceladas oportunamente.
+
+**Artículo 3°.- (Apertura cuenta corriente fiscal)** Se autoriza al Ministerio de Hacienda, la apertura de una cuenta corriente en moneda nacional a nombre del Fondo de Desarrollo Campesino en Liquidación, para que la institución beneficiada, a través de la misma, administre exclusivamente los recursos otorgados por el Ministerio de Hacienda para financiar los gastos corrientes del proceso de liquidación.
+
+**Artículo 4°.- (Plan y cronograma de trabajo)** Dentro los 15 días, a partir de la aprobación del presente Decreto Supremo, el Liquidador del Fondo de Desarrollo Campesino en Liquidación, presentará para aprobación del Ministro de Hacienda, el Plan y Cronograma de Trabajo que será ejecutado en su integridad hasta el 30 de junio de 2002, fecha determinada como cierre definitivo de la institución.
+
+**Artículo 5°.- (Auditoria externa)** La ejecución de los recursos asignados mediante el presente Decreto Supremo, deben ser debidamente auditados por una firma independiente externa, cuyo informe final, formará parte del informe final de liquidación, a ser presentado por el Liquidador a la Contraloría General de la República y al Ministerio de Hacienda.
+
+---
+
+El Ministro de Estado en la Cartera de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de abril del año dos mil dos.
+  
+Fdo. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Lujan, Jacques Trigo Loubiere, Carlos Alberto Goitia Caballero, Carlos Kempff Bruno, Amalia Anaya Jaldín, Enrique Paz Argandoña, Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña, Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

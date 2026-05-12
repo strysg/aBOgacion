@@ -1,0 +1,62 @@
+# Bolivia: Decreto Supremo Nº 197, 8 de julio de 2009
+
+Decreto Supremo Nº 0197
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 29153](#TODO-link), de 6 de junio de 2007, crea un fideicomiso con el objetivo de dar continuidad a las exportaciones bolivianas beneficiadas con el ATPDEA a través de la creación de instrumentos temporales para financiar el pago de aranceles a las empresas legalmente establecidas en el territorio nacional, que realizaron exportaciones a los Estados Unidos de Norteamérica en el marco del ATPDEA.
+* Que mediante [Decreto Supremo Nº 29766](#TODO-link), de 29 de octubre de 2008, se modifica y complementan los alcances del [Decreto Supremo Nº 29153](#TODO-link), ampliando el plazo de vigencia del uso de los instrumentos temporales para el financiamiento del pago de aranceles por el periodo de doce (12) meses, a partir del 1 de noviembre de 2008.
+* Que a la fecha los beneficios del ATPDEA, se mantienen suspendidos para los productos bolivianos exportados a los Estados Unidos de Norteamérica.
+* Que dentro del Plan Nacional de Desarrollo, uno de los objetivos del Gobierno del Estado Plurinacional es fomentar a las exportaciones con valor agregado.
+* Que es preciso dar continuidad a las exportaciones bolivianas al mercado de los Estados Unidos de Norteamérica, y a tal efecto complementar los alcances del [Decreto Supremo Nº 29153](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto modificar y complementar el [Decreto Supremo Nº 29766](#TODO-link), de 29 de octubre de 2008, que modifica el [Decreto Supremo Nº 29153](#TODO-link), de 6 de junio de 2007.
+
+**Artículo 2°.- (Modificaciones y complementaciones)** 
+
+1. Se modifica el Parágrafo I del Articulo 2 del [Decreto Supremo Nº 29766](#TODO-link), de 29 de octubre de 2008, con el siguiente texto:
+   > “I. Se modifica el Artículo 1 del [Decreto Supremo Nº 29153](#TODO-link), de 6 de junio de 2007, con el siguiente texto:
+   >   
+   > Artículo 1.- (OBJETO) El presente Decreto Supremo tiene por objeto crear instrumentos temporales para el financiamiento del Pago de Aranceles hasta el 31 de diciembre de 2009, para las empresas legalmente establecidas en el territorio nacional, que realizaron exportaciones a los Estados Unidos de Norteamérica mediante preferencias arancelarias amparadas por la Ley de Promoción Comercial Andina y Erradicación de la Droga - ATPDEA, durante los doce (12) meses previos al 15 de diciembre del 2008, que no gozan de preferencias arancelarias bajo el Sistema General de Preferencias - SGP”.
+2. Se modifica el Parágrafo III del Articulo 2 del [Decreto Supremo Nº 29766](#TODO-link), de 29 de octubre de 2008, con el siguiente texto:
+   > “III. Se modifica el Artículo 3 del [Decreto Supremo Nº 29153](#TODO-link), de 6 de junio de 2007, con el siguiente texto:
+   >   
+   > Artículo 3.- (FINANCIAMIENTO Y RECURSOS DEL FIDEICOMISO). El Ministerio de Economía y Finanzas Publicas, con cargo a los recursos del Tesoro General de la Nación - TGN transferirá de manera temporal y no definitiva, recursos para el fideicomiso por un monto de hasta $us16.000.000.- (DIECISÉIS MILLONES 00/100 DÓLARES ESTADOUNIDENSES) Para tal efecto se autoriza al Ministerio de Economía y Finanzas Públicas, realizar la inscripción presupuestaria correspondiente a los importes necesarios para la constitución del fideicomiso”.
+3. Se modifica el Parágrafo VI del Articulo 2 del [Decreto Supremo Nº 29766](#TODO-link), de 29 de octubre de 2008, con el siguiente texto:
+   > “VI. Se modifica el Artículo 6 del [Decreto Supremo Nº 29153](#TODO-link), de 6 de junio de 2007, con el siguiente texto:
+   >   
+   > Artículo 6.- (CONDICIONES FINANCIERAS)
+   >   
+   > I. Se establecerán los montos de los préstamos a ser otorgados, con base a la información histórica de las exportaciones durante los últimos doce meses previos al 15 de diciembre de 2008, a las proyecciones recibidas de las empresas exportadoras a ser beneficiadas y en función a la Tabla de Aranceles aplicados por la Aduana de los Estados Unidos de Norteamérica, debidamente certificadas por el Viceministerio de Comercio Interno y Exportaciones y revisadas por el Fiduciario, en función a los rubros, valores y niveles proyectados de exportación para cada año, de acuerdo al tipo de arancel aplicable al producto exportado.
+   >   
+   > II. Las condiciones para otorgar los créditos son las siguientes:
+   >   
+   > a) El plazo de los créditos otorgados a las empresas exportadoras será máximo de diez (10) años o hasta el vencimiento del contrato del fideicomiso, o lo que suceda primero.
+   >   
+   > b) La tasa de interés para los créditos otorgados será fijada en el Reglamento del Fideicomiso.
+   >   
+   > c) Todas las operaciones crediticias realizadas con recursos del fideicomiso se pactaran en Dólares Estadounidenses”.
+
+     
+
+   # Disposiciones transitorias
+
+**Artículo transitorio 1°.-** Se realizará los ajustes correspondientes al Reglamento del Fideicomiso en un plazo de hasta quince (15) días a partir de la aprobación del presente Decreto Supremo.
+
+**Artículo transitorio 2°.-** El Ministerio de Desarrollo Productivo y Economía Plural a través de una Resolución Ministerial realizará una compilación de los Decretos Supremos [Nº 29766](#TODO-link) de 29 de octubre de 2008, [Nº 29153](#TODO-link) de 6 de junio de 2007 y el presente Decreto Supremo, en un plazo de hasta quince (15) días a partir de la aprobación de la citada norma.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Planificación del Desarrollo; de Economía y Finanzas Públicas; y Desarrollo Productivo y Economía Plural, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de julio del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Velez, Walker Sixto San Miguel Rodríguez, MINISTRO DE DEFENSA E INTERINO DE JUSTICIA, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora MINISTRO DE ECONOMIA Y FINANZAS PUBLICAS E INTERINO DE DESARROLLO PRODUCTIVO Y ECONOMIA PLURAL, Oscar Coca Antezana, Walter Juvenal Delgadillo Terceros, Luis Alberto Echazú Alvarado, Calixto Chipana Callizaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Groux Canedo.

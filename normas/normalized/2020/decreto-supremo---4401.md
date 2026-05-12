@@ -1,0 +1,74 @@
+# Bolivia: Decreto Supremo Nº 4401, 26 de noviembre de 2020
+
+[Decreto Supremo Nº 4401](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 8 de la [Constitución Política del Estado](#TODO-link), determina que el Estado se sustenta en los valores de unidad, igualdad, inclusión, dignidad, libertad, solidaridad, reciprocidad, respeto, complementariedad, armonía, transparencia, equilibrio, igualdad de oportunidades, equidad social y de género en la participación, bienestar común, responsabilidad, justicia social, distribución y redistribución de los productos y bienes sociales, para vivir bien.
+* Que el numeral 4 del Artículo 9 del Texto Constitucional, establece como un fin y función esencial del Estado, garantizar el cumplimiento de los principios, valores, derechos y deberes reconocidos y consagrados en la Constitución.
+* Que el Parágrafo II del Artículo 14 de la [Constitución Política del Estado](#TODO-link), dispone que el Estado prohíbe y sanciona toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras que tengan por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos de toda persona.
+* Que los numerales 1 y 2 del Parágrafo I del Artículo 46 del Texto Constitucional, señalan que toda persona tiene derecho al trabajo digno, con seguridad industrial, higiene y salud ocupacional, sin discriminación y con remuneración o salario justo, equitativo y satisfactorio, que el asegure para sí y su familia una existencia digna. A una fuente laboral estable, en condiciones equitativas y satisfactorias; asimismo, el Parágrafo II del citado Artículo, determina que el Estado protegerá el ejercicio del trabajo en todas sus formas.
+* Que los Parágrafos I y II del Artículo 48 de la [Constitución Política del Estado](#TODO-link), establecen que las disposiciones sociales y laborales son de cumplimiento obligatorio; y que las normas laborales se interpretarán y aplicarán bajo los principios de protección de las trabajadoras y de los trabajadores como principal fuerza productiva de la sociedad; de primacía de la relación laboral; de continuidad y estabilidad laboral; de no discriminación y de inversión de la prueba a favor de la trabajadora y del trabajador.
+* Que los Parágrafos V y VI del Artículo 48 del Texto Constitucional, disponen que el Estado promoverá la incorporación de las mujeres al trabajo y garantizará la misma remuneración que a los hombres por un trabajo de igual valor, tanto en el ámbito público como en el privado; y que las mujeres no podrán ser discriminadas o despedidas por su estado civil, situación de embarazo, edad, rasgos físicos o número de hijas o hijos. Se garantiza la inamovilidad laboral de las mujeres en estado de embarazo, y de los progenitores, hasta que la hija o el hijo cumpla un año de edad.
+* Que el numeral 31 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link), señala como una competencia exclusiva del nivel central del Estado, las políticas y régimen laborales.
+* Que el [Decreto Ley Nº 07737](#TODO-link), de 28 de julio de 1966, establece que Bolivia ratifica el Convenio N° 100, de la Organización Internacional del Trabajo - OIT, Sobre la Igualdad de Remuneración ; y que el [Decreto Supremo Nº 14228](#TODO-link), de 23 de diciembre de 1976, ratifica el Convenio N° 111, de la OIT, Sobre la discriminación (empleo y ocupación).
+* Que el Artículo 52 de la Ley General del Trabajo, de 8 de diciembre de 1942, dispone que remuneración o salario es el que percibe el empleado u obrero en pago de su trabajo. No podrá convenirse salario inferior al mínimo, cuya fijación, según los ramos del trabajo y las zonas del país, se hará por el Ministerio de Trabajo actual Ministerio de Trabajo, Empleo y Previsión Social. El salario es proporcional al trabajo, no pudiendo hacerse diferencias por sexo o nacionalidad.
+* Que el Artículo 6 de la [Ley Nº 045](#TODO-link), de 8 de octubre 2010, Contra el Racismo y Toda Forma de Discriminación, señala que es deber del Estado Plurinacional de Bolivia definir y adoptar una política pública de prevención y lucha contra el racismo y toda forma de discriminación, con perspectiva de género y generacional, de aplicación en todos los niveles territoriales nacionales, departamentales y municipales.
+* Que la [Ley Nº 348](#TODO-link), de 9 de marzo de 2013, Integral para Garantizar a las Mujeres una Vida Libre de Violencia, tiene por objeto establecer mecanismos, medidas y políticas integrales de prevención, atención, protección y reparación a las mujeres en situación de violencia, así como la persecución y sanción a los agresores, con el fin de garantizar a las mujeres una vida digna y el ejercicio pleno de sus derechos para Vivir Bien.
+* Que el [Decreto Supremo Nº 3106](#TODO-link), de 8 de marzo de 2017, establece atribuciones a los Ministerios del Órgano Ejecutivo del nivel nacional del Estado para la implementación de la Política Pública Integral para una Vida Digna de las Mujeres Bolivianas.
+* Que teniendo en cuenta que aún persiste una brecha salarial entre mujeres y hombres en Bolivia, se requiere fortalecer acciones de manera tal que la remuneración esté acorde con el trabajo que realizan las personas sin distinción de ningún tipo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto impulsar medidas para la igualdad de oportunidades en el acceso al empleo, la remuneración y el trato igualitario en el trabajo entre mujeres y hombres, con el fin de contribuir en la eliminación de la brecha salarial entre mujeres y hombres.
+
+**Artículo 2°.- (Marco competencial y ámbito de aplicación)** 
+
+1. El presente Decreto Supremo se enmarca en la competencia exclusiva del nivel central del Estado, de políticas y régimen laborales, establecida en el numeral 31 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link).
+2. El presente Decreto Supremo será de aplicación en:
+   1. Los Órganos del Estado Plurinacional, instituciones que ejercen funciones de control, de defensa de la sociedad y del Estado, entidades territoriales autónomas, universidades públicas, empresas públicas, instituciones financieras bancarias y no bancarias, instituciones públicas de seguridad social y empresas estatales constituidas como Sociedad Anónima Mixta - S. A. M. y aquellas en las que el Estado tenga mayoría accionaria;
+   2. Las personas naturales y jurídicas del sector privado que tengan carácter de empleadora o empleador.
+
+**Artículo 3°.- (Definiciones)** Para efectos del presente Decreto Supremo se aplican las siguientes definiciones:
+
+1. Brecha Salarial.- Diferencias de remuneración basadas en el sexo de las personas, sin criterios objetivos;
+2. Trabajo de igual valor.- Trabajo que cuente con similitudes sustanciales en funciones, esfuerzo, habilidad y responsabilidad, y que es realizado bajo condiciones análogas;
+3. Discriminación directa.- Se considerará discriminación directa por razón de sexo la situación en la que se encuentra una persona que haya sido, sea o pudiera ser tratada, en atención a su sexo, de manera menos favorable, en relación a su remuneración;
+4. Discriminación indirecta.- Se considerará discriminación indirecta por razón de sexo a la situación en que una disposición, criterio o práctica aparentemente neutra pone a personas de un sexo en desventaja particular en relación a su remuneración con respecto a personas del otro sexo, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.
+
+**Artículo 4°.- (Principios rectores)** Los principios aplicables con preferencia a la materia son los siguientes:
+
+1. Igualdad Laboral entre Mujeres y Hombres. Supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas del género o condiciones propias del género, la maternidad, la asunción de obligaciones familiares y el estado civil en las relaciones de dependencia laboral. La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas;
+2. Principio de Transversalidad. Las medidas de apoyo a la conciliación de la vida personal y laboral deberán integrarse en el conjunto de las políticas públicas, para promover la erradicación de la violencia y todo tipo de discriminación contra la mujer;
+3. Principio de Cooperación. Supone la integración de esfuerzos y recursos en el diseño y desarrollo de las medidas de apoyo para la eliminación de la brecha salarial;
+4. Principio de Concientización y Sensibilización Social. Se refiere a la sensibilización social respecto a la democratización de los ciudados y sobre la adopción de medidas tendientes a eliminar la brecha salarial y de discriminación laboral fundadas en el sexo.
+
+**Artículo 5°.- (Igualdad de remuneración)** 
+
+1. El Estado promoverá la incorporación de las mujeres al trabajo, así como la misma remuneración de mujeres y hombres, por un trabajo de igual valor.
+2. En los Convenios Colectivos, las Partes estarán obligadas a incluir cláusulas de no discriminación y de igualdad de trato en materia salarial entre mujeres y hombres.
+
+**Artículo 6°.- (Conciliación de la vida personal, familiar y laboral)** Las y los empleadores promoverán el desarrollo de medidas que permitan a mujeres y hombres, en igualdad de condiciones, atender sus obligaciones laborales, profesionales y las de ciudado como ser maternidad, paternidad y lactancia, y otras sujetas a reglamentación específica.
+
+**Artículo 7°.- (Prohibición)** 
+
+1. Se prohíbe considerar diferencias o fundamentar la existencia de brecha salarial, en aspectos vinculados directa o indirectamente con el hecho de ser mujer, por embarazo, maternidad, paternidad, lactancia y responsabilidades familiares.
+2. El uso de la tolerancia y flexibilidad de horarios para asistir a actos procesales y otros, por mujeres en situación de violencia y testigos, no justificará la existencia de brecha salarial y no deberá ser empleado para aplicar criterios de discriminación.
+     
+
+   # Disposiciones finales
+
+**Disposición Final Única.-** La aplicación del presente Decreto Supremo no implicará recursos adicionales del Tesoro General de la Nación - TGN.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Justicia y Transparencia Institucional; Trabajo, Empleo y Previsión Social; y de Culturas, Descolonización y Despatriarcalización, quedan encargados de la aplicación del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veinticinco días del mes de noviembre del año dos mil veinte.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Edgar Pozo Valdivia, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Wilson Caceres Cardenas, Sabina Orellana Cruz.

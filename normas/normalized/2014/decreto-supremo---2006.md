@@ -1,0 +1,48 @@
+# Bolivia: Decreto Supremo Nº 2006, 22 de mayo de 2014
+
+[Decreto Supremo Nº 2006](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 20 de la [Constitución Política del Estado](#TODO-link), determina que toda persona tiene el derecho al acceso universal y equitativo al servicio básico de electricidad; y que es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias.
+* Que el Artículo 309 del Texto Constitucional, establece que la forma de organización económica estatal comprende a las empresas y otras entidades económicas de propiedad estatal, que cumplirán con el objetivo de administrar a nombre del pueblo boliviano los derechos propietarios de los recursos naturales y ejercer el control estratégico de las cadenas productivas y los procesos de industrialización de dichos recursos.
+* Que el [Decreto Supremo Nº 0493](#TODO-link), de 1 de mayo de 2010, dispone la nacionalización en favor de la Empresa Nacional de Electricidad - ENDE, en representación del Estado Plurinacional de Bolivia, el paquete accionario de la empresa eléctrica Guaracachi América INC. en la empresa eléctrica Guaracachi S. A.
+* Que el 1 de marzo de 2012 la empresa Rurelec Plc. presentó demanda formal contra el Estado Plurinacional de Bolivia ante el Tribunal Arbitral compuesto por un árbitro designado por cada parte y un árbitro presidente designado por la Corte Permanente de Arbitraje - CPA, de conformidad con los términos del “Convenio entre la República de Bolivia, el Reino Unido de Gran Bretaña e Irlanda del Norte sobre el Fomento y la Protección de Inversiones de Capital”, ratificado mediante [Ley Nº 1132](#TODO-link), de 19 de enero de 1990, y en el marco del Reglamento de Arbitraje de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional - CNUDMI; por la controversia emergente de la nacionalización de la participación accionaria que tenía Rurelec Plc. en la Empresa Guaracachi S. A.- EGSA.
+* Que el Laudo Arbitral de 31 de enero de 2014 (el “Laudo”) en el caso CPA N° 2011-17: Guaracachi América Inc. y Rurelec Plc. contra el Estado Plurinacional de Bolivia, establece una compensación de USD28.927.583,00 (VEINTIOCHO MILLONES novecientos VEINTISIETE mil QUINIENTOS OCHENTA Y TRES 00/100 DÓLARES ESTADOUNIDENSES) y el incremento anual mediante un interés compuesto a una tasa del 5,633331% en favor de la empresa Rurelec Plc.; monto que al 15 de mayo de 2014 alcanzaba la suma de USD36.023.114,00 (TREINTA Y SEIS MILLONES veintitrés mil CIENTO CATORCE 00/100 DÓLARES ESTADOUNIDENSES).
+* Que mediante negociaciones llevadas adelante por el Ministerio de Hidrocarburos y Energía, ENDE, la Empresa Guaracachi S. A., y la Procuraduría General del Estado se logró que Rurelec Plc., por sí misma y a nombre de la empresa Guaracachi America Inc.- GAI, sus subsidiarias, empresas filiales, matrices, controlantes y/o controladas, renuncie a: 1) el treinta y cinco por ciento (35%) de los intereses establecidos en el Laudo, generados desde el 1º de mayo de 2010 a la fecha de la emisión del Laudo; 2) los intereses generados desde la fecha de emisión del Laudo a la fecha del pago compensatorio; 3) al cobro de dividendos no pagados, pasados y/o futuros, en EGSA; 4) al cincuenta por ciento (50%) de las contingencias tributarias emergentes durante la administración de Rurelec Plc. en EGSA y de los intereses generados a raíz de la deuda de EGSA a YPFB por suministro de gas, al 1º de mayo de 2010.
+* Que la Procuraduría General del Estado a través del Informe N° 144/2014, de 8 de mayo de 2014, Informe Final de Cumplimiento y Pago de Laudo y Solución Definitiva de la Controversia, caso CPA N° 2011-17: Guaracachi América Inc. y Rurelec Plc. contra el Estado Plurinacional de Bolivia; recomienda la suscripción de un “Contrato de Cumplimiento de Laudo Arbitral por parte de Bolivia, Renuncias Expresas por parte de Rurelec Plc y Liberación General y Recíproca de Obligaciones”, por el pago de un monto inferior acordado en la suma total de USD31.534.613,00 (TREINTA Y UN MILLONES QUINIENTOS TREINTA Y CUATRO mil SEISCIENTOS TRECE 00/100 DÓLARES ESTADOUNIDENSES); que ENDE realice las gestiones y trámites administrativos pertinentes, para provisionar recursos económicos y viabilizar el pago compensatorio de cumplimiento del Laudo Arbitral de 31 de enero de 2014; en virtud al [Decreto Supremo Nº 0493](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministro de Hidrocarburos y Energía y al Presidente Ejecutivo interino de la Empresa Nacional de Electricidad - ENDE matriz a suscribir con la empresa Rurelec Plc., el “Contrato de Cumplimiento de Laudo Arbitral por parte de Bolivia, Renuncias Expresas por parte de Rurelec Plc y Liberación General y Recíproca de Obligaciones”, en cumplimiento del Laudo Arbitral de 31 de enero de 2014, en el caso CPA N° 2011-17 (Guaracachi América Inc. y Rurelec Plc. contra el Estado Plurinacional de Bolivia), reconociendo como compensación efectiva la suma de USD31.534.613,00 (TREINTA Y UN MILLONES QUINIENTOS TREINTA Y CUATRO mil SEISCIENTOS TRECE 00/100 DÓLARES ESTADOUNIDENSES) en favor de la empresa Rurelec Plc., pagaderos en fondos de libre e inmediata disponibilidad y sin deducciones.
+2. El Contrato representa el cumplimiento total y definitivo por parte del Estado boliviano del Laudo de 31 de enero de 2014, antes mencionado, y la renuncia expresa de la empresa Rurelec Plc, por sí misma y a nombre de la empresa Guaracachi America Inc.- GAI, sus subsidiarias, empresas filiales, matrices, controlantes y/o controladas, a cualquier reclamación posterior. Asimismo, el Contrato representa la consolidación definitiva para el Estado boliviano de la Empresa Guaracachi S. A. nacionalizada.
+3. Se instruye a ENDE matriz a pagar el monto establecido en el Parágrafo I precedente, a la suscripción del referido “Contrato de Cumplimiento de Laudo Arbitral por parte de Bolivia, Renuncias Expresas por parte de Rurelec Plc. y Liberación General y Recíproca de Obligaciones”.
+     
+
+   # Disposiciones adicionales
+
+**Artículo adicional Único.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a realizar aportes adicionales de capital a ENDE matriz por un monto de Bs.252.152.207,13 (DOSCIENTOS CINCUENTA Y DOS MILLONES CIENTO CINCUENTA Y DOS mil DOSCIENTOS siete 13/100 BOLIVIANOS), con recursos provenientes del Tesoro General de la Nación - TGN.
+2. El monto indicado en el Parágrafo anterior, deberá ser incorporado al presupuesto de la gestión 2014 de ENDE matriz, para el pago correspondiente al cumplimiento del Laudo.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Economía y Finanzas Públicas y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de mayo del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 4555, 29 de julio de 2021
+
+[Decreto Supremo Nº 4555](#TODO-link)  
+DAVID CHOQUEHUANCA CÉSPEDES
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Artículo 174 de la [Constitución Política del Estado](#TODO-link), determina como atribución de la Vicepresidenta o del Vicepresidente del Estado, asumir la Presidencia del Estado, en los casos establecidos en la Constitución.
+* Que el Parágrafo I del Artículo 321 del Texto Constitucional, establece que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el numeral 4 del Artículo 407 de la [Constitución Política del Estado](#TODO-link), señala como uno de los objetivos de la política de desarrollo rural integral del Estado, en coordinación con las entidades territoriales autónomas y descentralizadas, la protección de la producción agropecuaria y agroindustrial ante desastres naturales e inclemencias climáticas, geológicas y siniestros. La ley preverá la creación del seguro agrario.
+* Que el Parágrafo I del Artículo 30 de la [Ley Nº 144](#TODO-link), de 26 de junio de 2011, de la Revolución Productiva Comunitaria Agropecuaria, crea el Seguro Agrario Universal "Pachamama", con la finalidad de asegurar la producción agraria afectada por daños provocados por fenómenos climáticos y desastres naturales adversos, en la forma y de acuerdo con lo previsto en las disposiciones de la citada Ley.
+* Que el Parágrafo I del Artículo 32 de la [Ley Nº 144](#TODO-link), crea el Instituto del Seguro Agrario - INSA, como institución pública, autárquica, con patrimonio propio, autonomía de gestión técnica, económica, operativa, administrativa y legal, bajo tuición del Ministerio de Desarrollo Rural y Tierras. El INSA se constituye en una instancia operativa y normativa del Seguro Agrario Universal "Pachamama", con ámbito de competencia en todo el territorio del Estado Plurinacional de Bolivia.
+* Que el Parágrafo II del Artículo 32 de la [Ley Nº 144](#TODO-link), dispone que el INSA, se financiará con recursos del Tesoro General de la Nación - TGN de acuerdo a su disponibilidad financiera, recursos propios, donaciones y otras fuentes de financiamiento.
+* Que los numerales 4 y 5 del Artículo 33 de la [Ley Nº 144](#TODO-link), establecen que para la implementación del Seguro Agrario Universal "Pachamama", el INSA tendrá entre otras, las atribuciones y funciones de aprobar y generar modalidades o productos de seguro a ser implementados de acuerdo a las características propias de regiones y productores; y administrar directamente modalidades o productos de seguro para las y los productores más pobres según reglamento.
+* Que el Parágrafo II del Artículo 6 de la [Ley Nº 1356](#TODO-link), de 28 de diciembre de 2020, del Presupuesto General del Estado Gestión 2021, señala que las asignaciones presupuestarias de recursos adicionales efectuadas por el TGN, a entidades del sector público, para gasto corriente y/o nuevos proyectos de inversión, deberán ser autorizadas mediante Decreto Supremo, exceptuándose recursos emergentes de donación bajo la modalidad de Apoyo Presupuestario Sectorial o casos excepcionales, y aquellos recursos que cuenten con autorización expresa en Ley o Decreto Supremo.
+* Que el [Decreto Supremo Nº 0942](#TODO-link), de 2 de agosto de 2011, modificado por el [Decreto Supremo Nº 4049](#TODO-link), de 25 de septiembre de 2019, reglamenta parcialmente el Seguro Agrario Universal "Pachamama", mediante la creación del Seguro Agrario MINKA; así como la naturaleza y financiamiento institucional, el rol y atribuciones de la Máxima Autoridad Ejecutiva del INSA. Asimismo, señala que la finalidad de la MINKA es cubrir los medios de subsistencia del productor de la agricultura familiar afectados por heladas, inundaciones, sequias y granizos, en los municipios identificados de acuerdo con el Artículo 22 del citado Decreto Supremo.
+* Que en el marco de los objetivos de la política de desarrollo rural integral, previstos en la [Constitución Política del Estado](#TODO-link), se debe garantizar la soberanía y seguridad alimentaria, estableciendo mecanismos de protección a la producción agropecuaria y agroindustrial ante desastres naturales e inclemencias climáticas, geológicas y siniestras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la asignación presupuestaria de recursos adicionales a favor del Instituto del Seguro Agrario - INSA, por concepto de pago de la prima del seguro agrario, en el marco de la [Ley Nº 144](#TODO-link), de 26 de junio de 2011, de la Revolución Productiva Comunitaria Agropecuaria.
+
+**Artículo 2°.- (Autorización)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a través del Tesoro General de la Nación - TGN, realizar en la gestión 2021, la asignación presupuestaria de recursos adicionales por un monto de Bs11.461.726.- (ONCE MILLONES CUATROCIENTOS SESENTA Y UN mil novecientos veintiséis 00/100 BOLIVIANOS), a favor del INSA, por concepto de pago de la prima del seguro agrario, en el marco de la [Ley Nº 144](#TODO-link).
+2. El INSA realizará el pago por concepto de indemnización, a través de la subpartida de gasto 71630 "Otros de Carácter Social Establecidos por Norma Legal". Para el efecto el INSA, aprobará la reglamentación específica.
+     
+
+   # Disposiciones adicionales
+
+**Disposición Adicional Única.-** A partir de la publicación del presente Decreto Supremo y en un plazo no mayor a sesenta (60) días hábiles, la Máxima Autoridad Ejecutiva del INSA, realizará un reordenamiento administrativo al interior de su presupuesto institucional, priorizando el personal sustantivo que responda a aspectos técnicos, en el marco de la normativa vigente.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Desarrollo Rural y Tierras, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintiocho días del mes de julio del año dos mil veintiuno.
+  
+FDO. DAVID CHOQUEHUANCA CESPEDES, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel MINISTRA DE PLANIFICACIÓN DEL DESARROLLO E INTERINA DE HIDROCARBUROS Y ENERGÍAS, Nestor Huanca Chura MINISTRO DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL E INTERINO DE ECONOMÍA Y FINANZAS PÚBLICAS, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Jeyson Marcos Auza Pinto, Adrian Ruben Quelca Tarqui MINISTRO DE EDUCACIÓN E INTERINO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, Remmy Ruben Gonzales Atila MINISTRO DE DESARROLLO RURAL Y TIERRAS E INTERINO DE MEDIO AMBIENTE Y AGUA, Sabina Orellana Cruz.

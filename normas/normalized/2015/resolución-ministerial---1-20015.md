@@ -1,0 +1,46 @@
+# Bolivia: Resolución Ministerial de 2 de septiembre de 2015
+
+RESOLUCIÓN BI MINISTERIAL N° 001-15
+  
+La Paz, 05 de agosto de 2015
+  
+Los señores Ministros en los Despachos de Economía y Finanzas Públicas y de Hidrocarburos y Energía, en el marco de las atribuciones conferidas por Ley y demás disposiciones conexas;
+
+VISTOS Y CONSIDERANDO:
+
+* Que el Artículo 20 de la [Constitución Política del Estado](#TODO-link) de 07 de febrero de 2009, determina que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones; y que es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias.
+* Que el Parágrafo I del Artículo 175 del Texto Constitucional, establece como atribución de las Ministras y Ministros de Estado, entre otras, dictar normas administrativas en el ámbito de su competencia y, coordinar con los otros Ministerios la planificación y ejecución de las políticas del gobierno.
+* Que el Artículo 365 de la [Constitución Política del Estado](#TODO-link), dispone que una institución autárquica de derecho público, con autonomía de gestión administrativa, técnica y económica, bajo la tuición del Ministerio del ramo, será responsable de regular, controlar, supervisar y fiscalizar las actividades de toda la cadena productiva hasta la industrialización, en el marco de la política estatal de hidrocarburos conforme con la ley.
+* Que el Artículo 3 de la [Ley Nº 1604](#TODO-link) de 21 de diciembre de 1994, de Electricidad, determina que las actividades relacionadas con la Industria Eléctrica se regirán por principios, entre otros, el de Continuidad que significa que el suministro debe ser prestado sin interrupciones.
+* Que de acuerdo al Artículo 61 de la [Ley Nº 1604](#TODO-link), el Estado tiene la responsabilidad de desarrollar la electrificación en poblaciones menores y en el área rural, donde no puedan ser atendidas exclusivamente por la iniciativa privada.
+* Que el Artículo 10 de la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005, de Hidrocarburos, establece que las actividades petroleras se regirán por principios, entre otros, el de Continuidad que obliga a que el abastecimiento de los hidrocarburos y los servicios de transporte y distribución, aseguren satisfacer la demanda del mercado interno de manera permanente e ininterrumpida.
+* Que de conformidad al Artículo 11 de la [Ley Nº 3058](#TODO-link), constituyen objetivos generales de la Política Nacional de Hidrocarburos, entre otros, el utilizar los hidrocarburos como factor del desarrollo nacional e integral de forma sostenible y sustentable en todas las actividades económicas y servicios, tanto públicos como privados.
+* Que el [Decreto Supremo Nº 28138](#TODO-link) de 16 de mayo de 2005 y el [Decreto Supremo Nº 28392](#TODO-link) de 06 de octubre de 2005, disponen que las Instituciones Públicas dependientes del Poder Ejecutivo, establecidas en la Ley de Organización del Poder Ejecutivo y sus Decretos Supremos Reglamentarios, deberán aceptar fotocopias simples en reemplazo de las fotocopias legalizadas exigidas para la gestión de sus trámites; reservándose la prerrogativa de exigir la presentación del original, cuando así se considere necesario para fines de verificación.
+* Que el [Decreto Supremo Nº 29128](#TODO-link) de 12 de mayo de 2007 dispone la adquisición del cien por ciento (100%) de las acciones que conforman el capital social de Petrobras Bolivia Refinación - PBR S. A. a favor del Estado boliviano a través de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB.
+* Que de acuerdo al parágrafo I del Artículo 14 del [Decreto Supremo Nº 29894](#TODO-link) de 07 de febrero de 2009, Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, las Ministras y los Ministros del Órgano Ejecutivo, en el marco de las competencias asignadas al nivel central en la [Constitución Política del Estado](#TODO-link) tienen la atribución, entre otras, de emitir resoluciones ministeriales, así como bi-ministeriales y multi-ministeriales en coordinación con los Ministros que correspondan, en el marco de sus competencias.
+* Que el [Decreto Supremo Nº 2236](#TODO-link) de 31 de diciembre de 2014, tiene por objeto asegurar la continuidad del suministro de Gas Oíl para la generación de electricidad en los sistemas aislados que cuenten con asignaciones de dicho combustible. Asimismo, el Parágrafo I del Artículo 3 del Decreto Supremo precedente dispone que YPFB, por sí misma o a través de YPFB Refinación S. A., entregará Gas Oíl en la planta de almacenaje accesible más cercana al beneficiario y asegurará la comercialización de los volúmenes de Gas Oíl asignados por la ANH.
+* Que de conformidad al Artículo 7 del [Decreto Supremo Nº 2236](#TODO-link), el Tesoro General de la Nación - TGN, transferirá a YPFB los recursos necesarios para el cumplimiento del citado Decreto Supremo, a través de los mecanismos convenientes y procedimientos operativos vigentes.
+* Que el Informe Técnico MHE- VMEEA- DGEA- UDIER N° 00001 de 30 de enero de 2015 emitido por el Viceministerio de Electricidad y Energías Alternativas dependiente del Ministerio de Hidrocarburos y Energía, realiza un desarrollo y análisis de las acciones administrativas y operativas realizadas por la ANH y YPFB para dar cumplimiento a lo dispuesto por el [Decreto Supremo Nº 2236](#TODO-link). En ese contexto, concluye que el “Reglamento para el Cálculo de la compensación derivada del diferencial de precios existente entre el Diesel Oíl y el Gas Oíl mediante la emisión de Notas de Crédito Fiscal” es técnicamente viable.
+* Que el Informe Técnico DGIR - 0004/2015 de 30 de enero de 2015 complementado por el Informe Técnico MHE-DGIR-0019/2015 de 24 de abril del año en curso, emitido por el Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos dependiente del Ministerio de Hidrocarburos y Energía, concluye que el “Reglamento para el Cálculo de la compensación derivada del diferencial de precios existente entre el Diesel Oíl y el Gas Oíl mediante la emisión de Notas de Crédito Fiscal” es viable técnicamente al contar con todas las justificaciones y respaldos operativos, técnicos y legales de las diferentes instancias que intervinieron en este proyecto.
+* Que mediante Informe Legal MHE-DGAJ-UGJ N° 00017/2015 de 30 de enero del año en curso y el Informe Legal MHE-DGIR- 00066/2015 de 4 de mayo de 2015 emitido por la Dirección General de Asuntos Jurídicos dependiente del Ministerio de Hidrocarburos y Energía, señala que el “Reglamento para el Cálculo de la Compensación derivada del Diferencial de Precios existente entre el Diesel Oíl y el Gas Oíl mediante la emisión de Notas de Crédito Fiscal” se enmarca en los preceptos normativos analizados en los informes indicados; y sugiere que el Ministerio de Hidrocarburos y Energía y el Ministerio de Economía y Finanzas Públicas al amparo del Parágrafo I de la Disposición Final Única del [Decreto Supremo Nº 2236](#TODO-link) de 31 de diciembre de 2014 aprueben dicho Reglamento a través de una Resolución Bi Ministerial.
+* Que de acuerdo a los antecedentes expuestos y en estricto cumplimiento del Parágrafo I de la Disposición Final Única del [Decreto Supremo Nº 2236](#TODO-link) de 31 de diciembre de 2014, es necesario aprobar los mecanismos convenientes y los procedimientos operativos previstos en el “Reglamento para el Cálculo de la compensación derivada del diferencial de precios existente entre el Diesel Oíl y el Gas Oíl mediante la emisión de Notas de Crédito Fiscal”, para que el Tesoro General de la Nación pueda transferir a YPFB los recursos necesarios para asegurar la continuidad del suministro de Gas Oíl para la generación de electricidad en los sistemas aislados.
+
+POR TANTO
+
+RESUELVEN:
+
+**Artículo 1°.-** Aprobar el "Reglamento para el Cálculo de la compensación derivada del Diferencial de Precios existente entre el Diesel Oíl y el Gas Oíl mediante la emisión de Notas de Crédito Fiscal" que consta de seis (6) Artículos y que en anexo forma parte integrante e indivisible de la presente Resolución.
+
+**Artículo 2°.-** La Dirección General de Asuntos Jurídicos del Ministerio de Hidrocarburos y Energía queda encargada de la notificación con la presente Resolución Bi-Ministerial.
+
+**Artículo 3°.-** Quedan abrogadas todas las Resoluciones contrarias a la presente Resolución Bi-Ministerial.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+Fdo. Luis Alberto Sánchez Fernández MINISTRO DE HIDROCARBUROS Y ENERGÍA, Luis Alberto Arce Catacora MINISTRO DE ECONOMÍA Y FINANZAS PÚBLICAS.
+
+# Anexo Reglamento para el cálculo de la compensación derivada
+
+[Reglamento para el cálculo de la compensación derivada](#TODO-link)

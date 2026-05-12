@@ -1,0 +1,144 @@
+# Bolivia: Ley modificatoria a la Ley Nº 475 de 30 de diciembre de 2013, de prestaciones de servicios de salud integral del Estado Plurinacional de Bolivia, DS Nº 1069, 5 de junio de 2018
+
+[Ley Nº 1069](#TODO-link)  
+LEY DE 28 DE MAYO DE 2018
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+Por cuanto, la Asamblea Legislativa Plurinacional, ha sancionado la siguiente Ley:
+  
+LA ASAMBLEA LEGISLATIVA PLURINACIONAL,
+  
+DECRETA:
+  
+Ley modificatoria a la Ley Nº 475 de 30 de diciembre de 2013, de prestaciones de servicios de salud integral del Estado Plurinacional de Bolivia
+
+**Artículo 1°.- (Objeto)** La presente Ley tiene por objeto modificar la [Ley Nº 475](#TODO-link) de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, para optimizar el uso de los recursos financieros asignados a la atención integral de salud.
+
+**Artículo 2°.- (Modificaciones)** 
+
+1. Se modifica el numeral 4 del Artículo 5 de la [Ley Nº 475](#TODO-link) de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, con el siguiente texto:
+   > “4. Mujeres respecto a atenciones de Salud Sexual y Reproductiva.”
+2. Se modifica el Artículo 7 de la [Ley Nº 475](#TODO-link) de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, con el siguiente texto:
+   > “ARTÍCULO 7.(ACCESO A LA ATENCIÓN INTEGRAL DE SALUD).
+   >   
+   > I. Las beneficiarias y los beneficiarios accederán a los servicios de salud de la atención integral y protección financiera de salud, obligatoriamente a través de los establecimientos de salud del Primer Nivel de atención del subsector público o los equipos móviles de salud en el marco de la política SAFCI.
+   >   
+   > II. El acceso a establecimientos de salud de Segundo, Tercer y Cuarto Nivel de atención, será exclusivamente mediante referencia del Nivel inferior.
+   >   
+   > III. El acceso a los establecimientos de salud privados bajo convenio y a los de la seguridad social a corto plazo, será exclusivamente mediante referencia justificada de los establecimientos del subsector público.
+   >   
+   > IV. Se exceptúa de lo establecido en el presente Artículo, los casos de emergencias y urgencias que serán regulados por el Ministerio de Salud, que deben ser atendidos inmediatamente en cualquier nivel de atención del Sistema Nacional de Salud.”
+3. Se modifica el Artículo 10 de la [Ley Nº 475](#TODO-link) de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, con el siguiente texto:
+   > “ARTÍCULO 10.(CUENTAS MUNICIPALES DE SALUD, PAGOS INTERMUNICIPALES Y DESTINO DE LOS RECURSOS).
+   >   
+   > I. Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, tendrán a su cargo una cuenta fiscal específica denominada “Cuenta Municipal de Salud”
+
+   , para la administración de:
+   1. El quince y medio por ciento (15.5%) de los recursos de la Coparticipación Tributaria Municipal o el equivalente de los recursos provenientes del IDH municipal.
+   2. Los recursos que los sean transferidos por el Fondo Compensatorio Nacional de Salud.
+4. La Cuenta Municipal de Salud estará destinada a financiar las prestaciones otorgadas a beneficiarias y beneficiarios en establecimientos de salud de Primer, Segundo y Tercer Nivel de atención y en Institutos de Cuarto Nivel de Salud en la jurisdicción municipal.
+5. Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, con la finalidad de garantizar la atención y la provisión permanente de medicamentos, insumos y reactivos, deberán realizar los pagos por las prestaciones de salud de forma oportuna y en el plazo más breve posible, a los establecimientos de salud, priorizando a los de Tercer y Cuarto Nivel de atención.
+6. Los establecimientos de salud de todos los niveles de atención, una vez recibido el pago por las atenciones realizadas, deberán priorizar la provisión y reposición oportuna y continua de medicamentos, insumos y reactivos necesarios para garantizar la continuidad de la atención a las beneficiarias y los beneficiarios.
+7. Se establecen los cobros y pagos intermunicipales con fondos de la Cuenta Municipal de Salud por pacientes beneficiarios de la presente Ley, referidos de un establecimiento de salud de un determinado municipio a un establecimiento de salud de otro municipio y los atendidos por emergencias y urgencias.
+8. Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos deudores, tienen la obligación de reembolsar los pagos emergentes por las prestaciones de salud realizadas a su población beneficiaria referida a establecimientos de salud de otros Municipios, en un plazo de veinte (20) días hábiles administrativos a partir de la solicitud de reembolso realizada por los Gobiernos Autónomos Municipales o Indígena Originario Campesinos acreedores.
+9. En caso de incumplimiento de lo establecido en los Parágrafos V y VI del presente Artículo, se autoriza al Ministerio de Economía y Finanzas Públicas, efectuar el Débito Automático de las Cuentas Corrientes Fiscales del Gobierno Autónomo Municipal o Indígena Originario Campesino deudor, a favor del Gobierno Autónomo Municipal o Indígena Originario Campesino acreedor; a este fin, el Ministerio de Salud emitirá un informe técnico a solicitud de una o ambas partes, de manera previa al débito.
+10. Cumplido lo establecido en los Parágrafos II y V precedentes y en caso de existir saldos anuales acumulados de recursos en la cuenta municipal de salud, serán reasignados para las prestaciones de salud de la siguiente gestión o podrán ser utilizados en el siguiente orden de prioridades, para el fortalecimiento de equipamiento e infraestructura en salud, programas especiales de salud o contratación de recursos humanos de los establecimientos de salud.
+11. Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos acreedores, tendrán como plazo máximo de presentación de solicitudes de pago de deudas intermunicipales de una gestión fiscal hasta el 31 de enero de la siguiente gestión, de no hacerlo deberán asumir las obligaciones financieras con sus recursos.”
+12. Se modifica el Artículo 11 de la [Ley Nº 475](#TODO-link) de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, con el siguiente texto:
+    > “ARTÍCULO 11.(FONDO COMPENSATORIO NACIONAL DE SALUD).
+    >   
+    > I. Se crea el Fondo Compensatorio Nacional de Salud - Fondo COMSALUD que será administrado por el Ministerio de Salud, destinado a complementar oportuna y eficazmente los recursos de las Cuentas Municipales de Salud cuando los Gobiernos Autónomos Municipales e Indígena Originario Campesino demuestren que los recursos de dichas cuentas sean insuficientes para el pago de las prestaciones de salud.
+    >   
+    > II. El Fondo Compensatorio Nacional de Salud - Fondo COMSALUD, permitirá administrar:
+    >   
+    > 1. El diez por ciento (10%) de los recursos de la Cuenta Especial del Diálogo 2000 hasta su cierre.
+    >   
+    > 2. A partir del cierre de la Cuenta Especial del Diálogo 2000, el Tesoro General del Estado asignará un monto similar al promedio otorgado al Fondo Solidario Nacional del SUMI en el periodo 2009 - 2012.
+    >   
+    > III. En caso de existir saldos en el Fondo Compensatorio Nacional de Salud - Fondo COMSALUD, al final de cada gestión, una vez realizadas las transferencias a las Cuentas Municipales de Salud de aquellos Gobiernos Autónomos Municipales o Indígena Originario Campesinos, que accedan a dicho Fondo, éstos serán revertidos al TGN.
+    >   
+    > IV. Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, podrán acceder al Fondo COMSALUD, cuando el déficit de su Cuenta Municipal de Salud, hubiera sido generado por gastos establecidos en los Parágrafos II y V del Artículo 10 de la presente Ley.
+    >   
+    > V. El déficit que será compensado con recursos del Fondo COMSALUD a los Gobiernos Autónomos Municipales e Indígena Originario Campesinos solicitantes, deberá corresponder a obligaciones generadas en la gestión fiscal inmediata anterior a la vigente.
+    >   
+    > VI. Los recursos asignados por el Fondo COMSALUD serán destinados exclusivamente para cubrir los costos de la reposición de medicamentos, insumos, reactivos y alimentación de pacientes beneficiarios.
+    >   
+    > VII. Para acceder al Fondo Compensatorio Nacional de Salud - Fondo COMSALUD, los Gobiernos Autónomos Municipales o Indígena Originario Campesinos deberán presentar al Ministerio de Salud, la siguiente información:
+    >   
+    > a) Informe financiero que identifique deudas y acreencias con otros Gobiernos Autónomos Municipales o Indígena Originario Campesinos, por:
+    >   
+    > i. Prestaciones otorgadas a la población beneficiaria referida por establecimientos de salud de otras jurisdicciones territoriales y por atenciones de urgencias y emergencias.
+    >   
+    > ii. Prestaciones otorgadas a la población beneficiaria de su jurisdicción que fue referida a establecimientos de salud de otras jurisdicciones territoriales y por atenciones de urgencias y emergencias.
+    >   
+    > b) Informe sobre la Correlación Clínica Administrativa de las prestaciones otorgadas por los establecimientos de salud, a la población beneficiaria de la presente Ley, elaborado por el área técnica de salud del Gobierno Autónomo Municipal o Indígena Originario Campesino y aprobado por la Máxima Autoridad Ejecutiva.
+    >   
+    > c) Informe de Auditoría Especial de la Cuenta Municipal de Salud que justifique que el déficit ha sido ocasionado por las prestaciones otorgadas a la población beneficiaria.
+    >   
+    > VIII. La información sobre prestaciones otorgadas en la gestión anterior, serán registradas en el Sistema de Control Financiero de Salud del Ministerio de Salud, hasta el 31 de enero de la siguiente gestión.
+    >   
+    > IX. Si el déficit se ha generado en el periodo fiscal de la gestión anterior, la solicitud de acceso al Fondo COMSALUD deberá ser presentada hasta el 31 de marzo de la gestión siguiente.
+    >   
+    > X. Los Gobiernos Autónomos Municipales o Indígena Originario Campesinos que no hayan realizado la solicitud de acceso al Fondo COMSALUD, de acuerdo a lo señalado en el Parágrafo VII del presente Artículo, deberán cubrir el déficit generado con sus recursos financieros.”
+13. Se incorpora el Capítulo V en la [Ley Nº 475](#TODO-link) de 30 de diciembre de 2013, de Prestaciones de Servicios de Salud Integral del Estado Plurinacional de Bolivia, con el siguiente texto:
+    > “CAPÍTULO V
+    >   
+    > ATENCIÓN A AFILIADOS DE LOS ENTES GESTORES EN ESTABLECIMIENTOS DE SALUD PÚBLICOS Y DÉBITO AUTOMÁTICO
+    >   
+    > Artículo 15º (Atención a afiliados del Seguro Social de Corto Plazo en establecimientos de salud públicos)
+    >   
+    > I. En los lugares donde no exista la presencia de los Entes Gestores del Seguro Social de Corto Plazo en la jurisdicción de la Entidad Territorial Autónoma, las personas aseguradas podrán ser atendidas en establecimientos de salud públicos dependientes de las Entidades Territoriales Autónomas, para tal efecto los afiliados deben figurar en las listas proporcionadas por los Entes Gestores que realizarán la cancelación del costo de la atención.
+    >   
+    > II. Los Entes Gestores del Seguro Social de Corto Plazo, con el propósito de establecer la vigencia de derechos de sus asegurados, actualizarán de manera bimensual las listas depuradas de su población asegurada y las remitirán al Ministerio de Salud para su consolidación y difusión a los establecimientos de salud públicos.
+    >   
+    > Artículo 16º (Obligación de pago de los entes gestores) Los Entes Gestores del Seguro Social de Corto Plazo tienen la obligación de reembolsar los pagos emergentes por las prestaciones de salud a las Entidades Territoriales Autónomas, en un plazo de treinta (30) días hábiles administrativos a partir de la solicitud de reembolso, conforme a reglamentación establecida por el Ministerio de Salud.
+    >   
+    > Artículo 17º (Débito automático) En caso de incumplimiento de lo señalado en el Artículo 16 de la presente Ley, se autoriza al Ministerio de Economía y Finanzas Públicas efectuar el Débito Automático de las Cuentas Corrientes Fiscales de los Entes Gestores del Seguro Social de Corto Plazo, a solicitud de las Entidades Territoriales Autónomas, adjuntando los Informes Técnico y Legal originales que fundamenten el incumplimiento y la necesidad de proceder al Débito Automático.Parte de Recepción”
+
+    .
+      
+
+    # Disposiciones transitorias
+
+**Primera .-** 
+
+1. Los déficits de la Cuenta Municipal de Salud correspondientes a los periodos fiscales 2016 y 2017, podrán ser financiados de manera extraordinaria con recursos adicionales del Tesoro General de la Nación - TGN, de acuerdo a disponibilidad financiera.
+2. Se considerará como déficit de las Cuentas Municipales de Salud de la gestión fiscal 2016 de los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, los datos financieros registrados al 31 de diciembre de 2017 en el Sistema de Control Financiero de Salud del Ministerio de Salud y conciliado a la publicación de la presente Ley.
+3. Se considerará como déficit de las Cuentas Municipales de Salud de la gestión fiscal 2017 de los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, los datos financieros registrados al 26 de marzo de 2018 en el Sistema de Control Financiero de Salud del Ministerio de Salud.
+4. Para el cumplimiento de los Parágrafos I, II y III de la presente Disposición Transitoria, en un plazo máximo de hasta tres (3) meses a partir de la publicación de la presente Ley, los Gobiernos Autónomos Municipales e Indígena Originario Campesinos, deberán presentar al Ministerio de Salud para su evaluación, la siguiente información:
+   1. Informe sobre la Correlación Clínica Administrativa de las prestaciones otorgadas por los establecimientos de salud a la población beneficiaria de la presente Ley, elaborado por el área técnica de salud del Gobierno Autónomo Municipal o Indígena Originario Campesino y aprobada por la Máxima Autoridad Ejecutiva.
+   2. Informe de Auditoría Financiera Especial de la Cuenta Municipal de Salud, que justifique que el déficit ha sido ocasionado por las prestaciones otorgadas a la población beneficiaria de la [Ley Nº 475](#TODO-link).
+   3. Otros establecidos en normativa vigente.
+5. Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos que no presenten la documentación en el plazo establecido en el parágrafo IV de la presente Disposición Transitoria, deberán cubrir el déficit generado en sus Cuentas Municipales de Salud con sus recursos financieros.
+6. La priorización para la asignación de recursos establecidos en el Parágrafo I de la presente Disposición Transitoria, será establecida en reglamento aprobado por Decreto Supremo.
+
+**Segunda .-** El Ministerio de Salud coordinará con las instancias pertinentes la implementación de mecanismos de interoperabilidad conforme a normativa vigente, para el registro, control y seguimiento de las prestaciones en salud otorgadas a la población beneficiaria de la [Ley Nº 475](#TODO-link).
+
+**Tercera .-** Con carácter excepcional, los Gobiernos Autónomos Municipales e Indígena Originario Campesinos deberán realizar los cobros y pagos intermunicipales por prestaciones de salud previstas en la presente Ley, correspondientes al primer semestre de la gestión 2018, de acuerdo a reglamento emitido por el Ministerio de Salud.
+
+**Cuarta .-** En un plazo de hasta sesenta (60) días calendario a partir de la publicación de la presente Ley, el Órgano Ejecutivo emitirá la reglamentación correspondiente que será aprobada mediante Decreto Supremo.
+
+# Disposición final
+
+**Única .-** Los Gobiernos Autónomos Indígena Originario Campesinos, tienen las mismas responsabilidades asignadas a los Gobiernos Autónomos Municipales, establecidas en la [Ley Nº 475](#TODO-link), en lo que corresponda.
+
+**Disposición Derogatoria.-** Y ABROGATORIA
+
+**Única .-** Se derogan y abrogan todas las disposiciones contrarias a la presente Ley.
+
+---
+
+Remítase al Órgano Ejecutivo para fines constitucionales.
+  
+Es dado en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los veintidós días del mes de mayo del año dos mil dieciocho.
+  
+FDO. Lineth Guzmán Wilde, Lilly Gabriela Montaño Viaña, Efraín Chambi Copa, Patricia M. Gómez Andrade, Sebastián Texeira Rojas, Margarita del C. Fernández Claure.
+  
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
+  
+Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de mayo del año dos mil dieciocho.
+  
+FDO. EVO MORALES AYMA, Alfredo Rada Vélez, Mario Alberto Guillén Suárez.

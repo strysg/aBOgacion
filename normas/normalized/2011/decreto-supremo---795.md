@@ -1,0 +1,66 @@
+# Bolivia: Decreto Supremo Nº 795, 16 de febrero de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 306 de la [Constitución Política del Estado](#TODO-link), establece que el modelo económico boliviano es plural y está orientado a mejorar la calidad de vida y el vivir bien de todas las bolivianas y bolivianos.
+* Que los numerales 1 y 3 del Artículo 313 de la [Constitución Política del Estado](#TODO-link), dispone que para eliminar la pobreza y la exclusión social y económica, para el logro del vivir bien en sus múltiples dimensiones, la organización económica boliviana establece como propósitos, entre otros, la generación del producto social en el marco del respeto de los derechos individuales, de los pueblos y las naciones; y la reducción de las desigualdades de acceso a los recursos productivos.
+* Que la [Ley Nº 3906](#TODO-link), de 4 de julio de 2008, aprueba el Convenio de Crédito Nº 4366-BO, de 11 de febrero de 2008, suscrito entre la República de Bolivia actual Estado Plurinacional de Bolivia y la Asociación Internacional de Fomento - AIF - Banco Mundial.
+* Que en fecha 5 de febrero de 2009, se suscribe el Convenio Subsidiario - Crédito AIF Nº 4366-BO, entre el Ministerio de Planificación de Desarrollo y el ex Ministerio de Hacienda, actual Ministerio de Economía y Finanzas Públicas, por una parte; y por la otra, el ex Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente actual Ministerio de Desarrollo Rural y Tierras, con el objeto de otorgar en calidad de transferencia al Viceministerio de Tierras, recursos del Convenio de Crédito AIF Nº 4366-BO y establecer las condiciones que regirán la utilización de dichos recursos en la ejecución del Proyecto de Tierras para el Desarrollo Agrícola.
+* Que en fecha 6 de abril de 2010, el Estado Plurinacional de Bolivia y la AIF - Banco Mundial, suscribieron la Enmienda al Convenio de Crédito Nº 4366-BO, a fin de coadyuvar a establecer mecanismos descentralizados y alternos de acceso a la tierra orientado hacia los beneficiarios, en especial campesinos e indígenas organizados, sin tierra o con tierra insuficiente y de escasos recursos, mediante el apoyo financiero y técnico a la producción que permita medios de vida mejores y mas sostenibles para los beneficiarios.
+* Que la Disposición Final Décimo Primera de la [Ley Nº 3545](#TODO-link), de 28 de noviembre de 2006, Modificación de la [Ley Nº 1715](#TODO-link) Reconducción de la Reforma Agraria, establece que el Estado apoyará técnica y económicamente a las comunidades campesinas, indígenas y originarias.
+* Que el [Decreto Supremo Nº 28160](#TODO-link), de 17 de mayo de 2005, modificado por el [Decreto Supremo Nº 28734](#TODO-link), de 2 de junio de 2006, tiene por objeto establecer una política de acceso a la tierra y desarrollo productivo, por medio de tres (3) componentes, como instrumento complementario a los establecidos en la [Ley Nº 1715](#TODO-link), de 18 de octubre de 1996, del Servicio Nacional de Reforma Agraria, que beneficie a comunidades y asociaciones de indígenas, campesinos y colonizadores que no tienen tierra o la poseen insuficientemente, de conformidad a la [Constitución Política del Estado](#TODO-link).
+* Que el Artículo 4 del [Decreto Supremo Nº 28160](#TODO-link) prevé la constitución de una línea de financiamiento reembolsable que tiene el carácter de línea de crédito rotatoria, para el acceso a tierras cuyo funcionamiento se sujeta a la intermediación de instituciones financieras de Segundo Piso, las cuales canalizarían los recursos a través de Instituciones Financieras Intermediarias - IFI’s de Primer Piso, con las que se suscribirían contratos de fideicomiso.
+* Que este mecanismo encarece los créditos para los beneficiarios al contemplar dos (2) niveles de intermediación financiera, instituciones a las que se debe pagar por el servicio de intermediación, hecho que incrementa la tasa de interés de los créditos que recibirían los beneficiarios.
+* Que el Artículo Único del [Decreto Supremo Nº 28734](#TODO-link), modifica el Artículo 8 del [Decreto Supremo Nº 28160](#TODO-link), estableciendo que los proyectos enmarcados en el objeto del decreto, se ejecutarán inicialmente en tres (3) municipios del Departamento de Santa Cruz: Minero, Pailón y Charagua (TCO’s Charagua Norte y Bajo Isoso) a través de la Unidad Técnica dependiente del Viceministerio de Tierras, por medio de la celebración de convenios de apoyo y co-ejecución con la Prefectura de Santa Cruz y los Gobiernos Municipales respectivos, siendo necesaria la ampliación de las áreas de intervención del Proyecto Tierras y Desarrollo Agrario.
+* Que el Plan Nacional de Desarrollo, aprobado por [Decreto Supremo Nº 29272](#TODO-link), de 12 de septiembre de 2007, en la Propuesta de Cambio del numeral 2.4 del Capítulo II “BOLIVIA DIGNA”, tiene como uno de sus objetivos de la Protección Social y Desarrollo Integral Comunitario, el contribuir a erradicar las causas estructurales de la pobreza, extrema pobreza, reducir las brechas de inequidad entre la población, eliminar toda forma de exclusión y disminuir factores de riesgo, precariedad y vulnerabilidad de las personas, familias, comunidades y grupos sociales, focalizando la inversión productiva y social.
+* Que el Plan Nacional de Desarrollo señala como otro de los objetivos de Protección Social y Desarrollo Integral Comunitario, el coadyuvar a la restitución y fortalecimiento de los derechos y capacidades (económicas, físicas, humanas, naturales, y sociales) de la población, principalmente de los indígenas, originarios y campesinos.
+* Que el acceso a la tierra y el apoyo productivo, constituyen objetivos establecidos en las estrategias del Plan de Desarrollo Sectorial del Ministerio de Desarrollo Rural y Tierras, en concordancia con el Plan Nacional de Desarrollo y la [Constitución Política del Estado](#TODO-link).
+* Que de acuerdo a los documentos y disposiciones normativas mencionadas, es necesario modificar el [Decreto Supremo Nº 28160](#TODO-link), a fin de otorgar una mayor atención a las demandas o solicitudes de organizaciones sociales, contribuyendo al acceso a tierras y a la reducción de las desigualdades de acceso a los recursos productivos.
+* Que el Estado tiene la obligación de alcanzar un mejor aprovechamiento de la tierra y los recursos naturales otorgados en el marco de disposiciones legales vigentes, así como facilitar el acceso a la producción y seguridad alimentaría, en el marco del Ordenamiento Territorial del Estado y la conservación del medio ambiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se sustituye el Artículo 2 del [Decreto Supremo Nº 28160](#TODO-link), de 17 de mayo de 2005, con el siguiente texto:
+   > “ARTÍCULO 2.- (COMPONENTES). Esta política de acceso a la tierra y desarrollo agrario se ejecutará por medio de tres (3) componentes, los que serán aplicados de manera integral:
+   >   
+   > Componente de Acceso a Tierras, consistente en una línea de financiamiento reembolsable que tendrá carácter rotatorio, a través de la cual se canalizarán recursos en forma de préstamos destinados al acceso a tierras productivas, a una tasa de interés que no sea menor al costo que represente para el Estado Plurinacional de Bolivia los recursos contratados para este fin.
+   >   
+   > Componente de Inversiones Comunitarias, consistente en una línea de financiamiento no reembolsable, como mecanismo de transferencia directa a las comunidades productivas de indígenas, originarios, campesinos y colonizadores, con destino al co-financiamiento no reembolsable de inversiones y/o actividades productivas comunitarias, administrado por una entidad del sector público.
+   >   
+   > Componente de Asistencia Técnica, consistente en apoyo a las comunidades y asociaciones para el acceso a tierras y el logro de los objetivos de desarrollo productivo.
+   >   
+   > Los componentes señalados en los incisos anteriores, serán aplicados de acuerdo a las necesidades y/o demandas sociales de comunidades y asociaciones de indígenas, campesinos y/o colonizadores, conforme a las políticas del Estado Plurinacional de Bolivia.
+   >   
+   > Los requisitos para el acceso a tierras, serán establecidos en el Manual de Operaciones del Proyecto - MOP, en el marco de la normativa agraria vigente.”
+2. Se sustituyen los incisos a), b), d) y e) del Artículo 4 del [Decreto Supremo Nº 28160](#TODO-link), de 17 de mayo de 2005, con el siguiente texto:
+   > “a) El Ministerio de Desarrollo Rural y Tierras a través del Viceministerio de Tierras, en calidad de Contratante, debe suscribir contratos de fideicomiso (Administración de Fondos) con entidades de intermediación financiera de Primer Piso reguladas por la Autoridad de Supervisión del Sistema Financiero - ASFI, por el monto total otorgado para el Componente de Acceso a Tierras en el Acuerdo de Préstamo entre el Banco Mundial y el Estado Plurinacional de Bolivia, por el plazo establecido en el mencionado Acuerdo.
+   >   
+   > Las condiciones, costos y otros aspectos administrativos del fideicomiso (Administración de Fondos), se establecerán en los contratos respectivos, los mismos que serán negociados por el Ministerio de Desarrollo Rural y Tierras, a través de la Unidad de Coordinación del Proyecto dependiente del Viceministerio de Tierras y las entidades de intermediación financiera. Dichos contratos serán revisados, aprobados y firmados por la Máxima Autoridad Ejecutiva del Ministerio de Desarrollo Rural y Tierras.
+   >   
+   > d) Las líneas de crédito abiertas en las entidades de intermediación financiera en el marco de los contratos de fideicomiso (Administración de Fondos), suscritos con las entidades de intermediación financiera de Primer Piso, serán de naturaleza rotatoria, de modo que los reembolsos puedan volver a ser aplicados al propósito de la línea de crédito.
+   >   
+   > e) Con la finalidad de mitigar pérdidas por riesgo crediticio y extender la sostenibilidad del programa de financiamiento, más allá de las posibilidades que brinda la garantía constituida con la que estará respaldada cada operación crediticia, la tasa de interés incluirá un porcentaje sobre el saldo de capital con el que se constituirá un fondo de garantía contra contingencias.”
+3. Se sustituye el Artículo 8 del [Decreto Supremo Nº 28160](#TODO-link), de 17 de mayo de 2005, modificado por el [Decreto Supremo Nº 28734](#TODO-link), de 2 de junio de 2006, con el siguiente texto:
+   > “ARTÍCULO 8.- (ÁREAS DE EJECUCIÓN). Los proyectos enmarcados en el objeto del presente Decreto Supremo, se ejecutarán en tres (3) municipios del Departamento de Santa Cruz: Mineros, Pailón y Charagua, y además podrán ser implementados en municipios de influencia de los proyectos, de acuerdo a los requerimientos de las organizaciones sociales, previo cumplimiento de los siguientes requisitos:
+   >   
+   > Estudios de factibilidad realizados por la Unidad de Coordinación del Proyecto dependiente del Viceministerio de Tierras, que recomienden la implementación del proyecto en los referidos municipios.
+   >   
+   > Contar con la no objeción del financiador.
+   >   
+   > Suscripción de convenios de apoyo y ejecución con los Gobiernos Autónomos Municipales respectivos, los cuales comprometan su apoyo en obras de infraestructura que faciliten la ejecución del proyecto, excepto en aquellos casos que determine el Viceministerio de Tierras.”
+
+---
+
+La Señora Ministra de Estado en el Despacho de Desarrollo Rural y Tierras, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de febrero del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry MINISTRA DE TRANSP. Y LUCHA CONTRA LA CORRUPCIÓN E INTERINA DE JUSTICIA, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

@@ -1,0 +1,45 @@
+# Bolivia: Decreto Supremo Nº 29009, 9 de enero de 2007
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 22 de la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005 - Ley de Hidrocarburos, establece la estructura y atribuciones de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB y la refunda como Empresa Autárquica de Derecho Público, determinando su constitución a cargo de un Directorio, un Presidente Ejecutivo y dos Vicepresidencias, la primera de Administración y Fiscalización y la segunda de Operaciones, para que participen de todas las actividades petroleras.
+* Que la Vicepresidencia de Operaciones de YPFB tiene como competencias: a) Operar y/o participar en todas las actividades de la cadena productiva de los hidrocarburos, por sí o mediante la conformación de sociedades de acuerdo al Código de Comercio; b) Negociar la conformación de Sociedades de Economía Mixta para participar en las actividades de exploración y explotación y en cualquier otra actividad de la cadena productiva de los hidrocarburos, y c) Recibir y aportar activos, concesiones, privilegios, proyectos y otros bienes o derechos, para la constitución o participación en Sociedades.
+* Que en fecha 23 de enero de 2006, se ha suscrito un acuerdo sobre la cooperación en el sector energético entre los presidentes de la República de Bolivia y de la República Bolivariana de Venezuela, cuyo Artículo 2, inciso d) hace referencia a la conformación de empresas mixtas entre YPFB y Petróleos de Venezuela S. A., para el desarrollo de proyectos de exploración, producción, refinación, cadenas de distribución, procesamiento e industrialización de hidrocarburos en Bolivia, estableciendo que cuando dichas empresas se constituyan en Bolivia tendrán mayoría accionaria de YPFB, mismo que ha sido ratificado mediante [Ley Nº 3430](#TODO-link) de 21 de junio de 2006.
+* Que en cumplimiento del numeral 1) del Artículo 428 del Código de Comercio, el Presidente Ejecutivo de YPFB propuso a PDVSA Bolivia S. A., en fecha 6 de noviembre de 2006, la conformación de una Sociedad Anónima Mixta para el tratamiento del Gas.
+* Que mediante Resolución de Directorio N° 016/2006 de 16 de noviembre de 2006, el Directorio de YPFB, en atención al Artículo 9, inciso k) de los Estatutos de YPFB, aprobado mediante [Decreto Supremo Nº 28324](#TODO-link) de 1 de septiembre de 2005, aprobó la constitución de la Sociedad “Petroandina Exploración y Explotación Sociedad Anónima Mixta”.
+* Que en cumplimiento del Numeral 2 del Artículo 428 del Código de Comercio, en fecha 20 de noviembre de 2006 se suscribió el “Convenio de Conformación de la Sociedad Anónima Mixta Petroandina E y E S. A. M.”, entre los presidentes de las empresas YPFB y PDVSA Bolivia S. A., en el cual se establecen las participaciones de ambas empresas en una Sociedad de Economía Mixta que se crearía al efecto, de acuerdo a la legislación boliviana.
+* Que el Artículo 428, inciso 3) del Código de Comercio, referido a los requisitos para la constitución de una Sociedad de Economía Mixta, determina que para la constitución de este tipo de sociedades es obligatorio contar con un Decreto Supremo que autorice la formación de la Sociedad, apruebe la Escritura Constitutiva y Estatutos, ordene su protocolización en la Notaría respectiva y luego reconozca su personalidad jurídica señalando el capital, porcentaje y participación del sector público y los privilegios que gozará la sociedad.
+* Que conforme consta de los informes legales remitidos al Ministerio de la Presidencia por el Ministerio de Hidrocarburos y por YPFB, se han cumplido todos los requisitos exigidos por el Artículo 428 del Código de Comercio para la conformación de una Sociedad Anónima Mixta.
+* Que es voluntad del Supremo Gobierno fortalecer Yacimientos Petrolíferos Fiscales Bolivianos, logrando su inserción dentro de la cadena productiva de los hidrocarburos, preferentemente en sociedades en las cuales YPFB tenga la mayoría accionaria.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 8 de enero de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Hidrocarburos y Energía.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la conformación de una Sociedad de Economía Mixta entre Yacimientos Petrolíferos Fiscales Bolivianos - YPFB y Petróleos de Venezuela S. A. Bolivia Sociedad Anónima - PDVSA Bolivia S. A., aprobar el proyecto de Contrato de Constitución y de Estatutos y, asimismo, ordenar su respectiva protocolización ante Notario de Gobierno.
+
+**Artículo 2°.- (Autorizacion)** En el marco del Acuerdo sobre la Cooperación en el Sector Energético, suscrito entre los gobiernos de la República de Bolivia y la República Bolivariana de Venezuela y de conformidad a lo dispuesto por los Artículos 424 y siguientes del Código de Comercio, se autoriza la conformación de la Sociedad de Economía Mixta denominada “PETROANDINA EXPLORACION Y EXPLOTACION SOCIEDAD ANONIMA MIXTA” cuya sigla será “PETROANDINA E y E S. A. M.”, conformada por Yacimientos Petrolíferos Fiscales Bolivianos - YPFB y PDVSA Bolivia S. A., para el desarrollo de actividades de exploración en busca de yacimientos de hidrocarburos, extracción de ellos en su estado natural, recolección, transporte y almacenamiento.
+
+**Artículo 3°.- (Aprobacion)** Se aprueba la Escritura Constitutiva de “PETROANDINA EXPLORACION Y EXPLOTACION SOCIEDAD ANONIMA MIXTA” - “PETROANDINA E y E S. A. M.”, en sus nueve (9) cláusulas; asimismo, se aprueban los Estatutos de la nueva Sociedad en sus ocho (8) Títulos y noventa y tres (93) Artículos.
+
+**Artículo 4°.- (Capital)** 
+
+1. El capital autorizado de la Sociedad es de Bs800.000.- (OCHOCIENTOS mil 00/100 BOLIVIANOS) dividido en ochocientas (800) acciones nominativas de Bs1.000.- (UN mil 00/100 BOLIVIANOS) cada una.
+2. El capital suscrito y pagado de la Sociedad es de Bs400.000.- (CUATROCIENTOS mil 00/100 BOLIVIANOS), que los accionistas pagan mediante un depósito bancario, de acuerdo al Artículo 221 del Código de Comercio, según el siguiente detalle:
+   1. YPFB, suscribe y paga la suma de Bs204.000.- (DOSCIENTOS CUATRO mil 00/100 BOLIVIANOS), aporte equivalente a doscientas cuatro (204) acciones de Bs1.000.- (UN mil 00/100 BOLIVIANOS) cada una.
+   2. PDVSA Bolivia S. A., suscribe y paga la suma de Bs196.000.- (CIENTO NOVENTA Y SEIS mil 00/100 BOLIVIANOS), aporte equivalente a ciento noventa y seis (196) acciones de Bs1.000.- (UN mil 00/100 BOLIVIANOS) cada una, siendo este aporte de origen nacional.
+
+**Artículo 5°.- (Participacion estatal)** La participación Estatal en la empresa PETROANDINA E y E S. A. M. será mayoritaria y se constituye con un paquete accionario a favor de YPFB del cincuenta y uno por ciento (51%).
+
+**Artículo 6°.- (Protocolizacion)** Se dispone la protocolización del Contrato de Constitución de la Sociedad y sus Estatutos, en la Notaría de Gobierno de la ciudad de La Paz.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Hidrocarburos y Energía, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de enero del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Hernando Larrazábal Córdova, Luís Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

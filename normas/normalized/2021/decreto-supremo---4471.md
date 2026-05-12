@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 4471, 12 de marzo de 2021
+
+[Decreto Supremo Nº 4471](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 177 de la [Ley Nº 393](#TODO-link), de 21 de agosto de 2013, de Servicios Financieros, determina que el Banco de Desarrollo Productivo - Sociedad Anónima Mixta - BDP - S. A. M. sujetará sus funciones, actividades y operaciones de manera especial a lo dispuesto por la citada Ley y sus Estatutos Sociales y a lo establecido para sociedades de economía mixta y sociedades anónimas en el Código de Comercio.
+* Que el Parágrafo I del Artículo 178 de la [Ley Nº 393](#TODO-link), establece que el BDP - S. A. M. tiene como finalidad principal la de promover el desarrollo del sector agrícola, ganadero, manufacturero, piscícola y forestal maderable y no maderable, pudiendo ampliar a otros sectores productivos y los sectores de comercio y servicios complementarios a la actividad productiva de Bolivia, otorgando servicios financieros y no financieros de manera directa o a través de terceros.
+* Que el Artículo 194 de la [Ley Nº 393](#TODO-link), dispone que el Órgano Ejecutivo del nivel central del Estado Plurinacional de Bolivia, en representación de las acciones del sector público, queda facultado a autorizar la emisión de nuevas acciones y el aumento del capital autorizado y de la participación del Estado en dicho capital.
+* Que por [Decreto Supremo Nº 2118](#TODO-link), de 17 de septiembre de 2014, se aprueban las modificaciones efectuadas a la Escritura Constitutiva y Estatutos Sociales del "Banco de Desarrollo Productivo S. A. M.- BDP S. A. M.- Banco de Segundo Piso" acordadas en la Cuarta Junta General Extraordinaria de Accionistas del BDP - S. A. M. reunida el 21 de marzo de 2014, contenidas en sus 10 Títulos, 85 Artículos, un Título de Disposiciones Especiales con Artículo Único y Anexo de "Solución de Controversias", procediéndose al cambio de denominación social a "Banco de Desarrollo Productivo - Sociedad Anónima Mixta (BDP - S. A. M.)", debiendo protocolizarse la nueva versión de Estatutos Sociales y Escritura Constitutiva ante la Notaria de Gobierno dependiente del Gobierno Autónomo del Departamento de La Paz.
+* Que en la Segunda Junta General Extraordinaria de Accionistas del BDP - S. A. M. celebrada el 29 de junio de 2020, se ha considerado y aprobado la modificación del Artículo 8 de sus Estatutos Sociales referente al Capital Autorizado, aumentando el mismo de Bs600.000.000.- (SEISCIENTOS MILLONES 00/100 BOLIVIANOS) a Bs925.027.000.- (NOVECIENTOS VEINTICINCO MILLONES VEINTISIETE mil 00/100 BOLIVIANOS), divididos en Nueve Millones Doscientos Cincuenta mil Doscientos Setenta (9.250.270) Acciones, con un valor de Bs100.- (CIEN 00/100 BOLIVIANOS) cada una, ratificando en su totalidad los XI Títulos y un Anexo "Solución de Controversias", todo de acuerdo a lo establecido en el Numeral 4 del Artículo 286 del Código de Comercio.
+* Que la Autoridad de Supervisión del Sistema Financiero - ASFI, mediante Resolución ASFI/332/2020, de 20 de julio de 2020 dispuso la no objeción para la modificación del Artículo 8 del Estatuto Orgánico del BDP - S. A. M. producto del aumento de Capital Autorizado y de acuerdo al texto aprobado por la Segunda Junta General Extraordinaria de Accionistas de la Gestión 2020 de dicho Banco.
+* Que es necesario aprobar la modificación efectuada a la Escritura Constitutiva y Estatutos Sociales del "Banco de Desarrollo Productivo - Sociedad Anónima Mixta (BDP - S. A. M.)" acordada en la Segunda Junta General Extraordinaria de Accionistas del BDP - S. A. M., reunida el 29 de junio de 2020 y disponer que se proceda a la protocolización de la referida Resolución a objeto de su inscripción en el Registro de Comercio.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto aprobar la modificación efectuada a la Escritura Constitutiva y Estatutos Sociales del "Banco de Desarrollo Productivo - Sociedad Anónima Mixta (BDP - S. A. M.)" conforme lo resuelto por la Segunda Junta General Extraordinaria de Accionistas del BDP - S. A. M., celebrada el 29 de junio de 2020.
+
+**Artículo 2°.- (Aprobación)** Se aprueba la modificación efectuada a la Escritura Constitutiva y Estatutos Sociales del "Banco de Desarrollo Productivo - Sociedad Anónima Mixta (BDP - S. A. M.)" conforme lo resuelto por la Segunda Junta General Extraordinaria de Accionistas del BDP - S. A. M., efectuada el 29 de junio de 2020, que establece la modificación de la Cláusula Quinta de la Escritura Constitutiva y del Artículo 8 de sus Estatutos Sociales en lo referente al Capital Autorizado, aumentando el mismo de Bs600.000.000.- (SEISCIENTOS MILLONES 00/100 BOLIVIANOS) a Bs925.027.000.- (NOVECIENTOS VEINTICINCO MILLONES VEINTISIETE mil 00/100 BOLIVIANOS), dividido en Nueve Millones Doscientos Cincuenta mil Doscientos Setenta (9.250.270) Acciones, con un valor de Bs100.- (CIEN 00/100 BOLIVIANOS) cada una, ratificando en su totalidad los XI Títulos y un Anexo "Solución de Controversias", de los Estatutos Sociales del BDP - S. A. M, debiendo protocolizarse la nueva versión de la Escritura Constitutiva y de los Estatutos Sociales ante la Notaria de Gobierno dependiente del Gobierno Autónomo Departamental de La Paz.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los diez días del mes de marzo del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Fdo. Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Edwin Ronal Characayo Villegas, Sabina Orellana Cruz.

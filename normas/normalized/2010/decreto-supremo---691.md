@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 691, 3 de noviembre de 2010
+
+Decreto Supremo Nº 0691
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 55 de la [Ley Nº 1732](#TODO-link), de 29 de noviembre de 1996, de Pensiones, dispone que los Entes Gestores de cualquier naturaleza, que de manera exclusiva administren los regímenes de vejez, jubilación, invalidez, muerte, riesgos profesionales de largo plazo y seguros especiales de la seguridad social boliviana, mantendrán su personalidad jurídica sólo a los efectos de su liquidación.
+* Que el [Decreto Supremo Nº 25052](#TODO-link), de 23 de mayo de 1998, establece que los activos fijos, valores, acciones y otros títulos valores, así como los pasivos de los Entes Gestores, señalados en el Artículo 56 de la [Ley Nº 1732](#TODO-link), serán administrados y liquidados por liquidadores designados por el Ministerio de Comercio Exterior e Inversión. Los bienes mencionados serán objeto de disposición y transferencia a cargo de la Unidad de Reordenamiento; conforme a lo establecido en las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+* Que el [Decreto Supremo Nº 26035](#TODO-link), de 22 de diciembre de 2000, dispone que los bienes de los ex Entes Gestores de la Seguridad Social deban ser dispuestos conforme a procedimiento determinado en las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+* Que la [Ley Nº 2446](#TODO-link), de 19 de marzo de 2003, de Organización del Poder Ejecutivo, suprime la Unidad de Reordenamiento, establecida por el Artículo 55 de la [Ley Nº 1732](#TODO-link), y dispone que el Decreto Reglamentario de esta Ley determine la asignación de las competencias de esa Unidad a los Ministros de Hacienda y Desarrollo Económico.
+* Que los bienes de los ex Entes Gestores de la Seguridad Social son dispuestos y transferidos por el Ministerio de Hacienda, actual Ministerio de Economía y Finanzas Públicas, a través del Liquidador y conforme lo establecido en el [Decreto Supremo Nº 26035](#TODO-link), el [Decreto Supremo Nº 0181](#TODO-link), de 28 de junio de 2009, Normas Básicas del Sistema de Administración de Bienes y Servicios y el [Decreto Supremo Nº 28528](#TODO-link), de 16 de diciembre de 2005.
+* Que el Artículo 29 del [Decreto Supremo Nº 28565](#TODO-link), de 22 de diciembre de 2005, dispone que la Dirección de Liquidación de los Entes Gestores de la Seguridad Social, se constituye en un área organizacional del Servicio Nacional de Patrimonio del Estado - SENAPE, con competencia para administrar, supervisar y controlar los procesos de liquidación de los ex Entes Gestores de Seguridad Social dispuesta por la [Ley Nº 1732](#TODO-link).
+* Que el Artículo 3 del [Decreto Supremo Nº 28528](#TODO-link), establece que para la transferencia a título oneroso de los bienes inmuebles de los ex Entes Gestores de la Seguridad Social a favor de entidades públicas, sean Ministerios o entidades bajo dependencia o tuición de los mismos, se debe contar con autorización a través de Decreto Supremo.
+* Que el Ministerio de Trabajo, Empleo y Previsión Social requiere un inmueble para el establecimiento de sus oficinas, para lo cual debe adquirir a título oneroso el bien inmueble ubicado en la Av.20 de Octubre Nº 1951 esquina Corneta Mamani de la ciudad de La Paz, registrado a nombre del ex Fondo Complementario de la Seguridad Social de las Corporaciones Regionales de Desarrollo - CORDES, siendo necesario que la autorización sea dada por Decreto Supremo al precio establecido en el último avalúo actualizado, incluyendo en dicho Decreto Supremo la modalidad de pago.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del Director o Directora de Liquidación de los ex Entes Gestores de la Seguridad Social, en su calidad de Liquidador o Liquidadora, a transferir a título oneroso a favor del Ministerio de Trabajo, Empleo y Previsión Social, el inmueble ubicado en la Av.20 de Octubre Nº 1951 esquina Corneta Mamani de la ciudad de La Paz, con testimonio de propiedad Nº 180 de 18 de junio de 1996, registrado a nombre del ex Fondo Complementario de Seguridad Social de las Corporaciones Regionales de Desarrollo - CORDES, con una superficie total de 603 mts2, inscrito en Derechos Reales bajo la matrícula 2.01.0.99.0012600, inmueble que será utilizado para el funcionamiento de reparticiones de dicho Ministerio.
+2. El Ministerio de Trabajo, Empleo y Previsión Social, cancelará en un sólo pago el precio de $us428.447,07 (CUATROCIENTOS VEINTIOCHO mil CUATROCIENTOS CUARENTA Y siete 07/100 DÓLARES ESTADOUNIDENSES) o su equivalente en moneda nacional al tipo de cambio vigente, con cargo a la partida presupuestaria 41100 “Edificios”, inscrita en el presupuesto del Ministerio con fuente 10 - “Tesoro General de la Nación”.
+3. El Director o Directora de Liquidación de los ex Entes Gestores de la Seguridad Social del Servicio Nacional de Patrimonio del Estado - SENAPE, en su calidad de Liquidador o Liquidadora, estará a cargo de la suscripción de la minuta de transferencia por cuenta del Ministro de Economía y Finanzas Públicas y procederá a la entrega del bien inmueble al Ministerio de Trabajo, Empleo y Previsión Social, una vez que se haya cancelado la totalidad del monto establecido en el Parágrafo anterior.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Economía y Finanzas Públicas, y de Trabajo, Empleo y Previsión Social, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los tres días del mes de noviembre del año dos mil diez.
+  
+Fdo. EVO MORALES AYMA, Oscar Coca Antezana MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elizabeth Arismendi Chumacero, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora MINISTRO DE ECONOMIA Y FINANZAS PUBLICAS E INTERINO DE DES. PRODUC. Y ECONOMIA PLURAL, Luís Fernando Vincenti Vargas, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Carmen Trujillo Cárdenas, Nila Heredia Miranda, María Esther Udaeta Velásquez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Zulma Yugar Párraga.

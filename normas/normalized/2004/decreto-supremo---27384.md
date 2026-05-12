@@ -1,0 +1,473 @@
+# Bolivia: Reglamento a la Ley de Reestructuración Voluntaria (Ley Nº 2495), DS Nº 27384, 20 de febrero de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2495](#TODO-link) de 4 de agosto de 2003 - Ley de de Reestructuración Voluntaria, establece mecanismos alternativos al Código de Comercio para que deudores y acreedores acuerden la reestructuración voluntaria de empresas no sujetas a regulación por las Superintendencias de Bancos y Entidades Financieras y, de Pensiones, Valores y Seguros, sean estas personas naturales o jurídicas, a través de la suscripción y ejecución de un acuerdo de transacción.
+* Que la [Ley Nº 2427](#TODO-link) de 28 de noviembre de 2002 - Ley del Bonosol, crea la Superintendencia de Empresas que regula, controla y supervisa a las personas, entidades, empresas y actividades sujetas a su jurisdicción en lo relativo al gobierno corporativo, la defensa de la competencia, la reestructuración y liquidación de empresas y el registro de comercio.
+* Que la [Ley Nº 2599](#TODO-link) de 18 de diciembre de 2003 aprueba el Contrato de Préstamo suscrito entre la República de Bolivia y la Corporación Andina de Fomento - CAF destinado a financiar el Programa de Fortalecimiento Competitivo de los Sectores Productivo y Empresarial.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El objeto del presente Decreto Supremo es reglamentar la [Ley Nº 2495](#TODO-link) de 4 de agosto de 2003 - Ley de Reestructuración Voluntaria.
+
+**Artículo 2°.- (Informacion, reserva y confidencialidad)** 
+
+1. La información que sea proporcionada durante el proceso de reestructuración tendrá carácter de declaración jurada, debiendo ser tratada y considerada como reservada y confidencial por los funcionarios de la Superintendencia de Empresas, el Síndico de Reestructuración, los acreedores, NAFIBO, auditores externos, peritos y valuadores.
+2. La Superintendencia de Empresas no será responsable de la veracidad de la información y documentación presentada.
+
+**Artículo 3°.- (Definiciones)**   
+*Acuerdo de Transacción*: El convenio en virtud del cual, el deudor y sus acreedores dirimen derechos de contenido patrimonial mediante concesiones recíprocas y reconocimientos mutuos conforme al procedimiento y a las mayorías establecidas en la Ley. Este Acuerdo podrá ser remitido a NAFIBO para el análisis y evaluación de su factibilidad, en el caso de que la empresa requiera recursos del Fondo de Fortalecimiento de Empresas. Forman parte indivisible e inseparable del Acuerdo de Transacción, el Plan de Reestructuración o Liquidación.
+  
+*Créditos Vinculados*: A los fines del presente Decreto Supremo se entenderá por créditos vinculados los otorgados a la empresa por: Los accionistas, socios y propietarios de la empresa; las personas que desempeñen o hayan desempeñado durante los dos años anteriores a la solicitud de reestructuración o liquidación, funciones directivas, gerenciales, de control interno o asesoramiento; las personas que tengan relación de parentesco con los accionistas, socios propietarios, directores, síndicos y gerentes de la empresa hasta el cuarto grado de consanguinidad y segundo de afinidad; las personas naturales o jurídicas que mantengan alguna relación de garantía con la empresa deudora; los accionistas o socios que posean un porcentaje igual o mayor del cinco por ciento del capital social de cualquier sociedad accionista de la empresa deudora.
+  
+*Fondo de Fortalecimiento de Empresas o Fondo - FFE*: Fideicomiso administrado por NAFIBO en calidad de fiduciario.
+  
+*Formulario de Solicitud a NAFIBO*: Formulario para solicitar a NAFIBO, recursos del Fondo de Fortalecimiento de Empresas. Deberá ser diseñado por el Fiduciario y entregado con carácter gratuito a los solicitantes.
+  
+*Formulario de Solicitud a la Superintendencia de Empresas*: Formulario para solicitar el inicio del procedimiento de reestructuración voluntaria. Deberá ser diseñado por la Superintendencia de Empresas y entregado con carácter gratuito a los solicitantes.
+  
+*Gestor Internacional Independiente*: Que a los fines del presente Decreto Supremo se denominará como “Gestor”. Persona natural o jurídica, contratada por el Fiduciario para llevar a cabo la labor de evaluación de los Planes de Reestructuración y recomendación de los términos de asignación de los recursos del Fondo de Fortalecimiento de Empresas.
+  
+*NAFIBO*: Nacional Financiera Boliviana SAM, entidad financiera de segundo piso creada mediante [Ley Nº 1670](#TODO-link) de 31 de octubre de 1995, del Banco Central de Bolivia. NAFIBO se constituye en Fiduciario del Fondo de Fortalecimiento de Empresas.
+  
+*Servicio de deuda requerido*: Es el plan agregado de pagos requerido contractualmente de capital, intereses y accesorios a la empresa en cualquier momento de su vida. Esto incluye los pasivos existentes y los de nueva adquisición, inclusive el del FFE.
+  
+*Superintendencia de Empresas*: Como parte del Sistema de Regulación Financiera - SIREFI, es una entidad autárquica de derecho público y de duración indefinida; con personería jurídica, patrimonio propio e independencia de gestión técnica, legal, administrativa y económica. Cuenta con domicilio principal en la sede de Gobierno, tiene jurisdicción y competencia nacional, pudiendo establecer oficinas en otros lugares del territorio nacional. A los fines del presente Decreto Supremo se denominará como “Superintendencia”.
+
+## Capítulo II Procedimiento para reestructuración voluntaria
+
+**Artículo 4°.- (Ambito de aplicacion)** Podrán someterse al procedimiento de reestructuración voluntaria establecido por la [Ley Nº 2495](#TODO-link) todas aquellas personas naturales o jurídicas, legalmente constituidas como sociedades comerciales o empresas unipersonales inscritas en el Registro de Comercio, no sujetas a la regulación de la Superintendencia de Bancos y Entidades Financieras o, de Pensiones, Valores y Seguros.
+
+**Artículo 5°.- (Presentacion de solicitud a la Superintendencia)** 
+
+1. El representante o apoderado legal de la empresa presentará el Formulario de Solicitud a la Superintendencia para iniciar un proceso de reestructuración voluntaria, indicando el nombre o razón social de la empresa, actividad económica, domicilio legal y monto del capital, debiendo adjuntar la documentación que se señala en la [Ley Nº 2495](#TODO-link) y, en los siguientes Artículos del presente Decreto Supremo, debidamente foliada y con índice.
+2. Asimismo, el representante o apoderado legal de la empresa adjuntará una copia del depósito bancario realizado, en una cuenta establecida por la Superintendencia para éste propósito, para el pago de las publicaciones a las que hace referencia el Artículo 6 de la [Ley Nº 2495](#TODO-link).
+
+**Artículo 6°.- (Requisitos para empresas constituidas como sociedades comerciales)** Las empresas constituidas como sociedades de responsabilidad limitada, sociedades anónimas, sociedades de economía mixta, sociedades en comandita por acciones y sociedades colectivas, deberán acompañar al Formulario de Solicitud a la Superintendencia:
+
+1. Acta de aprobación de la Junta General Extraordinaria de Accionistas o Asamblea Extraordinaria de Socios, según corresponda, en la que conste:
+   1. Acuerdo de someterse al procedimiento de reestructuración voluntaria previsto en la [Ley Nº 2495](#TODO-link).
+   2. Autorización expresa a su representante legal para la presentación de la solicitud de reestructuración voluntaria.
+   3. Acuerdo de someterse a las decisiones que sean adoptadas por la Junta de Acreedores y la ejecución del Acuerdo de Reestructuración.
+   4. Compromiso sin restricciones, de brindar la colaboración e información financiera, económica, administrativa, técnica y legal requerida por la Superintendencia, el Síndico de Reestructuración y a la Junta de Acreedores.
+   5. Compromiso de cubrir los costos del procedimiento, en el marco de la Ley, en el plazo máximo de vienticuatro (24) horas de efectuado el requerimiento por la Superintendencia, de acuerdo a resolución que determine los costos del procedimiento.
+2. Nómina de accionistas o socios de la empresa, indicando el número de acciones y porcentajes de participación de éstos en el capital de la empresa.
+3. Cuando se trate de sociedades anónimas se especificará el capital autorizado, suscrito y pagado, debiendo acompañar los contratos individuales de suscripción de acciones, por el monto de aporte comprometido de capital, con reconocimiento legal de firmas y rúbricas ante autoridad judicial competente, a tiempo de presentar la solicitud.
+4. Nómina de los accionistas o socios que tuvieren una participación igual o mayor al diez por ciento del capital de la empresa.
+     
+   5.Nómina de directores y síndicos titulares, cuando corresponda.
+
+**Artículo 7°.- (Requisitos para empresas constituidas como empresas unipersonales)** La solicitud de las empresas unipersonales deberá contener:
+
+1. Compromiso a someterse al procedimiento de reestructuración voluntaria previsto en la [Ley Nº 2495](#TODO-link) y sus reglamentos.
+2. Declaración Patrimonial jurada del propietario.
+3. En caso que el propietario actúe a través de un apoderado legal, poder especial al mismo para la presentación de la solicitud de reestructuración voluntaria y para la representación durante el proceso.
+4. Compromiso de someterse a las decisiones que sean adoptadas por la Junta de Acreedores durante el procedimiento de reestructuración y ejecución del acuerdo de reestructuración.
+5. Compromiso de brindar la colaboración e información financiera, económica, administrativa, técnica y legal requerida por la Superintendencia, el Síndico de Reestructuración y la Junta de Acreedores sin restricciones.
+6. Compromiso de cubrir los costos del procedimiento en el marco de la Ley, en el plazo máximo de vienticuatro (24) horas de efectuado el requerimiento por la Superintendencia, de acuerdo a resolución que determine los costos del procedimiento.
+
+**Artículo 8°.- (Requisitos comunes)** Los requisitos comunes para ambos tipos de empresas a ser presentados son:
+
+1. Poder Notarial especial a favor del representante legal para que represente a la empresa durante el procedimiento de reestructuración voluntaria, si corresponde.
+2. Matrícula actualizada y copia legalizada de la escritura pública de constitución social y de las modificaciones que se hubieran efectuado, debidamente inscritas en el Registro de Comercio de la Superintendencia.
+3. Estatuto vigente de la empresa, si corresponde.
+4. Declaración jurada de los representantes legales de la empresa que ésta no se encuentra en proceso de concurso preventivo, quiebra o concurso necesario o voluntario.
+5. Fotocopia legalizada del Registro Unico de Contribuyente - RUC o del Número de Identificación Tributaria - NIT o su equivalente actualizado.
+6. Estados financieros con dictamen de auditor externo de las últimas dos (2) gestiones, si corresponde, y estados financieros actualizados al cierre realizado al mes próximo pasado a los treinta (30) días anteriores a la presentación de la solicitud, con el siguiente detalle:
+   1. Balance General.
+   2. Estado de Cambios en el Patrimonio Neto.
+   3. Estado de pérdidas y ganancias.
+   4. Estado de origen y aplicación de fondos.
+   5. Notas a los estados financieros.
+   6. Fotocopia de los títulos de propiedad inscritos en los registros públicos, cuando corresponda y, avalúos actualizados de los principales activos de la empresa. Dichos avalúos se ajustará a la normativa bancaria vigente.
+   7. Detalle de gastos administrativos y financieros al cierre realizado al mes próximo pasado a los treinta (30) días anteriores a la presentación de la solicitud.
+   8. Planilla de sueldos del mes próximo pasado a los treinta (30) días anteriores a la presentación de la solicitud, con Declaración Jurada sobre su veracidad y autenticidad, o visada por autoridad competente.
+7. Detalle de los acreedores de la empresa, coincidente con el Pasivo Total, registrado en el Balance General, indicando saldos a capital adeudados, tasas de interés pactadas, plazos, vencimientos, intereses pendientes de pago, tipo y monto de garantías constituidas, con especificación si existen garantías perecibles y las fechas de vencimiento.
+8. Detalle de todos los procesos judiciales, arbitrales o administrativos seguidos contra la empresa o por la empresa, indicando el estado de los procesos y el juzgado, sala o instancia en la que se encuentran.
+9. Nómina de los principales ejecutivos administrativos y técnicos.
+10. Plan de Reestructuración en dos ejemplares y además en medio magnético que deberán contener, lo siguiente:
+    1. Análisis de las condiciones del mercado
+       1. Sector de actividad económica.
+       2. Mercado atendido, competencia e identificación de productos demandados.
+    2. Organización y problemática de la empresa
+       1. Objetivos y estrategias.
+       2. Actividades que realiza y sus productos o servicios.
+       3. Organización de la empresa.
+       4. Convenios y sistemas de comercialización y cobranza.
+       5. Convenios de Cooperación técnica y financiera.
+       6. Identificación de los principales problemas de la empresa que limitan el desarrollo normal de sus actividades y el cumplimiento de sus obligaciones con sus acreedores.
+    3. Análisis económico-financiero
+       1. Supuestos financieros y administrativos, considerando los alcances del Artículo 2 de la [Ley Nº 2495](#TODO-link).
+       2. Detalle y calendario de desembolsos de nuevos créditos previstos para capital de trabajo o inversiones.
+       3. Detalle y calendario de inversiones previstas para la reorganización y funcionamiento de la empresa.
+       4. Estados financieros y flujo de fondos proyectados para diez (10) años.
+       5. Análisis de rentabilidad y riesgos incluyendo sensibilidad de todas las variables.
+       6. Análisis de la solvencia de la empresa en el corto y largo plazo.
+       7. Análisis de cobertura de servicio de deuda utilizando el flujo de caja de la empresa.
+       8. Detalle y calendario de pagos vinculados.
+    4. Estrategia de reestructuración que contenga como mínimo
+       1. Propuesta de estrategia empresarial.
+       2. Propuesta de cambios al interior de la empresa.
+       3. Plan de ajustes administrativos.
+       4. En caso que exista una propuesta de capitalización, se deberá adjuntar las cartas de intención de suscripción de acciones, por el monto del aporte comprometido de capital.
+       5. Organización y descripción de funciones.
+    5. Calendario de las acciones a ejecutarse en el Plan de Reestructuración.
+    6. Propuesta de mecanismo de evaluación y seguimiento del Plan de Reestructuración.
+
+**Artículo 9°.- (Admision o rechazo de la solicitud)** 
+
+1. Una vez recibido el Formulario de Solicitud en la Superintendencia, ésta tendrá un plazo de tres (3) días hábiles para la revisión de la documentación entregada.
+2. En caso que el Formulario de Solicitud no estuviese acompañado con todos los requisitos establecidos en los Artículos 6,7 y 8 del presente Decreto Supremo, el Superintendente otorgará un plazo improrrogable de diez (10) días calendario para que el solicitante subsane cualquier omisión. Vencido este plazo, sin que se hubiese subsanado las omisiones señaladas, se rechazará la solicitud de forma definitiva.
+3. Verificado el cumplimiento de los requisitos de solicitud, la Superintendencia admitirá la misma y designará al Síndico de Reestructuración.
+
+**Artículo 10°.- (Suspension de procesos)** 
+
+1. Una vez admitida la solicitud de apertura del procedimiento para la suscripción de un Acuerdo de Transacción e inscrita ésta en el Registro de Comercio, la Superintendencia en un plazo de tres (3) días hábiles y, de oficio, comunicará tal determinación a las autoridades que conozcan los procesos judiciales, administrativos y arbitrales de contenido patrimonial, iniciados en contra del deudor y de éste en contra de sus acreedores, que hubiere declarado el deudor solicitante del procedimiento, quedando en suspenso todos los procesos en trámite de conformidad con lo establecido el Artículo 6 de la [Ley Nº 2495](#TODO-link).
+2. Las autoridades judiciales, administrativas y arbitrales notificadas, en el día hábil siguiente a la recepción del oficio, dispondrán inexcusablemente y bajo responsabilidad civil y penal, la suspensión de dichos procesos por un período de noventa (90) días calendario, computables a partir de la inscripción de la solicitud de apertura, en el Registro de Comercio.
+3. Una vez admitida y registrada la solicitud del deudor, no se podrá adoptar ninguna clase de medida precautoria sobre los bienes del deudor u otra medida que grave los mismos bajo sanción de nulidad.
+4. Quedan comprendidos dentro de los alcances de lo dispuesto en el presente Artículo, los créditos concedidos al deudor con la garantía de bienes de terceros.
+5. Con la admisión de la apertura de un procedimiento para la celebración de un Acuerdo de Transacción, conforme lo dispuesto por el Artículo 6 de la [Ley Nº 2495](#TODO-link), quedan interrumpidas las prescripciones y los distintos plazos procesales en los juicios a que se refiere el presente Artículo, durante el tiempo que dure la suspensión de dichos procesos. Igualmente queda suspendido el pago de intereses durante la vigencia de la suspensión, los que deberán recibir el tratamiento que establezca el Acuerdo de Transacción, sin que ello implique moratoria.
+
+**Artículo 11°.- (Ampliacion de plazo)** 
+
+1. Mínimo diez (10) días calendario antes del vencimiento del plazo, la Junta de Acreedores por decisión adoptada, por dos tercios de votos computados de acuerdo a lo previsto en el Artículo 15 de la [Ley Nº 2495](#TODO-link), comunicará a la Superintendencia, la ampliación por una sola vez del plazo por un máximo de noventa (90) días calendario adicionales. Este nuevo plazo se computará a continuación del vencimiento de los primeros noventa (90) días.
+2. La Superintendencia en un plazo de tres (3) días hábiles, comunicará de oficio, a las autoridades que conocen los procesos judiciales, administrativos y arbitrales de contenido patrimonial la ampliación del plazo; y a la Junta de Acreedores, dicha comunicación.
+
+**Artículo 12°.- (Publicacion de la solicitud y nomina de acreedores)** 
+
+1. Una vez admitida la solicitud de apertura de un procedimiento para la celebración de un Acuerdo de Transacción, la Superintendencia, en los tres (3) días hábiles siguientes efectuará las publicaciones según establece el Artículo 6 de la [Ley Nº 2495](#TODO-link), sin consignar los montos de los créditos.
+2. La publicación convocará a los acreedores para que durante los siguientes siete (7) días hábiles a la última publicación se apersonen ante el Síndico de Reestructuración designado, en el domicilio de la empresa, a efectos de solicitar el registro de sus créditos. Asimismo, fijará fecha, lugar y hora para la presentación del informe del Síndico sobre el registro de créditos.
+3. Las publicaciones surtirán efectos de notificación legal al deudor y a todos sus acreedores.
+4. La Superintendencia deberá incluir en su página web el registro de los procesos de reestructuración, la Resolución de Registro de Créditos y las notificaciones realizadas.
+
+**Artículo 13°.- (Administracion de la empresa)** 
+
+1. En el período comprendido entre la admisión de la solicitud y la conformación de la Junta de Acreedores, el deudor bajo la supervisión del Síndico de Reestructuración continuará con la administración ordinaria del giro comercial, en forma ordenada y diligente, no pudiendo: a. Disponer de sus bienes a título oneroso o gratuito, constituir nuevas garantías, celebrar otros actos relacionados con sus obligaciones y, en general, alterar la situación en la que se encontraban los acreedores con anterioridad a la presentación del Formulario de Solicitud de apertura del procedimiento de reestructuración voluntaria. b. Efectuar reformas o fusiones.
+2. La Junta de Acreedores podrá ratificar o cambiar la administración de la empresa durante el proceso de reestructuración.
+3. La Junta de Acreedores adoptará las previsiones necesarias para el pago de la tasa de regulación en una cuenta bancaria abierta para el efecto a nombre de la Superintendencia establecida en el Artículo 27 de la [Ley Nº 2495](#TODO-link), pago que se efectuará previamente a la homologación del Acuerdo de Transacción.
+4. El Administrador, ratificado o designado, informará a la Junta de Acreedores sobre la administración y desenvolvimiento de la empresa cada vez que ésta lo solicite.
+
+**Artículo 14°.- (Solicitud de registro de creditos)** 
+
+1. En el plazo de siete (7) días hábiles, computables a partir del día hábil siguiente al de la última publicación, las personas privadas naturales o jurídicas, incluidas o no en la nómina de acreedores publicada por la Superintendencia, deberán apersonarse ante el Síndico de Reestructuración para solicitar el registro de sus créditos indicando los montos que se los adeudan, desglosados en capital e intereses, y las fechas de contratación de los créditos. Deberán adjuntar copia legalizada de los documentos pertinentes respaldatorios y podrán solicitar cualquier información que requieran.
+2. Las acreencias públicas referidas en el Artículo 26 de la [Ley Nº 2495](#TODO-link) serán registradas de manera automática, tomando en cuenta como referencia los montos de capital e intereses consignados por el deudor en la nómina de acreedores.
+
+**Artículo 15°.- (Informe del sindico de reestructuracion sobre registro de creditos)** 
+
+1. Transcurrido el plazo para la presentación de solicitudes de registro, el Síndico de Reestructuración en un plazo de tres (3) días hábiles elaborará un informe motivado, pronunciándose sobre:
+   1. La nómina de acreedores presentada por el deudor.
+   2. La nómina de acreedores que se apersonaron y solicitaron el registro de sus acreencias.
+   3. La nómina de acreedores que no se apersonaron ante el Síndico de Reestructuración y constan en el listado presentado por el deudor.
+   4. La nómina de acreedores que se apersonaron ante el Síndico de Reestructuración y no constan en el listado presentado por el deudor.
+   5. La procedencia de las solicitudes de registro de créditos, la cuantía y condiciones de las mismas.
+   6. Los votos que pudieran corresponder a cada acreedor cuya solicitud de registro sea procedente.
+2. El informe elaborado por el Síndico será puesto en conocimiento de los acreedores de acuerdo a lo establecido en el Artículo 12 del presente Decreto Supremo.
+
+**Artículo 16°.- (Impugnacion de creditos)** 
+
+1. En la reunión informativa sobre el registro de créditos, el deudor o cualquier acreedor podrá impugnar los créditos que considere ilegítimos, y fundamentar su posición en un plazo de dos (2) días hábiles.
+2. El Síndico de Reestructuración en un plazo de dos (2) días hábiles siguientes, complementará su informe con las impugnaciones y fundamentaciones, si existiesen y, lo elevará a la Superintendencia.
+3. El Superintendente, en un plazo de cinco (5) días hábiles siguientes, resolverá las impugnaciones a tiempo de dictar la Resolución de Registro de Créditos.
+
+**Artículo 17°.-** (RESOLUCION DE REGISTRO DE CREDITOS Y
+  
+DERECHOS DE VOTO EN LA JUNTA DE ACREEDORES)
+
+1. El Superintendente dictará una Resolución de Registro de Créditos, dentro de los cinco (5) días indicados en el Parágrafo III del Artículo 16 del presente Decreto Supremo, disponiendo el registro de los mismos y estableciendo los derechos de voto de cada uno de los acreedores habilitados para participar en la Junta de Acreedores.
+2. Para tal efecto, se considerará de manera proporcional, el saldo adeudado a capital de los créditos registrados, respecto del total de los créditos registrados, excluyendo los pasivos con las instituciones estatales acreedoras por cualquier concepto, los pasivos con las Administradoras de Fondos de Pensiones por aportes al Seguro Social Obligatorio de Largo Plazo, los pasivos laborales y los pasivos correspondientes a los titulares de créditos vinculados.
+3. Los derechos de voto se expresarán en porcentajes con dos decimales.
+
+**Artículo 18°.-** (PUBLICACION DE LA RESOLUCION DE REGISTRO DE
+  
+CREDITOS)
+
+1. Una vez emitida la Resolución de Registro de Créditos, será publicada por una sola vez, en un órgano de prensa de circulación nacional y en uno que circule regularmente en el domicilio del deudor, si lo hubiera; o en su defecto, en algún medio de comunicación del domicilio del deudor.
+2. La Superintendencia deberá incluir en su página web el registro de los procesos de reestructuración, la Resolución de Registro de Créditos y las notificaciones realizadas.
+3. La Resolución contendrá, además, la convocatoria a la primera Junta de Acreedores señalando el lugar, la fecha y hora en que se efectuará la misma, aclarando que en caso de no existir el quórum requerido, la junta se llevará a cabo veinticuatro (24) horas después en el mismo lugar y a la misma hora con los acreedores con derecho a voz y voto que se encuentren presentes.
+4. El costo de las referidas publicaciones será cubierto por el deudor dentro de las veinticuatro (24) horas de efectuado el requerimiento por la Superintendencia.
+
+**Artículo 19°.-** (RECURSOS CONTRA LA RESOLUCION DE REGISTRO
+  
+DE CREDITOS)
+
+1. Las personas naturales o jurídicas que se consideren afectadas en sus derechos como acreedores, por la Resolución de Registro de Créditos, podrán interponer los recursos previstos en el Artículo 4 de la [Ley Nº 2495](#TODO-link); en cuyo caso, la Superintendencia de acuerdo a lo dispuesto por el Artículo 11 de la mencionada Ley, instruirá al Síndico de Reestructuración el registro de los montos cuestionados, como previsión en los estados financieros del deudor.
+2. Este registro no confiere derecho a dichos acreedores a participar en la Junta de Acreedores o a emitir voto por el monto cuestionado y quedará consolidado una vez que el fallo que resuelva los recursos adquiera autoridad de cosa juzgada.
+
+## Capítulo III Junta de acreedores
+
+**Artículo 20°.- (JUNTA DE ACREEDORES)** 
+
+1. La Junta de Acreedores presidida por el Síndico de Reestructuración, es el órgano soberano que representa la voluntad de los acreedores registrados con derecho a voz y voto y, tiene la facultad exclusiva e indelegable de tratar todos aquellos asuntos relativos a la reestructuración voluntaria de la empresa deudora.
+2. La Junta de Acreedores estará conformada por todos los acreedores registrados por la Superintendencia que cuenten con voz y voto.
+3. No participarán en la Junta de Acreedores los trabajadores de la empresa, las instituciones estatales acreedoras, las Administradoras de Fondos de Pensiones por concepto de deudas al Seguro Social Obligatorio de Largo Plazo, ni los titulares de créditos vinculados.
+
+**Artículo 21°.- (CONVOCATORIA Y ACREDITACION)** 
+
+1. La primera Junta de Acreedores deberá realizarse en el lugar, fecha y hora indicados en la Resolución de Registro de Créditos. Las posteriores Juntas serán convocadas por el Síndico de Reestructuración mediante publicación en un periódico de circulación nacional y en uno que circule regularmente en el domicilio del deudor, si lo hubiera, o en su defecto, en algún medio de comunicación del domicilio del deudor.
+2. La Junta de Acreedores se reunirá válidamente sin necesidad de cumplir los requisitos para la convocatoria siempre que concurran la totalidad de los acreedores registrados.
+3. La convocatoria a cualquier reunión de la Junta de Acreedores deberá consignar el lugar, la fecha y hora de celebración, y como orden del día la reestructuración de la empresa.
+4. En caso que cualquier acreedor concurra a la Junta a través de su representante o apoderado legal, este último deberá presentar el correspondiente Poder especial de representación, bastante y suficiente, inscrito en el Registro de Comercio de la Superintendencia con las formalidades de Ley. El poder deberá establecer todas las facultades necesarias para participar en el proceso y la capacidad para transar y decidir la reestructuración o liquidación voluntaria de la empresa deudora.
+
+**Artículo 22°.- (QUORUM)** 
+
+1. La Junta de Acreedores sesionará válidamente con la presencia de los acreedores registrados con derecho a voz y voto, que representen la mayoría absoluta del saldo a capital de los créditos registrados en la Resolución de Registro de Créditos de la Superintendencia.
+2. De comprobarse la falta de quórum, la Junta de Acreedores sesionará válidamente en el mismo lugar y hora una vez transcurridas veinticuatro (24) horas, con la participación de los acreedores registrados que se encuentren presentes.
+
+**Artículo 23°.- (ACTAS Y LIBRO DE ACTAS)** 
+
+1. Las reuniones de la Junta de Acreedores constarán en Actas elaboradas por la persona designada al efecto entre los acreedores. Las Actas resumirán las decisiones adoptadas, las votaciones y los resultados a los que se arriben en cada una de las Juntas. Las actas formarán parte de un Libro de Actas que será llevado por el Síndico de Reestructuración.
+2. El Acta será aprobada al final de cada reunión y será suscrita por el Síndico de Reestructuración, acreedores registrados presentes y, el deudor o su representante o apoderado legal, si estuviese presente; haciendo constar en su defecto, su ausencia o negativa.
+3. El Síndico de Reestructuración deberá remitir copia de las Actas a los asistentes a la Junta y a la Superintendencia, en un plazo de tres (3) días hábiles luego de la realización de la Junta correspondiente.
+
+**Artículo 24°.- (COMPUTO Y VOTOS NECESARIOS)** Para efectos de cómputo de participación en las votaciones, el Síndico de Reestructuración antes de cada votación, establecerá el número de votos presentes, a efectos de calcular los dos tercios de votos presentes, necesarios para adoptar diferentes decisiones.
+
+**Artículo 25°.- (VOTACIONES Y DECISIONES)** 
+
+1. Las votaciones en las Juntas de Acreedores serán orales y nominales. Todas las decisiones serán aprobadas por el voto de dos tercios del saldo adeudado a capital de los acreedores registrados.
+2. La Junta de Acreedores, por decisión de la mayoría absoluta de los presentes, podrá acordar cuartos intermedios, debiendo señalarse claramente el lugar, el día y la hora para la continuación de la Junta.
+3. La cantidad de votos de cada acreedor será actualizada de acuerdo al pago efectivo y definitivo de sus créditos, salvándose los derechos de los acreedores que decidan capitalizar sus créditos.
+
+**Artículo 26°.- (NUMERO DE JUNTAS Y PLAZO MAXIMO)** Los acreedores celebrarán cuantas Juntas fuesen necesarias para adoptar las decisiones conducentes a la suscripción del Acuerdo de Transacción, las mismas que deberán realizarse indefectiblemente dentro del plazo máximo de noventa (90) días calendario o su ampliación.
+
+**Artículo 27°.- (OBLIGATORIEDAD)** 
+
+1. Las decisiones de la Junta de Acreedores son de cumplimiento obligatorio por el deudor y todos los acreedores, aún para los ausentes y disidentes, no pudiendo ser impugnadas o recurridas en instancias judiciales o administrativas. Los jueces o tribunales no podrán admitir ninguna demanda contra las decisiones de la Junta de Acreedores. En caso contrario, el Síndico de Reestructuración pasará obrados al Ministerio Público para que éste inicie inmediatamente una acción de prevaricato.
+2. Se salvan de esta disposición aquellas impugnaciones que se efectúen en los siguientes casos:
+   1. Cuando la Junta se lleve a cabo en hora, lugar y fecha distintos a los acordados en la convocatoria.
+   2. Cuando las decisiones de la Junta sean tomadas sin las mayorías establecidas al efecto.
+3. Estas impugnaciones se tramitarán conforme lo dispone la [Ley Nº 2495](#TODO-link).
+
+**Artículo 28°.- (CONCURRENCIA DEL DEUDOR)** El deudor o su representante o apoderado legal podrán concurrir a las Juntas de Acreedores sólo con derecho a voz.
+
+**Artículo 29°.- (CONCLUSION E INFORME FINAL)** 
+
+1. La Junta de Acreedores dentro del plazo de los noventa (90) días calendario, o su ampliación, si la hubiere, deberá resolver y aprobar la reestructuración de la empresa deudora o su liquidación, debiendo procederse a la redacción y suscripción de un Acuerdo de Transacción con el deudor o su representante apoderado legal, en que se refleje las decisiones, términos y condiciones acordadas para la reestructuración o liquidación.
+2. Los acreedores disidentes podrán hacer constar su disidencia en la misma Junta de Acreedores en la que se apruebe el Acuerdo de Transacción, para que quede sentada en la correspondiente acta.
+3. Concluido el proceso de reestructuración, el Síndico de Reestructuración deberá elaborar un informe final circunstanciado del proceso, el que se presentará a la Superintendencia, junto con el Acuerdo de Transacción suscrito para su inscripción en el Registro de Comercio y la papeleta del depósito bancario del pago de la Tasa de Regulación a la Superintendencia.
+
+**Artículo 30°.- (VIGENCIA DE LA JUNTA DE ACREEDORES)** La Junta de Acreedores se mantendrá vigente hasta que el último acreedor que suscribió el Acuerdo de Transacción, haya sido definitiva y efectivamente pagado.
+
+## Capítulo IV Oposicion al acuerdo de transaccion
+
+**Artículo 31°.- (PUBLICACION DEL ACUERDO DE TRANSACCION)** Una vez suscrito el Acuerdo de Transacción e inscrito en el Registro de Comercio, el Síndico de Reestructuración publicará por una sola vez en un órgano de prensa escrita de circulación nacional, un extracto del Acuerdo de Transacción que deberá contener como mínimo:
+
+1. Nombre o Razón Social de la empresa.
+2. Lugar y fecha de la suscripción del Acuerdo de Transacción.
+3. Fecha y número de registro del mismo.
+4. Características de la reestructuración voluntaria de la empresa.
+
+**Artículo 32°.- (OPOSICION)** Dentro del plazo de cinco (5) días hábiles computables a partir de la fecha de publicación del extracto del Acuerdo de Transacción, él o los acreedores que hubieren hecho constar su disidencia en la Junta de Acreedores y que por si o en conjunto representen al menos el veinte por ciento (20%) del total de los créditos registrados, podrán presentar oposición al Acuerdo de Transacción únicamente cuando:
+
+1. La Junta de Acreedores no hubiere sido convocada de acuerdo a lo dispuesto en la [Ley Nº 2495](#TODO-link) y el presente Decreto Supremo.
+2. El Acuerdo de Transacción no hubiere sido aprobado por las mayorías establecidas en la [Ley Nº 2495](#TODO-link) y el presente Decreto Supremo reglamentario.
+3. Se hubiere alterado el registro de activos y pasivos del deudor para posibilitar el Acuerdo de Transacción.
+
+**Artículo 33°.- (RESOLUCION DE LA OPOSICION)** 
+
+1. La oposición presentada, por escrito, a la Superintendencia por los acreedores que hubieren hecho constar su disidencia en la Junta de Acreedores y que por si o en conjunto representen al menos el veinte por ciento (20%) del total de los créditos registrados, será fundamentada y acompañada con toda la prueba de respaldo necesaria, debidamente suscrita por el o los acreedores disidentes, personalmente o debidamente representados.
+2. Recibida la oposición, la Superintendencia la correrá en traslado al Síndico de Reestructuración, quién tendrá tres (3) días hábiles para contestarla, computables a partir de la recepción de la documentación. Vencido este plazo, con o sin respuesta, el Superintendente, en dos (2) días hábiles siguientes, resolverá la oposición mediante resolución expresa.
+3. Si la oposición es declarada procedente, la Superintendencia dispondrá la devolución del Acuerdo de Transacción y demás documentos relativos a la oposición al Síndico de Reestructuración.
+4. Al día siguiente hábil, computable a partir de la recepción de la documentación, el Síndico de Reestructuración convocará a la Junta de Acreedores para que en un máximo de diez (10) días hábiles, se adopte un nuevo Acuerdo o se decida la liquidación de la empresa.
+5. Si la oposición es declarada improcedente, y si el Acuerdo de Transacción no contemplase solicitar recursos al Fondo de Fortalecimiento de Empresas, el Superintendente homologará dicho acuerdo.
+6. Si el Acuerdo de Transacción contemplase solicitar recursos al Fondo de Fortalecimiento de Empresas, el representante o apoderado legal de la empresa deberá presentar la solicitud de recursos al Fondo y remitir el Acuerdo de Transacción y toda la documentación pertinente.
+7. En caso que persistiera la oposición al Acuerdo de Transacción, los acreedores que por si o en conjunto representen al menos el veinte por ciento (20%) del total de los créditos podrán interponer los recursos previstos por el Artículo 4 de la [Ley Nº 2495](#TODO-link).
+
+## Capítulo V Homologacion del acuerdo de transaccion
+
+**Artículo 34°.- (ACUERDO DE TRANSACCION)** Una vez que el Fiduciario del Fondo hubiere comunicado al representante o apoderado legal de la empresa la aprobación del financiamiento con los recursos del Fondo, éste remitirá el Acuerdo de Transacción a la Superintendencia para su respectiva homologación y registro.
+
+**Artículo 35°.- (HOMOLOGACION Y REGISTRO)** 
+
+1. La empresa deberá realizar el pago de la tasa de regulación dispuesta por el Artículo 27 de la [Ley Nº 2495](#TODO-link), a las veinticuatro (24) horas de recibida la notificación de la Superintendencia.
+2. Dentro de los tres (3) días hábiles siguientes a la recepción del Acuerdo de Transacción, el Superintendente homologará dicho Acuerdo y dispondrá su inscripción en el Registro de Comercio a su cargo.
+
+**Artículo 36°.- (EFECTOS DEL ACUERDO DE TRANSACCION)** 
+
+1. El Acuerdo de Transacción debidamente homologado por el Superintendente y registrado en el Registro de Comercio a su cargo, constituye novación, tiene los efectos de cosa juzgada e impide definitiva e irrevocablemente todo pronunciamiento judicial posterior relacionado a los términos y condiciones contenidos en el mismo, no pudiendo modificarse por ningún motivo la cuantía de los créditos.
+2. El Acuerdo de Transacción suscrito entre el deudor y los acreedores deberá establecer, si corresponde, al menos:
+   1. Plazo de vigencia.
+   2. Forma de gobierno.
+   3. Competencia de la Junta de Acreedores, Junta de Accionistas y Asamblea de Socios.
+   4. Cláusulas y procedimientos de ajuste y modificaciones durante su vigencia.
+   5. Cláusulas de incumplimiento relativas al plan, al Acuerdo de Transacción o ambos.
+
+## Capítulo VI Liquidacion voluntaria
+
+**Artículo 37°.- (ACUERDO DE LIQUIDACION Y JUNTA DE ACREEDORES)** 
+
+1. El deudor y sus acreedores, a través de la Junta de Acreedores, realizarán un Acuerdo de Transacción de liquidación voluntaria de la empresa.
+2. Las Juntas de Acreedores que aprueben y resuelvan Acuerdos de Transacción de liquidación voluntaria, deberán conformarse en virtud a lo establecido en la [Ley Nº 2495](#TODO-link) y en el presente Decreto Supremo.
+
+**Artículo 38°.- (SINDICO DE LIQUIDACION)** 
+
+1. La Junta de Acreedores designará un Síndico de Liquidación, que tendrá como función principal conducir el proceso de liquidación voluntaria de conformidad a las decisiones adoptadas por la Junta de Acreedores, plasmadas en el Acuerdo de Transacción de liquidación voluntaria.
+2. La Junta de Acreedores notificará el nombramiento del Síndico de Liquidación a la Superintendencia. El nombramiento podrá recaer en el Síndico de Reestructuración si existe acuerdo de la Junta de Acreedores.
+3. En caso de no existir acuerdo en la Junta de Acreedores para el nombramiento del Síndico de Liquidación, ésta podrá solicitar al Superintendente su designación.
+
+**Artículo 39°.- (DISOLUCION Y LIQUIDACION)** 
+
+1. Una vez acordada la disolución y liquidación voluntaria, la empresa quedará disuelta desde la fecha de inscripción del Acuerdo de Transacción de liquidación voluntaria en el Registro de Comercio de la Superintendencia, sin necesidad de declaración judicial alguna y a partir de ese momento, surtirá sus efectos respecto a terceros.
+2. La Junta de Acreedores convendrá los términos y condiciones de la liquidación, en el marco de lo dispuesto por el Artículo 18 de la [Ley Nº 2495](#TODO-link).
+
+**Artículo 40°.- (PUBLICACION Y OPOSICION)** 
+
+1. Una vez suscrito el Acuerdo de Transacción de liquidación voluntaria e inscrito en el Registro de Comercio, el Síndico de Liquidación publicará por una sola vez en un órgano de prensa escrita de circulación nacional, un extracto del Acuerdo de Transacción de liquidación voluntaria, que deberá contener como mínimo:
+   1. Nombre o Razón Social de la empresa.
+   2. Lugar y fecha de la suscripción del Acuerdo de Transacción.
+   3. Fecha y número de registro del mismo.
+   4. Características de la liquidación voluntaria de la empresa.
+2. Para realizar la oposición al Acuerdo de Transacción de liquidación voluntaria, se deberá cumplir lo establecido en el Artículo 32 del presente Decreto Supremo.
+
+**Artículo 41°.- (HOMOLOGACION Y REGISTRO)** 
+
+1. La empresa deberá realizar el pago de la tasa de regulación dispuesta por el Artículo 27 de la [Ley Nº 2495](#TODO-link), a las veinticuatro (24) horas de recibida la notificación de la Superintendencia.
+2. Dentro de los tres (3) días hábiles siguientes a la recepción del Acuerdo de Transacción de liquidación voluntaria, el Superintendente homologará dicho Acuerdo y dispondrá su inscripción en el Registro de Comercio a su cargo.
+
+**Artículo 42°.- (SEGUIMIENTO Y CONTROL)** 
+
+1. El Síndico de Liquidación deberá remitir informes semestrales de avance del proceso de liquidación voluntaria a la Junta de Acreedores.
+2. Concluido el proceso de liquidación, el Síndico de Liquidación deberá elaborar un informe final circunstanciado del proceso, el que se presentará, junto con el Balance General de Cierre a la Junta de Acreedores, y una vez aprobado por esta última, a la Superintendencia.
+
+**Artículo 43°.- (QUIEBRA)** La no suscripción del Acuerdo de Transacción de Reestructuración o de un Acuerdo de Transacción de liquidación voluntaria, entre el deudor y sus acreedores, durante el plazo de suspensión de procesos señalado en el Artículo 6 de la [Ley Nº 2495](#TODO-link) y el Parágrafo III del Artículo 40 del presente Decreto Supremo, o dentro de los plazos ampliados, será causal de quiebra, la que será tramitada con arreglo a las normas establecidas en el Código de Comercio.
+
+## Capítulo VII Sindico de reestructuracion
+
+**Artículo 44°.- (PRINCIPIOS GENERALES)** 
+
+1. Una vez designado el Síndico de Reestructuración, debe con diligencia, lealtad y prudencia, impulsar la búsqueda del Acuerdo de Transacción; apoyar al Superintendente en el desempeño de sus funciones; y colaborar con las partes en la consideración del Plan de Reestructuración.
+2. En el ejercicio de sus funciones el Síndico de Reestructuración actuará bajo la supervisión del Superintendente, quien podrá recabar del mismo la emisión de informes sobre las actuaciones desarrolladas.
+3. El Síndico de Reestructuración no representa los intereses del deudor ni de los acreedores y ejerce sus funciones con absoluta imparcialidad e independencia, sus opiniones serán emitidas en forma libre e irrestricta y estarán orientadas a cumplir con los fines previstos en la [Ley Nº 2495](#TODO-link), respetando en todo momento los principios de ética profesional, transparencia y confidencialidad.
+4. La evaluación que el Síndico de Reestructuración efectúe del Plan de Reestructuración presentado por el deudor, las alternativas que proponga y las opiniones que en general emita para mejorar el mismo, no son vinculantes ni obligatorias para la Junta de Acreedores.
+5. El Síndico de Reestructuración se encuentra obligado a desempeñar sus funciones en el marco de la [Ley Nº 2495](#TODO-link) y el presente Decreto Supremo y, será responsable civil y penalmente por acción u omisión en el ejercicio de sus funciones.
+
+**Artículo 45°.- (REQUISITOS)** 
+
+1. La designación del Síndico de Reestructuración podrá recaer en toda persona natural que cumpla los siguientes requisitos:
+   1. Se encuentre en pleno ejercicio de su capacidad de obrar conforme a la ley civil.
+   2. Tenga título universitario.
+   3. Tenga experiencia al menos de tres (3) años en el desempeño profesional vinculado con la gestión empresarial.
+   4. Haya sido habilitado e inscrito en el Registro de Síndicos de Reestructuración de la Superintendencia, de acuerdo al procedimiento que ésta establezca mediante Resolución Administrativa. Dicha habilitación será válida para todo el territorio nacional.
+2. No podrán ser Síndicos de Reestructuración:
+   1. Los miembros de los Poderes del Estado, los Concejales Municipales, los directores y ejecutivos de las entidades autónomas, autárquicas, desconcentradas, descentralizadas y los servidores públicos en general.
+   2. Los que hubieran sido declarados, conforme a procedimientos legales, culpables de delitos o responsables de quiebras, por culpa o dolo, en las sociedades en general.
+   3. Los que tengan conflicto de intereses.
+   4. Los inhabilitados para ejercer el comercio.
+   5. Los que tengan sentencia ejecutoriada por la comisión de delitos comunes o delitos contra el Estado.
+
+**Artículo 46°.- (DESIGNACION)** 
+
+1. El Síndico de Reestructuración será elegido mediante sorteo aleatorio por medio electrónico del Registro de Síndicos de la Superintendencia y designado por el Superintendente mediante resolución expresa. Dicho sorteo se efectuará en presencia de Notario de Fe Pública, inmediatamente después de presentada la solicitud de acuerdo a lo dispuesto en el Parágrafo III del Artículo 9 del presente Decreto Supremo. Se excluirán del sorteo aquellos Síndicos que al momento de verificarse un sorteo estén actuando en un Proceso de Reestructuración o Liquidación.
+2. En caso de la designación de un nuevo Síndico de Reestructuración por remoción o renuncia del anterior, se aplicará el procedimiento descrito en el parágrafo precedente.
+
+**Artículo 47°.- (EJERCICIO)** 
+
+1. El ejercicio del cargo de Síndico de Reestructuración es voluntario y remunerado. El profesional designado podrá aceptar o excusarse por justa causa dentro de las veinticuatro (24) horas siguientes a la notificación de su nombramiento.
+2. El Síndico de Reestructuración solo podrá renunciar al desempeño de sus funciones por justa causa ante el Superintendente. El Síndico renunciante debe seguir en el ejercicio de sus funciones hasta que sea reemplazado.
+3. A estos efectos, se entenderá por justa causa:
+   1. Motivos personales o familiares que imposibiliten de forma total para el desempeño transitorio de las funciones propias del Síndico de Reestructuración.
+   2. Motivos de índole profesional que pudieran comprometer el desempeño adecuado de las funciones del Síndico.
+   3. Cualquier otra debidamente justificada cuando así lo aprecie el Superintendente.
+4. La remuneración del Síndico de Reestructuración correrá a cargo de la empresa sometida al proceso de reestructuración y la efectuará la Superintendencia, en base a un arancel público que será establecido y aprobado por el Superintendente con anterioridad al primer nombramiento. Para la fijación del arancel, se podrá considerar, el monto de los créditos registrados de acuerdo a lo dispuesto en el Artículo 17 del presente Decreto Supremo, u otro criterio que refleje el costo de oportunidad del Síndico.
+
+**Artículo 48°.- (INCOMPATIBILIDADES)** Bajo pena de nulidad de sus actuaciones y sin perjuicio de la responsabilidad civil y penal a que diere lugar, no podrá ejercer el cargo de Síndico de Reestructuración en un proceso específico:
+
+1. Quien tuviera una relación de vinculación con la empresa de acuerdo a la definición establecida en el Artículo 3 del presente Decreto Supremo.
+2. Quien fuera titular de créditos vinculados.
+3. Quien hubiera prestado servicios profesionales en la empresa en los dos últimos años.
+4. Quien tenga o hubiera tenido vinculación, en los dos últimos años, con la competencia de la empresa sometida a reestructuración.
+
+**Artículo 49°.- (CAUSALES DE REMOCION DEL SINDICO DE REESTRUCTURACION)** 
+
+1. El Síndico de Reestructuración podrá ser removido por el Superintendente o a solicitud justificada de la Junta de Acreedores, por:
+   1. No cumplir lo establecido en la [Ley Nº 2495](#TODO-link) y las disposiciones del presente Decreto Supremo.
+   2. No desempeñar adecuadamente el cargo o no cumplir con las obligaciones y deberes señalados, sin perjuicio de aplicarse las sanciones correspondientes y responder de los perjuicios ocasionados.
+   3. Interferir de manera evidente en el buen funcionamiento de la Junta de Acreedores.
+   4. No cumplir con el Estatuto de Síndico de Reestructuración aprobado por la Superintendencia.
+2. La remoción estará sujeta al procedimiento establecido en el Estatuto del Síndico de Reestructuración aprobado por la Superintendencia.
+3. La remoción deberá ser resuelta por el Superintendente por resolución administrativa expresa, en el plazo máximo de dos (2) días hábiles.
+
+**Artículo 50°.- (FACULTADES)** Para facilitar el desarrollo del proceso de reestructuración, el Síndico de Reestructuración podrá solicitar y recomendar a la Junta de Acreedores la contratación de profesionales especializados para el cumplimiento de tareas específicas, las mismas que se desarrollarán en el plazo determinado por la Junta, y cuyas remuneraciones se harán con cargo a las provisiones establecidas para tal fin por la empresa.
+
+**Artículo 51°.- (DEBER DE COLABORAR)** Toda persona, institución o dependencia, pública o privada, debe colaborar con el Superintendente y el Síndico de Reestructuración, proporcionando la información que le requieran. Dicha información deberá ser tratada y considerada de acuerdo a lo dispuesto por el Artículo 2 del presente Decreto Supremo.
+
+**Artículo 52°.- (DOMICILIO)** El domicilio del Síndico de Reestructuración será el domicilio del deudor, el mismo que debe proporcionarle las instalaciones, mobiliario, equipo y demás facilidades necesarias para el buen desempeño de sus funciones.
+
+**Artículo 53°.- (DESARROLLO DE FUNCIONES)** 
+
+1. De conformidad con lo establecido en el Artículo 8 de la [Ley Nº 2495](#TODO-link), son funciones del Síndico de Reestructuración las siguientes:
+   1. Convocar y presidir la Junta de Acreedores, sin derecho a voto, propiciando la consecución de acuerdos entre el deudor y los acreedores.
+   2. Impulsar el procedimiento establecido en la [Ley Nº 2495](#TODO-link) y el presente Decreto Supremo, disponiendo de oficio las medidas que sean necesarias a tal efecto.
+   3. Agilizar el procedimiento y cuando sea necesario colaborar al deudor y los acreedores.
+   4. Informar al Superintendente de las actuaciones realizadas.
+   5. Efectuar la verificación y compulsa de la información registrada en los libros y documentos del deudor y, en su caso, de los acreedores, pudiendo valerse de los elementos y procedimientos que estime necesarios. Para ello, verificará que la información aportada por el deudor en la solicitud de apertura del procedimiento es coherente con los registros contables y administrativos del deudor, debiendo comunicar al Superintendente del resultado de su trabajo.
+   6. Evaluar las solicitudes de registro de créditos y la documentación que acompaña a las mismas, informando al Superintendente sobre el resultado de dicha evaluación. El informe será emitido para cada uno de los créditos.
+   7. Evaluar el Plan de Reestructuración, opinar sobre su consistencia y, en su caso, proponer alternativas a la Junta de Acreedores para mejorar el mismo.
+2. Una vez que se haya dado cumplimiento a lo establecido en el Artículo 35 del presente Decreto Supremo, concluyen las funciones del Síndico de Reestructuración.
+
+## Capítulo VIII Disposiciones finales
+
+**Artículo 54°.- (PARTICIPACION DEL ESTADO)** 
+
+1. En el proceso de reestructuración, las instituciones estatales acreedoras realizarán quitas a capital, intereses y accesorios correspondientes a sus créditos y aceptarán planes de pago concordantes con los términos y condiciones contenidos en el Acuerdo de Transacción, aprobado por la Junta de Acreedores.
+2. Los montos de las quitas y los términos y condiciones de los planes de pago de los créditos de las instituciones estatales acreedoras, resultarán del promedio ponderado de las quitas y de los términos y condiciones de los planes de pago aprobados por los demás acreedores registrados en el marco del Acuerdo de Transacción. Las instituciones estatales acreedoras no capitalizarán sus créditos.
+3. La metodología de cálculo para las quitas y los planes de pago señalados es la siguiente:
+   1. En el caso de quita, el valor monetario de la misma será igual a: qxC, donde: “q” es la quita media ponderada, expresada en términos porcentuales, que se aplique en el Acuerdo de Transacción a los titulares de créditos registrados distintos al Estado, trabajadores y Seguro Social Obligatorio; “C” es la sumatoria de los créditos registrados del que son titulares las instituciones estatales acreedoras;
+   2. En el caso de planes de pago, el plazo de espera (entendido como un período de tiempo en el cual no se amortiza capital ni se pagan intereses) para el pago de los créditos registrados cuyos titulares son las instituciones estatales acreedoras, será igual al plazo de espera medio ponderado que se aplique en el Acuerdo de Transacción a los titulares de créditos registrados distintos al Estado, trabajadores y Seguro Social Obligatorio.
+
+**Artículo 55°.- (DEBER DE COOPERACION)** 
+
+1. Todas las instituciones públicas y privadas, involucradas o alcanzadas por las normas de la [Ley Nº 2495](#TODO-link) y el presente Decreto Supremo, tienen la obligación inexcusable de colaborar y facilitar las gestiones, trámites, información y documentación que le sean requeridos por la Superintendencia de Empresas, las Intendencias Regionales, el Síndico de Reestructuración o el de Liquidación, la Junta de Acreedores y el propio deudor sometido a la Ley indicada y su Decreto Reglamentario.
+2. A este fin, el Superintendente podrá suscribir convenios interinstitucionales con las entidades señaladas.
+
+**Artículo 56°.- (BANCOS EN LIQUIDACION)** 
+
+1. Los préstamos otorgados por los Bancos en Liquidación Forzosa que se liquidan en el marco de la [Ley Nº 1488](#TODO-link) de 14 de abril de 1993 - Ley General de Bancos y Entidades Financieras, solo a los fines de la [Ley Nº 2495](#TODO-link) y del presente Reglamento, serán considerados como acreencias del Estado en atención a que el Banco Central de Bolivia es el principal acreedor extraconcursal. Las quitas, los términos y condiciones de los planes de pago que se pueden se tratarán conforme a lo dispuesto por el Artículo 26 de la [Ley Nº 2495](#TODO-link) y el Artículo 53 del presente Decreto Supremo y, dará lugar a la disminución automática de los saldos registrados como acreencias extraconcursales en los estados financieros de los Bancos en Liquidación y del Banco Central de Bolivia.
+2. No se encuentran comprendidas dentro de los alcances de la [Ley Nº 2495](#TODO-link), las operaciones y cartera vinculadas de los Bancos de Liquidación Forzosa, incluidas las que están dentro de los juicios penales que siguen los mencionados Bancos contra sus ex administradores.
+3. Las deudas y obligaciones cedidas por entidades en liquidación o venta forzosa al Banco Central de Bolivia, al Servicio Nacional de Patrimonio del Estado o al Fondo de Desarrollo al Sistema Financiero y de Apoyo al Sector Productivo, serán tratadas y pagadas conforme a los alcances de las disposiciones contenidas en el Artículo 26 de la [Ley Nº 2495](#TODO-link) y el Artículo 53 del presente Decreto Supremo.
+
+**Artículo 57°.- (INSTRUMENTACION)** 
+
+1. La Superintendencia, de acuerdo a lo dispuesto por el Numeral 14 del Artículo 23 de la [Ley Nº 2495](#TODO-link), aprobará las Resoluciones Administrativas necesarias para la instrumentación del presente Decreto Supremo.
+2. De conformidad a lo dispuesto por el [Decreto Supremo Nº 27026](#TODO-link) de 6 de mayo de 2003, la Superintendencia de Bancos y Entidades Financieras dictará las regulaciones prudenciales correspondientes al tratamiento de créditos, capitalizaciones, categorización de las empresas reestructuradas para fines de nuevos créditos y otros que sean necesarios para la efectivización de los planes de reestructuración, para las entidades de intermediación financiera.
+
+**Artículo 58°.- (TRANSPARENCIA)** 
+
+1. Las empresas que se hubieran sometido voluntariamente a procesos de reestructuración y cuyos representantes legales hubiesen suscrito Acuerdos de Transacción, deberán cumplir con los mismos requisitos de transparencia para con la Superintendencia que aquellas empresas inscritas en el registro de mercado de valores.
+2. La forma, contenido, periodicidad y divulgación de los requisitos antes referidos serán establecidos por la Superintendencia mediante Resolución Administrativa expresa.
+3. Adicionalmente, las empresas deberán incorporar en sus Estatutos y Documentos Societarios por lo menos los principios relativos a:
+   1. Políticas de protección a accionistas minoritarios.
+   2. Tratamiento equitativo y transparente de la información.
+   3. Manejo de conflictos de interés, particularmente aquellos que se originan en contratos vinculados a ejecutivos y accionistas que participan en la administración de la empresa.
+
+**Artículo 59°.- (MODIFICACIONES A UNA EMISION DE VALORES DE OFERTA PUBLICA)** De conformidad con el Numeral 7 del Artículo 2 de la [Ley Nº 2495](#TODO-link), las modificaciones a una emisión de Valores de oferta pública o canje de Valores implica una nueva emisión de Valores que deberá contar con la autorización de oferta pública de la Superintendencia de Pensiones, Valores y Seguros y, la inscripción en el Registro de Mercado de Valores.
+
+**Artículo 60°.- (ADMINISTRADORAS DE FONDOS DE PENSIONES)** 
+
+1. A los efectos de la [Ley Nº 2495](#TODO-link) y al presente Decreto Supremo, la capitalización de acreencias que sea efectuada por una Administradora de Fondos de Pensiones con recursos pertenecientes al Fondo de Capitalización Individual no estarán sujetos a los límites por categoría y niveles de riesgo establecidos en la Ley de Pensiones y sus reglamentos, y tendrá un límite por emisor de hasta un veinte (20%) por ciento de las acciones de la empresa sujeta a reestructuración.
+2. Las Administradoras de Fondos de Pensiones se encuentran impedidas de realizar quitas de capital, otorgar condonaciones y capitalizar acreencias sobre aquellas acreencias relacionadas con el Seguro Social Obligatorio de Largo Plazo.
+3. Los empleadores pueden suscribir convenios para el pago de las contribuciones en mora y para el pago de recargos, en el marco de los Decretos Supremos [Nº 25722](#TODO-link) de 31 de marzo de 2000 y [Nº 27324](#TODO-link) de 22 de enero de 2004.
+
+**Artículo 61°.- (RESPONSABILIDAD DE LA SUPERINTENDENCIA)** Los efectos del Acuerdo de Transacción, ya sea para reestructuración o liquidación voluntaria, suscrito entre el deudor y sus acreedores no implican calificación ni responsabilidad alguna para la Superintendencia.
+
+## Capítulo IX Disposiciones finales
+
+**Artículo 62°.- (VIGENCIA DE NORMAS)** 
+
+1. Se abroga el [Decreto Supremo Nº 27187](#TODO-link) de 24 de septiembre de 2003, Reglamento a la [Ley Nº 2495](#TODO-link) de Reestructuración Voluntaria.
+2. Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de febrero del año dos mil cuatro.
+  
+FDO. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, Carlos Alberto Agreda Lema Ministro Interino de la Presidencia, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Armando Ortuño Yánez Ministro Interino de Desarrollo Sostenible, Xavier Nogales Iturri, Jorge Urquidi Barrau, Alvaro Ríos Roca, Donato Ayma Rojas, Diego Montenegro Ernst Ministro de Asuntos Campesinos y Agropecuarios e Interino de Salud y Deportes, Luis Fernández Fagalde, Roberto Barbery Anaya, Justo Seoane Parapaino.

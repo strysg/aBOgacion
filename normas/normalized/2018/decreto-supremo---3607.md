@@ -1,0 +1,58 @@
+# Bolivia: Decreto Supremo Nº 3607, 27 de junio de 2018
+
+[Decreto Supremo Nº 3607](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 321 de la [Constitución Política del Estado](#TODO-link), establece que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el Artículo 4 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria señala, entre otros aspectos, que toda modificación dentro de los límites de gasto establecidos, deberá efectuarse según el Reglamento de Modificaciones Presupuestarias, que será aprobado mediante Decreto Supremo.
+* Que el Parágrafo II del Artículo 114 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, determina que el proceso presupuestario en las entidades territoriales autónomas, está sujeto a las disposiciones legales, las directrices y el clasificador presupuestario, emitidos por el nivel central del Estado.
+* Que el inciso f) del Artículo 46 del [Decreto Supremo Nº 29894](#TODO-link), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, dispone como atribución de la Ministra(o) de Planificación del Desarrollo ejercer las facultades de órgano rector de los Sistemas de Planificación Integral Estatal y del Sistema Estatal de Inversión y Financiamiento para el Desarrollo; y el inciso d) del Artículo 52 del citado Decreto Supremo, señala como atribución de la Ministra(o) de Economía y Finanzas Públicas, ejercer las facultades de autoridad fiscal y órgano rector de las normas de gestión pública.
+* Que es necesario emitir un nuevo Reglamento de Modificaciones Presupuestarias, dinámico y flexible, con el propósito de optimizar la asignación y ejecución de recursos públicos durante la Gestión Fiscal, en busca de mejorar la calidad del gasto público, acorde a los cambios en la estructura organizacional del Estado Plurinacional.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se aprueba el Reglamento de Modificaciones Presupuestarias, que en Anexo forma parte del presente Decreto Supremo.
+2. Se faculta al Ministerio de Economía y Finanzas Públicas y al Ministerio de Planificación del Desarrollo, establecer los instrumentos operativos para el registro de las modificaciones presupuestarias, según corresponda.
+     
+
+   # Disposiciones transitorias
+
+**Disposición Transitoria Única.-** Los trámites de modificaciones presupuestarias presentados ante el Ministerio de Economía y Finanzas Públicas o el Ministerio de Planificación del Desarrollo hasta la fecha de publicación del presente Decreto Supremo, serán concluidos en aplicación del Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 29881](#TODO-link), de 7 de enero de 2009.
+
+# Disposiciones abrogatorias o derogatorias
+
+**Disposiciones Abrogatorias.-** .- Se abrogan las siguientes disposiciones:
+  
+- [Decreto Supremo Nº 29881](#TODO-link), de 7 de enero de 2009;
+  
+- [Decreto Supremo Nº 0957](#TODO-link), de 10 de agosto de 2011; y
+  
+- [Decreto Supremo Nº 2296](#TODO-link), de 18 de marzo de 2015.
+
+# Disposiciones finales
+
+**Disposición Final Primera.-** Se autoriza al Ministerio de Economía y Finanzas Públicas a suscribir con el Ministerio de Planificación del Desarrollo la respectiva Resolución Biministerial, para la transferencia de los recursos remanentes del Contrato de Préstamo CAF N° 3747 “Programa de Atención de Emergencias Naturales Bolivia 2006”, para su ejecución a través de la Unidad de Administración de Programas dependiente del Ministerio de Planificación del Desarrollo.
+
+**Disposición Final Segunda.-** Para la tramitación y agilización de las modificaciones presupuestarias, las entidades públicas podrán presentar, a las instancias correspondientes, la documentación de respaldo digitalmente firmada.
+
+**Disposición Final Tercera.-** Las entidades públicas que cuenten con una normativa específica que las exima de la aplicación del [Decreto Supremo Nº 29881](#TODO-link), mantendrán esta condición con la presente norma.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de junio del año dos mil dieciocho.
+  
+FDO. EVO MORALES AYMA, Alfredo Rada Vélez, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Javier Eduardo Zavaleta López, Mariana Prado Noya, Mario Alberto Guillén Suárez, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Andrés Hinojosa Rodríguez MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE JUSTICIA Y TRANSPARENCIA INSTITUCIONAL, Rodolfo Edmundo Rocabado Benavides, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.
+
+# Anexo Anexo Decreto Supremo Nº 3607
+
+[Reglamento de modificaciones presupuestarias](#TODO-link)

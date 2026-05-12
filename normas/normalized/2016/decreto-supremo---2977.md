@@ -1,0 +1,52 @@
+# Bolivia: Decreto Supremo Nº 2977, 16 de noviembre de 2016
+
+[Decreto Supremo Nº 2977](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 7 del Parágrafo I del Artículo 298 de la [Constitución Política del Estado](#TODO-link), determina como una de las competencias privativas del nivel central del Estado, las armas de fuego y explosivos.
+* Que la [Ley Nº 400](#TODO-link), de 18 de septiembre de 2013, de Control de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados, tiene por objeto normar, regular y controlar la fabricación, importación, exportación, internación temporal, comercialización, enajenación, donación, transporte, tránsito, depósito, almacenaje, tenencia, manipulación, empleo, porte o portación, destrucción, desactivación, rehabilitación, registro, control, fiscalización, secuestro, incautación, confiscación y otras actividades relacionadas con armas de fuego, municiones, explosivos, fuegos artificiales o pirotécnicos, sus piezas, componentes y otros materiales relacionados, en el marco de la Seguridad y Defensa del Estado y de la Seguridad Ciudadana.
+* Que el [Decreto Supremo Nº 2175](#TODO-link), de 5 de noviembre de 2014, Reglamento de la [Ley Nº 400](#TODO-link), de 18 de septiembre de 2013, de Control de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados; establece mecanismos y procedimientos para su implementación. Que la Disposición Transitoria Primera del [Decreto Supremo Nº 2696](#TODO-link), de 9 de marzo del 2016, establece un plazo de ciento ochenta (180) días para regularizar el registro y la autorización de armas de fuego, municiones y otros materiales y artefactos ante el Instituto de Investigaciones Técnico Científicas - IITCUP de la Policía Boliviana.
+* Que es necesario modificar el [Decreto Supremo Nº 2175](#TODO-link), a fin que las instancias involucradas puedan cumplir de manera más efectiva las responsabilidades asignadas en la [Ley Nº 400](#TODO-link), relacionadas con armas de fuego, municiones, explosivos y otros materiales.
+* Que es necesario fijar un nuevo plazo para el registro de armas de fuego de uso civil en virtud de la demanda de diferentes sectores de la población, situados en regiones distantes de los puntos fijos del Registro de Armas de Fuego y Municiones de Uso Civil - REAFUC, con la finalidad de llegar a un adecuado cumplimiento de la [Ley Nº 400](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto, modificar y complementar el [Decreto Supremo Nº 2175](#TODO-link), de 5 de noviembre de 2014, Reglamento de la [Ley Nº 400](#TODO-link), de 18 de septiembre de 2013, de Control de Armas de Fuego, Munición, Explosivos y otros Materiales Relacionados.
+
+**Artículo 2°.- (Modificación)** Se modifica el numeral 13 del Artículo 15 del [Decreto Supremo Nº 2175](#TODO-link), de 5 de noviembre de 2014, Reglamento de la [Ley Nº 400](#TODO-link), de 18 de septiembre de 2013, de Control de Armas de Fuego, Munición, Explosivos y otros Materiales Relacionados, con el siguiente texto:
+> “13. Registro y licencia para importar sustancias peligrosas, otorgada por el Ministerio de Medio Ambiente y Agua, cuando se trate de fuegos artificiales o pirotécnicos; ”
+
+**Artículo 3°.- (Incorporación)** Se incorpora el numeral 29 en el Parágrafo II del Artículo 5 del [Decreto Supremo Nº 2175](#TODO-link), de 5 de noviembre de 2014, Reglamento de la [Ley Nº 400](#TODO-link), de 18 de septiembre de 2013, de Control de Armas de Fuego, Munición, Explosivos y otros Materiales Relacionados, con el siguiente texto:
+> “29. Otras autorizadas expresamente por el Ministerio de Gobierno.”
+
+# Disposiciones transitorias
+
+**Artículo transitorio 1°.-** En el marco del [Decreto Supremo Nº 2175](#TODO-link) y de sus posteriores Decretos Supremos modificatorios, se establece un plazo de ciento ochenta (180) días calendario, computables a partir de la publicación del presente Decreto Supremo, para:
+
+1. La regularización de tenencia de armas de fuego de uso civil para personas naturales para: defensa personal (armas Clase “A”), para fines de caza (armas Clase “C”) y antiguas y de colección (armas Clase “D”) y sus correspondientes municiones;
+2. La adecuación de las misiones diplomáticas, organismos internacionales y delegaciones oficiales que se encuentran en territorio del Estado Plurinacional de Bolivia con autorización de tenencia y portación de armas de fuego, a lo establecido en el Artículo 93 del [Decreto Supremo Nº 2175](#TODO-link).
+
+**Artículo transitorio 2°.-** 
+
+1. Por el plazo de ciento ochenta (180) días calendario, se autoriza al Registro Clasificado de Armas de Fuego, Municiones y Explosivos de Uso Militar - REACUM y al Registro Clasificado de Armas de Fuego, Municiones y Explosivos de Uso Policial - REACUP, registrar todas las armas de fuego de uso civil de propiedad del personal de las Fuerzas Armadas y de la Policía Boliviana, respectivamente, de acuerdo a reglamentación específica. Debiendo en este caso el REACUM y el REACUP, remitir al Registro de Armas de Fuego y Municiones de Uso Civil -REAFUC, el registro de estas armas, cumpliendo todos los datos técnicos, protocolos y normativa del IITCUP - REAFUC, a efectos de la emisión de la respectiva licencia y matricula de tenencia legal.
+2. Las armas establecidas en el Parágrafo anterior deberán ser portátiles y haber sido obtenidas antes de la emisión de la [Ley Nº 400](#TODO-link).
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Gobierno y de Defensa, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de noviembre del año dos mil dieciséis .
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE HIDROCARBUROS Y ENERGÍA, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

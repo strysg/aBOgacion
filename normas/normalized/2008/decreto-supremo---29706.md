@@ -1,0 +1,52 @@
+# Bolivia: Decreto Supremo Nº 29706, 16 de septiembre de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 22 de la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005, de Hidrocarburos, establece que Yacimientos Petrolíferos Fiscales Bolivianos - YPFB a nombre del Estado Boliviano ejercerá el derecho propietario sobre la totalidad de los hidrocarburos y representará al Estado en la suscripción de Contratos Petroleros y ejecución de las actividades de toda la cadena productiva establecida en la misma Ley.
+* Que el Artículo 2 de la [Ley Nº 1182](#TODO-link) de 17 septiembre de 1990, de Inversiones, reconoce al inversionista extranjero y a la empresa en la que éste participe, los mismos derechos, deberes y garantías que las Leyes y Reglamentos otorgan a los inversionistas nacionales sin otra limitación que las establecidas por Ley.
+* Que la [Ley Nº 1586](#TODO-link) de 12 de agosto de 1994, aprueba y ratifica el Acuerdo sobre Promoción y Recíproca Protección de Inversiones, suscrito entre la República de Bolivia y el Reino de los Países Bajos el 10 de marzo de 1992, que en su inciso c) del Artículo 6, establece que el pago de justa compensación debe representar el valor genuino de las inversiones afectadas, debiendo ser pagada y hecha transferible sin demora indebida al país designado por los inversionistas.
+* Que por [Decreto Supremo Nº 28701](#TODO-link) de 1 de mayo de 2006, “Héroes del Chaco” se nacionalizan las acciones necesarias para que YPFB controle como mínimo el cincuenta por ciento más uno (50% + 1) de las acciones en las empresas Chaco S. A., Andina S. A., Transredes S. A., Petrobrás Bolivia Refinación S. A. y Compañía Logística de Hidrocarburos Boliviana S. A.- CLHB.
+* Que por [Decreto Supremo Nº 29365](#TODO-link) de 5 de diciembre de 2007, modificado por el [Decreto Supremo Nº 29529](#TODO-link) de 23 de abril de 2008, se autorizó al Ministerio de Hacienda a suscribir en calidad de Fideicomitente un contrato de fideicomiso con el Banco de Desarrollo Productivo S. A. M. mediante la transferencia de $us155.000.000.- (CIENTO CINCUENTA Y CINCO MILLONES 00/100 DÓLARES ESTADOUNIDENSES), que serán utilizados para dar cumplimiento a lo establecido en el Artículo 7 del [Decreto Supremo Nº 28701](#TODO-link) de 1 de mayo de 2006.
+* Que el [Decreto Supremo Nº 29541](#TODO-link) de 1 de mayo de 2008, concreta la adquisición por parte del Estado Boliviano de al menos el cincuenta por ciento más uno (50% + 1) de las acciones nacionalizadas del paquete accionario de Transredes - Transporte de Hidrocarburos Sociedad Anónima, estableciendo entre otras disposiciones un precio de $us48.- (CUARENTA Y OCHO 00/100 DÓLARES ESTADOUNIDENSES) por acción.
+* Que por [Decreto Supremo Nº 29586](#TODO-link) de 2 de junio de 2008, el Estado Boliviano nacionaliza la totalidad de las acciones que corresponden a TR Holdings Ltda. en el capital social de Transredes -Transporte de Hidrocarburos Sociedad Anónima, al precio por acción establecido en el [Decreto Supremo Nº 29541](#TODO-link), debiendo pagar el mismo en territorio nacional previa deducción de lo señalado en el Artículo 4 del [Decreto Supremo Nº 29586](#TODO-link).
+* Que Shell Gas (Latin America) BV es propietaria del cincuenta por ciento (50%) del capital social en TR Holdings Ltda., una sociedad debidamente constituida y registrada bajo las Leyes de la República de Bolivia. TR Holdings Ltda. tenía una participación en Transredes - Transporte de Hidrocarburos Sociedad Anónima, de cinco millones vienticuatro mil sesenta (5.024.060) acciones, equivalentes al cincuenta por ciento (50%) del capital social de Transredes S. A.
+* Que Shell Gas Latin America B. V. como socio del cincuenta por ciento (50%) de TR Holdings Ltda., en fecha 11 de junio de 2008, remitió una carta de protesta al Gobierno de Bolivia y reservó todos los derechos bajo el Acuerdo sobre Promoción y Recíproca Protección de Inversiones suscrito entre la República de Bolivia y el Reino de los Países Bajos, iniciando un periodo de seis (6) meses para negociar una solución amigable al conflicto o divergencia suscitado.
+* Que es necesario establecer los mecanismos y condiciones para que el Gobierno Nacional a nombre del Estado Boliviano, a través de YPFB, dé cumplimiento a las disposiciones del Acuerdo de Promoción y Recíproca Protección de Inversiones suscrito entre la República de Bolivia y el Reino de los Países Bajos, aprobado y ratificado por la [Ley Nº 1586](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer los mecanismos y condiciones para que el Gobierno Nacional, en cumplimiento de lo establecido en el Acuerdo sobre Promoción y Recíproca Protección de Inversiones suscrito con el Reino de los Países Bajos, aprobado y ratificado por la [Ley Nº 1586](#TODO-link) de 12 de agosto de 1994, efectúe el pago de una justa compensación, que representa el valor genuino de las inversiones que Shell Gas (Latin America) B. V. tenía en Transredes - Transporte de Hidrocarburos Sociedad Anónima, a través de su participación en TR Holdings Ltda., por efecto de la Nacionalización, con base al acuerdo de partes convenido de mutua voluntad.
+
+**Artículo 2°.- (Compensación)** 
+
+1. El monto por concepto de justa compensación que representa el valor genuino de las inversiones directas e indirectas de Shell Gas Latin America B. V. por su participación en Transredes - Transporte de Hidrocarburos Sociedad Anónima, a través de TR Holdings Ltda., es de $us120.577.488.- (CIENTO VEINTE MILLONES QUINIENTOS SETENTA Y siete mil CUATROCIENTOS OCHENTA Y OCHO 00/100 DÓLARES ESTADOUNIDENSES).
+     
+   El monto de compensación refleja el valor de dos millones quinientos doce mil treinta y uno (2.512.031) acciones, a $us48.- (CUARENTA Y OCHO 00/100 DÓLARES ESTADOUNIDENSES) por acción establecido por el [Decreto Supremo Nº 29541](#TODO-link) de 1 de mayo de 2008.
+     
+   En virtud al inciso c) del Artículo 6 del Acuerdo sobre Promoción y Recíproca Protección de Inversiones suscrito con el Reino de los Países Bajos, la justa compensación debe ser pagada a Shell Gas Latin America B. V., y hecha transferible sin demora, en el país designado por el inversionista extranjero, sin deducir pasivos, contingencias o cualquier otro concepto, que pudieran afectar el monto de compensación, excluyéndose a la Empresa Shell Gas Latin America B. V. de lo establecido en el Artículo 4 del [Decreto Supremo Nº 29586](#TODO-link) de 2 de junio de 2008.
+2. La justa compensación y su correspondiente pago, únicamente procederán si Shell Gas Latin America B. V. renuncia a cualquier pretensión en contra del Estado Boliviano, en relación a la propiedad de las acciones de Transredes - Transporte de Hidrocarburos Sociedad Anónima y con respecto al proceso de nacionalización de Transredes.
+
+**Artículo 3°.- (Instrucción)** 
+
+1. Se autoriza e instruye al Presidente Ejecutivo a. i. de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, para que en ejercicio de la titularidad de las acciones nacionalizadas y en cumplimiento del Artículo 22 de la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005, de Hidrocarburos y del [Decreto Supremo Nº 28701](#TODO-link) de 1 de mayo de 2006, a nombre y en representación del Estado Boliviano, efectivice la compensación señalada en el Artículo 2 del Presente Decreto Supremo, quedando facultado para suscribir el contrato transaccional y los documentos necesarios al efecto.
+2. Se autoriza e instruye al Presidente Ejecutivo a. i. de YPFB a realizar todas las gestiones ejecutivas, financieras, administrativas, operativas y legales, a objeto de dar cumplimiento al presente Decreto Supremo.
+
+**Artículo 4°.- (Autorización)** En el marco del Artículo precedente, se autoriza e instruye al Presidente Ejecutivo a. i. de YPFB a asumir las obligaciones tributarias, financieras y otras erogaciones necesarias para efectivizar el pago de la justa compensación, de conformidad al Artículo 2 del presente Decreto Supremo.
+
+**Artículo 5°.- (Exclusión)** A objeto del cumplimiento del presente Decreto Supremo y conforme el inciso c) del Artículo 6 del Acuerdo sobre Promoción y Recíproca Protección de Inversiones suscrito con el Reino de los Países Bajos, se excluye a Shell Gas Latin America B. V. de la aplicación de lo dispuesto en los Artículos 4 y 7 del [Decreto Supremo Nº 29541](#TODO-link), y Parágrafo II del Artículo 2 y Artículo 4 del [Decreto Supremo Nº 29586](#TODO-link) de 2 de junio de 2008.
+
+**Artículo 6°.- (Instrucción fideicomitente)** Se autoriza al Ministerio de Hacienda como Fideicomitente del fideicomiso dispuesto por el [Decreto Supremo Nº 29365](#TODO-link) de 5 de diciembre de 2007, modificado por el [Decreto Supremo Nº 29529](#TODO-link) de 23 de abril de 2008, a instruir al Fiduciario, transferir de manera temporal y no definitiva los recursos fideicomitidos al Beneficiario YPFB; para efectos del pago de la justa compensación que corresponda para dar cumplimiento al presente Decreto Supremo, en las condiciones establecidas en los Contratos respectivos.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de septiembre del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Celima Torrico Rojas, Carlos Villegas Quiroga, Luís Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Susana Rivero Guzmán, Oscar Coca Antezana, Carlos Romero Bonifaz, Saúl Ávalos Cortez, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, María Magdalena Cajías de la Vega, Jorge Ramiro Tapia Sainz, Héctor E. Arce Zaconeta.

@@ -1,0 +1,38 @@
+# Bolivia: Decreto Supremo Nº 25571, 5 de noviembre de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Ley de Organización del Poder Ejecutivo (LOPE) Nº 1788, de 16 de septiembre de 1997, modifica la estructura del Poder Ejecutivo y reglamenta mediante los Decretos Supremos [Nº 24855](#TODO-link) y [Nº 25055](#TODO-link) de 22 de septiembre de 1997 y 23 de Mayo de 1998 respectivamente, su funcionamiento, cuyo artículo 11 de la referida Ley crea el Ministerio de Agricultura, Ganadería y Desarrollo Rural; y entre otras dependencias el Viceministerio de Desarrollo Alternativo, estableciendo sus atribuciones y funciones específicas a esta instancia Gubernamental mediante Decretos Supremos [Nº 24928](#TODO-link) y [Nº 25471](#TODO-link) de 30 de diciembre de 1997 y 28 de julio de 1999.
+* Que el [Decreto Supremo Nº 24928](#TODO-link), en su Art.1 confiere al Ministerio de Agricultura, Ganadería y Desarrollo Rural el ejercicio de la tuición sobre el Fondo Nacional de Desarrollo Alternativo (FONADAL), cuya dependencia directa será a través del Viceministerio de Desarrollo Alternativo (VIMDESALT) y mediante el Art.4 de esta disposición legal, se establece que de este Viceministerio, pasen a depender, técnica y administrativamente todos los Planes, Programas y Proyectos de Desarrollo Alternativo, sean estos financiados con recursos del Tesoro General de la Nación o de la cooperación financiera bilateral, o multilateral.
+* Que por [Decreto Supremo Nº 25471](#TODO-link) de 28 de julio de 1999, en el marco de la modernización del Poder Ejecutivo, ha sido regulado, el área de competencia institucional del Viceministerio de Desarrollo Alternativo en su calidad de órgano dependiente del Estado, estableciéndose en su Art.11 la independencia y autonomía administrativa de esta instancia gubernamental.
+* Que los gobiernos del Reino de España y de Bolivia, en 12 de diciembre de 1996, suscribieron un Acuerdo de Cooperación a través del cual se otorgó un financiamiento mediante la Agencia de Cooperación Internacional (AECI), en favor del Estado boliviano representado por FONADAL, con destino a la realización y ejecución de dos Proyectos Agrícolas, el Primero Agro - industrial de Palmito y Cítricos en el Trópico de Cochabamba y el segundo de Producción Agrícola bajo riego con aguas Subterráneas en el Valle Alto del mismo Departamento.
+* Que en la ejecución del Proyecto Agro - industrial del Palmito y Cítricos fue construida una Planta Procesadora de Palmito y Cítricos dentro el marco del Desarrollo Alternativo en la región del Trópico de Cochabamba con destino al establecimiento de una alternativa económica en la sustitución de los cultivos de la hoja de coca, a cuyo fin fue cedido en favor de FONADAL, un terreno de una (1) Hectárea por parte de la Asociación de Productores de Palmito (PROASPA), mediante Addenda al Contrato de ejecución de Obra, debidamente elevado a instrumento público.
+* Que al presente y habiéndose efectuado la Recepción Definitiva del Proyecto precitado, se hace indispensable garantizar la factibilidad de funcionamiento del mismo bajo principios establecidos en la Política Nacional de Desarrollo Alternativo, a través de la captación y posterior procesamiento de la producción de Palmito y Cítricos por la asociación PROASPA en el Trópico de Cochabamba, con la consiguiente capacitación en el manejo de la Planta del Proyecto con mano de obra local, creando fuentes de trabajo, a cuyo fin, y a los efectos de la puesta en marcha del mismo, es necesaria la participación activa de los productores, así como la generación de inversiones para el funcionamiento de la Planta y posterior comercialización de productos terminados;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorizar, en virtud a la normatividad específica vigente y en especial a lo contenido en el Código Civil, al Viceministerio de Desarrollo alternativo (VIMDESALT), otorgar en Comodato, las instalaciones, maquinaria y equipo de la Planta.
+  
+Proyecto Agrícola e industrial de Palmito y Cítricos ubicada en la zona de Senda III, localidad de Chimoré del Trópico de Cochabamba, en favor de la Asociación de Productores de Palmito (PROASPA), representada por su personero legal debidamente acreditado, en calidad de organización representativa que agrupa a los productores de materia prima del sector.
+
+**Artículo 2°.-** El Comodato otorgado, se hará efectivo mediante la suscripción de un contrato que deberá ceñirse a los requisitos y formalidades del ordenamiento jurídico nacional y en especial a las previsiones legales contenidas en el Código Civil, velando por el adecuado manejo técnico y económico de la Planta preservando los principios del Desarrollo Alternativo y cuya vigencia será por el término de cinco años, computables a partir de la suscripción del instrumento contractual respectivo, plazo que podrá ser ampliado previa anuencia y evaluación del Viceministerio de Desarrollo Alternativo, a través de una norma legal similar a la presente, siempre que concurran causales debidamente justificadas inherentes a condiciones, económicas técnicas y/o de mercado que ameriten la prórroga de la vigencia del Comodato.
+
+**Artículo 3°.-** Determínase que todos los bienes objeto del Comodato, son inembargables, no podrán ser cedidos a terceras personas, sean estas naturales y/o jurídicas y menos otorgados en garantía ó hipotecados por el comodatario. Disponiéndose igualmente que las construcciones mejoras e inversiones que se efectuaren en el curso del comodato, se consolidarán a favor del VIMDESALT, sin lugar a compensación alguna.
+
+**Artículo 4°.-** A la conclusión del plazo señalado en el artículo precedente PROASPA, deberá efectuar la devolución de las Instalaciones Maquinaría y Equipo de la Planta del Proyecto Agrícola e Industrial de Palmito y Cítricos, así como del terreno en favor del Viceministerio de Desarrollo Alternativo Fondo Nacional de Desarrollo
+  
+Alternativo, en perfectas condiciones de funcionamiento y conservación tal como la presente el es entregada obligandose a suscribir los respectivos documentos traslativos de propiedad del bien inmueble cedido así como cumplir y adecuar sus actividades a las diferente normas que emanen de las instancias pertinentes del Poder Ejecutivo, debiendo el Comodatario presentar en forma semestral informes a VIMDESALT, con el detalle pormenorizado del estado de cuentas, conservación de la Planta así como índices de producción y comercialización de productos.
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y de Agricultura, Ganadería y Desarrollo Rural, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cinco días del mes de noviembre de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Franz Ondarza Linares, José Orias Arredondo MINISTRO INTERINO DE GOBIERNO, Jorge Crespo Velasco, Herbert Müller Costas, Juán Antonio Chahín Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, Oswaldo Antezana Vaca Diez, José Antonio Barriga Arroyo MINISTRO INTERINO DE DESARROLLO SOSTENIBLE Y PLANIFICACION, Adhemar Guzmán Ballivián MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION, Rubén Poma Rojas, Jorge Landivar Roca

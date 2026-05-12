@@ -1,0 +1,25 @@
+# Bolivia: Decreto Supremo Nº 27899, 10 de diciembre de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el país requiere contar con los recursos provenientes del desembolso del financiamiento del Contrato de Préstamo Nº 1127/SF-BO, Programa de Apoyo a la Sostenibilidad Fiscal, en la gestión 2004, para lo cual, es necesario que previamente se suscriba el Contrato Modificatorio Nº 3 que establece modificaciones en la Cláusula 3.02 inciso (b), estipulando que el tercer tramo del financiamiento será de hasta el equivalente a $us.- 9.500.000.- (NUEVE MILLONES QUINIENTOS mil 00/100 DOLARES AMERICANOS) y, el cuarto tramo será de hasta el equivalente a $us.8.500.000.- (OCHO MILLONES QUINIENTOS mil 00/100 DOLARES AMERICANOS), previo el cumplimiento de condiciones que se establecen para cada tramo respectivamente, por lo que, se modifica la Cláusula 3.06 de las Estipulaciones Especiales y se adiciona la Cláusula 3.07.
+* Que a fin de no poner en riesgo el desembolso del tercer tramo del financiamiento en la gestión 2004, debido al trámite de suscripción del Contrato Modificatorio Nº 3, se requiere autorizar expresamente la suscripción del mismo, con el Banco Interamericano de Desarrollo - BID, al Embajador de Bolivia en Estados Unidos, quien posee todas las facultades para representar al Gobierno de la República de Bolivia en la firma de convenios de esta naturaleza.
+* Que corresponde autorizar la suscripción del respectivo Contrato Modificatorio, a objeto de ejecutar el Programa y concretar el desembolso oportunamente.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Embajador de Bolivia en Estados Unidos a suscribir con el Banco Interamericano de Desarrollo - BID, en nombre del Gobierno de la República de Bolivia, el Contrato Modificatorio Nº 3 del Contrato de Préstamo Nº 1127/SF-BO del Programa de Apoyo a la Sostenibilidad Fiscal, que modifica la Cláusula 3.02 inciso (b), estipulando que el tercer tramo del financiamiento será de hasta el equivalente a $us.9.500.000.- (NUEVE MILLONES QUINIENTOS mil 00/100 DOLARES AMERICANOS) y el cuarto tramo será de hasta el equivalente a $us.8.500.000.- (OCHO MILLONES QUINIENTOS mil 00/100 DOLARES AMERICANOS), y adiciona la Cláusula 3.07 al Contrato principal.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de diciembre del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico. Luis Carlos Jemio Mollinedo, Gustavo Pedraza Mérida, Horst Grebe Lopez, Jorge Urquidi Barrau, Guillermo Torres Orías, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

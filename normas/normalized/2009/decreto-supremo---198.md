@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 198, 8 de julio de 2009
+
+Decreto Supremo Nº 0198
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 19 de la [Ley Nº 4021](#TODO-link), de 14 de abril de 2009, Régimen Electoral Transitorio, establece que para las elecciones del próximo 6 de diciembre de 2009, de 4 de abril de 2010, los demás procesos electorales y consultas populares, se conformará un nuevo padrón electoral formulado mediante un sistema de registro biométrico que deberá ser aplicado a la totalidad de las personas habilitadas para votar y registrará huellas dactilares, fotografía digital y firma, además de los datos referidos a la identidad de la persona.
+* Que el Artículo 19 de la [Ley Nº 4021](#TODO-link), autoriza de manera excepcional y por única vez a la Corte Nacional Electoral contratar de manera directa o por excepción la adquisición de bienes, servicios y el personal que considere necesario para la creación e implementación del nuevo padrón electoral biométrico, así como establecer las condiciones que regulan los procesos de contratación de los mismos, quedando exenta del cumplimiento de las formalidades de contratación previstas por la [Ley Nº 1178](#TODO-link), de 20 de julio de 1990, de Administración y Control Gubernamentales y sus Decretos Supremos reglamentarios. Las contrataciones que realice el Organismo Electoral estarán sujetas al control gubernamental posterior inmediato.
+* Que la Corte Nacional Electoral mediante carta PRES-SC-0740/2009 de 6 de julio de 2009, comunica al Ministerio de Economía y Finanzas Públicas que adjudicó el contrato de “Equipamiento Informático, Tecnología, Soporte y Capacitación” a la empresa NEC Argentina S. A. por valor CIF-Aduana Aeropuerto El Alto y que los recursos económicos transferidos no consignan el pago de tributos aduaneros de importación, almacenaje y otros necesarios para el cumplimiento de la [Ley Nº 4021](#TODO-link), requiriendo al Órgano Ejecutivo la facilitación del despacho aduanero del equipamiento destinado al Padrón Electoral Biométrico.
+* Que el Artículo 91 de la [Ley Nº 1990](#TODO-link), de 28 de julio de 1999, Ley General de Aduanas, establece que las mercancías que por su contenido y naturaleza, sean de fácil reconocimiento y cuyo volumen, peso u otras condiciones hagan difícil su introducción a los depósitos aduaneros fiscales o privados, podrán ser objeto de despacho aduanero para el consumo en forma inmediata, bajo control de la Aduana.
+* Que en la nómina de mercancías sujetas a despacho inmediato establecida en el Artículo 129 del Reglamento a la Ley General de Aduanas aprobado por [Decreto Supremo Nº 25870](#TODO-link), de 11 de agosto de 2000, no se encuentra la maquinaria electrónica importada por el sector público.
+* Que para la implementación del Padrón Electoral Biométrico establecido en el Artículo 19 de la [Ley Nº 4021](#TODO-link), corresponde al Órgano Ejecutivo adoptar los mecanismos administrativos que faciliten el proceso de importación de la maquinaria electrónica a ser provista por la empresa NEC Argentina S. A. por valor CIF-Aduana Aeropuerto El Alto.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Exoneración en el pago de tributos aduaneros)** En la importación de equipo informático bajo la modalidad de unidad funcional, la Corte Nacional Electoral podrá acogerse, a la exoneración de tributos de importación establecida en el inciso q) del Artículo 133 de la [Ley Nº 1990](#TODO-link), de 28 de julio de 1999, Ley General de Aduanas.
+
+**Artículo 2°.- (Despacho inmediato)** Se autoriza a la Aduana Nacional, aceptar el despacho inmediato previo al cumplimiento de las obligaciones tributarias, del equipamiento informático adquirido por la Corte Nacional Electoral de la empresa proveedora NEC Argentina S. A., el mismo que podrá ser regularizado en un plazo máximo de ciento veinte (120) días computables a partir de la fecha del despacho inmediato.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de julio del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Velez, Walker Sixto San Miguel Rodríguez, MINISTRO DE DEFENSA E INTERINO DE JUSTICIA, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora MINISTRO DE ECONOMIA Y FINANZAS PUBLICAS E INTERINO DE DESARROLLO PRODUCTIVO Y ECONOMIA PLURAL, Oscar Coca Antezana, Walter Juvenal Delgadillo Terceros, Luis Alberto Echazú Alvarado, Calixto Chipana Callizaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Groux Canedo.

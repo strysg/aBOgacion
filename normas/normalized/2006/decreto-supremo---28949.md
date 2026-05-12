@@ -1,0 +1,70 @@
+# Bolivia: Decreto Supremo Nº 28949, 25 de noviembre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3506](#TODO-link) de 27 de octubre de 2006, establece la liquidación del Servicio Nacional de Caminos, disponiendo para el efecto un Régimen de Liquidación y Transferencia.
+* Que la [Ley Nº 3507](#TODO-link) de 27 de octubre de 2006, crea la Administradora Boliviana de Carreteras - ABC, como entidad encargada de la planificación y gestión de la Red Vial Fundamental.
+* Que debe reglamentarse el régimen de transferencias, programación de operaciones y presupuesto, transferencia de los programas y proyectos en ejecución, los estados financieros y reglamentaciones internas, a la Administradora Boliviana de Carreteras.
+* Que en cumplimiento al mandato de las Leyes Nº 3506 y Nº 3507 de Liquidación del Servicio Nacional de Caminos y creación de la Administradora Boliviana de Carreteras, respectivamente, es necesario proceder a la Reglamentación de las mismas.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 20 de noviembre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Obras Públicas, Servicios y Vivienda.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Objeto y ámbito de aplicación
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo, tiene por objeto establecer las condiciones y mecanismos adecuados para posibilitar una transición ordenada, responsable y transparente del ex Servicio Nacional de Caminos a la Administradora Boliviana de Carreteras.
+
+**Artículo 2°.- (Ambito de aplicacion)** El ámbito del presente Decreto Supremo tiene aplicación obligatoria en la Administradora Boliviana de Carreteras, el ex Servicio Nacional de Caminos y otras entidades públicas relacionadas con el presente Decreto Supremo en el marco de la [Ley Nº 3506](#TODO-link), de la [Ley Nº 3507](#TODO-link) y disposiciones conexas.
+
+## Capítulo II Régimen de transferencias, programación de operaciones y presupuesto
+
+**Artículo 3°.- (Transferencia del presupuesto del ex Servicio Nacional de Caminos a la Administradora Boliviana de Carreteras)** A partir de la publicación del presente Decreto Supremo, se autoriza a los Ministerios de Hacienda y Planificación del Desarrollo, a través de sus instancias técnicas, transferir los saldos presupuestarios registrados en el Sistema Integrado de Gestión y Modernización Administrativa - SIGMA del ex Servicio Nacional de Caminos a la Administradora Boliviana de Carreteras.
+
+**Artículo 4°.- (Transferencia de programas, proyectos y financiamientos)** Se dispone la transferencia de las líneas de financiamiento específico de programas y proyectos en ejecución a la Administradora Boliviana de Carreteras, correspondiendo al Ministerio de Planificación del Desarrollo, a través del Viceministerio de Inversión Pública y Financiamiento Externo, gestionar la readecuación de los convenios de financiamiento externo de estos programas y proyectos.
+
+**Artículo 5°.- (Transferencia de saldos bancarios, fondos rotatorios, fondos en fideicomiso, aportes locales y recuperacion de deudas y acreencias)** 
+
+1. A partir de la publicación del presente Decreto Supremo, se dispone la transferencia de los saldos bancarios de las cuentas vigentes del ex Servicio Nacional de Caminos a la Administradora Boliviana de Carreteras, luego de deducir los gastos que hubieran sido devengados y no pagados por el ex Servicio Nacional de Caminos.
+2. Los fondos rotativos de convenios de financiamiento, administrados por el ex Servicio Nacional de Caminos, serán transferidos a la Administradora Boliviana de Carreteras.
+3. Los fondos en fideicomiso del ex Servicio Nacional de Caminos en entidades financieras, deberán pasar a potestad y responsabilidad de la Administradora Boliviana de Carreteras, debiendo la nueva entidad asumir los costos de administración y suscribir las adendas pertinentes a los contratos originales, manteniendo su condición de fideicomitente en los casos que corresponda.
+4. El Ministerio de Hacienda debitará los recursos necesarios, directamente de los ingresos de la Prefecturas de Departamento para cumplir los compromisos de contraparte contraídos por el Gobierno Nacional con los Organismos de Financiamiento.
+5. Para fines de aplicación del presente Artículo, la Administradora Boliviana de Carreteras gestionará la apertura de las cuentas bancarias necesarias.
+
+**Artículo 6°.- (Uso de bienes y documentacion)** A efectos de garantizar el funcionamiento de la Administradora Boliviana de Carreteras, se autoriza el uso de los bienes, activos y documentación necesarios del ex Servicio Nacional de Caminos, en tanto concluya el proceso de transferencia que prevé el Artículo 3 de la [Ley Nº 3506](#TODO-link) de 27 de octubre de 2006, de Liquidación del Servicio Nacional de Caminos.
+
+**Artículo 7°.- (Programacion de operaciones anual y presupuesto)** La Administradora Boliviana de Carreteras, iniciará sus actividades sobre la base del Programa de Operaciones Anual y los saldos presupuestarios de la gestión 2006 del ex Servicio Nacional de Caminos, teniendo en consideración las disposiciones citadas en el presente Decreto Supremo.
+
+## Capítulo III Programas y proyectos en ejecución
+
+**Artículo 8°.- (Contrataciones en curso)** La Administradora Boliviana de Carreteras, asume competencia sobre todos los procesos de contrataciones iniciados por el ex Servicio Nacional de Caminos que no hayan culminado a la fecha de publicación del presente Decreto Supremo, facultándose a continuar con los procesos de contratación en curso, de conformidad a disposiciones legales vigentes.
+
+**Artículo 9°.- (Programas y proyectos en ejecucion)** 
+
+1. En sujeción al Parágrafo I del Artículo 7 de la [Ley Nº 3506](#TODO-link), de Liquidación del Servicio Nacional de Caminos, la Administradora Boliviana de Carreteras continuará la ejecución de los programas y proyectos iniciados por el ex Servicio Nacional de Caminos, sin perjuicio de la revisión de los mismos.
+2. Las obligaciones comprometidas y no devengadas, en estricta sujeción a los términos contractuales iniciales y modificaciones que se hubiesen aprobado de acuerdo a procedimientos establecidos, de conformidad con el Parágrafo I del Artículo 7 de la [Ley Nº 3506](#TODO-link), de Liquidación del Servicio Nacional de Caminos, serán asumidas por la Administradora Boliviana de Carreteras, con los saldos presupuestarios transferidos.
+
+**Artículo 10°.- (Boletas de garantia y polizas)** Las garantías emergentes de las relaciones contractuales suscritas por el ex Servicio Nacional de Caminos serán reconocidas en favor de la Administradora Boliviana de Carreteras, sin perjuicio de la obligación de las empresas contratistas de proceder a la renovación de las mismas en un período no superior a treinta (30) días de publicado el presente Decreto Supremo y reservando el derecho de la Administradora Boliviana de Carreteras de retener pagos o ejecución de las garantías vigentes en caso de incumplimiento de las mismas.
+
+## Capítulo III Estados financieros
+
+**Artículo 11°.- (Apertura de estados financieros de la Administradora Boliviana de Carreteras)** El Presidente Ejecutivo de la Administradora Boliviana de Carreteras, dispondrá la apertura de los Estados Financieros sujetos a conciliación, una vez que se emita el Balance de Cierre del ex Servicio Nacional de Caminos.
+
+## Capítulo IV Reglamentaciones internas
+
+**Artículo 12°.- (Aplicacion de reglamentaciones internas)** Mientras se consolide la organización de la Administradora Boliviana de Carreteras, se faculta la aplicación de los instrumentos normativos internos del ex Servicio Nacional de Caminos.
+
+**Artículo 13°.- (Transferencias y ajustes presupuestarios)** Se autoriza al Ministerio de Hacienda realizar todas las transferencias y ajustes presupuestarios que permitan efectuar la transición del ex Servicio Nacional de Caminos a la Administradora Boliviana de Carreteras.
+  
+Los Ministros de Estado, en los Despachos de Hacienda y Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de noviembre del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, Alicia Muñoz Alá Ministra de Gobierno e Interina de RR. EE. y Cultos, Walker San Miguel Rodríguez Ministro de Defensa e Interino de la Presidencia, Casimira Rodríguez Romero Ministra de Justicia e Interina de Educación y Culturas, Hernando Larrazabal Córdova, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Nila Heredia Miranda.

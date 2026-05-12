@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 29244, 22 de agosto de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 22 de la [Ley Nº 1178](#TODO-link) de 20 de julio de 1990, de Administración y Control Gubernamentales y la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establecen que el Ministerio de Hacienda es el Órgano Rector del Sistema Presupuestario.
+* Que el Capítulo V de la [Ley Nº 1178](#TODO-link), norma la Responsabilidad por la Función Pública.
+* Que el Parágrafo II del Artículo 6 del [Decreto Supremo Nº 27450](#TODO-link) de 14 de abril de 2004, establece que para la inscripción de nuevos créditos externos en el Presupuesto General de la Nación, el monto destinado al pago de consultorías, sea cual fuese su objeto, no debe ser mayor al veinticinco por ciento (25%) del monto total del crédito externo. El incremento de este porcentaje deberá ser aprobado mediante Decreto Supremo.
+* Que por [Ley Nº 3549](#TODO-link) de 1 de diciembre de 2006, se aprueba el Contrato Modificatorio de Redireccionamiento de los Préstamos 1006/SF-BO, 1020/SF-BO, 1118/SF-BO y 1126/SF-BO suscrito con el Banco Interamericano de Desarrollo - BID, con el objeto de reorientar saldos disponibles hacia el préstamo 1075/SF-BO para complementar el componente Programa Contra la Pobreza y Apoyo a la Inversión Social - PROPAIS y para el nuevo componente del Programa para la Rehabilitación de Infraestructura - PROREINF, estipulando que la entidad ejecutora es el Viceministerio de Descentralización, dependiente del Ministerio de la Presidencia.
+* Que mediante Convenio Subsidiario de fecha 21 de febrero de 2007, se otorga al Ministerio de la Presidencia, a través del Viceministerio de Descentralización, las facultades necesarias para la administración de los recursos provenientes del Préstamo 1075/SF-BO otorgados por el BID, para que en estricta sujeción a los términos y condiciones del Contrato Modificatorio de Préstamos lleve a cabo la ejecución del PROREINF.
+* Que el PROREINF tiene por objeto financiar la recuperación de la infraestructura y servicios públicos afectados por las lluvias, inundaciones y deslizamientos, a través de dos áreas: (i) rehabilitación de infraestructura y servicios, y (ii) asistencia técnica para la reducción de riesgos.
+* Que en el marco de la ejecución del Programa, se financiará obras en infraestructura vial; drenajes, canalizaciones y reducción del riesgo; infraestructura básica urbana; infraestructura social; y vivienda. En este contexto, el presupuesto que alcanza a $us20.000.000.- (VEINTE MILLONES 00/100 DÓLARES ESTADOUNIDENSES), se distribuye un ochenta y siete por ciento (87%) en inversión y el trece por ciento (13%) restante en la conformación de la Unidad Coordinadora, contratación de la gerenciadora, supervisión y fiscalización de obras, evaluación y auditoría.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de la Presidencia, la inscripción de recursos provenientes del crédito externo BID 1075/SF-BO-10 en el presupuesto del Viceministerio de Descentralización, correspondientes a saldos redireccionados mediante Contrato Modificatorio suscrito entre la República de Bolivia y el Banco Interamericano de Desarrollo - BID, refrendado por [Ley Nº 3549](#TODO-link) de 1 de diciembre de 2006. Estos recursos incrementarán las partidas 25800 “Estudios e Investigaciones para Proyectos de Inversión” por Bs2.235.266.- (DOS MILLONES DOSCIENTOS TREINTA Y CINCO mil DOSCIENTOS SESENTA Y SEIS 00/100 BOLIVIANOS) para la ejecución del Programa de Rehabilitación de Infraestructura - PROREINF, de acuerdo al Anexo presupuestario adjunto.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de la Presidencia y Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de agosto del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA É INTERINO DE DEFENSA NACIONAL, Alfredo Octavio Rada Vélez MINISTRO DE GOBIERNO É INTERINO DE RR. EE. Y CULTOS, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, María Magdalena Cajías de la Vega, Nila Heredia Miranda.

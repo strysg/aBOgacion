@@ -1,0 +1,20 @@
+# Bolivia: Decreto Presidencial Nº 22978, 20 de noviembre de 1991
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Lic. Carlos Iturralde Ballivián, Ministro de Relaciones Exteriores y Culto, viajará a la Santa Sede acompañando al señor Presidente de la República, Lic. Jaime Paz Zamora, con motivo de la visita oficial a ese país, los días 18 y 23 de noviembre del año en curso.
+* Que es necesario designar Ministro interino para la continuidad administrativa en dicha Secretaría de Estado, según lo establecido en el [Decreto Ley Nº 10460](#TODO-link) de 12 de septiembre de 1972.
+
+DECRETA:
+
+**Artículo Único.-** Designase Ministro de Relaciones Exteriores y Culto, con carácter interino, al señor Marcelo Pérez Monasterios, Subsecretario General del Ministro de Relaciones Exteriores y Culto, mientras dure la ausencia del titular.
+
+---
+
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de noviembre de mil novecientos noventa y un años.
+  
+Fdo. JAIME PAZ ZAMORA, PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA.

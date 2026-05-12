@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 24393, 25 de octubre de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Considerando:
+
+* Que por Resolución del Comité de Financiamiento Externo Nº 012/91, de 16 de mayo de 1991 y en fecha 2 de agosto de 1991 el Ministerio de Defensa Nacional suscribió con la firma FIAT VEHICULOS INDUSTRIALES S.A. ARGENTINA e IVECO-ARGENTINA S.A. un contrato de compra-venta para la provisión de buses, camiones y repuestos destinados a las Fuerzas Armadas de la Nación.
+* Que en fecha 18 de agosto de 1995. ambas partes contratantes suscribieron un adendum al contrato mencionado, que estipula la forma de pago del precio total de la importación mediante carta de crédito en favor de IVECO ARGENTINA S.A., a ser emitida por el Banco Central de Bolivia dentro del Convenio de Pagos de Créditos Recíprocos, del Tratado de Montevideo de 1980, que instituye la Asociación Latinoamericana de Integración (ALADI). suscrito y ratificado por la República de Bolivia, mediante Ley de 27 de mayo de 1986.
+* Que de acuerdo a las disposiciones legales en vigencia y a la Ley del Banco Central de Bolivia, corresponde al Poder Ejecutivo autorizar al Ministerio de Defensa Nacional y a la Secretaria Nacional de Hacienda, a cumplir el prepago y en su caso el reembolso emergente de la Carta de Crédito respectiva, en favor del Banco Central de Bolivia, con cargo al Presupuesto del Ministerio de Defensa Nacional.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Ministerio de Defensa Nacional instruir al Banco Central de Bolivia la apertura de una carta de crédito de crédito en favor de IVECO.ARGENTINA S.A. por la suma de Sus. 6.880.500.00 (SEIS MILLONES OCHOCIENTOS OCHENTA MIL QUINIENTOS 00/100 DOLARES AMERICANOS), más intereses y comisión de seguro en el marco del Reglamento del Convenio de Pagos y Créditos Recíprocos de la ALADI aprobado mediante Resolución de Directorio del Banco Central de Bolivia Nº 159/95 de 12 de diciembre de 1995, al amparo de la Ley de 27 de mayo de 1986, que aprueba el Tratado de Montevideo de 1980.
+
+**Artículo 2°.-** Se autoriza al Ministerio de Defensa a prepagar los débitos emergentes de la carta de crédito que expedirá el Banco Central de Bolivia en virtud del presente Decreto Supremo, más intereses y comisión de seguro conforme al plan de pagos estipulado en el contrato suscrito entre el Ministerio de Defensa Nacional y la firma FIAT VEHICULOS INDUSTRIALES S.A. ARGENTINA e IVECO-ARGENTINA S.A.. en fecha 2 de agosto de 1991 y. su correspondiente adendum de 18 de agosto de 1995. así como, de conformidad a las comisiones que para el efecto fije el Banco Central de Bolivia. Dichos pagos se harán con cargo al presupuesto del Ministerio de Defensa Nacional, a partir de la gestión 1997.
+  
+Asimismo, se autoriza a la Secretaria Nacional de Hacienda, por intermedio del Tesoro General de la Nación, a reembolsar al Banco Central de Bolivia mediante débito automático de sus cuentas los importes no cubiertos por el Ministerio de Defensa Nacional.
+
+---
+
+Los Señores Ministros de Estado en los despachos de Hacienda y de Defensa Nacional quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los veinticinco días del mes de octubre de mil novecientos noventa y seis años.
+  
+FDO. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzain. Jorge Otasevic Toledo. José Guillermo Justiniano Sandoval. MINISTRO DE LA PRESIDENCIA Y SUPLENTE DE JUSTICIA, Femando Candía Castillo, Freddy Teodovich Ortiz, Moisés Jarmúsz Levy, Jorge España Smith. MINISTRO SUPLENTE DE TRABAJO. Guillermo Richter Ascimani. Alfonso Revollo Thenier. Jaime Villalobos Sanjinés.

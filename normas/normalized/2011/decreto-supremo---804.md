@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 804, 2 de marzo de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que los numerales 9 y 10 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link), establecen como competencias exclusivas del nivel central del Estado la planificación, diseño, construcción, conservación y administración de carreteras de la Red Fundamental, así como la construcción, mantenimiento y administración de líneas férreas y ferrocarriles de la Red Fundamental.
+* Que el numeral 4.6.1 del Capítulo IV “BOLIVIA PRODUCTIVA” del Plan Nacional de Desarrollo - PND, aprobado por [Decreto Supremo Nº 29272](#TODO-link), de 12 de septiembre de 2007, plantea como Propuesta de Cambio mejorar e integrar el sistema de transporte nacional, en todas sus modalidades (caminera, ferroviaria, aeronáutica y fluvial lacustre) como componente significativo del desarrollo y la ampliación de mercados para la producción boliviana. Asimismo, señala que a través de la nueva política de transportes, el Estado orientará sus recursos en la perspectiva de vertebrar internamente al país.
+* Que el numeral 4.6.1 del Capítulo IV “BOLIVIA PRODUCTIVA” del PND, establece como Política y Estrategia de vertebración interna e integración externa, la evaluación técnica y económica de las alternativas de interconexión de las redes occidental y oriental de forma que posibilite la habilitación de un corredor nacional de transporte de pasajeros y carga por modo ferroviario. Asimismo, en el Oriente del país se construirá la ferrovía que coadyuve al desarrollo del proyecto siderúrgico de El Mutún y a las exportaciones bolivianas a través de la hidrovía Paraguay-Paraná.
+* Que el Gobierno del Estado Plurinacional de Bolivia ha gestionado ante el Banco Interamericano de Desarrollo - BID, un préstamo por hasta $us15.800.000.- (QUINCE MILLONES novecientos mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el “Programa de Preinversión en Proyectos Estratégicos de Transporte”.
+* Que es necesario autorizar la suscripción del respectivo Contrato de Préstamo con el BID, a objeto de materializar el financiamiento para la ejecución del “Programa de Preinversión en Proyectos Estratégicos de Transporte”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza a la Ministra de Planificación del Desarrollo, a suscribir con el Banco Interamericano de Desarrollo - BID, en nombre y representación del Estado Plurinacional de Bolivia, el Contrato de Préstamo Nº 2498/BL-BO por un monto de hasta $us15.800.000.- (QUINCE MILLONES novecientos mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el “Programa de Preinversión en Proyectos Estratégicos de Transporte”.
+2. Suscrito el Contrato de Préstamo deberá ser remitido a consideración de la Asamblea Legislativa Plurinacional, en cumplimiento al numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](#TODO-link).
+3. Se autoriza al Ministerio de Economía y Finanzas Públicas la suscripción del respectivo Convenio Subsidiario para la transferencia de recursos externos y ejecución del Contrato de Préstamo con el Ministerio de Obras Públicas, Servicios y Vivienda, a través del Viceministerio de Transportes y la Administradora Boliviana de Carreteras - ABC, en su condición de Organismos Ejecutores, a solicitud del Ministerio de Planificación del Desarrollo, a través del Viceministerio de Inversión Pública y Financiamiento Externo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; de Economía y Finanzas Públicas; y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de marzo del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Peréz, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

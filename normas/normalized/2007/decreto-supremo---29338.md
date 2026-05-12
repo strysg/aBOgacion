@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 29338, 14 de noviembre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo y [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, establecen las normas de organización y funcionamiento del Poder Ejecutivo así como del Ministerio de Hidrocarburos y Energía, determinando su estructura y competencia conforme a las funciones y atribuciones propias del sector.
+* Que el Artículo 4 de la [Ley Nº 2042](#TODO-link) de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las asignaciones presupuestarias de gasto aprobadas por la Ley de Presupuesto de cada año, constituyen límites máximos de gasto y su ejecución se sujetará a los procedimientos legales que en cada partida sean aplicables. Toda modificación dentro de estos límites deberá efectuarse según se establece en el Reglamento de Modificaciones Presupuestarias, que será aprobada mediante Decreto Supremo.
+* Que el Reglamento de Modificaciones Presupuestarias aprobado por [Decreto Supremo Nº 27849](#TODO-link) de 12 de noviembre de 2004, establece los procedimientos y responsables para elaborar, presentar, aprobar y registrar las modificaciones al Presupuesto General de la Nación, modificaciones que deben ser aprobadas por Resolución de la máxima autoridad de la entidad solicitante. En su Artículo 13 dispone que según el tipo y alcance de las modificaciones presupuestarias se establecen las siguientes competencias de aprobación entre las cuales se encuentra eventualmente, Decretos Supremos y Resoluciones Supremas.
+* Que luego del análisis técnico y legal se ha determinado que el Ministerio de Hidrocarburos y Energía intensificó su trabajo técnico en la presente gestión, contratando los servicios de profesionales técnicos para las diferentes áreas funcionales de esa Cartera de Estado los cuales son pagados con la partida 25200 “Estudios e Investigaciones” fuente 11 otros ingresos, consultores que responden a las necesidades y requerimientos técnicos de mucha responsabilidad en dicha Cartera de Estado, los cuales no pueden ser interrumpidos por considerarse indispensables en las tareas asignadas, siendo necesaria la presencia de los profesionales técnicos los cuales han adquirido experiencia y conocimiento para un adecuado desempeño de sus labores.
+* Que el Ministerio de Hidrocarburos y Energía inscribió su presupuesto para la gestión 2007 en la partida 25200 “Estudios e Investigaciones” por Bs2.620.515.- (DOS MILLONES SEISCIENTOS VEINTE mil QUINIENTOS QUINCE 00/100 BOLIVIANOS) presupuesto ejecutado hasta el mes de septiembre del presente año, con la finalidad de contar con disponibilidad presupuestaria se presentó en fecha 31 de julio del presente año el trámite de inscripción de presupuesto adicional a favor de esta entidad al Honorable Congreso Nacional, el mismo que hasta la fecha no cuenta con aprobación, lo que ha determinado la necesidad de realizar una modificación presupuestaria para la gestión 2007 para reforzar la partida 25200 “Estudios e Investigaciones” por el monto de Bs699.824.- (SEISCIENTOS NOVENTA Y NUEVE mil novecientos vienticuatro 00/100 BOLIVIANOS).
+* Que el Parágrafo I del Artículo 3 del [Decreto Supremo Nº 28750](#TODO-link) de 20 de junio de 2006, establece que los traspasos intrainstitucionales e interinstitucionales que incrementen el presupuesto aprobado para las partidas de gasto en consultorías, 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Para Construcciones de Bienes de Dominio Público”, requerirán la aprobación por Decreto Supremo, excepto los financiados con recursos de donación externa.
+* Que por lo expuesto corresponde emitir la presente disposición, para viabilizar el traspaso presupuestario intrainstitucional por parte del Ministerio de Hidrocarburos y Energía.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 12 de noviembre de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Hidrocarburos y Energía.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Hidrocarburos y Energía, incrementar la partida 25200 “Estudios e Investigaciones” por la suma de Bs699.824.- (SEISCIENTOS NOVENTA Y NUEVE mil novecientos vienticuatro 00/100 BOLIVIANOS), a través de traspasos intrainstitucionales que afectan partidas de los grupos de gasto 20000 y 30000, para dar continuidad hasta diciembre de 2007 a consultorías de línea y por producto en distintas áreas funcionales del Ministerio de Hidrocarburos y Energía, de acuerdo al Anexo adjunto y de conformidad al Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Hacienda y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de noviembre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, Maria Magdalena Cajias de la Vega , Nila Heredia Miranda MINISTRA DE SALUD Y DEPORTES E INTERINA DE JUSTICIA.

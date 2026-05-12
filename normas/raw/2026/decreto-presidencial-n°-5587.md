@@ -1,0 +1,55 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO PRESIDENCIAL N° 5587**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el Parágrafo I del Artículo 12 de la Constitución Política del Estado, determina que el Estado se organiza y estructura su poder público a través de los Órganos Legislativo, Ejecutivo, Judicial y Electoral. La organización del Estado está fundamentada en la independencia, separación, coordinación y cooperación de estos órganos.
+
+Que el Parágrafo I del Artículo 205 del Texto Constitucional, establece que el Órgano Electoral Plurinacional está compuesto por el Tribunal Supremo Electoral, los Tribunales Electorales Departamentales, los Juzgados Electorales, los Jurados de las Mesas de Sufragio y los Notarios Electorales.
+
+Que el Parágrafo I del Artículo 31 de la Ley N° 018, de 16 de junio de 2010, del Órgano Electoral Plurinacional, dispone que los Tribunales Electorales Departamentales son el máximo nivel y autoridad del Órgano Electoral Plurinacional a nivel departamental, con jurisdicción y atribuciones en sus respectivos departamentos, bajo las directrices del Tribunal Supremo Electoral. Su sede está en la capital del respectivo departamento.
+
+Que el Artículo 32 de la Ley N° 018, señala que para cada departamento se establece un Tribunal Electoral Departamental integrado por cinco (5) Vocales, de los cuales al menos uno (1) será de una nación o pueblo indígena originario campesino del departamento. Del total de Vocales de cada Tribunal al menos dos (2) serán mujeres.
+
+Que el numeral 1 del Artículo 33 de la Ley N° 018, dispone que la Presidenta o el Presidente del Estado Plurinacional designará a una o un (1) Vocal en cada Tribunal Electoral Departamental.
+
+Que el inciso b) del Artículo 5 de la Ley N° 2027 de 27 de octubre de 1999 Estatuto del Funcionario Público, señala que los funcionarios designados, son aquellas personas cuya función pública emerge de un nombramiento a cargo público, conforme a la Constitución Política del Estado, disposición legal u Sistema de Organización Administrativa aplicable. Estos funcionarios no están sujetos a las disposiciones relativas a la Carrera Administrativa.
+
+Que los Vocales de los Tribunales Electorales Departamentales designados directamente por la Presidenta o Presidente del Estado, obedecen a una invitación personal o decisión soberana de Estado basada en la confianza.
+
+Que los cargos de designación, son aquellos en los que existe un proceso de intermediación democrática, es decir, son designados por quien fue elegido democráticamente y su naturaleza es la flexibilidad, este tipo de servidores tienen características específicas que mal podrían ser equiparables a la generalidad de servidores públicos y trabajadores que gozan de la garantía de la inamovilidad en las condiciones establecidas por la Constitución y la Ley.
+
+Que el Presidente del Estado Plurinacional de Bolivia, tiene la facultad constitucional y legal de elegir un Vocal por cada Tribunal Departamental Electoral, en razón de la legitimidad de su elección democrática a través del voto popular, toda vez que, su mandato y posesión emerge de una transición democrática constitucional a diferencia de un gobierno transitorio.
+
+**DECRETA:**
+
+**ARTÍCULO ÚNICO.-**
+
+**I.** Se designa al ciudadano **JHONNY HEREDIA PÉREZ,** como **VOCAL DEL TRIBUNAL ELECTORAL DEPARTAMENTAL** **DE CHUQUISACA,** en representación del Órgano Ejecutivo, quien tomará posesión del cargo con las formalidades de rigor, previo cumplimiento de lo establecido por Ley.
+
+**II.** Se abroga el Decreto Presidencial Nº 4533, de 29 de junio de 2021.
+
+Es dado en el Palacio de Gobierno, a los veinte días del mes de marzo del año dos mil veintiséis.
+
+**Fdo. Rodrigo Paz Pereira,** José Luis Lupo Flores.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/1.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia

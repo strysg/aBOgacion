@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 23199, 25 de junio de 1992
+
+LUIS OSSIO SANJINES
+  
+PRESIDENTE CONSTITUCIONAL INTERINO DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que los Gobiernos de Estados Unidos de América y la República de Bolivia han suscrito un convenio bilateral detallado en el anexo III;
+* Que el gobierno de los Estados Unidos de Norteamérica ha hecho llegar al país en calidad de donación en cumplimiento de ese convenio, dos containers con 33 bultos y peso bruto de 11.635.67 Kgs., conteniendo repuestos para vehículos militares, para uso exclusivo del proyecto antinarcóticos del programa de ayuda militar;
+* Que el ejército de Bolivia no dispone de la respectiva partida presupuestaria destinada al pago de impuestos, para recoger esta donación de repuestos;
+* Que es deber del Gobierno Nacional coadyuvar para que los motorizados militares, tengan la dotación de repuestos indispensables para su funcionamiento, correspondiendo emitir la disposición legal pertinente a ese fin.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Libérase del gravamen consolidado (GAC), impuesto al valor agregado (IVA), el 0.5% de AADAA y servicios prestados por almacenaje y otros recargos, sobre el despacho de repuestos para vehículos militares, contenido en 33 bultos, con un peso bruto de 11.635.67 kgs. y un valor FOB de trescientos noventa y cuatro mil quinientos noventa y dos 96/100 dólares americanos ($us.394.592.96), donación del Gobierno de los Estados Unidos de América, según el convenio bilateral detallado en el anexo III.
+
+---
+
+Los señores Ministros de Estado en los despachos de Finanzas y Defensa Nacional quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiséis días del mes de junio de mil novecientos noventa y dos años.
+  
+Fdo. LUIS OSSIO SANJINES, Presidente Constitucional Interino de la Republica, Ronald Mac Lean Abaroa, Carlos A. Saavedra Bruno, Gustavo Fernández Saavedra, Alberto Saenz Klinski, Jorge Landívar Roca, Samuel Doria Medina Auza, Marcelo Montero Min. Finanzas a. i., Hedim Céspedes Cossio, Carlos Aponte Pinto, Fernando Campero Prudencio, Jaime Vega Quiroga Min. Trabajo y Desarrollo Laboral a. i., Guillermo Cuentas Yañes Min. Previsión Social y Salud Pública a. i., Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Alfonso Saavedra Bruno Min. Energía e Hidrocarburos a. i., Fernando Kieffer Guzmán, Jaime Céspedes Toro.

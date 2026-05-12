@@ -1,0 +1,1279 @@
+
+
+# Bolivia: Proyecto Nº RE-L164, 24 de octubre de 2012
+
+PROYECTO DE REGLAMENTO GENERAL A LA [Ley Nº 164](#TODO-link) DE 8 DE AGOSTO DE 2011 GENERAL DE TELECOMUNICACIONES, TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN PARA EL SECTOR DE TELECOMUNICACIONES
+
+## Título I Disposiciones generales
+
+### Capítulo Único
+
+**Artículo 1°.- (Objeto)** . Reglamentar las actividades del sector de telecomunicaciones en aplicación a la [Ley Nº 164](#TODO-link) de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación.
+
+**Artículo 2°.- (Ámbito de aplicación)** . El presente Reglamento se aplica a:
+
+1. Personas naturales o jurídicas; públicas o privadas; nacionales o extranjeras, cooperativas y comunitarias que realicen actividades y presten servicios de telecomunicaciones y tecnologías de información y comunicación originadas, en tránsito o terminadas en el territorio del Estado Plurinacional de Bolivia, usuarias y usuarios de estos servicios.
+2. Entidades territoriales autónomas departamentales, municipales e indígena originario campesinas.
+
+**Artículo 3°.- (Principios)** . Sin perjuicio de lo establecido en la [Ley Nº 164](#TODO-link), las actividades en telecomunicaciones, tecnologías de información y comunicación y los servicios que se presten a la usuaria o usuario final, deberán observar el cumplimiento de los siguientes principios:
+
+|  |  |
+| --- | --- |
+| Eficiencia.- | Es de prioridad pública la satisfacción en los servicios de telecomunicaciones; los operadores y proveedores, titulares de una licencia, adecuarán sus instalaciones para una atención eficiente y de buena calidad a las usuarias y usuarios. |
+| Diligencia debida.- | Todo operador o proveedor de servicios en telecomunicaciones, sus administradores, socios, accionistas o miembros, deberá precautelar la regular prestación del servicio, vigilando que su manejo administrativo – financiero sea transparente, legal y que responda siempre a los intereses de la usuaria o usuario final. |
+| Protección.- | Se reconoce de vital importancia la participación de la usuaria y usuario en la prestación de los servicios de telecomunicaciones, garantizando su defensa y la protección de sus derechos en el marco de sus relaciones jurídicas con el operador o proveedor del servicio. |
+| Prestación efectiva del servicio.- | En ningún caso, los operadores o proveedores de servicios de telecomunicaciones, procederán al cobro de un servicio prestado, si el mismo no fue realizado en forma regular y efectiva, debiendo el operador o proveedor, en caso de controversia, demostrar fehacientemente que la usuaria o usuario recibió el servicio que contempla la facturación. |
+| Información oportuna.- | Los operadores o proveedores de servicios en telecomunicaciones están obligados a proporcionar la información relacionada con la usuaria o usuario de manera oportuna, siempre y cuando la solicitud sea realizada por el titular de la información o su representante legal y no vulnere el principio de la inviolabilidad de las telecomunicaciones. |
+
+**Artículo 4°.- (Definiciones)** . Además de las definiciones técnicas establecidas en la [Ley Nº 164](#TODO-link), para el cumplimiento del presente Decreto Supremo, se adoptan las siguientes definiciones:
+  
+**1. Respecto a servicios de telecomunicaciones.**
+
+|  |  |
+| --- | --- |
+| Servicios Portadores.- | Son los servicios prestados a través de una red pública de telecomunicaciones, que consisten en el establecimiento de enlaces punto - punto o punto – multipunto a través de conexiones físicas o virtuales, para la transmisión de señales o datos a distintas velocidades, en la conformación de redes públicas o privadas que permitan efectuar comunicaciones codificadas, conmutadas o dedicadas, entre equipos situados en lugares diferentes, sin causar cambio en la información transmitida de extremo a extremo. |
+| Servicio de Móvil de Despacho (Trunking).- | Es el servicio que involucra el uso de frecuencias en estaciones fijas o móviles para comunicarse con un equipo terminal fijo o móvil específico dentro de un grupo definido o simultáneamente con el grupo, para poder coordinar las actividades específicas de la usuaria, usuario o del grupo. |
+| Servicio de Buscapersonas.- | Es un servicio móvil inalámbrico que consiste en el envío de una señal unidireccional de alerta o un mensaje de voz o datos, que no sea en tiempo real, a un equipo terminal móvil, aunque sistemas avanzados de buscapersonas pueden permitir un breve mensaje de retorno, desde el equipo terminal móvil al iniciador del contacto. |
+
+  
+**2. Respecto a la regulación tarifaria.**
+
+|  |  |
+| --- | --- |
+| Factor de Control.- | Es el valor calculado para cada Periodo Tarifario en función a la inflación y al factor de productividad, y que se constituye en el valor máximo de la Variación de Tarifas en dicho Periodo Tarifario. |
+| Factor de Productividad.- | Es el componente que refleja el cambio en el nivel de productividad de los proveedores o de la industria en el sector de telecomunicaciones. |
+| Mercado Relevante.- | Es el área geográfica en la que se proveen los servicios de Telecomunicaciones y Tecnologías de Información y Comunicación, tomando en cuenta los servicios sustitutos desde el punto de vista tanto técnico como económico, las restricciones de acceso y el nivel comercial existente. |
+| Periodo Efectivo.- | Es el periodo de tres (3) años, constituido por seis Periodos Tarifarios, en los que no se modificarán el Factor de Productividad y el Tope de Precios Inicial. |
+| Periodo Tarifario.- | Es el periodo de seis (6) meses calendario, en el cual el Factor de Control y el Tope de Precios permanecerán constantes. |
+| Posición Dominante.- | Es el control del Mercado Relevante que ejerce un operador o proveedor de servicios de telecomunicaciones y que le permite actuar de modo independiente de sus competidores, usuarias, usuarios o proveedores, debido a la ausencia de competencia efectiva en dicho mercado. |
+| Práctica predatoria.- | Se entiende como practica predatoria cuando un proveedor con posición dominante provee sus servicios por debajo de costos en un periodo determinado, con el objeto de eliminar a la competencia o a potenciales rivales para luego aumentar el precio a su nivel monopólico. |
+| Precio Promedio Ponderado.- | Es el precio promedio de una canasta de servicios prestados por un proveedor, ponderado por los ingresos brutos percibidos o el número de usuarias o usuarios, correspondiente a cada categoría tarifaria. |
+| Tarifa.- | Es el valor fijado por el operador o proveedor para la prestación de un servicio de telecomunicaciones. |
+| Tope de Precios.- | Es el límite máximo de precios, tarifas o cargos de servicios de telecomunicaciones fijados en base a una metodología de regulación tarifaria. |
+| Variación de Tarifas.- | Corresponde a la variación de tarifas promedio ponderada propuestas por un proveedor de servicios, para una canasta de servicios, en un determinado Periodo Tarifario, respecto a las tarifas aprobadas en el periodo anterior. |
+
+  
+**3. Respecto a la Interconexión.**
+
+|  |  |
+| --- | --- |
+| Coubicación.- | Es la disponibilidad de espacios físicos, condiciones técnicas de seguridad que un operador de telecomunicaciones ofrece a otros, para la instalación física de sus equipos. |
+| Instalaciones esenciales.- | Son los elementos de red que utilice, posea o controle un operador para la prestación de servicios de telecomunicaciones, que a la vez es imprescindible a los fines de la interconexión para otro operador que desee interconectarse y provea servicios de telecomunicaciones. |
+| Interconexión.- | Es el servicio provisto entre operadores que permite la conexión de dos o más redes públicas de telecomunicaciones, el cual se ofrece en uno o más nodos de interconexión o puntos físicos, lógicos o virtuales de interconexión, posibilitando el intercambio de tráfico de comunicaciones electrónicas, de manera que todas las usuarias y usuarios de dichas redes puedan comunicarse entre sí y puedan tener acceso a los servicios de los distintos operadores. |
+| Interoperabilidad.- | Es la capacidad de los componentes de una red pública de telecomunicaciones para operar con todas sus características técnicas y funcionales con otra red de telecomunicaciones. |
+| Itinerancia o Roaming.- | Es la capacidad y disponibilidad de una usuaria o usuario del servicio móvil de hacer y recibir llamadas de voz, enviar o recibir datos y utilizar otros servicios de valor agregado dentro de una red visitada que está fuera de la cobertura geográfica de la red de origen. |
+| Nodo de Interconexión.- | Es el nodo vinculado directamente con el punto de interconexión. |
+| Oferta Básica de Interconexión (OBI).- | Es el detalle de los nodos de interconexión con sus elementos mínimos de orden técnico, económico, comercial, jurídico y administrativo, servicios de apoyo, instalaciones esenciales y elementos red que un operador de red pública ofrece para la interconexión. |
+| Punto de intercambio de tráfico – PIT.- | Es el punto donde los Proveedores de Servicio de Acceso a Internet – ISP, se interconectan entre sí a través de uno o varios nodos para el intercambio de tráfico de datos. |
+| Punto de interconexión.- | Es el lugar específico de la red pública de telecomunicaciones donde se establece la interconexión con otras redes. |
+
+  
+**4. De los equipos industrial, científico y otros**
+
+|  |  |
+| --- | --- |
+| Equipo industrial, científico y médico.- | Son aquellos equipos diseñados para generar y usar localmente frecuencias electromagnéticas para propósitos industriales, científicos, médicos, excluyendo aplicaciones en la rama de telecomunicaciones. |
+| Radiadores involuntarios.- | Son equipos que no están diseñados para emitir energía electromagnética fuera del aparato en sí, pero que sí la emiten en el curso de su operación. |
+| Radiadores voluntarios con potencia muy baja.- | Son equipos que intencionalmente generan y emiten frecuencias electromagnéticas para uso en telecomunicaciones o para usos industriales, científicos o médicos cuya potencia radiada efectiva sea menor al límite determinado mediante instructivo técnico emitido por la ATT. |
+
+**Artículo 5°.- (Prohibición)** 
+
+1. Salvo lo dispuesto para las Licencias de Radiodifusión, los derechos otorgados por el Estado Plurinacional de Bolivia, a través de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, mediante contratos de licencia o Resoluciones Administrativas para actividades en telecomunicaciones dentro del territorio nacional no podrán ser transferidos, cedidos, arrendados o sujetos de cualquier acto de disposición, sin contar con la autorización del ente regulador, conforme a normativa vigente.
+2. Sin perjuicio de lo anterior, las cesiones, transferencias y cualquier acto de disposición de los derechos otorgados por el Estado Plurinacional de Bolivia, que no afectan el control efectivo del titular, se realizarán libremente y no requieren de aprobación del ente regulador, salvo la comunicación oportuna a la ATT para efectos de registro y actualización de información.
+
+**Artículo 6°.- (Protección del medio ambiente)** . Las actividades y servicios de telecomunicaciones, tecnologías de información y comunicación, se realizarán conforme al principio de protección de medio ambiente y desarrollo sostenible, de acuerdo con la normativa vigente.
+
+## Título II Espectro radioeléctrico
+
+### Capítulo I Plan Nacional de Frecuencias
+
+**Artículo 7°.- (Plan nacional de frecuencias)** . El Plan Nacional de Frecuencias - PNF establece la atribución de las bandas de frecuencias del espectro radioeléctrico en el Estado Plurinacional de Bolivia entre los diferentes tipos de servicios de radiocomunicaciones.
+
+**Artículo 8°.- (Elaboración, actualización y aprobación del PNF)** 
+
+1. La elaboración y actualización del PNF corresponde al Ministerio de Obras Públicas Servicios y Vivienda y su aprobación será mediante Resolución Ministerial por el señalado Ministerio.
+2. El Ministerio de Obras Públicas, Servicios y Vivienda en coordinación con la ATT, mediante Resolución Ministerial, aprobará las canalizaciones de las bandas de frecuencias establecidas en el PNF, cuando se requiera.
+
+### Capítulo II Uso del espectro radioeléctrico
+
+**Artículo 9°.- (Uso del espectro radioeléctrico)** .
+
+1. La ATT, otorgará licencias para la provisión de servicios de operación de redes de telecomunicaciones y tecnologías de información y comunicación, que hagan uso de frecuencias del espectro radioeléctrico de acuerdo al PNF, siempre que cumplan con los requisitos establecidos y cuando así lo determinen los planes aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda.
+2. El espectro radioeléctrico es un recurso natural de carácter limitado y jurídicamente es inalienable e imprescriptible, motivo por el cual los derechos de uso del espectro radioeléctrico derivados de una licencia no otorgan derecho propietario.
+
+**Artículo 10°.- (Casos excepcionales)** 
+
+1. Las Licencias para el Uso de Frecuencias destinadas a radiodifusión, podrán excepcionalmente y previa autorización de la ATT, mediante Resolución Administrativa, transferirse en los casos especiales y específicos siguientes:
+   1. Por fallecimiento o declaratoria judicial de interdicción del titular.
+   2. Para el sector comercial, a partir de los de cinco (5) años de transcurrido el periodo de vigencia de la Licencia para el Uso de Frecuencia, plazo que volverá a computarse y tomarse en cuenta para el nuevo titular de ocurrir una nueva transferencia de una Licencia de Radiodifusión.
+2. Cuando ocurra el fallecimiento o la declaración judicial de interdicción del titular, de quien posea o comparta el control efectivo, de una Licencia para el Uso de Frecuencia destinada a radiodifusión, la ATT podrá autorizar mediante Resolución Administrativa, la continuidad de la licencia en favor de quien lo solicite, siempre y cuando se acredite interés legal sobre el derecho otorgado al fallecido o declarado interdicto.
+
+**Artículo 11°.- (Equipos médicos, científicos e industriales)** .
+
+1. No se requiere licencia para equipos médicos, científicos e industriales, y que hagan uso del espectro radioeléctrico en un área reducida, así como la operación de radiadores involuntarios y radiadores voluntarios con potencia muy baja.
+2. La ATT, emitirá instructivos técnicos para regular y controlar las emisiones de ondas radioeléctricas de los aparatos que no requieren licencia, con el objeto de prevenir que causen interferencia perjudicial.
+
+**Artículo 12°.- (Frecuencias de uso libre)** .
+
+1. Las usuarias y usuarios de las bandas de uso libre establecidas en el PNF, no requieren obtener licencia y deben cumplir con los parámetros técnicos establecidos por la ATT.
+2. Las frecuencias de uso libre no podrán ser utilizadas para la operación y provisión de servicios de telecomunicaciones y tecnologías de información y comunicación al público, ni para radioenlaces de redes públicas o privadas, si dichas actividades significarán la realización de cobros a las usuarios o usuarios.
+
+### Capítulo III Registro, homologación e internación de equipos
+
+**Artículo 13°.- (Registro de proveedores y comercializadores de equipos)** . La ATT será la entidad que registre a los fabricantes, proveedores o comercializadores de equipos de telecomunicaciones y tecnologías de información y comunicación, incluidos los equipos de transmisión de voz, datos y otros que utilicen frecuencias y bandas de frecuencias radioeléctricas de uso libre. Los requisitos para la inscripción serán establecidos por la ATT.
+
+**Artículo 14°.- (Homologación de equipos)** .
+
+1. Se entiende por homologación, al procedimiento realizado por la ATT de verificación de la compatibilidad de funcionamiento y operación de equipos o terminales con una red de telecomunicaciones, de acuerdo a los estándares nacionales elaborados por la ATT y aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda, así como a los estándares internacionales, principalmente para:
+   1. Proteger de interferencias perjudiciales a los servicios de telecomunicaciones de operadores o proveedores autorizados, garantizando la utilización apropiada del espectro radioeléctrico.
+   2. Verificar que los equipos o terminales tengan las características técnicas adecuadas para el tipo de servicio autorizado.
+2. La ATT emitirá instructivos técnicos para homologación los cuales serán actualizados periódicamente.
+3. Cuando así se requiera, la ATT podrá contratar a terceras personas para las pruebas técnicas de homologación, las mismas que serán denominadas Entidades Verificadoras y su contratación podrá ser para casos específicos o por plazo determinado de acuerdo a la normativa vigente aplicable.
+4. No podrán ser designadas Entidades Verificadoras las personas naturales o jurídicas que sean titulares de autorizaciones para proveer servicios de telecomunicaciones y tecnologías de información y comunicación o que tengan relación directa con proveedores o comercializadores de equipos u operadores y proveedores de servicios.
+5. Para la solicitud de homologación de equipos de telecomunicaciones incluidos aquellos que utilizan frecuencias radioeléctricas de uso libre, los fabricantes, proveedores o comercializadores deberán previamente estar inscritos en el registro de la ATT.
+
+**Artículo 15°.- (Procedimiento de homologación)** 
+
+1. A solicitud de los interesados, sean fabricantes, operadores de servicios, proveedores o comercializadores de equipos destinados a redes de telecomunicaciones, la ATT procederá a la homologación de los mismos, mediante Resolución Administrativa en el plazo máximo de treinta (30) días, siempre y cuando se cumplan los requisitos establecidos en los instructivos técnicos de homologación.
+2. Para los equipos que requieran pruebas de laboratorio con el fin de su homologación, la ATT podrá solicitar al interesado un prototipo por cada tipo de equipo a ser homologado, el mismo que será entregado a la ATT hasta la finalización de las pruebas.
+3. La ATT publicará en su página web de manera permanente los equipos que hayan sido homologados y por tanto estarán autorizados para su uso y comercialización en el territorio nacional.
+
+**Artículo 16°.- (Importación e internación de equipos de telecomunicaciones)** . Para la importación e internación de equipos de telecomunicaciones en general, así como equipos y antenas utilizadas en la recepción satelital, los proveedores o comercializadores deberán solicitar la Autorización Previa o Certificado a la ATT, conforme a la normativa vigente.
+
+### Capítulo IV Distribución y asignación de frecuencias para radiodifusión
+
+**Artículo 17°.- (Distribución)** . Para fines del presente Reglamento, referido a la distribución de frecuencias de radiodifusión en aplicación del Artículo 10 de la [Ley Nº 164](#TODO-link), se entenderá como:
+
+|  |  |
+| --- | --- |
+| Estado: | Aquellas entidades y empresas del nivel central del Estado, las Entidades Territoriales Autónomas en el marco de la normativa aplicable vigente, y las Universidades Públicas, que tengan por finalidad proveer servicios de radiodifusión. |
+| Comercial: | A las personas naturales y jurídicas del ámbito privado que se encuentran constituidas para realizar actividades de radiodifusión con fines de lucro. |
+| Social Comunitario: | A las personas naturales, organizaciones sociales, cooperativas y asociaciones, cuya función sea educativa, participativa, social, representativa de su comunidad y su diversidad cultural, que promueva sus valores e intereses específicos, que no persigan fines de lucro y los servicios de radiodifusión sean accesibles a la comunidad. |
+| Pueblos Indígena Originario Campesinos - PIOC y Comunidades Interculturales y Afrobolivianas – CiyA: | Aquellas organizaciones de estos pueblos y comunidades que prestan servicios de radiodifusión accesibles a la comunidad y sin fines de lucro, que tienen usos y costumbres, idioma, tradición histórica, territorialidad y cosmovisión, representativas de sus pueblos que velan por la revalorización de su identidad, su cultura y su educación. |
+
+**Artículo 18°.- (Disponibilidad de frecuencias)** . Las frecuencias disponibles de radiodifusión sonora y de televisión analógica que sean liberadas como consecuencia del cumplimiento del plazo de la licencia o de la revocatoria de la misma, así como las emergentes de una nueva canalización en la banda correspondiente, serán dispuestas de conformidad a las políticas y planes de asignación de frecuencias emitidos por el Ministerio de Obras Públicas, Servicios y Vivienda, de acuerdo a lo siguiente:
+
+1. La ATT, en forma periódica informará y hará conocer al Ministerio de Obras Públicas, Servicios y Vivienda, sobre la disponibilidad de frecuencias por áreas de servicio.
+2. El Ministerio de Obras Públicas, Servicios y Vivienda elaborará los Planes de Asignación de Frecuencias de Radiodifusión, de acuerdo a las necesidades del sector.
+3. En cumplimiento de los Planes de Asignación de Frecuencias de Radiodifusión, la ATT establecerá los correspondientes cronogramas de otorgamiento directo, licitaciones e invitaciones a concursos de proyectos.
+
+**Artículo 19°.- (Orden para la asignación de frecuencias)** 
+
+1. La asignación de frecuencias para el servicio de radiodifusión sonora en frecuencia modulada y televisión analógica, se realizará respetando la distribución establecida en el Artículo 10 de la [Ley Nº 164](#TODO-link) para cada área de servicio, de una frecuencia a la vez por sector, de acuerdo a la disponibilidad de frecuencias, hasta alcanzar los porcentajes establecidos por Ley.
+2. El orden en la asignación de frecuencias de radiodifusión según el parágrafo anterior, se realizará de la siguiente manera:
+   1. Primero, Estatal.
+   2. Segundo, Pueblo Indígena Originario Campesino y Comunidades Interculturales y Afrobolivianas.
+   3. Tercero, Social Comunitario.
+   4. Cuarto, Comercial.
+3. La asignación de bandas de amplitud modulada y onda corta para el servicio de radiodifusión, deberá alcanzar la misma distribución establecida en el Artículo 10 de la [Ley Nº 164](#TODO-link), tomando en cuenta las políticas aprobadas por el Ministerio de Obras Públicas, Servicios y Vivienda, aplicándose el mismo orden de asignación del Parágrafo II del presente Reglamento.
+
+**Artículo 20°.- (Asignación de frecuencias)** 
+
+1. La ATT mediante Resolución Administrativa, asignará el uso de frecuencias para el servicio de radiodifusión de acuerdo a los Planes de Asignación de Frecuencias y los mecanismos descritos en el Artículo anterior:
+   1. Para el Estado, se asignará el uso de frecuencias de forma directa, una frecuencia para radiodifusión sonora y otra para televisión analógica en su jurisdicción, en función a los Planes de Asignación de Frecuencias, emitido por el Ministerio de Obras Públicas, Servicios y Vivienda, la disponibilidad de frecuencias reportadas por la ATT y el orden de presentación de solicitudes.
+   2. Para el sector Social Comunitario y sector Pueblos Indígena Originario Campesinos y Comunidades Interculturales y Afrobolivianas, deberá procederse a la asignación de frecuencias mediante el procedimiento de Concurso de Proyectos.
+   3. Para el sector Comercial, deberá procederse a la asignación de frecuencias mediante el procedimiento de Licitación Pública.
+2. La ATT podrá tomar conocimiento de expresiones de interés con fines informativos para reportarlos al Ministerio de Obras Públicas, Servicios y Vivienda, para la elaboración de los Planes de Asignación de Frecuencias.
+
+### Capítulo V Interferencia
+
+**Artículo 21°.- (Interferencia perjudicial)** 
+
+1. La interferencia perjudicial del espectro radioeléctrico debe ser evitada por todos los operadores y en caso de evidenciarse que sus emisiones generen señales en frecuencias radioeléctricas fuera de las bandas autorizadas ocasionando interferencia, deberán solucionar la misma en el marco de los estándares técnicos que emita al respecto la ATT.
+2. La ATT realizará monitoreos y otras acciones referidas al control del espectro radioeléctrico para detectar emisiones no autorizadas y prevenir interferencias perjudiciales, garantizando la operación de las frecuencias legalmente autorizadas.
+3. El operador afectado con una interferencia perjudicial deberá presentar su denuncia formalmente a la ATT, con la información sobre las frecuencias afectadas, incluyendo información adicional que ayude a la identificación del infractor, debiendo la ATT ejecutar las acciones regulatorias pertinentes.
+
+**Artículo 22°.- (Protección contra interferencias)** 
+
+1. Los operadores y proveedores de servicios de telecomunicaciones, tecnologías de información y comunicación así como radiodifusión, deberán cumplir con los estándares técnicos establecidos por la ATT para evitar que sus emisiones de señal radioeléctrica generen interferencias.
+2. Los equipos industriales, científicos, médicos y de banda de uso libre, deberán funcionar sin causar interferencia a los servicios legalmente establecidos, de acuerdo a los estándares técnicos establecidos por la ATT.
+3. La ATT, en caso de verificar que las señales emitidas por un equipo causan interferencia, deberá iniciar las acciones correspondientes.
+
+### Capítulo VI Terminales de redes públicas
+
+**Artículo 23°.- (Punto terminal)** . El punto terminal entre una red pública y equipos terminales debe considerar lo siguiente:
+
+1. El punto terminal entre una red pública y equipos terminales conectados será establecido por la ATT mediante instructivo técnico, tomando en consideración: los usos y las funciones del equipo que será conectado a la red, los requisitos técnicos del operador de la red y recomendaciones pertinentes de organizaciones internacionales y regionales que dictan los estándares.
+2. Para el servicio local, brindado a través de línea física, el punto terminal constituirá la caja terminal o tablero de distribución telefónica del edificio o vivienda. El cableado interno dentro de la vivienda o edificio así como el equipo terminal conectado a éste, será de responsabilidad de la usuaria o usuario.
+3. El punto terminal de una red pública será parte de dicha red y controlado por el operador de la red.
+
+**Artículo 24°.- (Acceso inalámbrico fijo)** . Para el acceso inalámbrico fijo del servicio local, se entenderá lo siguiente:
+
+1. Cobertura restringida.- Es la cobertura de señal del servicio local brindada por una radiobase o celda con restricción para realizar transferencia de llamadas entre radiobases o celdas.
+2. Equipo terminal de cobertura restringida.- Es el equipo terminal inalámbrico con características de portabilidad, el mismo que debe estar activado y habilitado para su funcionamiento dentro de la cobertura de una sola radiobase o celda, la misma que deberá operar dentro de las facilidades y características del servicio local. La ATT establecerá los estándares técnicos para la provisión del servicio local a través de acceso inalámbrico fijo.
+
+## Título III Otorgamiento de licencias
+
+### Capítulo I Autorizaciones y otorgamiento de licencias
+
+**Artículo 25°.- (Formas de otorgamiento de licencias)** 
+
+1. La Licencia Única y la Licencia de Radiodifusión, deberán ser otorgadas por la ATT a través de la suscripción de contratos.
+2. Las Licencias para Redes Privadas, Servicios de Valor Agregado y Provisión de Servicios Satelitales, así como las Habilitaciones Específicas, serán otorgadas por la ATT mediante Resoluciones Administrativas, que contengan la información relevante y uniforme para cada tipo de autorización.
+3. Las Licencias para el Uso de Frecuencias destinadas a servicios de telecomunicaciones al público, serán otorgadas por la ATT según corresponda, por un proceso de licitación pública o de forma directa, mediante Resoluciones Administrativas.
+4. Para propósitos del presente Reglamento, el otorgamiento de licencias de forma directa deberá entenderse como el otorgamiento de una licencia en función de los planes aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda, la disponibilidad de frecuencias y el cumplimiento previo de los requisitos para cada caso.
+
+**Artículo 26°.- (Registro único de licencias)** . La ATT incorporará el Registro Único de Licencias al Sistema de Información Sectorial.
+
+**Artículo 27°.- (Áreas de autorización y de servicio)** 
+
+1. Se establece las siguientes Áreas de Autorización para la provisión de servicios de telecomunicaciones en función del alcance geográfico de la licencia.
+   1. Área de Autorización Nacional – AAN, es aquella que incluye todo el territorio del Estado Plurinacional de Bolivia.
+   2. Área de Autorización Departamental – AAD, es aquella que incluye todo el territorio de un departamento.
+2. Se establece las siguientes Áreas de Servicio:
+   1. Área de Servicio Urbana - ASU: Es el área geográfica que comprende una o más localidades o ciudades, para la provisión de un servicio.
+   2. Área de Servicio Rural - ASR: Es toda área geográfica de un departamento que se encuentra fuera de las Áreas de Servicio Urbano establecidas, para la provisión de un servicio.
+   3. Los operadores y proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación prestarán servicios dentro del ASU y ASR habilitada, dentro de la AAN ó AAD autorizada en sus correspondientes licencias otorgadas por la ATT.
+3. Las áreas de servicio determinadas deberán ser comunes para todos los operadores.
+4. El presente Artículo no se aplicará a las Licencias de Radiodifusión.
+
+**Artículo 28°.- (Trámite y seguimiento)** 
+
+1. La ATT, establecerá los procedimientos administrativos internos para el trámite de otorgamiento de licencias y su seguimiento. Dichos procedimientos serán emitidos con el objeto de asegurar un trato igualitario a todas las solicitudes de licencias, su posterior regulación, fiscalización y control.
+2. Durante el trámite para otorgar licencias, la transferencia o modificación en el control efectivo del solicitante, significará el rechazo de la solicitud y conllevará al inicio de un nuevo trámite por parte del nuevo titular.
+3. Durante el trámite de obtención de una licencia, la información y documentación técnica y económica, que sea presentada por los solicitantes para el otorgamiento de licencias, será considerada por la ATT como confidencial.
+
+**Artículo 29°.- (Titular de la licencia)** 
+
+1. Son titulares de licencias las personas naturales y jurídicas que han solicitado por sí y para sí un título habilitante para la prestación de servicios en telecomunicaciones o para redes privadas dentro del territorio nacional.
+2. En el caso de sociedades comerciales, se considera poseedor del control efectivo a la persona natural o jurídica que tiene el control de las decisiones dentro de la sociedad en el marco de lo establecido por el Código de Comercio.
+3. En el caso de sociedades comunitarias, asociaciones de hecho o cualquier otra forma de asociación legalmente reconocida por el Estado Plurinacional de Bolivia, se presumirá que el control efectivo es ejercido por la totalidad de los socios o miembros.
+4. Para el caso de entidades públicas, empresas públicas estratégicas o sociedades comerciales con participación mayoritaria del Estado Plurinacional de Bolivia, para efectos de representación, el titular de la licencia es la Máxima Autoridad Ejecutiva o el Gerente General, según corresponda.
+5. Si una sociedad comercial mantiene la titularidad de una licencia dentro de una Corporación o Holding, se presumirá que quien posee el control efectivo es la matriz de éstas.
+
+**Artículo 30°.- (Holding)** . A los fines del presente Reglamento, se entenderá por Holding al conjunto de empresas del sector, organizadas en torno a una sociedad controladora o matriz constituida dentro o fuera del territorio nacional, que administra y controla la totalidad o una parte significativa de las cuotas de capital o acciones de una dependiente.
+
+**Artículo 31°.- (Prohibiciones y limitaciones)** 
+
+1. No podrán ser sujetos de otorgamiento de derechos las personas naturales o jurídicas, miembros de juntas o consejos directivos y socios de personas jurídicas a quienes por cualquier causal se les haya revocado la licencia para operar una red y proveer servicios de telecomunicaciones y tecnologías de información y comunicación o revocado la licencia para hacer uso del espectro radioeléctrico. Esta prohibición se aplicará a servicios similares al servicio u operación de la red que fue objeto de la revocatoria y por un periodo de cinco (5) años.
+2. La prohibición establecida por la [Ley Nº 164](#TODO-link) para el otorgamiento de licencias por causal de revocatoria de licencia, no es aplicable cuando la revocatoria de licencia se hubiera producido a petición expresa del operador o proveedor.
+3. Ningún solicitante infractor a la normativa regulatoria podrá adquirir nuevos derechos, renovar, modificar o revocar los vigentes, sin que hayan cesado los actos irregulares que dieron origen al proceso sancionador.
+4. Las licencias o solicitudes en curso para la obtención de licencias no podrán ser transferidas, cedidas o arrendadas, salvo las establecidas en el presente Reglamento; en caso de comprobarse aquello, será causal de revocatoria de la licencia o el rechazo de la solicitud por parte de la ATT.
+5. Los proveedores nacionales o internacionales del servicio de distribución de señales satelitales directas DTH (Direct To Home) que su señal tenga cobertura en el territorio del Estado Plurinacional de Bolivia no podrán prestar este servicio sin contar con el título habilitante correspondiente.
+
+### Capítulo II Obtención de licencias
+
+**Artículo 32°.- (Otorgamiento de licencias)** 
+
+1. Los interesados en obtener una licencia para operar redes y proveer servicios de telecomunicaciones y tecnologías de información y comunicación, deben cumplir con la presentación de los requisitos legales, económicos y técnicos de acuerdo al tipo de servicio solicitado.
+2. En el otorgamiento de licencias para redes privadas y públicas que requieran de la utilización de frecuencias y por consiguiente de la Licencia para el Uso de Frecuencias, podrán ser consideradas en su presentación de manera conjunta, conteniendo la información y requisitos exigidos para ambas licencias, siguiendo su proceso independiente de otorgamiento.
+
+**Artículo 33°.- (Carácter de declaración jurada)** . Toda la documentación presentada ante la ATT para trámites de solicitud(es) de licencia(s), tendrá carácter de declaración jurada.
+
+**Artículo 34°.- (Documentación y procedimiento para solicitud de licencias y habilitaciones específicas)** . Las solicitudes para la obtención de las licencias y habilitaciones específicas, deberán acompañarse de la documentación legal, técnica y económica, según corresponda, determinada mediante Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda, que además establecerá el procedimiento para el otorgamiento.
+
+**Artículo 35°.- (Redes privadas itinerantes)** 
+
+1. Las Licencias para Red Privada de empresas que por su rubro de trabajo en la implementación de proyectos en áreas específicas de operación requieran de frecuentes y significativas modificaciones de ubicación geográfica, podrán solicitar modificaciones de su licencia a la ATT previo cumplimiento de los requisitos establecidos, sin que esto se considere una nueva solicitud de licencia.
+2. Las Redes Privadas mencionadas en el Parágrafo anterior, para beneficiarse de este tipo de modificación de licencia, deberán preservar las características técnicas de los equipos de la red, frecuencias a utilizar, ancho de banda, número de canales, potencias y número de unidades móviles.
+
+**Artículo 36°.- (Exención de pago de tasas y derechos)** . En los casos establecidos en la [Ley Nº 164](#TODO-link), las solicitudes de exención de pagos por Derechos de Asignación y Uso de Frecuencias, así como la Tasa de Fiscalización y Regulación, serán presentadas a la ATT para su correspondiente evaluación de cumplimiento de los aspectos legales y técnicos establecidos para el otorgamiento de la licencia, a fin de remitir al Ministerio de Obras Públicas, Servicios y Vivienda, la solicitud con los informes técnico y legal para la respectiva autorización, mediante Resolución Ministerial, que instruya la exención del pago de Tasas y Derechos respectivos, si corresponde.
+
+### Capítulo III Licencia única, habilitación específica y licencia para uso de frecuencia
+
+**Artículo 37°.- (Licencia única)** 
+
+1. La ATT, otorgará Licencia Única para la operación de redes o la prestación de servicios de telecomunicaciones y tecnologías de información y comunicación, con alcance departamental o nacional, a través de la suscripción de un contrato, previo cumplimiento de los requisitos legales, económicos y técnicos y el procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+2. El interesado a tiempo de solicitar la Licencia Única, deberá requerir mínimamente la habilitación de un servicio a través de una habilitación específica.
+3. Los operadores de redes públicas de telecomunicaciones y tecnologías de información y comunicación que requieran para su operación el uso de frecuencias, deberán solicitar la Licencia para el Uso de Frecuencias.
+
+**Artículo 38°.- (Habilitación específica)** 
+
+1. A solicitud expresa de los operadores y proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación, la ATT mediante Resolución Administrativa, podrá habilitar un servicio que no hubiera sido implementado al momento del otorgamiento de la Licencia Única.
+2. Las licencias para los servicios, que requieran el uso de frecuencia deberán sujetarse a los Planes de Asignación de Frecuencias que serán emitidos por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 39°.- (Licencia para el uso de frecuencias)** . La ATT otorgará Licencias para el Uso de Frecuencias radioeléctricas a los operadores o proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación, radiodifusión y redes privadas, siempre y cuando cumplan con lo establecido en el Plan Nacional de Frecuencias, exista disponibilidad y sea de acuerdo a las formas de otorgamiento definidas en el presente Reglamento.
+
+**Artículo 40°.- (Procedimiento de otorgamiento de licencias para el uso de frecuencias)** 
+
+1. El otorgamiento de Licencias para el Uso de Frecuencias destinadas a los servicios de telecomunicaciones al público, se realizará a través de licitación pública o de forma directa y se sujetará al procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+2. Las Licencias para el Uso de Frecuencias destinadas a los servicios de radiodifusión, se otorgarán sujetándose al procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial, de la siguiente manera:
+   1. De forma directa para el Estado,
+   2. Por Concurso de proyectos para el sector social comunitario y pueblos indígena originario campesinos y comunidades interculturales y afrobolivianas,
+   3. Por Licitación pública para el sector comercial.
+3. Las Licencias para el Uso de Frecuencias destinadas a redes privadas, se otorgarán de forma directa y se sujetarán al procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+
+**Artículo 41°.- (Uso de frecuencia con carácter experimental)** 
+
+1. Para promover la investigación y el desarrollo de las telecomunicaciones a través del uso de nuevas tecnologías, la ATT podrá otorgar Licencias de Uso de Frecuencia con carácter experimental por un plazo de hasta seis (6) meses no renovables, para experimentos en el espectro radioeléctrico consistentes con normas internacionales, siempre y cuando estos experimentos estén en el marco de la normativa vigente, sirvan al interés público y no causen interferencia perjudicial.
+2. Los solicitantes deberán cumplir con la presentación de los requisitos legales y técnicos exigidos por la ATT según aplique en cada caso y de acuerdo a instructivos elaborados por la ATT.
+3. La ATT, fijará el pago de duodécimas acordes al plazo por los derechos de asignación y uso de frecuencias (DAF y DUF) para el otorgamiento de licencias experimentales.
+
+**Artículo 42°.- (Uso de frecuencia de carácter excepcional)** 
+
+1. Las delegaciones diplomáticas podrán acceder a una autorización de uso de frecuencias con carácter excepcional por un plazo no mayor a un mes, en caso de visitas oficiales, comunicadas a la ATT por el Ministerio de Relaciones Exteriores, en el marco de los convenios internacionales.
+2. En casos de emergencia declarada, en coordinación con el Sistema Nacional de Reducción de Riesgos y Atención de Desastres y Emergencias – SISRADE, la ATT podrá otorgar Licencias para el Uso de Frecuencia sin costo, por un plazo no mayor a tres meses, pudiendo ampliarse dicho plazo en caso de continuar el periodo de la emergencia.
+3. Previa autorización de la ATT, los operadores con Licencia para el Uso de Frecuencias podrán realizar nuevos emplazamientos de radio bases u otra infraestructura por un periodo limitado y establecido en la autorización para la provisión de servicios de telecomunicaciones al público, en sitios específicos donde se realicen eventos de carácter público.
+
+**Artículo 43°.- (Prohibición de uso de frecuencias sin licencia)** . Ninguna persona natural o jurídica dentro del territorio nacional del Estado Plurinacional de Bolivia podrá hacer uso de frecuencias radioeléctricas establecidas en el PNF, sin contar previamente con la licencia correspondiente emitida por la ATT, salvo frecuencias de uso libre establecidas en dicho plan.
+
+### Capítulo IV Licencia de red privada y la actividad de radioaficionados
+
+**Artículo 44°.- (Licencia de red privada)** 
+
+1. La ATT, otorgará Licencia para Redes Privadas, para la operación de redes de telecomunicaciones y tecnologías de información y comunicación que se extiendan fuera del predio del propietario de la misma y a radioaficionados, a través de Resolución Administrativa, previo cumplimiento de los requisitos legales y técnicos establecidos por el Ministerio de Obras Públicas, Servicios y Vivienda.
+2. Los operadores de redes privadas de telecomunicaciones y tecnologías de información y comunicación que requieran para su operación el uso de frecuencias radioeléctricas, deberán contar adicionalmente y de manera previa con la Licencia para el Uso de Frecuencias respectiva.
+
+**Artículo 45°.- (Actividad de radioaficionados)** . Las bandas y frecuencias asignadas en el PNF para la actividad de radioaficionados, podrán ser utilizadas siempre y cuando se cuente con la debida Licencia de Radioaficionado. Estas bandas y frecuencias no podrán ser asignadas al uso exclusivo de ninguna persona individual ni colectiva.
+
+**Artículo 46°.- (Obligaciones y responsabilidades)** 
+
+1. Los radioaficionados, en función a los fines de servicio a la comunidad, no podrán tener finalidad comercial ni dar lugar a beneficios económicos, debiendo atender los requerimientos de colaboración.
+2. Los radioaficionados serán responsables de adoptar las precauciones técnicas y de seguridad para evitar interferencias y perturbaciones en los otros servicios de telecomunicaciones, haciéndose pasibles a las sanciones establecidas en el Reglamento de Infracciones y Sanciones, en caso de presentarse éstas.
+3. Los radioaficionados quedan terminantemente prohibidos de interconectar sus equipos a las redes públicas con fines de lucro.
+
+**Artículo 47°.- (Control)** . La ATT, controlará que las emisiones de las estaciones de los radioaficionados cumplan el estándar técnico establecido para el efecto.
+
+### Capítulo V Licencia para servicios de valor agregado
+
+**Artículo 48°.- (Servicios de valor agregado)** 
+
+1. La ATT regulará el funcionamiento, el otorgamiento de licencia, los términos y condiciones de la prestación del servicio; así como el pago de la Tasa de Fiscalización y Regulación de los servicios de valor agregado.
+2. Los operadores o proveedores de redes públicas con Licencia Única, legalmente constituidos en el Estado Plurinacional de Bolivia, podrán prestar servicios de valor agregado directamente, sin requerir de una Licencia para Servicios de Valor Agregado, para lo cual deberán solicitar a la ATT la habilitación correspondiente.
+
+**Artículo 49°.- (Prestación de servicios)** 
+
+1. Los operadores o proveedores que presten Servicios de Valor Agregado, deberán llevar una contabilidad de acuerdo al sistema de información contable de la ATT.
+2. Los operadores de redes públicas y proveedores de servicios al público están obligados a exigir la presentación de la Licencia para Servicios de Valor Agregado o de la Licencia Única, según corresponda, a proveedores de este servicio, de manera previa a la asignación de una línea o circuito en alquiler o cualquier otra facilidad de acceso a la red.
+
+**Artículo 50°.- (Habilitación y deshabilitación)** 
+
+1. Los operadores o proveedores de servicios de valor agregado, deberán facilitar a sus usuarias o usuarios la habilitación y deshabilitación de los servicios que prestan en las mismas condiciones.
+2. Los operadores o proveedores de Servicios de Valor Agregado, previo a la suscripción de una usuaria o usuario a cualquiera de los servicios ofertados, tienen la obligación de comunicar al suscriptor sobre el servicio al que accederá, forma de pago y forma de finalización de la suscripción. Si la suscripción implica la prestación continua de un servicio, el operador o proveedor deberá solicitar la aceptación expresa de la usuaria o usuario indicando el plazo, costo de la suscripción y mecanismos de reclamación.
+
+**Artículo 51°.- (Suspensión de servicios)** 
+
+1. La ATT, previo informe técnico y legal, podrá ordenar suspender la prestación de los servicios de valor agregado en los siguientes casos:
+   1. Cuando se demuestre que su operación está causando daño al correcto funcionamiento de la red de telecomunicaciones que lo soporta
+   2. Cuando el servicio atente contra las usuarias o usuarios.
+   3. Cuando se trate de operaciones o aplicaciones fuera del alcance de sus licencias.
+2. Dicha suspensión se mantendrá, hasta que se acredite que el operador ha resuelto satisfactoriamente la causa que lo originó.
+
+### Capítulo VI Licencia para la provisión del servicio satelital
+
+**Artículo 52°.- (Espectro radioeléctrico asociado a redes satelitales)** . La ATT, asignará, controlará, fiscalizará, supervisará y administrará el espectro radioeléctrico asociado a redes satelitales en el ámbito geográfico del Estado Plurinacional de Bolivia, de acuerdo a las políticas del Ministerio de Obras Públicas, Servicios y Vivienda y por las disposiciones contenidas en el presente Reglamento, así como las recomendaciones internacionales.
+
+**Artículo 53°.- (Servicio satelital)** 
+
+1. Se entenderá como servicios satelitales los siguientes:
+   1. Servicio de Estación Espacial
+   2. Servicio de Estación Terrena
+   3. Radioenlaces Satelitales
+2. Se requerirá de una sola Licencia para la Provisión del Servicio Satelital de estación terrena y radioenlaces satelitales.
+
+**Artículo 54°.- (Registro de estaciones terrenas)** 
+
+1. Los operadores o proveedores de servicios de telecomunicaciones al público, deberán registrar sus estaciones terrenas receptoras ante la ATT para contar con protección contra interferencias en las bandas de frecuencias establecidas.
+2. Las estaciones terrenas que no brinden servicios al público y sean utilizadas por parte de usuarias o usuarios finales en la recepción de señales satelitales sin codificación sean nacionales o extranjeras no requieren ser registradas.
+
+**Artículo 55°.- (Requisitos de estaciones terrenas receptoras)** 
+
+1. El Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial definirá los requisitos para el registro de estaciones terrenas receptoras.
+2. La ATT consignará dentro del Registro de Estaciones Terrenas Receptoras, a los operadores o proveedores de servicios al público que cumplan con los requisitos exigidos.
+
+### Capítulo VII Licencia de radiodifusión
+
+**Artículo 56°.- (Licencia de radiodifusión)** . La ATT, mediante la suscripción de contratos, otorgará Licencias de Radiodifusión para la operación de redes y provisión de servicios de radio y televisión con alcance local, departamental o nacional, de acuerdo a las áreas de servicio de radiodifusión.
+
+**Artículo 57°.- (Redes de radiodifusión)** 
+
+1. Los proveedores de servicios de radiodifusión sonora y televisiva, podrán establecer redes comunicacionales o informativas con alcance local, departamental y nacional, con otras emisoras y canales de televisión, sin que ello implique la conformación de monopolios u oligopolios.
+2. Los enlaces y repetidoras destinados a la conformación de redes de radiodifusión o la expansión del área de cobertura, deberán contar con las Licencias para el Uso de Frecuencias correspondientes, conforme a lo dispuesto en el presente Reglamento.
+
+**Artículo 58°.- (Uso de frecuencias para radiodifusión)** . La solicitud de Licencia para Radiodifusión, requiere la obtención de la correspondiente Licencia para el Uso de Frecuencias, la misma que se sujetará al procedimiento establecido por el Ministerio de Obras Pública, Servicios y Vivienda, mediante Resolución Ministerial.
+
+**Artículo 59°.- (Proyectos del sector social comunitario y pueblos indígena originario campesinos y comunidades interculturales y afrobolivianas)** . Los proyectos a ser presentados por el Sector Social Comunitario y Pueblos Indígena Originario Campesinos y Comunidades Interculturales y Afrobolivianas, deberán contener los aspectos establecidos en la Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 60°.- (Evaluación de proyectos)** 
+
+1. La ATT conformará una Comisión Multidisciplinaria para la evaluación y calificación de Proyectos de acuerdo a las características de la convocatoria, la calificación se realizará en base a los indicadores y ponderaciones, establecidos por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+2. El ejercicio de la participación y control social se regirá por la Constitución Política del Estado, la [Ley Nº 164](#TODO-link) y la Ley vinculada a su ejercicio.
+
+**Artículo 61°.- (Obligaciones)** . En caso de que la ATT establezca que los solicitantes de Licencias de Radiodifusión, sean personas naturales o jurídicas dueñas, accionistas o socios mayoritarios, que no tienen relacionamiento directo con las comunicaciones y la información, deberá incluirse en los contratos de licencia de forma expresa que dichos operadores o proveedores garantizan el cumplimiento de los principios establecidos en el Artículo 21 Numerales 2, 3, 5 y 6, así como los Artículos 106 y 107 de la Constitución Política del Estado, cuyo incumplimiento será causal de revocatoria de la licencia.
+
+**Artículo 62°.- (Tiempo y potencia al inicio de operaciones)** . Para asegurar el eficiente uso del espectro de frecuencias destinadas a radiodifusión, la ATT podrá requerir un uso mínimo del espectro autorizado en términos de tiempo de emisión o potencia de las señales, al inicio de operaciones o en el plazo previo a la utilización plena del recurso otorgado.
+
+**Artículo 63°.- (Incorporación a la grilla del servicio de distribución de señales)** 
+
+1. La programación emitida por los canales de la Empresa Estatal de Televisión - BOLIVIA TV, así como los canales de la Red Universitaria Boliviana de Información – RED RUBI en su correspondiente área de servicio, serán incorporados por los operadores del servicio de distribución de señales en su grilla de canales del área de su licencia para proceder con la retransmisión de la programación de manera ininterrumpida, salvo los casos de imposibilidad sobrevenida o solicitud expresa de BOLIVIA TV y RED RUBI.
+2. No existirá ninguna contraprestación para las partes por la incorporación de los canales de BOLIVIA TV y la RED RUBI a la grilla de los servicios de distribución de señales.
+3. Los canales nacionales del servicio de radiodifusión de televisión, serán dispuestos en un solo bloque de la grilla de canales del servicio de distribución de señales, en el mismo orden al observado en el servicio de radiodifusión de televisión abierta en cada área de servicio, salvo imposibilidad técnica verificada por la ATT.
+
+**Artículo 64°.- (Derechos de transmisión)** 
+
+1. Los proveedores de los servicios de radiodifusión deberán ser legítimos titulares o contar con la autorización expresa de los legítimos titulares o distribuidores, de los derechos de emisión, transmisión, retransmisión, difusión o promoción de películas, novelas, series, miniseries, eventos y demás programas, cualquiera sea su naturaleza.
+2. Los proveedores de los servicios de distribución de señales que retransmitan en el país las señales de canales nacionales o extranjeros, deberán contar con la autorización expresa de los legítimos titulares o distribuidores de los derechos de emisión correspondientes.
+3. Para la retransmisión en el territorio boliviano de programas o eventos especiales, el proveedor de los servicios de radiodifusión o distribución de señales debe acreditar que cuenta con los respectivos derechos de emisión o, caso contrario, abstenerse de promocionar y retransmitir aquellos programas para los que no cuente con los derechos de emisión correspondientes.
+4. El incumplimiento a lo señalado en el presente Artículo, dará lugar al proceso administrativo sancionatorio correspondiente llevado a cabo por la ATT, sin perjuicio de las responsabilidades y determinaciones que pudieran establecerse en sede judicial u otras instancias.
+
+### Capítulo VIII Licencias para el área rural
+
+**Artículo 65°.- (Determinación del área de servicio RURAL)** . La ATT presentará periódicamente al Ministerio de Obras Públicas, Servicios y Vivienda para su aprobación, la lista de localidades consideradas dentro del Área de Servicio Rural, en función a datos de población provistos por el Instituto Nacional de Estadística (INE) y otros indicadores socioeconómicos.
+
+**Artículo 66°.- (Requisitos y procedimientos para otorgar licencias en áreas rurales)** 
+
+1. La ATT otorgará en forma directa, licencias para la operación de redes y la provisión de servicios de telecomunicaciones y tecnologías de información y comunicación en áreas rurales, para cubrir estas localidades en función de los planes emitidos por el Ministerio de Obras Públicas, Servicios y Vivienda y la disponibilidad de frecuencias cuando estas sean requeridas.
+2. Las licencias que se otorgarán son las siguientes:
+   1. Licencia Única y Habilitación Específica, para la operación de redes y la provisión de servicios de telecomunicaciones y tecnologías de información y comunicación al público.
+   2. Licencia para el Uso de Frecuencias.
+3. Las solicitudes que reciba la ATT para otorgar una Licencia Única o Habilitación Específica para áreas rurales, deberán cumplir con los mismos requisitos de solicitud y ser procesadas con los mismos procedimientos de asignación directa, según corresponda, de Licencia Única o Habilitación Específica, establecidos por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+
+**Artículo 67°.- (Medios de atención al público en áreas rurales)** 
+
+1. El operador o proveedor en forma directa o a través de terceros, debe velar porque las usuarias y usuarios en el área rural puedan acceder a facilidades para la solicitud de servicios, reclamos, compra de tarjetas prepago u otros beneficios, en las mismas condiciones establecidas para cada tipo de servicio y producto ofrecido.
+2. Las solicitudes de servicios, reclamos, consultas podrán realizarse a través de líneas telefónicas gratuitas, correo electrónico u otros medios hechos públicos por el operador o proveedor.
+3. La ATT emitirá los instructivos necesarios para determinar los parámetros mínimos para el cumplimiento de esta disposición.
+
+### Capítulo IX Licencias otorgadas de forma directa
+
+**Artículo 68°.- (Procedimiento para otorgar licencias de forma directa)** . La ATT otorgará licencias de forma directa de acuerdo al procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial, en los siguientes casos:
+
+1. Para la operación de redes públicas y provisión de servicios de telecomunicaciones y tecnologías de información y comunicación, así como para el uso de frecuencias, a las empresas públicas estratégicas definidas por el nivel central del Estado en el sector de telecomunicaciones y tecnologías de información y comunicación y las empresas de telecomunicaciones con participación estatal mayoritaria
+2. Para la operación de redes públicas y provisión de servicios de telecomunicaciones y tecnologías de información y comunicación, así como para el uso de frecuencias en el área rural.
+3. Para la asignación de frecuencias a los servicios destinados a la seguridad y defensa del Estado.
+4. Para redes privadas y radio enlaces requeridos para redes en funcionamiento.
+5. Para los servicios de radiodifusión del Estado, de acuerdo al presente Reglamento.
+
+**Artículo 69°.- (Pagos)** 
+
+1. Las empresas públicas estratégicas definidas por el nivel central del Estado en el sector de telecomunicaciones o tecnologías de información y comunicación y las empresas de telecomunicaciones con participación estatal mayoritaria, realizarán el pago del monto por derecho de asignación de frecuencia (DAF) de acuerdo al cálculo realizado por la ATT en función a criterios técnicos económicos y de acuerdo a la normativa vigente.
+2. Los pagos por Derecho de Uso de Frecuencia (DUF), Tasa de Fiscalización y Regulación y los aportes para el Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS se realizarán de acuerdo a lo establecido en el presente Reglamento.
+
+### Capítulo X Condiciones aplicables a los titulares de licencias
+
+**Artículo 70°.- (Prohibiciones)** . Queda prohibida la instalación, puesta en funcionamiento, utilización y operación de redes públicas o privadas de telecomunicaciones y tecnologías de información y comunicación sin contar con la licencia correspondiente o fuera de los parámetros autorizados por la ATT.
+
+**Artículo 71°.- (Comunicación de inicio de actividades para redes públicas)** 
+
+1. A partir del otorgamiento de una licencia y dentro del plazo legalmente establecido, el titular deberá comunicar a la ATT la fecha de inicio de operaciones con una antelación de al menos diez (10) días, para programar una inspección administrativa.
+2. Para el inicio de operaciones de operadores que cuenten con una Licencia de Radiodifusión, la ATT emitirá el Certificado de Inicio de Operaciones, respaldado en la inspección administrativa que certifique que las emisiones cumplen estrictamente los parámetros del estándar técnico vinculado a la licencia y otros que la ATT considere necesarias.
+3. Cuando los operadores o proveedores de servicios se apresten a iniciar operaciones de redes específicas para los servicios habilitados, en áreas donde antes no se proveían los mismos, deberán comunicar el inicio de operaciones comerciales con una antelación mínima de cinco (5) días a la ATT, para que se considere dada de alta la red en dicha área, de acuerdo a los instructivos elaborados por la ATT.
+4. Los proveedores de servicios de telecomunicaciones por medios inalámbricos, deberán comunicar el inicio de operaciones de nuevas estaciones fijas con una antelación mínima de cinco (5) días a la ATT, de acuerdo a los instructivos elaborados por la ATT.
+5. El incumplimiento del presente Artículo dará lugar a considerar la actividad como fuera del alcance de su licencia y será sujeta a sanción.
+
+**Artículo 72°.- (Cese o interrupción de operaciones)** 
+
+1. Los operadores y proveedores de servicios de telecomunicaciones al público así como los servicios de radiodifusión deberán comunicar por escrito de manera fundamentada a la ATT el cese o la interrupción de operaciones.
+2. La ATT incluirá en los contratos de licencia que el cese o la interrupción de operaciones de servicios de telecomunicaciones al público así como de los servicios de radiodifusión que excedan los seis (6) meses, será pasible a la revocatoria de su licencia.
+
+**Artículo 73°.- (Construcción de instalaciones)** 
+
+1. El titular de una licencia debe construir y mantener sus instalaciones directamente relacionadas a la operación de la red y provisión del servicio observando los estándares técnicos de calidad definidos por la ATT de acuerdo al tipo de servicio, cuyo incumplimiento dará lugar a las sanciones aplicables.
+2. Los interesados, bajo su responsabilidad, deberán obtener de las autoridades competentes los permisos necesarios, incluidos aquellos de construcción, ambientales y otros no vinculados directamente al sector de telecomunicaciones, de conformidad con las normas y reglamentos pertinentes.
+
+**Artículo 74°.- (Regulaciones de campos electromagnéticos)** . La ATT emitirá estándares técnicos sobre los límites de exposición a campos electromagnéticos de radiofrecuencia. Los titulares de licencias serán responsables de asegurar que el uso de sus equipos e instalaciones vinculadas a sus licencias no excedan el límite de generación de campos electromagnéticos de radiofrecuencia.
+
+**Artículo 75°.- (Inspecciones)** 
+
+1. La ATT podrá inspeccionar, sin previo aviso, cualquier instalación o equipo del titular de una licencia durante las horas laborales, y con un aviso de por lo menos seis (6) horas para los días no laborales. Estas inspecciones serán ejecutadas por la ATT tomando las previsiones necesarias para evitar daño a la red o la provisión de servicios.
+2. Los titulares de licencias deberán mantener en todo momento una copia de su licencia y presentarla a los personeros de la ATT, de ser ésta solicitada. Asimismo, deberán poner a disposición de los personeros de la ATT de forma inmediata, toda información y documentación requerida.
+
+**Artículo 76°.- (Modificación de licencia)** 
+
+1. La ATT podrá modificar las licencias, sin afectar los servicios que se presten al público, en cumplimiento a disposiciones del Órgano Ejecutivo que modifiquen el Plan Nacional de Frecuencias y en los casos establecidos en la [Ley Nº 164](#TODO-link). Al implementar dichas modificaciones, la ATT establecerá un periodo razonable de adecuación. En estos casos no existirá ningún tipo de pago compensatorio ni indemnización alguna.
+2. El titular de una licencia, podrá solicitar a la ATT la modificación no sustancial de las condiciones de la licencia, de acuerdo a los requisitos especificados por el ente regulador.
+3. Las modificaciones importantes con relación al servicio provisto, área de cobertura, frecuencias utilizadas fuera del ancho de banda asignado o traslado de estaciones de transmisión fuera del área de servicio autorizado, serán consideradas como un cambio sustancial y en consecuencia, deberá encaminarse como una nueva solicitud de licencia.
+4. La ATT atenderá de manera parcial o total las modificaciones solicitadas, estableciendo las condiciones técnicas y económicas necesarias.
+
+**Artículo 77°.- (Renovación de licencias)** 
+
+1. La intención de renovación para las licencias de operación de Redes Públicas y licencias de Radiodifusión deberán ser presentadas a la ATT al menos con un (1) año de anticipación a la fecha de vencimiento de la licencia; si la intención no fuera presentada o estuviera fuera del plazo señalado en el presente Parágrafo, la licencia no será renovada.
+2. Las intenciones de renovación de licencia, deberán ser acompañadas de la documentación legal y técnica establecida en la respectiva Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda, para el otorgamiento de la correspondiente licencia a ser renovada.
+3. En el caso que existan cargos pendientes no impugnados, la ATT no aceptará la solicitud hasta que las mismas sean subsanadas en un plazo máximo de quince (15) días.
+4. La determinación de renovación o no, deberá ser comunicada por la ATT en un plazo máximo de noventa (90) días de recibida la solicitud.
+5. En el caso de renovación los operadores o proveedores deberán realizar los pagos de DAF y DUF, de acuerdo a lo establecido en el presente Reglamento, para el nuevo periodo de la licencia.
+
+**Artículo 78°.- (Transferencia al nuevo operador)** 
+
+1. Al vencimiento, caducidad, terminación o revocatoria de una licencia o contrato, la ATT mediante Resolución Administrativa motivada, determinará el inicio del proceso de transferencia para garantizar la continuidad de los servicios, en base a los Planes aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda, de acuerdo a lo siguiente:
+   1. La ATT designará un interventor en tanto se perfeccione la transferencia al nuevo operador. Dicho interventor, estará a cargo de efectuar un avalúo sobre el valor de instalaciones, equipos y obras del operador cesante.
+   2. La ATT, convocará a licitación pública a objeto de otorgar los títulos habilitantes correspondientes al nuevo titular, además de la transferencia de todas las instalaciones, equipos y obras del operador cesante.
+   3. El precio base de la licitación pública considerará el valor en libros o el monto determinado a través del avalúo, el que fuere menor y los costos relacionados al otorgamiento de los títulos habilitantes respectivos.
+2. El monto de la licitación será cancelado de la siguiente manera:
+   1. Los importes relativos a la asignación de los títulos habilitantes serán cancelados por el nuevo operador a la ATT.
+   2. Los montos relativos a las instalaciones, equipos y obras del operador cesante, serán cancelados a éste por el nuevo operador, pagando el valor en libros o el monto determinado a través del avalúo, el que fuere menor, deduciendo los gastos incurridos en el proceso de licitación, multas y otros pagos pendientes, importes que serán pagados por el nuevo operador a la ATT.
+   3. En el contrato suscrito entre la ATT y el nuevo operador deberá constar que éste cumplió con las referidas obligaciones, tanto con la ATT como con el operador cesante.
+3. Dispuesta la transferencia de la licencia a un otro operador, la ATT otorgará el derecho al uso de la frecuencia y, en caso de licencias que no tengan por objeto el uso de una frecuencia radioeléctrica, los derechos para prestar el servicio, con más las instalaciones, equipos y obras directamente relacionadas a la operación de la red y provisión del servicio.
+4. Las disposiciones contenidas en el presente Artículo no se aplican a los servicios de radiodifusión ni redes privadas.
+
+**Artículo 79°.- (Autorización de transferencias)** . En caso que el titular de una Licencia de redes públicas o privadas que solicite la autorización para la cesión, transferencia o cualquier acto de disposición sobre la misma, deberá presentar la documentación y regirse al procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+
+**Artículo 80°.- (Revocatoria de licencias)** 
+
+1. La ATT podrá revocar las licencias por las causales establecidas en la [Ley Nº 164](#TODO-link), bajo el siguiente procedimiento:
+   1. La ATT, verificada la existencia de una causal de revocatoria, intimará el cumplimiento de la obligación, fijando un plazo razonable al efecto. La notificación de la intimación tendrá el efecto del traslado de cargos.
+   2. La ATT dispondrá la conclusión del procedimiento y el archivo de las actuaciones si el operador o proveedor regulado acepta la intimación mediante el cumplimiento de la obligación dentro del plazo fijado al efecto, caso contrario, proseguirá el trámite de conformidad al procedimiento de investigación a denuncia o de oficio establecido en el [Decreto Supremo Nº 27172](#TODO-link) de 15 de septiembre de 2002.
+2. La aceptación de la intimación, mediante el cumplimiento de la obligación, no impedirá el inicio de un proceso sancionador para la imposición de otras sanciones que podrían corresponder.
+
+**Artículo 81°.- (Licencias en una misma área de servicio)** 
+
+1. Con el fin de evitar monopolios u oligopolios, ninguna persona natural o jurídica, por sí o por interpuesta persona, podrá obtener Licencia de Radiodifusión para más de una estación en una misma área de servicio, de acuerdo a lo siguiente:
+   1. En radiodifusión sonora en una misma banda de frecuencias.
+   2. En radiodifusión de televisión analógica.
+   3. En radiodifusión de televisión digital.
+2. Estas restricciones son aplicables a los accionistas, asociados, miembros de las personas jurídicas que cuentan con licencia para tales servicios.
+
+**Artículo 82°.- (Garantía de cumplimiento de contrato)** 
+
+1. La ATT, con carácter previo a la firma de contratos para el otorgamiento de licencias, deberá exigir al solicitante, para cada servicio autorizado y por separado o de manera opcional para todos los servicios, la presentación de una boleta de garantía por el siete por ciento (7%) del valor de los ingresos anuales proyectados para el primer año, con validez de un (1) año a partir del inicio de actividades señalado en el cronograma de ejecución del proyecto.
+2. La boleta de garantía deberá ser renovada para cada gestión por el cinco por ciento (5%) del valor de los ingresos anuales brutos de la gestión anterior declarados en sus Estados Financieros y presentados ante el Servicio de Impuestos Nacionales por el plazo efectivo de su licencia.
+3. El Contrato establecerá las causales de ejecución de dichas garantías.
+
+### Capítulo XI Intervención a operadores o proveedores
+
+**Artículo 83°.- (Procedimiento de intervención)** 
+
+1. A fin de garantizar la continuidad de los servicios, la ATT dispondrá la intervención preventiva de un operador o proveedor de servicios de telecomunicaciones al público, excepto para servicios de valor agregado y radiodifusión, en los siguientes casos:
+   1. Si considera que un operador o proveedor de servicios de telecomunicaciones al público, ha puesto en riesgo la continuidad de la provisión de un servicio público, ya sea por irregularidades en las operaciones o por situación de iliquidez que conlleve alta probabilidad de suspensión de pagos u otra acción que pueda ocasionar la interrupción en la prestación de los servicios, debiendo la ATT notificar al operador con dicha determinación.
+   2. Por declaración de revocatoria y terminación de los contratos suscritos con la ex Superintendencia de Telecomunicaciones o la ATT, mientras se proceda a otorgar las correspondientes licencias a favor de un nuevo operador, debiendo la ATT notificar al operador con esta determinación.
+2. Mediante Resolución Administrativa debidamente fundamentada y notificada al operador o proveedor, la ATT designará un interventor técnicamente calificado que supervise, administre y opere la entidad intervenida, por el plazo de noventa (90) días, quien a partir de ese momento ejercerá sus funciones hasta que concluya el periodo de Intervención.
+3. El interventor, en caso de requerir mayor plazo para el cumplimiento de su objetivo, podrá solicitar, mediante informe debidamente fundamentado, la prórroga de la intervención por un (1) periodo similar. La ATT elaborará el informe correspondiente al Ministerio de Obras Públicas, Servicios y Vivienda, recomendando la prórroga o conclusión de esta medida.
+
+**Artículo 84°.- (Del interventor)** 
+
+1. El interventor deberá contar con título profesional, con conocimiento del sector, y podrá ser o no servidor público de la ATT. La fuente y remuneración del interventor será establecida por la ATT.
+2. El interventor designado tendrá las siguientes atribuciones:
+   1. Asumir la representación legal del operador o proveedor intervenido
+   2. Tener la potestad de tomar las acciones necesarias a fin de asegurar la continuidad del servicio, siendo responsable de sus decisiones y acciones.
+   3. Disponer la suspensión de los Directores y Síndicos hasta que sean designados por las instancias correspondientes, y a los administradores y gerentes de la entidad.
+   4. Realizar todos los actos necesarios para cuidar el patrimonio de la entidad, incluyendo su valuación.
+   5. Rendir cuenta a la ATT sobre su gestión a través de informes mensuales o extraordinarios cuantas veces le sea requerido.
+   6. Requerir el auxilio de la fuerza pública para el cumplimiento de sus funciones si lo precisa.
+   7. Otras atribuciones que considere necesaria la ATT para el adecuado ejercicio de la intervención.
+3. Con anterioridad al vencimiento del plazo de la intervención, el interventor deberá elevar un informe sobre la situación de la entidad intervenida, recomendando las medidas que el Operador o Proveedor intervenido deba adoptar o si corresponde la declaratoria de revocatoria de la licencia. Las medidas recomendadas comprenderán un plan para regularizar y normalizar la situación de la entidad intervenida.
+
+**Artículo 85°.- (Conclusión de la intervención)** . Para el caso de Intervención preventiva, siempre que el informe del interventor establezca que el operador o proveedor intervenido se encuentre en condiciones de cumplir con las medidas dispuestas por la ATT, se emitirá la Resolución Administrativa que autorice la reanudación de operaciones por parte de los titulares del operador o proveedor intervenido. Caso contrario, se determinará la revocatoria de la licencia y terminación del contrato de acuerdo a la normativa vigente.
+
+**Artículo 86°.- (Intervención por revocatoria)** 
+
+1. En caso de designar un interventor como efecto de una Declaratoria de Revocatoria, éste deberá centrar sus actividades en el objetivo de la intervención administrativa que es la transferencia al nuevo operador.
+2. Durante el plazo de la Intervención, la ATT dispondrá del proceso para otorgar las correspondientes licencias a favor de un nuevo operador, para que se efectivice la transferencia a la conclusión del periodo de Intervención de acuerdo con la normativa vigente.
+
+## Título IV Acceso a internet y servicios públicos sobre internet
+
+### Capítulo I Servicio de acceso a internet
+
+**Artículo 87°.- (Provisión del Servicio de Acceso a Internet)** . Los proveedores del Servicio de Acceso a Internet – ISP, deben obtener la Licencia Única para la provisión de servicios públicos de telecomunicaciones y tecnologías de información y comunicación o de Habilitación Específica según corresponda, para proveer el servicio, el mismo que está sujeto a las condiciones establecidas en el presente Reglamento.
+
+**Artículo 88°.- (Términos y condiciones del Servicio de Acceso a Internet)** 
+
+1. El proveedor del Servicio de Acceso a Internet debe cumplir con los términos y condiciones que las usuarias o usuarios han contratado, siendo responsabilidad de los operadores o proveedores informar oportunamente a las usuarias y usuarios respecto de las características del servicio.
+2. La ATT establecerá el estándar de calidad que contenga mínimamente los parámetros o indicadores de calidad a que debe regirse el servicio, teniendo en consideración las particularidades del mismo tanto entre proveedores a usuarias y usuarios, así como a otros ISP.
+
+### Capítulo II Servicio de voz sobre internet
+
+**Artículo 89°.- (Servicio de Voz sobre Internet)** 
+
+1. El Servicio de Voz sobre Internet permite la prestación de comunicaciones de voz sobre la red internet desde o hacia la red pública telefónica o de otro servicio público de telecomunicaciones, no incluye aquellos servicios que se provean íntegramente sobre la red internet y que no permitan recibir comunicaciones desde las redes públicas o efectuar llamadas hacia las mismas.
+2. La usuaria o usuario del servicio público de voz sobre Internet tendrá cobertura en todo el territorio boliviano pudiendo acceder al servicio desde cualquier ubicación que cuente con el servicio de acceso a Internet en cada comunicación. El Plan Fundamental de Numeración consignará una numeración específica para el servicio público de voz sobre Internet que tendrá la característica de ser números no geográficos de alcance nacional.
+3. La instalación, operación y explotación del servicio Público de Voz sobre Internet, requerirá de una Licencia Única para la provisión de servicios públicos de telecomunicaciones y tecnologías de información y comunicación o de Habilitación Específica según corresponda.
+4. La prestación del servicio público de voz sobre internet en cibercafés, telecentros, centros de llamadas o similares deben realizarse mediante cabinas telefónicas controladas por tiempo a través de un operador de voz sobre internet legalmente establecido y según lo dispuesto en los instructivos emitidos por la ATT.
+
+**Artículo 90°.- (Condiciones del servicio)** 
+
+1. Los proveedores del Servicio de Voz sobre internet deben informar a las usuarias y usuarios las condiciones mínimas del Servicio de Acceso a Internet que deben tener contratado para acceder al Servicio Público de Voz sobre Internet en las condiciones de oportunidad y calidad ofrecidas y contratadas.
+2. Los operadores o proveedores de este servicio no deben discriminar en la calidad de las comunicaciones que se realicen con usuarias y usuarios de la red pública telefónica, respecto de la que proveen para las comunicaciones entre sus propias usuarias y usuarios del servicio de voz sobre internet.
+3. La ATT establecerá los Estándares de Calidad para el Servicio de Voz Sobre Internet, así como la obligatoriedad de comunicar a sus usuarias y usuarios la calidad ofertada a los mismos y las condiciones necesarias de su Acceso a Internet para alcanzar la misma.
+
+**Artículo 91°.- (Telecentros y similares)** . Los cibercafés, telecentros, centros de llamadas o similares, que presten los servicios de Internet, o de Voz Sobre Internet al público, deberán obtener sus servicios de operadores legalmente establecidos en Bolivia. La ATT deberá establecer en un plazo de seis (6) meses un plan para establecer la obligatoriedad de registro de estos telecentros y las condiciones de calidad de servicio de los mismos.
+
+**Artículo 92°.- (Conexión de internet para el servicio público de voz sobre internet)** 
+
+1. Los sistemas del servicio público de voz sobre internet se estructurarán en base a los siguientes elementos físicos y lógicos: conexión de internet, hardware y software para recibir y enviar el tráfico vía internet; dispositivo para interconexión con la red pública y central o nodo de conmutación.
+2. Cuando una usuaria o usuario del servicio de voz sobre internet contrate el servicio de acceso a internet de otro proveedor, la relación jurídica comercial concerniente a dicho acceso se circunscribirá a la usuaria o usuario y al proveedor con independencia del vínculo existente con el proveedor del servicio de voz sobre internet.
+3. La responsabilidad y obligaciones derivadas de la provisión del servicio público de voz sobre internet a las usuarias o usuarios, serán exclusivamente de los operadores o proveedores de dicho servicio y no afectará ni comprometerá directa ni indirectamente al proveedor del servicio de acceso de banda ancha ni al ISP que provee el acceso a Internet que cumple con el estándar de calidad del servicio.
+4. Los proveedores del servicio de acceso a Internet no podrán, salvo imposibilidad técnica verificada por la ATT, bloquear, interferir, discriminar, entorpecer ni restringir el derecho de cualquier usuaria o usuario de Internet para utilizar, enviar, recibir u ofrecer cualquier contenido, aplicación o servicio legal a través de Internet, así como cualquier otro tipo de actividad o uso legal realizado a través de Internet.
+
+**Artículo 93°.- (Área de servicio)** 
+
+1. El área de servicio de los proveedores de servicios de voz sobre internet será el Área de Autorización Nacional. Los proveedores prestarán el servicio a sus usuarias o usuarios, cualquiera sea la ubicación física desde la cual éstos accedan a la red Internet en cada comunicación, sin que puedan establecer discriminaciones ni distinciones en consideración a esta circunstancia.
+2. El Plan Técnico Fundamental de Numeración contemplará la numeración y la identificación de usuarias o usuarios para el servicio de voz sobre internet.
+
+**Artículo 94°.- (Comunicaciones)** 
+
+1. Las comunicaciones que se realicen entre usuarias o usuarios del servicio de internet (computadora a computadora), se establecerán libremente, conforme con el tratamiento de cualquier aplicación de Internet ya que no utilizan numeración de la red pública telefónica.
+2. Las comunicaciones que se realicen entre usuarias o usuarios del servicio público de voz sobre internet y usuarias o usuarios de la red pública telefónica, o viceversa, se establecerán de acuerdo a los Planes Técnicos Fundamentales y los parámetros de calidad establecidos por la ATT para este servicio.
+
+**Artículo 95°.- (Interconexión con redes de voz sobre internet)** . Los proveedores de servicios de voz sobre internet establecerán las interconexiones con todos los operadores de la red pública telefónica y otros proveedores de servicios de voz sobre internet, según lo dispuesto en el presente Reglamento.
+
+**Artículo 96°.- (Condiciones de calidad)** 
+
+1. Los parámetros para la evaluación de Calidad del servicio público de Voz sobre Internet, serán determinados por la ATT de acuerdo a las características propias de su tecnología tomando en cuenta el medio de acceso y su integración con el servicio.
+2. Los proveedores deberán informar oportuna y adecuadamente al público respecto a la calidad de servicio que son capaces de entregar y las condiciones de prestación óptima para ello, debiendo cumplir con los estándares de calidad del servicio.
+3. Los proveedores del servicio público de Voz sobre Internet deben cumplir con las obligaciones sobre atención de consultas y reclamaciones de sus usuarias o usuarios y podrá acordar tanto la contratación del servicio como otras prestaciones por medios electrónicos.
+
+**Artículo 97°.- (Servicios de emergencia)** . Los proveedores de servicios de voz sobre internet, estarán obligados a dar a sus usuarias o usuarios acceso gratuito a los servicios de emergencia, al menos en el área donde se activó el servicio en función a factibilidad técnica y disponibilidad de los servicios de emergencia, de acuerdo a lo establecido en el Plan Técnico Fundamental de Numeración, salvo cuando concurran causales que revistan carácter de hecho fortuito o fuerza mayor.
+
+## Título V Plan Técnico Fundamental de Numeración
+
+### Capítulo Único Numeración
+
+**Artículo 98°.- (Plan Técnico Fundamental de Numeración)** 
+
+1. El Plan Técnico Fundamental de Numeración - PTFN es el documento técnico normativo que establece, los números y series de números adecuados para todos los servicios de telecomunicaciones y tecnologías de información y comunicación.
+2. El PTFN será elaborado, controlado, administrado y fiscalizado en todo el territorio del Estado Plurinacional de Bolivia, por la ATT, revisado, aprobado y actualizado por el Ministerio de Obras Públicas, Servicios y Vivienda.
+3. La ATT, podrá establecer instructivos específicos para administrar u ordenar la numeración destinada a servicios de valor agregado.
+4. El PTFN, establecerá la forma de marcación entre los diferentes servicios de telecomunicaciones al público, incluyendo los servicios de emergencia y atención a las usuarias y usuarios.
+
+**Artículo 99°.- (Cambio de numeración)** 
+
+1. El número asignado, sólo podrá cambiarse a solicitud de la usuaria o usuario o por el operador de servicios debido a razones técnicas plenamente justificadas y que se encuentren previamente aprobadas por la ATT, en ningún caso se justificará el cambio de número telefónico por cambio en la tecnología a través del cual se brinda el servicio, salvo autorización de la ATT.
+2. En el caso de que se justifique el cambio en la numeración de la usuaria o usuario por parte del operador se seguirá el procedimiento, establecido por el Ministerio de Obras Públicas, Servicios y Vivienda, mediante Resolución Ministerial.
+
+**Artículo 100°.- (Otorgamiento de recursos de numeración para servicios públicos)** 
+
+1. Para servicios públicos, los recursos de numeración serán otorgados a solicitud del operador autorizado, previa presentación y valoración por parte de la ATT de un reporte con información desglosada por meses de las últimas tres (3) gestiones previas a la solicitud, especificando mínimamente lo siguiente:
+   1. La cantidad de Recursos de Numeración efectivamente en uso;
+   2. La cantidad de Recursos de Numeración efectivamente libres
+2. La ATT podrá solicitar reportes adicionales inherentes a la red para la cual se requieren recursos de numeración.
+3. En caso de que el recurso sea limitado, el precio para la autorización y asignación de un rango de numeración para los servicios de telecomunicaciones deberán considerar los criterios técnicos y económicos necesarios para la asignación en función de la disponibilidad y el PTFN.
+
+## Título VI Infraestructura de telecomunicaciones
+
+### Capítulo I Normas generales
+
+**Artículo 101°.- (Acceso y uso compartido)** 
+
+1. Acceso y uso compartido es la puesta a disposición de otro operador, en condiciones definidas, recursos de infraestructura o servicios con fines de prestación de servicios de telecomunicaciones al público. Este término abarca, entre otros aspectos, los siguientes: el acceso a elementos de redes, recursos o servicios asociados incluyendo el acceso al bucle local, el acceso a infraestructuras físicas, como edificios, torres, cámaras y ductos, postes, fibra óptica y el acceso a sistemas informáticos de apoyo operativo.
+2. Salvo acuerdo entre partes, el operador solicitante no podrá subalquilar el acceso y uso compartido de la infraestructura del operador solicitado ni transferirlo, pudiendo prestar los servicios para los cuales se encuentre habilitado únicamente a usuarias o usuarios finales u operadores o proveedores de servicios de telecomunicaciones, sin aplicar tarifas anticompetitivas que estén fuera de lo determinado por la ATT.
+
+**Artículo 102°.- (Obligatoriedad)** 
+
+1. Es obligación de los operadores de redes públicas, otorgar el acceso y uso compartido de infraestructura en sus redes a otros operadores o proveedores que lo soliciten, respetando los principios de no discriminación, neutralidad, proporcionalidad, transparencia, eficiencia y buena fe, excepto en aquellos casos que no se cuente con disponibilidad demostrada por el operador solicitado y verificada por la ATT.
+2. El acceso y uso compartido de infraestructura que otorga un operador solicitado a un operador o proveedor solicitante, no podrá interrumpirse excepto previa autorización de la ATT, al vencimiento del respectivo contrato o cuando la parte solicitante comunique expresamente su decisión de prescindir del acceso y uso compartido de infraestructura otorgado por el operador solicitado.
+
+**Artículo 103°.- (Precios para el acceso)** . Los precios para el acceso y uso compartido de infraestructura se determinarán entre las partes, considerando los costos incurridos para el acceso a elementos de redes y uso de infraestructura. En caso de que los operadores no lleguen a un acuerdo, la ATT podrá establecer precios de las facilidades en base a costos razonables, considerando entre otros los costos de operación de todas las capacidades.
+
+**Artículo 104°.- (Acceso y uso compartido de infraestructura)** . Todo operador o proveedor que desee acceso y uso compartido de infraestructura, debe presentar al operador propietario de la infraestructura su solicitud mediante nota, de acuerdo a lo establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+
+**Artículo 105°.- (Contrato de acceso y uso compartido de infraestructura)** 
+
+1. Los contratos de acceso y uso compartido de infraestructura que sean suscritos entre las partes deberán ser presentados por el operador solicitante a la ATT para su correspondiente registro en la base de datos del sistema de información sectorial, dentro de los diez (10) días posteriores a su firma.
+2. El contrato de acceso y uso compartido de infraestructura deberá contener los aspectos señalados por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+
+**Artículo 106°.- (Mediación de la ATT)** . En el caso de no llegar a un acuerdo entre las partes, el operador o proveedor solicitante podrá acudir a la ATT, a objeto de que sea esta instancia la que disponga y autorice el uso compartido de infraestructura solicitado, a cuyo fin el solicitante deberá acreditar su interés legítimo y presentar la justificación técnica.
+
+**Artículo 107°.- (Suspensión parcial o total)** 
+
+1. A solicitud de parte debidamente justificada por el operador que brinda el acceso y uso compartido de infraestructura, la ATT en el plazo de quince (15) días podrá intimar al otro operador a que proceda al cumplimiento de las condiciones del contrato, incluyendo el pago de obligaciones económicas adeudadas por más de dos (2) meses continuos o discontinuos. En caso de incumplimiento a la intimación la ATT podrá autorizar al operador que brinda el acceso y uso compartido de infraestructura, la suspensión total o parcial del acceso y uso compartido de infraestructura, hasta el cumplimiento de las condiciones o pago.
+2. La ATT emitirá la resolución administrativa sobre la suspensión total o parcial de un acceso y uso compartido de infraestructura y deberá dictar en el mismo acto las medidas previas que se aplicarán con la finalidad de minimizar el perjuicio a las usuarias o usuarios involucrados.
+
+### Capítulo II Servidumbres
+
+**Artículo 108°.- (Bienes sujetos a servidumbre)** 
+
+1. Se entiende por un bien sujeto a servidumbre a los elementos que no pertenezcan a una infraestructura de red de telecomunicaciones incluyendo de manera enunciativa y no limitativa los siguientes: terrenos, predios, obras civiles, aceras, ductos, canalizaciones, cámaras subterráneas, Derecho de uso de vía, obras de arte en carreteras (puentes, muros de contención, túneles u otros), postes, torres u otros, que permitan instalar los medios físicos y construcciones necesarias para la prestación de servicios de telecomunicaciones.
+2. La reglamentación de las servidumbres en telecomunicaciones sobre bienes de dominio público será establecida mediante Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda en coordinación con el sector que corresponda conforme a la normativa legal vigente.
+
+**Artículo 109°.- (Servidumbre sobre propiedad privada)** 
+
+1. Cuando la servidumbre tenga que imponerse sobre bienes de propiedad privada, el monto indemnizatorio o compensatorio será establecido en negociación directa entre el operador o proveedor y el propietario del bien. El propietario deberá adecuar sus actuaciones al buen sentido común y las mejores prácticas.
+2. Las modalidades de la servidumbre, plazo de vigencia, forma de pago y demás condiciones se establecerán en un contrato entre el operador o proveedor y el propietario del bien, que debe ser presentado a la ATT para fines de registro en la base de datos del sistema de información sectorial.
+
+**Artículo 110°.- (Excavaciones para ductos)** 
+
+1. Para realizar excavaciones destinadas al tendido de ductos o cables en las calles de ciudades y otros espacios públicos, el operador o proveedor autorizado estará obligado a coordinar con los proveedores de otros servicios al público para asegurar que no se cause daños a ductos, líneas eléctricas y otra infraestructura previamente instalada.
+2. El operador o proveedor de telecomunicaciones autorizado con derecho a servidumbre, con al menos tres (3) meses de anterioridad a la ejecución de obras, deberá comunicar a otros operadores y proveedores de servicios de telecomunicaciones en el área, los planes de apertura de zanjas para que en su caso, se pueda compartir estas mismas excavaciones distribuyéndose los costos, sin causar retrasos ni perjuicios al operador o proveedor inicial. La ATT, deberá ser informada de estas notificaciones y acuerdos logrados.
+3. El operador o proveedor de servicios de telecomunicaciones está obligado a mantener detalles técnicos, planos y demás información correspondiente a las servidumbres establecidas.
+
+**Artículo 111°.- (Plazo de servidumbres)** . El plazo de la servidumbre, no podrá exceder el plazo de vigencia de las licencias otorgadas al operador o proveedor solicitante.
+
+**Artículo 112°.- (Continuidad de la servidumbre)** . La servidumbre continuará automáticamente, en caso de registrarse algún acto de disposición del bien objeto de servidumbre.
+
+**Artículo 113°.- (Resolución de la ATT)** . En caso de que no pudiera llegarse a un acuerdo entre los operadores o proveedores y los propietarios del bien sirviente en propiedad privada, en el plazo de treinta (30) días, los operadores podrán acudir a la ATT, a objeto de que sea esta autoridad la que se pronuncie sobre la servidumbre requerida.
+
+**Artículo 114°.- (Imposición de servidumbres)** . El trámite de solicitud de imposición de servidumbre en propiedad privada se realizará de la siguiente manera:
+
+1. La presentación de la solicitud a la ATT mediante nota adjuntando la información que deberá contener de manera enunciativa y no limitativa los siguientes datos:
+   1. Fundamentación técnica;
+   2. Ubicación con indicación de la zona geográfica dentro del departamento, provincia, municipio o comunidad;
+   3. Condición de los bienes, terrenos o áreas por afectarse, con indicación de las obras, trabajos, construcciones y mejoras existentes;
+   4. Nombre y domicilio de los propietarios y ocupantes de los terrenos o áreas afectadas por las servidumbres;
+   5. Memoria técnica
+2. Admitida la solicitud, la ATT en un plazo máximo de diez (10) días pondrá en conocimiento del propietario del bien a afectarse, a fin de que este y el solicitante pudieran llegar a un acuerdo, o presentar sus observaciones, dentro del plazo de diez (10) días de su notificación legal.
+3. Vencido el término establecido en el Numeral precedente y en el caso que las partes no hayan llegado a un acuerdo, la ATT, en un plazo máximo de diez (10) días dictará la Resolución Administrativa imponiendo o no la servidumbre, el pago de la indemnización o compensación cuando corresponda y disponiendo lo que fuere pertinente.
+
+**Artículo 115°.- (Pago de indemnización o compensación)** . Una vez ejecutoriada en sede administrativa la Resolución Administrativa, el operador o proveedor deberá pagar al propietario del bien sirviente la indemnización o compensación que corresponda, si así lo establece la Resolución. El operador o proveedor que no efectúe el pago en el plazo fijado por la Resolución, perderá el derecho a la servidumbre.
+
+**Artículo 116°.- (Uso de la fuerza pública)** . En caso de que el propietario del predio sirviente se oponga u obstaculice la implementación de la servidumbre, la ATT a solicitud del operador o proveedor, podrá acudir a las autoridades jurisdiccionales y solicitar el uso de la fuerza pública.
+
+**Artículo 117°.- (Causales de extinción de servidumbres)** . La ATT, a solicitud del propietario del bien sirviente privado, podrá declarar la extinción de las servidumbres ya establecidas, cuando se produzca una de las siguientes causales:
+
+1. Si el operador o proveedor que obtuvo resolución para imponer la servidumbre no lleva a cabo los trabajos que correspondieren en el plazo de tres (3) meses;
+2. Si una vez terminados los trabajos, éstos permanecieran sin uso por lo menos durante tres (3) meses consecutivos;
+3. Si vence el plazo de vigencia de la licencia;
+4. Si el propietario del bien sirviente demuestra que el operador o proveedor abusó de su derecho;
+5. Si el operador autorizado no efectúa el pago o no deposita el monto de la indemnización fijada en los plazos acordados o para los casos de pagos mensuales compensatorios, el incumplimiento por tres (3) periodos consecutivos;
+6. Si el propietario del bien lo solicita y el operador o proveedor no se opone.
+
+## Título VII Regulación tarifaria de los servicios públicos de telecomunicaciones
+
+### Capítulo I Política tarifaria
+
+**Artículo 118°.- (Facturación por tiempo y volumen)** 
+
+1. La tasación, tarifación y facturación de los servicios de telecomunicaciones de voz que se cobren por tiempo de consumo o por pulso de duración limitada, se realizará por tiempo efectivo de comunicación y con fraccionamiento al segundo, no estando permitido ningún tipo de redondeo mayor, salvo imposibilidad técnica verificada por la ATT.
+2. La facturación de los servicios de acceso a Internet que se cobre por volumen de datos, se realizará por el volumen de tráfico de datos efectivamente transferidos. La ATT determinará el valor del fraccionamiento de volumen de datos, el mismo que podrá ser actualizado en función del avance tecnológico.
+
+**Artículo 119°.- (No discriminación de tarifas)** 
+
+1. En la provisión de un mismo tipo de servicio, un proveedor no podrá discriminar ni dar ninguna preferencia en la aplicación de tarifas a usuarias y usuarios de una misma categoría tarifaria o que se encuentren en condiciones similares.
+2. Dentro de un área de servicio, las tarifas de un proveedor para un mismo servicio al público no pueden ser diferentes por razones geográficas, por tipo de vivienda del usuario, ni por el proveedor al que se encuentre suscrito la usuaria o usuario destinatario de la comunicación.
+3. De manera excepcional, el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial podrá establecer condiciones tarifarias especiales a aplicar en los servicios provistos en localidades o comunidades del área rural que sean beneficiadas con proyectos de conectividad social.
+
+**Artículo 120°.- (Prohibiciones y condiciones para la prestación del servicio)** 
+
+1. Los operadores o proveedores de Servicios de Telecomunicaciones no podrán exigir a los usuarios ningún tipo de garantía prendaria o hipotecaria, para la provisión del servicio ni para asegurar el pago del mismo.
+2. Los operadores o proveedores de servicios, no podrán condicionar la provisión de sus servicios a la adquisición de acciones, cuotas de participación, equipos terminales, otros bienes o servicios u otro tipo de aportación o pago que no sea parte de la estructura tarifaria del servicio, ni exigir que sean socios o miembros de la organización.
+3. Los operadores o proveedores de servicios de telecomunicaciones al público de voz, no deben cobrar ningún tipo de tarifa a sus usuarios por las llamadas recibidas, ya sea en su red o en itinerancia dentro el territorio nacional, salvo llamadas de cobro revertido.
+4. Los operadores o proveedores de servicios de telecomunicaciones al público de voz que ofrezcan la modalidad de cobro prepago deben considerar las siguientes características:
+   1. La vigencia de cualquier crédito que se cargue no podrá ser menor a sesenta (60) días calendario.
+   2. Al vencimiento de su vigencia, el crédito o saldo no consumido se sumará al nuevo que se cargue.
+   3. Al vencimiento de la vigencia de un crédito si la usuaria o el usuario no realiza recargas, la línea deberá permanecer habilitada para la recepción de llamadas y el acceso a número gratuitos y de emergencia, al menos por treinta (30) días calendario, adicionales.
+5. Los operadores o proveedores de servicios de telecomunicaciones al público de voz que ofrezcan la modalidad de cobro postpago deben considerar las siguientes características:
+   1. Se podrán ofrecer diversos límites de consumo mensual para elección del usuario, a fin de posibilitar el control de consumo de los servicios.
+   2. En los planes que correspondan, el crédito o saldo no consumido en el mes, deberá ser acumulado al mes siguiente con una vigencia mínima de dos (2) meses para su consumo.
+6. Todo operador o proveedor de servicios de telecomunicaciones, tendrá la obligación de ofertar y brindar, dentro su estructura tarifaria, una categoría en la que se cobre únicamente por las comunicaciones efectivamente realizadas y sin aplicación de una tarifa básica fija mensual, bajo las siguientes características:
+   1. Para acceder a esta categoría, no se exigirá tener la condición de socio o miembro del proveedor.
+   2. El consumo del servicio podrá cobrarse en las modalidades de cobro pre o post pago, según decida el proveedor, no pudiéndose exigir en ninguna de estas modalidades un consumo mínimo mensual.
+7. En la modalidad prepago y post pago, para el servicio de acceso a internet, en los que se cobre por volumen de datos transferidos, se debe considerar:
+   1. Planes en los que se oferte diferentes volúmenes de datos y tiempos de vigencia.
+   2. En la modalidad post pago, el volumen de datos no consumido se sumará al volumen de datos del mes siguiente.
+   3. En la modalidad pre pago, para paquetes por volúmenes de bytes, el volumen no consumido se sumará al siguiente volumen de datos adquirido, siempre y cuando la usuaria o el usuario realice una compra del mismo paquete u otro similar en un periodo no mayor a dos (2) meses.
+   4. Para ambas modalidades, cada volumen de datos no consumido se acumulará mínimamente por dos (2) meses.
+8. Los proveedores del servicio de acceso a internet deben informar a sus usuarios y usuarias las velocidades mínimas que garantizan en condiciones normales en sus diferentes planes. Independientemente de lo señalado, estas velocidades mínimas deberán ser ajustadas y actualizadas de acuerdo a los estándares técnicos definidos por la ATT, en función al avance de la tecnología.
+9. Queda prohibido para el operador o proveedor migrar de una categoría tarifaria a otra, sin el consentimiento del usuario, salvo que la migración represente mayores beneficios y sean aceptadas por los usuarios.
+
+**Artículo 121°.- (Franjas horarias)** 
+
+1. En el servicio móvil pre-pago y el servicio local en su tarifa variable se establecerán tres (3) franjas horarias para las tarifas cobradas por tiempo de comunicación, bajo la denominación de Horario Normal, Horario Reducido y Horario Súper-Reducido.
+2. La duración de las franjas horarias y las condiciones para su aplicación serán establecidas mediante Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+3. La ATT propondrá la aplicación de franjas horarias para el servicio móvil post-pago, para el servicio de acceso al público, larga distancia nacional o nuevos servicios cuyas tarifas sean cobradas por tiempo de comunicación, para su aprobación mediante Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+### Capítulo II Mercado relevante y posición dominante
+
+**Artículo 122°.- (Determinación del mercado relevante)** . El mercado relevante será establecido en función del ámbito geográfico y del ámbito de servicio, de acuerdo a criterios y condiciones establecidos por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+
+**Artículo 123°.- (Proveedor con posición dominante)** 
+
+1. La ATT declarará proveedor con Posición Dominante en un Mercado Relevante, al proveedor del servicio de telecomunicaciones que haya tenido la mayor participación de los ingresos brutos percibidos en dicho mercado, en un periodo de doce (12) meses consecutivos anteriores, siempre que dicha participación sea superior en promedio, al cuarenta por ciento (40%) y que la diferencia en la participación del mercado con el segundo competidor sea igual o mayor a diez (10) puntos porcentuales.
+2. La ATT verificará la existencia o no, de Posición Dominante en un Mercado Relevante, de oficio o a instancia de parte, transcurrido al menos un (1) año desde la última revisión, o cuando se tengan indicios de que pueda existir una práctica abusiva por parte de un proveedor no declarado dominante, que hubiera adquirido poder de mercado antes de transcurrido el año desde la última revisión.
+
+**Artículo 124°.- (Obligación del proveedor con posición dominante)** . Todo proveedor que haya sido declarado como Proveedor con Posición Dominante en un Mercado Relevante, estará sujeto a las siguientes obligaciones:
+
+1. Sus precios y tarifas aplicables al Mercado Relevante estarán sujetos al Régimen de Tope de Precios.
+2. Su estructura tarifaria, en un periodo mínimo de seis (6) meses anteriores a su verificación, deberá cubrir al menos el costo medio en cualquier canasta de servicios del Mercado Relevante.
+
+### Capítulo III Régimen tarifario de servicios de telecomunicaciones y tecnologías de información y comunicación
+
+**Artículo 126°.- (Régimen de regulación tarifaria)** 
+
+1. Los proveedores con posición dominante establecerán sus precios y tarifas para cada una de las categorías tarifarias incluidas en sus canastas de servicios, asimismo, podrán incluir nuevas categorías tarifarias, modificarlas o discontinuarlas, siempre y cuando, en todos los casos cumplan con el régimen de tope de precios y los procedimientos establecidos en el presente Reglamento.
+2. El Ministerio de Obras Públicas, Servicios y Vivienda aprobará mediante Resolución Ministerial las fórmulas de Tope de Precios, la composición de las canastas, los procedimientos de aplicación del Régimen de Tope de Precios y la penalidad por incumplimiento, el establecimiento del Factor de Productividad y el procedimiento para su modificación; así como, las condiciones iniciales para las tarifas del servicio del nuevo operador con Posición Dominante y las condiciones de dejación de dominancia, propuestos por la ATT.
+
+**Artículo 127°.- (Información tarifaria)** . Toda la información que sustente la aplicación de las tarifas de los proveedores deberá encontrarse disponible para su revisión y verificación por parte de la ATT. Para el efecto, el operador o proveedor permitirá a la ATT el acceso a toda aquella información que sustente lo requerido.
+
+### Capítulo IV Régimen de precios mínimos
+
+**Artículo 128°.- (Establecimiento de precio mínimo)** . Cuando se determine que un Proveedor con Posición Dominante en un Mercado Relevante, está ejerciendo una práctica predatoria, la ATT establecerá un Precio Mínimo para dicho proveedor, para su aplicación inmediata por un período no menor a seis (6) meses.
+
+**Artículo 129°.- (Determinación del precio mínimo)** . El Precio Mínimo será el equivalente al costo medio variable, de la prestación del servicio, obtenido en la comprobación de la práctica predatoria, a partir de la estructura de costos del Proveedor con Posición Dominante, que incurrió en dicha práctica.
+
+**Artículo 130°.- (Tarifas de terminación internacional)** . Las Tarifas mínimas para la terminación del tráfico telefónico internacional entrante, serán establecidas por la ATT.
+
+### Capítulo V Tarifas en servicios de telecomunicaciones de inclusión social
+
+**Artículo 131°.- (Regulación de tarifas)** 
+
+1. Todos los proveedores de servicio rural y servicio de acceso a internet en el área rural, independientemente de su participación en el mercado, establecerán las tarifas a los usuarios, siempre y cuando no excedan los Topes de Precios determinados por la ATT.
+2. Para otros servicios prestados en el área rural, aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda, la ATT podrá establecer Topes de Precios, si corresponde.
+
+## Título VIII Interconexión
+
+### Capítulo I Disposiciones generales
+
+**Artículo 132°.- (Obligatoriedad de la interconexión)** 
+
+1. Las redes públicas de telecomunicaciones, deben estar obligatoriamente interconectadas directa o indirectamente con el objeto de promover la convergencia tecnológica y coadyuvar al acceso universal a fin de que las usuarias y usuarios estén conectados garantizando su interoperabilidad.
+2. Los proveedores del Servicio de acceso a Internet deben interconectarse entre sí a través de un punto de intercambio de tráfico, bajo condiciones y mecanismos específicos establecidos en el presente Reglamento.
+3. La obligación de interconectar persiste hasta tanto los recursos legales, administrativos interpuestos por cualquiera de los operadores solicitante o solicitado alcancen ejecutoria definitiva.
+4. En interconexiones en operación, ningún conflicto o incumplimiento de los operadores interconectados podrá dar lugar a la interrupción de la interconexión, salvo autorización previa de la ATT, de conformidad con el presente Reglamento.
+
+**Artículo 133°.- (Condiciones de interconexión)** 
+
+1. La interconexión debe proveerse en términos y condiciones que no sean discriminatorias, cumpliendo las normas, especificaciones técnicas y económicas con una calidad no menos favorable que la facilitada a sus propios servicios.
+2. Los aspectos referidos a la limitación, la interconexión, los puntos y rutas, las prácticas contrarias y el Registro de Interconexión, serán establecidos mediante Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 134°.- (Interrupción de la interconexión)** 
+
+1. La ATT mediante una Resolución Administrativa, podrá autorizar la interrupción total o parcial de una interconexión aprobada en los siguientes casos:
+   1. Cuando exista incumplimiento de obligaciones económicas establecidas en un mecanismo de interconexión aprobado por la ATT, por dos (2) o más meses continuos.
+   2. Cuando un operador informe que una red interconectada a la suya perturba el normal funcionamiento de esta, o de los servicios que presta, causa daño técnico o no cumple con los requisitos esenciales.
+   3. Cuando uno de los operadores interconectados informe que la interconexión es utilizada por el otro para fines no autorizados o cuando la misma represente peligro para sus instalaciones, redes y equipos.
+   4. Interconexión programada debidamente autorizada
+   5. Cuando la interrupción obedezca a razones de avería súbita, caso fortuito o fuerza mayor.
+2. El Ministerio de Obras Públicas, Servicios y Vivienda, mediante Resolución Ministerial, establecerá las condiciones y procedimientos de la interrupción referida en el parágrafo anterior.
+
+### Capítulo II Mecanismos de interconexión
+
+**Artículo 135°.- (Mecanismos de interconexión)** 
+
+1. La interconexión puede realizarse a través de uno los siguientes mecanismos:
+   1. Por adhesión a la Oferta Básica de Interconexión - OBI del operador con quien se desea establecer la interconexión con la aprobación de la ATT, mediante Contrato de adhesión en el que se incluirán los términos, condiciones y servicios a las que se adhiere el solicitante.
+   2. Por acuerdo de interconexión negociado y definido entre partes, con la aprobación de la ATT, mediante Contrato entre las partes.
+   3. Por acuerdo de interconexión o adhesión a la oferta básica de interconexión de un tercer operador, interconectado al operador con quien se desea establecer la interconexión.
+2. En caso de no efectivizarse la interconexión, a través de alguno de los mecanismos establecidos, la ATT dispondrá las condiciones que regirán la misma a través de la emisión de la correspondiente Resolución Administrativa.
+
+**Artículo 136°.- (Elementos de red e instalaciones esenciales y servicios de apoyo)** 
+
+1. Los elementos de red, instalaciones esenciales y los servicios de apoyo que los operadores están obligados a proveer mínimamente dentro del alcance de sus autorizaciones y contratos, son los siguientes:
+   1. Conmutación dentro del área de servicio
+   2. Conmutación de tránsito
+   3. Transmisión entre nodos
+   4. Servicios de facturación, cobranza y corte.
+   5. Coubicación y acceso a elementos auxiliares y de uso común por ambas partes, tales como, energía eléctrica, climatización y otros.
+2. La ATT podrá establecer elementos de red e instalaciones esenciales o servicios de apoyo complementarios mediante una resolución administrativa.
+
+**Artículo 137°.- (Oferta básica de interconexión - OBI)** 
+
+1. Los operadores de los servicios local, móvil, larga distancia o voz sobre Internet, tienen la obligación de elaborar y presentar la OBI en base a una Oferta Básica de Interconexión de Referencia elaborada por la ATT.
+2. La OBI de Referencia elaborada por la ATT debe contener además de los aspectos generales, los aspectos técnicos como la descripción de los elementos de red e instalaciones esenciales, los nodos y puntos de interconexión, servicios de apoyo y otros; aspectos económicos y comerciales incluyendo los precios; y aspectos jurídicos y administrativos relacionados con la interconexión.
+3. La ATT podrá ampliar la obligación de presentación de la OBI a operadores y proveedores de otros servicios.
+
+**Artículo 138°.- (Presentación y aprobación de la oferta básica de interconexión)** . Los operadores deberán presentar sus ofertas básicas de interconexión para su aprobación dentro de los seis (6) meses siguientes al inicio de sus operaciones. La OBI deberá ser actualizada anualmente o cuando exista un cambio sustancial en su red.
+
+**Artículo 139°.- (Inexistencia de oferta básica de interconexión)** 
+
+1. La inexistencia de oferta básica de interconexión aprobada por la ATT, en ningún caso eximirá al operador solicitado de la obligación de interconectarse.
+2. En caso de que los operadores de servicios públicos de telecomunicaciones no presenten las ofertas básicas de interconexión en el plazo establecido en el presente Reglamento, o no subsanen las observaciones, la ATT, determinará las condiciones mínimas de interconexión, las cuales serán de cumplimiento obligatorio, sin perjuicio de la aplicación de las sanciones inherentes al incumplimiento de presentación, previstas en los Reglamentos a la Ley.
+
+**Artículo 140°.- (Condiciones del operador solicitante para la interconexión)** . Para interconectarse, el operador solicitante deberá estar en condiciones de llegar al punto o puntos de interconexión elegidos de la oferta básica de interconexión del operador solicitado o establecidos en el acuerdo entre partes. La inversión en la adecuación, operación y mantenimiento de las instalaciones necesarias para llegar hasta dichos puntos, correrán por cuenta del operador solicitante, salvo acuerdo de partes.
+
+**Artículo 141°.- (Acuerdos de interconexión)** . Los acuerdos de interconexión deben contener mínimamente, los aspectos generales, técnicos; económicos y comerciales incluyendo los precios; y aspectos jurídicos y administrativos relacionados con la interconexión en base a un Acuerdo de Interconexión de Referencia elaborado por la ATT.
+
+**Artículo 142°.- (Calidad de servicio en la interconexión)** . Los operadores de redes públicas y proveedores de servicios de telecomunicaciones, deberán dar cumplimiento al estándar de calidad del servicio de interconexión.
+
+### Capítulo III Cargos de interconexión
+
+**Artículo 143°.- (Clasificación de cargos de interconexión)** . Los cargos de interconexión se basarán en los costos que demande la provisión eficiente de dicha interconexión y se establecerán de acuerdo a este Reglamento; estos cargos se clasifican en recurrentes y no recurrentes:
+
+1. Los cargos no recurrentes se refieren a los costos de los elementos que amplían o mejoran la red del operador solicitado para llevar a cabo la interconexión y soportar los servicios y el tráfico previstos para la misma.
+2. Los cargos recurrentes se refieren al costo del uso de la parte de la red necesaria para realizar la interconexión y serán cobrados en función del uso del servicio.
+
+**Artículo 144°.- (Criterios para la determinación de cargos no recurrentes)** 
+
+1. El operador solicitado realizará a su propio costo las ampliaciones de su red que sean necesarias para llevar a cabo la interconexión, o para mantener o mejorar la calidad del servicio, así como para atender los aumentos de tráfico generados por la interconexión. Estos costos no formarán parte del cargo no recurrente.
+2. En caso de que el operador solicitante requiera elementos adicionales a la oferta básica de interconexión, éste negociará con el operador solicitado el valor del cargo no recurrente y pagará el mismo para cubrir los costos adicionales en los que incurra el operador solicitado al adecuar o mejorar la red para operar la cantidad y los tipos de tráfico requeridos por el operador solicitante. Estos costos no se computarán para el cálculo de los costos recurrentes de interconexión.
+
+**Artículo 145°.- (Metodología y aplicación de cargos recurrentes)** 
+
+1. Los precios máximos de los cargos recurrentes de interconexión, los elementos de red e instalaciones esenciales y servicios de apoyo serán establecidos por la ATT en base a la metodología de cálculo de los Costos Incrementales de Largo Plazo, que reconozca una asignación adecuada de los costos directos, conjuntos y comunes que correspondan al servicio de interconexión, o en base a estudios comparativos nacionales o internacionales u otros que apliquen para el caso.
+2. La metodología de Costo Incremental de Largo Plazo aplicada para la determinación del cargo del servicio local, considerará adicionalmente los costos de las redes de acceso, en la proporción que corresponda.
+3. Los operadores y proveedores de los servicios regulados deberán remitir a la ATT toda la información necesaria para realizar los cálculos en la forma y oportunidad en que esta autoridad lo solicite. En caso de que los operadores o proveedores no proporcionen información completa y suficiente, la ATT estará en la potestad de utilizar fuentes alternativas referenciales para subsanar la falta de dicha información.
+4. Los cargos recurrentes serán aplicados con fraccionamiento al segundo y por tiempo efectivo de comunicación, por capacidad o ancho de banda en la transferencia de datos o por capacidad de la interconexión; estos podrán acceder a descuentos por volumen y serán aplicados en moneda nacional. La ATT determinará la factibilidad de aplicar cargos recurrentes de interconexión diferenciados en las franjas horarias establecidas.
+
+**Artículo 146°.- (Pago de cargos recurrentes)** 
+
+1. Para el pago de cargos recurrentes de interconexión, se aplicará lo siguiente:
+   1. En la interconexión entre dos operadores que cursen tráfico de los servicios local, rural, móvil, voz sobre Internet, acceso público a través de teléfonos públicos u otros equivalentes, será el operador que origine la llamada quien fije y perciba la tarifa, y pague el cargo recurrente al operador que la reciba.
+   2. En servicios de telecomunicaciones de voz de larga distancia, el operador del servicio de larga distancia fija y percibe la tarifa y paga los correspondientes cargos de interconexión tanto por originación como por terminación a los operadores que tienen conexión directa con las usuarias y usuarios.
+   3. En servicios de telecomunicaciones de voz de larga distancia originada en un operador del servicio de acceso público, el operador del servicio de acceso público fija y percibe la tarifa y paga los cargos recurrentes que correspondan.
+2. No existirán cargos de interconexión entre dos (2) o más operadores interconectados que provean el servicio local en la misma área de servicio.
+3. No aplican cargos recurrentes de interconexión entre proveedores del servicio de voz sobre Internet.
+4. Por el tráfico de interconexión de comunicaciones entrantes o salientes, el operador que recibe el cargo recurrente no podrá percibir otro ingreso diferente a este cargo.
+5. El Ministerio de Obras Públicas, Servicios y Vivienda, mediante Resolución Ministerial, podrá establecer criterios de pago de cargos de interconexión para otros servicios de telecomunicaciones al público que permitan la comunicación entre usuarios.
+
+**Artículo 147°.- (Pago adelantado)** . En los Contratos de Interconexión independientemente del mecanismo de interconexión, el operador solicitado podrá aplicar la modalidad de pago adelantado por concepto de cargos de interconexión, cuando se estime que los volúmenes de tráfico que recibirá serán significativamente mayores al tráfico que enviará. La modalidad de pago adelantado no podrá ser utilizada como práctica discriminatoria o anticompetitiva.
+
+**Artículo 148°.- (Conflicto en la interconexión)** . Cualquier conflicto en materia de Interconexión se tratará de resolver entre las partes. En el caso que éstas no logren un entendimiento que ponga fin a al conflicto el mismo deberá ser sometido a consideración de la ATT por cualquiera de las partes. La ATT deberá resolver el conflicto dentro de un plazo máximo de treinta (30) días contados a partir de la recepción de la solicitud.
+
+### Capítulo IV Servicios de apoyo para la facturación, cobranza y corte conjunto
+
+**Artículo 149°.- (Obligaciones y modalidades de los servicios de apoyo)** 
+
+1. Los proveedores u operadores de servicios de telecomunicaciones, tecnologías de información y comunicación que tienen conexión directa con equipos terminales de usuarias y usuarios están obligados a prestar de manera no discriminatoria el servicio de apoyo para la facturación, cobranza y corte que les soliciten los proveedores de servicios que utilicen el mismo acceso.
+2. En caso de que el proveedor solicitante sea un revendedor de servicios de telecomunicaciones, tecnologías de información y comunicación, los términos y condiciones para la prestación del servicio de apoyo de facturación, cobranza y corte, deberán ser establecidos a través de un contrato expreso, en base al acuerdo suscrito con el operador del cual revende servicios y previa aprobación de la ATT.
+3. Los operadores de redes públicas de servicios de telecomunicaciones que tienen obligación de prestar los servicios de apoyo para la facturación, cobranza y corte, deberán incluir en el mecanismo de Interconexión correspondiente, una de las siguientes modalidades: facturación, cobranza y corte por cuenta propia del proveedor solicitante o facturación, cobranza y corte conjunto.
+4. Las condiciones y características mínimas de las modalidades, serán establecidas mediante Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 150°.- (Obligaciones entre operadores por la cobranza conjunta)** 
+
+1. El operador encargado de la cobranza conjunta debe hacer efectiva la transferencia de los montos recaudados de las cobranzas realizadas en el plazo de catorce (14) días, salvo acuerdo entre partes. En caso de demoras en los pagos entre operadores y proveedores, a solicitud de uno de ellos que fuera afectado, la ATT podrá intimar y posteriormente sancionar al deudor en caso de verificarse el incumplimiento al acuerdo suscrito entre operador y proveedor.
+2. Las recaudaciones por cobranza conjunta que reciba el operador encargado de la cobranza, no podrán ser registrados como ingresos propios, dado que estos son de propiedad del operador solicitante.
+3. La aplicación de intereses por mora en los pagos por parte de los operadores solicitados a los proveedores solicitantes, se sujetará de conformidad a lo dispuesto en el acuerdo de interconexión que haya sido suscrito entre operador y proveedor de servicios.
+
+### Capítulo V Itinerancia (roaming) en áreas rurales
+
+**Artículo 151°.- (Alcance)** . Los operadores de servicio móvil deben garantizar la compatibilidad de sus redes para la provisión del servicio en áreas rurales a través de su red o del servicio de itinerancia o roaming donde no cuente con cobertura, de tal forma que su uso sea transparente para cualquier usuaria o usuario.
+
+**Artículo 152°.- (Obligación)** 
+
+1. Para garantizar a todas las usuarias y usuarios del servicio móvil la cobertura en áreas rurales, mínimamente para servicios de telecomunicaciones de voz, todo operador de servicio móvil tiene la obligación de prestar el servicio de apoyo de itinerancia.
+2. Los operadores que no cuenten con cobertura en una determinada área rural, deben solicitar obligatoriamente el servicio con otro operador que tenga cobertura en dicha área, para garantizar que sus usuarios estén comunicados.
+3. Los operadores deben adoptar las medidas para evitar la itinerancia o roaming inadvertido en zonas fronterizas, de acuerdo a los instructivos que emita la ATT.
+4. El Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial, establecerá el procedimiento para la solicitud de itinerancia o roaming.
+
+**Artículo 153°.- (Condiciones de la itinerancia o roaming)** 
+
+1. Cuando una usuaria o usuario en itinerancia origine llamadas, las tarifas que el operador solicitante cobre al mismo, será como máximo la tarifa prepago que cobra a los usuarios de su propia red.
+2. El pago que el operador solicitado reciba del operador solicitante por las llamadas de las usuarias y usuarios en itinerancia, corresponderá a la tarifa que el operador solicitado cobra a sus propios usuarios prepago en horario normal, descontando los impuestos y tasas de ley.
+3. El operador solicitado recibirá los cargos de interconexión por todas las llamadas terminadas en la usuaria o usuario en itinerancia.
+4. Los operadores solicitados podrán identificar su red visitada en itinerancia.
+5. Los operadores solicitados no podrán realizar acciones de mercadeo y publicidad sobre las usuarias y usuarios del operador solicitante que se encuentren utilizando el servicio de itinerancia o roaming en áreas rurales.
+6. Los usuarios en itinerancia deberán recibir los servicios en los mismos niveles de calidad que reciban las usuarias y usuarios del operador visitado.
+
+### Capítulo VI Interconexión entre proveedores de internet
+
+**Artículo 154°.- (Interconexión entre proveedores de internet)** 
+
+1. Los proveedores de servicio de internet que cuenten con conexión directa a proveedores internacionales, deben interconectarse entre sí dentro del territorio nacional a través del Punto de Intercambio de Tráfico – PIT, por el que se cursará el tráfico de internet que corresponda.
+2. Las condiciones de la interconexión deberán estar sujetas a lo establecido en el presente Reglamento, en lo que corresponda.
+3. El establecimiento del PIT no limita a que los proveedores de internet cuenten con salidas internacionales propias.
+
+**Artículo 155°.- (Punto de intercambio de tráfico)** 
+
+1. Los proveedores de Servicio Acceso de internet que cuenten con conexión directa a proveedores internacionales deberán conformar el Punto de Intercambio de Tráfico – PIT, interconectándose entre sí a través de uno o varios nodos para el intercambio de tráfico de datos bajo un plan de implementación, el cual deberá establecer los aspectos técnicos de interconexión, la administración del mismo, así como los mecanismos de aporte y pago.
+2. Las Características del PIT, los aspectos técnicos y el plazo de la interconexión serán establecidos mediante Resolución Ministerial emitida por Ministerio de Obras Públicas, Servicios y Vivienda.
+
+## Título IX Facturación, cobranza y corte
+
+### Capítulo I Condiciones para la facturación, cobranza y corte
+
+**Artículo 156°.- (Emisión de facturas)** 
+
+1. El proveedor de servicios de telecomunicaciones, tecnologías de información y comunicación, está obligado a emitir por sí mismo o mediante terceros, las correspondientes facturas sin cargo a las usuarias y usuarios a través de lugares de cobranza autorizados o por cualquier otro medio legalmente válido que disponga el operador o proveedor, salvo cuando no exista consumo por el servicio durante uno o más ciclos de facturación.
+2. Los ciclos de facturación, contenido de la factura, el detalle del estado de cuenta para los servicios de telecomunicaciones y tecnologías de información y comunicación, el tratamiento de las omisiones en la facturación, el límite de consumo, entre otros, serán establecidos en Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 157°.- (Facturación de otros servicios)** . Previo conocimiento de las condiciones y efectos de la facturación conjunta, la usuaria o usuario podrán autorizar la facturación de todos los servicios de telecomunicaciones brindados a través de un mismo acceso en una sola factura, salvo que esta facturación conjunta se haya establecido en el marco del régimen de interconexión entre operadores, previamente aprobado por la ATT.
+
+**Artículo 158°.- (Corte de servicio por incumplimiento de pago)** . Se establece como fecha límite de pago de cualquier servicio de telecomunicaciones el correspondiente a treinta (30) días calendario a partir de la fecha de disposición de las facturas en los puntos de cobranza. El procedimiento de corte será establecido en Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 159°.- (Rehabilitación del servicio)** . El operador deberá rehabilitar el servicio restringido o cortado dentro las siguientes veinticuatro (24) horas a partir del momento en que la usuaria o usuario cancele el monto adeudado por el servicio, o a partir de la fecha pactada mediante arreglo entre partes para el pago de la deuda que originó el corte o la restricción.
+
+**Artículo 160°.- (Corte por fraude en los servicios)** 
+
+1. En caso de que el operador considere que existe indicios suficientes de fraude o de conexiones ilegales, podrá proceder inmediatamente con el corte de servicio, sin perjuicio de seguir las acciones legales pertinentes para el resarcimiento de daños y perjuicios. El operador que procedió al corte deberá remitir la ATT la información pertinente para efectos de registro en el plazo de veinticuatro (24) horas en días laborables o dentro del primer día laborable siguiente.
+2. En el caso que la ATT establezca que el corte de servicio no se encuentra justificado, el operador deberá restablecer de manera inmediata el servicio, la devolución y la compensación a la usuaria o usuario en función al tiempo de corte, sin perjuicio de las acciones que estos puedan seguir por la vía jurisdiccional correspondiente por daños o perjuicios.
+
+### Capítulo II Información dispuesta para las usuarias y usuarios y detalle de llamadas
+
+**Artículo 161°.- (Información sobre facturación, cobranza y corte)** . El proveedor de servicios de telecomunicaciones, tecnologías de información y comunicación deberá poner a disposición de las usuarias y usuarios la información referida a la facturación, cobranza y corte de los servicios que presta. El contenido, formatos y condiciones de la información y el detalle de llamadas serán establecida en Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+### Capítulo III Reclamación, restricción de acceso y prohibiciones
+
+**Artículo 162°.- (Reclamaciones sobre facturación)** . La usuaria o usuario podrá efectuar reclamaciones sobre su facturación sin necesidad de previo pago total o parcial del monto reclamado. El procedimiento estará sujeto a lo establecido en la normativa del sector referida a reclamaciones.
+
+**Artículo 163°.- (Usuarias o usuarios que restringen su acceso a otros servicios)** . El proveedor que suministre servicios de forma directa a sus usuarias y usuarios, y que reciba de los mismos una solicitud expresa de restricción permanente de acceso a un servicio específico, deberá aplicar esta restricción a todos los operadores del mismo servicio.
+
+**Artículo 164°.- (Intercambio de información)** .- Los proveedores de servicios de telecomunicaciones podrán remitir a otros proveedores del mismo servicio, la nómina de las usuarias o usuarios que tengan cortado el servicio por deuda por al menos tres (3) meses continuos, con fines informativos y de carácter reservado, no pudiendo publicarse, comunicarse ni exhibirse a terceros.
+
+## Título X Derechos y obligaciones
+
+### Capítulo I Derechos y obligaciones de las usuarias y usuarios
+
+**Artículo 165°.- (Continuidad del servicio)** . Sin perjuicio de los derechos establecidos en la [Ley Nº 164](#TODO-link), cuando la ATT tramite reclamaciones, respecto a los servicios de telecomunicaciones disponibles al público; previo análisis podrá ordenar al operador o proveedor que mantenga el servicio o que, en el plazo que le indique, proceda a su reconexión, según corresponda, mientras resuelva el reclamo presentado.
+
+**Artículo 166°.- (Obligaciones)** 
+
+1. Las usuarias y usuarios deben utilizar los servicios sólo para los fines contratados, no pudiendo darle ningún uso distinto, y asumirán plena responsabilidad por los actos relacionados al uso que se realice de los servicios contratados.
+2. Las usuarias y usuarios de servicios de telecomunicaciones al público, no deben conectar a una red pública equipos terminales que pudieran impedir o interrumpir el servicio, realizar el desvío de comunicaciones de manera ilegal, fraudulenta o causar daño a la red.
+3. Es obligación de la usuaria y usuario no alterar los equipos terminales, aunque sean de su propiedad, que puedan causar daños o interferencias que degraden la calidad de servicio o con el objeto de producir la evasión o alteración del pago de las tarifas o cargos que correspondan.
+
+**Artículo 167°.- (Suspensión temporal de servicios)** 
+
+1. En cualquier modalidad de contratación de servicio de telecomunicaciones, las usuarias o usuarios podrán solicitar de forma escrita a los proveedores, la suspensión temporal de su servicio, la cual no podrá ser menor a un (1) mes ni mayor a cuatro (4) meses, para lo cual el proveedor tendrá un máximo de 24 horas para su ejecución. Para lo anterior, las usuarias o usuarios deben cancelar todas sus deudas pendientes con el proveedor por el servicio puesto en suspensión temporal.
+2. Cumplido el plazo de la suspensión temporal, o si mediare solicitud expresa de la usuaria o usuario, el operador o proveedor deberá rehabilitar el servicio previa comunicación a la usuaria o usuario, en el plazo máximo de un (1) día.
+3. No podrán aplicarse penalizaciones o cobros adicionales a las usuarias o usuarios por realizar la suspensión de sus servicios. El servicio de suspensión es gratuito.
+
+### Capítulo II Obligaciones de los operadores y proveedores
+
+**Artículo 168°.- (Modelos de contratos, términos y condiciones)** 
+
+1. Los modelos de contratos de adhesión de servicios, deberán ser aprobados por la ATT e incorporaran un resumen de los términos generales y condiciones para la provisión de los servicios. En caso de contratos tácitos, se aplicarán los términos generales y condiciones para la provisión de los servicios aprobados por la ATT, previo al inicio de prestación del servicio.
+2. Los proveedores de servicios establecerán los términos generales y condiciones para la provisión de servicios incluyendo mínimamente una descripción de los servicios provistos y aspectos asociados; características técnicas para optar por los servicios, habilitación de los servicios, procedimientos de facturación, cobranza y corte; parámetros de calidad; derechos y obligaciones de las usuarias y usuarios y proveedores, servicios de información, asistencia, reclamo y emergencia, prohibiciones en el uso del servicio, suspensión del servicio y formas de la conclusión de la provisión del servicio. Las usuarias y usuarios que así lo soliciten, podrán celebrar contratos con condiciones especiales, dichos contratos deberán ser reportados a la ATT.
+3. Todo proveedor deberá presentar a la ATT los términos y condiciones propuestos para la provisión de cada servicio y el respectivo modelo de contrato de provisión de servicio, así como actualizaciones de los mismos, para su aprobación dentro del plazo de quince (15) días de su presentación.
+
+**Artículo 169°.- (Obligaciones)** . De conformidad con lo establecido en la [Ley Nº 164](#TODO-link) se considerarán entre otras, las siguientes obligaciones:
+
+1. Los operadores o proveedores deberán ofrecer en forma gratuita a sus usuarias y usuarios, acceso a los números telefónicos especiales de servicios de emergencias, bomberos, policía, u otros que se establezcan por norma expresa. Del mismo modo, podrán acceder de forma gratuita a servicios de reporte de averías, de trámites telefónicos, de consulta de facturación y de interposición de reclamaciones por violación de derechos de las usuarias y usuarios de los servicios de telecomunicaciones.
+2. Todo operador o proveedor deberá informar a las usuarias y usuarios las áreas de cobertura autorizadas para sus servicios de telecomunicaciones, cuyos formatos y contenidos serán definidos por la ATT, los cuales deberán estar disponibles en las agencias correspondientes y las páginas web, debidamente actualizados.
+3. Los operadores o proveedores deberán disponer de medios de información que informen a la usuaria y usuario sobre el consumo realizado durante un período de facturación.
+4. Los operadores y proveedores de servicios de telecomunicaciones, deben respetar el derecho de la usuaria o el usuario de desconexión de un determinado servicio. Además de respetar la voluntad de los mismos a la resolución de un contrato. En caso de desconexión o resolución del contrato, permanecerán vigentes aquellas obligaciones de la usuaria o usuario pendientes de cumplimiento.
+5. Los operadores o proveedores que brinden servicios de telecomunicaciones y tecnologías de información y comunicación y radiodifusión deberán presentar a la ATT información estadística, técnica y económica financiera, conforme a principios, criterios y condiciones aprobados por el regulador para el Sistema de Información Sectorial.
+6. Los operadores o proveedores de servicios deberán publicar los modelos de contratos, términos y condiciones aprobados por la ATT en su sitio web y poner a disposición del público en todas las oficinas del operador o proveedor.
+7. Los operadores o proveedores del servicio local, deberán poner a disposición de las usuarias y usuarios su Guía telefónica impresa de manera anual en el transcurso del primer trimestre de cada año y en su web, debiendo remitir constancia a la ATT.
+8. Los operadores y proveedores de servicios de telecomunicaciones tienen la obligación de controlar todos los elementos contaminantes que se originen en sus instalaciones de infraestructura, así como en sus actividades, en conformidad con las normas legales aplicables, de manera que no dañen la salud y el medio ambiente.
+
+**Artículo 170°.- (Mantenimiento de documentos)** . Los operadores o proveedores de servicios de telecomunicaciones, deberán preservar la documentación e información física y electrónica referida a la actividad desarrollada al menos cinco (5) años a partir de su emisión o creación, salvo imposibilidad técnica verificada por la ATT.
+
+**Artículo 171°.- (Interrupción del servicio)** 
+
+1. Un proveedor de servicios al público no podrá interrumpir la operación de su red pública, o de parte de la misma, ni podrá suspender la prestación de dichos servicios, sin la autorización previa y por escrito de la ATT y después de haber informado a los usuarios que resultaren afectados a través de comunicación directa o un medio de comunicación masiva, por lo menos con cinco (5) días de anticipación, sobre interrupciones de más de treinta (30) minutos continuos.
+2. En casos de emergencia, eventos de fuerza mayor o caso fortuito que justifiquen la actuación del operador o proveedor, éste deberá reportar a la ATT en el menor plazo posible, que en ningún caso podrá exceder los tres (3) días hábiles de ocurrido el hecho.
+3. Las interrupciones programadas de duración menor o igual a treinta (30) minutos no requieren autorización de la ATT.
+4. En caso de interrupciones del servicio mayores a las doce (12) horas el proveedor deberá compensar este tiempo o descontar el monto resultante en la factura del mes, salvo los casos de fuerza mayor y caso fortuito
+
+**Artículo 172°.- (Condiciones especiales)** . La ATT, establecerá las especificaciones y condiciones técnicas para la implementación, por parte de los operadores y proveedores de servicios de telecomunicaciones, de facilidades para el uso de los servicios de acceso público a las personas en situación de discapacidad, así como a personas de la tercera edad.
+
+### Capítulo III Medidas correctivas y prácticas anticompetitivas
+
+**Artículo 125°.- (Aplicación de medidas correctivas)** 
+
+1. Cuando se determine que en un mercado no existe competencia efectiva para un servicio, la ATT establecerá obligaciones específicas aplicables a los operadores para promoverla. Si las distorsiones del mercado no pudieron ser corregidas, la ATT aplicará las medidas correctivas necesarias que cesarán cuando verifique que existe un grado de competencia efectiva en el mercado.
+2. La reglamentación sobre competencia efectiva, medidas correctivas y su procedimiento de aplicación será establecida mediante Resolución Ministerial emitida por el Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 173°.- (Prácticas anticompetitivas)** 
+
+1. En aplicación a lo dispuesto por la [Ley Nº 164](#TODO-link), queda prohibido a los operadores o proveedores, realizar prácticas abusivas que tuvieran el propósito o efecto de perjudicar a sus competidores y usuarios, conduciendo a situaciones anticompetitivas. Estas prácticas podrán consistir en:
+   1. La imposición directa o indirecta de precios de compra o de venta y otras condiciones comerciales no equitativas.
+   2. La aplicación de condiciones desiguales para operaciones equivalentes, que signifiquen para los usuarios una situación de desventaja.
+   3. Subordinar la suscripción de contratos a la aceptación por la contraparte de obligaciones adicionales que, por su naturaleza, o según las prácticas comerciales, no sean inherentes al objeto de dichos contratos.
+   4. Exigir que quien solicite la provisión de un servicio, asuma la condición de socio o accionista.
+   5. La subvención de un servicio por otro, prestados por el mismo operador o proveedor.
+   6. Fijar precios de los servicios por debajo de sus costos.
+   7. Campañas de promoción engañosas.
+   8. Descuentos ilegales en conexión de servicios u otros.
+2. La ATT, presentará al Ministerio de Obras Públicas, Servicios y Vivienda la calificación de otras prácticas anticompetitivas, abusivas y prácticas desleales para su aprobación mediante Resolución Ministerial.
+
+### Capítulo IV Inviolabilidad y secreto de las comunicaciones
+
+**Artículo 174°.- (Inviolabilidad y secreto de las comunicaciones)** 
+
+1. Los operadores y proveedores de servicios públicos de telecomunicaciones y tecnologías de información y comunicación deben garantizar a los usuarios y usuarias la inviolabilidad y secreto de las comunicaciones, salvo autorización judicial. Ni autoridad pública ni persona u organismo alguno podrá interceptar conversaciones o comunicaciones privadas mediante instalaciones que las controle o centralice.
+2. Se atenta contra la inviolabilidad y secreto de las comunicaciones, cuando deliberadamente una persona que no es quien origina o recibe la comunicación, sustrae, intercepta, interfiere, obstruye, cambia o altera su contenido, desvía su curso, publica, divulga, disemina, utiliza, trata de conocer o facilita que él mismo u otra persona conozca la existencia o el contenido de cualquier comunicación.
+3. Se atenta contra la inviolabilidad y secreto de las comunicaciones cuando las personas que en razón de su función, tienen conocimiento o acceso al contenido de una comunicación cursada a través de los servicios públicos o divulgan el contenido de la misma.
+
+**Artículo 175°.- (Información requerida sobre comunicaciones)** . Cuando exista una solicitud de información mediante orden judicial, que requiera detalle de llamadas, información referida a centrales o radiobases a través de las cuales se cursaron llamadas o comunicaciones u otra que se requiera para la investigación de delitos, los operadores de redes públicas y proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación deberán entregar la información requerida, sin que tal entrega constituya vulneración a la inviolabilidad y secreto de las telecomunicaciones.
+
+**Artículo 176°.- (Protección de los datos personales)** 
+
+1. El personal de operadores y proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación, está obligado a guardar secreto de la existencia o contenido de las comunicaciones y a la protección de los datos personales y la intimidad de los usuarios.
+2. Los operadores y proveedores de servicios están obligados a adoptar las medidas más idóneas para garantizar, preservar y mantener la confidencialidad y protección de los datos personales de los usuarios del servicio, salvo en los siguientes casos:
+   1. De existir una orden judicial específica;
+   2. Con consentimiento previo, expreso y por escrito del usuario titular;
+   3. En casos que la información sea necesaria para la emisión de guías telefónicas, facturas, detalle de llamadas al titular acreditado, o para la atención de reclamaciones, provisión de servicios de información y asistencia establecidos por el presente Reglamento, o para el cumplimiento de las obligaciones relacionadas con la interconexión de redes y servicios de apoyo.
+3. El operador o proveedor de servicios deberá coadyuvar en la identificación de los presuntos responsables de vulneraciones a la inviolabilidad, secreto de las comunicaciones, protección de los datos personales y la intimidad de los usuarios, que su personal pudiera cometer en las instalaciones del operador o proveedor.
+4. La ATT aprobará los procedimientos y medidas utilizadas por los operadores y proveedores para salvaguardar la inviolabilidad y secreto de las comunicaciones y a la protección de los datos personales y la intimidad de los usuarios.
+5. Queda prohibido que los operadores y proveedores de servicios permitan el acceso a registros o bases de datos de sus usuarios, ya sea de manera individual o a través de listas de usuarias, usuarios o números, con fines comerciales o de publicidad, salvo autorización previa, expresa y escrita de la usuaria o usuario que desee recibir dicha publicidad.
+
+## Título XI Obligaciones económicas de los operadores y proveedores
+
+### Capítulo I Pagos por asignación y uso del espectro radioeléctrico
+
+**Artículo 177°.- (Derecho de asignación de frecuencia)** 
+
+1. El Derecho de Asignación de Frecuencias (DAF) es el pago único que se realiza por cada asignación de frecuencia.
+2. El DAF se pagará antes de la emisión de la Resolución Administrativa de asignación de frecuencias, dentro del plazo de diez (10) días contados a partir de la notificación con la nota de cobranza emitida por la ATT. En caso de no ser efectivo dicho pago, se procederá de oficio al archivo de obrados, declarando el rechazo del trámite.
+3. El monto correspondiente al DAF será:
+   1. Para licencias adjudicadas mediante procesos de licitación, el mayor monto ofertado por el adjudicatario de la licitación, de acuerdo a los términos establecidos en el pliego de especificaciones correspondiente sobre el precio base calculado por la ATT en función a criterios técnico económicos,
+   2. Para licencias de redes privadas el monto del DAF será de quince (15) veces el valor anual establecido como derechos por uso de frecuencias.
+   3. Para licencias otorgadas de forma directa, el monto será determinado por la ATT en función a un estudio técnico económico.
+4. Para licencias vinculadas a la Licencia Única, el pago estará ligado al plazo de la licencia principal
+
+**Artículo 178°.- (Derecho de uso de frecuencia)** 
+
+1. Los operadores de redes y proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación que requieran uso de frecuencias para su operación, deben pagar anualmente por concepto de Derecho de Uso de Frecuencias (DUF) de la siguiente manera:
+2. El pago inicial al momento de obtener la Licencia para el Uso de Frecuencias será calculado por la ATT para el período comprendido entre la fecha de otorgamiento de la Licencia y el fin de gestión y deberá ser cancelado antes de la emisión de la Resolución Administrativa de asignación de frecuencias dentro de los diez (10) días a partir de la notificación al operador con la nota de cobranza emitida por la ATT.
+3. El pago anual deberá ser cancelado de manera anticipada hasta el 31 de enero de cada año, siempre que la Resolución Administrativa de asignación no establezca una forma de pago diferente. La ATT hasta el 15 de enero de cada gestión, pondrá a disposición de los titulares de licencias, la liquidación para el pago anual de los derechos de uso de frecuencias.
+4. El pago por modificación de licencia que produzca una variación en el monto por DUF establecido para la misma, se calculará entre el periodo de modificación o cambio de la red y el fin de la gestión y deberá ser cancelado antes de la emisión de la Resolución Administrativa de modificación de licencia dentro de los diez (10) días a partir de la notificación al operador con la nota de cobranza emitida por la ATT.
+5. En los casos de modificaciones de licencias que no requieran una Resolución Administrativa para su autorización (por ejemplo cantidad de estaciones fijas o móviles), el pago por DUF se calculará entre el periodo de modificación de la red y el fin de la gestión y deberá ser cancelado hasta el último día hábil del mes en el cual se realizó la modificación, y notificados a la ATT de acuerdo a los formularios establecidos para el efecto.
+6. Los pagos establecidos en el presente Artículo, se realizarán en las cuentas bancarias señaladas por la ATT y de conformidad a los procedimientos y normas vigentes.
+
+**Artículo 179°.- (Pago por uso de frecuencias)** 
+
+1. Los pagos anuales por concepto de Derechos de Uso de Frecuencias, tanto para redes públicas como para redes privadas deberán ser calculados en base a una fórmula que considere al menos los siguientes criterios:
+   1. Cantidad de Estaciones Fijas
+   2. Cantidad de Terminales, móviles, fijas o de cobertura restringida, así como las estaciones móviles de redes públicas o privadas.
+   3. Valoración de las bandas de frecuencias para los servicios de telecomunicaciones
+   4. Ancho de Banda
+   5. Cobertura radioeléctrica o Área de Servicio
+   6. Saturación del Espectro
+   7. Indicadores demográficos
+2. La Valoración de las bandas de frecuencias destinadas a servicios de telecomunicaciones existentes u otros nuevos para redes públicas o privadas, podrán ser modificadas mediante Resolución Ministerial del Ministerio de Obras Públicas, Servicios y Vivienda a solicitud y propuesta de la ATT, basada en estudios técnico económicos que justifiquen dichas modificaciones.
+
+**Artículo 180°.- (Aplicación de multas e intereses)** 
+
+1. La ATT establecerá multas e intereses por el incumplimiento del pago oportuno de los derechos de uso de frecuencia. La multa se establece en un diez por ciento (10%) adicional del monto total adeudado por el uso de frecuencia de cada gestión. Los intereses corren a partir del día siguiente de la fecha de vencimiento del pago.
+2. La tasa de interés a ser aplicada será del seis por ciento (6%) anual del uso de frecuencia de cada gestión.
+
+### Capítulo II Tasa de fiscalización y regulación
+
+**Artículo 181°.- (Tasa de fiscalización y regulación)** 
+
+1. Los montos y formas de pago de la Tasa de Fiscalización y Regulación, se calculan de acuerdo a lo siguiente:
+   1. Para titulares de Licencias para Redes Privadas, el uno por ciento (1%) anual del valor de mercado de los equipos utilizados, que no son de propiedad de un tercero declarados en el trámite de solicitud. Se excluye a la actividad de radioaficionados de la aplicación de esta tasa.
+   2. Para operadores o proveedores que presten servicios públicos o servicios de valor agregado, el uno por ciento (1%) de sus ingresos brutos de operación del año anterior, obtenidos por la prestación del servicio.
+   3. Para los servicios de radiodifusión televisiva o distribución de señales, el uno por ciento (1%) de los ingresos brutos de operación del año anterior.
+   4. Para los servicios de radiodifusión sonora, el medio por ciento (0,5%) de los ingresos brutos de operación del año anterior.
+   5. Para los servicios de radiodifusión provistos por los sectores social comunitario y los pueblos indígena originario campesinos, y comunidades interculturales y afrobolivianas fuera del área rural, el medio por ciento (0,5%) de sus ingresos brutos de operación del año anterior.
+   6. Para los nuevos operadores o proveedores de servicios de telecomunicaciones al público se considerarán como base tasable para el primer año, los ingresos proyectados en su plan de negocio, los cuales serán recalculados una vez que el operador o proveedor presente sus ingresos reales a la ATT.
+2. El titular está obligado a pagar la tasa de fiscalización y regulación que se determine, independientemente de cualquier impugnación administrativa que pudiera haber iniciado en contra.
+3. Los pagos de la Tasa de Fiscalización y Regulación serán realizados en la forma y plazos establecidos por la ATT.
+
+**Artículo 182°.- (Morosidad en el pago)** 
+
+1. El operador que incumpla con la fecha establecida para el pago de la tasa de Fiscalización y Regulación, será considerado operador en mora sin necesidad de intimación o requerimiento alguno.
+2. La ATT establecerá las siguientes penalidades en caso de mora del pago de la Tasa de Fiscalización y Regulación:
+   1. Multa del diez por ciento (10%) sobre el monto total adeudado.
+   2. Tasa de interés del seis por ciento (6%) anual sobre el monto adeudado.
+3. Los intereses corren a partir del día siguiente de la fecha de vencimiento del pago.
+4. El pago por concepto de la multa y los intereses correspondientes, deberán cancelarse de forma conjunta con la Tasa de Fiscalización y Regulación vencida.
+
+**Artículo 183°.- (Transferencia de los montos recaudados)** . La recaudación por concepto de Tasa de Fiscalización y Regulación, así como sus intereses y multas por mora, serán depositados por la ATT de manera semestral hasta los diez (10) días del mes siguiente, vencido el semestre, a la Cuenta Única del Tesoro (CUT).
+
+## Título XII Acceso y servicio universal
+
+### Capítulo I Disposiciones generales
+
+**Artículo 184°.- (Programa Nacional de Telecomunicaciones de Inclusión Social)** 
+
+1. El Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, tiene por objeto contribuir al acceso universal a los servicios de telecomunicaciones y tecnologías de información y comunicación, a través del cofinanciamiento de proyectos.
+2. Los recursos del PRONTIS no podrán utilizarse para fines distintos a los señalados por ley, ni ocasionar prácticas anticompetitivas.
+3. Los proyectos cofinanciados por el PRONTIS, podrán acceder a los mecanismos de otorgamiento de licencias y a las exenciones de pago de tasas y derechos de asignación y uso de frecuencias para áreas rurales.
+
+**Artículo 185°.- (Objetivos del PRONTIS)** . Son objetivos del PRONTIS los siguientes:
+
+1. Reducir las desigualdades de acceso a los servicios de telecomunicaciones y tecnologías de información y comunicación en áreas rurales, lugares que se consideren de interés social que no cuentan con servicios de telecomunicaciones o que los mismos sean limitados respecto a los prestados en centros urbanos.
+2. Promover el acceso a servicios de telecomunicaciones y tecnologías de información y comunicación, prestados oportunamente, en condiciones de calidad, eficiencia, continuidad y con tarifas asequibles.
+3. Contribuir al desarrollo humano integral, económico y cultural, mediante el uso y aprovechamiento de las tecnologías de información y comunicación, en la apropiación y difusión del saber comunitario, la generación de contenidos relacionados con la educación, salud, usos productivos y servicios de gestión pública, en el área rural, lugares que se consideren de interés social.
+4. Dotar de conectividad o servicios de telecomunicaciones y tecnologías de información y comunicación a las localidades rurales donde exista instituciones, unidades educativas públicas y centros públicos de salud.
+
+**Artículo 186°.- (Prestación continua de servicios)** . Los operadores que accedan al cofinanciamiento de proyectos mediante el PRONTIS están obligados a la prestación continua de los servicios objeto del cofinanciamiento de conformidad con la normativa vigente.
+
+### Capítulo II Ejecución del programa nacional de telecomunicaciones de inclusión social
+
+**Artículo 187°.- (De la unidad de ejecución de proyectos del PRONTIS)** . La Unidad de Ejecución del PRONTIS debe realizar las actividades necesarias para garantizar el cumplimiento de los fines y objetivos del Programa Nacional de Telecomunicaciones de Inclusión Social según la normativa vigente.
+
+**Artículo 188°.- (Financiamiento del PRONTIS)** 
+
+1. El PRONTIS se financiará con los recursos provenientes de:
+   1. Los montos recaudados por la ATT, por concepto de pagos de licencias, derechos de asignación y uso de frecuencias, multas, remates de bienes, ejecución de boletas de garantía y excedentes de transferencias a nuevos titulares, previa deducción de:
+   2. El pago de obligaciones a la Unión Internacional de Telecomunicaciones (UIT).
+   3. Los recursos que demande la inversión para el control del Espectro Radioeléctrico hasta el veinte por ciento (20%) del total recaudado por estos conceptos, previa aprobación del Ministerio de Obras Públicas, Servicios y Vivienda. En caso de inexistencia de proyectos de inversión para control del espectro radioeléctrico, no se realizará esta deducción.
+   4. Las deducciones anteriormente mencionadas, serán depositadas en la Cuenta Única del Tesoro (CUT) trimestralmente.
+   5. Aportes de los operadores y proveedores de redes y servicios de telecomunicaciones y tecnologías de información y comunicación de acuerdo a lo establecido en la [Ley Nº 164](#TODO-link) y el presente Reglamento.
+   6. Recursos externos, donaciones y cooperación internacional.
+2. Los montos recaudados por la ATT, por concepto del PRONTIS posterior a las deducciones señaladas en el inciso a) del presente Artículo, serán depositados en la Cuenta Única del Tesoro correspondiente al Ministerio de Obras Públicas, Servicios y Vivienda, trimestralmente o a requerimiento de este Ministerio.
+
+**Artículo 189°.- (Distribución de los recursos del PRONTIS)** . Los recursos señalados en los incisos a) y b) del artículo precedente, para cada gestión, serán distribuidos de la siguiente manera:
+
+1. Hasta el uno por ciento (1%) para gastos de funcionamiento de la Unidad de Ejecución de Proyectos del PRONTIS.
+2. El saldo de los recursos, será destinado para gastos de inversión en proyectos enmarcados en el PRONTIS.
+
+**Artículo 190°.- (Transferencias público - público y público – privado)** .
+
+1. Se autoriza al Ministerio de Obras Públicas, Servicios y Vivienda a realizar transferencias público – público o público - privadas con los recursos del PRONTIS a los operadores de telecomunicaciones legalmente autorizados y adjudicados para la ejecución de proyectos emergentes del PRONTIS.
+2. El importe, uso y destino de las transferencias público – público o público – privada y la reglamentación especifica deberán ser aprobadas mediante Resolución Ministerial del Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 191°.- (Modalidades y condiciones de financiamiento)** 
+
+1. Las áreas geográficas de intervención del PRONTIS, serán principalmente, aquellas que no cuenten con el servicio público de telecomunicaciones propuesto en el proyecto y que se encuentren en áreas rurales o en las consideradas de interés social.
+2. El financiamiento debe destinarse a proyectos de inversión en infraestructura y redes de telecomunicaciones y tecnologías de información y comunicación, así como el desarrollo de contenidos y aplicaciones informáticas destinadas a gobierno electrónico, teleeducación, telesalud y desarrollo productivo, para el logro del acceso y servicio universal en área rurales y de interés social.
+3. No podrán asignarse recursos como subsidio directo a las usuarias o usuarios.
+4. Los programas y proyectos serán financiados de acuerdo a las siguientes modalidades:
+   1. Contrato de financiamiento parcial o cofinanciamiento, mediante el otorgamiento de recursos no reembolsables a la inversión, para que empresas de telecomunicaciones con participación estatal mayoritaria, ejecuten proyectos a través de un proceso de invitación directa.
+   2. Contrato de financiamiento parcial o cofinanciamiento, mediante licitación con adjudicación al menor cofinanciamiento solicitado entre los operadores de servicios de telecomunicaciones o empresas de desarrollo de contenidos y aplicaciones establecidas en el país.
+
+**Artículo 192°.- (De los contratos)** . El contenido del contrato, plazos, procedimiento y condiciones del cofinanciamiento se establecerán mediante Resolución Ministerial del Ministerio de Obras Públicas, Servicios y Vivienda.
+
+**Artículo 193°.- (Infraestructura cofinanciada)** 
+
+1. Las redes que sean beneficiadas con el cofinanciamiento de proyectos del PRONTIS, deberán ser accesibles a los demás operadores de acuerdo a los mecanismos de interconexión, acceso y uso compartido de infraestructura, salvo durante la vigencia del Contrato de cofinanciamiento.
+2. La infraestructura cofinanciada con recursos del PRONTIS y empleada por un operador para la ejecución de proyectos de telecomunicaciones de inclusión social, no podrá ser enajenada, cedida o gravada, durante la vigencia del Contrato de cofinanciamiento, tampoco podrá ser objeto de medidas judiciales preventivas o ejecutivas.
+
+**Artículo 194°.- (Propiedad de los activos)** 
+
+1. Los activos resultantes del cofinanciamiento de proyectos en el marco del PRONTIS, pasarán a propiedad del operador adjudicado, cuando el Contrato de cofinanciamiento se cumpla a cabalidad.
+2. En caso de incumplimiento del Contrato del cofinanciamiento se procederá a la resolución del mismo, la ejecución de las respectivas boletas de garantía, debiendo el operador adjudicado realizar la devolución de todos los recursos transferidos.
+
+**Artículo 195°.- (Operación en el área rural)** . La operación de redes públicas y provisión de servicios exclusivamente en el área rural existentes al momento de la publicación del presente Reglamento, así como las nuevas, están exentas de los aportes al PRONTIS.
+
+**Artículo 196°.- (Aportes al PRONTIS)** 
+
+1. Los operadores y proveedores de redes y servicios de telecomunicaciones y tecnologías de información y comunicación con excepción de los proveedores de servicios de radiodifusión, aportarán al Programa Nacional de Telecomunicaciones de Inclusión Social, PRONTIS, considerando:
+   1. El porcentaje de aporte aplicable a los ingresos brutos emergente de la provisión de los servicios de telecomunicaciones para el semestre anterior.
+   2. Los Ingresos totales del operador o proveedor con mayores ingresos según datos del Sistema de Información Financiera Codificada Uniforme - SIFCU del semestre anterior, deduciendo los ingresos por servicios prestados en el área rural por el operador o proveedor.
+   3. Los Ingresos totales del operador o proveedor del que se calcula el aporte según datos del SIFCU, deduciendo los ingresos por servicios en el área rural.
+   4. La deducción del aporte del cincuenta por ciento (50%) de las inversiones en el área rural realizadas para proveer servicios de telecomunicaciones al público el semestre anterior.
+2. El Ministerio de Obras Públicas, Servicios y Vivienda, mediante Resolución Ministerial establecerá la fórmula de acuerdo a lo señalado en el Parágrafo anterior.
+
+**Artículo 197°.- (Inversiones en el área rural)** 
+
+1. Se entenderá por inversión en el área rural, toda contratación de bienes, obras y servicios para el suministro, instalación y puesta en funcionamiento de una red, destinada únicamente a proveer servicios de telecomunicaciones al público en áreas rurales, enmarcadas en los objetivos del PRONTIS y previa aprobación de la Unidad de Ejecución del PRONTIS.
+2. No aplicará la deducción del aporte de la inversión en el área rural aquellas cofinanciadas con recursos del PRONTIS.
+3. Las deducciones al aporte al PRONTIS, no significarán un aporte menor al uno por ciento (1%) y tampoco serán acumulables para el próximo semestre.
+
+**Artículo 198°.- (Forma de pago)** 
+
+1. El pago del aporte al PRONTIS se realizará de cuotas semestrales en base a los estados financieros de la gestión inmediata anterior, de acuerdo al procedimiento establecido por el Ministerio de Obras Públicas, Servicios y Vivienda mediante Resolución Ministerial.
+2. Vencida la fecha establecida para el pago del aporte al PRONTIS, si ésta no ha sido cancelada, se constituirá en mora sin necesidad de intimación o requerimiento alguno.
+3. En caso de presentarse morosidad en los pagos del aporte al PRONTIS se aplicará la tasa de interés del seis por ciento (6%) anual, sobre el monto adeudado, debiendo cancelarse en forma conjunta con el aporte vencido.
+
+## Título XIII Emergencias y seguridad nacional
+
+### Capítulo Único Disposiciones para las emergencias y la seguridad nacional
+
+**Artículo 199°.- (Plan de emergencia)** 
+
+1. La ATT elaborará el Plan de Emergencia para el sector de telecomunicaciones y tecnologías de información y comunicación, en coordinación con el Ministerio de Obras Públicas, Servicios y Vivienda y otras instituciones del Órgano Ejecutivo que estén relacionadas en temas de desastres y emergencias, el mismo que será periódicamente actualizado.
+2. En casos de declaratoria de emergencia nacional, o departamental, la ATT implementará el Plan de emergencia para poner a disposición del SISRADE los servicios de telecomunicaciones, a cuyo efecto los operadores o proveedores no podrán negar su cooperación.
+3. Se considerará caso de emergencia nacional cuando el Órgano Ejecutivo así lo establezca mediante el instrumento legal correspondiente.
+
+**Artículo 200°.- (Prioridades)** . Tienen prioridad absoluta los servicios de telecomunicaciones que se realizan en las zonas de operaciones de emergencia declarada y los que conectan a éstas con el resto del país, inclusive en las Redes Privadas.
+
+## Título XIV Administración y registro de los nombres de dominio “.bo”
+
+### Capítulo Único Administración del dominio “.bo”
+
+**Artículo 201°.- (Administración del dominio “.bo”)** . La administración del dominio .bo, será regulada por la Agencia para el Desarrollo de la Sociedad de la Información en Bolivia – ADSIB, que determinarán los principios y lineamientos generales para el registro de los nombres de dominio bajo el Dominio de Nivel Superior de Código de País – ccTLD “.bo” (ccTLD: por sus siglas en ingles “country code Top Level Domain”).
+
+**Artículo 202°.- (Dominios de segundo y tercer nivel)** . La ADSIB, registrará y administrará los nombres de dominios de Segundo y Tercer nivel del Dominio de Nivel Superior de Código de País - ccTLD o sub dominios, de los siguientes tipos:
+  
+**Nombre de Dominio de Segundo Nivel.-**
+  
+Se ajustará al siguiente formato:
+  
+nombre.bo.
+  
+**Nombre de Dominio de Tercer Nivel.-**
+  
+Se ajustará de acuerdo a lo siguiente:
+
+|  |  |
+| --- | --- |
+| nombre.com.bo.- | Sub dominio asignado a personas naturales o jurídicas. |
+| nombre.net.bo.- | Sub dominio asignado para proveedores de servicios de Internet (ISP). |
+| nombre.org.bo.- | Sub dominio asignado para organizaciones y entidades sin fines de lucro. |
+| nombre.gob.bo.- | Sub dominio restringido y asignado exclusivamente para las entidades o Instituciones Gubernamentales en todos sus niveles de gobierno del Estado Plurinacional de Bolivia. |
+| nombre.edu.bo.- | Sub dominio restringido y asignado exclusivamente para las Universidades públicas o privadas, entidades, organismos e instituciones de carácter educativo. |
+| nombre.mil.bo.- | Sub dominio restringido y asignado exclusivamente para entidades militares y dependencias de las Fuerzas Armadas del Estado Plurinacional de Bolivia. |
+| nombre.int.bo.- | Sub dominio restringido y asignado exclusivamente para los Organismos internacionales, Embajadas, Consulados, Representaciones y otros legalmente acreditados en el Estado Plurinacional de Bolivia. |
+| nombre.tv.bo.- | Sub dominio asignado para medios de comunicación televisivos. |
+
+  
+**Otros Nombres de Dominio que pudieran crearse posteriormente en el Dominio de Nivel Superior de Código de País – ccTLD.**
+
+1. Los caracteres válidos y la longitud total del nombre de dominio será establecido y compatibilizado por la ADSIB de acuerdo a estándares internacionales.
+2. La ADSIB podrá generar las disposiciones correspondientes para otros nombres de Sub dominios que pudieran crearse en el ccTLD.bo, así como la forma y longitud de los nombres de dominio en función de la evolución tecnológica.
+
+**Artículo 203°.- (Requisitos para la solicitud)** 
+
+1. Las solicitudes para nombres de dominio de segundo nivel y tercer nivel no restringidos y el registro, podrán ser efectuadas en línea vía web en la dirección electrónica y condiciones establecidas por la ADSIB.
+2. Los nombres de dominio de tercer nivel bajo el ccTLD.bo restringidos, requieren para su registro la presentación de la documentación, de acuerdo a requisitos y procedimientos establecidos mediante Resolución Administrativa emitida por la ADSIB.
+
+**Artículo 204°.- (Cobro por el registro o mantenimiento de dominio)** . La ADSIB, realizará el cobro anual de manera anticipada por el registro o mantenimiento de dominio a sus usuarias o usuarios de acuerdo al Tarifario aprobado por la ATT.
+
+**Artículo 205°.- (Prohibición)** . En ningún caso el titular, los contactos o registrante de un nombre de dominio .bo, ofrecerán servicios que comprendan la delegación de "subdominios" de la zona de autoridad, parcial o total a terceras personas, que la ADSIB le asignó al registrar el nombre.
+
+**Artículo 206°.- (Eliminación de nombre de dominio)** . La ADSIB podrá eliminar un nombre de dominio por las siguientes causales:
+
+1. A solicitud expresa del titular del dominio
+2. Por fecha vencida de pago anual del dominio
+3. Por manejo de información fraudulenta al tiempo de registrar el dominio
+4. Como consecuencia de una sentencia judicial ejecutoriada en el marco de las normas nacionales, por disputa de nombre de dominio.
+
+**Artículo 207°.- (Solución de controversias)** . El procedimiento de solución de controversias en materia de nombres de dominio registrados bajo el ccTLD .bo, se regirá por un Reglamento específico de solución de controversias en materia de nombres de dominio registrados bajo el ccTLD .bo, aprobado mediante Resolución Administrativa por la ADSIB.
+
+---
+
+Proyecto de Reglamento general a la [Ley Nº 164](#TODO-link) de 8 de agosto de 2011 General de telecomunicaciones, tecnologías de información y comunicación para el sector de telecomunicaciones

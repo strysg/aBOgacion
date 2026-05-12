@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 799, 23 de febrero de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 30 de la [Ley Nº 062](#TODO-link), de 28 de noviembre de 2010, Ley del Presupuesto General del Estado - Gestión 2011, autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo, dependiente del Ministerio de Planificación del Desarrollo, en el marco de sus competencias, inscribir y/o incrementar el gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión” cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento y los casos que no correspondan a contraparte nacional deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Artículo 12 del [Decreto Supremo Nº 0772](#TODO-link), de 19 de enero de 2011, que reglamenta la aplicación de la [Ley Nº 062](#TODO-link), dispone que la definición de las remuneraciones de los Consultores de Línea, debe estar establecida en función a la escala salarial; para lo cual, las Unidades Administrativas de cada entidad, elaborarán el cuadro de equivalencia de funciones que será avalado por la Unidad Jurídica y autorizada por la MAE de la entidad.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, establece que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Reglamento de Modificaciones Presupuestarias, aprobado por [Decreto Supremo Nº 29881](#TODO-link), de 7 de enero de 2009, establece los procedimientos y responsables para elaborar, presentar, aprobar y registrar las modificaciones al Presupuesto General del Estado, así como las competencias de aprobación según el tipo y alcance de las modificaciones presupuestarias.
+* Que mediante Resolución Ministerial Nº 039, de 10 de febrero 2011, del Ministerio de Economía y Finanzas Públicas, se aprobó la solicitud de traspaso presupuestario interinstitucional del presupuesto de la Entidad 517 Corporación Minera de Bolivia, para su transferencia a la Entidad 076 Ministerio de Minería y Metalurgia, por un importe total de Bs2.500.000.- (DOS MILLONES QUINIENTOS mil 00/100 BOLIVIANOS), con recursos de la Fuentede Financiamiento 42 y Organismo Financiador 230 “Transferencias de Recursos Específicos”, en cumplimiento a la Resolución Ministerial Nº 015 del Ministerio de Minería y Metalurgia y la Resolución de Directorio Nº 4514 de la Corporación Minera de Bolivia - COMIBOL.
+* Que con el fin de alcanzar los objetivos institucionales y cumplir actividades del Ministerio de Minería y Metalurgia durante la presente gestión, este Ministerio realizará la contratación de consultorías por producto y de línea, para lo cual requiere incrementar el gasto en las subpartidas 25210 “Consultorías por Producto” en Bs202.946.- (DOSCIENTOS DOS mil novecientos CUARENTA Y SEIS 00/100 BOLIVIANOS) y 25220 “Consultores de línea” en Bs1.098.000.- (UN MILLÓN NOVENTA Y OCHO mil 00/100 BOLIVIANOS), totalizando un monto de Bs1.300.946.- (UN MILLÓN TRESCIENTOS mil novecientos CUARENTA Y SEIS 00/100 BOLIVIANOS), recursos que serán asignados a las Unidades Ejecutoras de la Dirección General de Asuntos Administrativos, Viceministerio de Desarrollo Productivo Minero Metalúrgico, Viceministerio de Cooperativas Mineras y Viceministerio de Política Minera, Regulación y Fiscalización.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Minería y Metalurgia incrementar las subpartidas 25210 “Consultorías por Producto” en Bs202.946.- (DOSCIENTOS DOS mil novecientos CUARENTA Y SEIS 00/100 BOLIVIANOS) y 25220 “Consultores de Línea” en Bs1.098.000.- (UN MILLÓN NOVENTA Y OCHO mil 00/100 BOLIVIANOS), totalizando un monto de Bs1.300.946.- (UN MILLÓN TRESCIENTOS mil novecientos CUARENTA Y SEIS 00/100 BOLIVIANOS), a través del traspaso intrainstitucional que afecta la subpartida 26990 “Otros” en Bs1.300.946.- (UN MILLÓN TRESCIENTOS mil novecientos CUARENTA Y SEIS 00/100 BOLIVIANOS), con fuente 42 - Transferencias de Recursos Específicos y organismo financiador 230 - Otros Recursos Específicos, para financiar la contratación de consultorías por producto y de línea que permitan dar cumplimiento a los objetivos y actividades del Ministerio de Minería y Metalurgia durante la presente gestión.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Minería y Metalurgia, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de febrero del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

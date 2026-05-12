@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 28835, 23 de agosto de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 8 de la [Ley Nº 2042](#TODO-link) de 21 de diciembre de 1999 - Ley de Administración Presupuestaria, “autoriza al Poder Ejecutivo que las donaciones y créditos externos para gastos de capital, gastos corrientes y aplicaciones financieras no contempladas en el presupuesto General de la Nación aprobado anualmente, sean incorporados por el Ministerio de Hacienda en los presupuestos de las instituciones”.
+* Que el Artículo 1 de la [Ley Nº 3302](#TODO-link) de 16 de diciembre de 2005, establece que de conformidad con el Artículo 59, Atribución 3ª de la Constitución Política del Estado, se aprueban los Presupuestos Institucionales del Sector Público, para su vigencia durante la gestión fiscal comprendida entre el 1 de enero al 31 de diciembre de 2006.
+* Que el Artículo 15 del Reglamento de Modificaciones Presupuestarias, aprobado por el [Decreto Supremo Nº 27849](#TODO-link) de 12 de noviembre de 2004, determina en su inc. a), que la incorporación de recursos y gastos financiados por Crédito Externo, se cumplirá conforme a lo dispuesto por el Artículo 8 de la [Ley Nº 2042](#TODO-link).
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 14 de Agosto de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Salud y Deportes.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza el incremento de la partida 25800 “Estudios e Investigaciones para Proyectos de Inversión” por Bs1.289.633.- (UN MILLON DOSCIENTOS OCHENTA Y NUEVE mil SEISCIENTOS TREINTA Y TRES 00/100 BOLIVIANOS), con fuente de financiamiento 70 - Crédito Externo y 411 - BID, a favor del Ministerio de Salud y Deportes para el proyecto “Control (Escudo) Epidemiológico y Apoyo a la Reforma del Sector Salud” de acuerdo al anexo adjunto y de conformidad al Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link).
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Hacienda y de Salud y Deportes, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de agosto del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani Ministro de Trabajo e Interino de Salud y Deportes, Félix Patzi Paco.

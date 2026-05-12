@@ -1,0 +1,46 @@
+# Bolivia: Decreto Supremo Nº 28582, 16 de enero de 2006
+
+EDUARDO RODRIGUEZ VELTZE
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Dirección de Desarrollo Docente del Ministerio de Educación ha propuesto una norma que revisa tres escenarios de inserción laboral para los profesores egresados a partir de la Gestión 2005, concluyendo que es importante la revisión y la aprobación de la indicada disposición, debido a la proximidad del proceso de admisión de postulantes al Instituto Normal Superior Simón Bolívar que corresponde a 17.901 inscritos, cuya norma va a posibilitar organizar la admisión y la inserción laboral.
+* Que la Dirección de Desarrollo Institucional del Ministerio de Educación, ha elaborado el Proyecto de Reglamento de Movilidad Funcionaria en el que se establece también los años de ejercicio profesional en áreas dispersas de los egresados de los Centros de Formación Docente, por lo que, es pertinente la reglamentación para la restitución de los años de provincia, señalando que debe modificarse el Artículo 43 del [Decreto Supremo Nº 23968](#TODO-link) de 24 de febrero de 1995 o incorporar los años de provincia como requisito para el ascenso de categoría, proceso que debería realizarse a partir de la Gestión 2006.
+* Que la Dirección de Planificación dependiente de la Dirección General de Estrategia Educativa del Ministerio de Educación, concluye que la implementación de este servicio contribuirá en gran medida en la permanencia de los docentes en el área rural, debiendo consolidar algunos sistemas de información, mejorar los criterios de selección con el sector magisterio, concluir el estudio del salario docente y la absorción laboral del Estado, el fortalecimiento de la descentralización y las autonomías que plantean una redirección de la política social, entre otros.
+* Que los Artículos 184 y 190 de la Constitución Política del Estado, establecen que la educación fiscal y privada en todos sus grados está regida y se halla sujeta a la tuición del Estado mediante el Ministerio del ramo de acuerdo al Código de la Educación.
+* Que el Artículo 16 de la [Ley Nº 1565](#TODO-link) de 7 de julio de 1994 establece que el personal docente de los niveles inicial, primario y secundario se formará en los Institutos Normales Superiores y en las Universidades. La Secretaria Nacional de Educación otorgará el reconocimiento académico equivalente al grado de Técnico Superior a los egresados de las Escuelas Normales, con Titulo en Provisión Nacional, que deseen continuar sus estudios de licenciatura, previa acreditación de sus conocimientos, experiencia y aprendizaje especiales por el organismo competente. En tanto que el Artículo 55 de la [Ley Nº 1565](#TODO-link) deroga todas las leyes, decretos y disposiciones contrarias a dicha disposición legal.
+* Que el Artículo 43 del [Decreto Supremo Nº 23968](#TODO-link) que aprueba el Reglamento sobre las Carreras en el Servicio de Educación Pública, establece que a partir de 1998, los egresados de los Institutos Superiores de Educación recibirán su Titulo en Provisión Nacional en el acto mismo de su graduación y, conforme a lo dispuesto por el Artículo 34 del Código de la Educación, deberán rendir examen de competencia para ingresar al Servicio de Educación Publica, de conformidad con lo estipulado por el Artículo 10 de dicho Reglamento.
+* Que el Artículo 3 del [Decreto Supremo Nº 25281](#TODO-link) de 30 de enero de 1999, establece que en las poblaciones con menos de 15.000 habitantes podrá contratarse directamente a los egresados de las normales y a profesionales universitarios para cubrir las ausencias provocadas por los abandonos y sólo en caso de que estos fueran insuficientes podrá contratarse a bachilleres.
+* Que el Artículo 4 de la [Ley Nº 2446](#TODO-link) de 19 de marzo de 2003 - Ley de Organización del Poder Ejecutivo, señala como atribuciones del Ministerio de Educación las de formular ejecutar, evaluar y fiscalizar las políticas y programas de educación; ejercer tuición sobre la educación en todos sus grados y regir la educación fiscal y privada en todos sus ciclos, modalidades y niveles, velando por su calidad; así como promover la educación vocacional y la enseñanza profesional, técnica y científica.
+* Que revisados los antecedentes y las normas jurídicas anteriores, se establece que las dependencias del Viceministerio de Educación Escolarizada y Alternativa dependientes del Ministerio de Educación, han establecido la necesidad de regular la inserción laboral de los egresados de los centros de formación docente, lo que antiguamente se denominaba “años de provincia”, estableciendo nuevos parámetros para que los nuevos maestros incursionen en el ámbito de la docencia; en consecuencia, encontrándose justificada esta solicitud, por los Informes Técnicos descritos anteriormente, corresponde dictar la disposición normativa que regule este servicio.
+* Que tomando en cuenta lo anteriormente citado, es necesario dictar la presente norma, la misma que en el marco del Capítulo IX del [Decreto Supremo Nº 27230](#TODO-link) de 31 de octubre de 2003, fue aprobada por el Consejo Nacional de Política Económica - CONAPE en fecha 10 de enero de 2006.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto crear el sistema de inserción laboral para los egresados de los centros de formación docente inicial, sin excepción a partir de la Gestión 2006, de acuerdo a las especialidades, ciclos, modalidades y niveles de egreso, considerando tres niveles consecutivos de inserción laboral, iniciándose con dos años en zonas denominadas dispersas, luego un año en ciudades intermedias, y finalmente, después de estos tres años, podrán ingresar a ciudades concentradas o zonas urbanas.
+
+**Artículo 2°.- (Zonas categorizadas)** Se crea el sistema de inserción laboral en zonas dispersas categorizadas como distritos “D” y “E”, de acuerdo al Manual de proceso para la elaboración de la planilla de haberes del Servicio de Educación Pública - SEP, denominado “Asistencia profesional obligatoria en zonas dispersas”, para los profesores egresados de los centros de formación docente inicial de acuerdo a los niveles, ciclos y especialidades de egreso correspondiente, con una permanencia de dos años consecutivos certificados por la autoridad educativa competente.
+
+**Artículo 3°.- (Ciudades intermedias)** Se crea el sistema de inserción laboral en ciudades intermedias categorizadas como distritos “B” y “C”, de acuerdo al Manual de proceso para la elaboración de la planilla de haberes del Servicio de Educación Pública - SEP, denominado “Asistencia profesional obligatoria en ciudades intermedias”, para los profesores egresados de los centros de formación docente inicial de acuerdo a los niveles, ciclos y especialidades de egreso correspondientes, con una permanencia de un año certificado por la autoridad competente que previamente hayan finalizado los dos años consecutivos de inserción laboral en zonas dispersas.
+
+**Artículo 4°.- (Titulos en Provision Nacional)** El Ministerio de Educación emitirá los Títulos en Provisión Nacional a los profesores egresados, una vez que cumplan con los requisitos de egreso y obtengan el certificado de egreso correspondiente acreditado por las autoridades competentes.
+
+**Artículo 5°.- (Ascensos de categoria)** Los profesores egresados cualquiera sea el nivel, ciclos, especialidad o modalidad podrán presentarse a los exámenes de ascensos de categoría, una vez que tengan la certificación de las autoridades competentes sobre la inserción laboral de dos años consecutivos en zonas dispersas.
+
+**Artículo 6°.- (Zonas urbanas)** Los profesores egresados cualquiera sea el nivel, ciclos, especialidad o modalidad podrán ingresar a zonas urbanas una vez que tengan la certificación de las autoridades competentes sobre la inserción laboral de dos años consecutivos en zonas dispersas, y uno en ciudades Intermedias.
+
+**Artículo 7°.- (Reglamentacion)** Todos los aspectos relacionados con el sistema de inserción laboral contenidos en el presente Decreto Supremo, serán reglamentados por el Ministerio de Educación.
+
+**Artículo 8°.- (Vigencia de normas)** Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Educación, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de enero del año dos mil seis.
+  
+Fdo. EDUARDO RODRIGUEZ VELTZE, Armando Loayza Mariaca, Iván Avilés Mantilla, Gustavo Avila Bustamante, Gonzalo Méndez Gutiérrez, Waldo Gutiérrez Iriarte, Martha Bozo Espinoza, Carlos Díaz Villavicencio, Mario Moreno Viruéz, Sergio M. Medinaceli Monroy, Maria Cristina Mejía Barragán, Alvaro Muñoz Reyes Navarro, Carlos Antonio Laguna Navarro, Guillermo Ribera Cuellar, Dionisio Garzón Martínez, Naya Ponce Fortún, Pedro Ticona Cruz.

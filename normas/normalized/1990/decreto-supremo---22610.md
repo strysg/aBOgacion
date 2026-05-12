@@ -1,0 +1,40 @@
+# Bolivia: Decreto Supremo Nº 22610, 24 de septiembre de 1990
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, la Ley de Reforma Agraria, la Ley General de Colonización y la Ley General Forestal, reconocen y protegen el derecho a la tierra de los grupos étnicos del Oriente y la Amazonía.
+* Que, el [Decreto Supremo Nº 07401](#TODO-link) de 22 de noviembre de 1965, de creación del Parque Nacional Isiboro-Sécure, al reconocer la existencia de propiedades particulares dentro del mismo dispone que éstas deben someterse a las disposiciones reglamentarias que dicte el Ministerio de Asuntos Campesinos y Agropecuarios.
+* Que, el Directorio del Centro de Desarrollo Forestal Regional Norte declaró al Parque Nacional Isiboro -Sécure como área indígena indispensable para el desarrollo y sobrevivencia de los pueblos indígenas que lo habitan.
+* Que, en fecha 19 de enero de 1990, autoridades del Ministerio de Asuntos Campesinos y Agropecuarios y del Centro de Desarrollo Forestal Nacional firmaron, conjuntamente, representantes de la Central Obrera Boliviana ( COB ), Confederación Sindical Unica de Trabajadores Campesinos de Bolivia (CSUTCB) y Confederación de Colonizadores, un Convenio para dar solución definitiva al problema de los asentamientos de colonización en los parques nacionales, particularmente en los de Amboró, Carrasco-Ichilo e Isiboro-Sécure, constituyendo Comisiones Mixtas con la finalidad de establecer líneas rojas para evitar nuevos asentamientos.
+* Que, la construcción de toda obra de desarrollo como ser carreteras, poliductos u otros, requieren de una evaluación sobre su impácto en el ambiente natural, sobre todo si se trata de un área protegida como es el Parque Isiboro-Sécure.
+* Que, el reconocimiento del Parque Nacional Isiboro-Sécure como territorio indígena en favor de los pueblos originarios que lo habitan, no es incompatible con su calidad de Parque Nacional.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se reconoce al Parque Nacional Isiboro-Sécure como territorio indígena de los pueblos Mojeño, Yuracaré y Chimán que ancestralmente lo habitan, constituyendo el espacio socioeconómico necesario para su desarrollo, denominandose a partir de la fecha Territorio Indígena Parque Nacional Isiboro-Sécure.
+
+**Artículo 2°.-** Se amplía la superficie del Territorio Indígena Parque Nacional Isiboro-Sécure las áreas externas de los ríos Isiboro y Sécure, incorporando a las comunidades asentadas en las riberas de los ríos y constituyendo a lo largo de todo su curso una franja de amortiguamiento.
+
+**Artículo 3°.-** Se respeta la condición del Parque Nacional Isiboro-Sécure, en la calidad y límite establecidos por el [Decreto Supremo Nº 07401](#TODO-link), más la ampliación dispuesta en el artículo anterior, debiendo la población indígena garantizar el cumplimiento de las normas necesarias para el manejo y conservación de un área protegida.
+
+**Artículo 4°.-** Se instruye al Ministerio de Asuntos Campesinos y Agropecuarios, con la participación directa de la Subcentral de Cabildos y representantes indígenas de la Región Isiboro-Sécure, la elaboración en el plazo de 90 días de la reglamentación del Territorio Indígena-Parque Nacional Isiboro-Sécure en su doble calidad de territorio indígena y área protegida.
+
+**Artículo 5°.-** Se homologa el Convenio de fecha 19 enero de 1990 suscrito por representantes del Ministerio de Asuntos Campesinos y Agropecuarios con la Central Obrera Boliviana (COB), Confederación Sindical Unica de Trabajadores Campesinos de Bolivia (CSUTCB) y la Confederación de Colonizadores, en el cuál se dispone fijar una “línea roja” que evite nuevos asentamientos campesinos colonizadores en los Parques Nacionales, en especial en el Parque Nacional Isiboro-Sécure, reconociéndose sus actuales asentamientos. Para la definición de ésta línea roja en el Territorio Indígena-Parque Nacional Isiboro-Sécure, debe participar, además de las instituciones mencionadas la Subcentral de Cabildos y Representantes Indígenas de la Región. Esta delimitación deberá hacerse a la brevedad posible, dentro del plazo máximo señalado en el anterior.
+
+**Artículo 6°.-** Toda construcción y obras de desarrollo, particularmente, de vías camineras y poliductos, que se realicen en el Territorio Indígena Parque Nacional Isiboro-Sécure, debe contar, previamente, con un pormenorizado estudio de impacto ambiental, debidamente aprobado por el Ministerio de Asuntos Campesinos y Agropecuarios, con la participación de la organización indígena de la región. Las obras que estén en ejecución deberán ser paralizadas hasta contar con su respectivo estudio de impacto ambiental. Asimismo, todo proyecto o estudio a realizarse deberá ser consultado y coordinado con la organización indígena de la región.
+
+**Artículo 7°.-** Se declara que el presente Decreto Supremo no se refiere a la cuestión de límites entre los departamentos del Beni y Cochabamba.
+
+---
+
+El señor Ministro de Asuntos Campesinos y Agropecuarios queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los vienticuatro días del mes de septiembre de mil novecientos noventa años.
+  
+Fdo. JAIME PAZ ZAMORA, Javier Murillo de la Rocha . Min. RR. EE y Culto a. i., Guillermo Capobianco Ribera, Héctor Ormachea Peñaranda, Gustavo Fernández Saavedra, Enrique García Rodríguez, Helga Salinas C. Min. Finanzas a. i., Guillermo Fortún Suárez, Mariano Baptista Gumucio, Willy Vargas Vacaflor, Oscar Daza Marquez, Min. Industria y Comercio, y Turismo a. i., Oscar Zamora Medinacelli, Edgar Poza Valdivia, Min. Previsión Social y Salud Pública a. i., Wálter Soriano Lea Plaza, Mauro Bertero Gutiérrez, Angel Zannier Claros, Elena Velasco de Urresti.

@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 27530, 25 de mayo de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 7 de la [Ley Nº 2627](#TODO-link) de 30 de diciembre de 2003 - Ley del Presupuesto General de la Nación Gestión 2004, señala que el Resultado Fiscal en cada presupuesto institucional se calculará en base al resultado fiscal (superávit/déficit) y su participación e incidencia en el resultado fiscal global del Presupuesto General de la Nación 2004.
+* Que el [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, dentro del marco de austeridad y racionalización del gasto de las entidades públicas, establece que cualquier incremento en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios de Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Construcciones de Bienes de Dominio Público” deberá ser aprobado mediante Decreto Supremo.
+* Que mediante Convenio de Crédito suscrito entre la Corporación Andina de Fomento - CAF y la República de Bolivia de fecha 7 de abril de 2003, se acuerda financiar la Asistencia Técnica para apoyar la implantación de la “Matriz de Acciones Consensuadas”.
+* Que en el marco del Crédito señalado anteriormente, se suscribió el Convenio de Cooperación Técnica entre la Corporación Andina de Fomento - CAF, el Ministerio de Hacienda y la Superintendencia Tributaria para brindar asistencia al Proyecto “Puesta en Marcha de la Superintendencia Tributaria General y Regionales”.
+* Que el Artículo 8 de la [Ley Nº 2042](#TODO-link) de 21 de diciembre de 1999 - Ley de Administración Presupuestaria, autoriza al Poder Ejecutivo a través del Ministerio de Hacienda, a incorporar en los presupuestos de las instituciones los fondos provenientes de donaciones y créditos externos, para su ejecución presupuestaria correspondiente.
+* Que en cumplimiento al Artículo 7 de la [Ley Nº 2627](#TODO-link), el Consejo Nacional de Política Económica y Social - CONAPES, en fecha 19 de mayo del presente año, mediante Resolución de CONAPES Nº 24/2004, aprueba la inscripción de recursos a favor de la Superintendencia Tributaria; por lo que, corresponde dictar la presente norma.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza la incorporación de un Presupuesto adicional - Gestión 2004, para la Entidad: 0169 Superintendencia Tributaria, dentro el Programa 60: Fortalecimiento Institucional, Dirección Administrativa: 01 Dirección Superior y Unidad Administrativa: 01 Dirección Superior, destinado a la partida de Gasto 25200 “Estudios e Investigaciones”, por un monto de Bs.456.214.- (CUATROCIENTOS CINCUENTA Y SEIS mil DOSCIENTOS CATORCE 00/100 BOLIVIANOS), financiado con Fuente43, Transferencias de Crédito Externo y Organismo Financiador 314 - Corporación Andina de Fomento.
+
+---
+
+El Señor Ministro de Estado en el Despacho Hacienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de mayo del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Isaac Maidana Quisbert Ministro Interino de RR. EE. y Culto, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Xavier Nogales Iturri, Donato Ayma Rojas, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Ricardo Calla Ortega.

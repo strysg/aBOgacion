@@ -1,0 +1,41 @@
+# Bolivia: Decreto Supremo Nº 206, 15 de julio de 2009
+
+Decreto Supremo Nº 0206
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que la [Constitución Política del Estado](#TODO-link) establece que son fines y funciones esenciales del Estado, constituir una sociedad justa y armoniosa, cimentada en la descolonización, sin discriminación ni explotación, con plena justicia social, para consolidar las identidades plurinacionales.
+* Que la [Constitución Política del Estado](#TODO-link) también dispone que el Estado promoverá, sobre los principios de una relación justa, equitativa y con reconocimiento de las asimetrías, las relaciones de integración social, política, cultural y económica con los demás Estados, Naciones y Pueblos del mundo y, en particular, promoverá la integración latinoamericana. Asimismo, señala que el Estado fortalecerá la integración de sus naciones y pueblos indígena originario campesinos con los pueblos indígenas del mundo.
+* Que el [Decreto Supremo Nº 29894](#TODO-link), de 7 de febrero de 2009, señala entre las atribuciones del Ministro de Relaciones Exteriores las de incorporar en las relaciones internacionales los principios constitucionales del Estado Plurinacional, así como promover, facilitar y fortalecer los procesos de hermandad e integración de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas, con los pueblos indígenas del mundo.
+* Que el 16 de julio de 2009 se conmemora el Bicentenario de la Revolución de 16 de julio de 1809, que se constituyó en un movimiento libertario, dirigido a lograr la independencia de los pueblos latinoamericanos.
+* Que con la finalidad de celebrar el Bicentenario de la Revolución de 16 de julio de 1809, las autoridades centrales y locales han preparado una serie de Actos Conmemorativos en los que participarán el pueblo paceño, así como ilustres visitantes nacionales y extranjeros.
+* Que es necesaria la creación de una nueva Distinción del Estado Plurinacional de Bolivia en ocasión de celebrarse el Bicentenario de las luchas libertarias de América que se iniciaron en Bolivia.
+* Que el Gobierno Plurinacional de Bolivia ha decidido reconocer y conmemorar al gran líder de las luchas libertarias de los pueblos indígena originario campesinos Tupac Katari, llevadas a cabo en el actual territorio del Estado Plurinacional de Bolivia, a través de la creación y otorgamiento de una distinción a las Presidentas y Presidentes o Jefas y Jefes de Estado o de Gobierno, otros Altos Dignatarios de Estado y personalidades bolivianas y extranjeras.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** El presente Decreto Supremo tiene por objeto crear la Distinción “Tupac Katari”, que otorga el Estado Plurinacional de Bolivia a las Presidentas y Presidentes o Jefas y Jefes de Estado o de Gobierno, otros Altos Dignatarios de Estado y personalidades bolivianas y extranjeras, que se constituye en reconocimiento y conmemoración al gran líder de las luchas libertarias de América y de los pueblos indígena originario campesinos, Julián Apaza Nina, llevadas a cabo en el actual territorio del Estado Plurinacional de Bolivia.
+
+**Artículo 2°.-** Serán acreedores de la presente Distinción “Tupac Katari” las Presidentas y Presidentes o Jefas y Jefes de Estado o de Gobierno, y otras personalidades bolivianas y extranjeras, por su contribución a la profundización de la cooperación y solidaridad entre los Estados, Naciones y Pueblos indígena originario campesinos de Latinoamérica y el mundo, sobre principios de una relación justa, equitativa y con reconocimiento de las asimetrías, en ocasión de visitas que efectúen al Estado Plurinacional de Bolivia.
+
+**Artículo 3°.-** Es atribución de la Presidenta o Presidente del Estado Plurinacional de Bolivia conceder la Distinción “Tupac Katari” mediante Resolución Suprema, a solicitud del Ministerio de Relaciones Exteriores.
+
+**Artículo 4°.-** La Distinción “Tupac Katari” consistirá en una caja, que contendrá un Bastón de Mando Andino y un Poncho Cultural Andino color rojo.
+
+**Artículo 5°.-** La Distinción “Tupac Katari” será depositada y custodiada en la Dirección General de Ceremonial del Estado Plurinacional de Bolivia, que llevará un registro oficial de su otorgamiento en el Libro de Ilustres Visitantes.
+
+**Artículo 6°.-** La Distinción “Tupac Katari” se concederá en perpetuidad.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Relaciones Exteriores, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de julio del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardy Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callizaya, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE SALUD Y DEPORTES, Julia D. Ramos Sánchez, Pablo Groux Canedo

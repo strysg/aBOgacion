@@ -1,0 +1,37 @@
+# Bolivia: Decreto Supremo Nº 5026, 20 de septiembre de 2023
+
+[Decreto Supremo Nº 5026](#TODO-link) DAVID CHOQUEHUANCA CÉSPEDES
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Artículo 174 de la [Constitución Política del Estado](#TODO-link), determina como atribución de la Vicepresidenta o del Vicepresidente del Estado, asumir la Presidencia del Estado, en los casos establecidos en la Constitución.
+* Que el numeral 34 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link) determina que es competencia exclusiva del nivel central del Estado la deuda pública interna y externa.
+* Que el Parágrafo I del Artículo Único de la [Ley Nº 087](#TODO-link), de 2 de marzo de 2011, de conformidad a lo establecido en la atribución 10ª del Parágrafo I del Artículo 158 del Texto Constitucional, aprueba el Contrato de Préstamo, suscrito entre el Estado Plurinacional de Bolivia y el Banco de Desarrollo de China el 23 de diciembre de 2010, por la suma de hasta $us251.124.000.- (DOSCIENTOS CINCUENTA Y UN MILLONES CIENTO vienticuatro mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el Proyecto «Satélite de Comunicaciones Tupak Katari».
+* Que el Parágrafo I del Artículo Único de la [Ley Nº 570](#TODO-link), de 8 de septiembre de 2014, de conformidad a lo establecido en el numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](#TODO-link), aprueba el Contrato de Préstamo suscrito entre el Estado Plurinacional de Bolivia y el Banco Europeo de Inversiones - BEI, en fecha 27 de junio de 2014, por un monto de hasta &euro; 50.000.000.- (CINCUENTA MILLONES 00/100 EUROS), destinados a cofinanciar el «Proyecto de Construcción de la Carretera Uyuni - Tupiza».
+* Que el Parágrafo I del Artículo Único de la [Ley Nº 1157](#TODO-link), de 25 de marzo de 2019, de conformidad a lo establecido en el numeral 10 del Parágrafo I del Artículo 158 del Texto Constitucional, aprueba el Contrato de Financiación FI N° 88662, suscrito entre el Estado Plurinacional de Bolivia y el BEI, en fecha 20 de diciembre de 2018, por un monto de hasta $us63.500.000.- (SESENTA Y TRES MILLONES QUINIENTOS mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar parcialmente el «Programa Más Inversión para el Agua - Fase V (MIAGUA V)».
+* Que el Parágrafo I del Artículo Único de la [Ley Nº 1422](#TODO-link), de 17 de marzo de 2022, de conformidad a lo establecido en el numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](#TODO-link), aprueba el Contrato de Préstamo BOL-34/2021 para el financiamiento del «Programa Nacional de Emergencia para la Generación de Empleo», suscrito el 8 de febrero de 2022, entre el Estado Plurinacional de Bolivia y el Fondo Financiero para el Desarrollo de la Cuenca del Plata - FONPLATA, por un monto de hasta $us100.000.000.- (CIEN MILLONES 00/100 DÓLARES ESTADOUNIDENSES).
+* Que el inciso l) del Artículo 38 del [Decreto Supremo Nº 4857](#TODO-link), de 6 de enero de 2023, Organización del Órgano Ejecutivo, establece que es atribución de la Ministra(o) de Planificación del Desarrollo, gestionar, negociar y suscribir convenios de financiamiento externo, de cooperación económica y financiera internacional, en el marco del Plan de Desarrollo Económico y Social - PDES, en coordinación con los Ministerios de Relaciones Exteriores y de Economía y Finanzas Públicas.
+* Que la Asamblea Legislativa Plurinacional aprobó mediante Ley los Contratos de Préstamo o de Financiación suscritos por el Estado Plurinacional de Bolivia con el Banco de Desarrollo de China, FONPLATA y BEI.
+* Que los organismos financieros internacionales señalados precedentemente, a consecuencia de los cambios en el mercado financiero internacional, han comunicado al Estado Plurinacional de Bolivia que ya no se utilizará la tasa LIBOR como referencia en sus condiciones financieras, debido a que esta dejará de cotizarse en el mercado financiero internacional, aspecto que determina la necesidad de suscribir Enmiendas y Cartas Modificatorias o de Novación, para optimizar el proceso de transición a una nueva tasa de referencia en sus Contratos de Préstamo o de Financiación vigentes. EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la suscripción de Enmiendas y Cartas Modificatorias o de Novación a Contratos de Préstamo o de Financiación suscritos por el Estado Plurinacional de Bolivia con organismos financieros internacionales, que permitan realizar la sustitución de la tasa LIBOR por una nueva tasa de referencia.
+
+**Artículo 2°.- (Autorización)** 
+
+1. Se autoriza al Ministro de Planificación del Desarrollo, en nombre y representación del Estado Plurinacional de Bolivia, para realizar la sustitución de la tasa LIBOR por una nueva tasa de referencia alternativa, a suscribir con:
+   1. El Banco de Desarrollo de China, la Enmienda al Contrato de Préstamo del Proyecto «Satélite de Comunicaciones Tupak Katari»;
+   2. El Fondo Financiero para el Desarrollo de la Cuenca del Plata - FONPLATA, la Carta Modificatoria al Contrato de Préstamo BOL-34/2021 del «Programa Nacional de Emergencia para la Generación de Empleo»;
+   3. El Banco Europeo de Inversiones - BEI, las Cartas de Novación a los Contratos de Financiación FI N° 82800 y FI N° 88662 del «Proyecto de Construcción de la Carretera Uyuni - Tupiza» y del «Programa Más Inversión para el Agua - Fase V (MIAGUA V)», respectivamente.
+2. Suscritas la Enmienda, Carta Modificatoria y Cartas de Novación a los Contratos de Préstamo o de Financiación previstas en el Parágrafo precedente, estas deberán ser remitidas a consideración y aprobación de la Asamblea Legislativa Plurinacional, en cumplimiento a lo dispuesto en el numeral 10 del Parágrafo I del Artículo 158 y el Artículo 322 de la [Constitución Política del Estado](#TODO-link).
+
+---
+
+El señor Ministro de Estado en el Despacho de Planificación del Desarrollo, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veinte días del mes de septiembre del año dos mil veintitrés.
+  
+FDO. DAVID CHOQUEHUANCA CÉSPEDES, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Marcelino Quispe López, Iván Manolo Lima Magne, María Renee Castro Cusicanqui MINISTRA DE SALUD Y DEPORTES E INTERINA DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, Rubén Alejandro Méndez Estrada, Edgar Pary Chambi, Remmy Rubén Gonzales Atila, Sabina Orellana Cruz.

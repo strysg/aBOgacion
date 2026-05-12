@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 26650, 13 de junio de 2002
+
+PRESIDENTE INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Ley Nº 1670](#TODO-link) de 31 de octubre de 1995, se aprobó y autorizó en todas sus partes el Convenio suscrito en fecha 24 de noviembre de 1994, entre la República de Bolivia y la Corporación Andina de Fomento (CAF) para la constitución de Nacional Financiera Boliviana Sociedad Anónima Mixta (NAFIBO SAM), determinándose inicialmente que esta entidad tendría como objeto único, la intermediación de recursos a través de entidades financieras de primer piso.
+* Que el Artículo 119º de la [Ley Nº 1834](#TODO-link) de 31 de marzo de 1998, dispuso que las entidades financieras de segundo piso, constituidas como sociedades de economía mixta existentes a la promulgación de la Ley, cuyas actividades se encuentran determinadas en el inciso i) del Artículo 31º de la [Ley Nº 1670](#TODO-link), quedan autorizadas para actuar directamente como sociedades de titularización, exceptuándose a las mismas de los requisitos de constitución determinados por el Artículo 78º de la [Ley Nº 1834](#TODO-link).
+* Que de acuerdo a lo dispuesto por la [Ley Nº 1834](#TODO-link) y [Ley Nº 2064](#TODO-link) de 3 de abril de 2000, se ampliaron las actividades y operaciones que NAFIBO SAM realizaba inicialmente, estando autorizada para intermediar recursos a través de entidades financieras con licencia de funcionamiento, administrar fideicomisos, comprar cartera y otorgarla en administración, actuar como sociedad de titularización, invertir en fondos privados de inversión, emitir bonos, actuar como comprador y vendedor de valores en el mercado de valores, entre otras.
+* Que la [Ley Nº 2297](#TODO-link) de 20 de diciembre de 2001 de Fortalecimiento de la Normativa y Supervisión Financiera, ha modificado la [Ley Nº 1488](#TODO-link) de Bancos y Entidades Financieras e introducido la definición de Banco de Segundo Piso, así como otras disposiciones, algunas de las cuales no se enmarcan en las actividades y operaciones permitidas y encomendadas a NAFIBO SAM por disposiciones legales expresas.
+* Que NAFIBO SAM como Banco de Segundo Piso y Sociedad de Titularización, se encuentra sujeta a la Ley de Bancos y Entidades Financieras, Ley del Mercado de Valores, y otras disposiciones legales que el facultan a realizar operaciones específicas y adicionales a las de cualquier otro Banco de Segundo Piso, siendo necesario dictar el presente Decreto Supremo a fin de precisar el marco legal aplicable a NAFIBO SAM.
+* Que en fecha 24 de noviembre de 1994, el Ministro de Hacienda en representación de la República de Bolivia ha suscrito con la Corporación Andina de Fomento (CAF) un “Acuerdo de Socios” por el cual, según el punto 7º, la CAF tiene la opción de vender a la República sus acciones en NAFIBO SAM, el ejercicio de esta opción debe ser realizado en un plazo de dos años contados a partir del término del quinto año de constituida la sociedad.
+* Que en la junta extraordinaria de accionistas de NAFIBO SAM de 22 de marzo de 2002, se aprobó la revisión del “Acuerdo de Socios” para la ampliación del plazo de opción de venta de acciones que tiene la CAF, de manera que pueda ejercer su opción de venta a partir del 1 de enero de 2005 y durante el plazo de tres años a partir de esa fecha, manteniéndose la CAF como socio de la República en NAFIBO SAM, siendo de interés de la República.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Las operaciones y actividades de Nacional Financiera Boliviana Sociedad Anónima Mixta (NAFIBO SAM), se encuentran sujetas a las disposiciones contenidas en la [Ley Nº 1670](#TODO-link) del Banco Central de Bolivia que aprueba su constitución, [Ley Nº 1834](#TODO-link) del Mercado de Valores que el autoriza a actuar como Sociedad de Titularización, [Ley Nº 2064](#TODO-link) de Reactivación Económica que realiza una reestructuración institucional y [Ley Nº 1488](#TODO-link) de Bancos y Entidades Financieras modificada por la [Ley Nº 2297](#TODO-link) de Fortalecimiento de la Normativa y Supervisión Financiera en todo aquello que no contravenga con sus operaciones y actividades permitidas por las disposiciones citadas anteriormente; así como, a toda norma legal que sea dictada al efecto.
+
+**Artículo 2°.-** Las disposiciones que sean emitidas por las entidades supervisoras, Superintendencia de Bancos y Entidades Financieras y Superintendencia de Pensiones, Valores y Seguros, serán aplicables a NAFIBO SAM como Banco de Segundo Piso y Sociedad de Titularización, según corresponda, en todo aquello que no contravenga con sus operaciones y actividades permitidas por las disposiciones legales referidas en el Artículo 1 del presente Decreto Supremo, que serán de aplicación preferente sobre cualquier otra norma de menor jerarquía.
+
+**Artículo 3°.-** Se autoriza al Ministro de Hacienda en representación de la República, suscribir con la Corporación Andina de Fomento (CAF) la modificación del punto 7º del “Acuerdo de Socios” de fecha 24 de noviembre de 1994, para la ampliación del plazo de ejercicio de la opción de venta que tiene la CAF sobre sus acciones en la Nacional Financiera Boliviana Sociedad Anónima Mixta (NAFIBO SAM).
+
+---
+
+El Señor Ministro de Estado en la Cartera de Hacienda, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+En dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de junio del año dos mil dos.
+  
+Fdo. ENRIQUE TORO TEJADA, PRESIDENTE INTERINO DE LA REPUBLICA, Alberto Zelada Castedo MINISTRO INTERINO DE RR. EE. Y CULTO, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Luján, Jacques Trigo Loubiere, Carlos Alberto Goitia Caballero, Carlos Kempff Bruno, Ivan Tavel Torres MINISTRO INTERINO DE EDUCACION, CULTURA Y DEPORTES, Enrique Paz Argandoña , Mario Galindo Soza MINISTRO INTERINO DE TRABAJO Y MICROEMPRESA, Alan Bojanic Helbingen MINISTRO DE AGRICULTURA, GANADERIA Y DESARROLLO RURAL, Ramiro Cavero Uriona, Claudio Mansilla Peña , Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

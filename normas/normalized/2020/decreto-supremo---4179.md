@@ -1,0 +1,50 @@
+# Bolivia: Decreto Supremo Nº 4179, 12 de marzo de 2020
+
+[Decreto Supremo Nº 4179](#TODO-link)  
+JEANINE ÁÑEZ CHÁVEZ
+  
+PRESIDENTA CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 35 de la [Constitución Política del Estado](#TODO-link), determina que el Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud.
+* Que el Artículo 37 del Texto Constitucional, establece que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
+* Que el numeral 11 del Artículo 108 de la [Constitución Política del Estado](#TODO-link), señala como un deber de las bolivianas y bolivianos socorrer con todo el apoyo necesario, en caso de desastres naturales y otras contingencias.
+* Que el Artículo 2 de la [Ley Nº 602](#TODO-link), de 14 de noviembre de 2014, de Gestión de Riesgos, dispone que la citada Ley tiene por finalidad definir y fortalecer la intervención estatal para la gestión de riesgos, priorizando la protección de la vida, y desarrollando la cultura de prevención con participación de todos los actores y sectores involucrados.
+* Que el numeral 1 del Artículo 5 de la [Ley Nº 602](#TODO-link), determina como principio la Prioridad en la Protección por la que todas las personas que viven y habitan en el territorio nacional tienen prioridad en la protección de la vida, la integridad física y la salud ante la infraestructura socio-productiva y los bienes, frente a riesgos de desastres ocasionados por amenazas naturales, socio-naturales, tecnológicas y antrópicas, así como vulnerabilidades sociales, económicas, físicas y ambientales.
+* Que el Artículo 32 de la [Ley Nº 602](#TODO-link), establece que la declaratoria de desastres y/o emergencias permite que las entidades públicas de todos los niveles del Estado encargadas de su atención, realicen modificaciones presupuestarias y transferencias entre partidas presupuestarias, de acuerdo a la normativa existente y la normativa específica que establezca el Ministerio de Economía y Finanzas Públicas.
+* Que el inciso e) Artículo 36 de la [Ley Nº 602](#TODO-link), señala que las amenazas biológicas, son de origen orgánico, incluye la exposición a microorganismos patógenos, toxinas y sustancias bioactivas que pueden ocasionar la muerte, enfermedades u otros impactos a la salud. Pertenecen a este tipo de amenazas, los brotes de enfermedades epidémicas como dengue, malaria, chagas, gripe, cólera, contagios de plantas o animales, insectos u otras plagas e infecciones, intoxicaciones y otros.
+* Que el numeral 1 del inciso a) del Artículo 39 de la [Ley Nº 602](#TODO-link), dispone que la Presidenta o el Presidente del Estado Plurinacional mediante Decreto Supremo, previa recomendación del Consejo Nacional para la Reducción de Riesgos y Atención de Desastres y/o Emergencias - CONARADE, declarará emergencia nacional cuando la presencia de un fenómeno real o inminente sea de tal magnitud que el o los gobiernos autónomos departamentales afectados, no puedan atender el desastre con sus propias capacidades económicas y/o técnicas; situación en la que el Ministerio de Defensa y todas las instituciones destinadas a la atención de la emergencia del nivel Central del Estado y los gobiernos autónomos departamentales y municipales, ejecutarán sus protocolos de coordinación e intervención.
+* Que el numeral 10 del Parágrafo I del Artículo 100 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Marco de Autonomías y Descentralización "Andrés Ibáñez", establece que el nivel central del Estado tiene la competencia exclusiva de declarar desastre y/o emergencia, de acuerdo a las categorías establecidas, y ejecutar acciones de respuesta y recuperación integral de manera coordinada con las entidades territoriales autónomas.
+* Que el Plan Nacional de Emergencia 2020, tiene por objeto planificar la actuación de las entidades del Sistema Nacional de Reducción de Riesgos y Atención de Desastres y/o Emergencias - SISRADE, para la atención de desastres y/o emergencias en los diferentes sectores y entidades territoriales.
+* Que la Resolución CONARADE N° 01/2020, de 12 de febrero de 2020 del CONARADE recomienda a la Señora Presidenta del Estado Plurinacional de Bolivia la Declaratoria de Situación de Emergencia Nacional, mediante Decreto Supremo, debido a la presencia de fenómenos adversos reales e inminentes como inundaciones, desbordes, riadas, deslizamientos, granizadas, incendios forestales, sequías, entre otros, poniendo en riesgo la vida de las bolivianas y bolivianos, afectando las actividades económicas en general de la población boliviana.
+* Que la Resolución CONARADE N° 02/2020, de 11 de marzo de 2020, del CONARADE, recomienda a la Señora Presidenta del Estado Plurinacional de Bolivia la Declaratoria de Situación de Emergencia Nacional, mediante Decreto Supremo, debido a la presencia de fenómenos adversos reales e inminentes como amenazas biológicas, naturales, socio-naturales y antrópicos, entre otros.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto declarar Situación de Emergencia Nacional por la presencia del brote de Coronavirus (COVID-19) y otros eventos adversos.
+
+**Artículo 2°.- (Declaratoria de emergencia)** Se declara Situación de Emergencia Nacional por la presencia del brote de Coronavirus (COVID-19) y fenómenos adversos reales e inminentes provocados por amenazas: naturales, socio-naturales y antrópicas, en el territorio nacional.
+
+**Artículo 3°.- (Recursos económicos)** 
+
+1. Se autoriza a las instituciones, entidades públicas y las entidades territoriales autónomas, en el marco de sus atribuciones y competencias, realizar los ajustes presupuestarios correspondientes para la atención de lo señalado en el Artículo precedente.
+2. Las instituciones, entidades del nivel central del Estado, y las entidades territoriales autónomas, cuando corresponda podrán solicitar al Ministerio de Defensa, a través del Viceministerio de Defensa Civil, el apoyo y soporte correspondiente, en el marco del Numeral 4 del Artículo 5 de la [Ley Nº 602](#TODO-link), de 14 de noviembre de 2014, de Gestión de Riesgos.
+3. Para el cumplimiento del presente Decreto Supremo, los Ministerios que conforman el CONARADE, podrán solicitar al Ministerio de Economía y Finanzas Públicas, la asignación de recursos en el marco del Plan Nacional de Emergencia 2020.
+     
+
+   # Disposiciones adicionales
+
+**Disposicion Adicional Primera.-** Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del Tesoro General de la Nación - TGN, realizar en la gestión 2020, la asignación presupuestaria de recursos adicionales, a favor del Ministerio de Comunicación, destinados exclusivamente para cubrir los servicios de medios de comunicación masivos, elaboración de productos audiovisuales y materiales impresos, con la finalidad de asumir tareas de información y comunicación inmediatas en la prevención de la expansión del Coronavirus (COVID-19) y otros fenómenos adversos.
+
+**Disposicion Adicional Segunda.-** Se autoriza a las y los Ministros de Estado en sus respectivas Carteras, para que en el marco de sus atribuciones y competencias puedan adoptar las medidas necesarias de prevención y atención para evitar la expansión del Coronavirus (COVID-19).
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de marzo del año dos mil veinte.
+  
+FDO. JEANINE ÁÑEZ CHÁVEZ, Yerko M. Núñez Negrette MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Arturo Carlos Murillo Prijic, Luis Fernando López Julio, Carlos Melchor Díaz Villavicencio, José Luis Parada Rivero, Víctor Hugo Zamora Castedo, Álvaro Rodrigo Guzmán Collao, Wilfredo Rojo Parada, Iván Arias Durán, Carlos Fernando Huallpa Sunagua, Álvaro Eduardo Coímbra Cornejo, Oscar Bruno Mercado Céspedes, Aníbal Cruz Senzano, María Elva Pinckert de Paz, Víctor Hugo Cárdenas Conde, Beatriz Eliane Capobianco Sandoval, María Isabel Fernández Suarez, Milton Navarro Mamani MINISTRO DE DEPORTES E INTERINO CULTURAS.

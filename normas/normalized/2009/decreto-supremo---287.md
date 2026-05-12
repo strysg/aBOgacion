@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 287, 9 de septiembre de 2009
+
+Decreto Supremo Nº 0287
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 22 del Presupuesto General de la Nación - Gestión 2009, aprobado por fuerza de Ley por expresa disposición del Artículo 147 de la [Constitución Política del Estado](#TODO-link) vigente hasta el 6 de febrero de 2009, autoriza al Órgano Ejecutivo, a través del Ministerio de Hacienda actual Ministerio de Economía y Finanzas Públicas, a inscribir y/o incrementar el gasto en las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión”, cuyo financiamiento provenga de recursos de donación externa, crédito externo y/o contraparte nacional, según lo establecido en los convenios respectivos. Para las demás fuentes de financiamiento y los casos que no corresponda a contraparte nacional, deberá aprobarse mediante Decreto Supremo específico, que autorice el incremento de estas partidas de gasto.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Reglamento de Modificaciones Presupuestaria aprobado por [Decreto Supremo Nº 29881](#TODO-link), de 7 de enero de 2009, establece los procedimientos y responsables para la elaboración, presentación, aprobación y registro de las modificaciones al Presupuesto General de la Nación, y que dichas modificaciones deben ser aprobadas por resolución expresa de la máxima autoridad de la entidad solicitante; asimismo, determina las competencias de aprobación, según el tipo y alcance de las modificaciones presupuestarias.
+* Que el [Decreto Supremo Nº 29894](#TODO-link), de 7 de febrero de 2009, establece la estructura organizativa del Órgano Ejecutivo Plurinacional y las normas que rigen su organización y funcionamiento, determinando además, las atribuciones y estructura jerárquica de los Ministerios, entre los que se encuentra el Ministerio de Desarrollo Rural y Tierras.
+* Que la [Ley Nº 2061](#TODO-link), de 16 de marzo de 2000 y el [Decreto Supremo Nº 25729](#TODO-link), de 7 de abril de 2000, establecen la misión, organización y función institucional del Servicio Nacional de Sanidad Agropecuaria e Inociudad Alimentaria - SENASAG, cuyas competencias son la protección sanitaria del patrimonio agropecuario y forestal del país, la certificación de la sanidad agropecuaria e inociudad alimentaria de productos de consumo nacional, de exportación e importación, el control, prevención y erradicación de plagas y enfermedades en animales y vegetales; asimismo, incluye entre sus atribuciones la administración del régimen legal específico de sanidad agropecuaria e inociudad alimentaria.
+* Que el SENASAG a fin de dar cumplimiento a la planificación anual de actividades, requiere contratar personal calificado para desarrollar trabajos que permitan el buen desempeño de sus funciones. En este marco, es necesario incrementar la subpartida 25220 “Consultores en Línea” en el presupuesto del SENASAG.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Desarrollo Rural y Tierras, a incrementar la subpartida 25220 “Consultores en Línea” en Bs4.000.000.- (CUATRO MILLONES 00/100 BOLIVIANOS), en el presupuesto del Servicio Nacional de Sanidad Agropecuaria e Inociudad Alimentaria - SENASAG, a través del traspaso interinstitucional que realizará el Tesoro General de la Nación, afectando a la partida 99200 “Provisiones para Gastos Corrientes”, para financiar consultorías que coadyuvarán al cumplimiento de actividades de los programas de sanidad animal y vegetal del SENASAG en la presente gestión.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Economía y Finanzas Públicas, y de Desarrollo Rural y Tierras, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de septiembre del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Nardi Suxo Iturry, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Maria Cecilia Rocabado Tubert, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez, Julia D. Ramos Sánchez, Pablo Groux Canedo.

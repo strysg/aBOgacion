@@ -1,0 +1,103 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**RESOLUCIÓN MINISTERIAL N° 038-2026**  
+**La Paz**, **26 FEB 2026**
+
+**VISTOS Y CONSIDERANDO:**
+
+Que el Artículo 348 de la Constitución Política del Estado determina que los recursos naturales, como los hidrocarburos, son de carácter estratégico y de interés público para el desarrollo del país.
+
+Que el Artículo 360 del Texto Constitucional establece que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética.
+
+Que el Parágrafo I del Artículo 361 de la Constitución Política de Estado dispone que Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) es una empresa autárquica de derecho público, inembargable, con autonomía de gestión administrativa, técnica y económica, en el marco de la política estatal de hidrocarburos. YPFB, bajo tuición del Ministerio del ramo y como brazo operativo del Estado, es la única facultada para realizar las actividades de la cadena productiva de hidrocarburos y su comercialización.
+
+Que el segundo párrafo del Artículo 9 de la Ley N° 3058, de 17 de mayo de 2005, de Hidrocarburos, señala que el aprovechamiento de los hidrocarburos deberá promover el desarrollo integral, sustentable y equitativo del país, garantizando el abastecimiento de hidrocarburos al mercado interno, incentivando la expansión del consumo en todos los sectores de la sociedad, desarrollando su industrialización en el territorio nacional y promoviendo la exportación de excedentes en condiciones que favorezcan los intereses del Estado y el logro de sus objetivos de política interna y externa, de acuerdo a una Planificación de Política Hidrocarburífera.
+
+Que los incisos a) y f) del Artículo 11 de la Ley N° 3058, establecen como objetivos generales de la Política Nacional de Hidrocarburos, utilizar los hidrocarburos como factor del desarrollo nacional e integral de forma sostenible y sustentable en todas las actividades económicas y servicios, tanto públicos como privados; garantizar y fomentar el aprovechamiento racional de los hidrocarburos, abasteciendo con prioridad a las necesidades internas del país.
+
+Que por Decreto Supremo N° 22048, de 14 de octubre de 1988, se aprueba la creación de la Empresa Tarijeña del Gas (EMTAGAS), integrada por la Corporación Regional de Tarija (CODETAR), la Honorable Alcaldía Municipal de la ciudad de Tarija y YPFB.
+
+Que en virtud a lo dispuesto por el Decreto Supremo N° 0675, de 20 de octubre de 2010, se crea la Entidad Ejecutora de Conversión a Gas Natural Vehicular (EEC–GNV), como institución pública desconcentrada dependiente del Ministerio de Hidrocarburos y Energía, actual Ministerio de Hidrocarburos y Energías, con independencia administrativa, financiera, legal y técnica, sobre la base de la normativa interna del Ministerio. La EEC–GNV tiene por finalidad ejecutar los programas de conversión a GNV y Mantenimiento de Equipos para GNV, de Recalificación y Reposición de Cilindros de GNV y administrar los recursos provenientes del FCVGNV y del FRCGNV, en el marco de la normativa interna del Ministerio de Hidrocarburos y Energías.  
+Que el Artículo 5 del Decreto Supremo Nº 5516, de 13 de enero de 2026, aprueba en Anexo 2 el “Reglamento sobre el Régimen de Precios de Gas Natural Vehicular”.
+
+Que el Artículo 6 del Decreto Supremo N° 5516, mantiene el Fondo de Recalificación y Reposición de Cilindros de GNV – FRCGNV y el Fondo de Conversión de Vehículos a GNV – FCVGNV.
+
+Que el Artículo 11 del “Reglamento sobre el Régimen de Precios de Gas Natural Vehicular”, aprobado en Anexo 2 por el Decreto Supremo N° 5516, dispone que el funcionamiento, administración y utilización del Fondo de Recalificación y Reposición de Cilindros de GNV (FRCGNV) y del Fondo de Conversión de Vehículos a GNV (FCVGNV) estarán sujetos a nueva reglamentación aprobada mediante Resolución Ministerial del Ministerio de Hidrocarburos y Energías.
+
+Que los incisos b) y w) del Parágrafo I del Artículo 14 del Decreto Supremo N° 4857, de 6 de enero de 2023, de Organización del Órgano Ejecutivo señala entre las atribuciones de las Ministras y los Ministros de Estado; proponer y dirigir las políticas gubernamentales en su sector y; emitir Resoluciones Ministeriales que correspondan, en el marco de sus competencias.
+
+Que el inciso j) del Parágrafo I del Artículo 15 del Decreto Supremo N° 4857, establece que los Viceministros de Estado tienen la función común de refrendar las Resoluciones Ministeriales relativas a los asuntos de su competencia.
+
+Que los incisos a), b) y c) del Artículo 52 del Decreto Supremo N° 4857, disponen como atribuciones del Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos, en el marco de las competencias asignadas al nivel central; planificar, formular, proponer y evaluar políticas de desarrollo en materia de industrialización, refinación, comercialización, logística de transporte, almacenaje y distribución de los hidrocarburos y sus derivados, respetando la soberanía del país; formular y ejecutar reglamentos e instructivos técnicos para el desarrollo de las actividades productivas y de servicios en el sector, con énfasis en aquellos que generen mayor valor agregado y; diseñar programas de incentivo para el uso y comercialización de gas natural en el mercado interno, dentro del marco de la política energética del país, para masificar el uso del gas natural.
+
+Que por Resolución Ministerial N° 143-2025, de 18 de septiembre de 2025, se aprueba el Reglamento para el Funcionamiento, Administración y Utilización del Fondo de Conversión de Vehículos a Gas Natural Vehicular (FCGNV) y del Fondo de Recalificación y Reposición de Cilindros de Gas Natural Vehicular (FRCGNV).
+
+Que la EEC-GNV, mediante Informe Técnico INF/UOP/2026-0019 y Legal INF/UJU/2026-0043, ambos de 19 de febrero de 2026, en el marco del Decreto Supremo N° 5516, propone la aprobación del Reglamento de Funcionamiento, Administración y Utilización del FRCGNV y del FCVGNV, al contar con habilitación normativa expresa en el Artículo 11 del “Reglamento sobre el Régimen de Precios del Gas Natural Vehicular”, a fin de asegurar el cumplimiento eficaz y eficiente de sus objetivos institucionales.
+
+Que por Informe Técnico MHE-VMICTAH-DGCTA-UTAD-INF/2026-0016, de 23 de febrero de 2026, el Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos concluye que, para que la EEC-GNV alcance sus objetivos institucionales de manera eficiente, se otorga la viabilidad técnica al proyecto de Resolución Ministerial que aprueba el Reglamento para el Funcionamiento, Administración y Utilización del Fondo de Recalificación y Reposición de Cilindros de Gas Natural Vehicular - FRCGNV y del Fondo de Conversión de Vehículos a Gas Natural Vehicular – FCVGNV.
+
+Que el Informe Jurídico MHE-DGAJ-UAJ-INF/2026-0020, de 24 de febrero de 2026 emitido por la Dirección General de Asuntos Jurídicos concluye que, en mérito a las previsiones establecidas en el Decreto Supremo N° 0675, de 20 de octubre de 2010, el Decreto Supremo N° 5516, de 13 de enero de 2026, la justificación técnico legal de la Entidad Ejecutora de Conversión a Gas Natural Vehicular (EEC-GNV) y las consideraciones señaladas en el Informe Técnico MHE-VMICTAH-DGCTA-UTAD-INF/2026-0016, del Viceministerio de Industrialización, Comercialización, Transporte y Almacenaje de Hidrocarburos, es viable jurídicamente, aprobar el Reglamento para el Funcionamiento, Administración y Utilización del Fondo de Recalificación y Reposición de Cilindros de Gas Natural Vehicular - FRCGNV y del Fondo de Conversión de Vehículos a Gas Natural Vehicular – FCVGNV.
+
+**POR TANTO**
+
+El señor Ministro de Hidrocarburos y Energías, en uso de las atribuciones conferidas por el ordenamiento jurídico vigente.
+
+**RESUELVE:**
+
+**ARTÍCULO PRIMERO. –** Aprobar el Reglamento para el Funcionamiento, Administración y Utilización del Fondo de Recalificación y Reposición de Cilindros de Gas Natural - FRCGNV y del Fondo de Conversión de Vehículos a Gas Natural Vehicular - FCVGNV, en sus cinco (5) Capítulos y doce (12) Artículos, que en Anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+
+**ARTÍCULO SEGUNDO. -** Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), la Empresa Tarijeña del Gas (EMTAGAS), la Agencia Nacional de Hidrocarburos (ANH) y la Entidad Ejecutora de Conversión a Gas Natural Vehicular (EEC-GNV), en el marco de sus competencias y atribuciones quedan encargadas del cumplimiento y ejecución de la presente Resolución Ministerial.
+
+**ARTÍCULO TERCERO. –**
+
+**I.**            La Dirección General de Asuntos Jurídicos del Ministerio de Hidrocarburos y Energías, a través de la Unidad de Gestión Jurídica, queda encargada de la notificación de la presente Resolución Ministerial.
+
+**II.**          Se instruye a la Dirección General de Asuntos Administrativos publicar la presente Resolución Ministerial, en la Gaceta Oficial del Estado Plurinacional de Bolivia, así como en la página web oficial de esta Cartera de Estado.
+
+**DISPOSICIONES ADICIONALES**
+
+**DISPOSICIÓN ADICIONAL ÚNICA. –** La Agencia Nacional de Hidrocarburos – ANH, en el marco de sus atribuciones, establecerá mediante Resolución Administrativa la cadena de precios del GNV en todo el territorio nacional en un plazo de quince (15) días calendario, computables a partir de la publicación de la presente Resolución Ministerial, en el marco del Reglamento sobre el Régimen de Precios del Gas Natural aprobado en Anexo 2 por el Decreto Supremo N° 5516, de 13 de enero de 2026 y demás normativa vigente.
+
+**DISPOSICIONES TRANSITORIAS**
+
+**DISPOSICIÓN TRANSITORIA PRIMERA. -** La Agencia Nacional de Hidrocarburos – ANH, en un plazo no mayor a seis (6) meses a partir de la publicación de la presente Resolución Ministerial deberá presentar al Ministerio de Hidrocarburos y Energías los resultados de la Conciliación del importe total del Fondo de Conversión de Vehículos a Gas Natural Vehicular - FCVGNV y del Fondo de Recalificación y Reposición de Cilindros de Gas Natural - FRCGNV, con las Empresas Distribuidoras que operan en el departamento de Tarija; así como de las transferencia de los recursos del FCVGNV y del FRCGNV a la EEC-GNV,  en caso que corresponda.
+
+**DISPOSICIÓN TRANSITORIA SEGUNDA. –**
+
+**I.** El Ministerio de Hidrocarburos y Energías, a través de su Unidad de Auditoría Interna, en un plazo no mayor a treinta (30) días hábiles computables a partir de la publicación de la presente Resolución Ministerial, deberá planificar e iniciar la ejecución de una auditoría de cumplimiento respecto a la utilización de los Fondos FCVGNV y del FRCGNV, desde su creación hasta la gestión 2025.
+
+**II.** La referida auditoría deberá contemplar, de manera adicional, la verificación de que las adquisiciones y contrataciones de servicios realizadas por la Entidad Ejecutora de Conversión a Gas Natural Vehicular, hayan cumplido los procedimientos y normativa aplicable vigente.
+
+**DISPOSICIONES DEROGATORIAS Y ABROGATORIAS**
+
+**DISPOSICION ABROGATORIA ÚNICA. -** Se abroga la Resolución Ministerial N° 143-2025, de 18 de septiembre de 2025.
+
+Regístrese, comuníquese, cúmplase y archívese.
+
+Fdo. Sergio Mauricio Medinaceli Monrroy  
+**MINISTRO DE HIDROCARBUROS Y ENERGÍAS**  
+**ESTADO PLURINACIONAL DE BOLIVIA**
+
+Fdo. Tatiana Corina Genuzio Patzi  
+**VICEMINISTRA DE INDUSTRIALIZACIÓN, COMERCIALIZACIÓN,**   
+**TRANSPORTE Y ALMACENAJE DE HIDROCARBUROS**  
+**MINISTERIO DE HIDROCARBUROS Y ENERGÍAS**
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/2.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026

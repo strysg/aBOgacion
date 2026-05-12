@@ -1,0 +1,20 @@
+# Bolivia: Decreto Supremo Nº 25372, 30 de abril de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Dr. Jorge Pacheco Franco, Ministro de Desarrollo Económico, debe ausentarse del país en misión oficial a la ciudad de Miami - Estados Unidos de América del 30 de abril al 6 de mayo de 1999, a objeto de realizar gestiones relacionadas con el despacho a su cargo;
+* Que es necesario designar Ministro interino para la continuidad administrativa del mencionado despacho, de conformidad a lo dispuesto por el artículo 10, numeral II de la [Ley Nº 1788](#TODO-link) de 16 de septiembre de 1997.
+
+DECRETA:
+
+**Artículo Único.-** Desígnase Ministro interino de Desarrollo Económico, al Viceministro de Energía e Hidrocarburos Lic. CARLOS ALBERTO LOPEZ QUIROGA, mientras dure la ausencia del titular.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de abril de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Presidente de la Republica

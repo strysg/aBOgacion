@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 25292, 30 de enero de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+Considerando:
+
+* Que Yacimientos Petrolíferos Fiscales Bolivianos suscribió un contrato de asociación para el desarrollo con la empresa petrolera DIAMOND SHAMROCK BOLIVIANA LTD., a objeto de ejecutar trabajos en el bloque denominado “Ñupuco” ubicado en la provincia Gran Chaco del departamento de Tarija;
+* Que DIAMOND SHAMROCK BOLIVIANA LTD., mediante nota de 14 de enero de 1997 solicitó a Yacimientos Petrolíferos Fiscales Bolivianos (Y.P.F.B.) su consentimiento para subrogar el total de sus derechos y obligaciones que le corresponde del contrato de asociación en favor de su filial SHAMROCK VENTURES BOLIVIANA LTD., solicitud analizada por YPFB mediante el informe legal 50/97 de 30 de enero de 1997, informe técnico DIV-006797 de 14 de febrero de 1997 y el resumen ejecutivo de 19 de febrero de 1997 suscrito por el Gerente de Negociaciones Internacionales de YPFB;
+* Que el director de YPFB autorizó a su Presidente ejecutivo, mediante resolución 11/97 de II de marzo de 1997, la suscripción de los respectivos documentos para la subrogación de los derechos y obligaciones que tiene DIAMOND SHAMROCK BOLIVIANA LIMITED en el contrato de asociación suscrito con YPFB. para el bloque Ñupuco. en favor de SHAMROCK VENTURES BOLIVIANA LTD.. previo cumplimiento de los requisitos legales;
+* Que la Junta Directiva Estatal de YPFB autorizó, por resolución 04/98 de 6 de noviembre de 1998. la continuación de los tramites legales para que DIAMOND SHAMROCK BOLIVIANA LTD.. puede subrogar sus derechos y obligaciones en el contrato que suscribió para el bloque Ñupuco.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Homológase la resolución 11/97 de 11 de marzo de 1997 del directorio de Yacimientos Petrolíferos Fiscales Bolivianos, que autoriza al personero ejecutivo de YPFB suscribir los documentos respectivos para la subrogación de los derechos y obligaciones que tiene DIAMOND SHAMROCK BOLIVIANA LTD., en el contrato de asociación en el bloque Ñupuco suscrito con YPFB. en favor de SHAMROCK VENTURES BOLIVIANA LTD. Empresa debidamente registrada, con personalidad jurídica reconocida y aprobada en Bolivia.
+
+**Artículo 2°.-** Se autoriza a los personeros legales de YPFB. firmar el contrato de subrogación de derechos y obligaciones con los representantes legales de DIAMOND SHAMROCK BOLIVIANA LTD. (DSBL) y SHAMROCK VENTURES BOLIVIANA LTD. (SVBL). con intervención del Fiscal de Materia Administrativa ante la Notaría de Minas y Petróleo, con sede en la ciudad de La Paz.
+
+---
+
+El señor Ministro de Estado en el despacho de Desarrollo Económico queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz a los treinta días del mes de enero de mil novecientos noventa y nueve años.
+  
+FDO. HUGO BANZER SUAREZ, Javier Murillo de la Rocha. Carlos Iturralde Ballivián. Guido Náyar Parada. Fernando Kieffer Guzmán. Herbert Müller Costas. Ana María Cortéz de Soriano. Jorge Pacheco Franco. Tito Hoz de Vila Quiroga. Guillermo Cuentas Yañez. Leopoldo López Cossio. Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi. Miguel López Bakovic. MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION. Amparo Ballivián Valdés.

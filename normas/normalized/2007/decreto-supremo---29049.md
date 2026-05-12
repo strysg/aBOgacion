@@ -1,0 +1,83 @@
+# Bolivia: Decreto Supremo Nº 29049, 1 de marzo de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Inciso d) del Artículo 10 de la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005 - Ley de Hidrocarburos, determina que las actividades hidrocarburíferas en el país son regidas por principios, entre los cuales se encuentra el de continuidad, que obliga a satisfacer la demanda del mercado interno de manera permanente e ininterrumpida.
+* Que el Artículo 11 de la [Ley Nº 3058](#TODO-link), establece los objetivos de la Política Nacional de Hidrocarburos, disponiendo en su inciso a) Utilizar los hidrocarburos como factor de desarrollo nacional e integral de forma sostenible y sustentable en todas las actividades económicas y servicios, tanto públicos como privados, y en el inciso d) garantizar a corto, mediano y largo plazo la seguridad energética, satisfaciendo adecuadamente la demanda nacional de hidrocarburos.
+* Que el Párrafo VI del Artículo 17 de la [Ley Nº 3058](#TODO-link), establece que la importación de hidrocarburos será realizada por Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, por sí o por contratos celebrados con personas individuales o colectivas, públicas o privadas, o asociado con ellas, y su Disposición Transitoria Tercera dispone la eliminación de la Cadena de Distribución de Hidrocarburos a los distribuidores mayoristas y que Yacimientos Petrolíferos Fiscales Bolivianos - YPFB será el único importador y distribuidor mayorista en el país.
+* Que el Inciso d) del Artículo 25 de la Ley de Hidrocarburos establece como atribución de la Superintendencia de Hidrocarburos autorizar la importación de hidrocarburos.
+* Que el Parágrafo II del Artículo 2 del [Decreto Supremo Nº 28701](#TODO-link) de 1 de mayo de 2006, de Nacionalización de los Hidrocarburos, establece que YPFB a nombre y en representación del Estado, en ejercicio pleno de la propiedad de todos los hidrocarburos producidos en el país, asume su comercialización, definiendo las condiciones, volúmenes y precios tanto para mercado interno, como para la exportación y la industrialización.
+* Que mediante [Decreto Supremo Nº 27993](#TODO-link) de 28 de enero de 2005, se hace posible que el precio del Jet Fuel A-1 Internacional sea competitivo, introduciendo una nueva alícuota del IEHD, además de establecer una metodología de ajuste que permita reflejar condiciones de oportunidad y competitividad para el Jet Fuel en relación con los países vecinos.
+* Que el [Decreto Supremo Nº 28932](#TODO-link) del 20 de noviembre de 2006, establece la banda de ajuste del IEHD del Jet Fuel A-1 Internacional.
+* Que el [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, establece el mecanismo para la importación del Jet Fuel A-1 por parte de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, a fin de cubrir la demanda de este carburante en el Mercado Interno.
+* Que a partir de la demanda definida por el Comité de Producción y Demanda de Hidrocarburos - PRODE para el mes de marzo, los requerimientos de importación de Jet Fuel, así como la tendencia de dicho requerimiento, se hace necesario establecer ajustes al mecanismo antes referido, realizando modificaciones al [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, a objeto de contar con medidas aplicables, en forma alternativa, en caso de existir demanda satisfecha e importación del indicado carburante.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer ajustes al mecanismo para la importación de Jet Fuel A-1 normado mediante [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, con la finalidad de contar con medidas aplicables, en forma alternativa, en caso de existir demanda interna satisfecha e importación del indicado carburante.
+
+**Artículo 2°.- (Modificaciones al Decreto Supremo Nº 29032)** 
+
+1. Se sustituye el Artículo 2 del [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, por el siguiente texto:
+   > “ARTÍCULO 2.- (IEHDmin).
+   >   
+   > I. A objeto de la aplicación de la fórmula establecida en el Artículo 5 del [Decreto Supremo Nº 28932](#TODO-link) de 20 de noviembre de 2006, cuando no exista importación de Jet Fuel A-1, el IEHDmin será el siguiente:
+   >   
+   > IEHDmin = Es el menor valor para IEHD de ajuste, equivalente a Bs3.44/litro (TRES 44/100 BOLIVIANOS POR LITRO).
+   >   
+   > II. Para el caso de importación de Jet Fuel A-1, la Superintendencia de Hidrocarburos calculará el valor del IEHDmin aplicable al Jet Fuel A-1 Internacional, en función al volumen efectivamente importado, a los costos y al margen de importación del Jet Fuel A-1 Importado, de acuerdo a la información proporcionada por Yacimientos Petrolíferos Fiscales Bolivianos - YPFB que tendrá carácter de declaración jurada, acompañando la documentación de respaldo. A efectos del presente cálculo, el margen de importación será igual a $us15.- (QUINCE 00/100 DÓLARES NORTEAMERICANOS) por metro cúbico de Jet Fuel.
+   >   
+   > La información proporcionada por YPFB deberá ser entregada a la Superintendencia de Hidrocarburos hasta tres (3) días hábiles antes de la fecha de cálculo establecida en el siguiente parágrafo. En caso de que la importación sea realizada durante los últimos tres (3) días hábiles de mes, dicha importación será considerada como realizada el mes siguiente, para fines de aplicación del presente Decreto Supremo.
+   >   
+   > III. El IEHD aplicable al Jet Fuel A-1 Internacional calculado por la Superintendencia de Hidrocarburos por efecto de la importación de Jet Fuel A-1, será calculado el primer día hábil del mes siguiente de realizada la importación y aplicado a partir del día siguiente de realizado el cálculo, y tendrá vigencia hasta el primer día hábil del mes siguiente a aquél en que entró en vigencia.
+   >   
+   > IV. Vencida la vigencia del IEHD a que se refiere el Parágrafo precedente, se aplicará, según corresponda, lo dispuesto en el Parágrafo I o en el Parágrafo II del presente Artículo.”
+2. Se sustituye el Artículo 4 del [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, por el siguiente texto:
+   > “ARTÍCULO 4.- (MECANISMO DE DETERMINACIÓN DEL IEHD DEL JET FUEL A-1 IMPORTADO). Se introduce el siguiente mecanismo para la determinación del IEHD para el Jet Fuel A-1 importado:
+   >   
+   > ![IEHD_{JFI1}=PPT_{JFI}-CTI](#TODO-link)
+   >   
+   > Donde:
+   >
+   > |  |  |
+   > | --- | --- |
+   > | IEHDJFI1 | Es el IEHD del Jet Fuel A-1 Importado expresado en bolivianos por litro. |
+   > | CTI | Costo total de importación del Jet Fuel A-1, que incluye los costos y el margen de importación del Jet Fuel A-1 Importado, de acuerdo a la información proporcionada por YPFB que tendrá carácter de declaración jurada, acompañando la documentación de respaldo. A efectos del presente cálculo, el margen de importación será igual a $us.15.- (QUINCE 00/100 DÓLARES NORTEAMERICANOS) por metro cúbico de Jet Fuel. |
+   > | PPTJFI | Precio Pre - Terminal del Jet Fuel A-1 Internacional vigente a la fecha de la importación calculado por la Superintendencia de Hidrocarburos, de conformidad al Parágrafo III del Artículo 2 del presente Decreto Supremo. |
+   >
+   >   
+   > Para fines de pago por parte del importador, cuando el IEHD del Jet Fuel A-1 Importado resultante de la aplicación de la fórmula establecida en el presente Artículo sea igual o menor a cero, la alícuota del IEHD será de 0.00 Bs./Litro (CERO 00/100 BOLIVIANOS POR LITRO).
+   >   
+   > El IEHDJFI1 será calculado por la Superintendencia de Hidrocarburos el primer día hábil del mes siguiente de realizada la importación y aplicada a partir del día siguiente de realizado el cálculo, y tendrá vigencia hasta el primer día hábil del mes siguiente a aquél en que entró en vigencia.”
+3. Se sustituye el Parágrafo II del Artículo 8 del [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, por el siguiente texto:
+   > “II. El Ministerio de Hidrocarburos y Energía verificará y posteriormente certificará el cálculo de las NOCRES en base al cálculo realizado por la Superintendencia de Hidrocarburos, en aplicación del Parágrafo precedente.
+   >   
+   > La Superintendencia de Hidrocarburos realizará dicho cálculo sobre la base de la documentación presentada por YPFB y comunicará el mismo, de manera oficial, al Ministerio de Hidrocarburos y Energía, a objeto de iniciar la correspondiente tramitación de las NOCRES ante el Ministerio de Hacienda.”
+4. Se sustituye el Artículo 9 del [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, por el siguiente texto:
+   > “ARTÍCULO 9.- (ENTREGA DE DOCUMENTACIÓN). Después de cada importación regularizada en la Aduana Nacional, YPFB deberá presentar a la Superintendencia de Hidrocarburos con copia al Ministerio de Hidrocarburos y Energía, los siguientes documentos:
+   >   
+   > Factura de compra original, donde se señale los volúmenes corregidos a temperatura estándar (60 grados Fahrenheit).
+   >   
+   > Póliza de Importación (Original o Copia Legalizada).
+   >   
+   > Certificado de la Aduana Nacional (Original o Copia Legalizada).
+   >   
+   > Manifiesto Internacional de Carga.(Original o Copia Legalizada).
+   >   
+   > La documentación presentada en original deberá ser devuelta a YPFB, quedando en su lugar copias de toda la información en la Superintendencia de Hidrocarburos, así como los demás antecedentes del trámite ingresado a la Superintendencia de Hidrocarburos.”
+5. Se sustituye el Artículo 11 del [Decreto Supremo Nº 29032](#TODO-link) de 16 de febrero de 2007, por el siguiente texto:
+   > “ARTÍCULO 11.- (VOLÚMENES A IMPORTAR). Los volúmenes a importar serán definidos en el Comité de Producción y Demanda - PRODE y autorizados por la Superintendencia de Hidrocarburos mediante Resolución Administrativa.”
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Hacienda e Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de marzo del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Walter Juvenal Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE SALUD Y DEPORTES, Victor Cáceres Rodríguez.

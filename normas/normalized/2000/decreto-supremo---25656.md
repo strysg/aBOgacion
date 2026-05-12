@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 25656, 28 de enero de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que Bolivia como poseedora de una vasta y rica tradición histórico-cultural es también propietaria de una invalorable riqueza arqueológica.
+* Que el Viceministerio de Cultura del Ministerio de Educación, Cultura y Deportes, suscribió un contrato con la “FONDAZIONE METROPOLITAN” de Italia el 22 de septiembre de 1999, para la exhibición de piezas arqueológicas de la cultura Tiwanaku en las ciudades de Genova, Florencia, Milán y Roma de la República de Italia a partir del 3 de febrero del 2000 al 15 de junio del 2001, con el único propósito de mostrar en el exterior y particularmente en Europa el pasado precolombino, pensamiento y cultura de Tiwanaku y Bolivia;
+* Que el artículo 4 del [Decreto Supremo Nº 5918](#TODO-link), de fecha 6 de noviembre de 1961, permite la salida temporal de objetos de la riqueza artística, histórica, cultural y arqueológica previa constitución de garantías y seguros adecuados para su perfecta preservación y restitución.
+* Que es necesario emitir la disposición legal que autorice la salida temporal de 237 piezas arqueológicas de propiedad del Estado, identificadas en 142 fichas técnicas y registro fotográfico, las mismas que se encuentran bajo custodia y depósito en los siguientes museos: Museo Nacional de Arqueología (MNA), Museo Regional Arqueológico de Tiwanaku (MRAT), Museo Arqueológico de Copacabana (MAC), Museo de Metales Preciosos (MMP), Templo de Miraflores de la ciudad de La Paz, y Depósito de la Dirección General de Antropología y Arqueología (DINAAR) para la exposición “Tiwanaku en Italia”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Autorizacion al Viceministerio de Cultura y a la Direccion Nacional de Antropologia y Arqueologia)** Autorizase al Viceministerio de Cultura y la Dirección Nacional de Antropología y Arqueología la salida temporal de doscientas treinta y siete (237) piezas arqueológicas del Patrimonio Cultural de la Nación y propiedad del Estado, depositadas y bajo custodia de los museos y sitios mencionados, cuya lista oficial del material arqueológico, en anexo forma parte del presente decreto supremo para su exposición temporal, “Tiwanaku en Italia” del 3 de febrero del 2000 al 15 de junio del 2001 en las ciudades de Génova, Florencia, Milán y Roma de la República de Italia.
+
+**Artículo 2°.- (Salida y permanencia temporal de piezas arqueologicas)** La salida y permanencia temporal de las 237 piezas arqueológicas, así como su puntual retorno al país serán garantizadas satisfactoriamente por la póliza de seguros que los organizadores deben presentar antes de su embarque, la misma que tendrá vigencia durante todo el tiempo que se encuentren fuera del país y cubrirá todo tipo de riesgo, daños físicos o de otra índole hasta su retorno.
+  
+Las piezas mencionadas permanecerán fuera del país del 3 de febrero del 2000 al 15 de junio del 2001 improrrogablemente, bajo la fiscalización y responsabilidad del Viceministerio de Cultura y la Dirección Nacional de Antropología y Arqueología.
+
+**Artículo 3°.- (Liberacion de pago o tributo aduanero al reingreso de piezas arqueologicas)** Se libera a las 237 Piezas del pago de todo gravamen o tributo aduanero e impuestos de toda especie, a su reingreso al país.
+
+---
+
+Los señores Ministros de Estado, en los despachos de Educación, Cultura y Deportes, Relaciones Exteriores y Culto así como Hacienda quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de enero del año dosmil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Herbert Müller Costas, Juán Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Carlos Saavedra Bruno, Rubén Poma Rojas, Jorge Landivar Roca.

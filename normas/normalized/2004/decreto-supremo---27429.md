@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 27429, 31 de marzo de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2627](#TODO-link) de 30 de diciembre de 2003 - Ley del Presupuesto General de la Nación Gestión 2004, establece los niveles de remuneración de las consultorías individuales y sus restricciones, exceptuando a las consultorías para realizar trabajos específicos por plazo y producto determinado y no renovable en un período similar al de la duración del contrato.
+* Que el [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, dentro del marco de austeridad y racionalización del gasto de las entidades públicas, establece que cualquier incremento en las Partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios de Investigaciones para Proyectos de Inversión” y 462 “Estudios y Proyectos para Construcciones de Bienes de Dominio Publicó”, deberá ser aprobado mediante Decreto Supremo.
+* Que la normatividad del Sistema de Presupuesto es de aplicación obligatoria sin excepción alguna en todas las instituciones públicas señaladas en los Artículos 3 y 4 de la [Ley Nº 1178](#TODO-link) de 20 de julio de 1990, bajo responsabilidad de las máximas autoridades ejecutivas y de los servidores públicos que participan en el proceso presupuestario
+* Que en fecha 30 de junio de 2003 se ha suscrito el Memorando de Entendimiento entre The Internacional Trade Centre - ITC UNCTAD/WTO BOL 61/80 y el Centro de Promoción Bolivia - CEPROBOL, con el fin de asegurar la cooperación y coordinación de esfuerzos en la ejecución y financiamiento conjunto de las actividades de comercio, en el que se compromete la suma de $us.20.000.- (VEINTE mil 00/100 DOLARES AMERICANOS), en el marco del Proyecto BOL//61/80, proyecto de integración técnica para el Desarrollo y la Promoción de Exportaciones, contribuyendo a la reducción de la pobreza, con fondos del Gobierno Suizo - SECO.
+* Que en cumplimiento al Artículo 7 de la [Ley Nº 2627](#TODO-link), el Concejo Nacional de Política Económica y Social - CONAPES, en fecha 25 de marzo del presente año, mediante Resolución de CONAPES Nº 6/2004, aprueba la inscripción de recursos para el Proyecto “Desarrollo y Promoción a las Exportaciones” del Centro de Promoción Bolivia - CEPROBOL.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Se aprueba la inscripción del Presupuesto - Gestión 2004 del Centro de Promoción Bolivia -CEPROBOL, en el marco del Proyecto BOL/61/80, Proyecto de Integración Técnica para el Desarrollo y la Promoción de Exportaciones, contribuyendo a la reducción de la pobreza, con fondos del Gobierno Suizo - SECO, por un monto de Bs.159.450.- (CIENTO CINCUENTA Y NUEVE mil CUATROCIENTOS CINCUENTA 00/100 BOLIVIANOS), de acuerdo al Anexo “A” adjunto y, en cumplimiento del Artículo 7 de la [Ley Nº 2627](#TODO-link) y el Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link).
+
+---
+
+El Señor Ministro de Estado en el Despacho de Hacienda queda encargado de la ejecución y cumplimiento al presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de marzo del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Jorge Cortes Rodríguez, Xavier Nogales Iturri, Jorge Urquidi Barrau, Antonio Aranibar Quiroga, Donato Ayma Rojas, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Justo Seoane Parapaino.

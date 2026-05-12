@@ -1,0 +1,96 @@
+# Bolivia: Decreto Supremo Nº 8430, 24 de julio de 1968
+
+[Decreto Supremo Nº 08430](#TODO-link)  
+GRAL. RENE BARRIENTOS ORTUÑO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+  
+A partir de la fecha se ponen en vigencia las siguientes disposiciones referentes a la reserva de fletes, en las actividades de Marina Mercante Nacional.
+
+CONSIDERANDO:
+
+* Que es necesario dictar normas geenrales para la aplicación de la reserva de fletes, en las cargas de transporte marítimo, fluviales y lacustres de exportación e importación, en favor de naves nacionales;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Todo transporte marítimo quedará reservado a las naves bolivianas en la proporción a que se refiere el artículo 9° de este Decreto.
+
+**Artículo 2°.-** Todo transporte fluvial y lacustre entre los diversos puertos que utilice Bolivia más los ríos y lagos de la República queda reservado, con preferencia, a naves bolivianas.
+  
+Son naves Mercantes Bolivianas las inscritas en los registros de la Marina Mercante Nacional que navegan sujetas a las Leyes de la República.
+
+**Artículo 3°.-** Las naves de bandera extranjera en aguas de jurisdicción nacional solo pueden ejercer navegación y comercio internacional, previo el cumplimiento y observación de disposiciones legales en vigencia.
+
+**Artículo 4°.-** cabotaje fronterizo, como excepción a lo dispuesto en el artículo anterior, podrá ser ejercido por naves de bandera extranjera. de acuerdo a Tratados, Convenios o Acuerdos Internacionales.
+
+**Artículo 5°.-** En el caso de carencia de naves para el transporte a que se refiere el artículo 2°, el Comando de la Fuerza Naval Boliviana. por intermedio de su Departamento de intereses Marítimos, Fluviales y Lacustres, podrá autorizar temporalmente el cabotaje a naves extranjeras.
+
+**Artículo 6°.-** Para ejercer el cabotaje se requiere la autorización del Departamento de intereses Marítimos, Fluviales y Lacustres. En la resolución que se dicte sólo se determinarán las condiciones generales que debe llenar el servicio que se establezca.
+
+**Artículo 7°.-** El transporte marítimo de carga de exportación e importación entre Bolivia y los países atendidos o que se atiendan en el futuro por Empresas Navieras Bolivianas que cumplan un Servicio de determinado tráfico, queda reservado en un 30% a las naves de bandera nacional bajo las condiciones que se fijan en el presente Decreto y en las reglamentaciones que de ella deriven el Porcentaje de reserva de carga mencionada anteriormente podrá incrementarse en el futuro hasta un 50%.
+
+**Artículo 8°.-** El transporte de carga de origen nacional por lagos y Ríos de jurisdicción boliviana queda reservado solamente a las flotas mercantes bolivianas Lacustres y fluviales.
+
+**Artículo 9°.-** La reserva de carga a que se refiere el Artículo anterior será computada separadamente para carga general, carga seca y líquida, que determine el Departamento de Intereses Marítimos, Fluviales y Lacustres.
+
+**Artículo 10°.-** La aplicación de la reserva de carga a que se refiere el artículo 9°, no podrá significar discriminación de carga, rechazo injustificado de embarque, ni retrazo en el embarque.
+  
+Tampoco podrá significar cobro de fletes superiores a los establecidos en las Conferencias Navieras de igual tráfico para cada una de las clasificaciones de carga a las vigentes en el mercado internacional de fletes, según sea el caso.
+
+**Artículo 11°.-** Para que las Empresas Navieras o personal naturales dedicadas a esta actividad puedan acogerse a los beneficios del presente Decreto, sus naves deberán cumplir con los siguientes requisitos.
+
+1. Ser de propiedad de capital bolivianas o de personas naturales o jurídicas domiciliadas en el país.
+2. Si la nave perteneciese a una Sociedad Constituída conforme a las leyes del país, el capital nacional de ésta debe ser de un 51%. Si dicho capital estuviese representado por acciones, nes éstos deberán ser normativas y pertenecen en un 51% al capital boliviano. Este beneficio se extiende a las Empresas Navieras explotadoras que tengan un servicio regular.
+3. Tener, Capitán, Oficiales y Tripulantes bolivianos, no obstante lo anterior, el Departamento de Intereses Marítimos, Fluviales y Lacustres podrá autorizar en forma transitoria la contratación total o parcial de personal extranjero que sea necesario mientras se capacita al personal de la Marina Mercante Nacional.
+
+**Artículo 12°.-** La Sociedad o Empresa a que se refiere el Artículo anterior debe estar constituída con domicilio legal, dirección y administración en el país. En los casos de las Empresas mixtas donde intervenga el Estado, el Presidente del Directorio y mayoría de los Directores, en una proporción del 51% deben ser de nacionalidad boliviana, pudiendo desempeñar los cargos de Gerencia Administrativa personas de nacionalidad extranjera pero que necesariamente deberán tener fijado su domicilio en Bolivia.
+
+**Artículo 13°.-** Las naves o acclones a que se refiere el artículo 11°, sólo podrán transferirse a las personas naturales o jurídicas que reunan los requisitos mencionados en dicho artículo. Estas transferencias requieren una visación previa de 1Departamento de intereses Marítimos, Fluviales y Lacustres para la verificación en todos los casos del requisito de nacionalidad boliviana, en no menos del 51%.
+
+**Artículo 14°.-** Sin perjuicio de lo establecido en el inc. c) del artículo 11° la dotación de cada nave mercante nacional será determinada por el Departamento de Intereses Marítimos, Fluviales y Lacustres.
+
+**Artículo 15°.-** La inscripción de una nave en los Registros de la Marina Mercante Nacional, debe tener como requisito previo que la nave tenga los Certificados de Navegabilidad y Seguridad que deberán ser expedidos por el Departamento de Intereses Marítimos, Fluviales y Lacustres y/o Compañías Clasificadoras internacionales autorizadas para el efecto. Igualmente para 1as naves mayores de 100 toneladas de registro neto, es requisito el que tenga además clasificación de Lloyd’s Registre of Shipping o de otras Sociedades Clasificadoras de igual categoría a juicio del Departamento de Intereses Marítimos, Fluviales y Lacustres compatibles con el tráfico o que estén destinados.
+
+**Artículo 16°.-** La inscripción en el Registro Comercial de buques legales en vigencia es obligatoria y se rige por las disposiciones del Código de Comercio, sujetándose a las normas establecidas por el Reglamento de Inscripción que dicte al Departamento de Interese Marítimos, Fluviales y Lacustres.
+
+**Artículo 17°.-** Los armadores nacionales o Empresas que operan en el servicio exterior están autorizados a utilizar el sistema chartera en un porcentaje aproximado al 100% del tonelaje propio de la respectiva Empresa y por un período de dos años renovables si dos o más Empresas Navieras nacionales cubren determinado tráfico en forma asociada, las naves extranjeras que arrienden podrán cubrir aproximadamente el 100% del tonelaje asociado.
+
+**Artículo 18°.-** Las Empresas Navieras nacionales que cumplan en el futuro un servicio estable en determinado tráfico al exterior, están autorizados a celebrar Convenios especiales de ransporte de carga con Empresas extranjeras que, en el servicio regular, cubran el mismo tráfico. Estos Convenios de una duración máxima de dos años renovables, en los que se fijarán la capacidad de transporte y demás madalidades requieren la aprobación del Poder Ejecutivo por intermedio del Comando de la Fuerza Naval Boliviana.
+
+**Artículo 19°.-** En los Convenios a que se hace referencia en el Artículo anterior, las Empresas Navieras nacionales concurrirán con su capacidad de transporte, pudiendo complementar éstas con naves extranjeras arrendadas en un porcentaje aproximado del 100% de tonelaje propio.
+
+**Artículo 20°.-** Las Empresas Navieras nacionales que cubran un servicio estable al exterior y que por su causa de naufragios o de siniestros quedaran con naves de su propiedad fuera de servicio por tiempo considerable, podrán arrendar naves extranjeras en reemplazo de un tonelaje igual al afectado, por un período de reposición no mayor de dos años. Este tonelaje de arrendamiento es independiente de los mencionados en los artículos anteriores.
+
+**Artículo 21°.-** Las Empresas Navieras nacionales, de servicio exterior que se acojan a los beneficios de reserva de carga, comunicarán al Departamento de Intereses Marítimos, Fluviales y Lacustres sobre las naves extranjeras que utilicen como complemento de su tráfico. Corresponde al citado Departamento determinar las condiciones de uso de dichas naves.
+
+**Artículo 22°.-** Las naves de las Empresas Nacionales asociadas con empresas extranjeras a que se refiere el artículo 1°, así como las naves extranjeras arrendadas a que se refieren los artículos 10°, 19° y 21°, se considerarán como naves bolivianas sólo por el transporte que efectuen de la carga reservada a naves nacionales a que se refiere el artículo 15°.
+
+**Artículo 23°.-** Con el fin de facilitar la inmediata aplicación de la reserva de carga de exportación e importación a favor de naves nacionales, se faculta al Departamento de intereses Marítimos, Fluviales y Lacustres de la Fuerza Naval Boliviana a supervisar acuerdos entre las Empresas Navieras y las exportadoras e importadores nacionales, para establecer el sistema de ejecución de reservas, teniendo en cuenta las características, costumbres, etc. de cada reglón o rubro de las exportaciones e importaciones.
+  
+El Departamento de Intereses, Marítimos, Fluviales y Lacustres, de la Fuerza Naval Boliviana, actuará como organismo rector en todos los casos que se presenten para la efectiva aplicación de la reserva de carga.
+
+**Artículo 24°.-** El Departamento del Conmercio Exterior del Banco Central de Bolivia efectuará balances trimestrales, año calendario, de las cargas de importación, exportación y tránsito transportadas entre Bolivia y otros países.
+  
+Dichos Balances deberán ser remitidos al Departamento de Intereses Marítimos, Fluviales y Lacustres, el que en caso de ser necesario, distará las medidas y recomendaciones que estime conveniente para la efectiva aplicación de la reserva de carga.
+
+**Artículo 25°.-** Todas las adquisiciones que efectúe el Estado o entidades para Estatales, sean por compra directa o licitación deben convenirse preferentemente por su valor FOLB puerto de embarque para su transporte en naves de bandera nacional, salvo que no haya buque mercantes nacionales disponibles.
+
+**Artículo 26°.-** Las exportaciones por el Estado o entidades para Estatales deben convenirse preferentemente por su valor CIF o C&F para su transporte en naves de bandera nacional, salvo que no haya buques mercantes disponibles.
+
+**Artículo 27°.-** La importación de artículos alimenticios señalados como de primera necesidad que efectúe el Estado o entidades para Estatales o particulares quedan afectados a la reserva de fletes en favor de naves nacionales, salvo que no haya buques mercantes disponibles.
+
+**Artículo 28°.-** Las Empresas Navieras Nacionales tendrán derecho a solicitar de los exportadores e importadores Estatales para Estatales o particulares la preferencia de carga que el corresponde de acuerdo a las disposiciones del presente Decreto cuyo control de aplicación y regulación estará a cargo del Departamento de Intereses Marítimos, Fluviales y Lacustres de la Fuerza Naval Boliviana.
+
+**Artículo 29°.-** Mientras la Empresa o Empresas Navieras Nacionales se acojan a la Ley de inversiones quedan exoneradas de todo impuesto nacional, departamental y municipal.
+  
+Quedan derogadas todas las disposiciones contrarias al presente Decreto.
+
+---
+
+Los señores Ministros de Estado en las carteras de Defensa Nacional, Economía y de Obras Públicas y Comunicaciones, quedan encargados de la ejecución y cumplimiento del presente Decreto.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los 24 días del mes de julio de mil novecientos sesenta y ocho años.
+  
+FDO. GRAL. RENE BARRIENTOS ORTUÑO, Tomás Guillermo Elío; Gral. Enrique Gallardo B.; Hugo Carmona M.; Alberto Larrea H.; Gustavo Méndez P.; Jesús Lijerón R.; Miguel Bonifaz P.; Rolando Pardo R.; Marcelo Galindo de Ugarte.

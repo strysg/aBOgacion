@@ -1,0 +1,42 @@
+# Bolivia: Decreto Supremo Nº 29067, 21 de marzo de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 192 de la [Constitución Política del estado](#TODO-link), determina que las manifestaciones del arte son factores de la cultura nacional y gozan de especial protección del Estado, con el fin de conservar su autenticidad e incrementar su producción y difusión.
+* Que es obligación del Estado facilitar y contribuir, por todos los medios a su alcance, el fortalecimiento y desarrollo de la producción cinematográfica nacional dentro de los principios de respeto a las libertades de expresión, opinión y creación, consagrados en el Artículo 7 de la [Constitución Política del estado](#TODO-link).
+* Que la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006 - Ley de Organización del Poder Ejecutivo, establece como atribuciones del Ministerio de Justicia el diseño y ejecución de políticas nacionales de defensa y protección de los Derechos Humanos.
+* Que el [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006 - Reglamento a la Ley de Organización del Poder Ejecutivo, establece que es atribución del Viceministerio de Desarrollo de Culturas dependiente del Ministerio de Educación y Culturas, formular y ejecutar políticas para fomentar la producción y difusión de las culturas y la protección de las riquezas culturales.
+* Que la misma norma legal señala que es atribución del Ministro de Educación y Culturas el fomento de la producción y difusión de la cultura y la protección de la riqueza histórica y documental, además del desarrollo de políticas y programas que contribuyan a que la diversidad cultural y la lingüística sean la base del desarrollo nacional.
+* Que la [Ley Nº 1302](#TODO-link) de 20 de diciembre de 1991 - Ley General del Cine, tiene como objeto la protección e impulso de las actividades cinematográficas en general, consideradas como tales la producción, distribución y exhibición de filmes y las labores conexas de información, recreación y cultura.
+* Que mediante la [Ley Nº 1302](#TODO-link), se crea el Consejo Nacional del Cine - CONACINE, que tiene entre sus atribuciones la promoción y difusión de la cinematografía nacional en todos sus aspectos y la coordinación con instituciones educativas en la implementación de la educación cinematográfica.
+* Que el [Decreto Supremo Nº 23493](#TODO-link) de 7 de mayo de 1993, aprueba el Reglamento a la Ley del Cine, determina en su Artículo 2 que las diversas actividades cinematográficas gozan de protección legal, reconociendo el Estado su importancia para el desarrollo de la cultura nacional y su vinculación a las manifestaciones más importantes de la cultura contemporánea.
+* Que las actividades cinematográficas son un instrumento de promoción y difusión de los Derechos Humanos y que entre ellos está incluido el acceso a filmes de producción nacional como expresión cultural, espacio de reflexión, de integración y encuentro entre sectores públicos y privados en los niveles nacional, departamental y local, para establecer relaciones interculturales dentro del respeto, la tolerancia y el equilibrio.
+* Que Bolivia cuenta con productos fílmicos propios que reflejan la identidad nacional, pluricultural y multiétnica que resaltan valores y costumbres, cuyo conocimiento, difusión y promoción se hace necesaria para la recuperación de esta identidad y el encuentro intercultural.
+* Que el cine y video nacionales, más allá de su carácter de entretenimiento, cumplen una función social relevante para comprender la historia y las luchas sociales de Bolivia, reconociendo su valor en la política cultural y siendo capaz de constituirse en un forjador de la conciencia del pueblo, razón por la que es necesario que todos los bolivianos tengan la oportunidad de conocer y valorar esta producción audiovisual nacional.
+* Que en la historia del audiovisual boliviano, Luís Espinal Camps, sacerdote, teólogo, periodista audiovisual y cineasta de origen español y nacionalidad boliviana, dedicó su vida a la lucha por los Derechos Humanos, al periodismo crítico y a las actividades cinematográficas, promoviendo la importancia del cine como expresión de arte y denuncia.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 12 de febrero de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud de los Ministerios de Justicia y Educación y Culturas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto declarar al 21 de marzo como el Día del Cine Boliviano, en conmemoración del aniversario del asesinato de Luís Espinal Camps, cineasta y periodista audiovisual y en homenaje a su lucha por el respeto a los Derechos Humanos y el establecimiento de la democracia en Bolivia.
+
+**Artículo 2°.- (Actividades)** 
+
+1. Se determina que con el fin de realzar el Día del Cine Boliviano, cada 21 de marzo, las salas cinematográficas y los canales de televisión deberán exhibir obligatoriamente filmes nacionales, especialmente aquellos relacionados a la temática de Derechos Humanos y de pueblos originarios.
+2. Durante el resto del año, se deberá programar actividades de difusión de filmes y material audiovisual nacional, en unidades educativas, universidades y centros de enseñanza de áreas urbanas y rurales, en coordinación con prefecturas, municipios e instituciones públicas y privadas.
+
+**Artículo 3°.- (Apoyo institucional)** Siendo la difusión de la cultura una de las obligaciones y atribuciones del Estado boliviano y con el objetivo de llegar a los lugares más recónditos del país con esta labor de promoción y difusión de la producción audiovisual nacional, se encomienda a instituciones públicas y, a través del CONACINE, a instituciones privadas, el apoyo institucional que sea necesario.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Justicia y Educación y Culturas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de marzo del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Celinda Sosa Lunda MINISTRA DE PRODUCCIÓN Y MICRO EMPRESA É INTERINA DE HACIENDA, Jerges Mercado Suárez, Susana Rivero Guzmán MINISTRA DE DESARROLLO RURAL, AGROPECUARIO Y MEDIO AMBIENTE É INTERINA DEL AGUA, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Walter Juvenal Delgadillo Terceros, Victor Cáceres Rodríguez, Nila Heredia Miranda.

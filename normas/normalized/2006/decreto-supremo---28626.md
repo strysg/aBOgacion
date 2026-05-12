@@ -1,0 +1,52 @@
+# Bolivia: Decreto Supremo Nº 28626, 6 de marzo de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la Declaración Universal de Derechos Humanos, el Pacto de San José de Costa Rica y el Pacto Internacional de Derechos Civiles y Políticos, instrumentos jurídicos internacionales ratificados por el Estado boliviano como parte de nuestro ordenamiento jurídico, reconocen la identidad que debe tener cada persona.
+* Que la Constitución Política del Estado establece el derecho de todo ser humano de tener personalidad y capacidad jurídica, señalando además, que todos los bolivianos varones y mujeres mayores de dieciocho años, son ciudadanos con derechos políticos para acceder a la función pública o concurrir a la conformación de los poderes públicos como electores o elegibles a las mismas.
+* Que la Constitución Política del Estado define la forma de gobierno como democrática, representativa y participativa, cuyos mecanismos de deliberación popular son la Asamblea Constituyente, la Iniciativa Legislativa Ciudadana y el Referéndum.
+* Que el Gobierno Nacional ha promulgado las Leyes de Convocatoria a la Asamblea Constituyente y al Referéndum Autonómico, para la reforma total de la Constitución Política del Estado.
+* Que con la finalidad de asegurar la masiva participación de los ciudadanos y ciudadanas bolivianas, se requiere su inscripción en los registros civil y electoral, con el fin de que cada uno cuente con su respectiva cédula de identidad personal.
+* Que el inciso a) del Artículo 61 del Código Electoral, establece la universalidad como uno de los principios rectores del Sistema Nacional de Registro Civil.
+* Que el Artículo 2 del [Decreto Supremo Nº 27915](#TODO-link) de 13 de diciembre de 2004, dispone que el Estado debe asegurar la inscripción gratuita de pueblos indígenas, originarios y comunidades campesinas de todo el país, hecho que por razones económicas, accesibilidad y disponibilidad de oficialías de Registro Civil no se ha podido efectuar dicho trámite.
+* Que uno de los requisitos que tiene la ciudadanía, es concurrir como elector o elegible a la conformación de los poderes públicos, para lo que se necesita estar inscrito en el registro electoral.
+* Que muchos ciudadanos y ciudadanas al no estar inscritos en el Registro Civil, no tienen cédula de identidad para inscribirse en el registro electoral, hecho que los impide ejercer su derecho al voto.
+* Que es deber del Gobierno Nacional promover políticas y acciones para que todo boliviano y boliviana se encuentre inscrito en los registros civil y electoral, por lo que es necesario dictar el presente Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto crear el Programa “Cédula de Identidad Gratuita para todos los Bolivianos”.
+
+**Artículo 2°.- (Definicion)** El Programa - Cédula de Identidad Gratuita para todos los Bolivianos tiene por finalidad lograr que todo boliviano y boliviana del campo y la ciudad tenga su cédula de identidad personal para empadronarse en el Registro Civil y Electoral, a fin de cumplir con las obligaciones establecidas por ley.
+
+**Artículo 3°.- (Naturaleza y direccion)** El Programa - Cédula de Identidad Gratuita para todos los Bolivianos, es una Institución Pública Desconcentrada, bajo dependencia funcional del Ministerio de Gobierno, con estructura de asesoramiento y apoyo; estará dirigido por un Coordinador General del Proyecto, designado por el Ministro de Gobierno y podrá crear oficinas regionales.
+
+**Artículo 4°.- (Financiamiento y excepcion)** El Ministerio de Hacienda asignará los recursos necesarios para el funcionamiento del Proyecto, que estará exenta del pago de valores fiscales que sean requeridos en el proceso de inscripción de los nacimientos y extensión de la cédula de identidad.
+
+**Artículo 5°.- (Interes publico)** Se declara de interés público y de prioridad nacional la inscripción de todo ciudadano y ciudadana en los registros civil y electoral, para obtener la cédula de identidad personal.
+
+**Artículo 6°.- (Administracion de recursos)** Los recursos financieros destinados al cumplimiento de este Programa, independientemente de su fuente de financiamiento, serán administrados por el Ministerio de Gobierno, conforme a lo dispuesto en la [Ley Nº 1178](#TODO-link) de 20 de julio de 1990, de Administración y Control Gubernamentales, y las Normas Básicas de sus respectivos sistemas.
+
+**Artículo 7°.- (Confidencialidad)** Los derechos de la información que consten en el material producido durante la ejecución del Programa - Cédula Gratuita para todos los Bolivianos, tendrá carácter confidencial y será de propiedad exclusiva de las entidades que por ley los corresponda administrar y conservar, quedando expresamente prohibido, bajo su responsabilidad, la divulgación o entrega a terceros.
+
+**Artículo 8°.- (Base de datos)** La base de datos del Registro Civil debe ser la fuente de información para el proceso de entrega de cedulas de identidad y de inscripción en el Registro Electoral. Los sistemas informáticos utilizados por el Registro Civil e Identificación Nacional deben estar integrados para compartir la información y complementarla.
+
+**Artículo 9°.- (Verificacion)** La emisión de la cédula de identidad se efectuará con la sola verificación de la base de datos del Registro Civil, sin necesidad de la presentación física del certificado de nacimiento.
+
+**Artículo 10°.- (Reglamentacion)** El Ministerio de Gobierno reglamentará los aspectos técnico y administrativo inherentes al Programa, determinando que se cumplan las disposiciones legales que rigen los procesos de inscripción relativos al registro civil, la identificación personal y el padrón electoral.
+
+**Artículo 11°.- (Valores)** En la ejecución de los planes masivos de inscripción y carnetización del Programa - Cédula de Identidad Gratuita para todos los Bolivianos, se deberá cumplir con el principio de gratuidad, debiendo el Poder Ejecutivo gestionar los recursos necesarios, tanto para la inscripción gratuita en el Registro Civil, la obtención de la cédula de identidad personal de los ciudadanos beneficiados con el programa.
+
+---
+
+Los Señores Ministros de Estado, en los despachos de la Presidencia, Gobierno, Hacienda y los Señores Vocales de la Corte Nacional Electoral quedan encargados del cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los seis días del mes de marzo del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga Ministro de la Presidencia e Interino de Gobierno, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga Ministro de Planificación del Desarrollo e Interino de Producción y Microempresas, Luis Alberto Arce Catacora, Abel Mamani Marca, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

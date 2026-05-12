@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 26222, 21 de junio de 2001
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que, por [Decreto Supremo Nº 24935](#TODO-link), de 30 de diciembre de 1997, se crea el Programa Nacional de Subsidio para Vivienda (PNSV) y la Unidad Recaudadora y Administradora de Aportes que utilizará el aporte del 2% patronal para el financiamiento del PNSV; se liquida el Fondo Nacional de Vivienda Social y se dispone finalmente que los Ministerios de Vivienda y Servicios Básicos y de Comercio Exterior e Inversión, previa licitación pública, procedan a la selección y adjudicación de la entidad o entidades recaudadoras de los aportes patronal del 2% y laboral del 1% para vivienda de entre las entidades de intermediación financiera, administradoras de fondos de pensiones u otras entidades especializadas en la administración de cuentas de ahorro individual.
+* Que, luego de realizarse la evaluación de ofertas técnicas y económicas por parte de la Comisión Calificadora, por [Decreto Supremo Nº 25139](#TODO-link), de 31 de agosto de 1998, se aprueba la licitación pública REF. MCEI/MVSB/EF/LIC-002/98 y se dispone la adjudicación del servicio de recaudación y transferencia del aporte patronal del 2% para vivienda y recaudación, administración, inversión y abono de los aportes laborales del 1% para vivienda, al “Consorcio Previsión - Futuro” constituido por las empresas “Previsión BBV, Administradora de Fondos de Pensiones S. A.” y “Futuro de Bolivia S. A.”. Asimismo, se establece que dicho consorcio deberá constituirse bajo la forma de una sociedad anónima a la firma del contrato de acuerdo a las exigencias del Pliego de Condiciones de la licitación pública señalada.
+* Que, el [Decreto Supremo Nº 25303](#TODO-link), de 12 de febrero de 1999, aprueba el contenido del Contrato de Prestación de Servicios de recaudación y transferencia del aporte patronal para la vivienda y recaudación, administración, inversión y depósito del aporte laboral para vivienda, suscrito el 10 de noviembre de 1998, entre los Ministerios de Vivienda y Servicios Básicos y de Hacienda, por una parte, y la Firma Provivienda Entidad Recaudadora y Administradora de Aportes Sociedad Anónima (PROVIVIENDA S. A.), por otra.
+* Que, la empresa Futuro de Bolivia Administradora de Fondos de Pensiones S. A. ha manifestado su interés de vender su cuota accionaria en PROVIVIENDA S. A. al otro socio, Previsión BBV S. A., el mismo que también a expresado su interés en comprarlas, situación que amerita el tratamiento y la autorización correspondiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.- (Autorizacion)** Queda autorizada la transferencia de la totalidad de las acciones que, la empresa “Futuro de Bolivia, Administradora de Fondos de Pensiones Sociedad Anónima”, tiene como participación societaria en la firma Provivienda Entidad Recaudadora y Administradora de Aportes Sociedad Anónima (PROVIVIENDA S. A.), a la empresa “Previsión BBV, Administradora de Fondos de Pensiones Sociedad Anónima, en los marcos y bajo las condiciones previstas por ley, resguardando en todo momento el derecho de preferencia y los beneficios de los afiliados al Fondo de Capitalización Individual para Vivienda.
+
+---
+
+El señor Ministro de Estado en el despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días del mes de junio del año dos mil uno.
+  
+Fdo. HUGO BANZER SUAREZ, Jorge Soruco Villanueva MINISTRO INTERINO DE RR. EE. Y CULTO, Marcelo Pérez Monasterios, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, José Abel Martínez Mrden MINISTRO INTERINO DE DESARROLLO ECONOMICO, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Ronald MacLean Abaroa, Adhemar Guzmán Ballivián MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 1339, 5 de septiembre de 2012
+
+Decreto Supremo Nº 1339
+  
+[Decreto Supremo Nº 1339](#TODO-link)
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 37 de la Constitución Política del Estado, determina que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, establece que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 0693](#TODO-link), de 11 de noviembre de 2010, elevado a rango de Ley por [Ley Nº 248](#TODO-link), de 15 de junio de 2012, crea el Centro Nacional de Alto Rendimiento Deportivo – CENARD, como institución pública desconcentrada, dependiente del Ministerio de Salud y Deportes, con independencia de gestión administrativa, financiera, legal y técnica, sin patrimonio propio ni personalidad jurídica sobre la base de la normativa interna del Ministerio. Tiene competencia en el ámbito nacional para promover el logro de altos niveles de rendimiento deportivo y competitividad, proporcionando a los deportistas bolivianos las mejores condiciones de entrenamiento para la práctica deportiva.
+* Que el Artículo 30 de la [Ley Nº 062](#TODO-link), de 28 de noviembre de 2010, del Presupuesto General del Estado – Gestión 2011, vigente por disposición del inciso c) de la Disposición Final Tercera de la [Ley Nº 211](#TODO-link), de 23 de diciembre de 2011, del Presupuesto General del Estado – Gestión 2012, dispone que en los casos que no correspondan a contraparte nacional, la inscripción y/o incremento del gasto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión”, deberá aprobarse mediante Decreto Supremo específico.
+* Que el Artículo 24 del [Decreto Supremo Nº 1134](#TODO-link), de 8 de febrero de 2012, señala que la definición de las remuneraciones de los consultores de línea, debe estar establecida en función a la escala salarial; para lo cual, las Unidades Administrativas de cada entidad, elaborarán el cuadro de equivalencia de funciones que será avalado por la Unidad Jurídica y autorizado por la Máxima Autoridad Ejecutiva – MAE de la entidad.
+* Que a fin de continuar con el desarrollo de las actividades del CENARD dependiente del Ministerio de Salud y Deportes, se requiere autorizar el incremento del gasto en consultorías, de acuerdo a las justificaciones técnicas y legales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Salud y Deportes incrementar la subpartida 25220 “Consultores de Línea” en Bs273.200.- (DOSCIENTOS SETENTA Y TRES MIL DOSCIENTOS 00/100 BOLIVIANOS) a través de un traspaso presupuestario interinstitucional del Tesoro General de la Nación – TGN, financiado con fuente 10 “Tesoro General de la Nación” y Organismo Financiador 111 “Tesoro General de la Nación”, destinado a la contratación de consultorías para el Centro Nacional de Alto Rendimiento Deportivo – CENARD.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Salud y Deportes, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los cinco días del mes de septiembre del año dos mil doce.
+  
+FDO. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

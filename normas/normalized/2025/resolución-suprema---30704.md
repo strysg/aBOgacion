@@ -1,0 +1,34 @@
+# Bolivia: Resolución Suprema Nº 30704, 27 de marzo de 2025
+
+Resolución Suprema N° 30704
+  
+La Paz, 08 ENE 2025
+
+Vistos y Considerando:
+
+* Que el Artículo 4 de la [Constitución Política del Estado](#TODO-link) determina que el Estado respeta y garantiza la libertad de religión y de creencias espirituales, de acuerdo con sus cosmovisiones. El Estado es independiente de la religión.
+* Que el numeral 18 del Parágrafo II del Artículo 4 de la [Ley Nº 465](#TODO-link), de 19 de diciembre de 2013, del Servicio de Relaciones Exteriores del Estado Plurinacional de Bolivia, establece como atribución de la Ministra o Ministro de Relaciones Exteriores, como autoridad competente y responsable para coordinar y ejecutar la Política Exterior del Estado Plurinacional de Bolivia, registrar y acreditar a las organizaciones religiosas y de creencias espirituales; así como, regular su funcionamiento, desde la solicitud de personalidad jurídica e inicio formal de sus actividades en el país.
+* Que los incisos a) y b) del Parágrafo II del Artículo 6 de la [Ley Nº 1161](#TODO-link), de 11 de abril de 2019, de Libertad Religiosa, Organizaciones Religiosas y de Creencias Espirituales, disponen como derechos de las organizaciones religiosas y de creencias espirituales, en el marco de lo estipulado en el Parágrafo III del Artículo 14 de la [Constitución Política del Estado](#TODO-link), a ser reconocidas como personas jurídicas sin fines de lucro, por todos los niveles de gobierno del Estado Plurinacional de Bolivia; y definir libremente su estructura organizacional, a través de su estatuto y reglamento interno.
+* Que el Artículo 8 de la [Ley Nº 1161](#TODO-link) señala que las organizaciones religiosas y de creencias espirituales, deben tramitar su reconocimiento de personalidad jurídica ante la autoridad competente a nivel central del Estado; y que la personalidad jurídica será otorgada o revocada mediante Resolución Suprema.
+* Que el Artículo 9 de la [Ley Nº 1161](#TODO-link) establece que el Ministerio de Relaciones Exteriores se constituye en la autoridad competente para realizar el proceso de otorgación y revocación de la personalidad jurídica de las organizaciones religiosas y de creencias espirituales, además de registrarlas.
+* Que el [Decreto Supremo Nº 4054](#TODO-link), de 2 de octubre de 2019, tiene por objeto reglamentar parcialmente la [Ley Nº 1161](#TODO-link), en lo referente a la otorgación, adecuación, revocación y registro de personalidad jurídica de organizaciones religiosas y de creencias espirituales.
+* Que el Artículo 2 del [Decreto Supremo Nº 4054](#TODO-link) dispone que las personas jurídicas como iglesias, confesiones, denominaciones, instituciones, organizaciones, asociaciones o federaciones u otras de carácter religioso, así como las organizaciones de creencias espirituales, constituidas en organizaciones religiosas o de creencias espirituales, o entes de coordinación, que no cuentan con personalidad jurídica o que iniciaron y no concluyeron el respectivo trámite de homologación establecido en la [Ley Nº 351](#TODO-link), de 19 de marzo de 2013, de Otorgación de Personalidades Jurídicas, deberán tramitar la otorgación o adecuación de personalidad jurídica, según corresponda, ante el Ministerio de Relaciones Exteriores.
+* Que el inciso u) del Artículo 17 del [Decreto Supremo Nº 4857](#TODO-link), de 6 de enero de 2023, Organización del Órgano Ejecutivo, señala como atribución de la Ministra(o) de Relaciones Exteriores, supervisar los mecanismos establecidos para regular las actividades de las organizaciones religiosas en el Estado Plurinacional.
+* Que el Informe Técnico Conclusivo VGCI-DGALC- UCU-In-137/2024, de 15 de agosto de 2024, emitido por la Dirección General de Apostilla, Legalizaciones y Cultos dependiente del Viceministerio de Gestión Consular e Institucional del Ministerio de Relaciones Exteriores, concluye señalando que la Organización Religiosa IGLESIA EL ALTAR DE JESÚS A LAS NACIONES ha cumplido con el procedimiento y los requisitos establecidos por [Decreto Supremo Nº 4054](#TODO-link) y otros dispuestos en normativa aplicable, para la otorgación de personalidad jurídica, así como con las previsiones de contenido del Estatuto Orgánico requeridas en el Artículo 5 del citado Decreto Supremo. En ese contexto, recomienda la emisión de la Resolución Suprema que otorgue personalidad jurídica a la Organización Religiosa IGLESIA EL ALTAR DE JESÚS A LAS NACIONES y autorice al Ministerio de Relaciones Exteriores el registro de la misma; así como los datos del Representante Legal, domicilio legal de la Organización Religiosa, Estatuto Orgánico y Reglamento Interno en el Registro Único de Organizaciones Religiosas y de Creencias Espirituales - RUORCE, a cargo del Ministerio de Relaciones Exteriores.
+* Que el Informe Jurídico GM-DGAJ-UAJ-In 471/2024, de 27 de agosto de 2024, emitido por la Dirección General de Asuntos Jurídicos del Ministerio de Relaciones Exteriores, establece la viabilidad legal y cumplimiento de la normativa vigente para la otorgación de personalidad jurídica a la Organización Religiosa IGLESIA EL ALTAR DE JESÚS A LAS NACIONES, por lo que recomienda la emisión de la Resolución Suprema correspondiente.
+
+SE RESUELVE:
+
+**Primero .-** Otorgar personalidad jurídica a la Organización Religiosa IGLESIA EL ALTAR DE JESÚS A LAS NACIONES para profesar, enseñar, difundir y/o practicar su religión, sin fines de lucro, en los departamentos que comprende el territorio del Estado Plurinacional de Bolivia, según el objeto y fines establecidos en su Estatuto Orgánico, con la prohibición de dedicarse a actividades ilícitas que atenten a la seguridad pública y otras tareas no determinadas en su Estatuto Orgánico y Reglamento Interno, bajo sanción de revocación de la personalidad jurídica.
+
+**Segundo .-** Autorizar al Ministerio de Relaciones Exteriores registrar la presente Resolución Suprema, el Estatuto Orgánico conformado por sesenta (60) Artículos, el Reglamento Interno conformado por cincuenta y un (51) Artículos, los datos del Representante Legal y el domicilio legal de la Organización Religiosa IGLESIA EL ALTAR DE JESÚS A LAS NACIONES, en el Registro Único de Organizaciones Religiosas y de Creencias Espirituales - RUORCE.
+
+**Tercero .-** Autorizar a la Gaceta Oficial de Bolivia del Ministerio de la Presidencia la publicación de la presente Resolución, previo cumplimiento de las formalidades pertinentes por parte de la Organización Religiosa IGLESIA EL ALTAR DE JESÚS A LAS NACIONES.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+FDO. Luís Alberto Arce Catacora PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+FDO. Celinda Sosa Lunda MINISTRA DE RELACIONES EXTERIORES

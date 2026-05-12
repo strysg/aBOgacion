@@ -1,0 +1,39 @@
+# Bolivia: Decreto Supremo Nº 25351, 19 de abril de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que por la importancia social y económica del Proyecto Múltiple Misicuni para satisfacer las necesidades de agua, alcantarillado, riego y energía del valle de Cochabamba, mediante [Decreto Supremo Nº 25133](#TODO-link) de 21 de agosto de 1998, se autoriza la participación del sector privado en la prestación del servicio público de agua potable y alcantarillado para la ciudad de Cochabamba y en el Proyecto Múltiple Misicuni, encargando al Ministerio de Comercio Exterior e Inversión y a las Superintendencias de Aguas y Electricidad, llevar a cabo la Licitación Pública Nacional e Internacional para tal efecto, conforme las previsiones legales para proyectos identificados y estudiados por el Estado.
+* Que mediante Licitación Pública Nacional e Internacional No. MCEI/SE-SA/UR/SEMAPA-MISICUNI/05/98 de 27 de agosto de 1998, se convoca a empresas o consorcios a presentarse al proceso de selección para la prestación del servicio referido en el párrafo anterior, de acuerdo a las condiciones y procedimiento establecidos en el Pliego de Condiciones emitido al efecto.
+* Que como consecuencia de las solicitudes expresadas por los adquirentes del Pliego de Condiciones y de los resultados de las reuniones uno a uno con los mismos, se han efectuado dos ampliaciones de plazo y enmiendas al Pliego de Condiciones. Resultado de las mismas en fecha 14 de abril del presente año, se presentó el Consorcio “Aguas del Tunari” conformado por las siguientes empresas: International Watter Limited, Abengoa Servicios Urbanos S. A., y el Consorcio Boliviano conformado por Sociedad Boliviana de Cemento S. A., Compañía Boliviana de Ingeniería, Ice Ingenieros S. A. y la Constructora Petricevic S. A., empresas que cumplen con los requerimientos técnicos y financieros del Pliego de Condiciones.
+* Que efectuado el análisis correspondiente de la propuesta presentada, la Comisión Calificadora observó algunos documentos del Proponente y conforme establece el numeral 5.4.3. del Pliego de Condiciones, se el otorgó el plazo establecido en el Pliego de Condiciones para subsanar o aclarar las observaciones.
+* Que el Proponente, culminado el plazo otorgado, no cumplió con la subsanación ni aclaración de algunos documentos.
+* Que al apartarse de los requisitos exigidos en el Pliego de Condiciones, la Comisión Calificadora definió no proceder con la apertura del sobre “2” del Proponente y elaboró el Informe de Recomendación de fecha 15 de abril de 1999, conforme a lo previsto en el artículo 6 del [Decreto Supremo Nº 25133](#TODO-link), sugiriendo se declare desierta la Licitación Pública Nacional e Internacional No. MCEI/SE-SA/UR/SEMAPA-MISICUNI/05/98.
+* Que la ejecución del Proyecto Múltiple Misicuni mediante concesión privada y Concesión del Servicio Público de Agua, constituyen necesidades impostergables de impacto social de amplio alcance cuya solución tiene carácter impostergable en el marco de las condiciones reales del mercado de capitales y las restricciones para la inversión pública.
+* Que las características técnicas, económicas y experiencia profesional de cada una de las empresas que componen el Consorcio “Aguas del Tunari”, se adecuan a la magnitud del Proyecto Misicuni, por lo que se hace necesario verificar la propuesta técnico económica que presentan para su ejecución;
+* Que habiéndose buscado la optimización del proceso de Licitación Pública Nacional e Internacional correspondiente y transcurrido el largo proceso de promoción, es necesario reconducir el proceso para el logro de los objetivos, en el marco del interés social y del Estado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** De acuerdo a lo previsto en la Normas Básicas del Sistema de Administración de Bienes y Servicios aprobadas por resolución suprema 216145 de 3 de agosto de 1995 y en el ámbito del Pliego de Condiciones establecido al efecto, se declara desierta la Licitación Pública Nacional e Internacional No. MCEI/SE-SA/UR/SEMAPA-MISICUNI/05/98.
+
+**Artículo 2°.-** Tratándose de un proyecto de necesidad nacional y a fin de dar continuidad con el Proceso Conjunto de su ejecución se dispone lo siguiente:
+
+1. Se ratifica de necesidad social el Proyecto Múltiple Misicuni y la Concesión del Servicio de Agua Potable y Alcantarillado para la ciudad de Cochabamba,
+2. Se autoriza la Negociación con el Consorcio “Aguas del Tunari”, con carácter de exclusividad por un período de 45 días, sobre la base de la propuesta técnico económica, no conocida en el Proceso de Licitación Pública Nacional e Internacional Nº MCEI/SE-SA/UR/SEMAPA-MISICUNI/05/98 previa presentación de una Boleta Bancaria de Garantía de Seriedad de Propuesta por el monto de $us.2.000.000.-, incondicional, irrevocable y a la vista, válida por 120 días a nombre del Ministerio de Comercio Exterior e Inversión.
+3. Se establece una Comisión de Negociación conformada por el Viceministro de Inversión y Privatización, el Prefecto y Comandante General del Departamento de Cochabamba, el Honorable Alcalde Municipal del Municipio de Cochabamba, el Superintendente de Aguas, el Superintendente de Electricidad, el Presidente Ejecutivo de la Empresa Misicuni y el Gerente General de SEMAPA.
+4. La Comisión Negociadora conformada en el inciso anterior, será la encargada de evaluar y negociar la propuesta técnica y económica, presentada por el Consorcio “Aguas del Tunari” sobre la base de los antecedentes presentados en la Licitación Pública Nacional e Internacional Nº MCEI/SE-SA-UR/SEMAPA-MISICUNI/05/98.
+5. Al término del Proceso de negociación, la Comisión Negociadora elevará Informe al Gabinete Ministerial del Excmo. Señor Presidente de la República, para que en Consejo de Ministros, se defina la adjudicación si corresponde.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Comercio Exterior e Inversión y de Desarrollo Económico, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecinueve días del mes de abril de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada, Fernando Kieffer Guzmán, Herbert Müller Costas, Ana María Cortéz de Soriano, Jorge Pacheco Franco, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Adolfo Soliz Antezana, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Amparo Ballivián Valdés.

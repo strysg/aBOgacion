@@ -1,0 +1,20 @@
+# Bolivia: Decreto Presidencial Nº 28696, 27 de abril de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la señora Ministra de Justicia, Casimira Rodríguez Romero, debe ausentarse del país, en misión oficial a la ciudad de Lima - República del Perú, del 28 de abril al 4 de mayo de 2006, a objeto de asistir al V Congreso y Seminario Internacional de las Trabajadoras del Hogar, en atención a la invitación formulada por la Confederación Latinoamericana y del Caribe de Trabajadoras del Hogar (CONLACTRAHO). Asimismo, a la ciudad de Anaheim, California Estados Unidos de América del 4 al 7 de mayo de 2006, a objeto de asistir a la Asamblea Metodista de Mujeres Unidas 2006 en atención a la invitación formulada por Assembly United Methodist Women.
+* Que es necesario designar Ministro Interino para la continuidad administrativa del mencionado Despacho, de conformidad a lo dispuesto por el artículo 2, Parágrafo II de la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006.
+
+DECRETA:
+
+**Artículo Único.-** Desígnase Ministro Interino de Justicia, al ciudadano Santiago Alex Gálvez Mamani, Ministro de Trabajo, mientras dure la ausencia de la titular.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete días del mes de abril del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga.

@@ -1,0 +1,64 @@
+
+
+# Bolivia: Decreto Supremo Nº 2796, 18 de octubre de 1951
+
+Gral. de Brig. HUGO BALLIVIAN R.
+  
+Presidente del la Junta Militar de Gobierno.
+
+CONSIDERANDO:
+
+* Que, por Resolución Ministerial de 18 de julio de 1949, se nombró una comisión encargada de establecer la situación económica de la Caja de Pensiones y Jubilaciones Militares, de cuyo informe fechado el 15 de octubre del citado año se ve la necesidad de encausarla sobre sistemas económicos y técnicos más eficientes;
+* Que, el no haberse mantenido, por parte del Estado, la relación proporcional de los aportes de éste con los de los asociados, de acuerdo con el Decreto Ley de 28 de julio de 1937 que creó la Caja de Pensiones y Jubilaciones Militares ha ocasionado el que esta entidad, hasta la fecha, no haya podido capitalizar el aporte de sus asociados, a pesar de los sucesivos aumentos de la tasa respectiva, en un monto tal que permitan ya el que las subvenciones vayan decreciendo;
+* Que, la cesión a la Caja de Pensiones y Jubilaciones Militares de bienes a cargo del Ministerio de Defensa Nacional, que a éste sólo le acarrean erogaciones para su conservación o explotación, redundará en definitiva, en beneficio directo del Estado, puesto que las utilidades íntegras de la Caja de Pensiones y Jubilaciones Militares están exclusivamente destinadas, por una parte, a aliviar las obligaciones del Estado en el sostenimiento imperioso de aquella Caja, y por otra, a proveer a la misma, de la suficiente capacidad económica para ir acrecentando esas mismas utilidades;
+* Que, mientras el Poder Ejecutivo estudie otras medidas tendientes a afianzar el cumplimiento de las obligaciones de la Caja de Pensiones y Jubilaciones Militares, es aconsejable, como primer paso, conceder a la indicada Caja, la necesaria autonomía y personería jurídica a fin de que pueda desenvolver sus actividades con mayor amplitud, buscando también, con sus propios medios, nuevas fuentes de ingreso;
+* Que, es conveniente el cambio de nombre de la entidad, por otro que exprese mejor la función específica de la misma.
+* En Junta Militar de Gobierno,
+
+DECRETA:
+
+**Artículo 1°.-** La Caja de Pensiones y Jubilaciones Militares, en adelante se denominará CAJA DE PENSIONES MILITARES.
+
+**Artículo 2°.-** Concédese a la Caja de Pensionas Militares, autonomía propia con personería jurídica, exonerándosela de impuesto Nacional, Departamental, Municipal o Universitario. Gozará de franquicia postal, telegráfica y radiotelegráfica, estando además, liberada del uso del papel sellado y timbres.
+
+**Artículo 3°.-** En virtud de la autonomía otorgada y con plena personería jurídica, la Caja de Pensiones Militares, podrá realizar todos los actos concernientes al desenvolvimiento de sus funciones: celebrar toda clase da contratos; desplegar actividad industrial; realizar actos de comercio y operaciones de crédito en general; abrir y mantener cuentas bancarias; contraer directamente préstamos; importar mercaderías y artículos de consumo con destino a sus almacenes y cooperatívas; obtener divisas, tanto del tipo oficial, para las importaciones correspondientes a las Fuerzas Armadas de la Nación, así como las de otros tipos que se conceden al comercio en general.
+
+**Artículo 4°.-** La Caja estará administrada por un Directorio, formado por un Presidente, de la Clase de Generales, y por seis vocales propietarios y dos suplentes de la Clase de Generales y Jefes y por un Gerente General, nombrado por el Directorio. Todos los miembros del Directorio durarán en sus funciones por el período de tres años, con derecho a reelección. Tres Vocales propietarios y un suplente, serán del servicio activo y designados por el Ministerio de Defensa Nacional, de la terna propuesta por el Estado Mayor General de las FF. AA. de la Nación; y los otros tres Vocales y un Suplente, de las listas pasivas serán elegidos por la “Unión de Militares Jubilados”.
+  
+El Presidente será nombrado por el Ministerio de Defensa Nacional, de entre los Generales de la Lista Pasiva.
+
+**Artículo 5°.-** Son atribuciones del Directorio:
+
+1. Proponer las modificaciones o ampliaciones de las disposiciones legales que reglan el funcionamiento da la Caja, buscando su mejor desenvolvimiento;
+2. Intervenir en la percepción, supervigilancia y control de los fondos destinados a la Caja; administralos, invertirlos y ordenar los pagos con arreglo a las disposiciones pertinentes;
+3. Fijar y aprobar el presupuesto para cada gestión; organizar los diversos Departamentos y Secciones y nombrar la planta de empleados;
+4. El Directorio que fenece en sus funciones al 31 de Diciembre de 1951, redactará los estatutos, reglamentos y demás normas de régimen interno, gestionando la aprobación del Supremo Gobierno.
+
+**Artículo 6°.-** La Caja de Pensiones Militares, en su régimen interno, establecerá la división en dos Departamentos:
+
+1. DEPARTAMENTO DE PRESTACIONES MILITARES: que atenderá todas las obligaciones que le son inherentes, a saber: Pago de Cuota Mortuoria; jubilaciones militares; pensiones de montepíos, invalidez, etc., con arreglo a las disposiciones vigentes sobre la materia;
+2. DEPARTAMENTO DE INVERSIONES: que comprenderá: créditos y bienes de renta: Fábrica de Acido Sulfúrico, Fábrica de Quinina, Talleres de talabartería, Curtiduría y demás actividades de mutualismo, comerciales e industriales que resuelva acometer o que el Estado le encomiende.
+
+**Artículo 7°.-** El Departamento de Prestaciones Militares cuyo personal será constituido por los funcionarios públicos que el Ministerio de Defensa Nacional le fije, con arreglo al Presupuesto de ese Despacho como toda repartición fiscal, estará sujeto a la intervención da la Contraloría General. El Departamento de Inversiones, contará con el personal que para el efecto, contrate la Caja, con arreglo a sus rentas propias y sin que, por tanto, pueda ser considerado fiscal. Las transacciones que haga este Departamento no estarán sujetas a la intervención de la Contraloría General de la República ni de la Superintendencia de Bancos, pero, remitirá anualmente a la Contraloría General, cuenta documentada de sus operaciones para la correspondiente glosa y aprobación.
+
+**Artículo 8°.-** Los recursos de la Caja quedan constituidos por todos los bienes, ingresos, presupuestos, aportes, remanentes, subvenciones del Estado, donaciones, etc., con que cuenta actualmente, de acuerdo a disposiciones vigentes, y con los que en el futuro, se le asignaren.
+
+**Artículo 9°.-** Continuará a cargo del Estado, el pago total de las obligaciones de la Caja, para lo que destinará los recursos necesarios a fin de que la misma, cumpla con las obligaciones ordinarias, extraordinarias o de emergencia, que recaen sobre ella, comprendiendo nivelación de haberes, reajuste de pensiones y otras de carácter excepcional que se dictaren. Para este objeto, como hasta ahora, en el Presupuesto del Ministerio de Defensa Nacional, se fijarán anualmente las respectivas partidas.
+
+**Artículo 10°.-** Desde el primer ejercicio económico, a partir de la autonomía de la Institución, las utilidades líquidas serán destinadas a la constitución de una “Reserva de Previsión”, hasta alcanzar una acumulación igual al promedio trienal de egresos del Departamento de Prestaciones Militares. Constituida esta reserva, el 50% de los futuros superávits se destinará a reducir la subvención del Estado.
+
+**Artículo 11°.-** Se transfiere a la Caja da Pensiones Militares, a título de propiedad definitiva de la misma, los talleres de la Talabartería y Curtiembre da la Intendencia Central del Ejército; igualmente, los talleres y existencias: del Almacén de Oficiales de la misma repartición militar en lo que corresponde a lo resultante de inversiones del Ministerio de Defensa Nacional. La parte del activo y pasivo de ese almacén, cuyo origen es ajeno a la propiedad fiscal se tomará en cuenta cuando se considere la formación de la Cooperativa Militar, para los efectos de la valorización de las acciones que obligatoriamente tendrán que ser suscritas por los asociados de esa Caja. La Caja de Pensiones Militares entrará en posesión del almacén de Oficiales, en las condiciones indicadas, el momento en que se encuentre lista para iniciar las operaciones de la Cooperativa Militar referida.
+
+**Artículo 13°.-** Se derogan todas las disposiciones contrarias al presente Decreto Ley.
+
+**Artículo transitorio Único.-** El actual Directorio de la Caja de Pensiones Militares, continuará en sus funciones, hasta el 31 de diciembre del año 1951, quedando encargado de su reorganización, de acuerdo a las nuevas modalidades.
+  
+El nuevo Directorio será nombrado en el mes de noviembre del, año en curso, debiendo tomar posesión, en la primera semana de enero de 1952.
+
+---
+
+El señor Ministro de Defensa Nacional, queda encargado de la ejecución y cumplimiento del presente Decreto Ley.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de octubre de mil novecientos cincuenta y un años.
+  
+(Fdo.) Gral. de Brig. HUGO BALLIVIAN. Gral. Francisco Careaga. Gral. Donato Cardozo. Gral. Antonio Seleme. Cnl. Tomás A. Suárez. Cnl. Carlos Montero. Tcnl. Luis Martínez. Tcnl. Carlos Ocampo. Tcnl. Sergio Sánchez. Valentín Gómez.

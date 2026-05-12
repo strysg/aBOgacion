@@ -1,0 +1,140 @@
+# Bolivia: Reglamento del Fondo Especial de Reactivación Económica (FERE), DS Nº 26195, 24 de mayo de 2001
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Ley Nº 2196](#TODO-link) de 4 de mayo de 2001, se crea el Fondo Especial de Reactivación Económica (FERE), cuya finalidad es la reprogramación de cartera en el sistema financiero nacional de los sectores productivo, servicios, comercio y consumo, y el Programa de Fortalecimiento Patrimonial (PROFOP), con el objeto de fortalecer patrimonialmente a las entidades de intermediación financiera, mediante el otorgamiento por única vez de créditos subordinados por parte del Estado.
+* Que el FERE será administrado por la Nacional Financiera Boliviana (NAFIBO SAM), la que emitirá títulos de deuda negociables con la garantía del Tesoro General de la Nación para el financiamiento de las reprogramaciones de cartera de los sectores productivo, servicios, comercio y consumo, a través de entidades de intermediación financiera con licencia de funcionamiento de la Superintendencia de Bancos y Entidades Financieras.
+* Que adicionalmente a los recursos del FERE que reciban las entidades de intermediación financiera para la reprogramación de cartera de los sectores señalados, estas entidades, simultáneamente deberán reprogramar con recursos propios en condiciones y características a establecerse mediante reglamento.
+* Que es preciso reglamentar la ejecución del Fondo Especial de Reactivación Económica, conforme lo establece el artículo 21 de la [Ley Nº 2196](#TODO-link) de 4 de mayo de 2001.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Administracion del FERE
+
+**Artículo 1°.- (Contrato de operación del FERE)** El Ministerio de Hacienda y la Nacional Financiera Boliviana Sociedad Anónima Mixta (NAFIBO SAM), suscribirán un contrato para la operación del Fondo Especial de Reactivación Económica (FERE), en un plazo no mayor a treinta (30) días desde la fecha de publicación de la [Ley Nº 2196](#TODO-link), en las características establecidas en la citada norma y lo dispuesto por el presente Decreto Supremo.
+  
+Los costos de administración estarán establecidos en el contrato y serán deducidos de los recursos del FERE. El Tesoro General de la Nación asumirá los costos que no alcancen a ser cubiertos.
+
+## Capítulo II Bonos FERE
+
+**Artículo 2°.- (Emisión de bonos)** NAFIBO SAM, en conformidad al artículo 2º de la [Ley Nº 2196](#TODO-link), emitirá valores representativos de deuda (Bonos FERE) para la constitución del Fondo Especial de Reactivación Económica (FERE), con un financiamiento neto de hasta $us 250.000.000 (Doscientos cincuenta millones de dólares de los Estados Unidos de América) Este Fondo se constituirá por única vez.
+  
+Los Bonos FERE se emitirán las veces necesarias para cubrir el financiamiento neto del Fondo, pudiendo tener condiciones y características distintas e independientes en cada emisión. La tasa de interés de los bonos se establecerá en función a las condiciones del mercado, al momento de cada emisión.
+  
+NAFIBO SAM, a través de su junta general de accionistas, determinará los plazos, condiciones y características que respalden las emisiones referidas en el párrafo anterior. En el marco de lo establecido en el artículo 3º de la [Ley Nº 2196](#TODO-link), NAFIBO SAM para la emisión de los Bonos FERE, se encuentra exenta del cumplimiento del numeral 3 del artículo 645º y los numerales 2 y 4 del artículo 651º del Código de Comercio, estando sujeta al cumplimiento de los requisitos establecidos en el artículo 198º del [Decreto Supremo Nº 25022](#TODO-link), de 3 de agosto de 1998, excepto en sus incisos 6º y 7º.
+  
+El Tesoro General de la Nación, como garante de las emisiones de los Bonos FERE, respaldará, a través de NAFIBO SAM, el cumplimiento de las obligaciones de dichos bonos a favor de los tenedores de estos títulos.
+
+**Artículo 3°.- (Negociación de bonos)** NAFIBO SAM negociará los Bonos FERE, directamente con los inversionistas que expresen interés en adquirirlos. Alternativamente, podrán ser negociados en el mercado de valores a través de la Bolsa Boliviana de Valores. Los títulos de deuda podrán ser adquiridos por cualquier persona natural o jurídica, sin restricción.
+  
+NAFIBO SAM mediante contratos de financiamiento transferirá los recursos obtenidos de la colocación de los Bonos FERE, a favor de entidades de intermediación financiera con licencia de funcionamiento de la Superintendencia de Bancos y Entidades Financieras.
+
+## Capítulo III Recursos del FERE y reprogramacion de cartera
+
+**Artículo 4°.- (Requisitos de solicitud de acceso a recursos del FERE)** Las entidades de intermediación financiera que deseen acceder a los recursos del FERE, deberán presentar una solicitud a NAFIBO SAM adjuntando los siguientes documentos:
+
+1. Detalle de los créditos a ser reprogramados a favor de prestatarios del sector productivo, comercio, servicios y consumo, en las características y condiciones establecidas en los artículos 5º y 6º del presente Decreto. El riesgo crediticio de los prestatarios por los créditos reprogramados, corresponderá a la entidad de intermediación financiera.
+     
+   Información de la entidad de intermediación financiera al 30 de abril del 2001, que demuestre que: i) su cartera en mora menos previsiones constituidas, es igual o inferior al cincuenta por ciento (50%) de su patrimonio neto, y ii) su coeficiente de adecuación patrimonial es igual o superior al mínimo establecido por Ley.
+     
+   La entidad de intermediación financiera que no cumpla con uno de los requisitos señalados anteriormente, deberá gestionar simultáneamente su acceso al PROFOP a través de un crédito subordinado de capitalización, que dentro de su Plan de Fortalecimiento Institucional contemple subsanar esas deficiencias, en las condiciones establecidas en el Decreto Supremo reglamentario. Esto no inhabilitará a la entidad de intermediación financiera de iniciar sus operaciones bajo el FERE.
+     
+   Otra información, de acuerdo al reglamento a ser emitido por NAFIBO SAM al respecto.
+
+**Artículo 5°.- (Reprogramaciones de cartera)** Las entidades de intermediación financiera que accedan al FERE, reprogramarán los créditos de sus prestatarios de los sectores productivo, servicios, comercio y consumo, que tengan capacidad de pago y cuyos créditos estén calificados en cualquiera de las categorías de riesgo, al 30 de abril del 2001, de acuerdo a lo siguiente:
+  
+Reprogramaciones a los sectores productivo, comercio y servicios:
+  
+Las entidades de intermediación financiera presentaran a NAFIBO SAM el detalle de la cartera a ser reprogramada correspondiente a los sectores productivo, comercio y servicios.
+  
+Cincuenta por ciento (50%) del total de esta cartera, que para efecto del presente Decreto se denominará “cartera reprogramada con recursos propios”, deberá ser reprogramada a un plazo no menor a cuatro (4) años con dos (2) años de gracia para capital.
+  
+El otro cincuenta por ciento (50%) de la cartera, que para efecto del presente Decreto se denominará “cartera reprogramada con recursos del FERE”, deberá ser reprogramada a un plazo no menor a ocho (8) años, con dos (2) de gracia para capital.
+  
+Reprogramaciones a los sectores de consumo:
+  
+Las entidades de intermediación financiera presentaran a NAFIBO SAM el detalle de la cartera a ser reprogramada correspondiente al sector consumo.
+  
+Sesenta y siete por ciento (67%) del total de esta cartera, que para efecto del presente Decreto se denominará “cartera reprogramada con recursos propios”, deberá ser reprogramada a un plazo no menor a dos (2) años, incluyendo como máximo un (1) año de gracia para capital
+  
+El restante treinta y tres por ciento (33%) de la cartera, que para efecto del presente Decreto se denominará “cartera reprogramada con recursos del FERE”, deberá ser reprogramada a un plazo no mayor a cuatro (4) años, con un (1) de gracia para capital.
+
+**Artículo 6°.- (Condiciones de las reprogramaciones)** La cartera reprogramada se sujetará a las siguientes condiciones:
+  
+La entidad de intermediación financiera destinará hasta un veinte por ciento (20%) del total de recursos del FERE a la categoría uno (1) de riesgo, el restante será repartido, a decisión de la entidad de intermediación financiera, entre las restantes categorías de riesgo .
+  
+La entidad de intermediación financiera podrá emplear hasta un máximo del cuarenta por ciento (40%) del los recursos del FERE asignados a ésta, a favor de reprogramaciones de prestatarios con deudas iguales o superiores a $US 500.000 (Quinientos mil dólares de los Estados Unidos de América).
+  
+Cada entidad financiera no podrá destinar a un prestatario más del diez por ciento (10%) de los recursos FERE que se el asigne.
+  
+La reprogramación a un prestatario o grupo de prestatarios se realizará por una sola vez.
+  
+Declaración jurada del Representante Legal de la entidad financiera y del deudor sobre la inexistencia de vinculación entre ambos, en los términos establecidos en el artículo 33 de la [Ley Nº 1670](#TODO-link) del Banco Central de Bolivia.
+  
+Las reprogramaciones de cartera podrán incluir los intereses corrientes devengados y no pagados, de acuerdo a lo establecido en el artículo 800 del Código de Comercio. Los intereses no cobrados que se capitalicen se reconocerán contra ingresos en función al servicio de la deuda.
+  
+Las previsiones específicas ya constituidas por los créditos objeto de reprogramación, no podrán ser revertidas, ni se podrán generar ingresos por las reprogramaciones previstas en el inciso f) anterior.
+  
+Cada crédito reprogramado, deberá financiarse entre un cincuenta por ciento (50%), y hasta un máximo de un setenta y cinco por ciento (75%) con los recursos del FERE. El monto restante deberá ser financiado con recursos propios.
+
+1. La tasa de interés final incluyendo los recargos financieros, para el prestatario respecto a la reprogramación financiada con recursos del FERE, será variable y calculada sobre la base de la Tasa de Interés de Referencia (TRE) en moneda extranjera, determinada por el Banco Central de Bolivia, más tres coma cinco (3,5) puntos porcentuales. La tasa de interés para el prestatario respecto a la reprogramación financiada con recursos propios, será establecida por la entidad de intermediación financiera, de acuerdo a las condiciones del mercado.
+2. Si se produce transferencia de cartera de una entidad financiera a otra, dicha cartera mejorará de categoría siempre que la reprogramación correspondiente, por parte de la entidad adquirente, cumpla lo previsto en los numerales I.1 y II.2 del artículo 5° de la [Ley Nº 2196](#TODO-link) de 4 de mayo de 2001.
+
+**Artículo 7°.- (Asignación de recursos del FERE)** El monto de recursos del FERE que será aprobado a favor de la entidad de intermediación financiera solicitante, se fijará en función a los años promedio adicionales de reprogramación de la cartera con recursos propios y de la cartera con recursos del FERE, que las entidades otorguen a favor de los sectores productivo, comercio, servicios y consumo, con relación a los plazos mínimos de reprogramación señalados en el artículo 5º del presente Decreto.
+  
+El plazo promedio de reprogramación de la cartera, será el resultado de los plazos de reprogramación de cada crédito ponderados por el porcentaje del crédito con relación al total de la cartera reprogramada con recursos propios y con recursos FERE, según corresponda. Los años promedio adicionales, corresponderán a la diferencia entre el plazo promedio ponderado de reprogramación de la cartera y el plazo mínimo de reprogramación establecido en el artículo 5º del presente Decreto.
+  
+Por cada año promedio adicional de reprogramación de cartera con recursos propios y/o con recursos del FERE, respecto del plazo mínimo establecido, NAFIBO SAM aprobará un monto de financiamiento con recursos del FERE a favor de la entidad de intermediación financiera, calculado de acuerdo al siguiente cuadro:
+
+|  |  |
+| --- | --- |
+| AÑO PROMEDIO ADICIONAL  DE REPROGRAMACIÓN  TANTO DE CARTERA CON RECURSOS PROPIOS COMO  CON RECURSOS DEL FERE | RECURSOS DEL FERE QUE RECIBIRA LA ENTIDAD DE INTERMEDIACIÓN FINANCIERA |
+| Igual a 0 años y menor o igual a 1 año | 50% de la cartera reprogramada |
+| Mayor a 1 año y menor o igual a 2 años | 55% de la cartera reprogramada |
+| Mayor a 2 años y menor o igual a 3 años | 60% de la cartera reprogramada |
+| Mayor a 3 años y menor o igual a 4 años | 65% de la cartera reprogramada |
+
+  
+En las reprogramaciones de cartera a favor del sector consumo, la asignación de recursos del FERE, se calculará únicamente sobre la cartera financiada con recursos propios.
+
+**Artículo 8°.- (Límites de acceso a recursos del FERE)** El límite de acceso y asignación de recursos del FERE a las entidades de intermediación financiera estará sujeto a:
+  
+Las condiciones y límites de endeudamiento que fije NAFIBO SAM mediante reglamento, para las entidades de intermediación financiera que deseen participar del FERE.
+  
+El límite de endeudamiento total de la entidad de intermediación financiera con NAFIBO SAM, no podrá exceder el monto equivalente a doble de su patrimonio.
+  
+La participación proporcional de cada entidad en el total de cartera bruta de las entidades de intermediación financiera con licencia de funcionamiento de la Superintendencia de Bancos y Entidades Financieras, de acuerdo a reglamento que para efecto emita NAFIBO SAM.
+  
+El límite de acceso a los recursos del FERE de una entidad de intermediación financiera, con relación a su participación proporcional, podrá incrementarse cuando una de las entidades ejerza parcialmente o desestime su opción de acceso a estos recursos. Estos recursos serán asignados con el mismo criterio de distribución señalado en el presente inciso. Los plazos y otras características de este proceso, serán establecidos en el reglamento de NAFIBO SAM.
+
+**Artículo 9°.- (Contratos de financiamiento)** Una vez verificado el cumplimiento de los requisitos establecidos en los artículos 4º, 5º y 6º del presente Decreto, la entidad de intermediación financiera accederá al financiamiento con recursos del FERE, a través de la suscripción de contratos de financiamiento con NAFIBO SAM. Este financiamiento será otorgado por única vez y en ningún caso será objeto de reprogramación o renovación.
+  
+Los contratos de financiamiento establecerán la tasa de interés aplicable a las líneas de financiamiento, que será determinada por NAFIBO SAM en función a la tasa de interés final que las entidades de intermediación financiera apliquen a las reprogramaciones a favor de sus prestatarios.
+  
+Las entidades de intermediación financiera que accedan a los recursos del FERE, deberán constituir como garantía, en una relación de uno a uno, la cartera reprogramada de acuerdo a lo señalado en los artículos 5º y 6º del presente Decreto. A solicitud de NAFIBO SAM, la entidad de intermediación financiera deberá sustituir dichas garantías por otra cartera reprogramada con recursos propios.
+
+**Artículo 10°.- (Recuperación de recursos del FERE)** NAFIBO SAM, con los recursos obtenidos por las emisiones de los bonos FERE y de la recuperación del financiamiento otorgado a las entidades de intermediación financiera, cubrirá las obligaciones emergentes de estos Bonos.
+  
+Cuando la diferencia entre las tasas de colocación de los Bonos FERE y las tasas de interés establecidas en los contratos de financiamiento con las entidades de intermediación financiera, sea positiva, los ingresos resultantes financiarán los costos y servicios del FERE. El remanente, en caso de existir, será transferido a favor del Tesoro General de la Nación.
+  
+NAFIBO SAM cuantificará y comunicará al Tesoro General de la Nación, las obligaciones que no alcancen a ser cubiertas con ingresos provenientes de la recuperación de las líneas de financiamiento o cuando la diferencia entre las tasas señaladas en el párrafo anterior sea negativa. El TGN pagará estas obligaciones, debiendo inscribirlas en el presupuesto de deuda pública de la gestión correspondiente.
+
+**Artículo 11°.- (Incumplimiento de Pago)** El incumplimiento por parte de una entidad de intermediación financiera, en el pago de una cuota de capital o intereses de los recursos del FERE, de acuerdo a lo establecido en el presente Decreto y al reglamento que para efecto emita NAFIBO SAM, se constituye en cesación de pagos.
+
+**Artículo 12°.- (Otros Aspectos)** El Ministerio de Hacienda emitirá la disposiciones necesarias para la ejecución del Fondo Especial de Reactivación Económica no previstas en el presente Decreto.
+  
+Los demás aspectos referidos a la operación del FERE serán determinados en el contrato a ser suscrito entre NAFIBO SAM y el Ministerio de Hacienda.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda, queda encargado del cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de mayo del año dos mil uno.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Marcelo Pérez Monasterios, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, José Luis Lupo Flores, Luis Vásquez Villamor, Carlos Saavedra Bruno, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Jorge Pacheco Franco, Hugo Carvajal Donoso, Mario Galindo Sosa MINISTRO INTERINO DE DESARROLLO SOSTENIBLE Y PLANIFICACION, Claudio Mancilla Peña, Rubén Poma Rojas, Manfredo Kempff Suárez, Wigberto Rivero Pinto.

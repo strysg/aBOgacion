@@ -1,0 +1,49 @@
+
+
+# Bolivia: Decreto Ley de 12 de enero de 1956
+
+VICTOR PAZ ESTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que es de imperiosa necesidad la conservación de las caminos a Inquisivi, Nor y Sud Yungas, su ensanche y mecademización para evitar el enorme desgaste que sufren los automotores que transitan por esas vías, ocasionando costos elevados en el transporte de pasajeros y productos;
+* Que es de vital importancia encarar la solución de los problemas de saneamiento en esas provincias para defender el capital humano, animal y vegetal, afectado por enfermedades endémicas y parasitarias;
+
+En Consejo de Ministros y con cargo de aprobación legislativa,
+
+**Artículo 1°.-** Para incrementar los recursos destinados a la vialidad y saneamiento a las provincias de Yungas e Inquisivi y prosecución de los caminos de penetración al Beni, se restablece la vigencia del inciso b) del Art. 2º de la Ley de 17 de abril de 1941, destinándose la totalidad de los gravámenes a que se refiere a la conservación, ensanche y mejora de los caminos en las provincias de Nor y Sur Yungas de La Paz.
+
+**Artículo 2°.-** Se restablece la vigencia del Art. 9° de la Ley de 17 de abril de 1941 con las siguientes modificaciones:
+> “Las frutas, verduras, ce-reales y demás productos no especificados, lo mismo que la madera de cualquier clase: en troncos, partida, labrada o aserrada y el carbón y la leña que se extraigan por el camino de los Yungas, cualquiera que sea su procedencia, abonará el impuesto del 1% ad-valorem; el alcohol potable destilado en las provincias de Yungas e Inquisivi pagará un impuesto adicional de 5 B S por litro. Las recaudaciones que se efectúen por estos conceptos así como por exportación de café de esas provincias, se distribuirán de acuerdo al Art. 12° de la Ley de 17 de abril de 1941 excepción hecha del inciso b), cuyo porcentaje beneficiará en partes iguales a los Ministerios de Salubridad y Agricultura para la atención de los Hospitales y dispensarios y el fomento agrícola, respectivamente, de esas provincias.”
+
+**Artículo 3°.-** Con destino exclusivo a la conservación, ensanche y mejora de los caminos de las provincias yungueñas y conexión de cantones con salidas troncales, se revierten a la Junta de Caminos La Paz-Beni las tasas sobre peajes y rodados, elevándose estos impuestos creados por Ley de 23 de noviembre de 1932 y modificados por los Decretos Supremos de 6 de junio de 1936 y 29 de agosto de 1939, en las siguientes cantidades:
+
+|  |  |
+| --- | --- |
+| Para camiones y autobus | Bs. 1.000. |
+| Para automóviles, camionetas y jeeps | Bs. 500. |
+
+  
+Este impuesto será cobrado por la Aduana de la Coca y se pagará en una sola vez por viaje de ida y vuelta.
+
+**Artículo 4°.-** Derógase el Art. 8 inciso c) del Decreto Supremo de 18 de octubre de 1946, en lo que se refiere a la entrega de Bs. 5.000.000.- por parte de la aduana de la coca al ferrocarril La Paz - Beni, favoreciendo dicha suma en lo sucesivo a la Junta de caminos La Paz - Beni, para la conservación ensanche y mejora de los caminos de los Yungas.
+
+**Artículo 5°.-** Los minerales extraidos de las provincias yungueñas del Departamento de La Paz, a que se refiere la Ley de 17 de abril de 1941, Art. 10 pagarán el impuesto de Bs 50. sobre Ios 46 kilos, y con destino a la construcción del camino Yanacachi-Villa Aspiazu y los extraídos de la Provincia Inquisivi Bs 40. sobre los 46 kilos, que se destinará en un 50% a la prosecución del camino Inquisivi-Charapaxsi-Siri-Cajuata-Cáñamina y su empalme a Cajetillas y el 50 restante para obras de alcantarillado, aguas potables y construcción de las casas de Gobierno en Quime e Inquisivi.
+
+**Artículo 6°.-** Habiéndose encomendado al Servicio., Cooperativo Interamericano de Vialidad la conservación y ensanche de las caminos La Paz-Unduavi-Chulumani y Unduavi-Yolosa-San Pedro el Choro, los fondos que crea el presente Decreto con destino a la conservación de caminos a los Yungas de La Paz, serán preferentemente invertidos en la conservación y ensanche de los caminos troncales a los cantones, la construcción de nuevos de vinculación a los mismos, donde no existan y especialmente a la construcción de un camino y sendas ganaderas que alcancen la región de San Borja.
+
+**Artículo 7°.-** Las rentas y obras relativas a vialidad, a que se refiere el presente Decreto Ley, estarán bajo la administración de la Junta de Caminos La Paz-Beni, de conformidad a las Leyes de 15 de enero de 1954 y 17 de abril de 1941, excepción hecha de los fondos destinados a vialidad de la Provincia Inquisivi, quo, serán manejados por la Prefectura del Departamento. Las rentas destinadas a obras de saneamiento, aguas potables, alcantarillado y pavimentación de la Provincia Inquisivi serán directamente depositadas a la orden de la Prefectura del Departamento de La Paz con destino a las obras previstas en el Art. anterior.
+
+**Artículo 8°.-** Las Cooperativas que se hubiesen formado en las Provincias de Yungas, Inquisivi, Murillo y Caupolicán, continuarán pagando los impuestos y recargos establecidos por el presente Decreto Ley por beneficiar dichos fondos a la atención vial de estas provincias.
+
+**Artículo 9°.-** La cobranza de los recursos creados en este Decreto Ley se efectuará por la Aduana de la Coca de La Paz.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda y Obras Públicas quedan encargados de la ejecución y cumplimiento del presente Decreto Ley.
+  
+Dado en el palacio de gobierno de la ciudad de La Paz, a los doce días del mes de enero de mil novecientos cincuenta y seis años.
+  
+(Fdo.) VICTOR PAZ ESTENSSORO. Alberto Mendieta A. Angel Gómez García. Gral. Gualberto Olmos. Julio Ml. Aramayo. F. Alvarez Plata. A. Cuadros Sánchez. Alcibiades Velarde. Miguel Calderón L.

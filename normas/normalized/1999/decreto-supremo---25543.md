@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 25543, 15 de octubre de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Gobierno de Bolivia encaró con carácter preferencial, mediante los decretos supremos [Nº 21660](#TODO-link) de 10 de mayo de 1987 y [Nº 22189](#TODO-link) de 15 de marzo de 1989, el reordenamiento de la deuda pública a objeto de recuperar la credibilidad internacional y lograr la reapertura de la cooperación internacional para nuestro país, estableciendo mecanismos para el pago de la deuda externa de la banca privada boliviana y extranjera, legalmente establecida en el país, y generada en los créditos desdolarizados con cargo a la entrega de divisas por el Banco Central de Bolivia, por efecto de los decretos supremos [Nº 19249](#TODO-link) de 3 de noviembre de 1982, [Nº 20028](#TODO-link) de 10 de febrero de 1984 y [Nº 20173](#TODO-link) de 14 de abril de 1984 y sus respectivas disposiciones reglamentarias;
+* Que las instituciones oficiales del Gobierno Brasileño afectadas por el proceso de desdolarización han reclamado al Estado Boliviano, mediante la IRB-Reaseguros del Brasil, desde la aprobación de los citados decretos supremos, el reconocimiento de las pérdidas sufridas en operaciones concluidas antes del 31 de diciembre de 1985 y cubiertas por el seguro de crédito a las exportaciones, sin poder lograrse una conciliación de los montos de las obligaciones del Gobierno de Bolivia, así como tampoco ningún acuerdo sobre la forma en que se solucionará el conflicto;
+* Que los acreedores de Bolivia del Club de París, con Brasil como observador, han decidido otorgar una minuta de acuerdo suscrita el 31 de octubre de 1998, un tratamiento excepcional a la deuda pública boliviana, en el marco de la Iniciativa de Reducción de Deuda para Países Pobres Altamente Endeudados, que significará para la nación un alivio sin precedentes de su deuda externa pública y que alcanzará alrededor de US$ 1.200 millones en montos nominales;
+* Que la efectivización del mencionado alivio está condicionada a la reducción y reorganización de la deuda con todos los acreedores bilaterales y privados, en términos comparables y no más favorables a lo estipulado en la minuta del 31 de octubre de 1998, lo que exige la regularización de todos los pagos pendientes con los acreedores participantes de esta reestructuración, a la brevedad posible y a más tardar hasta el 31 de octubre de 1998;
+* Que el Gobierno del Brasil ha expresado su disposición para conceder un tratamiento extraordinariamente favorable y comparable con el alivio por los acreedores del Club de París, condonando hasta el 80% del total de la deuda boliviana pendiente al 31 de octubre de 1998, recalcando al mismo tiempo la necesidad de dar una solución definitiva y favorable para ambas partes, a la deuda reclamada por la IRB-Brasil Reaseguros S.A. que está postergada por más de 15 años y comunicando la imposibilidad de alcanzar ningún acuerdo de renegociación sin previa resolución del mencionado conflicto;
+* Que el Gobierno de Bolivia ha suspendido por completo los pagos de la deuda bilateral con el Brasil desde 1995, cuyos vencimientos continúan acumulándose desde entonces, incrementando rápidamente el saldo de la deuda pública externa, porque no dispone de recursos para regularizar estas obligaciones y mucho menos las que se hallan en conflicto, a no ser que se el otorgue una reestructuración muy favorable;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** A fin de conseguir el mayor beneficio posible de las renegociaciones de deuda en el marco de la Iniciativa del Alivio de Deuda para Países Pobres Altamente Endeudados y de asegurar su efectivización, se autoriza el reconocimiento de obligaciones del Estado boliviano por créditos comerciales garantizados o asegurados con la República del Brasil o sus instituciones apropiadas, derivadas de operaciones concluidas antes del 31 de diciembre de 1985 y cubiertas por el seguro de crédito de exportación, con plazo de maduración superior a un año, hasta un monto consolidado de US$ 10, 411, 671.29.
+
+**Artículo 2°.-** Estas obligaciones serán reestructuradas bajo los términos de las minutas acordadas en el Club de París en 24 de marzo de 1995 y 31 de octubre de 1998, en una forma consensuada entre ambas partes y sobre un total de vencimientos acumulados del principal e intereses al 31 de diciembre de 1995 de US$ 21, 361, 624, 23 que incluye toda obligación a esa fecha, derivada de las deudas reconocidas en el artículo primero del presente decreto.
+
+**Artículo 3°.-** La reestructuración de los montos mencionados anteriormente y el cumplimiento de los acuerdos correspondientes, determinará la extinción de las obligaciones del Estado Boliviano con acreedores del Brasil, por un monto de US$ 39, 700, 672, 87, emergentes de la aplicación de los decretos supremos [Nº 21660](#TODO-link) del 10 de mayo de 1987, [Nº 22189](#TODO-link) del 15 de marzo de 1989, [Nº 19249](#TODO-link) de 3 de noviembre de 1982, [Nº 20028](#TODO-link) de 19 de febrero de 1984 y [Nº 20173](#TODO-link) de 14 de abril de 1984 y otros relacionados.
+
+---
+
+El señor Ministro de Estado en el despacho de hacienda queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de octubre de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo MINISTRO INTERINO DE RR. EE. Y CULTO, Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Herbert Muller Costas, Juán Antonio ChahÍn Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vasquez Villamor, Oswaldo Antezana Vaca Diez, José Antonio Barriga Arroyo MINISTRO INTERINO DE DESARROLLO SOSTENIBLE Y PLANIFICACION, Carlos Saavedra Bruno, Rubén Poma Rojas, Jorge Landivar Roca.

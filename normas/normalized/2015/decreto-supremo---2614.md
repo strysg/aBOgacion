@@ -1,0 +1,113 @@
+# Bolivia: Decreto Supremo Nº 2614, 2 de diciembre de 2015
+
+[Decreto Supremo Nº 2614](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 330 de la [Constitución Política del Estado](#TODO-link), determina que el Estado regulará el sistema financiero con criterios de igualdad de oportunidades, solidaridad, distribución y redistribución equitativa.
+* Que el Parágrafo II del Artículo 330 del Texto Constitucional, establece que el Estado, a través de su política financiera, priorizará la demanda de servicios financieros de los sectores de la micro y pequeña empresa, artesanía, comercio, servicios, organizaciones comunitarias y cooperativas de producción.
+* Que el Parágrafo I del Artículo 4 de la [Ley Nº 393](#TODO-link), de 21 de agosto de 2013, de Servicios Financieros, dispone que los servicios financieros deben cumplir la función social de contribuir al logro de los objetivos de desarrollo integral para el vivir bien, eliminar la pobreza y la exclusión social y económica de la población.
+* Que los incisos a) y b) del Parágrafo II del Artículo 4 de la [Ley Nº 393](#TODO-link), señalan que el Estado Plurinacional de Bolivia y las entidades financieras comprendidas en la citada Ley, deben velar porque los servicios financieros que presten, cumplan entre otros, promover el desarrollo integral para el vivir bien; y facilitar el acceso universal a todos sus servicios.
+* Que el Parágrafo I del Artículo 115 de la [Ley Nº 393](#TODO-link), establece que las entidades de intermediación financiera destinarán anualmente un porcentaje de sus utilidades, a ser definido mediante decreto supremo, para fines de cumplimiento de su función social, sin perjuicio de los programas que las propias entidades financieras ejecuten.
+* Que el Artículo 3 del [Decreto Supremo Nº 2136](#TODO-link), de 9 de octubre de 2014, determina que cada una de las entidades de intermediación financiera alcanzadas por el citado Decreto Supremo, deberán destinar el seis por ciento (6%) del monto de sus utilidades netas correspondientes a la gestión 2014 para la constitución de un Fondo de Garantía de Créditos para el Sector Productivo.
+* Que se ha evidenciado la necesidad de incrementar los recursos del fondo de garantía creado mediante [Decreto Supremo Nº 2136](#TODO-link), para lo cual se debe establecer el porcentaje de las utilidades netas de los Bancos Múltiples y Bancos Pyme, que deberán ser destinados al cumplimiento de su función social, a través de aportes al Fondo de Garantía de créditos para el Sector Productivo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto determinar el porcentaje de las utilidades netas de la gestión 2015 de los Bancos Múltiples y Bancos Pyme que deberá ser destinado a los Fondos de Garantía de Créditos para el Sector Productivo que estarán bajo administración de cada uno de ellos, en adelante Fondos de Garantía.
+
+**Artículo 2°.- (Alcance)** Las disposiciones del presente Decreto Supremo, son de aplicación para los Bancos Múltiples y Bancos Pyme.
+
+**Artículo 3°.- (Porcentaje y destino de utilidades netas para función social)** 
+
+1. Cada uno de los Bancos Múltiples y Bancos Pyme, deberán destinar el seis por ciento (6%) de sus utilidades netas de la gestión 2015, a un Fondo de Garantía bajo su administración, en cumplimiento de su función social prevista en el Artículo 115 de la [Ley Nº 393](#TODO-link), de 21 de agosto de 2013, de Servicios Financieros, sin perjuicio de los programas de carácter social que dichas entidades financieras ejecutan.
+2. El monto de las utilidades netas destinado a los Fondos de Garantía será determinado en función a los estados financieros de la gestión 2015, con dictamen de auditoría externa presentados a la Autoridad de Supervisión del Sistema Financiero - ASFI.
+3. Los aportes a los Fondos de Garantía, son de carácter irrevocable y definitivo; constituyen una disposición absoluta en términos contables y jurídicos, por lo que los bancos aportantes no contabilizarán bajo ninguna forma de activo.
+
+**Artículo 4°.- (Fondos de Garantía de créditos para el sector productivo)** 
+
+1. Con los recursos establecidos en el Artículo 3 precedente, los Bancos Múltiples y Bancos Pyme aplicarán a la finalidad establecida en el mismo Artículo, de la siguiente manera:
+   1. Los Bancos Múltiples de manera individual efectuarán sus aportes a un Fondo de Garantía de nueva creación bajo administración de cada uno de ellos, destinado a garantizar operaciones de Microcrédito y Crédito Pyme para capital de operaciones y/o capital de inversión;
+   2. Los Bancos Pyme transferirán los montos que los corresponda a los Fondos de Garantía que cada uno de ellos administra, constituidos por disposición del [Decreto Supremo Nº 2136](#TODO-link), de 9 de octubre de 2014.
+2. Los Fondos de Garantía que se constituyan con aportes de Bancos Múltiples comenzarán a otorgar garantías a partir de la fecha de recepción de los recursos del aporte. El otorgamiento de garantías por parte de los Fondos de Garantía constituidos con aportes del Bancos Pyme, continuará de manera regular sin que el proceso de aporte de los nuevos recursos cause interrupción alguna.
+
+**Artículo 5°.- (Características de los Fondos de Garantía)** 
+
+1. Los Fondos de Garantía tendrán por objeto garantizar créditos destinados al sector productivo para capital de operaciones y/o capital de inversión, incluidas operaciones de crédito para financiamiento del sector turismo y producción intelectual según definiciones y normativa emitida por ASFI.
+2. Los recursos de los Fondos de Garantía constituyen un patrimonio autónomo, independiente del patrimonio de los Bancos Múltiples y Bancos Pyme, debiendo por ello ser administrados y contabilizados en forma separada.
+3. La administración de los Fondos de Garantía estará a cargo de la entidad bancaria aportante de los recursos, pudiendo delegar la administración a otra entidad regulada por la [Ley Nº 393](#TODO-link), o por la [Ley Nº 1834](#TODO-link), de 31 de marzo de 1998, del Mercado de Valores, previa no objeción del Ministerio de Economía y Finanzas Públicas.
+
+**Artículo 6°.- (Condiciones de la garantía)** 
+
+1. El Fondo de Garantía podrá otorgar coberturas hasta el cincuenta por ciento (50%) de la operación crediticia.
+2. La garantía otorgada por el Fondo de Garantía tendrá vigencia hasta el momento en que el prestatario hubiera alcanzado a amortizar el crédito en la proporción de la garantía otorgada por los Fondos de Garantía.
+3. La garantía que otorgue el Fondo de Garantía cubrirá únicamente el componente de capital y no los intereses ni ningún otro concepto.
+4. El Fondo de Garantía pagará la cobertura en un término no mayor a quince (15) días, transcurridos desde que se hubieran iniciado las acciones de cobranza judicial; o también podrá pagar en cualquier momento de la situación en mora en que se encontrara el crédito bajo la condición de que el Banco acreedor inicie la cobranza judicial en el plazo máximo de treinta (30) días calendario de la fecha de pago de la garantía, sujeto a reembolso del Banco acreedor al Fondo de Garantía en caso de que no lo hiciera.
+5. El abono de la garantía implica automáticamente la subrogación de derechos de acreedor del banco acreedor a favor del Fondo de Garantía, y también el tácito mandato del Fondo de Garantía al Banco administrador del Fondo de Garantía para que efectúe la cobranza judicial de la parte del crédito subrogada a su favor.
+6. En caso de regularizarse la operación, el banco acreedor deberá restituir al Fondo de Garantía los recursos desembolsados.
+7. Cuando por la vía de la cobranza judicial se hubiera logrado la recuperación de fondos, el banco acreedor deberá restituir al Fondo de Garantía los recursos de la garantía pagada después de haberse reembolsado su saldo correspondiente. En caso que los recursos recuperados fueran suficientes para cubrir el saldo deudor con la entidad financiera, y no todo el capital cubierto por el Fondo de Garantía, éste asumirá la pérdida de la parte no recuperada. Si los recursos recuperados no alcanzaran a cubrir el saldo deudor con el banco acreedor luego de deducido el monto de la garantía cobrada, el Fondo de Garantía no asumirá ninguna pérdida adicional al porcentaje de cobertura establecido contractualmente al inicio del crédito.
+8. La garantía otorgada por el fondo no tendrá costo para el prestatario.
+
+**Artículo 7°.- (Requisitos para acceder al Fondo de Garantía de Créditos para el sector productivo)** La persona natural o jurídica solicitante de crédito para el sector productivo, para acceder a la garantía otorgada por el Fondo de Garantía deberá contar con la capacidad de pago suficiente para responder la obligación crediticia de acuerdo a disposiciones regulatorias y políticas de la Entidad de Intermediación Financiera.
+
+**Artículo 8°.- (Comisión de administración)** La comisión de administración del Fondo de Garantía será del cero punto cinco por ciento (0.5%) anual del total del Fondo, más una comisión de éxito del treinta por ciento (30%), del rendimiento del portafolio de inversiones que exceda el uno por ciento (1%)
+
+**Artículo 9°.- (Contratación de los administradores de los Fondos de Garantía de Créditos para el sector productivo)** . El Ministerio de Economía y Finanzas Públicas, será la entidad que suscribirá los contratos de administración de los Fondos de Garantía con los Bancos Múltiples y Bancos Pymes aportantes, estableciendo los lineamientos de inversión de los recursos y otros aspectos.
+
+**Artículo 10°.- (Funciones de los administradores de los Fondos de Garantía de Créditos para el sector productivo)** Las funciones de los Bancos Múltiples y Bancos Pymes como encargados de la administración de los Fondos de Garantía son las siguientes:
+
+1. Otorgar garantías para los créditos que aprueben y desembolsen destinados al sector productivo a simple requerimiento;
+2. Administrar e invertir los recursos del Fondo de Garantía, mientras no sean utilizados para los fines de su objeto, conforme lineamientos de inversión establecidos en el contrato de Administración del Fondo de Garantía;
+3. Remitir mensualmente de manera electrónica al Ministerio de Economía y Finanzas Públicas, los estados financieros del Fondo de Garantía, y anualmente, también en forma impresa y con informe de auditoría externa;
+4. Informar mensualmente y cuando lo requiera el Ministerio de Economía y Finanzas Públicas, estadísticas y cualquier otra información que sea solicitada sobre el funcionamiento y administración del Fondo de Garantía;
+5. Otras que sean necesarias para el cumplimiento de los fines del Fondo de Garantía y la correcta administración de los recursos.
+
+**Artículo 11°.- (Fiscalización del Fondo de Garantía de Créditos para el sector productivo)** La fiscalización de los Fondos de Garantía estará a cargo de la ASFI.
+
+**Artículo 12°.- (Auditoría del Fondo de Garantía)** 
+
+1. La unidad de auditoria interna del Banco Múltiple o Banco Pyme, según corresponda, deberá pronunciarse respecto a la administración del Fondo de Garantía.
+2. Los estados financieros de cada gestión anual de los Fondos de Garantía deberán ser examinados por una firma de auditoría externa en oportunidad en que la misma realice la auditoría externa de los estados financieros del Banco Múltiple o Banco Pyme.
+
+**Artículo 13°.- (Ponderación de créditos garantizados)** Los créditos garantizados por los Fondos de Garantía, tendrán una ponderación de riesgo del veinte por ciento (20%), de acuerdo a lo establecido por la [Ley Nº 393](#TODO-link), hasta el momento de la extinción de la cobertura del Fondo de Garantía. Posteriormente, la ponderación de riesgo será la que corresponda de acuerdo a normativa regulatoria vigente.
+
+**Artículo 14°.- (Registro en Central de Información Crediticia)** El prestatario que como consecuencia de su incumplimiento hubiera determinado que el Fondo de Garantía pague la cobertura otorgada, será registrado en la Central de Información Crediticia, como deudor en mora del Fondo de Garantía hasta la cancelación del monto adeudado por la garantía pagada.
+
+# Disposiciones adicionales
+
+**Artículo adicional 1°.-** Se modifican los Parágrafos I y III del Artículo 5 del [Decreto Supremo Nº 2136](#TODO-link), de 9 de octubre de 2014, con el siguiente texto:
+> “I. Los Fondos de Garantía tendrán por objeto garantizar operaciones de microcrédito y crédito Pyme destinadas al sector productivo para capital de operaciones y/o capital de inversión, incluidas operaciones de crédito para financiamiento del sector turismo y producción intelectual según definiciones y normativa emitida por ASFI.”
+
+> “III. La administración de los Fondos de Garantía de Créditos para el sector productivo estará a cargo de la entidad bancaria aportante de los recursos, pudiendo delegar a otra entidad regulada por la [Ley Nº 393](#TODO-link), de 21 de agosto de 2013, de Servicios Financieros o por la [Ley Nº 1834](#TODO-link), de 31 de marzo de 1998, del Mercado de Valores, previa no objeción del Ministerio de Economía y Finanzas Públicas.”
+
+**Artículo adicional 2°.-** Se modifica el Parágrafo IV del Artículo 6 del [Decreto Supremo Nº 2136](#TODO-link), de 9 de octubre de 2014, con el siguiente texto:
+> “IV. El Fondo de Garantía de Crédito para el sector productivo pagará la cobertura en un término no mayor a quince (15) días hábiles, transcurridos desde que hubieran sido iniciadas las acciones de cobranza judicial; o también podrá pagar en cualquier momento de la situación en mora en que se encontrara el crédito bajo la condición de que el Banco acreedor inicie la cobranza judicial en el plazo máximo de treinta (30) días calendario de la fecha de pago de la garantía, sujeto a reembolso del Banco acreedor al Fondo de Garantía en caso de que no lo hiciera.”
+
+**Artículo adicional 3°.-** Se modifica el Parágrafo IV del Artículo 6 del [Decreto Supremo Nº 2137](#TODO-link), de 9 de octubre de 2014, con el siguiente texto:
+> “IV. El Fondo de Garantía de Crédito de Vivienda de Interés Social, pagará la cobertura en un término no mayor a quince (15) días hábiles, transcurridos desde que hubieran sido iniciadas las acciones de cobranza judicial; o también podrá pagar en cualquier momento de la situación en mora en que se encontrara el crédito bajo la condición de que el Banco acreedor inicie la cobranza judicial en el plazo máximo de treinta (30) días calendario de la fecha de pago de la garantía, sujeto a reembolso del Banco acreedor al Fondo de Garantía en caso de que no lo hiciera.”
+
+**Artículo adicional 4°.-** Se modifican los incisos c) y d) del Artículo 10 del [Decreto Supremo Nº 2136](#TODO-link), de 9 de octubre de 2014, y [Decreto Supremo Nº 2137](#TODO-link), de 9 de octubre de 2014, con el siguiente texto:
+> “c) Remitir mensualmente de manera electrónica al Ministerio de Economía y Finanzas Públicas los estados financieros del Fondo de Garantía, y anualmente, también en forma impresa y con informe de auditoría externa.
+>   
+> “d) Informar mensualmente y cuando lo requiera el Ministerio de Economía y Finanzas Públicas, estadísticas y cualquier otra información que sea solicitada sobre el funcionamiento y administración del Fondo de Garantía.”
+
+**Artículo adicional 5°.-** El aporte de los Bancos Múltiples y Bancos Pyme a los respectivos Fondos de Garantía deberá ser efectuado en el plazo máximo de treinta (30) días hábiles a partir de la fecha en que se celebre la Junta de Accionistas que apruebe el destino de las utilidades.
+
+**Artículo adicional 6°.-** El Ministerio de Economía y Finanzas Públicas, mediante Resolución Ministerial reglamentará aquellos aspectos referidos al funcionamiento de los Fondos de Garantía bajo administración de los Bancos Múltiples.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo Único.-** Se deroga la Disposición Final Única del [Decreto Supremo Nº 2137](#TODO-link), de 9 de octubre de 2014.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de diciembre del año dos mil quince.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic MINISTRO DE CULTURAS Y TURISMO E INTERINO DE EDUCACIÓN, Marianela Paco Duran, Tito Rolando Montaño Rivera.

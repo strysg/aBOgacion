@@ -1,0 +1,49 @@
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia   
+Derechos Reservados © 2026
+
+---
+
+**DECRETO SUPREMO N° 5508**  
+**RODRIGO PAZ PEREIRA**  
+**PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+**CONSIDERANDO:**
+
+Que el Parágrafo II del Artículo 16 de la Constitución Política del Estado determina que el Estado tiene la obligación de garantizar la seguridad alimentaria, a través de una alimentación sana, adecuada y suficiente para toda la población.
+
+Que los numerales 4 y 5 del Parágrafo I del Artículo 298 del Texto Constitucional establecen que son competencias privativas del nivel central del Estado, entre otras, el régimen aduanero y el comercio exterior.
+
+Que el Artículo 26 de la Ley N° 1990, de 28 de julio de 1999, General de Aduanas y el Artículo 7 de la Ley N° 2492, de 2 de agosto de 2003, Código Tributario Boliviano, disponen que el Poder Ejecutivo, actual Órgano Ejecutivo, establecerá mediante Decreto Supremo la alícuota del Gravamen Arancelario aplicable a la importación de mercancías y cuando corresponda los derechos de compensación y los derechos antidumping.
+
+Que el Decreto Supremo Nº 29349, de 21 de noviembre de 2007, y sus modificaciones, señalan una estructura arancelaria con alícuotas de cero por ciento (0%), cinco por ciento (5%), diez por ciento (10%), quince por ciento (15%), veinte por ciento (20%), treinta por ciento (30%) y cuarenta por ciento (40%) para el pago del Gravamen Arancelario.
+
+Que el Decreto Supremo N° 5401, de 23 de mayo de 2025, difiere el Gravamen Arancelario a cero por ciento (0%) hasta el 31 de diciembre de 2025 para las mercancías destinadas a la producción nacional de alimentos de primera necesidad.
+
+Que con la finalidad de contribuir a la provisión de maíz para el sector pecuario en el marco de la seguridad alimentaria, es necesario ampliar el diferimiento del Gravamen Arancelario a cero por ciento (0%) para esta mercancía.
+
+**EN CONSEJO DE MINISTROS,**
+
+**DECRETA:**
+
+**ARTÍCULO ÚNICO.-** Se amplía el diferimiento hasta el 28 de febrero de 2026 del Gravamen Arancelario a cero por ciento (0%) para la importación de maíz duro amarillo comprendido en la subpartida arancelaria 1005.90.11.00 del Arancel Aduanero de Importaciones, previsto en el Decreto Supremo N° 5401, de 23 de mayo de 2025.
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Desarrollo Productivo, Rural y Agua, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado en el Palacio de Gobierno, a los veintidós días del mes de diciembre del año dos mil veinticinco.
+
+**FDO. RODRIGO PAZ PEREIRA,** Fernando Hugo Aramayo Carrasco MINISTRO DE RELACIONES EXTERIORES E INTERINO DE LA PRESIDENCIA, Marco Antonio Oviedo Huerta, Raúl Marcelo Salinas Gamarra, José Fernando Romero Pinto, José Gabriel Espinoza Yáñez, Sergio Mauricio MedinaceliMonrroy, Oscar Mario JustinianoPinto, Mauricio Zamora Liebers, Marco Antonio Calderon De La Barca Quintanilla, Edgar Morales Mamani, Marcela Tatiana Flores Zambrana, Beatriz Elena García de Acha, Cinthya Martha Yáñez Eid.
+
+
+**SUSCRIPCIÓN OBLIGATORIA** 
+
+**DECRETO SUPREMO Nº 690**
+  
+**03 DE NOVIEMBRE DE 2010 .-** Dispone la suscripción obligatoria, sin excepción alguna, de todas las entidades del sector público que conforman la estructura organizativa del Organo Ejecutivo, así como de entidades y empresas públicas que se encuentran bajo su dependencia o tuición, a la Gaceta Oficial de Bolivia, dependiente del Ministerio de la Presidencia, para la obtención física de Leyes, Decretos y Resoluciones Supremas.
+
+![](/img/publicidad/4.jpg)
+
+---
+
+**TEXTO DE CONSULTA**    
+Gaceta Oficial del Estado Plurinacional de Bolivia

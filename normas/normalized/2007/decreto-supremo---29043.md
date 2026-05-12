@@ -1,0 +1,47 @@
+# Bolivia: Decreto Supremo Nº 29043, 28 de febrero de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 143 de la [Constitución Política del estado](#TODO-link), establece que el Estado determinará la política monetaria, bancaria y crediticia, con el objeto de mejorar las condiciones de la economía nacional.
+* Que el Parágrafo II del Artículo 144 de la [Constitución Política del estado](#TODO-link), determina que la iniciativa privada recibirá el estimulo de cooperación del Estado cuando contribuya al mejoramiento de la economía nacional.
+* Que la [Ley Nº 1962](#TODO-link) de 23 de marzo de 1999, declara en emergencia al sector agropecuario, agroindustrial y agroexportador, así como a la pequeña agricultura y economía campesina, por causa de los problemas climáticos y de inestabilidad económica externa que ocasionaron graves pérdidas y perjuicios a la producción agropecuaria.
+* Que la [Ley Nº 2064](#TODO-link) de 3 de abril de 2000 - Ley de Reactivación Económica, prioriza la atención con servicios crediticios al pequeño productor.
+* Que por mandato de los Decretos Supremos [Nº 25453](#TODO-link) de 9 de julio de 1999, [Nº 25849](#TODO-link) de 21 de julio de 2000 y [Nº 26164](#TODO-link) de 27 de abril de 2001, el Ministerio de Hacienda ha constituido fideicomisos en el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF, con destino a la concesión de créditos al pequeño productor agropecuario, a través de entidades financieras, seleccionadas para la compra de pasivos, reprogramación de deudas y créditos nuevos.
+* Que el Artículo 7 del [Decreto Supremo Nº 26838](#TODO-link) de 9 de noviembre de 2002, faculta al FONDESIF a efectuar renovaciones y reprogramaciones de los créditos que haya otorgado en términos y condiciones que beneficien al prestatario final de las entidades que hayan recibido esos créditos.
+* Que los desastres naturales registrados en el país en la presente gestión y los factores externos han influido significativamente en la capacidad de pago de los pequeños productores agropecuarios, que no los permite honrar las deudas contraídas con las entidades financieras seleccionadas por el FONDESIF.
+* Que es función del FONDESIF precautelar los recursos del Estado y consolidar el mercado financiero rural, otorgando a las entidades microfinancieras facilidades para evitar el deterioro de la cartera de créditos, constituida sobre todo en el área peri urbana y rural del país, cuyas facilidades que deben ser trasladadas al prestatario final.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 12 de febrero de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Planificación del Desarrollo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Hacienda ampliar el plazo de amortización para la cancelación de las deudas otorgadas en fideicomiso al FONDESIF, con destino a la concesión de créditos a los pequeños productores agropecuarios, en cumplimiento de lo dispuesto en los Decretos Supremos [Nº 25453](#TODO-link) de 9 de julio de 1999, [Nº 25849](#TODO-link) de 21 de julio de 2000 y [Nº 26164](#TODO-link) de 27 de abril de 2001.
+
+**Artículo 2°.- (Nuevas condiciones con el FONDESIF)** El plazo de amortización de los créditos señalados en el Artículo precedente, se extiende a veinte (20) años incluidos seis (6) de gracia, para lo cual, el Ministerio de Hacienda conjuntamente el FONDESIF procederá a la suscripción de las Enmiendas a los respectivos Contratos de Fideicomiso.
+
+**Artículo 3°.- (Enmiendas con las entidades financieras)** Como consecuencia de las Enmiendas señaladas en el Artículo 2, el FONDESIF procederá a la suscripción de Enmiendas con las Entidades Financieras Intermediarias, donde se establecerá las nuevas condiciones acordadas en función a los saldos adeudados por éstas.
+
+**Artículo 4°.- (Modificaciones)** A solicitud de las Entidades Financieras Intermediarias, y cuando corresponda, el FONDESIF podrá modificar los planes de pago anexos a los Contratos de Préstamo que establecen la amortización del préstamo en cuotas fijas y consecutivas o amortizaciones en cuotas variables, en función a la capacidad de pago de las Entidades Financieras Intermediarias.
+
+**Artículo 5°.- (Propuesta técnica de las entidades financieras)** Las Entidades Financieras Intermediarias que quieran acogerse a la ampliación de plazo de amortización y gracia a capital, deberán presentar al FONDESIF, para su análisis y consideración, una Propuesta Técnica en la que se comprometerán a trasladar este beneficio al prestatario final cuando corresponda y de acuerdo a la capacidad de pago del mismo, la ampliación de plazo de amortización de la deuda y la gracia a capital.
+
+**Artículo 6°.- (Limites de la reprogramación)** Los prestatarios finales que se acogerán a este beneficio serán aquellos cuyas deudas totales con las entidades financieras intermediarias que se adjudicaron los recursos de los fideicomisos constituidos en el marco de los Decretos Supremos mencionados en el Artículo 1, no sobrepasen la suma de $us10.000.- (DIEZ mil 00/100 DOLARES AMERICANOS) a la fecha de publicación del presente Decreto Supremo.
+
+**Artículo 7°.- (Aprobación)** El Director General Ejecutivo del FONDESIF, cuando corresponda, aprobará la Propuesta Técnica presentada por la Entidad Financiera Intermediaria, emitiendo para el efecto una Resolución Administrativa expresa, e instruyendo a la Dirección Jurídica del FONDESIF, la elaboración de la Enmienda al Contrato de Préstamo respectivo.
+
+# Disposiciones derogatorias
+
+**Artículo derogatorio Único.-** Se deroga el Artículo 7 del [Decreto Supremo Nº 26838](#TODO-link) de 9 de noviembre de 2002.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Planificación del Desarrollo y Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de febrero del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez MINISTRO DE OO. PP. SERVICIOS Y VIVIENDA É INTERINO DE HIDROCARBUROS Y ENERGIA, Susana Rivero Guzmán, José Guillermo Dalence Salinas, Walter Juvenal Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE SALUD Y DEPORTES, Victor Cáceres Rodríguez.

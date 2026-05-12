@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 29300, 3 de octubre de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 87 del [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, señala que entre las funciones del Viceministerio de Salud está coordinar las acciones técnico - operativas con la cooperación internacional para armonizar la gestión de la salud, en el marco de las políticas y prioridades del país y el Gobierno Nacional.
+* Que el 31 de mayo de 2006, los representantes del Gobierno de la República de Bolivia y del Gobierno de la República de Francia, firmaron el “Convenio Relativo al Desembolso de una Ayuda Presupuestaria”, por el cual Francia concede a Bolivia una ayuda presupuestaria destinada a la lucha contra la pobreza. En este marco, se acordó financiar el Proyecto de Fortalecimiento al Sistema Nacional de Información en Salud y Vigilancia Epidemiológica en La Paz y Tarija, a ser ejecutado por el Ministerio de Salud y Deportes.
+* Que el 30 de octubre de 2006, se suscribió el Convenio Interinstitucional de Financiamiento, CIF UAP/FRA/1088/2006, del Proyecto de Fortalecimiento del Sistema Nacional de Información en Salud y Vigilancia Epidemiológica en los Departamentos de La Paz y Tarija, entre el Ministerio de Salud y Deportes y el Viceministerio de Inversión Pública y Financiamiento Externo.
+* Que el Convenio Interinstitucional de financiamiento CIF UAP/FRA/1088/2006 del Proyecto de Fortalecimiento del Sistema Nacional de Información en Salud y Vigilancia Epidemiológica en los Departamentos de La Paz y Tarija contempla la compra de dos (2) vehículos para transportar al personal técnico y traslado de materiales destinados a mejorar el sistema de información y de vigilancia epidemiológica en estos dos departamentos.
+* Que el Ministerio de Salud y Deportes en fecha 19 de septiembre de 2007, emitió la Resolución Ministerial Nº 716 que aprueba el traspaso presupuestario presentado por el Proyecto de Fortalecimiento del Sistema Nacional de Información en Salud y Vigilancia Epidemiológica en los Departamentos de La Paz y Tarija para la compra de dos (2) vehículos.
+* Que el Artículo 20 del [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, prohíbe a las entidades públicas la compra o alquiler de vehículos, por lo que a fin de que el Proyecto de Fortalecimiento del Sistema Nacional de Información en Salud y Vigilancia Epidemiológica en los Departamentos de La Paz y Tarija pueda dar cumplimiento a sus objetivos, se hace necesario exceptuar al Ministerio de Salud y Deportes de la aplicación de la citada disposición.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 1 de octubre de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Salud y Deportes.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza al Proyecto de Fortalecimiento del Sistema Nacional de Información en Salud y Vigilancia Epidemiológica en los Departamentos de La Paz y Tarija, dependiente del Ministerio de Salud y Deportes, la compra de dos (2) vehículos, tipo jeep 4x4 para el desarrollo de sus actividades, de acuerdo al Convenio CIF UAP/FRA/1088/2006.
+2. La compra de los dos (2) vehículos se financiará con cargo a recursos de Contravalor de Francia, del mencionado proyecto.
+
+---
+
+La Señora Ministra de Estado, en el Despacho de Salud y Deportes, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los tres días del mes de octubre del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora MINISTRO DE HACIENDA E INTERINO DE PRODUCCION Y MICROEMPRESA, Abel Mamani Marca, José Kinn Franco, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros MINISTRO DE TRABAJO E INTERINO DE SALUD Y DEPORTES, María Magdalena Cajías de la Vega.

@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 22208, 30 de mayo de 1989
+
+VICTOR PAZ ESTENSSORO
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Comando General de la Armada Boliviana ha solicitado entrega de fondos con cargo a las utilidades de ENABOL en moneda norteamericana, para satisfacer apremiantes necesidades, setenta las restricciones presupuestarias del Ministerio de Defensa Nacional y la própia Armada;
+* Que la Empresa Naviera Boliviana ENABOL es una entidad descentralizada dependiente del Ministerio de Defensa Nacional, cuyas utilidades pueden ser invertidas en proyectos navieros u otros que fuesen de interés de la Armada Boliviana, según los artículos 4 y 5 –d de sus estatutos aprobados mediante resolución suprema 199761 de 24 de julio de 1985;
+* Que el directorio de ENABOL ha aprobado, en aplicación del citado artículo 5-d de sus estatutos, las peticiones de fondos de la Armada Boliviana, a cargo de sus utilidades en la gestión 1987, ordenando su transferencia y entrega mediante las resoluciones de directorio 4/88 de 9 de marzo de 1988, 36/88 de 29 de diciembre de 1988, 3/89 de 19 de enero de 1989 y 5/89 de 24 de enero de 1989;
+* Que las mencionadas solicitudes de fondos y resoluciones administrativas que autorizan su transferencia se refieren a US$ 80.000.- con destino a la conclusión de un ambiente para ENABOL en las instalaciones del Comando de la Armada Boliviana, US$.100.000.- para la adquisición de vehículos, US$.620.899.40 destinados al pago de obligaciones por adquisición de equipo clase II (vestuario), y US$.85.000.- para pagar el saldo de una obligación por la construcción de una embarcación multipropósito en los astilleros de Guaycurus en Cuajaramerín Brasil;
+* Que es necesario aprobar mediante decreto supremo las citadas resoluciones de directorio de Enabol, en cumplimiento del artículo 19 del [Decreto Supremo Nº 21364](#TODO-link) de 13 de agosto de 1986, ampliado en su vigencia por decreto [Nº 21781](#TODO-link) de 3 de diciembre de 1987.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se homologa las resoluciones de directorio de la Empresa Naviera Boliviana ENABOL, números 4/88 de 9 de marzo de 1988, por OCHENTA mil 00/100 DOLARES AMERICANOS (US$.80.000.-) 36/88 de 29 de diciembre de 1988 por CIEN mil 00/100 DOLARES AMERICANOS (US$.100.000.-), 3/89 de 19 de enero de 1989 po SEISCIENTOS VEINTE mil novecientos NOVENTA Y NUEVE 40/100 DOLARES AMERICANOS (US$.620.899.40.-) y 5/89 de 24 de enero de 1989 por OCHENTA Y CINCO mil 00/100 DOLARES AMERICANOS (US$.85.000.-), transferidos y entregados en favor de la Armada Boliviana por la Empresa Naviera Boliviana ENABOL de sus cuentas 242-146088711 del Delbruck & Co Private Bankers Hamburgo, Alemania, y MDE – Bolivia 5678974 del Brown Brothers Harriman & Cia., Private Bankders, Nueva York, EE. UU.
+
+**Artículo 2°.-** Se debe realizar las transferencias autorizadas con cargo de cuenta documentada, encargándose a la gerencia general de ENABOL la responsabilidad de revisar y controlar esos cargos de cuenta.
+
+---
+
+Los señores Ministros de Estado en los despachos de Finanzas y Defensa Nacional quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de mayo de mil novecientos ochenta y nueve años.
+  
+Fdo. VICTOR PAZ ESTENSSORO, Valentín Abecia Valdiviezo, Eduardo Pérez Beltrán, Alfonso Revollo Thenier, Fernando Romero Moreno, Ramiro Cabezas Masses, Enrique Ipiña Melgar, Alfonso Balderrama Maldonado, Luis Palenque Cordero, Luis A. Peña Rueda, Joaquin Arce Lema, Jaime Villalobos Sanjinés, José G. Justiniano Sandoval, Fernando Illanes de la Riva, Roberto Roca Iriarte, Herman Antelo Laughlin, Jaime Zegada Hurtado. Waltyer Zuleta Roncal.

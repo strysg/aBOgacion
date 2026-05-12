@@ -1,0 +1,48 @@
+# Bolivia: Decreto Supremo Nº 4459, 29 de enero de 2021
+
+[Decreto Supremo Nº 4459](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 1 de la [Constitución Política del Estado](#TODO-link), determina que Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías. Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico, dentro del proceso integrador del país.
+* Que el Artículo 7 del Texto Constitucional, establece que la soberanía reside en el pueblo boliviano, se ejerce de forma directa y delegada. De ella emanan, por delegación, las funciones y atribuciones de los órganos del poder público; es inalienable e imprescriptible.
+* Que acercándose la conclusión del periodo constitucional 2015-2020, el Órgano Electoral Plurinacional organizó los comicios electorales para elegir a la Presidenta o al Presidente, Vicepresidenta o Vicepresidente. Realizadas las elecciones el 20 de octubre de 2019 y conocidos sus primeros resultados, grupos antidemocráticos generaron una secuencia de hechos, cuyos principales eventos fueron: cuestionamiento de los resultados electorales por la Organización de Estados Americanos, instalación y amplificación de una narrativa de fraude descomunal, vandalismo, violencia, toma y quema de instituciones electorales, e insubordinación de la Policía Boliviana y Fuerzas Armadas, conduciendo a la ruptura del orden constitucional, decantándose en una solicitud de renuncia del Presidente legalmente constituido.
+* Que la democracia intercultural iniciada a través de una nueva [Constitución Política del Estado](#TODO-link), fue constituida por un largo proceso de conquistas sociales y populares. El golpe de Estado del 2019 intentó extinguir desde las primeras horas de su gobierno la democracia intercultural, buscando retrotraernos al Estado Republicano Colonial y a la eliminación de los símbolos del Estado Plurinacional.
+* Que el 10 de noviembre de 2019, se produce la interrupción de treinta y siete (37) años de democracia continua provocando una ruptura constitucional asentada en sectores de la Policía Boliviana y las Fuerzas Armadas, quienes rompiendo la cadena de mando, en franca insubordinación al Capitán General de las Fuerzas Armadas y en evidente actitud política, forzaron la renuncia de las autoridades democráticamente electas, para instaurar un régimen no constitucional, sustentado en el temor por el uso de la fuerza.
+* Que la Segunda Vicepresidenta de la Cámara de Senadores en una irregular sesión se autoproclamó como Presidenta del Senado, posteriormente en el hemiciclo de la Cámara de Diputados, en una presunta sesión sin quorum reglamentario, declaró “asumo de inmediato la Presidencia del Estado” y subsiguientemente, un militar en traje de campaña, el impuso la banda presidencial, ante el desconcierto del pueblo boliviano.
+* Que como resultado del quiebre constitucional, a consecuencia del golpe de Estado, se instaló en el país un Gobierno de facto y con ello se dio inicio a la persecución de muchos líderes sociales, sindicales, políticos, y a un proceso sistemático de desinstitucionalización del país.
+* Que con la finalidad de institucionalizar su ilegal toma del poder, el Gobierno de facto emitió el [Decreto Supremo Nº 4078](#TODO-link), de 14 de noviembre de 2019, una norma que generaba impunidad para las Fuerzas Armadas y la Policía Boliviana en las operaciones conjuntas de represión al pueblo boliviano que se encontraba en las calles defendiendo la democracia. Amparados en el mencionado Decreto, en el mes de noviembre de 2019, el Gobierno no constitucional y las instituciones armadas buscaron sostener su poder produciendo las masacres de Senkata y Sacaba, asesinatos de lesa humanidad en la zona sur de La Paz (Pedregal, Rosales, Chasquipampa y Ovejuyo), en el Norte Integrado de Santa Cruz y en Potosí (Betanzos), alcanzando el número total de treinta y siete (37) fallecidos; también ochocientas sesenta y un (861) personas resultaron heridas, a consecuencia de las violentas represiones. Asimismo, se cuenta con el dato de que mil quinientos treinta y uno (1.531) personas fueron entre detenidas, procesadas, encarceladas y sentenciadas injustamente, viéndose cancelados sus derechos, todo ello conforme información de la Defensoría del Pueblo.
+* Que mediante [Ley Nº 1266](#TODO-link), de 24 de noviembre de 2019, de Régimen Excepcional y Transitorio para la Realización de Elecciones Generales, se dispuso que: “Las Elecciones Generales 2020, se realizarán en un plazo máximo de ciento veinte (120) días calendario a partir de la convocatoria”. En este entendido, el Órgano Electoral fijó fecha para la realización de las elecciones generales para el 3 de mayo de 2020; sin embargo, existieron un conjunto de normas que procuraron prorrogar un gobierno no constitucional bajo argumentaciones insuficientes e infundadas, emitiéndose las Leyes [Nº 1297](#TODO-link), de 30 de abril de 2020, de Postergación de las Elecciones Generales 2020 y [Nº 1304](#TODO-link), de 21 de junio de 2020, modificatoria de la [Ley Nº 1297](#TODO-link), para que finalmente mediante [Ley Nº 1315](#TODO-link), de 13 de agosto de 2020, se amplíe por última vez el plazo para la realización de las Elecciones Generales 2020, a ciento sesenta y ocho (168) días computables a partir del 3 de mayo de 2020, por lo que el plazo máximo para la realización de las elecciones sería hasta el domingo 18 de octubre de 2020.
+* Que fueron las Organizaciones Sociales quienes en una movilización histórica conminaron al Gobierno de facto a que promulgue una Ley que reasegure el proceso electoral 2020. El movimiento social y popular impidió con estas movilizaciones que el gobierno no constitucional pueda prorrogarse indefinidamente en el poder, instrumentalizando políticamente la pandemia.
+* Que en fecha 18 de octubre de 2020, como resultado de las elecciones nacionales celebradas bajo la organización del Tribunal Supremo Electoral, el pueblo de Bolivia dio respaldo mayoritario con el 55,11% al proyecto político y los candidatos del Movimiento al Socialismo - Instrumento Político por la Soberanía de los Pueblos (MAS-IPSP), recuperándose de esa manera el orden institucional democrático intercultural.
+* Que con los resultados de las elecciones generales realizadas el 18 de octubre de 2020, se restableció el orden democrático constitucional y con ello se dejó en el pasado el régimen de facto y autoritario, cuyo periodo se caracterizó por una sistemática persecución, procesamiento, detenciones ilegales, enjuiciamientos y supresiones de las garantías y libertades más elementales del ser humano.
+* Que el [Decreto Supremo Nº 4158](#TODO-link), de 27 de febrero de 2020, se constituye en el eje argumentativo conducente a la ruptura del Orden Constitucional y respaldados en ese hecho se producen una serie de normativas alejadas del mandato constitucional, promoviendo la división del pueblo boliviano.
+* Que es necesario revisar la vigencia y establecimiento de normativas emitidas por el Gobierno de facto, con el fin de restaurar el respeto a la plurinacionalidad, los principios de igualdad, inclusión y respeto entre las y los bolivianos.
+* Que es históricamente necesario para el Estado Plurinacional de Bolivia, señalar y evidenciar todas aquellas formas directas e indirectas organizadas para violentar el Orden Constitucional de Bolivia; la democracia es un valor fundamental, el Gobierno de facto sustentado en una serie de normativas emitidas pretendió acabar con un proceso de acumulación histórica de luchas sociales, fundamentadas en la igualdad, interculturalidad e inclusión.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se declara el 18 de octubre de cada año, como “DÍA DE LA RECUPERACIÓN DE LA DEMOCRACIA INTERCULTURAL”, en todo el territorio del Estado Plurinacional de Bolivia.
+2. El 18 de octubre de cada año, el Estado Plurinacional de Bolivia conmemorará la recuperación de la democracia intercultural. Los Ministerios de Estado en coordinación con las Entidades Territoriales Autónomas, en el marco de sus atribuciones y competencias, así como las organizaciones sociales y sociedad civil en general, organizarán y promoverán la realización de actividades de celebración de los valores democráticos, el restablecimiento y conservación de la institucionalidad democrática intercultural.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+**Disposiciones Abrogatorias.-** Se abroga el [Decreto Supremo Nº 4158](#TODO-link), de 27 de febrero de 2020.
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintisiete días del mes de enero del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Edwin Ronal Characayo Villegas, Sabina Orellana Cruz.

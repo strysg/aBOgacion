@@ -1,0 +1,63 @@
+# Bolivia: Decreto Supremo Nº 718, 1 de diciembre de 2010
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 23 de la [Ley Nº 1178](#TODO-link), de 20 de julio de 1990, de Administración y Control Gubernamentales, dispone que la Contraloría General de la República, actual Contraloría General del Estado, es el órgano rector del Sistema de Control Gubernamental, el cual se implantará bajo su dirección y supervisión.
+* Que el inciso f) del Artículo 27 de la [Ley Nº 1178](#TODO-link), establece que la máxima autoridad colegiada, si la hubiere, y el ejecutivo superior de cada entidad responderán ante la Contraloría General del Estado por el respeto a la independencia de la Unidad de Auditoría Interna, y ésta por la imparcialidad y calidad profesional de su trabajo.
+* Que el Artículo 15 de la [Ley Nº 1178](#TODO-link), determina que la Unidad de Auditoría Interna no participará en ninguna otra operación ni actividad administrativa y dependerá de la Máxima Autoridad Ejecutiva de la entidad, sea ésta colegiada o no, formulando y ejecutando con total independencia el programa de sus actividades.
+* Que el inciso m) del Artículo 3 del Reglamento para el Ejercicio de las Atribuciones de la Contraloría General del Estado, aprobado por [Decreto Supremo Nº 23215](#TODO-link), de 22 de julio de 1992, establece que es atribución de la Contraloría General del Estado dictaminar en los casos previstos por la Ley, incluyendo los de responsabilidad por violación a la independencia de la Unidad de Auditoría Interna, parcialización de dicha unidad o deficiente ejercicio profesional de sus servidores.
+* Que la Norma General de Auditoría Gubernamental 212.01, del Manual de Normas de Auditoría Gubernamental, aprobado por Resolución Nº CGR/026/2005, de 24 de febrero de 2005, establece que en toda auditoría, los auditores deben estar libres de impedimentos que puedan comprometer su imparcialidad u objetividad.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto delimitar la independencia de las Unidades de Auditoría Interna de las entidades del sector público, descentralizadas, autónomas, autárquicas y empresas públicas del Estado Plurinacional.
+
+**Artículo 2°.- (Independencia de la unidad de auditoría interna)** La Unidad de Auditoría Interna tiene total independencia en la formulación y ejecución de su programación de operaciones. En caso de ser vulnerada dicha independencia por la Máxima Autoridad Ejecutiva, ésta será sujeta a la aplicación de lo previsto en el Reglamento de la Responsabilidad por la Función Pública, aprobado por [Decreto Supremo Nº 23318](#TODO-link)-A, de 3 de noviembre de 1992 y sus modificaciones.
+  
+La Jefa (e) de la Unidad de Auditoría Interna, es responsable de ejecutar las auditorías sugeridas por la Contraloría General del Estado.
+
+**Artículo 3°.- (Requisitos para el cargo de Jefa[E] de la Unidad de Auditoría Interna)** Para ser designada o designado Jefa (e) de la Unidad de Auditoría Interna se deben cumplir los siguientes requisitos:
+
+1. Título Profesional en Provisión Nacional de Auditor Financiero o Contador Público Autorizado.
+2. Experiencia profesional general de cuatro (4) años en el área, debidamente documentada.
+3. Experiencia profesional especifica de dos (2) años en control gubernamental, debidamente documentada.
+4. No estar sujeto a las incompatibilidades establecidas en la [Ley Nº 2027](#TODO-link), de 27 de octubre de 1999, Estatuto del Funcionario Público.
+
+**Artículo 4°.- (Funcionario de carrera)** La Jefa (e) de la Unidad de Auditoría Interna se constituye en un funcionario público de carrera, previo cumplimiento de los requisitos y procedimientos establecidos en la [Ley Nº 2027](#TODO-link) y las Normas Básicas del Sistema de Administración de Personal aprobadas por [Decreto Supremo Nº 26115](#TODO-link), de 16 de marzo de 2001.
+
+**Artículo 5°.- (Comunicación del nombramiento y retiro)** I. Concluido el proceso de reclutamiento y selección, la Máxima Autoridad Ejecutiva de la entidad comunicará el nombramiento de la Jefa (e) de la Unidad de Auditoría Interna a la Contraloría General del Estado, dentro de los cinco (5) días hábiles siguientes.
+
+1. Del mismo modo, el retiro de la Jefa (e) de la Unidad de Auditoría Interna, deberá comunicarse a la Contraloría General del Estado en el mismo plazo, identificando la causal y acompañando documentación de respaldo.
+
+**Artículo 6°.- (Prohibición de rotación y transferencia)** A objeto de garantizar la independencia de la Jefa (e) y del personal profesional de la Unidad de Auditoría Interna, se prohibe expresamente su rotación o transferencia a otras unidades de trabajo de la misma u otra entidad.
+
+**Artículo 7°.- (Entrega de documentación)** En caso de cesar en sus funciones la Jefa (e) de la Unidad de Auditoría Interna deberá entregar toda la documentación a su cargo, debidamente inventariada, al servidor público designado a dicho efecto por la Máxima Autoridad Ejecutiva, en un plazo máximo de tres (3) días hábiles.
+
+**Artículo 8°.- (Estructura y recursos de la Unidad de Auditoría Interna)** I. Todas las entidades públicas están obligadas a presupuestar recursos para el funcionamiento y ejecución de la programación de operaciones de la Unidad de Auditoría Interna; sin que represente costos adicionales al Tesoro General de la Nación.
+
+1. Los Gobiernos Autónomos Municipales con población menor a 50.000 habitantes, podrán conformar Unidades de Auditoría Interna en forma mancomunada, en caso de no poder hacerlo independientemente.
+     
+
+   # Disposiciones adicionales
+
+**Artículo adicional Único.-** Todo servidor público que cese en sus funciones, deberá entregar la documentación a su cargo, al inmediato superior, en un plazo máximo de tres (3) días hábiles.
+  
+
+# Disposiciones abrogatorias y derogatorias
+
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la ciudad de La Paz, al primer día del mes de diciembre del año dos mil diez.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Rubén Aldo Saavedra Soto, MINISTRO DE DEFENSA E INTERINO DE GOBIERNO, Elizabeth Arismendi Chumacero, Luís Fernando Vincenti Vargas, Antonia Rodríguez Medrano MINISTRA DE DES. PRODUC. Y ECONOMIA PLURAL E INTERINA DE ECONOMIA Y FINANZAS PUBLICAS, Walter Juvenal Delgadillo Terceros MINISTRO DE OO. PP. SERVICIOS Y VIVIENDA E INTERINO DE PLANIFICACION DEL DESARROLLO, José Antonio Pimentel Castillo, Nilda Copa Condori, Carmen Trujillo Cárdenas, María Esther Udaeta Velásquez, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE SALUD Y DEPORTES, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Zulma Yugar Párraga.

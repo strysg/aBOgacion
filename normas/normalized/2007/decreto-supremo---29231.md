@@ -1,0 +1,63 @@
+# Bolivia: Decreto Supremo Nº 29231, 17 de agosto de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 144 de la [Constitución Política del estado](#TODO-link) determina que la iniciativa privada recibirá el estímulo de cooperación del Estado cuando contribuya al mejoramiento de la economía nacional.
+* Que el Parágrafo I del Artículo 148 de la [Constitución Política del estado](#TODO-link), establece que el Presidente de la República, con acuerdo del Consejo de Ministros, podrá decretar pagos no autorizados por la Ley del Presupuesto únicamente para atender necesidades impostergables derivadas de calamidades públicas de conmoción interna o de agotamiento de recursos destinados a mantener los servicios cuya paralización causaría graves daños. Los gastos destinados a estos fines no excederán del uno por ciento (1%) del total de egresos autorizados por el Presupuesto Nacional.
+* Que el Inciso d) del Artículo 4 de la [Ley Nº 2140](#TODO-link) de 25 de octubre de 2000, para la Reducción de Riesgos y Atención de Desastres, establece: Desastre es una situación de daño grave o alteración de las condiciones normales de vida en un territorio determinado ocasionado por fenómenos naturales, tecnológicos o por la acción del hombre y que puede causar pérdidas de vidas humanas, materiales, económicos, o daño ambiental y que requiere de atención especial por parte de los organismos del Estado y de otras entidades de carácter humanitario o de servicio social, sean estas públicas o privadas.
+* Que el Artículo 4 de la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establece las atribuciones específicas del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, determinando entre otras, fomentar el desarrollo económico y social de las comunidades y organizaciones económicas campesinas e indígenas, protegiendo sus derechos sociales, económicos y culturales; apoyar al sector empresarial agropecuario y a los pequeños y medianos productores.
+* Que el [Decreto Supremo Nº 29013](#TODO-link) de 18 de enero de 2007, declara Estado de Emergencia a Nivel Nacional, como consecuencia de los fenómenos hidrometereológicos o climáticos adversos, que se suscitaron en el país en el presente año.
+* Que el [Decreto Supremo Nº 29040](#TODO-link) de 28 de febrero de 2007, declara Situación de Desastre Nacional por la presencia de efectos climáticos adversos provocados por el fenómeno de “El Niño” 2006 - 2007, que han ocasionado graves daños en diversos municipios, autorizando a los Ministerios de Planificación del Desarrollo y de Hacienda gestionar el financiamiento de los recursos para la atención de los desastres, considerando fuentes externas de cooperación reembolsables y no reembolsables, y fuentes internas que incluya créditos puente del Banco Central de Bolivia - BCB.
+* Que la pérdida de ganado bovino estimada en el Departamento del Beni, como efecto del fenómeno de “El Niño” 2006 - 2007, alcanzó un total estimado de 151, 436 cabezas, de las cuales, aproximadamente 56, 200 son hembras en edad reproductiva. Esta pérdida ha implicado una considerable reducción en la capacidad productiva ganadera.
+* Que la recuperación de la capacidad productiva de los sistemas de producción de bovinos para carne, perdidos por las inundaciones del fenómeno de “El Niño”, puede llevar un período de más de ocho (8) años calendario en las regiones afectadas sin ningún tipo de intervención, que hace necesario implementar, a cargo del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, el Programa de Repoblamiento Ganadero Bovino, mediante introducción de vientres en edad reproductiva adaptados a los sistemas de producción afectados, en el marco del Programa de Reconstrucción y Rehabilitación Económica y Social, diseñado por el Gobierno Nacional a fin de aliviar los daños y pérdidas ocasionadas por el fenómeno de “El Niño” 2006 - 2007.
+* Que mediante [Decreto Supremo Nº 25338](#TODO-link) de 29 de marzo de 1999, el gobierno establece para el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF, un rol activo en el tema de microfinanzas, asignándole la importante responsabilidad de propiciar el desarrollo de este sector a través de la diversificación y expansión de la frontera de servicios financieros.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo, tiene por objeto autorizar la constitución de un Fideicomiso por un monto de hasta $us10.000.000.- (DIEZ MILLONES 00/100 DÓLARES ESTADOUNIDENSES), para la ejecución del Programa de Repoblamiento Ganadero Bovino.
+
+**Artículo 2°.- (Financiamiento y recursos del fideicomiso)** 
+
+1. Se autoriza al Ministerio de Hacienda para que en su condición de fideicomitente suscriba un contrato de fideicomiso de manera temporal y no definitiva, con recursos del Tesoro General de la Nación - TGN, por un monto de hasta $us10.000.000.- (DIEZ MILLONES 00/100 DÓLARES ESTADOUNIDENSES), a ser administrado por el Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo - FONDESIF, para la ejecución del Programa de Repoblamiento Ganadero Bovino en municipios del Departamento del Beni priorizados por el Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, afectados por desastres naturales provocados por el Fenómeno de “El Niño” 2006 - 2007.
+2. Para tal objeto, se faculta al Viceministerio de Presupuesto y Contaduría incorporar en el presupuesto del TGN, correspondiente a la presente gestión, los importes necesarios para la constitución del Fideicomiso.
+
+**Artículo 3°.- (Administración del fideicomiso)** 
+
+1. Se autoriza de manera excepcional a lo dispuesto por el Artículo 5 del [Decreto Supremo Nº 28999](#TODO-link) de 1 de enero de 2007, al FONDESIF, constituirse en fiduciario del Fideicomiso señalado en el Artículo 2 del presente Decreto Supremo.
+2. El plazo para el Fideicomiso citado en el Parágrafo I, será de cinco (5) años a cuya finalización todos los recursos del mismo deberán ser devueltos al Ministerio de Hacienda.
+3. Se autoriza al FONDESIF, en su calidad de fiduciario, a transferir, de acuerdo a las condiciones financieras a ser establecidas por el fideicomitente, los recursos del fideicomiso mediante contratos de administración a ser suscritos con las entidades de intermediación financiera - EIFs, seleccionadas en aplicación a lo dispuesto por el Artículo 8 del [Decreto Supremo Nº 26164](#TODO-link) de 27 de abril de 2001, bajo la modalidad de “oferta de recursos”.
+
+**Artículo 4°.- (Obligaciones del fiduciario)** El FONDESIF, en su calidad de fiduciario del fideicomiso, será responsable de:
+
+1. Suscribir contratos de administración con las - EIFs seleccionadas, para que en base a éstos, dichas entidades evalúen a los potenciales beneficiarios y suscriban contratos de crédito con éstos por el valor del ganado que reciban.
+2. De acuerdo a contrato(s) a ser suscrito(s) por el Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente con las entidades responsables de la operación de importación hasta el punto de entrega del ganado, cubrir los costos que demanden estas operaciones.
+3. Cumplir con las obligaciones inherentes a su calidad de fiduciario, así como con cualquier otra operación necesaria para el cumplimiento de los objetivos y propósitos del fideicomiso.
+
+**Artículo 5°.- (Responsabilidades del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente)** 
+
+1. El Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, es el responsable de la ejecución del “Programa de Repoblamiento Ganadero” y al efecto ha determinado:
+   1. El impacto del fenómeno de “El Niño” 2006 - 2007, en el Departamento del Beni.
+   2. La Priorización de los Municipios en el Departamento a ser incorporados en el Programa.
+   3. La situación de los ganaderos afectados en dichos municipios para su incorporación al Programa.
+   4. El número global de semovientes que podrán ser adjudicados, mediante contratos de préstamo para cada uno de los afectados.
+   5. El impacto social del Programa.
+   6. El uso de los recursos.
+2. El Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, para efectos de la implementación del presente Decreto Supremo deberá:
+   1. Definir los parámetros técnicos y coordinar los aspectos logísticos a emplearse en la importación hasta el punto de entrega del ganado, por parte de la(s) entidad(es) que se identifique(n) para este propósito.
+   2. Definir a la(s) entidad(es) que se hará(n) cargo de la operación de importación hasta el punto de entrega, y suscribir el/los contrato(s) y/o convenio(s) correspondiente(s).
+   3. Definir otros elementos que coadyuven en el desarrollo del “Programa de Repoblamiento Ganadero”.
+3. Proporcionar al FONDESIF los criterios de elegibilidad de los beneficiarios del programa y aprobar las condiciones financieras que el FONDESIF proponga, a efecto de que ambos sean incorporados en los convenios a suscribirse entre el FONDESIF y las EIFs.
+
+---
+
+Los señores Ministros de Estado, en los Despachos de Planificación del Desarrollo; Hacienda; y Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de agosto del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, María Magdalena Cajías de la Vega, Nila Heredia Miranda.

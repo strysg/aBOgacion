@@ -1,0 +1,125 @@
+# Bolivia: Decreto Supremo Nº 2783, 1 de junio de 2016
+
+[Decreto Supremo Nº 2783](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+REGLAMENTO DEL FUNCIONAMIENTO DE LA PLATAFORMA DE REGISTRO INTEGRADO DE PROGRAMAS SOCIALES - PREGIPS
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Artículo 316 de la [Constitución Política del Estado](#TODO-link), establece como una de las funciones del Estado en la economía, el conducir el proceso de planificación económica y social, con participación y consulta ciudadana. La ley establecerá un sistema de planificación integral estatal que incorporará a todas las entidades territoriales.
+* Que la [Ley Nº 777](#TODO-link), de 21 de enero de 2016, del Sistema de Planificación Integral del Estado - SPIE, tiene por objeto conducir el proceso de planificación del desarrollo integral del Estado Plurinacional de Bolivia, en el marco del Vivir Bien.
+* Que el Parágrafo I del Artículo 36 de la [Ley Nº 777](#TODO-link), crea la Plataforma de Registro Integrado de Programas Sociales del Estado Plurinacional de Bolivia - PREGIPS para el registro integrado de programas sociales y económicos y de sus beneficiarios, identificación de beneficiarios futuros, y como un instrumento de planificación y coordinación informada de políticas y programas de reducción de la pobreza. El funcionamiento de la Plataforma PREGIPS será reglamentado en un Decreto Supremo específico.
+* Que la Disposición Transitoria Segunda de la [Ley Nº 777](#TODO-link), señala que el Decreto Supremo de reglamentación del PREGIPS será aprobado en un plazo no mayor a los ciento veinte (120) días hábiles a partir de la promulgación de la Ley del SPIE.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar el funcionamiento de la Plataforma de Registro Integrado de Programas Sociales del Estado Plurinacional de Bolivia - PREGIPS, conforme a lo establecido en el Artículo 36 de la [Ley Nº 777](#TODO-link), de 21 de enero de 2016, del Sistema de Planificación Integral del Estado - SPIE.
+
+**Artículo 2°.- (Ámbito de aplicación)** El presente Decreto Supremo, se aplicará a todo programa social que se desarrolle en el marco de las políticas del Estado Plurinacional de Bolivia dirigidas a la reducción de la pobreza, en articulación con la planificación de largo, mediano y corto plazo del país.
+
+**Artículo 3°.- (Definiciones)** A efectos de aplicación del presente Decreto Supremo, se empleará la siguiente terminología:
+  
+Entidades Ejecutoras de Programas Sociales. Son todas las entidades públicas del Estado Plurinacional de Bolivia a cargo de la ejecución de programas sociales en el territorio nacional;
+  
+Ficha Única de Caracterización Socioeconómica. Es el instrumento de registro para el levantamiento de información de variables de identificación y caracterización socioeconómica de personas y hogares;
+  
+Índice de Caracterización Socioeconómica. Es un índice producto de un algoritmo estadístico que procesa la información sociodemográfica y las características de los hogares para determinar su nivel socioeconómico;
+  
+Código Único de Registro. Es el número de la cédula de identidad otorgada por el Servicio General de Identificación Personal - SEGIP, que sirve como criterio único de identificación de las personas en la Plataforma PREGIPS.
+
+## Capítulo II Plataforma de Registro Integrado de Programas Sociales - PREGIPS
+
+**Artículo 4°.- (Fuentes de información de la plataforma PREGIPS)** 
+
+1. Las fuentes de información de la Plataforma PREGIPS son:
+     
+   Los registros de beneficiarios de los programas sociales desde el inicio de su ejecución, según la disponibilidad de la información proporcionada por las entidades ejecutoras;
+     
+   El registro generado a través de la Ficha Única de Caracterización Socioeconómica, aplicada por las entidades ejecutoras de programas sociales;
+     
+   El registro masivo de áreas de mayor pobreza en el país;
+     
+   Otros registros y bases de datos pertinentes.II. Las entidades ejecutoras de programas sociales proporcionarán la información histórica y la información actual de manera continua al PREGIPS a través de un Convenio Interinstitucional con el Ministerio de Planificación del Desarrollo.
+
+**Artículo 5°.- (Responsabilidades de las entidades ejecutoras)** Las entidades ejecutoras serán responsables de las siguientes actividades:
+  
+Implementar la Ficha Única de Caracterización Socioeconómica a sus actuales y potenciales beneficiarios, previa compatibilización y articulación con los actuales instrumentos de registro;
+  
+Transferir la información de manera periódica a la Plataforma PREGIPS a través de sistemas y/o servicios web en línea, o en su defecto a través de la provisión de información en bases de datos en formatos establecidos, de acuerdo a protocolos determinados;
+  
+Actualizar la información en la Plataforma PREGIPS, de acuerdo a lo establecido en los respectivos Convenios Interinstitucionales;
+  
+Ejecutar las actividades previstas en la planificación definida por el Ministerio de Planificación del Desarrollo, para el registro en la Plataforma PREGIPS;
+  
+Otros que se consideren necesarios.
+
+**Artículo 6°.- (Responsabilidades del Ministerio de Planificación del Desarrollo)** En el marco del presente Decreto Supremo, el Ministerio de Planificación del Desarrollo será responsable de:
+  
+Gestionar el diseño de la Ficha Única de Caracterización Socioeconómica, así como determinar su uso, formas de implementación, procesamiento y supervisar su aplicación;
+  
+Aprobar la Ficha Única de Caracterización Socioeconómica, previa compatibilización y articulación con los actuales instrumentos de registro de los programas sociales, a ser realizada por la unidad técnica de coordinación del PREGIPS y los responsables de los programas sociales. En caso de modificación de la Ficha, ésta debe ser coordinada con las entidades ejecutoras encargadas de su aplicación;
+  
+Recibir e integrar la información de las entidades ejecutoras de programas sociales en la Plataforma del PREGIPS;
+  
+Coordinar con las entidades ejecutoras las actividades a ser desarrolladas;
+  
+Verificar y validar los datos de identidad a través de la interoperabilidad con los sistemas de registros de población nacional;
+  
+Definir y realizar el cálculo del Índice de Caracterización Socioeconómica;
+  
+Generar y analizar la información sobre beneficiarios existentes y potenciales de programas sociales y económicos;
+  
+Reportar a las entidades ejecutoras y otras entidades autorizadas información actualizada de poblaciones potencialmente beneficiarias de programas sociales y económicos;
+  
+Proporcionar información agregada sobre territorialización de la pobreza y sus características;
+  
+Mantener, actualizar y resguardar los datos de la Plataforma PREGIPS;
+  
+Otros que se considere necesarios.
+
+**Artículo 7°.- (Ficha Única de Caracterización Socioeconómica)** 
+
+1. La Ficha Única de Caracterización Socioeconómica, permite la construcción del Índice de Caracterización Socioeconómica de los hogares como instrumento para la priorización de beneficiarios de programas sociales y económicos.
+2. La Ficha Única de Caracterización Socioeconómica, será implementada de forma obligatoria y progresiva por las entidades ejecutoras. Esto no excluye que las entidades ejecutoras de programas sociales puedan relevar información adicional vinculada con su actividad específica.
+3. Los datos proporcionados en la Ficha Única de Caracterización Socioeconómica tendrá carácter de Declaración Jurada.
+
+**Artículo 8°.- (Confidencialidad de la información)** La información individualizada de carácter personal contenida en la Plataforma PREGIPS es confidencial y cualquier persona que esté registrada en la base de datos de la Plataforma PREGIPS podrá solicitar la corrección de aquella información consignada en la Ficha Única de Caracterización Socioeconómica en el marco de la normativa vigente.
+
+## Disposiciones adicionales
+
+**Artículo adicional Único.-** Para la implementación del presente Decreto Supremo se contará con las siguientes fuentes de financiamiento:
+  
+Tesoro General de la Nación, de acuerdo a disponibilidad financiera;
+  
+Préstamos o donaciones nacionales y/o extranjeras;
+  
+Otros recursos.
+
+## Disposiciones transitorias
+
+**Artículo transitorio 1°.-** La firma de convenios entre las entidades ejecutoras de programas sociales y el Ministerio de Planificación del Desarrollo en el marco de la aplicación del presente Decreto Supremo, así como la compatibilidad y articulación de los registros de los programas sociales con la Ficha Única de Caracterización Socioeconómica será realizada en un plazo no mayor a los noventa (90) días a partir de la publicación del presente Decreto Supremo.
+
+**Artículo transitorio 2°.-** Las entidades ejecutoras de programas sociales implementarán progresivamente el llenado de la Ficha Única de Caracterización Socioeconómica, siendo el 2 de enero de 2017 el plazo máximo para su implementación, generando condiciones para la transferencia de la información a la base de datos del PREGIPS a través de sistemas y/o servicios web en línea.
+
+**Artículo transitorio 3°.-** Las entidades ejecutoras cuya información forma parte de la Plataforma PREGIPS designarán a un funcionario de grado jerárquico mediante Resolución expresa, para coordinar el levantamiento, traspaso y mantenimiento de la información en la Plataforma PREGIPS, así como cualquier información relevante sobre el programa social que ejecutan, en un plazo no mayor a los treinta (30) días a partir de la firma de los convenios.
+  
+
+## Disposiciones abrogatorias y derogatorias
+
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Planificación del Desarrollo, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, al primer día del mes de junio del año dos mil dieciséis .
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado, Lenny Tatiana Valdivia Bautista, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 4556, 29 de julio de 2021
+
+[Decreto Supremo Nº 4556](#TODO-link)  
+DAVID CHOQUEHUANCA CÉSPEDES
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Artículo 174 de la [Constitución Política del Estado](#TODO-link), determina como atribución de la Vicepresidenta o del Vicepresidente del Estado, asumir la Presidencia del Estado, en los casos establecidos en la Constitución.
+* Que el Parágrafo I del Artículo 246 del Texto Constitucional, establece que las Fuerzas Armadas dependen de la Presidenta o del Presidente del Estado y reciben sus órdenes, en lo administrativo, por intermedio de la Ministra o del Ministro de Defensa y en lo técnico, del Comandante en Jefe.
+* Que el Parágrafo I del Artículo 321 de la [Constitución Política del Estado](#TODO-link), dispone que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+* Que el Artículo 5 de la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, señala que las entidades públicas no podrán comprometer ni ejecutar gasto alguno con cargo a recursos no declarados en sus presupuestos aprobados.
+* Que el Artículo 173 de la [Ley Nº 2902](#TODO-link), de 29 de octubre de 2004, de Aeronáutica Civil, establece que el explotador está obligado a asegurar a su personal que ejerce funciones a bordo de las aeronaves, ya sea habitual u ocasionalmente, contra todo accidente susceptible de producirse en cumplimiento de tales funciones o servicios. Igualmente, el explotador está obligado a contratar un seguro para cubrir las responsabilidades establecidas en la citada Ley y las disposiciones pertinentes por daños a las personas, bienes transportados y terceros en la superficie.
+* Que el Parágrafo II del Artículo 6 de la [Ley Nº 1356](#TODO-link), de 28 de diciembre de 2020, del Presupuesto General del Estado Gestión 2021, señala que las asignaciones presupuestarias de recursos adicionales efectuadas por el Tesoro General de la Nación - TGN, a entidades del sector público, para gasto corriente y/o nuevos proyectos de inversión, deberán ser autorizadas mediante Decreto Supremo, exceptuándose recursos emergentes de donación bajo la modalidad de Apoyo Presupuestario Sectorial o casos excepcionales, y aquellos recursos que cuenten con autorización expresa en Ley o Decreto Supremo.
+* Que en sujeción a las disposiciones legales y vigentes, el Ministerio de Defensa requiere una asignación presupuestaria de recursos adicionales provenientes del TGN, para contratar seguros de aeronavegación para las Fuerzas Armadas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la asignación presupuestaria de recursos adicionales a favor del Ministerio de Defensa, para contratar el Seguro de Aeronavegación para las Fuerzas Armadas.
+
+**Artículo 2°.- (Autorización)** Se autoriza al Ministerio de Economía y Finanzas Públicas, a través del Tesoro General de la Nación - TGN, realizar en la gestión 2021 la asignación presupuestaria de recursos adicionales a favor del Ministerio de Defensa por Bs25.796.463.- (VEINTICINCO MILLONES novecientos NOVENTA Y SEIS mil CUATROCIENTOS SESENTA Y TRES 00/100 BOLIVIANOS), destinados a contratar el seguro de aeronavegación anual para las Fuerzas Armadas comprendido entre el periodo 2021-2022.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Publicas y de Defensa, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los veintiocho días del mes de julio del año dos mil veintiuno.
+  
+FDO. DAVID CHOQUEHUANCA CESPEDES Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel MINISTRA DE PLANIFICACIÓN DEL DESARROLLO E INTERINA DE HIDROCARBUROS Y ENERGÍAS, Nestor Huanca Chura MINISTRO DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL E INTERINO DE ECONOMÍA Y FINANZAS PÚBLICAS, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Jeyson Marcos Auza Pinto, Adrian Ruben Quelca Tarqui MINISTRO DE EDUCACIÓN E INTERINO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, Remmy Ruben Gonzales Atila MINISTRO DE DESARROLLO RURAL Y TIERRAS E INTERINO DE MEDIO AMBIENTE Y AGUA, Sabina Orellana Cruz.

@@ -1,0 +1,97 @@
+
+
+# Bolivia: Decreto Ley de 23 de febrero de 1938
+
+TCNEL. GERMAN BUSCH,
+  
+Presidente de la Junta Militar de Gobierno
+
+Considerando:
+
+* Que la Ley Electoral de 31 de Enero de 1924 a la que se sujetarán las elecciones de convencionales, por imperio del Decreto Ley de 22 de Noviembre último prescribe que las mesas receptoras funcionarán en sitios públicos y abiertos, aislados con alambre, donde se colocarán casetas de madera;
+* Que, según informes de las autoridades políticas, no existen a la fecha las casetas, alambre y postaje utilizados en anteriores elecciones;
+* Que la adquisición de dicho material ocasionaría crecidos desembolsos al Erario Nacional, y la construcción de casetas demandaría tiempo de que actualmente no se dispone por la proximidad de las elecciones;
+* Que el uso de edificios escolares, fiscales y municipales, para el funcionamiento de las mesas receptoras, ha dado, en la práctica buenos resultados;
+
+DECRETA:
+
+**Artículo Único.-** Modifícase los Artículos 62, 65, 56, 67, 67, 81 y 164 de la Ley Electoral de 31 de Enero de 1924, en la siguiente forma:
+> “Artículo 62º En las secciones a que se refiere el artículo anterior, las mesas receptoras señalarán, con plena autonomía, el recinto electoral donde han de ejercer sus funciones, el orden de emplazamiento de las mesas y las demás disposiciones encaminadas al correcto funcionamiento de ellas. En los distritos electorales que tengan más de tres mesas receptoras, éstas se ubicarán por zonas, prefiriendo aquellas donde existan establecimientos de enseñanza fiscal, municipal o particular, lo que se hará saber con anticipación al electorado por la prensa o mediante carteles.
+>   
+> Artículo 65º Las mesas receptoras funcionarán con autonomía dentro de locales de instrucción donde hubieren. En los distritos en que estos establecimientos fuesen insuficientes, se elegirán fundos municipales. En un mismo edificio podrá funcionar más de una mesa si tiene habitaciones adecuadas, cuya separación garantice el secreto y la libertad del sufragio. El ingreso será controlado por la policía civil.
+>   
+> Artículo 66º
+>   
+> I.- El Presidente de cada mesa elegirá, con la debida anticipación, una o más habitaciones del edificio para la emisión del voto, debiendo adoptar todas las previsiones y seguridades para que el elector no sea perturbado en ese acto y esté absolutamente libre de influencias. Después de que sufrague un ciudadano, penetrará otro a la habitación, previa autorización del presidente de la mesa.
+>   
+> II. Los delegados de los partidos o grupos políticos y los candidatos, podrán controlar el cumplimiento de la anterior disposición.
+>   
+> III.- Los Alcaldes Municipales o quienes hagan sus veces, harán instalar, con oportunidad, el mobiliario que se necesite para el funcionamiento de las mesas, bajo la multa, en caso contrario, de quinientos bolivianos, que será impuesta por la Corte Superior del Distrito, a denuncia de cualquier ciudadano. Los partidos políticos o los candidatos, podrán subsanar las omisiones que hubieren,
+>   
+> Artículo 67º Será nula la elección hecha en contravención con lo dispuesto en el primer inciso, del artículo anterior.
+>   
+> Artículo 68º Si las autoridades, partidos, grupos políticos o individuos particulares obstaculizaran el funcionamiento de las mesas receptoras a efecto de provocar la nulidad de la elección, el Presidente del Cuerpo de Jurados, o, a falta de éste, el presidente o presidentes de las mesas cuyo funcionamiento se obstaculizara, mandarán la detención inmediata de los promotores, por la policía civil o la fuerza pública y oficiarán a la autoridad judicial inmediata para el enjuiciamiento del caso y aplicación de la multa de tres mil bolivianos por persona, fuera de la pena de prisión por seis meses o dos años.
+>   
+> Artículo 81º I.- Abierto el sufragio, se procederá a la elección de esta manera:
+>   
+> a) Hasta veinte ciudadanos por mesa penetrarán al edificio destinado al funcionamiento de la mesa o mesas receptoras, para presentar sus libretas de registro a los secretarios;
+>   
+> b) Después que hayan sufragado, esos ciudadanos abandonarán el local para el ingreso de otros. Este ingreso será controlado por la policía civil;
+>   
+> c) Los secretarios o los miembros de la mesa confrontarán una a una las libretas de registro con las partidas correspondientes y una vez reconocida su conformidad, harán firmar al elector en el libro respectivo;
+>   
+> d) Confrontada la firma, el Presidente de la mesa entregará al ciudadano sufragante un sobre, después de haberlo firmado con firma íntegra en la cara anterior de la cubierta. No podrá hacerlo en otro momento que el de la elección ni lugar distinto de la mesa. Los sobres firmados en otro momento y en lugar distinto harán nulos los votos contenidos en ellos. El Presidente que infringiese estas disposiciones será multado con quinientos bolivianos y sufrirá la pena de tres a seis meses de prisión;
+>   
+> e) Los delegados de partidos políticos o de los candidatos sellarán con sus contraseñas el dorso del sobre;
+>   
+> f) Si la confrontación de firmas y generales con la respectiva partida, no fuese suficiente para probar la identidad del elector, podrá exigírsele la presentación de su libreta de inscripción del registro, servicio militar, desmovilización o algún otro comprobante fehaciente, como la deposición jurada de dos testigos de probidad;
+>   
+> g) Una vez que el elector haya recibido el sobre firmado y sellado, de manos del Presidente, pasará a la habitación destinada al voto secreto, donde tomará cualquiera de las candidaturas impresas conforme a su libre determinación, y la pondrá dentro del sobre para luego depositarlo en el ánfora de la mesa. Asimismo, podrá el elector escribir su voto en papel blanco, que no lleve distintivo o contraseña especial, y depositarlo en el sobre. Podrá también cambiar nombres de las candidaturas y sustituirlos con otros y efectuar las alteraciones que quiera en las listas de los candidatos. Las papeletas impresas serán imprescindiblemente blancas, no debiendo ser aceptadas las de color;
+>   
+> h) No podrá votar por ninguna razón fuera de la habitación, ni tampoco permanecer dentro de ella más de dos minutos. El Presidente de la mesa controlará el cumplimiento de este inciso, y dispondrá que después de un elector penetre otro;
+>   
+> i) Antes de salir de la habitación, el elector pondrá su voto dentro del sobre y lo cerrará, para que no pueda enseñarlo a persona alguna, luego lo depositará en el ánfora colocada, al efecto, en medio de la mesa;
+>   
+> j) En las mesas receptoras habrá dos listas, por orden alfabético, de los ciudadanos inscritos, debiendo uno de los secretarios tarjar los nombres a medida que vayan sufragando, a fin de evitar la duplicación del voto.
+>   
+> II. -Todo voto emitido fuera de la habitación será nulo y rechazado por la mesa. El elector que incurra en la infracción será castigado INCONTINENTI por el Presidente de la mesa con tres días de cárcel, mediante mandamiento que expedirá en el acto,
+>   
+> III.- Igual pena y rechazo de voto, se aplicará al elector que al salir de la habitación o en otro momento enseñase su voto a alguna persona. Para evitarlo, se procurará que la habitación del sufragio esté inmediatamente contigua al sitio del Presidente.
+>   
+> IV.- El elector que antes o después de haber ingresado a la habitación de sufragio, se llevase el sobre electoral firmado y sellado, con o sin voto o no lo depositase en el ánfora, será sancionado con treinta días de cárcel, mediante mandamiento expedido por el Presidente de la mesa, y el voto así emitido será nulo.
+>   
+> V.- Una vez que haya sufragado el elector, el Presidente de la mesa le devolverá su libreta de inscripción y los documentos que hubiese presentado para comprobar su identidad personal, y le entregará un certificado por el que conste el sufragio.
+>   
+> Artículo 164º Aparte de la policía civil establecida en el articulo 63 de esta ley, la fuerza pública resguardará el orden en las funciones electorales, en las siguientes condiciones:
+>   
+> I.- El domingo anterior a una elección, se reunirán con la autoridad política respectiva -prefecto, subprefecto o intendente, -los representantes de los partidos políticos o de los candidatos, uno por cada partido con candidatura presentada, o por candidato, cuando sea independiente, de manera que no haya sino un solo personero por cada interés político en acción y designarán, conjuntamente con los representantes de las entidades políticas o de los candidatos independientes, un ciudadano neutral y de reconocida justificación de la localidad, que, con el título de MEDIADOR ELECTORAL, asuma la función de amparar la libertad de los ciudadanos y de conservar la normalidad de las funciones electorales. En los distritos donde las elecciones se efectúen por zonas, se nombrará un Mediador Electoral para cada zona.
+>   
+> II.- Se levantará acta circunstanciada de todo lo efectuado en esa reunión, con expresión clara del nombre de los concurrentes y de quién o quiénes fueron designados Mediadores, indicando además, la zona en que éstos les corresponda actuar.
+>   
+> III.- Las autoridades políticas o policiarias deberán poner a disposición del Mediador o Mediadores Electorales la fuerza pública que fuese necesaria para el cumplido lleno de sus funciones.
+>   
+> IV.- El Mediador hará uso de la fuerza pública sólo en caso de que otros procedimientos no sean suficientes para amparar el sufragio libre y tranquilo de los ciudadanos, debiendo retirarse la fuerza del recinto electoral inmediatamente de que haya restablecido el orden.
+>   
+> V.- En los distritos donde no hayan fuerzas policiarias será la guardia civil la que se ponga a sus órdenes.
+>   
+> VI.- La policía civil, aún existiendo fuerzas policiarias, estará, igualmente, bajo las órdenes del Mediador, que, para ser reconocido en sus funciones, debe llevar una escarapela tricolor en el sombrero u otro distintivo análogo.
+>   
+> VII.- El Mediador mandará retirar del recinto electoral a los ebrios y podrá ordenar su arresto si fuera necesario,
+>   
+> VIII.- Podrá ordenar, concluido el sufragio, la desocupación del recinto electoral por los electores, a efecto de que el escrutinio se realice por las mesas receptoras en presencia de sólo los delegados de los partidos o candidatos.
+>   
+> IX.- Ordenará el arresto, o simplemente la desocupación del recinto electoral, según los casos, de los que profieran insultos, provoquen reyertas, intenten o realicen agresiones, con palabras, ademanes o acciones de hecho.”
+
+---
+
+El señor Ministro de Gobierno y Justicia, queda encargado de la ejecución y cumplimiento del presente Decreto Ley.
+  
+Dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de febrero de mil novecientos treinta y ocho años.
+  
+(Fdo.) Tcnel. G. Busch. C. Menacho. S. Olmos. E. Diez de Medina. D. Sossa. L. Campero. F. M. Rivera. A. Peñaranda. W. Méndez. G. Gosálvez. Tcnel. Acosta. E. Belmonte V.
+  
+Es conforme:
+  
+E. Lijerón Rodríguez.
+  
+Oficial Mayor de Gobierno.

@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 28892, 18 de octubre de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que es política del Gobierno Nacional brindar apoyo a las Universidades que pertenecen al Sistema Universitario Nacional, a través del mejoramiento de su infraestructura y equipamiento.
+* Que el Fondo de Organización de Países Exportadores de Petróleo - OPEP para el Desarrollo Internacional, ha acordado conceder a la República de Bolivia un crédito de $us.10.700.000.- (DIEZ MILLONES novecientos mil 00/100 DOLARES AMERICANOS), destinados a financiar el Proyecto de Rehabilitación y Modernización de las Universidades Nacionales.
+* Que es preciso autorizar la suscripción del respectivo Convenio de Crédito con el Fondo de Organización de Países Exportadores de Petróleo - OPEP para el Desarrollo Internacional, a objeto de materializar el financiamiento.
+* Que durante la visita que realizó el Presidente Constitucional de la República de Bolivia, Evo Morales Ayma, a Viena, en ocasión de la IV Cumbre de Jefes de Estado y de Gobierno de la Unión Europea, América Latina y el Caribe, el Ministro de Relaciones Exteriores y Cultos ha suscrito, en fecha 11 de mayo, un Convenio de Crédito por $us.10.700.000.- (DIEZ MILLONES novecientos mil 00/100 DOLARES AMERICANOS) con el Fondo de Organización de Países Exportadores de Petróleo - OPEP para el Desarrollo Internacional, cuyos recursos serán destinados a financiar la Rehabilitación y Modernización de las Universidades Nacionales.
+* Que bajo la actual estructura del Poder Ejecutivo, el mecanismo de contratación de recursos externos y su canalización a los ejecutores de proyectos y/o programas, ha pasado a depender del Viceministerio de Inversión Pública y Financiamiento Externo del Ministerio de Planificación del Desarrollo, encargado de la contratación del financiamiento externo; permaneciendo las obligaciones del Ministerio de Hacienda en materia de administración y control de la deuda pública nacional, por lo que, se hace necesaria su participación en el proceso de canalización y transferencia de los recursos externos para la continuidad de las operaciones.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, del 16 de octubre de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Planificación del Desarrollo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** 
+
+1. El presente Decreto Supremo tiene por objeto aprobar el Convenio de Crédito suscrito en fecha 11 de mayo de 2006, por el Ministro de Relaciones Exteriores y Cultos con el Fondo de Organización de Países Exportadores de Petróleo - OPEP para el Desarrollo Internacional, en nombre del Gobierno de la República de Bolivia, por un monto de $us.10.700.000.- (DIEZ MILLONES novecientos mil DOLARES AMERICANOS), destinados a financiar el Proyecto de Rehabilitación y Modernización de las Universidades Nacionales.
+2. Remítase el mismo a consideración del Poder Legislativo, en cumplimiento a lo dispuesto por la Atribución 5ta. del Artículo 59 de la Constitución Política del Estado.
+
+**Artículo 2°.- (Convenio subsidiario)** Se autoriza al Ministerio de Hacienda la suscripción del Convenio Subsidiario con la entidad ejecutora, para la transferencia de recursos externos y ejecución del Contrato de Préstamo, a solicitud del Ministerio de Planificación del Desarrollo a través del Viceministerio de Inversión Pública y Financiamiento Externo.
+
+**Artículo 3°.- (Debito automatico)** Se autoriza al Ministro de Hacienda, realizar los débitos automáticos de las cuentas fiscales de las Universidades Públicas, que tienen obligaciones crediticias con cargo al Convenio de Crédito 1080P con el Fondo de Organización de Países Exportadores de Petróleo - OPEP para el Desarrollo Internacional, por concepto del servicios de la deuda (capital, intereses, comisiones u otro cargo), según el plan de pagos suscrito en el convenio de crédito.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de Hacienda y Planificación del Desarrollo quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de octubre del año dos mil seis
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga Ministro de la Presidencia e Interino de Relaciones Exteriores y Cultos, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero Ministra de Justicia e Interina de Educación y Culturas, Hernando Larrazabal Córdova, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Carlos Villegas Quiroga, José Guillermo Dalence Salinas, Santiago Alex Gálvez Mamani, Nila Heredia Miranda.

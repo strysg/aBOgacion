@@ -1,0 +1,27 @@
+# Bolivia: Decreto Supremo Nº 27681, 18 de agosto de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el 1 de agosto de 2003 se suscribió el Acuerdo de Cooperación entre el Gobierno de Bolivia, representado por los Ministros de Hacienda y Desarrollo Económico y, la Embajada del Reino de los Países Bajos - Embajada de Holanda, destinado a apoyar el Sistema Boliviano de Productividad y Competitividad - SBPC; a través, de la Unidad de Productividad y Competitividad - UPC, para implantar el Plan de Fortalecimiento de la Cadena Productiva de la Quinua del Altiplano Sur, en el marco del Primer Acuerdo Boliviano de Competitividad.
+* Que el Acuerdo de Cooperación entre el Gobierno de Bolivia y la Embajada del Reino de los Países Bajos, establece un monto global de apoyo al SBPC por $us.7.000.000,00 (SIETE MILLONES 00/100 DOLARES AMERICANOS); de los cuales $us.3.638.808,86 (TRES MILLONES SEISCIENTOS TREINTA Y OCHO mil novecientos ochenta 86/100 DOLARES AMERICANOS), que no excederán un máximo de €.3.638.808,86 (TRES MILLONES SEISCIENTOS TREINTA Y OCHO mil novecientos ochenta 86/100 DE EUROS), serán destinados a la implementación del “Plan de Fortalecimiento de la Cadena Productiva de la Quinua del Altiplano Sur”, en el marco del primer Acuerdo Boliviano de Competitividad.
+* Que para el cumplimiento de la implementación del Plan de Fortalecimiento de la Cadena Productiva de la Quinua en el Altiplano Sur, se ha previsto ejecutar en la presente gestión la suma de Bs.6.376.375,00 (SEIS MILLONES TRESCIENTOS SETENTA Y SEIS mil TRESCIENTOS SETENTA Y CINCO 00/100 BOLIVIANOS), destinados a los componentes de: Financiamiento y Acceso al Crédito y, Promoción de las Exportaciones, Capacitación, Articulación de los Actores de la Cadena, Inclusión Empresarial, Medio Ambiente, Equidad y Desarrollo Sostenible; así como, la Administración, Seguimiento y Evaluación del Plan, que en forma conjunta apoyaran al desarrollo de los actores de la cadena productiva de la Quinua.
+* Que el Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004, determina que independientemente de las fuentes de financiamiento, se establece la reducción del 10% para las partidas 25200 “Estudios e Investigaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión” y 46200 “Estudios y Proyectos para Inversión para Construcciones de Bienes de Dominio Público” del PGN aprobado para la gestión 2004. Cualquier incremento en estas partidas de gasto, deberá ser aprobado mediante Decreto Supremo.
+* Que para alcanzar las metas nacionales planteadas en la nueva política económica, es necesario incrementar la inversión pública.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** Con la finalidad de contratar los servicios necesarios para concretar los objetivos planteados, se autoriza incrementar la Partida Presupuestaria 25200 “Estudios e Investigaciones”, en el Presupuesto del Ministerio de Desarrollo Económico, para la Unidad de Productividad y Competitividad, con recursos de donación provenientes del Acuerdo de Cooperación entre el Gobierno de Bolivia y la Embajada del Reino de los Países Bajos - Embajada de Holanda, por un monto de Bs.3.444.348,00 (TRES MILLONES CUATROCIENTOS CUARENTA Y CUATRO mil TRESCIENTOS CUARENTA Y OCHO 00/100 BOLIVIANOS), según lo establecido en el Anexo adjunto al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda y Desarrollo Económico quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de agosto del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT , Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Saúl Lara Torrico, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Gustavo Pedraza Mérida, Horst Grebe López, Jorge Urquidi Barrau, Guillermo Torres Orias, Maria Soledad Quiroga Trigo, Fernando Antezana Aranibar, Luis Fernández Fagalde, Victor Barrios Arancibia Ministro Interino de Asuntos Campesinos y Agropecuarios, Roberto Barbery Anaya, Ricardo Calla Ortega.

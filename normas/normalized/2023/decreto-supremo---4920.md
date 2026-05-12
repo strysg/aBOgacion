@@ -1,0 +1,37 @@
+# Bolivia: Decreto Supremo Nº 4920, 19 de abril de 2023
+
+[Decreto Supremo Nº 4920](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 11 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](#TODO-link), determina que es atribución de la Asamblea Legislativa Plurinacional aprobar el Presupuesto General del Estado presentado por el Órgano Ejecutivo.
+* Que la [Ley Nº 2042](#TODO-link), de 21 de diciembre de 1999, de Administración Presupuestaria, tiene por objeto establecer las normas generales a las que debe regirse el proceso de administración presupuestaria de cada ejercicio fiscal.
+* Que la [Ley Nº 1413](#TODO-link), de 17 de diciembre de 2021, del Presupuesto General del Estado Gestión 2022, aprueba el Presupuesto General del Estado (PGE) del sector público para la Gestión Fiscal 2022, y otras disposiciones específicas para la administración de las finanzas públicas.
+* Que la [Ley Nº 1462](#TODO-link), de 9 de septiembre de 2022, de Modificaciones al Presupuesto General del Estado - Gestión 2022, aprueba las modificaciones al Presupuesto General del Estado - Gestión 2022, para las entidades del sector público, y establecer otras disposiciones financieras específicas para su aplicación.
+* Que las Normas Básicas del Sistema de Contabilidad Integrada, aprobadas por Resolución Suprema N° 222957, de 4 de marzo de 2005, modificadas por la Resolución Suprema N° 227121, de 31 de enero de 2007, señala entre otros aspectos, que el conjunto de los organismos de la Administración Central, actual Órgano Ejecutivo conformado por la Vicepresidencia del Estado, Ministerios de Estado y Tesoro General de la Nación - TGN, se considera como un único Ente Contable.
+* Que los Estados Financieros del Órgano Ejecutivo gestión fiscal 2022, muestran la situación económica - financiera, el resultado del ejercicio, la evolución del patrimonio y su participación en las entidades públicas, los flujos de efectivo, la ejecución del presupuesto de recursos y gastos, y el origen y aplicación de recursos corrientes, de capital y de financiamiento de las entidades que componen el Órgano Ejecutivo, cuyo propósito es proporcionar información para la toma de decisiones por las autoridades y constituyen un medio para la rendición de cuentas de los recursos públicos.
+* Que los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia de la gestión fiscal 2022, deben ser aprobados mediante instrumento legal correspondiente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto aprobar los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia, correspondientes a la gestión fiscal 2022.
+
+**Artículo 2°.- (Aprobación)** 
+
+1. Se aprueban los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia de la gestión fiscal 2022, que comprenden la agregación de la ejecución presupuestaria, tesorería y contabilidad de la Vicepresidencia del Estado, los Ministerios de Estado y el Tesoro General de la Nación - TGN.
+2. La aprobación de los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia de la gestión fiscal 2022, no deslinda de responsabilidad por la administración directa de los recursos fiscales, realizada por las Máximas Autoridades Ejecutivas y las servidoras y servidores públicos de las entidades señaladas en el Parágrafo precedente.
+
+**Artículo 3°.- (Publicación)** Los Estados Financieros del Órgano Ejecutivo del Estado Plurinacional de Bolivia correspondientes a la gestión fiscal 2022, aprobados por el presente Decreto Supremo, serán publicados en el sitio web del Ministerio de Economía y Finanzas Públicas.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los diecinueve días del mes de abril del año dos mil veintitrés.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Maria Nela Prada Tejada MINISTRA DE LA PRESIDENCIA E INTERINA DE RELACIONES EXTERIORES, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García MINISTRO DE ECONOMÍA Y FINANZAS PÚBLICAS E INTERINO DE HIDROCARBUROS Y ENERGÍAS, Néstor Huanca Chura, Edgar Montaño Rojas, Ramiro Félix Villavicencio Niño De Guzmán, Iván Manolo Lima Magne, Verónica Patricia Navia Tejada MINISTRA DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINA DE CULTURAS, DESCOLONIZACIÓN Y DESPATRIARCALIZACIÓN, Juan Santos Cruz, Edgar Pary Chambi MINISTRO DE EDUCACIÓN E INTERINO DE SALUD Y DEPORTES, Remmy Rubén Gonzales Atila.

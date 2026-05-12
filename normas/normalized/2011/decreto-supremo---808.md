@@ -1,0 +1,92 @@
+# Bolivia: Decreto Supremo Nº 808, 2 de marzo de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 318 de la [Constitución Política del Estado](#TODO-link), establece que el Estado determinará una política productiva, industrial y comercial que garantice una oferta de bienes y servicios suficientes para cubrir adecuadamente las necesidades básicas internas y para fortalecer la capacidad exportadora; priorizando el apoyo a las estructuras asociativas de micro, pequeñas y medianas empresas productoras, urbanas y rurales, además de promover y apoyar la exportación de bienes con valor agregado.
+* Que el numeral 4 del Artículo 334 de la [Constitución Política del Estado](#TODO-link), establece que el Estado protegerá y fomentará las micro y pequeñas empresas, así como a las organizaciones económicas campesinas y las organizaciones o asociaciones de pequeños productores, quienes gozarán de preferencias en las compras del Estado.
+* Que el Parágrafo I del Artículo 6 de la [Ley Nº 050](#TODO-link), de 9 de octubre de 2010, vigente por disposición del Artículo 41 de la [Ley Nº 062](#TODO-link), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, autoriza al Órgano Ejecutivo a través del Ministerio de Economía y Finanzas Públicas, utilizar los recursos de crédito interno otorgados por el Banco Central de Bolivia - BCB, en el marco del [Decreto Supremo Nº 29453](#TODO-link), de 22 de febrero de 2008, como apoyo presupuestario del Tesoro General de la Nación para atender las necesidades provocadas por efectos hidrometereológicos y climáticos, situaciones de encarecimiento de precios, desabastecimiento, inseguridad alimentaria, fomento a la producción, nuevos emprendimientos productivos, infraestructura caminera, rehabilitación de viviendas, así como otros fines productivos a ser implementados por el Órgano Ejecutivo.
+* Que el inciso a) del Artículo 29 del Presupuesto General del Estado - Gestión 2010, vigente por disposición del Artículo 41 de la [Ley Nº 062](#TODO-link), autoriza al Ministerio de Economía y Finanzas Públicas a realizar débitos automáticos a favor de entidades beneficiarias o ejecutoras de programas y proyectos, cuando estas lo soliciten, con el objeto de garantizar el cumplimiento de las obligaciones y competencias asignadas a las entidades públicas, conforme normativa vigente.
+* Que el inciso q) del Artículo 52 del [Decreto Supremo Nº 29894](#TODO-link), de 7 de febrero de 2009, Organización del Órgano Ejecutivo, establece como atribución de la Ministra(o) de Economía y Finanzas Públicas, transmitir y transferir a los órganos y entidades estatales, recursos públicos para la constitución de fideicomisos, para la implementación de los programas y políticas del Gobierno, de conformidad a norma específica.
+* Que conforme a los incisos d) y e) del Artículo 64 del [Decreto Supremo Nº 29894](#TODO-link), la Ministra(o) de Desarrollo Productivo y Economía Plural, tiene entre sus atribuciones, plantear y ejecutar políticas dirigidas a buscar el acceso a mercados nacionales y externos; y promoción de compras estatales en favor de micro y pequeñas empresas y asociaciones, entre otras; así como diseñar y ejecutar políticas de desarrollo de la oferta exportable con valor agregado, priorizando el apoyo a las micro y pequeñas empresas urbanas y rurales.
+* Que mediante [Decreto Supremo Nº 0196](#TODO-link), de 8 de julio de 2009, ampliado mediante [Decreto Supremo Nº 0338](#TODO-link), de 21 de octubre de 2009, se autorizó al Ministerio de Desarrollo Productivo y Economía Plural a constituir un Fideicomiso con la finalidad de otorgar liquidez a los exportadores que acrediten contar con un contrato de exportación de manufacturas con valor agregado, al mercado de la República Bolivariana de Venezuela.
+* Que el Ministerio de Desarrollo Productivo y Economía Plural considera necesario ejecutar un Programa a través de un fideicomiso para financiar la producción de bienes con valor agregado a los micro y pequeños productores, urbanos o rurales, individuales o asociados, a objeto de fomentar y promover sus exportaciones y ventas de bienes al Estado, actuando ésta Cartera de Estado en calidad de Fideicomitente y Beneficiario.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto:
+  
+Modificar el Artículo 2 del [Decreto Supremo Nº 0338](#TODO-link), de 21 de octubre de 2009.
+  
+Autorizar la constitución de un Fideicomiso a cargo del Ministerio de Desarrollo Productivo y Economía Plural destinado a los micro y pequeños productores, urbanos o rurales, individuales o asociados.
+
+**Artículo 2°.- (Modificación)** Se modifica el Artículo 2 del [Decreto Supremo Nº 0338](#TODO-link), de 21 de octubre de 2009, con el siguiente texto:
+> “ARTÍCULO 2.- (INCREMENTO). Se incrementa el monto establecido en el Artículo 2 del [Decreto Supremo Nº 0196](#TODO-link), de 8 de julio de 2009, en un monto adicional de hasta Bs70.000.000.- (SETENTA MILLONES 00/100 BOLIVIANOS)”
+
+.
+
+**Artículo 3°.- (Autorización)** Se autoriza al Ministerio de Desarrollo Productivo y Economía Plural a constituir un Fideicomiso, en calidad de fideicomitente con el Banco de Desarrollo Productivo S. A. M.- BDP S. A. M., Banco de Segundo Piso, en calidad de fiduciario, por un monto de hasta Bs278.500.000.- (DOSCIENTOS SETENTA Y OCHO MILLONES QUINIENTOS mil 00/100 BOLIVIANOS) destinado a los micro y pequeños productores, urbanos o rurales, individuales o asociados.
+
+**Artículo 4°.- (Fuente de los recursos)** 
+
+1. Los recursos financieros para la constitución del Fideicomiso autorizado en el Artículo precedente provendrán del saldo de los recursos comprometidos y no ejecutados, establecidos en el [Decreto Supremo Nº 29797](#TODO-link), de 19 de noviembre de 2008, correspondientes a los recursos para la Reconstrucción, Seguridad Alimentaria y Apoyo Productivo, en el marco de lo dispuesto por el Artículo 6 de la [Ley Nº 050](#TODO-link), de 9 de octubre de 2010, vigente por disposición del Artículo 41 de la [Ley Nº 062](#TODO-link), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011.
+2. Se autoriza al Ministerio de Economía y Finanzas Públicas, a reasignar los recursos establecidos en el [Decreto Supremo Nº 29797](#TODO-link), en el marco de lo dispuesto en el presente Decreto Supremo.
+3. Se autoriza al Ministerio de Desarrollo Productivo y Economía Plural, a transmitir de manera temporal y no definitiva al BDP S. A. M., Banco de Segundo Piso, recursos hasta el monto establecido en el Artículo 3 del presente Decreto Supremo, a efectos de constituir el fideicomiso.
+
+**Artículo 5°.- (Finalidad del fideicomiso)** 
+
+1. La finalidad del Fideicomiso es financiar capital de operaciones o dar liquidez a los micro y pequeños productores, urbanos o rurales, individuales o asociados, mediante la otorgación de:
+     
+   Créditos para la producción de bienes de exportación con valor agregado.
+     
+   Créditos para la producción o provisión de bienes destinados a ventas a entidades estatales.
+     
+   Liquidez sobre la cesión de derechos de cobro emergentes de documentos por cobrar de una contratación con entidades estatales.
+2. Los financiamientos establecidos en el Parágrafo precedente serán otorgados por el Fiduciario a través de Entidades de Intermediación Financiera - EIF, reguladas por la Autoridad de Supervisión del Sistema Financiero - ASFI o Instituciones Financieras de Desarrollo - IFD en proceso de regulación.
+3. Los financiamientos establecidos en el presente Artículo deberán cancelarse en su totalidad por los beneficiarios, en las condiciones a ser establecidas en los contratos respectivos.
+
+**Artículo 6°.- (Beneficiarios)** Los beneficiarios de los créditos o de la liquidez a ser otorgados con recursos del fideicomiso son los micro y pequeños productores, urbanos o rurales, individuales o asociados.
+
+**Artículo 7°.- (Condiciones de acceso a recursos del fideicomiso)** 
+
+1. Además de los requisitos de elegibilidad a ser previstos en el Reglamento, los solicitantes de recursos del fideicomiso, no deberán tener obligaciones en mora o castigadas, registradas en los Burós de Información Crediticia, en la Central de Información de Riesgo Crediticio de la ASFI o con otros fideicomisos, programas o proyectos a cargo del BDP S. A. M., Banco de Segundo Piso.
+2. Los recursos del fideicomiso se otorgarán a los micro y pequeños productores, urbanos o rurales, individuales o asociados, previo perfeccionamiento de las garantías correspondientes, de acuerdo al tipo de operación y monto a otorgarse, pudiendo ser éstas, garantías reales, mixtas y quirografarias, además de la aplicación de otros mecanismos de aseguramiento de pago a ser establecidos en el Reglamento del Fideicomiso con el objetivo de asegurar el cumplimiento de la totalidad de las obligaciones contraídas con el Fideicomiso.
+
+**Artículo 8°.- (Plazo del fideicomiso)** El plazo del presente Fideicomiso será de cinco (5) años, computables a partir de la fecha de suscripción del Contrato de Constitución del mismo, entre el Ministerio de Desarrollo Productivo y Economía Plural y el BDP S. A. M., Banco de Segundo Piso.
+
+**Artículo 9°.- (Aspectos administrativos)** Todos los aspectos relativos a la operación y administración del Fideicomiso, así como la remuneración del Fiduciario serán establecidos en el Contrato de Constitución del mismo y en su Reglamento.
+
+**Artículo 10°.- (Responsabilidad)** La supervisión, seguimiento y evaluación del logro de la finalidad del fideicomiso estará a cargo del Ministerio de Desarrollo Productivo y Economía Plural, así como de sus resultados e impactos.
+
+**Artículo 11°.- (Fuente de reembolso de los recursos fideicomitidos)** 
+
+1. La fuente de los recursos provendrá de la cancelación de los financiamientos otorgados a los beneficiarios.
+2. Una vez recuperados los recursos por parte del Fideicomitente, éstos deberán ser reembolsados al Tesoro General de la Nación - TGN, al finalizar el plazo del fideicomiso.
+3. En caso de que en un plazo de trescientos sesenta (360) días calendario computables desde el desembolso por parte del fideicomitente, no se haya iniciado operaciones por parte del fiduciario, los mismos deberán ser restituidos al TGN de manera inmediata.
+
+**Artículo 12°.- (Reglamentación)** El Reglamento del Fideicomiso será elaborado por el Ministerio de Desarrollo Productivo y Economía Plural en coordinación con el BDP S. A. M., Banco de Segundo Piso.
+
+**Artículo 13°.- (Débito automático a favor del fideicomiso)** 
+
+1. En el marco del inciso a) del Artículo 29 del Presupuesto General del Estado - Gestión 2010, vigente por disposición del Artículo 41 de la [Ley Nº 062](#TODO-link), se autoriza al Ministerio de Economía y Finanzas Públicas para que previa solicitud del Ministerio de Desarrollo Productivo y Economía Plural, pueda realizar débitos automáticos de las cuentas de las entidades públicas, a favor del Fideicomiso, con el objeto de garantizar el cumplimiento de las operaciones descritas en el inciso c) del Artículo 5 del presente Decreto Supremo, así como de precautelar por la integridad del Patrimonio Autónomo constituido con recursos estatales.
+2. El mecanismo de débito automático se activará previa notificación y solicitud de pago por parte del Ministerio de Desarrollo Productivo y Economía Plural a la entidad estatal deudora, una vez cumplidos los plazos de los documentos por cobrar suscritos a favor del proveedor contratado.
+3. Las entidades públicas que contraten con micro y pequeños productores, urbanos o rurales, individuales o asociados beneficiarios de los créditos o de la liquidez a ser otorgados con los recursos del Fideicomiso, deberán priorizar los pagos de las obligaciones adquiridas con los mismos.
+
+**Artículo 14°.- (Control social)** Los micro y pequeños productores, urbanos o rurales, individuales o asociados que accedan a créditos o liquidez a ser otorgados con recursos del fideicomiso, están sujetos a los distintos mecanismos de control social de su asociación, federación, cooperativa o de cualquier otra forma asociativa productiva, para que de acuerdo con sus usos y costumbres, éstas procedan a ejercer mecanismos de control social a los fines de asegurar el cumplimiento en la devolución de los recursos.
+
+**Artículo 15°.- (Autorización para traspaso presupuestario)** Se autoriza al Ministerio de Economía y Finanzas Públicas a afectar el grupo presupuestario correspondiente para realizar el traspaso presupuestario interinstitucional, por el monto señalado en el Artículo 3 del presente Decreto Supremo a favor del Ministerio de Desarrollo Productivo y Economía Plural, para la constitución del presente Fideicomiso.
+
+**Artículo 16°.- (Registro presupuestario)** Los Ministerios de Desarrollo Productivo y Economía Plural y, de Economía y Finanzas Públicas deberán registrar en sus respectivos presupuestos las operaciones y la constitución relacionadas al presente Fideicomiso, y de su resultado, en el marco de la normativa vigente que rige el manejo de los recursos públicos.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Desarrollo Productivo y Economía Plural, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de marzo del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Peréz, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

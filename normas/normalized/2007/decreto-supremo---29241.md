@@ -1,0 +1,53 @@
+# Bolivia: Decreto Supremo Nº 29241, 22 de agosto de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, de Organización del Poder Ejecutivo, establece el número y atribuciones de los Ministros de Estado y otras normas relacionadas con la Organización del Poder Ejecutivo.
+* Que el Artículo 60 del [Decreto Supremo Nº 28631](#TODO-link) de 8 de marzo de 2006, Reglamento a la Ley de Organización del Poder Ejecutivo, determina entre otras funciones del Viceministerio de Pensiones y Servicios Financieros la de formular, proponer y evaluar políticas en materia de pensiones, valores, seguros y servicios financieros.
+* Que el Artículo 61 de la [Ley Nº 1732](#TODO-link) de 29 de noviembre de 1996, de Pensiones, dispone que las personas o entidades que adeudan aportes devengados al régimen de Seguridad Social de Largo Plazo del Sistema de Reparto, podrán cancelar dichas obligaciones presentando Declaraciones Juradas de acuerdo a reglamento.
+* Que el Párrafo tercero del Artículo 61 de la [Ley Nº 1732](#TODO-link), señala que los montos adeudados serán pagados en el plazo de diez (10) años, contando a partir del 1 de enero de 1997, en cuotas iguales y trimestrales, aplicándose el interés legal establecido en el Código Civil. El pago de los montos totales liberará en forma definitiva al deudor de las obligaciones existentes, incluyendo las correspondientes a intereses, multas o recargos de cualquier naturaleza.
+* Que el Artículo 2 del [Decreto Supremo Nº 25177](#TODO-link) de 28 de septiembre de 1998, faculta a la ex Dirección General de Pensiones, ahora Servicio Nacional del Sistema de Reparto - SENASIR, proceder con la fiscalización, revisión y liquidación de los aportes devengados al Sistema de Reparto.
+* Que dentro de los alcances dispuestos por el Artículo 61 de la [Ley Nº 1732](#TODO-link) de 29 de noviembre de 1996 y los Decretos Supremos [Nº 24469](#TODO-link) de 17 de enero de 1997, [Nº 25177](#TODO-link) de 28 de septiembre de 1998, [Nº 25809](#TODO-link) de 8 de junio de 2000, [Nº 26469](#TODO-link) de 22 de diciembre de 2001, [Nº 27236](#TODO-link) de 4 de noviembre de 2003 y [Nº 27598](#TODO-link) de 25 de junio de 2004, en el processo de revisión, fiscalización y determinación de adeudos, se ha podido detectar la existencia de entidades y empresas que no regularizaron en su oportunidad el pago de aportes devengados al Seguro Social de Largo Plazo del Sistema de Reparto, a través de la presentación de Declaraciones Juradas.
+* Que el [Decreto Supremo Nº 27066](#TODO-link) de 6 de junio de 2003, establece entre las facultades del SENASIR, realizar trabajos de fiscalización para la determinación de adeudos por aportes devengados y proceder a su recuperación conforme la normativa legal vigente que rige la materia.
+* Que el Artículo 15 del [Decreto Supremo Nº 27991](#TODO-link) de 28 de enero de 2005, establece que el SENASIR es responsable de realizar la cobranza de las deudas al Sistema de Reparto, debiendo conciliar cuentas con el Ministerio de Hacienda en forma trimestral, proponiendo a dicho Ministerio las medidas más convenientes, conducentes a lograr mayor eficiencia en dicha tarea.
+* Que los aportes devengados al Seguro Social de Largo Plazo, retenidos por los empleadores y no pagados a los ex Entes Gestores en su oportunidad, perjudican la otorgación de prestaciones a los asegurados del Sistema de Reparto.
+* Que siendo responsabilidad del Estado el pago de rentas del Seguro Social de Largo Plazo, es importante brindar instrumentos legales que posibiliten la recuperación de aportes devengados al Sistema de Reparto, de las entidades y empresas deudoras.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES, de 13 de agosto de 2007, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Hacienda.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto complementar la normativa sobre recuperación de aportes devengados al Sistema de Reparto.
+
+**Artículo 2°.- (Alcance)** Están dentro de los alcances de la presente normativa:
+
+1. Las entidades y empresas afiliadas al Sistema de Reparto, identificadas como deudoras a través del proceso de digitalización de Formularios COT - 01 del ex Fondo de Pensiones Básicas - FOPEBA, y/o
+2. Las entidades y empresas identificadas como deudoras a través de los formularios de pago de aportes a los ex - Fondos Complementarios.
+
+**Artículo 3°.- (Excepciones)** Se exceptúa de la presente disposición a:
+
+1. Todas aquellas entidades y empresas que habiéndose acogido a los alcances del Artículo 61 de la [Ley Nº 1732](#TODO-link) de 29 de noviembre de 1996, de Pensiones, y Decretos Supremos inherentes al tema, suscribieron Convenios de Pago, habiendo incumplido total o parcialmente dichos Convenios.
+2. Las entidades y empresas que tienen Notas de Cargo giradas y que se encuentren con Procesos Coactivos Sociales en curso o con fallos ejecutoriados.
+
+**Artículo 4°.- (Del plazo)** A partir de la notificación oficial con el importe de la deuda establecida en el proceso de auditoría de fiscalización, realizada por el Servicio Nacional del Sistema de Reparto - SENASIR, las entidades y empresas deudoras comprendidas en el Artículo 2 de la presente norma, tienen un plazo máximo de tres (3) años para cumplir con el pago de sus obligaciones al Sistema de Reparto, que incluye multas, intereses y accesorios que correspondan, debiendo suscribir un Convenio de Pago.
+
+**Artículo 5°.- (Incumplimiento)** Independientemente de las sanciones establecidas en el Convenio de Pago por incumplimiento de obligaciones, colateralmente se aplicará la siguiente acción: En caso de incumplimiento total o parcial del Convenio de Pago, éste quedará resuelto en la vía administrativa, sin necesidad de intervención judicial. El SENASIR, girará la Nota de Cargo correspondiente, considerando la obligación de plazo vencido, suma líquida y exigible en su totalidad, debiendo iniciarse el cobro por la vía Coactiva Social, incluyendo los recargos de Ley.
+
+**Artículo 6°.- (Notificación de deuda)** A partir de la publicación de la presente disposición, el SENASIR, en un plazo no mayor a tres (3) años, deberá efectuar el total de notificaciones a las entidades o empresas identificadas como deudoras, señaladas en el Artículo 2 de la presente norma.
+
+**Artículo 7°.- (Reglamentación)** Se autoriza al SENASIR, elaborar en un plazo de cuarenta y cinco (45) días calendario, el reglamento a la presente disposición, el mismo que estará sujeto a la aprobación por parte del Ministro de Hacienda.
+
+**Artículo 8°.- (Vigencia de normas)** Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado, en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de agosto del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA É INTERINO DE DEFENSA NACIONAL, Alfredo Octavio Rada Vélez MINISTRO DE GOBIERNO É INTERINO DE RR. EE. Y CULTOS, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez, Susana Rivero Guzmán, Carlos Villegas Quiroga, Luis Alberto Echazú Alvarado, Walter Delgadillo Terceros, María Magdalena Cajías de la Vega, Nila Heredia Miranda.

@@ -1,0 +1,114 @@
+# Bolivia: Reglamento de contratación de profesionales abogados individuales o consorcios nacionales o extranjeros, 30 de mayo de 2011
+
+ANEXO AL [Decreto Supremo Nº 0888](#TODO-link)
+  
+REGLAMENTO DE CONTRATACIÓN DE PROFESIONALES ABOGADOS INDIVIDUALES O CONSORCIOS NACIONALES O EXTRANJEROS
+
+## Capítulo I Régimen general
+
+**Artículo 1°.- (Objeto)** El presente Reglamento regula el procedimiento de Contratación por Comparación de Ofertas de Profesionales Abogados Individuales o Consorcios Nacionales o Extranjeros, aplicable a la Procuraduría General del Estado.
+
+**Artículo 2°.- (Convocatoria para la contratación por comparación de ofertas)** La contratación por Comparación de Ofertas se convocará mediante una o ambas de las siguientes formas:
+
+1. Invitación expresa efectuada a por lo menos tres (3) proponentes.
+2. Publicación de una convocatoria en medios de comunicación de circulación nacional o internacional, según corresponda; así como en la página web institucional.
+
+**Artículo 3°.- (Prestación del servicio)** Para la Contratación por Comparación de Ofertas se considerarán las siguientes modalidades:
+
+1. *Prestación de servicio discontinuo*.- Contemplará la prestación de servicios de manera discontinua y a requerimiento de la Procuraduría General del Estado durante la vigencia del contrato, con límites máximos de remuneración y precios medidos en unidades de tiempo.
+2. *Prestación de servicio con monto definido*.- Contemplará un precio fijo que será pagado de acuerdo al trabajo efectuado. Asimismo, se podrán estipular costos fijos por etapas procesales o resultados obtenidos.
+
+**Artículo 4°.- (Garantías de cumplimiento de contrato)** Para el caso de lo dispuesto en el inciso b) del Artículo precedente, se requerirá alternativamente una de las siguientes garantías:
+
+1. Boleta de Garantía. Emitida por cualquier entidad de intermediación financiera bancaria o no bancaria regulada y autorizada por la Autoridad de Supervisión del Sistema Financiero.
+2. Retención del diez por ciento (10%) de cada pago.
+
+**Artículo 5°.- (Contenido del documento base de contratación por comparación de ofertas)** El Documento Base de Contrataciones - DBC por Comparación de Ofertas, es el instrumento que establece los aspectos administrativos, técnicos y legales del proceso de contratación, y deberá contener como mínimo los siguientes datos:
+
+1. Objeto y Descripción de la Contratación.
+2. Términos de Referencia.
+3. Precio Referencial.
+4. Método de Calificación.
+5. Recepción de Propuestas.
+6. Garantías requeridas, si corresponde.
+7. Experiencia General y Específica.
+8. Documentación requerida a los Proponentes.
+
+## Capítulo II Participantes del proceso de contratación
+
+**Artículo 6°.- (Participantes del proceso de contratación)** Los principales participantes del proceso de contratación son:
+  
+*Máxima Autoridad Ejecutiva - MAE*.- Designa al RPC para cada proceso de contratación o para todos los procesos de la gestión. La suscripción del contrato deberá ser efectuada por la MAE o por la Autoridad a quien haya delegado su representación de forma expresa.
+  
+*Responsable del Proceso de Contratación - RPC*.- Autoriza el inicio del proceso de contratación, aprueba el DBC y adjudica el Contrato o declara desierto el proceso de contratación. Es designado por la MAE.
+  
+*Unidad Solicitante - US*.- Solicita la contratación, elabora los Términos de Referencia, establece el Precio Referencial, y emite los informes correspondientes para la procedencia de pagos parciales y pago final.
+  
+*Comisión de Calificación - CC*.- Procede a la recepción, apertura, evaluación y calificación de ofertas y emite recomendación de adjudicación o de declaratoria desierta. Está conformada por uno o más representantes de la Dirección General de Asuntos Administrativos y uno o más representantes de la Unidad Solicitante.
+  
+*Dirección General de Asuntos Administrativos - DGAA*.- Elabora el DBC, emite la Certificación Presupuestaria, administra, custodia y solicita la renovación de las garantías y las ejecuta, previa elaboración de informes técnico y legal de las áreas competentes.
+  
+*Dirección General de Asuntos Jurídicos - DGAJ*.- Elabora el contrato revisando la legalidad de la documentación original y/o legalizada, elabora y visa todas las Resoluciones Administrativas del RPC.
+  
+*Proponentes - Ps*.- Son personas naturales o jurídicas, nacionales o extranjeras, que presentan ofertas dentro del proceso de contratación.
+
+**Artículo 7°.- (Veedor)** El RPC, una vez iniciado el proceso de contratación, podrá invitar al Jefe de la Unidad de Transparencia de la Procuraduría General del Estado, para que presencie el proceso en calidad de veedor.
+
+**Artículo 8°.- (Habilitación de días y horas extraordinarias)** En razón a la urgencia y necesidad de las contrataciones, la MAE, mediante resolución expresa, podrá habilitar días y horas extraordinarias, entendiéndose como tales los días sábado, domingo, feriados y horas no administrativas, a fin de que se desarrollen con normalidad las actividades del proceso de contratación.
+
+**Artículo 9°.- (Plazos)** Los plazos para los procesos de contratación serán establecidos por el RPC, de acuerdo con la naturaleza de cada caso.
+
+## Capítulo III Procedimiento de contratación
+
+**Artículo 10°.- (Procedimiento)** El procedimiento para el proceso de contratación es el siguiente:
+
+1. La Unidad Solicitante establecerá, previa justificación técnica, la necesidad de contratación y elaborará los Términos de Referencia determinando la forma de prestación del servicio.
+2. La Dirección General de Asuntos Administrativos elaborará el DBC por Comparación de Ofertas y emitirá la certificación presupuestaria.
+3. Elaborado el DBC por Comparación de Ofertas, el RPC mediante resolución administrativa autorizará el inicio del proceso de contratación.
+4. La Dirección General de Asuntos Administrativos invitará a proponentes o publicará la convocatoria, según lo previsto en el Artículo 2 del presente Reglamento.
+5. La recepción y apertura de ofertas se efectuará por la Comisión de Calificación en acto público en la fecha y hora determinadas en el DBC. Las ofertas se registrarán en un Libro de Actas donde se consignará el nombre o razón social del proponente, fecha y hora de recepción, debiendo extenderse un comprobante de recepción al proponente. Cerrada la hora límite para la presentación de ofertas no se recibirá ninguna otra.
+6. La Comisión de Calificación, una vez cerrada la hora límite para la presentación de ofertas, de inmediato realizará la apertura y evaluación de cada una de ellas y sesionará obligatoriamente de manera continua e ininterrumpida con la asistencia de todos sus integrantes, y sus decisiones se tomarán por mayoría de votos. La votación será expresa, afirmativa o negativa y no se admitirán abstenciones.
+     
+   La Comisión de Calificación evaluará las ofertas de acuerdo a lo establecido en el DBC.
+     
+   Para la contratación de profesionales abogados individuales o consorcios nacionales, se deberá exigir que en la propuesta se presente la Solvencia Fiscal emitida por la Contraloría General del Estado.
+     
+   En el caso de la contratación de profesionales abogados individuales o consorcios extranjeros, será necesaria una Declaración Jurada de inexistencia de impedimentos efectuada ante la Embajada o Consulado acreditado en el país de origen de los proponentes.
+7. El RPC emitirá la Resolución de Adjudicación o de Declaratoria Desierta, que será comunicada a todos los proponentes y a la MAE.
+
+**Artículo 11°.- (Contrato)** 
+
+1. La contratación se formalizará mediante la suscripción del contrato, previa presentación de los documentos establecidos en el DBC por Comparación de Ofertas. Estos contratos son de naturaleza administrativa y se rigen por la legislación boliviana, debiendo ser suscritos en idioma castellano.
+2. Los profesionales abogados individuales o consorcios de abogados nacionales o extranjeros contratados, podrán proponer a la Procuraduría General del Estado, la contratación de profesionales de apoyo que sean necesarios para la defensa de los intereses del Estado Plurinacional de Bolivia, y cuya selección se basará en su experiencia técnica y solvencia profesional. Estos profesionales serán contratados previa autorización expresa del contratante y sus honorarios profesionales serán cubiertos por el contratista.
+
+**Artículo 12°.- (Protocolización del contrato)** 
+
+1. Los contratos suscritos serán protocolizados por ante la Notaria de Gobierno, en el caso de contrataciones realizadas en territorio boliviano y en el caso de contrataciones realizadas en el extranjero, ante la misión diplomática o consular de Bolivia en el país donde se suscriba el contrato. El costo del trámite es de responsabilidad del contratista en ambos casos.
+2. La falta de protocolización del contrato no afectará la validez y el cumplimiento de las obligaciones contractuales.
+
+**Artículo 13°.- (Modificaciones al contrato)** 
+
+1. Las modificaciones al Contrato deberán estar destinadas al cumplimiento del objeto de la contratación, y ser sustentadas por informe técnico y legal que establezca su viabilidad. Se aplicará para aquellos procesos cuya tramitación no hubiese concluido.
+2. Las modificaciones al Contrato podrán efectuarse mediante contrato modificatorio, cuando éstas afecten el alcance, monto y/o plazo del Contrato, sin dar lugar al incremento de los precios unitarios.
+3. Se podrá realizar uno o varios contratos modificatorios que sumados no deberán exceder el cien por ciento (100%) del monto del Contrato Principal.
+
+**Artículo 14°.- (Órganos de control)** Suscrito el contrato, deberá ser remitido a la Contraloría General del Estado, conforme a la normativa vigente.
+
+## Capítulo IV Otros aspectos del proceso de contratación
+
+**Artículo 15°.- (Gastos reembolsables)** De acuerdo a lo establecido por el DBC, la Procuraduría General del Estado podrá reconocer y reembolsar el pago por gastos de fotocopias, pasajes y reportes telefónicos que sean indispensables para la prestación del servicio, los que deberán ser debidamente respaldadas con facturas. Estos gastos deberán ser dispuestos en el marco de la austeridad gubernamental.
+
+**Artículo 16°.- (Cancelación, anulación o suspensión del proceso de contratación)** El proceso de contratación podrá ser cancelado, anulado o suspendido por el RPC mediante resolución administrativa, técnica y legalmente motivada, hasta antes de la suscripción del contrato. La Procuraduría General del Estado, en estos casos, no asumirá responsabilidad alguna respecto a los proponentes afectados por esta decisión.
+
+**Artículo 17°.- (Anticorrupción)** 
+
+1. Será causal suficiente para el rechazo de la propuesta o resolución del contrato, el ofrecimiento de dinero o dádiva a un servidor público relacionado con el proceso de contratación o la prestación del servicio. Este hecho será denunciado al Ministerio Público para su procesamiento de acuerdo al Código de Procedimiento Penal, al constituirse en un delito tipificado en la legislación penal boliviana.
+2. Sin perjuicio de lo indicado en el Parágrafo precedente, en el caso de profesionales o consorcios extranjeros, la MAE podrá también presentar denuncia ante las autoridades del país al que pertenezca el denunciado.
+
+**Artículo 18°.- (Control del procedimiento contractual)** Toda persona que acredite algún interés, podrá en cualquier momento, conocer el proceso de contratación, desde la apertura de las propuestas, hasta la finalización del contrato.
+
+---
+
+Reglamento Anexo al [Decreto Supremo Nº 0888](#TODO-link), promulgado a los treinta días del mes de mayo del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, María Cecilia Chacón Rendón, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, José Luis Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

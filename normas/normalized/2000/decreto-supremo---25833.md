@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 25833, 6 de julio de 2000
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante [Decreto Supremo Nº 25445](#TODO-link) de 25 de junio de 1999, se autorizó por la gestión 1999 la cancelación del “Viático de Vacunación” a favor de los servidores públicos afiliados a la Confederación Sindical de Trabajadores en salud de Bolivia con cargo a la partida 22200 “Viáticos” del presupuesto de esa gestión tanto del Ministerio de Salud y Previsión Social como las Prefecturas Departamentales, en la suma unitaria de Bs.484.00, imputable al primero del monto de Bs.300.00 y al segundo Bs.184.00, de conformidad al convenio suscrito por el Supremo Gobierno con el organismo sindical;
+* Que en atención a la asistencia de trabajo extraordinario de los trabajadores en Salud que participan en campañas de vacunación durante toda la gestión, el Estado vino reconociendo a través del Ministerio de Salud y Previsión Social y Prefecturas Departamentales una única asignación que se denominó “Viático de Vacunación” y que a partir de ahora en adelante se conocerá como “Asignación por Campañas de Vacunación”, conforme a convenio con los trabajadores del sector;
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza el pago único de Bs.600.- (SEISCIENTOS 00/100 BOLIVIANOS), como “Asignación por Campaña de Vacunación” por la gestión 2000, en favor de los servidores públicos, dependientes del Ministerio de Salud y Previsión Social y de los Servicios Departamentales de Salud, de acuerdo a procedimientos preestablecidos por el Ministerio de Salud y Previsión Social.
+
+**Artículo 2°.-** El pago de este beneficio será cofinanciado entre el Ministerio de Salud y Previsión Social con Bs.416 (CUATROCIENTOS dieciséis 00/100 BOLIVIANOS) por persona con recursos del 5% que recibe de las entidades de Seguridad Social Públicas, establecido en el artículo 27 de la [Ley Nº 2042](#TODO-link) y las Prefecturas Departamentales con Bs.184.- (CIENTO OCHENTA Y CUATRO 00/100 BOLIVIANOS) por persona, con sus recursos propios.
+
+**Artículo 3°.-** Conforme a la [Ley Nº 843](#TODO-link), para efectos del RC-IVA los beneficiarios de este emolumento obtendrán el crédito a través del Formulario 101 del SNII, con la presentación de facturas o notas fiscales.
+
+**Artículo 4°.-** Se faculta al Ministerio de Salud y Previsión Social y de Hacienda aprobar por resolución expresa, las modificaciones presupuestarías emergentes de la aplicación del presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado, en los despachos de Hacienda y de Salud y Previsión Social, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los seis días del mes de julio del año dosmil.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Walter Guiteras Denis, Guillermo Fortún Suárez, Oscar Vargas Lorenzetti, Ronald Mac Lean Abaroa, Juan Antonio Chahin Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vásquez Villamor, Oswaldo Antezana Vaca Diez, José Luis Carvajal Palma, Carlos Saavedra Bruno, Rubén Poma Rojas, Manfredo Kempff Suárez.

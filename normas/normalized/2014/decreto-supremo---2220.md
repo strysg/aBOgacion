@@ -1,0 +1,67 @@
+# Bolivia: Decreto Supremo Nº 2220, 17 de diciembre de 2014
+
+[Decreto Supremo Nº 2220](#TODO-link)  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 4 del Parágrafo II del Artículo 311 de la [Constitución Política del Estado](#TODO-link), determina que el Estado podrá intervenir en toda la cadena productiva de los sectores estratégicos, buscando garantizar su abastecimiento para preservar la calidad de vida de todas las bolivianas y bolivianos.
+* Que el Parágrafo II del Artículo 348 del Texto Constitucional, establece que los recursos naturales son de carácter estratégico y de interés público para el desarrollo del país.
+* Que el Parágrafo I del Artículo 351 de la [Constitución Política del Estado](#TODO-link), dispone que el Estado asumirá el control y la dirección sobre la exploración, explotación, industrialización, transporte y comercialización de los recursos naturales estratégicos a través de entidades públicas.
+* Que el Artículo 360 del Texto Constitucional, señala que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética.
+* Que el Parágrafo I del Artículo 361 de la [Constitución Política del Estado](#TODO-link), establece que Yacimientos Petrolíferos Fiscales Bolivianos - YPFB es una empresa autárquica de derecho público, inembargable, con autonomía de gestión administrativa, técnica y económica, en el marco de la política estatal de hidrocarburos. YPFB, bajo tuición del Ministerio del ramo y como brazo operativo del Estado, es la única facultada para realizar las actividades de la cadena productiva de hidrocarburos y su comercialización.
+* Que el [Decreto Supremo Nº 28701](#TODO-link), de 1 de mayo de 2006, “Héroes del Chaco”, dispone la nacionalización de los recursos naturales Hidrocarburíferos del país. El Estado recupera la propiedad, la posesión y el control total y absoluto de estos recursos.
+* Que el Artículo 2 del [Decreto Supremo Nº 28701](#TODO-link), señala que a partir del 1 de mayo del 2006, las empresas petroleras que actualmente realizan actividades de producción de gas y petróleo en el territorio nacional, están obligadas a entregar en propiedad a YPFB, toda la producción de hidrocarburos. YPFB, a nombre y en representación del Estado, en ejercicio pleno de la propiedad de todos los hidrocarburos producidos en el país, asume su comercialización, definiendo las condiciones, volúmenes y precios tanto para el mercado interno, como para la exportación y la industrialización.
+* Que el Artículo 7 del [Decreto Supremo Nº 28701](#TODO-link), dispone que el Estado, recupera su plena participación en toda la cadena productiva del sector de hidrocarburos. Asimismo, se nacionalizan las acciones necesarias para que YPFB controle como mínimo el cincuenta por ciento (50%) más uno (1) en las empresas Chaco S. A., Andina S. A., Transredes S. A., Petrobras Bolivia Refinación S. A. y Compañía Logística de Hidrocarburos de Bolivia S. A.
+* Que el [Decreto Supremo Nº 29486](#TODO-link), de 26 de marzo de 2008, establece el 30 de abril de 2008 como fecha definitiva para concluir negociaciones, suscribir documentos de trasferencia y acuerdos necesarios, para la adquisición de las acciones de Chaco S. A., entre otras, conforme a lo dispuesto en el Parágrafo II del Artículo 7 del [Decreto Supremo Nº 28701](#TODO-link).
+* Que el [Decreto Supremo Nº 29541](#TODO-link), de 1 de mayo de 2008, tiene como objeto concretar la adquisición por parte del Estado Boliviano de al menos el cincuenta por ciento (50%) más uno (1) del paquete accionario, entre otras, de la sociedad Empresa Petrolera Chaco Sociedad Anónima.
+* Que el [Decreto Supremo Nº 29888](#TODO-link), de 23 de enero de 2009, dispone la nacionalización de la totalidad de las acciones que corresponden a Amoco Bolivia Oíl & Gas AB en la Empresa Petrolera Chaco Sociedad Anónima, disponiendo la titularidad de dichas acciones en favor de YPFB.
+* Que a requerimiento de YPFB la empresa Credibility Consulting LLC, empresa internacional con experiencia reconocida, realizó el estudio sobre el Estado de Situación de la Empresa Petrolera Chaco S. A. considerando dicho estudio, YPFB realizó la valuación del paquete accionario de Pan American Energy LLC en la Empresa Petrolera Chaco S. A., obteniendo un valor de indemnización efectiva por la nacionalización de las acciones de la Empresa Amoco Bolivia Oíl & Gas AB en la Empresa Petrolera Chaco S. A., basado en el Valor Patrimonial Proporcional al 31 de diciembre de 2008 y los resultados hasta el 22 de enero de 2009.
+* Que la Procuraduría General del Estado a través del Informe N° 374/2014, de 8 de diciembre de 2014, Informe de Solución Definitiva de la Controversia y Terminación de Arbitraje Internacional de Inversiones por Avenencia: Caso CIADI N° ARB/10/8: Pan American Energy LLC c. Estado Plurinacional de Bolivia; recomienda la suscripción, en los términos establecidos en el principio de acuerdo, del Contrato Transaccional de Solución Definitiva de Controversia, Terminación de Arbitraje Internacional de Inversiones, Reconocimiento de Derechos, y Liberación General y Recíproca de Obligaciones, para la solución de la controversia y la consolidación del proceso de nacionalización de la empresa petrolera Chaco S. A.
+* Que se hace necesario establecer los mecanismos y condiciones para que el Estado Plurinacional de Bolivia concluya la nacionalización de las inversiones de Pan American Energy LLC, que indirectamente poseía en Chaco S. A. a través de Amoco Bolivia mil & Gas AB y la participación directa o indirecta que Chaco S. A. tenga en otras compañías, sean subsidiarias o filiales.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** 
+
+1. Se autoriza al Ministro de Hidrocarburos y Energía y al Presidente Ejecutivo interino de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB a suscribir con la empresa Pan American Energy LLC, el “Contrato transaccional de solución definitiva de controversia, terminación de arbitraje internacional de inversiones, reconocimiento de derechos y liberación general y recíproca de obligaciones”, reconociendo como indemnización efectiva en favor de la empresa Pan American Energy LLC la suma de $us357.023.360.- (TRESCIENTOS CINCUENTA Y siete MILLONES VEINTITRÉS mil TRESCIENTOS SESENTA 00/100 DÓLARES ESTADOUNIDENSES).
+2. El Contrato Transaccional representa la indemnización por la nacionalización de las acciones de Pan American Energy LLC, que indirectamente poseía en Chaco S. A. a través de Amoco Bolivia mil & Gas AB y la participación directa o indirecta que Chaco S. A. tenga en otras compañías, sean subsidiarias o filiales; y la renuncia expresa de Pan American Energy LLC., por sí misma y a nombre de sus subsidiarias, empresas filiales, matrices, controlantes y/o controladas, a cualquier reclamación posterior. Asimismo, el Contrato transaccional representa la consolidación definitiva para el Estado boliviano de la Empresa Petrolera Chaco S. A. nacionalizada.
+
+**Artículo 2°.-** al momento de efectuar el pago de la indemnización dispuesta en el Artículo 1 del presente Decreto Supremo, se retendrán $us32.520.375.- (TREINTA Y DOS MILLONES QUINIENTOS VEINTE mil TRESCIENTOS SETENTA Y CINCO 00/100 DÓLARES ESTADOUNIDENSES), resultante de las contingencias tributarias, laborales y medio ambientales, netas de las previsiones contables registradas al 22 de enero de 2009, en proporción a la participación que poseía indirectamente Pan American Energy LLC en el paquete accionario de la Empresa Petrolera Chaco S. A.
+
+**Artículo 3°.-** Se instruye a YPFB a pagar el monto establecido en el Parágrafo I del Artículo 1 del presente Decreto Supremo, al momento de la suscripción del referido “Contrato transaccional de solución definitiva de controversia, finalización de arbitraje internacional de inversiones, reconocimiento de derechos, y liberación general y recíproca de obligaciones”.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo derogatorio Único.-** Se deroga el Parágrafo III del Artículo 2 y el Artículo 4 del [Decreto Supremo Nº 29888](#TODO-link), de 23 de enero de 2009.
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+# Disposiciones finales
+
+**Artículo final 1°.-** De conformidad a lo establecido en el Artículo 2 del presente Decreto Supremo, se autoriza a YPFB realizar la constitución de un fideicomiso, en calidad de fideicomitente, por la suma de $us32.520.375.- (TREINTA Y DOS MILLONES QUINIENTOS VEINTE mil TRESCIENTOS SETENTA Y CINCO 00/100 DÓLARES ESTADOUNIDENSES) a ser administrado por el Banco Central de Bolivia - BCB, en su calidad de fiduciario, a favor de los Beneficiarios, de conformidad a las condiciones pactadas en el “Contrato transaccional de solución definitiva de controversia, terminación de arbitraje internacional de inversiones, reconocimiento de derechos, y liberación general y recíproca de obligaciones” a ser suscrito entre el Estado boliviano y Pan American Energy LLC; y el “Contrato de Constitución de Fideicomiso” a ser suscrito entre YPFB en su calidad de Fideicomitente, el BCB en su calidad de Fiduciario, YPFB Chaco y Pan American Energy LLC en su calidad de beneficiarios, en el marco del presente Decreto Supremo.
+
+**Artículo final 2°.-** Los beneficiarios del fideicomiso según corresponda serán:
+
+1. La empresa Pan American Energy LLC; y
+2. La empresa YPFB Chaco S. A.
+
+**Artículo final 3°.-** Todos los aspectos relativos a la operación y administración del Fideicomiso, así como la remuneración del Fiduciario, serán establecidos en el Contrato de Constitución de Fideicomiso.
+
+**Artículo final 4°.-** Se autoriza a YPFB transferir, de manera definitiva, al BCB en calidad de fiduciario, los recursos señalados en la Disposición Final Primera, a través de la suscripción de un Contrato de Constitución de Fideicomiso.
+
+**Artículo final 5°.-** YPFB será la entidad encargada de la supervisión, seguimiento y evaluación de cumplimiento de la finalidad del Contrato de Constitución de Fideicomiso.
+
+**Artículo final 6°.-** Se autoriza a YPFB y al Ministerio de Economía y Finanzas Públicas a realizar las gestiones administrativas y financieras para el registro del monto de indemnización efectiva en el Presupuesto de YPFB de la presente gestión.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Hidrocarburos y Energía, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de diciembre del año dos mil catorce.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga, Jorge Perez Valenzuela MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE SALUD, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo MINISTRO DE CULTURAS Y TURISMO E INTERINO DE DEPORTES, Amanda Dávila Torres.

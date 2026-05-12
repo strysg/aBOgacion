@@ -1,0 +1,109 @@
+# Bolivia: Decreto Supremo Nº 4489, 21 de abril de 2021
+
+[Decreto Supremo Nº 4489](#TODO-link)  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 33 de la [Constitución Política del Estado](#TODO-link), determina que las personas tienen derecho a un medio ambiente saludable, protegido y equilibrado. El ejercicio de este derecho debe permitir a los individuos y colectividades de las presentes y futuras generaciones, además de otros seres vivos, desarrollarse de manera normal y permanente.
+* Que el numeral 6 del Parágrafo II del Artículo 298 del Texto Constitucional, establece como competencia exclusiva del nivel central del Estado el régimen general de biodiversidad y medio ambiente.
+* Que Artículo 342 de la [Constitución Política del Estado](#TODO-link), dispone que es deber del Estado y de la población conservar, proteger y aprovechar de manera sustentable los recursos naturales y la biodiversidad, así como mantener el equilibrio del medio ambiente.
+* Que el Artículo 383 del Texto Constitucional, señala que el Estado establecerá medidas de restricción parcial o total, temporal o permanente, sobre los usos extractivos de los recursos de la biodiversidad. Las medidas estarán orientadas a las necesidades de preservación, conservación, recuperación y restauración de la biodiversidad en riesgo de extinción. Se sancionará penalmente la tenencia, manejo y tráfico ilegal de especies de la biodiversidad.
+* Que el numeral 4 del Artículo 4 de la [Ley Nº 300](#TODO-link), de 15 de octubre de 2012, Marco de la Madre Tierra y Desarrollo Integral para Vivir Bien, establece el principio precautorio, por el cual el Estado Plurinacional de Bolivia y cualquier persona individual o colectiva se obliga a prevenir y/o evitar de manera oportuna eficaz y eficiente los daños a los componentes de la Madre Tierra incluyendo el medio ambiente, la biodiversidad, a la salud humana y a los valores culturales intangibles, sin que se pueda omitir o postergar el cumplimiento de esta obligación alegando la falta de certeza científica y/o falta de recursos.
+* Que el numeral 5 del Artículo 5 de la [Ley Nº 300](#TODO-link), define a la Diversidad Biológica como la variabilidad de los organismos vivos de cualquier fuente incluidos, entre otras cosas, los ecosistemas terrestres y marinos y otros ecosistemas acuáticos, así como los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas.
+* Que el Artículo 34 de la [Ley Nº 300](#TODO-link), señala que son encargadas de proteger los derechos de la Madre Tierra, sus sistemas de vida y sus componentes, en el marco del desarrollo integral para Vivir Bien, las autoridades públicas administrativas y jurisdiccionales en función a sus competencias.
+* Que el Artículo 57 de la [Ley Nº 1333](#TODO-link), de 27 de abril de 1992, dispone que los organismos competentes normarán, fiscalizarán y aplicarán los procedimientos y requerimientos para permisos de caza, recolección, extracción y comercialización de especies de fauna, flora, de sus productos, así como el establecimiento de vedas.
+* Que el Artículo 99 de la [Ley Nº 1333](#TODO-link), establece que las contravenciones a los preceptos de la citada Ley y las disposiciones que de ella deriven serán consideradas como infracciones administrativas, cuando ellas no configuren un delito. Estas violaciones serán sancionadas por la autoridad administrativa competente y de conformidad con el reglamento correspondiente.
+* Que el Estado y la sociedad en su conjunto, deben proteger la fauna silvestre en cumplimiento de los mandatos constitucionales y legales relacionados con la biodiversidad, por lo que es necesaria la emisión de una norma que promueva el cumplimiento y la protección de los derechos conferidos a otros seres vivos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto la protección de la fauna silvestre, en el marco de la competencia exclusiva del nivel central de Estado, referida al régimen general de biodiversidad y medio ambiente, la [Ley Nº 300](#TODO-link), de 15 de octubre de 2012, Marco de la Madre Tierra y Desarrollo Integral para Vivir Bien y la [Ley Nº 1333](#TODO-link), de 27 de abril de 1992.
+
+**Artículo 2°.- (Definiciones)** A efectos de la aplicación del presente Decreto Supremo, se establecen las siguientes definiciones:
+
+1. Bienestar Animal: Es el estado por el cual, los animales están sanos y bien alimentados, no sufren emociones negativas tales como el dolor y el miedo crónico, causadas por el ser humano y pueden expresar conductas normales propias de la especie;
+2. Biodiversidad: Es la variabilidad de los organismos vivos de cualquier fuente, incluidos, entre otras cosas, los ecosistemas terrestres y marinos y otros ecosistemas acuáticos, así como los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
+3. Centros de Custodia de Fauna Silvestre: Son recintos públicos o privados, sin fines de lucro, considerados como unidades de conservación, avocados a la protección y conservación de la fauna silvestre rescatada y puesta bajo su custodia por las autoridades ambientales competentes;
+4. Fauna: Todos aquellos organismos pluricelulares que se nutren de sustancias elaboradas por otros seres vivos, las cuales consiguen desplazándose hacia ellas o, en las especies sésiles, atrayéndolas hacia sí; generalmente están dotados de capacidad de movimiento, sistema nervioso, conciencia y órganos sensoriales que los permiten concebir emociones;
+5. Fauna Silvestre: Conjunto de animales vertebrados e invertebrados que forman parte de especies que no han sufrido un manejo generacional selectivo por el hombre, pueden o no requerir de su ciudado para sobrevivir, son componentes de la Madre Tierra y forman parte de la Biodiversidad.
+
+**Artículo 3°.- (Protección de la fauna silvestre)** 
+
+1. La protección de la fauna silvestre es de interés nacional y debe ser tenida como el conjunto de acciones ejecutadas con el objetivo de resguardar su vida y bienestar, en sujeción a las disposiciones legales aplicables.
+2. El Estado y la sociedad, en el marco de sus competencias y obligaciones, deben asumir prioritariamente las medidas y acciones que sean necesarias para la protección de la fauna silvestre.
+3. La fauna silvestre no puede ser considerada como cosa o mercancía, sino más bien como un conjunto de seres vivos que comparten el planeta con el ser humano y que cumplen funciones ambientales para la continuidad de la vida, susceptibles de aprovechamiento integral de acuerdo a la normativa vigente.
+
+**Artículo 4°.- (Bienestar, conservación y preservación de la fauna silvestre)** 
+
+1. La protección de la fauna silvestre involucra asegurar su bienestar, conservación y preservación, respetando su derecho a vivir libre en su propio ambiente aéreo, acuático o terrestre, y a reproducirse en su medio natural.
+2. En caso de custodia responsable y manejo integral, se deberá proporcionar a la fauna silvestre mínimamente las siguientes condiciones:
+   1. Acceso continuo a agua y alimentación que mantenga una salud y vigor acorde a la especie;
+   2. Un ambiente apropiado según su especie;
+   3. Prevención y atención de enfermedades;
+   4. Manejo y tratamiento que impidan el sufrimiento físico, mental y el estrés de los animales.
+3. El rescate de animales silvestres vivos de actividades y establecimientos que incumplan las previsiones del presente Decreto Supremo, así como el control y el monitoreo de actividades relacionadas con la fauna silvestre, deben ser tenidas como acciones obligatorias por parte de la sociedad y del Estado, en el marco de sus competencias, funciones y atribuciones.
+
+**Artículo 5°.- (Prohibiciones)** Con el objeto de proteger a la fauna silvestre, se prohíben las siguientes actividades en todo el territorio nacional:
+
+1. La caza deportiva;
+2. El comercio de especímenes silvestres en contravención a las disposiciones sanitarias, de aprovechamiento, de manejo y de bienestar animal;
+3. La tenencia de animales silvestres como mascotas;
+4. La promoción y ejecución de peleas de animales de especies silvestres;
+5. Actividades de entretenimiento que involucren afectación a la fauna silvestre.
+
+**Artículo 6°.- (Funciones del Ministerio de Medio Ambiente y Agua)** En el marco del presente Decreto Supremo, el Ministerio de Medio Ambiente y Agua tiene las siguientes funciones:
+
+1. Establecer regulaciones técnicas respecto al uso y aprovechamiento integral de fauna silvestre, como parte del régimen general de biodiversidad, debiendo precautelarse el bienestar, la vida y la dignidad animal;
+2. Diseñar directrices, guías y manuales para apoyar la implementación de la gestión de la biodiversidad;
+3. Implementar programas o proyectos para la lucha contra el tráfico ilegal de fauna silvestre.
+
+**Artículo 7°.- (Entidades Territoriales Autónomas)** El Ministerio de Medio Ambiente y Agua, promoverá la participación de las Entidades Territoriales Autónomas en la gestión de la biodiversidad para la protección de los animales, en el marco de las respectivas competencias y en función a convenios intergubernativos u otros instrumentos pertinentes.
+
+**Artículo 8°.- (Centros de custodia de fauna silvestre)** 
+
+1. El manejo responsable de la fauna silvestre en los centros de custodia, debe involucrar actividades de atención, rehabilitación, investigación científica y re-introducción de animales rescatados, así como de educación y sensibilización, respecto a la conservación y protección de la fauna silvestre, siendo su funcionamiento prioritario para la gestión de la biodiversidad.
+2. El Ministerio de Medio Ambiente y Agua, podrá coadyuvar en las gestiones realizadas por los centros de custodia, a fin de que la fauna silvestre cuente con los alimentos, medicamentos, insumos, materiales y servicios necesarios.
+
+**Artículo 9°.- (Sociedad civil)** 
+
+1. Todas las personas que habitan en el territorio nacional, tienen las siguientes responsabilidades:
+   1. Defender y respetar a los animales silvestres;
+   2. Asumir prácticas y hábitos que promuevan el respeto a la fauna silvestre;
+   3. Promover y difundir valores y principios acordes con el respeto y la defensa de la fauna silvestre;
+   4. Denunciar ante la Policía Boliviana, Ministerio Público, las Fuerzas Armadas o instancias pertinentes de las Entidades Territoriales Autónomas, el conocimiento de hechos que podrían contravenir la normativa de protección a la fauna silvestre.
+2. Para el cumplimiento del inciso d) del Parágrafo precedente, las Fuerzas Armadas una vez tomado conocimiento del hecho, estarán facultadas para el rescate de los especímenes involucrados y conducir a los posibles responsables del hecho ante la Policía Boliviana, Ministerio Público o Autoridades Competentes, para proceder según normativa vigente.
+
+**Artículo 10°.- (Infracciones administrativas)** Sin perjuicio de las responsabilidades en materia penal y en el marco del Artículo 99 de la [Ley Nº 1333](#TODO-link), se establecen las siguientes infracciones administrativas:
+
+1. Incumplir las consideraciones sobre bienestar animal, previstas en el Parágrafo II del Artículo 4 del presente Decreto Supremo;
+2. Incurrir en alguna de las prohibiciones estipuladas en el Artículo 5 del presente Decreto Supremo.
+
+**Artículo 11°.- (Sanciones administrativas)** Por la comisión de las infracciones administrativas establecidas en el Artículo 10 del presente Decreto Supremo, se aplicarán las siguientes sanciones:
+
+1. Multa a ser determinada por la Autoridad Competente que sustancie el hecho, en función a valoración técnica-ambiental a ser efectuada por especialistas en la temática ambiental;
+2. Rescate y/o decomiso definitivo de los especímenes silvestres correspondientes;
+3. Clausura temporal de la actividad infractora, en función a reglamentación emitida por la Autoridad Competente.
+
+**Artículo 12°.- (Autoridades competentes)** 
+
+1. El conocimiento, sustanciación y resolución de los hechos vinculados con las infracciones administrativas, establecidas en el Artículo 10 del presente Decreto Supremo, corresponde a las Entidades Territoriales Autónomas, en el ámbito de su jurisdicción de acuerdo a sus competencias y responsabilidades.
+2. Cuando los hechos vinculados con las infracciones administrativas, establecidas en el Artículo 10 del presente Decreto Supremo, tengan un alcance nacional que trascienda las competencias y jurisdicción de las Entidades Territoriales Autónomas, su conocimiento, sustanciación y resolución estará a cargo del Ministerio de Medio Ambiente y Agua.
+3. Para el cumplimiento de los Parágrafos precedentes, se aplicará el procedimiento sancionador establecido en la [Ley Nº 2341](#TODO-link), de 23 de abril de 2002, de Procedimiento Administrativo.
+     
+
+   # Disposiciones finales
+
+**Disposición Final Única.-** El presente Decreto Supremo no representará recursos adicionales del Tesoro General de la Nación - TGN.
+
+---
+
+El señor Ministro de Estado en el Despacho de Medio Ambiente y Agua, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo en la ciudad de La Paz, a los veintiún días del mes de abril del año dos mil veintiuno.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Felima Gabriela Mendoza Gumiel, Marcelo Alejandro Montenegro Gomez Garcia, Franklin Molina Ortiz, Nestor Huanca Chura, Edgar Montaño Rojas, Ramiro Felix Villavicencio Niño De Guzman, Ivan Manolo Lima Magne, Verónica Patricia Navia Tejada, Jeyson Marcos Auza Pinto, Juan Santos Cruz, Adrian Ruben Quelca Tarqui, Remmy Ruben Gonzales Atila, Sabina Orellana Cruz.

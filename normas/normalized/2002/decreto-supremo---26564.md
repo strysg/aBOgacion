@@ -1,0 +1,277 @@
+# Bolivia: Reglamento para el Mecanismo Nacional y Departamental de Control Social, DS Nº 26564, 2 de abril de 2002
+
+JORGE QUIROGA RAMIREZ
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 2235](#TODO-link) del Diálogo Nacional, en el marco de la participación y el control social, reconoce a las organizaciones e instituciones de la sociedad civil el derecho a conocer, supervisar y evaluar los resultados e impacto tanto de las políticas públicas; de los procesos participativos de toma de decisiones, así como del derecho a acceder a la información en los niveles, municipal, departamental y nacional.
+* Que la [Constitución Política del Estado](#TODO-link) y las Leyes Nº 1551 de Participación Popular y Nº 2028 de Municipalidades reconocen los derechos y los deberes de los ciudadanos constituidos en organizaciones e instituciones sociales.
+* Que es necesario crear espacios públicos de control social para ejercer el derecho ciudadano para conocer, discutir y analizar la información otorgada por el sector público, sin el propósito de establecer una burocracia paralela al mismo.
+* Que es necesario reglamentar la aplicación e implementación de la participación y control social en la gestión pública de los niveles nacional y departamental, establecida en la [Ley Nº 2235](#TODO-link) del Diálogo Nacional, compatibilizándolo con lo correspondiente al nivel municipal.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Título I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo reglamenta los procedimientos, mecanismos e instancias para que el Mecanismo Nacional de Control Social, los Mecanismos Departamentales de Control Social, sus representantes, Síndicos y Comités de Vigilancia, en representación de las organizaciones e instituciones de la sociedad civil, ejerzan el derecho tanto a conocer, supervisar y evaluar los resultados e impacto de las políticas de gestión pública, de los procesos participativos de toma de decisiones, así como el derecho al acceso a la información en los niveles, municipal, departamental y nacional.
+
+**Artículo 2°.- (Aplicación)** Para alcanzar el objetivo señalado en el artículo precedente, las normas establecidas en el presente Decreto Supremo se aplicarán, en cada caso, a las instituciones y organizaciones que específicamente se determine en la parte correspondiente.
+
+**Artículo 3°.- (Garantias para el ejercicio de las atribuciones de control social)** En el marco de las Leyes vigentes, las personas, organizaciones e instituciones de la sociedad civil que ejercen el derecho y mandato al control social en los niveles municipal, departamental y nacional, gozan de las garantías constitucionales para el cumplimiento de sus atribuciones.
+
+**Artículo 4°.- (Acceso a la informacion)** 
+
+1. El Consejo Interinstitucional de Seguimiento y Evaluación de la Estrategia Boliviana de Reducción de la Pobreza (CISE), deberá acordar con el Mecanismo Nacional de Control Social (MNCS) los canales y responsables institucionales encargados de proporcionar la información y los procedimientos que permitan el ejercicio pleno del control social, el acceso a la información y el análisis de los instrumentos.
+2. Para el ejercicio del control social, las instancias nacionales, departamentales del control social y los comités de vigilancia en el nivel municipal, deberán acordar con las instancias responsables identificadas por el CISE y el MNCS, la periodicidad y los procedimientos técnico-administrativos que permitan garantizar el flujo continuo de la información requerida.
+3. Toda solicitud de información, en cualquiera de los tres niveles anotados, que los permita cumplir con sus atribuciones y funciones en los procesos de control social en el marco de lo establecido en las Leyes Nº 1551 de Participación Popular, Nº 2028 de Municipalidades y Nº 2235 del Diálogo Nacional y normativa vigente, deberá efectuarse mediante comunicación escrita fundamentada, pertinente y a través de sus máximos representantes acreditados.
+
+**Artículo 5°.- (Del sistema de control social)** Para el ejercicio eficiente del control social a los tres niveles de organización del Estado, el Mecanismo Nacional de Control Social, los Mecanismos Departamentales de Control Social y los Comités de Vigilancia, se integran en el sistema de control social, para cumplir con sus atribuciones de manera coordinada y complementaria, articulando sus procesos e instrumentos en el marco de relaciones de cooperación y subsidiariedad. Este sistema desarrollará los procesos de consulta, concertación, comunicación, información, difusión, capacitación y formación, entre sus integrantes y procesos de comunicación, negociación, concertación, seguimiento y evaluación con los órganos e instituciones del Estado.
+
+**Artículo 6°.- (Del alcance del control social)** El derecho de participación y control social comprende los siguientes ámbitos:
+
+1. En relación al Dialogo Nacional.
+     
+   Para el cumplimiento de los Artículos 1, inciso f); 3 parágrafo I y Artículos 25, 33 y 34 de la [Ley Nº 2235](#TODO-link) del Diálogo Nacional, el Poder Ejecutivo a través de la instancia responsable de la convocatoria del Diálogo, concertará con los Mecanismos Nacional y Departamentales de Control Social y con los Comités de Vigilancia, la agenda, los participantes, las metodologías a ser aplicadas, la organización, el desarrollo, y los procedimientos para el seguimiento y evaluación de resultados del Diálogo Nacional.
+2. En relación a las políticas públicas y Estrategia Boliviana de Reducción de la Pobreza (EBRP).
+     
+   El Poder Ejecutivo, preferentemente a través del Consejo Interinstitucional de Seguimiento y Evaluación (CISE) de la EBRP, deberá acordar con el Mecanismo Nacional de Control Social el procedimiento e instrumentos para evaluar la incorporación e implementación de políticas y decisiones concertadas en los procesos de Diálogo Nacional. Asimismo, para el control social sobre las políticas públicas, coordinará con los órganos e instancias rectoras la información pertinente para el adecuado ejercicio del Control Social.
+3. Para otros procesos participativos llevados a cabo por el Gobierno o Instituciones Publicas, el Mecanismo Nacional o Departamental de Control Social velará por una participación efectiva de los sectores involucrados.
+
+## Título II Participacion y control social a nivel municipal
+
+### Capítulo I De la ampliacion de las atribuciones del control social
+
+**Artículo 7°.- (Pronunciamientos del Comite de Vigilancia)** 
+
+1. El Comité de Vigilancia deberá coordinar su labor con el Concejo Municipal, articulando el control social a la gestión municipal con la fiscalización que cumple el Concejo Municipal. El Concejo Municipal deberá solicitar y considerar los pronunciamientos del Comité de Vigilancia respecto a:
+   1. Formulación y ajuste del Plan de Desarrollo Municipal.
+   2. Formulación, reformulación o ajuste del POA Municipal y su presupuesto.
+   3. Evaluación semestral sobre el cumplimiento de políticas, planes programas y proyectos del Gobierno Municipal, mediante informe escrito circunstanciado técnica y legalmente.
+   4. Ejecución presupuestaria de la gestión correspondiente.
+2. Una copia del pronunciamiento del Comité de Vigilancia deberá ser presentado al Concejo Municipal. Si el pronunciamiento es negativo, el Concejo Municipal, en el marco del cumplimiento de sus atribuciones establecidas en el Artículo 12, inciso 16 de la [Ley Nº 2028](#TODO-link), deberá convocar al alcalde municipal a resolver favorablemente la observación o justificar su posición.
+
+**Artículo 8°.- (Control social a proyectos financiados por el FPS)** 
+
+1. El Comité de Vigilancia podrá denunciar ante el Gerente Departamental del Fondo Nacional de Inversión Productiva y Social (FPS), mediante los síndicos sociales de los Comités Departamentales de Aprobación de Proyectos (CDAP), definidos en el Artículo 22 de la [Ley Nº 2235](#TODO-link) del Diálogo Nacional, sobre posibles irregularidades en la adjudicación y ejecución de proyectos municipales.
+2. Dentro de los quince días de establecida la denuncia, el Gerente Departamental deberá verificar la misma, solicitando un informe al Gobierno Municipal. Si la denuncia es comprobada, el CDAP, dentro los plazos establecidos en sus reglamentos, pedirá al Gobierno Municipal denunciado la rectificación de la irregularidad, si ésta no es ejecutada con celeridad, solicitara a la gerencia departamental del FPS la suspensión del desembolso de recursos correspondientes, informará a la Contraloría General de la República y asumirá otras medidas correspondientes.
+
+**Artículo 9°.- (Parte civil a nivel municipal)** 
+
+1. En los casos que exista omisión de las autoridades municipales, sean estos del Concejo o Ejecutivo Municipal, de iniciar acciones a las que se encuentren obligadas por Ley, según el Artículo 178 de la [Ley Nº 2028](#TODO-link), el Comité de Vigilancia podrá iniciar las acciones legales en contra de los responsables, ante la instancia del Ministerio Público, remitiendo una copia del inicio de las acciones legales a la Contraloría General de la República.
+2. Para el cumplimiento del parágrafo anterior, se amplia el uso de los recursos del Fondo de Control Social, debiendo el uso de los mismos ser autorizado por lo menos por dos tercios de los miembros del respectivo Comité de Vigilancia. La decisión adoptada será comunicada a las OTBs del municipio públicamente.
+
+**Artículo 10°.- (Control social a auditorías internas)** Los Comités de Vigilancia velarán por el cumplimiento de la auditoría interna municipal, según el Artículo 171 de la [Ley Nº 2028](#TODO-link) de Municipalidades, denunciando el incumplimiento de la misma a la Contraloría General de la República.
+
+**Artículo 11°.- (Control social en las mancomunidades)** 
+
+1. El ejercicio de la participación y control social en una mancomunidad de municipios se realizará de acuerdo al Artículo 14 del [Decreto Supremo Nº 26142](#TODO-link); sustituyéndose la representación de las organizaciones funcionales, que indica el Parágrafo II del referido Artículo, por miembros del Consejo de Desarrollo Productivo, Económico y Social (CODEPES) de cada municipio, de acuerdo al Artículo 28, Parágrafo IV de la [Ley Nº 2235](#TODO-link) del Diálogo Nacional.
+2. Los instrumentos para la participación y control social en una mancomunidad de municipios son:
+   1. El Plan de Desarrollo Mancomunitario.
+   2. Plan de Operaciones Anual de la mancomunidad.
+   3. Ejecución Presupuestaria de la gestión correspondiente.
+   4. Informes de auditorías financieras y técnicas practicadas.
+
+### Capítulo II Consejo de Desarrollo Productivo, Economico y Social
+
+**Artículo 12°.- (Objeto y naturaleza)** El Consejo de Desarrollo Productivo Económico y Social (CODEPES) constituye una instancia del sistema del control social que articula a las organizaciones e instituciones de la sociedad civil de la respectiva jurisdicción municipal para hacerlos partícipes en la planificación participativa municipal, la que incluirá:
+
+1. Participar en la elaboración y ejecución de la estrategia Productiva del Municipio.
+2. Apoyar al Comité de Vigilancia en el control social a la gestión municipal.
+3. Apoyar a la articulación de la relación entre los Comités de Vigilancia y el Mecanismo Departamental de Control Social.
+4. La contribución a la reducción de la pobreza y el logro del desarrollo sostenible.
+
+**Artículo 13°.- (Atribuciones)** Para el cumplimiento de sus objetivos, el CODEPES tiene las siguientes atribuciones, de manera enunciativa y no limitativa, establecidas en el marco de lo dispuesto en el Parágrafo II del Artículo 28, de la [Ley Nº 2235](#TODO-link) del Diálogo Nacional:
+
+1. Articular a las organizaciones productivas, de prestación de servicios, medioambientales, profesionales y otras organizaciones funcionales representativas del municipio, y facilitar su participación, supervisión y control social a nivel municipal en coordinación con el Comité de Vigilancia, de acuerdo a lo establecido por las normas vigentes.
+2. En el marco de la planificación participativa municipal y mediante el Comité de Vigilancia, presentar las demandas de obras y servicios, como también iniciativas que promuevan y faciliten la actividad económica y productiva en el municipio o mancomunidad para la reducción de la pobreza y el logro del desarrollo sostenible; velando de que las mismas sean asumidas como insumos principales en la formulación del Plan de Desarrollo Municipal o Mancomunitario.
+3. Coadyuvar al Gobierno municipal junto al Comité de Vigilancia, en construir la estrategia productiva del municipio sobre la base de acuerdos preestablecidos, definiendo los roles para la ejecución de la estrategia.
+4. Por intermedio del Comité de Vigilancia proponer al gobierno municipal estrategias, planes, proyectos o actividades municipales para la promoción del desarrollo económico y productivo del municipio; como también participar en instancias y mecanismos de promoción y seguimiento a estas tareas.
+5. Apoyar al Comité de Vigilancia de su jurisdicción en el cumplimiento de todas sus atribuciones establecidas por Ley, para lo que de manera permanente coordinará y concertará con el mismo el desarrollo de acciones conjuntas que fortalezcan la participación y control de la sociedad civil a la gestión municipal.
+6. En el marco de la coordinación, establecida con el Comité de Vigilancia, especializarse en el seguimiento a la elaboración, aprobación, ejecución y evaluación de estrategias, planes, programas, proyectos y actividades de promoción y desarrollo económico productivo, de desarrollo social, de provisión de servicios básicos supervisando su calidad, de preservación del medio ambiente, y otras áreas especializadas que además tienen una cobertura municipal, mancomunitaria y distrital.
+7. Revisar y emitir un informe técnico para la formulación de políticas, programas y proyectos de desarrollo y presupuestos, sobre la base del cual el Comité de Vigilancia podrá pronunciarse públicamente, verificando que los mismos respeten los procesos de concertación social, recogiendo los acuerdos establecidos entre el gobierno municipal y la sociedad civil.
+8. Analizar los resultados del seguimiento a la ejecución de programas y proyectos municipales de reducción de la pobreza elaborados por el Consejo Interinstitucional de Seguimiento y Evaluación de la Estrategia Boliviana de Reducción de la Pobreza (EBRP), establecido en el [Decreto Supremo Nº 26424](#TODO-link), para proporcionarle insumos de retroalimentación a los respectivos sistemas de seguimiento y evaluación.
+9. Proporcionar apoyo técnico al Comité de Vigilancia, por las organizaciones y profesionales que son parte del CODEPES, para cumplir el control social a temas y aspectos que requieran una atención profesional especializada.
+10. Informar y rendir cuentas a las organizaciones a las que articula, de las acciones que realice en su representación.
+
+**Artículo 14°.- (Representacion)** El CODEPES estará constituido y representará a todas las organizaciones productivas, de prestación de servicios, medioambientales, profesionales y otras instituciones y organizaciones del municipio que se adscriban al mismo libre y voluntariamente con el objetivo de apoyar el desarrollo y ejecución de la estrategia productiva del municipio.
+
+**Artículo 15°.- (Período de mandato)** Los miembros del CODEPES tienen un mandato de dos años, computable desde la fecha de su posesión y con derecho a la reelección.
+
+**Artículo 16°.- (Elección y conformación)** 
+
+1. Los miembros cesantes del CODEPES, faltando un mínimo de 30 días para la finalización de su mandato, coordinando con el Concejo Municipal y el Comité de Vigilancia, convocarán a sus organizaciones asociadas a un encuentro municipal de evaluación y designación de nuevos representantes.
+2. En caso que los miembros cesantes no realicen la convocatoria en el plazo establecido, la misma será realizada por la Presidencia del Concejo Municipal en coordinación con el Comité de Vigilancia.
+3. La convocatoria se efectuará por los medios de comunicación social de mayor difusión del municipio, mínimo tres veces durante una semana.
+4. El número de miembros elegidos al CODEPES no podrá exceder al 50% de los miembros del Comité de Vigilancia de acuerdo a lo establecido en el parágrafo I, Artículo 28 de la [Ley Nº 2235](#TODO-link). al menos uno de los miembros deberá ser mujer.
+5. Una vez efectuada la designación de los representantes titulares del CODEPES y sus respectivos suplentes, la presidencia del Concejo Municipal los suministrará la posesión; levantándose un acta que certifique la validez de todo el proceso, cuyas copias deben ser difundidas públicamente.
+6. Los nuevos representantes asumirán su mandato, cumpliendo sus responsabilidades de acuerdo a las atribuciones establecidas en el presente Decreto Supremo, los objetivos y tareas encomendadas por sus mandantes y la forma de funcionamiento de acuerdo a sus estatutos y reglamentos.
+
+**Artículo 17°.- (Requisitos)** Para ser representante de un sector ante el CODEPES, los candidatos deberán reunir los requisitos siguientes:
+
+1. Ser ciudadano en ejercicio.
+2. Ser postulado por una organización productiva y/o de prestación de servicios de mayor incidencia en el municipio y de organizaciones medioambientales y profesionales del mismo.
+3. Ser miembro activo de la organización a la que representa.
+4. Habitar en el municipio.
+5. No ser funcionario municipal ni autoridad de alguna institución del Estado.
+
+**Artículo 18°.- (Suplencia y revocabilidad de la representacion)** La suplencia y revocabilidad de los miembros del CODEPES se realizará en casos similares e igual procedimiento que el normado para los Comités de Vigilancia, en los Artículos 11, 12 y 13 del [Decreto Supremo Nº 24447](#TODO-link).
+
+**Artículo 19°.- (Jerarquía y responsabilidad)** Todos los miembros del CODEPES tienen la misma jerarquía, gozando de similares derechos y obligaciones, y siendo responsables solidarios de las decisiones y acciones colegiadas que adopte. La organización de los miembros en una directiva designando puestos o carteras no crea diferencias jerárquicas.
+
+## Título III Participación y control social a nivel nacional y departamental
+
+### Capítulo I De los mecanismos nacional y departamental de control social
+
+**Artículo 20°.- (Naturaleza)** El Mecanismo Nacional de Control Social y los Mecanismos Departamentales de Control Social, son personas colectivas, de derecho privado, de carácter social, que actúan dentro del marco del ordenamiento jurídico boliviano, sus estatutos y reglamentos institucionales. Su estructura y funcionamiento son independientes de los órganos públicos, debiendo éstos, abstenerse de intervenir en su gestión.
+
+**Artículo 21°.- (Objeto)** El Mecanismo Nacional de Control Social, y los Mecanismos Departamentales de Control Social reconocidos en el Artículo 29 de [Ley Nº 2235](#TODO-link), articulan y representan a organizaciones e instituciones de la sociedad civil del ámbito departamental y nacional para ejercer el derecho de participación y control social, en el marco de lo establecido en el Artículo 25 de la [Ley Nº 2235](#TODO-link), el presente decreto y demás normas que rigen la materia.
+
+**Artículo 22°.- (Informacion)** El Mecanismo Nacional de Control Social presentará un informe semestral al Congreso de la Nación y al Poder Ejecutivo para informar sobre su composición interna, sus estatutos, los resultados del ejercicio del control social y sugerencias para mejorar la gestión pública, los procesos de políticas públicas, los procesos participativos de toma de decisiones y el acceso a la información. Ante las organizaciones e instituciones de la sociedad civil lo hará de acuerdo a sus estatutos.
+
+**Artículo 23°.- (Representacion)** 
+
+1. A nivel departamental, el Mecanismo Departamental de Control Social representa a las organizaciones e instituciones de la sociedad civil de alcance regional y departamental, legalmente constituidas y socialmente reconocidas, que libre y voluntariamente se adscriban, las mismas que pueden ser de carácter social, económico, cultural, gremial, profesional, territorial, religioso o de otra índole, excepto partidos políticos.
+2. A nivel Nacional, el Mecanismo Nacional de Control Social representa a los nueve Mecanismos Departamentales de Control Social y a las organizaciones e instituciones de la sociedad civil de alcance nacional, legalmente constituidas y socialmente reconocidas, que libre y voluntariamente se adscriban, las mismas que pueden ser de carácter social, económico, cultural, gremial, profesional, territorial o religioso o de otra índole, excepto partidos políticos.
+
+**Artículo 24°.- (Conformacion y funcionamiento organico)** La forma de constitución y funcionamiento orgánico del Mecanismo Nacional de Control Social y de los Mecanismos Departamentales de Control Social se realiza de acuerdo a lo establecido en sus estatutos y reglamentos institucionales.
+
+**Artículo 25°.- (Acreditación)** Para efectos de relacionamiento con los órganos públicos del nivel departamental y nacional, el Mecanismo Nacional y los Mecanismos Departamentales de Control Social, en el marco de sus estatutos y reglamentos institucionales, acreditarán su representación titular y suplente, acompañando información sobre el período de su mandato. Para fines de coordinación y trabajo técnico, podrán delegar representantes ante instituciones y entes públicos relacionados con el cumplimiento de sus objetivos y atribuciones de control social.
+
+**Artículo 26°.- (Revocatoria)** En caso de revocatoria del mandato de los representantes del Mecanismo Nacional de Control Social y de los Mecanismos Departamentales de Control Social ante los órganos o instancias públicas que corresponda, el proceso se realizará según sus procedimientos y normas internas, debiendo remitirse la correspondiente notificación a las respectivas instancia u órganos públicos.
+
+**Artículo 27°.- (Recursos para su funcionamiento)** Tanto el Mecanismo Nacional, como los Mecanismos Departamentales del Control Social tienen el derecho de realizar gestiones ante organismos o instituciones internacionales o nacionales, privadas o públicas en procura de recursos materiales, económicos o técnicos necesarios para garantizar su funcionamiento y el cumplimiento de sus objetivos. Para ello, deberá observarse que los recursos a gestionar no se ejecuten en actividades que son realizadas por instituciones del sector público para evitar duplicidad de esfuerzos y dispersión de recursos.
+
+### Capítulo II Mecanismo departamental de control social
+
+**Artículo 28°.- (Atribuciones)** 
+
+1. Las atribuciones de los Mecanismos Departamentales de Control Social - MDCS, de manera enunciativa y no limitativa, son todas las establecidas en el Artículo 31 de la [Ley Nº 2235](#TODO-link) del Diálogo Nacional.
+2. Otras atribuciones complementarias del MDCS son:
+   1. Apoyar la promoción de una cultura democrática de participación social y el ejercicio de la ciudadanía plena.
+   2. Apoyar a las organizaciones e instituciones de la sociedad civil en los procesos participativos de toma de decisiones públicas y el ejercicio del control social.
+   3. Informar a sus asociados y la sociedad civil sobre las acciones que realiza en su representación.
+   4. Otras que correspondan, en el marco de las normas vigentes, a la naturaleza de la organización y los objetivos que persiguen.
+
+**Artículo 29°.- (Control social a proyectos financiados por el FNDR a nivel departamental)** 
+
+1. El mecanismo Departamental de Control Social podrá denunciar ante el Director Ejecutivo del FNDR, sobre posibles irregularidades en la adjudicación y ejecución de proyectos departamentales.
+2. Dentro los quince días de presentada la denuncia, el Director Ejecutivo del FNDR solicitará un informe a la Prefectura correspondiente, si la denuncia es comprobada el Directorio Único de Fondos solicitará a la prefectura denunciada la rectificación de la irregularidad, señalando un plazo para su cumplimiento, si ésta no es ejecutada en el plazo previsto, suspenderá el desembolso de recursos, informará a la Contraloría General de la República y asumirá otras medidas correspondientes.
+
+**Artículo 30°.- (Establecimiento de flujos de información entre el mecanismo departamental de control social y el Consejo Departamental)** 
+
+1. El MDCS, a través de sus síndicos sociales, concertará con la Administración Departamental el tipo y periodicidad de información que ésta debe proporcionarle para facilitar el control social a los procesos de planificación, las políticas y la gestión prefectural.
+2. El MDCS podrá remitir sus pronunciamientos al Consejo Departamental, a objeto de que sean considerados en:
+   1. La formulación y ajuste del Plan de Desarrollo Departamental.
+   2. La formulación, reformulación o ajuste del Plan Estratégico Institucional (PEI), Programa Operativo Anual (POA) y presupuesto prefectural.
+   3. Reajuste en los procedimientos de toma de decisiones en la elaboración de PDD, POAs y PIP.
+   4. Evaluación semestral sobre el cumplimiento de políticas, planes, programas y proyectos de la Administración Departamental, mediante informe escrito circunstanciado técnica y legalmente.
+   5. Ejecución presupuestaria de la gestión correspondiente.
+3. A su vez, el Consejo Departamental, informara al MDCS sobre las acciones seguidas en torno a lo señalado en el parágrafo anterior.
+4. El Mecanismo de Control Social Departamental podrá coordinar su labor con el Consejo Departamental a través de los síndicos sociales, articulando el control social de la gestión Prefectural con la fiscalización que cumple el Consejo Departamental.
+
+**Artículo 31°.- (Control social a proyectos financiados por el FPS)** 
+
+1. El MDCS a través del síndico social del CDAP concertará con el Gerente Departamental del FPS el tipo y periodicidad de información que éste debe proporcionarle para facilitar el control social sobre la política de financiamiento y la cartera de proyectos del departamento correspondiente.
+2. El MDCS podrá denunciar ante el Gerente Departamental del Fondo de Inversión Productiva y Social, mediante el sindico social al CDAP, sobre posibles irregularidades en la adjudicación y ejecución de proyectos municipales del departamento.
+3. Dentro de los diez días de presentada la denuncia, el Gerente Departamental deberá verificar la misma, solicitando un informe al Gobierno Municipal correspondiente. Si la denuncia es comprobada, el CDAP, dentro los plazos establecidos en sus reglamentos solicitará al Gobierno Municipal denunciado la rectificación de la irregularidad, señalando un plazo para su cumplimiento, si ésta no es ejecutada en el plazo previsto, pedirá al gerente departamental del FPS suspender el desembolso de recursos, informará a la Contraloría General de la República y asumirá otras medidas que corresponda.
+
+**Artículo 32°.- (Relacionamiento y flujos de información del MDCS)** El MDCS concertará con la Dirección General de Coordinación de la Prefectura Departamental correspondiente, el tipo y periodicidad de información que deben proporcionarle para facilitar el cumplimiento del control social departamental y la aplicación de indicadores.
+
+**Artículo 33°.- (Parte civil)** En los casos que exista omisión de las autoridades correspondientes, de iniciar acciones a las que se encuentren obligadas por Ley, el MDCS podrá iniciar las acciones legales en contra de los responsables, ante la instancia del Ministerio Público, remitiendo una copia del inicio de las acciones legales a la Contraloría General de la República.
+
+**Artículo 34°.- (Control social a auditorías internas)** El MDCS velará por el cumplimiento de la auditoría interna departamental, de acuerdo a las atribuciones establecidas en el Artículo 5 de la [Ley Nº 1654](#TODO-link) de 28 de julio de 1995, de Descentralización Administrativa, denunciando el incumplimiento del mismo a la Contraloría General de la República.
+
+### Capítulo III Mecanismo nacional de control social
+
+**Artículo 35°.- (Atribuciones)** 
+
+1. Las atribuciones del Mecanismo Nacional de Control Social - MNCS, de manera enunciativa y no limitativa, son todas las establecidas en el Artículo 30 de la [Ley Nº 2235](#TODO-link) del Diálogo Nacional.
+2. Otras atribuciones complementarias del MNCS son:
+   1. Apoyar la promoción de una cultura democrática de participación social y el ejercicio de la ciudadanía responsable.
+   2. Apoyar a las organizaciones e instituciones de la sociedad civil en los procesos participativos de toma de decisiones públicas y el ejercicio del control social.
+   3. Informar a sus asociados y la sociedad civil sobre las acciones que realiza en su representación.
+   4. Otras que correspondan, en el marco de las normas vigentes, a la naturaleza de la organización y los objetivos que persiguen.
+
+**Artículo 36°.- (Seguimiento a la EBRP y relacionamiento con el CISE)** Para el ejercicio del control social establecido en la [Ley Nº 2235](#TODO-link), el CISE deberá:
+
+1. Acordar con el MNCS los indicadores de seguimiento y evaluación de resultados, efectos e impacto de la EBRP, en los niveles nacional, departamental y municipal; en cuanto a metodología, características, alcance e interpretación de los mismos.
+2. Con la base a lo acordado en el parágrafo I del presente Artículo, presentar al MNCS los flujos, periodicidad y tipo de información para facilitar el ejercicio del control social, en particular para la aplicación de los indicadores.
+     
+   III.Con base a lo acordado en el parágrafo I del presente Artículo, hacer conocer al MNCS la forma e instrumentos que serán aplicados para recoger la información que sustente la aplicación de los indicadores acordados.
+
+**Artículo 37°.- (Control social a los recursos HIPC y a la cuenta especial DIÁLOGO 2000)** El Banco Central de Bolivia y el Ministerio de Hacienda, acordarán con el Mecanismo Nacional de Control Social la información detallada y periodicidad para realizar el control sobre los recursos HIPC y de la Cuenta Especial Diálogo 2000.
+
+**Artículo 38°.- (Representantes del MNCS ante el CISE)** El MNCS podrá delegar un representante ante el CISE, con el propósito de tomar conocimiento sobre el avance del Programa de Seguimiento y Evaluación de la EBRP.
+
+**Artículo 39°.- (Control Social al DUF y a las instituciones a las que financia)** 
+
+1. El MNCS, a través del Síndico Social designado, concertará con el DUF el tipo y periodicidad de información que debe proporcionarle, para facilitar el control social sobre la política de financiamiento y la cartera de proyectos.
+2. A través del Síndico Social designado ante el DUF, el Mecanismo Nacional de Control Social, podrá denunciar a la Presidencia de la República, sobre indicios en el incumplimiento de normas en el manejo y administración de los recursos del DUF y de las instituciones que financia, Copias de las denuncias serán remitidas al Congreso Nacional, a la Contraloría General de la República y otras instancias competentes del Estado.
+
+**Artículo 40°.- (Pronunciamientos del MNCS)** El Mecanismo Nacional de Control Social deberá:
+
+1. Pronunciarse sobre el cumplimiento de políticas, planes, programas y proyectos del Gobierno Nacional y en particular de la EBRP, mediante informe escrito circunstanciado técnica y legalmente, aprobado por Resolución del Directorio del MNCS.
+2. En el marco de la Ley de Administración y Control Gubernamental Nº 1178, denunciar irregularidades detectadas en entidades de la Administración Pública ante las instancias competentes con documentación que permita evaluar la pertinencia y objetividad de las mismas y aprobado por Resolución del Directorio del MNCS, para que se inicien las acciones de investigación y fiscalización o se tomen las medidas que el marco legal vigente dispone.
+3. Difundir los indicadores de seguimiento y evaluación elegidos en los niveles municipal, departamental y nacional, asimismo los logros alcanzados por la EBRP en materia de disminución de pobreza y otras políticas públicas.
+
+**Artículo 41°.- (Parte civil)** En los casos que exista omisión de las autoridades correspondientes de iniciar acciones a las que se encuentren obligadas por Ley, el Mecanismo Nacional de Control Social podrá solicitar el inicio de acciones legales a las instancias pertinentes, remitiendo una copia de la solicitud a la Contraloría General de la República.
+
+**Artículo 42°.- (Registro de personalidad jurídica)** 
+
+1. Los Comités de Vigilancia registrarán su Personalidad Jurídica ante la Prefectura de Departamento, previa certificación de los Servicios Departamentales de Fortalecimiento Municipal y Comunitario de la existencia de sus estatutos, reglamento interno y actas de elección de sus miembros por cantón o distrito. Una vez certificada la documentación requerida, el Prefecto de Departamento entregará al Comité de Vigilancia, el certificado de la Personalidad Jurídica.
+     
+   El trámite para el registro de la Personalidad Jurídica es gratuito.
+     
+   El Prefecto de Departamento deberá hacer entrega de Certificado de Personalidad Jurídica en un plazo máximo de 45 días.
+2. Las Asociaciones Departamentales de Comités de Vigilancia y los Mecanismos de Control Social Departamentales registrarán su Personalidad Jurídica ante la Prefectura de Departamento, siguiendo el mismo procedimiento establecido anteriormente.
+3. Con el mismo procedimiento, el Mecanismo Nacional de Control Social y la Asociación Nacional de Comités de Vigilancia registrarán su Personalidad Jurídica en la instancia correspondiente.
+
+## Título IV Disposiciones transitorias, modificatorias y derogaciones
+
+### Capítulo I Disposiciones transitorias
+
+**Artículo 43°.- (Conformacion del CODEPES)** Para la primera conformación del CODEPES, el Concejo Municipal en coordinación con el Comité de Vigilancia, en un plazo no mayor a 90 días de promulgado el presente Decreto Supremo, convocará a las organizaciones sociales del municipio, con derecho a participar en el CODEPES, a encuentros municipales en los que se debatirá y acordará la forma de constitución, su forma de organización y funcionamiento y las funciones específicas que desarrollará, según los lineamientos generales establecidos en el presente Decreto Supremo.
+
+### Capítulo II Disposiciones modificatorias
+
+**Artículo 44°.- (Modificación al Decreto Supremo Nº 26130, artículo 7)** 
+
+1. Se adiciona en la parte de Gastos Elegibles del Artículo 7° del Reglamento de Desarrollo Parcial a la [Ley Nº 2028](#TODO-link) de Municipalidades, aprobado por el [Decreto Supremo Nº 26130](#TODO-link) de 30 de marzo de 2001, el siguiente inciso:
+   > “f) Servicios de comunicaciones”
+2. Se modifica el inciso d) en la parte de Actividades, del Artículo 7° del Reglamento de Desarrollo Parcial a la [Ley Nº 2028](#TODO-link) de Municipalidades, aprobado por el [Decreto Supremo Nº 26130](#TODO-link) de 30 de marzo de 2001, de la siguiente manera:
+   > “d) Reuniones del Comité de Vigilancia con el Consejo de Desarrollo Productivo Económico y Social y otras organizaciones que estén involucradas en los objetivos de la participación popular y la promoción del crecimiento económico del municipio”
+
+   .
+
+**Artículo 45°.- (Modificaciones al artículo 16° del Decreto Supremo Nº 26130, )** 
+
+1. Se modifican los parágrafos I, III y IV del Artículo 16° del [Decreto Supremo Nº 26130](#TODO-link), con el siguiente texto:
+   > “I. Los responsables del manejo de los recursos del Fondo de Control Social deberán enviar su rendición cuentas debidamente documentadas y foliadas por intermedio de los Servicios Departamentales de Fortalecimiento Municipal y Comunitario de las prefecturas del departamento al Viceministerio de Planificación Estratégica y Participación Popular (VPEPP), dentro de los 30 días siguientes de finalizada la gestión.
+   >   
+   > III.Los Servicios Departamentales de Fortalecimiento Municipal y Comunitarios (SED-FMC) de las prefecturas evaluaran semestralmente el manejo de los recursos del Fondo de Control Social, información que será remitida al VPEPP. Para tal efecto los Comités de Vigilancia deberán proporcionar la documentación requerida. Asimismo, los SED-FMC asistirán técnicamente a los Comités de Vigilancia en el manejo de los recursos del Fondo de Control Social.
+   >   
+   > IV. La no rendición de cuentas por los Comités de Vigilancia al VPEPP en los plazos establecidos en el presente artículo, o la verificación de que los descargos son inadecuados, insuficientes o fraudulentos, dará lugar a la suspensión de los desembolsos de los recursos del Fondo de Control Social y al inicio de acciones legales correspondientes en contra de los responsables de los Comités de Vigilancia, notificándose para el efecto a los Gobiernos Municipales respectivos.”
+2. Se adiciona al Artículo 16° del Reglamento de Desarrollo Parcial de la [Ley Nº 2028](#TODO-link) de Municipalidades, aprobado por el [Decreto Supremo Nº 26130](#TODO-link), el siguiente parágrafo:
+   > “V. En caso de observarse la rendición de cuentas, el Comité de Vigilancia respectivo será notificado para que en un plazo de 10 días absuelva las observaciones o insuficiencias identificadas. Si las observaciones no fueran subsanadas, la instancia correspondiente procederá a lo establecido en el parágrafo IV.”
+
+**Artículo 46°.- (Modificación al artículo 8° del Decreto Supremo Nº 26130)** Se modifica el Artículo 8° del Reglamento de Desarrollo Parcial a la [Ley Nº 2028](#TODO-link) de Municipalidades, aprobado por [Decreto Supremo Nº 26130](#TODO-link), de la siguiente manera:
+> “Artículo 8° (Prohibición). En ningún caso los recursos del Fondo se asignaran al pago de remuneraciones a los miembros del Comité de Vigilancia ni a terceras personas salvo lo indicado en el articulo 9, parágrafo II del presente Decreto Supremo de Participación y Control Social, constituyéndose el uso de tales recursos en el fin antes mencionado, malversación de fondos.”
+
+### Capítulo III Disposiciones abrogatorias y derogatorias
+
+**Artículo 47°.- (Vigencia de normas)** 
+
+1. Se deroga el Artículo 21° del Reglamento de Desarrollo Parcial a la [Ley Nº 2028](#TODO-link) de Municipalidades, aprobado por [Decreto Supremo Nº 26130](#TODO-link) de 30 de marzo de 2001.
+2. Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El Señor Ministro de Estado en la Cartera de Desarrollo Sostenible y Planificación queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de abril del año dos mil dos.
+  
+FDO. JORGE QUIROGA RAMIREZ, Gustavo Fernández Saavedra, Alberto Leytón Avilés, José Luis Lupo Flores, Oscar Guilarte Luján, Jacques Trigo Loubiere, Carlos Alberto Goitia Caballero , José Abel Martínez Mrden MINISTRO INTERINO DE DESARROLLO ECONOMICO, Amalia Anaya Jaldín, Enrique Paz Argandoña, Juan Antonio Chahín Lupo, Walter Núñez Rodríguez, Ramiro Cavero Uriona, Claudio Mansilla Peña , Xavier Nogales Iturri, Hernán Terrazas Ergueta, Tomasa Yarhui Jacome.

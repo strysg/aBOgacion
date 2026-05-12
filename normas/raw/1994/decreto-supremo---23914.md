@@ -1,0 +1,25 @@
+# Bolivia: Decreto Supremo Nº 23914, 16 de diciembre de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que, la Ley de Bancos y Entidades Financieras N° 1488 de 14 de abril de 1993, dispone que las entidades financieras sujetas a sus disposiciones , deben adecuar sus estatutos y demás documentos de constitución a las normas establecidas en dicha ley en el plazo de un año y completar el capital pagado en seis meses, a partir de la fecha de su publicación que se produjo en fecha 3 de mayo de 1993.
+* Que la Ley de Bancos y Entidades Financieras, ha establecido normas de difícil aplicación en las Mutuales de Ahorro y Préstamo para la Vivienda y las Cooperativas de Ahorro y Crédito, en los plazos otorgados por la misma Ley.
+* Que, por tales antecedentes el Supremo Gobierno ha elevado a consideración del Poder Legislativo un proyecto de Ley prorrogando los referidos plazos en favor de las mutuales y cooperativas de ahorro y crédito, proyecto que estando en agenda para consideración en el H. Congreso Extraordinario convocado en fecha 10 de mayo de 1994, no ha podido ser considerado hasta el presente.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Prorróganse los plazos establecidos en los Artículos 161 y 162 de 1a Ley de Bancos y Entidades Financieras N° 1488 de 14 de abril de 1993, en favor de las entidades Mutuales de Ahorro y Crédito, hasta que el H. Congreso Nacional establezca los plazos de adecuación y cumplimiento definitivos.
+
+---
+
+El señor Ministro de Estado en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de diciembre de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Eduardo Trigo O'Connor d'Arlach MIN. SUPLENTE DE RR. EE. Y CULTO, Germán Quiroga Gómez, Raúl Tovar Piérola, Carlos Sánchez Berzain, Rene Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, José G. Justiniano Sandoval, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier, Jaime Villalobos Sanjinéz.

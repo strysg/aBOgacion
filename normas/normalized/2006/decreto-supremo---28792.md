@@ -1,0 +1,57 @@
+# Bolivia: Decreto Supremo Nº 28792, 12 de julio de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1604](#TODO-link) de 21 de diciembre de 1994 - Ley de Electricidad, norma las actividades de la industria eléctrica y establece los principios para la fijación de precios y tarifas de electricidad en todo el territorio nacional.
+* Que el Artículo 52 de la [Ley Nº 1604](#TODO-link), establece que cuando existan variaciones significativas respecto a las previsiones de venta de electricidad, utilizadas en la última aprobación de las tarifas base, la Superintendencia de Electricidad, de oficio, o a solicitud del Titular, podrá efectuar una revisión extraordinaria de las tarifas base.
+* Que el Artículo 58 (Aprobación de Tarifas), del Reglamento de Precios y Tarifas, establece que las tarifas base de distribución, sus fórmulas de indexación, las estructuras tarifarias determinadas en función de las tarifas base, los cargos por conexión y reconexión y los montos de los depósitos de garantía, serán aprobados cada cuatro años y entraran en vigencia en el mes de noviembre del año que corresponda con vigencia por este período, salvo que se produjese una revisión extraordinaria de tarifas base, de acuerdo con lo previsto en el Artículo 52 de la [Ley Nº 1604](#TODO-link).
+* Que el Poder Ejecutivo mediante [Decreto Supremo Nº 28653](#TODO-link) de 21 de marzo de 2006, ha dispuesto que la Superintendencia de Electricidad, según lo establecido en el Artículo 52 de la [Ley Nº 1604](#TODO-link), efectuará la Revisión Extraordinaria de Tarifas de las empresas distribuidoras del Sistema Interconectado Nacional que operan en el Mercado Eléctrico Mayorista, en un plazo de tres meses a partir de contar con el Reglamento respectivo.
+* Que es necesario reglamentar la aplicación de lo dispuesto por el Artículo 52 de la [Ley Nº 1604](#TODO-link), determinando la oportunidad, el alcance, el procedimiento y los plazos para la realización de la Revisión Extraordinaria de Tarifas Base.
+* Que el Artículo 67 de la [Ley Nº 1604](#TODO-link), faculta al Poder Ejecutivo a reglamentar dicha Ley.
+* Que en reunión del Consejo Nacional de Política Económica y Social - CONAPES del 10 de julio de 2006, se determinó aprobar el presente Decreto Supremo, a solicitud del Ministerio de Obras Públicas, Servicios y Vivienda.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto Reglamentar el Artículo 52 de la [Ley Nº 1604](#TODO-link) de 21 de diciembre de 1994 - Ley de Electricidad.
+
+**Artículo 2°.- (Oportunidad)** La revisión extraordinaria de tarifas base podrá ser realizada una sola vez durante un período tarifario y cuando haya transcurrido al menos doce (12) meses desde la fecha de aprobación de las tarifas base vigentes.
+
+**Artículo 3°.- (Alcance)** 
+
+1. La revisión extraordinaria de tarifas base consiste en la determinación de nuevas tarifas base y nuevas estructuras tarifarias, para su aplicación en el período comprendido desde el momento de su vigencia hasta el final del período tarifario, definido en la última aprobación de tarifas base.
+2. Las nuevas tarifas base se calcularán a precios del año base del último estudio tarifario y se determinarán considerando el promedio de las variables requeridas de los cuatro (4) años del período tarifario. Para el efecto, se utilizarán los valores reales de ingresos por ventas de electricidad y otros ingresos, inversiones y compras de electricidad para los años transcurridos y las nuevas proyecciones para los años restantes del período tarifario. Los valores de los demás parámetros y variables utilizadas en el último estudio, se mantendrán constantes.
+3. Los valores a considerar de los costos de administración, operación y mantenimiento y de consumidores, serán los aprobados por la Superintendencia de Electricidad, para el estudio tarifario correspondiente.
+
+**Artículo 4°.- (Variacion significativa)** 
+
+1. Corresponde a la variación de las ventas de electricidad de un Distribuidor, en un período transcurrido, respecto de las previstas en la última aprobación de las tarifas base, que provoca un incremento mayor o igual a un punto porcentual o una disminución mayor o igual a tres puntos porcentuales de la tasa de retorno prevista para el período transcurrido.
+2. La tasa de retorno observada en el período transcurrido, se determinará considerando los valores reales de los ingresos por ventas de electricidad y costos de compras de electricidad, manteniendo constantes los valores de los demás parámetros utilizados en el último estudio tarifario de cada empresa.
+
+**Artículo 5°.- (Inicio del proceso de revision)** 
+
+1. La Superintendencia de Electricidad, cuando exista una variación significativa de las ventas de electricidad de un Distribuidor, según lo establecido en el Artículo 4 del presente Decreto Supremo, de oficio o a solicitud del Distribuidor, podrá disponer el inicio del proceso de revisión extraordinaria de tarifas base, estableciendo mediante resolución administrativa el alcance del estudio correspondiente, que será encargado por el Titular a empresas consultoras especializadas, precalificadas por la Superintendencia de Electricidad.
+2. Cuando la solicitud de revisión extraordinaria de tarifas, sea efectuada por el Distribuidor, el Titular presentará a la Superintendencia de Electricidad un estudio que demuestre la existencia de una variación significativa definida en el Artículo 4 del presente Decreto Supremo. La Superintendencia de Electricidad, revisará el estudio y en el plazo de un mes determinará la aceptación o rechazo del inicio del proceso.
+
+**Artículo 6°.- (Procedimiento y plazos)** 
+
+1. En el plazo de treinta (30) días calendario de iniciado el proceso, el Distribuidor presentará a la Superintendencia de Electricidad toda la información correspondiente al período transcurrido, la proyección de demanda y el nuevo programa de inversiones para los años restante del período tarifario, con el respaldo correspondiente.
+2. La Superintendencia de Electricidad, en un plazo de hasta quince (15) días calendario, revisará la documentación presentada y aprobará los valores de demanda y el programa de inversiones a ser utilizados en la determinación de las nuevas tarifas base.
+3. El Distribuidor en un plazo de hasta quince (15) días calendario, presentará el estudio de revisión extraordinaria de tarifas, incluyendo la proyección de demanda, el nuevo programa de inversiones aprobado por la Superintendencia de Electricidad, las demás variables determinantes de las tarifas base, las nuevas tarifas base y estructura tarifaria resultante. El estudio se basará en el alcance definido en el Artículo 3 del presente Decreto Supremo.
+4. La Superintendencia de Electricidad, en un plazo de quince (15) días calendario a partir de la fecha de su recepción, evaluará el estudio y formulará las observaciones que considere pertinentes.
+5. El Distribuidor analizará las observaciones, efectuará las correcciones correspondientes y enviará el estudio corregido a la Superintendencia de Electricidad en el plazo de diez (10) días calendario de recibida las observaciones.
+
+**Artículo 7°.- (Aprobacion)** Con base en el estudio corregido, en un plazo de noventa (90) días calendario desde el inicio del proceso, la Superintendencia de Electricidad, mediante Resolución Administrativa, aprobará las nuevas tarifas base, fórmulas de indexación y estructura tarifaria, con vigencia hasta el final del período tarifario.
+
+---
+
+El Señor Ministro de Estado en el Despacho de Obras Públicas, Servicios y Vivienda queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de julio del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

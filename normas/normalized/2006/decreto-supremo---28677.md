@@ -1,0 +1,54 @@
+# Bolivia: Decreto Supremo Nº 28677, 14 de abril de 2006
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Artículo 4 de la [Ley Nº 3351](#TODO-link) 21 de febrero de 2006 - Ley de Organización del Poder Ejecutivo, determina que el Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, tiene la atribución de Estructurar políticas y planes de aprovechamiento y conservación del medio ambiente, de la biodiversidad y de los recursos forestales.
+* Que el Artículo 70 del [Decreto Supremo Nº 28631](#TODO-link) de fecha 8 de marzo de 2006 - Reglamento a la Ley de Organización del Poder Ejecutivo, establece que el Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente, se encuentra dentro de la estructura orgánica y jerárquica del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+* Que la [Ley Nº 1333](#TODO-link) de 27 de abril de 1992 - Ley del Medio Ambiente, tiene por objeto la protección y conservación del medio ambiente y los recursos naturales, establece en el Artículo 19 los objetivos del control de la calidad ambiental con la preservación, conservación, mejoramiento y restauración del medio ambiente y los recursos naturales, y la prevención, control y restricción de actividades que conlleven efectos nocivos o peligrosos para la salud y/o deterioren el medio ambiente.
+* Que el Artículo 24 de la [Ley Nº 1333](#TODO-link), define la Evaluación de Impacto Ambiental, como el conjunto de procedimientos administrativos, estudios y sistemas técnicos, que permiten la estimación de los efectos que la ejecución de una determinada obra, actividad o proyecto pueda causar al medio ambiente.
+* Que en el marco de la [Ley Nº 1333](#TODO-link), es necesario complementar e identificar claramente el brazo operativo de la Autoridad Ambiental Competente Nacional, para promover y ejecutar acciones con el fin de cumplir los objetivos del control de la calidad ambiental con la prevención, control y fiscalización de actividades, obras y proyectos relacionados con el medio ambiente y los recursos naturales, conforme a una estructura que permita coordinar las actividades de la gestión ambiental, dentro del ámbito de competencia de Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+* Que el [Decreto Supremo Nº 28631](#TODO-link), no precisa con claridad a ninguna instancia administrativa el ejercicio de funciones operativas con relación a las tareas de prevención, control y fiscalización de la calidad ambiental, creando un vacío que impide la revisión y calificación de fichas ambientales, el seguimiento de los procesos de Evaluación de Impacto Ambiental, la realización de Auditorias Ambientales y otros.
+* Que al haberse suprimido a la Dirección General de Medio Ambiente de la estructura del Ministerio de Planificación del Desarrollo, es necesario proceder con su restitución como brazo operativo del Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente, conforme al sentido y alcance de las actividades de prevención, control y fiscalización de la calidad ambiental contenidas en la [Ley Nº 1333](#TODO-link) - Ley del Medio Ambiente, para dar continuidad a los trámites y procesos administrativos en materia ambiental.
+* Que el Párrafo Tercero de la Primera Disposición Final del [Decreto Supremo Nº 28631](#TODO-link), faculta la tramitación para la restitución de alguna instancia suprimida, mediante Decreto Supremo, debiendo dicha restitución ser en el esquema de la incorporación de un a nueva instancia, definiendo sus recursos financieros con los que operara, por lo que emite la presente norma.
+* Que al haber solicitado los Ministros de Planificación del Desarrollo y el Ministro de Desarrollo Rural, Agropecuario y Medio Ambiente, para adecuarse a lo establecido a la normativa legal vigente, es necesario dictar el presente Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto realizar una complementación a la estructura del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+
+**Artículo 2°.- (Direccion General de Medio Ambiente)** 
+
+1. En cumplimiento por lo dispuesto en la [Ley Nº 1333](#TODO-link), es necesario incluir la Dirección General de Medio Ambiente en la estructura del Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+2. La Dirección General de Medio Ambiente, tendrá a su cargo la responsabilidad de la prevención, control y fiscalización de la calidad ambiental, sobre las actividades, obras y proyectos que puedan causar efectos sobre el medio ambiente.
+
+**Artículo 3°.- (Complementacion)** 
+
+1. La estructura del Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente, establecida en el Artículo 70 del [Decreto Supremo Nº 28631](#TODO-link), queda establecida de la siguiente manera:
+   > “*Viceministerio Biodiversidad, Recursos Forestales y Medio Ambiente*
+   >   
+   > a) Dirección General de Medio Ambiente.
+   >   
+   > b) Dirección General de Biodiversidad y Areas Protegidas.
+   >   
+   > c) Dirección General de Recursos Forestales.”
+2. Se complementa las funciones del Viceministro de Biodiversidad, Recursos Forestales y Medio Ambiente, establecidas en el Artículo 72 del [Decreto Supremo Nº 28631](#TODO-link), de la siguiente manera:
+     
+   Impulsar y ejercer las acciones de prevención, control, seguimiento y fiscalización de la calidad ambiental a nivel nacional sobre las actividades, obras y proyectos que puedan causar efectos sobre el medio ambiente.
+
+**Artículo 4°.- (Vigencia y competencias)** Los procesos administrativos por infracciones a la legislación ambiental que se tramitaban en la Dirección General del Medio Ambiente del ex - Viceministerio de Recursos Naturales y Medio Ambiente del ex - Ministerio de Desarrollo Sostenible, seguirán bajo conocimiento y resolución automática de la nueva Dirección General de Medio Ambiente del Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente, debiendo adecuarse a la legislación ambiental, competencias y estructura del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente.
+
+**Artículo 5°.- (Transferencias)** Con la finalidad de implantar la nueva Dirección General de Medio Ambiente y asegurar los recursos necesarios, el Ministerio de Planificación del Desarrollo, deberá de transferir al Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente todo el componente administrativo y financiero que tenia la ex - Dirección General de Medio Ambiente en el ex Ministerio de Desarrollo Sostenible, para lo cual se aplicara las Disposiciones Transitorias Tercera y Cuarta del [Decreto Supremo Nº 28631](#TODO-link).
+
+---
+
+Los Señores Ministros de Estado en los Despachos de Planificación del Desarrollo y de Desarrollo Rural, Agropecuario y Medio Ambiente, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los catorce días del mes de abril del año dos mil seis.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alicia Muñoz Alá, Walker San Miguel Rodríguez, Casimira Rodríguez Romero, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada, Walter Villarroel Morochi, Santiago Alex Gálvez Mamani, Félix Patzi Paco, Nila Heredia Miranda.

@@ -1,0 +1,164 @@
+# Bolivia: Reglamento de la Ley Nº 348 “Ley integral para garantizar a las mujeres una vida libre de violencia”., DS Nº 2145, 14 de octubre de 2014
+
+[Decreto Supremo Nº 2145](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+REGLAMENTO DE LA [Ley Nº 348](#TODO-link)  
+LEY INTEGRAL PARA GARANTIZAR A LAS MUJERES UNA VIDA LIBRE DE VIOLENCIA
+
+CONSIDERANDO:
+
+* Que los Parágrafos II y III del Artículo 15 de la [Constitución Política del Estado](#TODO-link), determinan que todas las personas, en particular las mujeres, tienen derecho a no sufrir violencia; y que el Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar la violencia de género y generacional.
+* Que el Parágrafo I del Artículo 114 del Texto Constitucional, establece que queda prohibida toda forma de violencia física o moral, las servidoras públicas y que los servidores públicos o las autoridades públicas que las apliquen, instiguen o consientan serán destituidas y destituidos, sin perjuicio de las sanciones determinadas por la Ley.
+* Que el Artículo 38 de la [Ley Nº 264](#TODO-link), de 31 de julio de 2012, del Sistema Nacional de Seguridad Ciudadana “Para una Vida Segura”, señala el presupuesto para la elaboración y la ejecución de políticas públicas, planes, programas, proyectos y estrategias de seguridad ciudadana y el establecimiento y funcionamiento de la institucionalidad de la seguridad ciudadana.
+* Que la [Ley Nº 348](#TODO-link), de 9 de marzo de 2013, Integral para Garantizar a las Mujeres una Vida Libre de Violencia, tiene por objeto establecer mecanismos, medidas y políticas integrales de prevención, atención, protección y reparación a las mujeres en situación de violencia, así como la persecución y sanción a los agresores, con el fin de garantizar a las mujeres una vida digna y el ejercicio pleno de sus derechos para Vivir Bien.
+* Que el Parágrafo I del Artículo 3 de la [Ley Nº 348](#TODO-link), dispone que el Estado Plurinacional de Bolivia asume como prioridad la erradicación de la violencia hacia las mujeres, por ser una de las formas más extremas de discriminación en razón de género.
+* Que el Parágrafo I del Artículo 11 de la [Ley Nº 348](#TODO-link), señala que el Ente Rector tendrá a su cargo el Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género - SIPPASE.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reglamentar la [Ley Nº 348](#TODO-link), de 9 de marzo de 2013, Integral para Garantizar a las Mujeres una Vida Libre de Violencia, estableciendo mecanismos de prevención, atención, protección, reparación y recursos para su implementación.
+
+**Artículo 2°.- (Aplicación)** Los servicios prestados en el marco del presente Decreto Supremo protegen a:
+
+1. Mujeres que se encuentren en situación de violencia, sin ningún tipo de discriminación;
+2. Hijas, hijos y otras personas dependientes de las mujeres en situación de violencia, respecto a los cuales, se aplican todas las medidas de protección y acciones de auxilio.
+
+**Artículo 3°.- (Faltas y contravenciones)** 
+
+1. Las contravenciones de violencia contra las mujeres que no constituyan delitos deberán ser denunciados, investigados y sancionados por la vía administrativa, conforme a la legislación vigente.
+2. Constituyen faltas de violencia contra las mujeres, los siguientes actos y omisiones:
+   1. La publicación y difusión de mensajes e imágenes estereotipadas que promuevan la sumisión de las mujeres o hagan uso sexista de su imagen como parte de la violencia mediática, simbólica y/o encubierta;
+   2. Las agresiones verbales, denegación de acceso al servicio o maltrato por motivos discriminatorios, maltrato e incumplimiento de deberes como parte de la violencia contra los derechos reproductivos, el derecho a la salud y la libertad sexual;
+   3. El acoso laboral y la violencia laboral serán denunciados ante el Ministerio de Trabajo Empleo y Previsión Social; asimismo, la discriminación a través de agresiones verbales o maltrato e incumplimiento de deberes ante la misma institución donde se hubiere producido el hecho, todas estas contravenciones como parte de la violencia laboral;
+   4. Las agresiones verbales, denegación injustificada de acceso al servicio o maltrato psicológico por motivos discriminatorios o cualquier otra forma de maltrato que no constituya delito, será denunciado ante las instancias donde se produjo el hecho como parte de la violencia institucional;
+   5. El maltrato o agresiones verbales por motivos discriminatorios, que no constituyan delito, serán denunciados ante la institución donde se produjo el hecho como parte de la violencia psicológica, contra la dignidad, la honra y el nombre.
+3. En todos los procesos administrativos se deberá disponer de forma inmediata las medidas necesarias para garantizar la protección de las mujeres en situación de violencia.
+4. La aplicación de sanciones por la comisión de faltas de violencia contra las mujeres no impide el ejercicio de las acciones civiles emergentes.
+5. Todas las instituciones públicas y privadas que reciban denuncias por faltas y contravenciones de violencia contra las mujeres reportarán al Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género - SIPPASE, bajo responsabilidad de incumplimiento de deberes.
+
+**Artículo 4°.- (Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en Razón de Género - SIPPASE)** Es la instancia dependiente del Ministerio de Justicia, responsable de reorganizar todo el sistema de atención integral a las mujeres en situación de violencia y de administrar la información de los servicios públicos y privados sobre hechos de violencia en razón de género.
+
+**Artículo 5°.- (Atribuciones)** Son atribuciones del SIPPASE:
+
+1. Desarrollar y coordinar acciones que promuevan el ejercicio del derecho de las mujeres a una vida libre de violencia en distintos ámbitos;
+2. Coordinar de manera intersectorial temas relativos a la prevención y atención de casos de violencia en razón de género, velando por el cumplimiento efectivo de los protocolos;
+3. Articular, coordinar y evaluar con las instancias y entidades públicas y privadas la aplicación efectiva y el cumplimiento de la [Ley Nº 348](#TODO-link) y normativa conexa;
+4. Realizar monitoreo y evaluación de programas de prevención y atención de hechos de violencia en razón de género;
+5. Centralizar y administrar la información proveniente de las instancias competentes de atención a mujeres en situación de violencia, a través del Registro Único de Violencia;
+6. Emitir certificaciones sobre antecedentes en violencia contra las mujeres conforme a lo dispuesto en el Parágrafo II del Artículo 11 de la [Ley Nº 348](#TODO-link).
+
+**Artículo 6°.- (Reporte de información al SIPPASE)** Las entidades públicas y privadas vinculadas con el tema de violencia hacia las mujeres remitirán información al SIPPASE.
+
+**Artículo 7°.- (Políticas públicas)** Toda política pública y plan nacional que se adopte en el Órgano Ejecutivo debe incluir, de manera integral y transversal, medidas e indicadores dirigidos a mejorar la situación de las mujeres para garantizar el ejercicio pleno de todos sus derechos. Deberán contener mecanismos y acciones para la prevención, atención y protección en casos de violencia hacia las mujeres de acuerdo a sus atribuciones.
+
+**Artículo 8°.- (Declaratoria de alerta)** 
+
+1. El Ministerio de Justicia declarará alerta contra la violencia en el ámbito nacional, a través de una Resolución Ministerial.
+2. Las entidades territoriales autónomas declararán alerta en un territorio determinado a través de una Ley emitida por autoridad competente.
+3. Para la declaratoria de alerta, el Ente Rector y las entidades territoriales autónomas deberán contemplar mínimamente:
+   1. Determinación del ámbito o zona objeto de alerta;
+   2. Conformación de comisiones interinstitucionales responsables para la atención de la alerta;
+   3. Elaboración e implementación del plan de acción con las instancias responsables;
+   4. Reasignación de recursos económicos.
+
+**Artículo 9°.- (Índice y tipos de alerta)** El Ministerio de Justicia a través del SIPPASE, elaborará indicadores y la línea base para establecer los tipos y los ámbitos específicos para determinar alerta de violencia hacia las mujeres.
+
+**Artículo 10°.- (Reportes especiales)** Cuando se declare alerta las entidades que correspondan, deberán remitir reportes especiales y permanentes al SIPPASE, a fin de realizar monitoreo y evaluación sobre el estado de situación y los resultados.
+
+**Artículo 11°.- (Apoyo institucional en caso de alerta)** Las organizaciones sociales, instituciones de mujeres de la sociedad civil y cualquier otra entidad en coordinación con el SIPPASE, podrán contribuir a las acciones definidas.
+
+**Artículo 12°.- (Recursos del Impuesto Directo a los Hidrocarburos - IDH)** Se autoriza a las entidades territoriales autónomas el uso de recursos provenientes del IDH, asignados a seguridad ciudadana en el marco de la [Ley Nº 264](#TODO-link), de 31 de julio de 2012, de acuerdo a lo establecido en el presente Decreto Supremo.
+
+**Artículo 13°.- (Uso de recursos)** 
+
+1. Los gobiernos autónomos departamentales, utilizarán el treinta por ciento (30%) del total de los recursos del IDH de seguridad ciudadana, para la construcción y equipamiento de las casas de acogida y refugios temporales, para mujeres en situación de violencia y sus dependientes, durante la primera gestión fiscal siguiente a la publicación del presente Decreto Supremo.
+2. A partir del segundo año, los Gobiernos Autónomos Departamentales, utilizarán el diez por ciento (10%) del total de los recursos del IDH de seguridad ciudadana, para mantenimiento y atención en las casas de acogida y refugio temporal para mujeres en situación de violencia y sus dependientes, a través de la provisión de personal y gastos de funcionamiento.
+3. Del total de los recursos del IDH de seguridad ciudadana, para la primera gestión fiscal siguiente a la publicación del presente Decreto Supremo, los Gobiernos Autónomos Municipales, utilizarán para los Servicios Legales Integrales Municipales, el veinticinco por ciento (25%) aquellos con una población mayor a cincuenta mil (50.000) habitantes, y treinta por ciento (30%) los que tengan una población menor a cincuenta mil (50.000) habitantes, a objeto de financiar infraestructura, equipamiento, mantenimiento y atención a través de la provisión de personal y gastos de funcionamiento.
+4. A partir del segundo año, los gobiernos autónomos municipales utilizarán el diez por ciento (10%) del total de los recursos del IDH de Seguridad Ciudadana, para mantenimiento y atención en los Servicios Legales Integrales Municipales para mujeres en situación de violencia y sus dependientes, a través de la provisión de personal y gastos de funcionamiento.
+5. Del total de los recursos asignados a seguridad ciudadana por las entidades territoriales autónomas, la Policía Boliviana solicitará a éstas como mínimo el cinco por ciento (5%) para el fortalecimiento de la Fuerza Especial de Lucha Contra la Violencia - FELCV y cumplir con las funciones establecidas en la [Ley Nº 348](#TODO-link).
+
+**Artículo 14°.- (Otros recursos)** Los recursos señalados en el Artículo precedente serán adicionales a lo establecido en la [Ley Nº 348](#TODO-link).
+
+**Artículo 15°.- (Acciones preventivas)** 
+
+1. Los Ministerios de Defensa y de Gobierno, implementarán programas y acciones de prevención de la violencia contra las mujeres, dirigidos a miembros de las Fuerzas Armadas y de la Policía Boliviana.
+2. El Ministerio de Educación en coordinación con el Ministerio de Justicia, incorporarán temas relativos a la prevención y erradicación de la violencia hacia las mujeres en los contenidos curriculares del Sistema Educativo Plurinacional, de acuerdo a lo siguiente:
+   1. La o el responsable de la institución educativa del Sistema de Educación Plurinacional tiene la obligación de denunciar a las instancias correspondientes los casos de violencia contra las mujeres independientemente de su edad, bajo responsabilidad en caso de incumplimiento;
+   2. Las Direcciones Distritales de Educación garantizarán el traspaso inmediato de hijos e hijas o dependientes de las mujeres que se encuentren en situación de violencia o de niñas, niños y adolescentes que se encuentre en situación de violencia, en los siguientes casos:
+      1. Por encontrarse en situación o riesgo de violencia.
+      2. Por existir medida de protección dictada por autoridad competente.
+   3. El traspaso procederá a sola presentación del requerimiento fiscal o del instructivo emitido por la Dirección Departamental de Educación y no se exigirá en ningún caso:
+      1. Autorización del padre.
+      2. Cobros para dar curso a la solicitud.
+   4. El incumplimiento de esta disposición hará pasible a la autoridad responsable a la sanción que corresponda de acuerdo a la normativa vigente.
+
+**Artículo 16°.- (Flexibilidad en horarios de trabajo)** 
+
+1. Las mujeres en situación de violencia tendrán tolerancia y flexibilidad de horarios de trabajo para asistir a los actos procesales, informarse sobre el estado de su proceso, recibir tratamiento o terapia médica, psicológica o cualquier otra emergente de la situación de violencia.
+2. Las entidades y empresas públicas y privadas incluirán en su normativa interna la reglamentación correspondiente para dar cumplimiento al Parágrafo precedente del presente Artículo, conforme disposición emitida por el Ministerio de Trabajo, Empleo y Previsión Social.
+
+**Artículo 17°.- (Obligatoriedad de denuncia)** El personal de los servicios de salud de todos los niveles públicos, de seguridad social y de servicios privados, en caso de detectar en la paciente signos de haber sufrido cualquier tipo de violencia, deberá reportar el caso de forma inmediata y obligatoria a la FELCV o al Servicio Legal Integral Municipal - SLIM más próximo.
+
+**Artículo 18°.- (Responsabilidad del Ministerio de Salud)** El Ministerio de Salud tiene las siguientes responsabilidades:
+
+1. Desarrollar procesos de formación y capacitación permanente a recursos humanos del Sistema Nacional de Salud para la prevención, promoción y atención integral de las mujeres en situación de violencia;
+2. Promover y realizar investigaciones sobre factores de riesgos, factores desencadenantes, consecuencias y determinantes sociales asociados a la problemática de violencia hacia las mujeres;
+3. Coordinar con el Instituto de Investigaciones Médico Forenses - IDIF, la adopción y aplicación de protocolos e instrumentos para la atención a mujeres en situación de violencia por parte de los servicios médicos y la homologación de los certificados médicos.
+
+**Artículo 19°.- (Difusión y comunicación)** 
+
+1. El Ministerio de Comunicación elaborará contenidos mínimos de difusión para prevenir y erradicar hechos de violencia contra las mujeres, mismos que serán remitidos a los medios de comunicación para su emisión gratuita.
+2. Los medios de comunicación deberán observar las siguientes disposiciones:
+   1. Elaborar, implementar y cumplir sus Códigos de Ética en la difusión de la programación diaria y de la publicidad, a fin de prevenir y erradicar toda forma de discriminación, generación o perpetuación de estereotipos, o violencia contra las mujeres en cualquiera de sus formas;
+   2. Transmitir información preservando la intimidad, identidad y dignidad de las mujeres en situación de violencia, así como de sus hijas e hijos y dependientes;
+   3. Difundir información relativa a violencia contra las mujeres sin sensacionalismo, con objetividad y ética.
+3. Los medios de comunicación a fin de promover acciones de prevención y educación destinadas a reducir la violencia contra las mujeres difundirán de manera gratuita los contenidos mínimos de acuerdo al siguiente detalle:
+   1. En canales de televisión: al menos diez (10) minutos al mes, en horarios preferenciales;
+   2. En radioemisoras: al menos veinte (20) minutos al mes, en horarios preferenciales;
+   3. En diarios y semanarios: al menos una (1) página al mes, y en revistas: media (1/2) página al mes; en espacios preferenciales para ambos casos;
+   4. En periódicos digitales en internet, un (1) espacio al mes.
+
+**Artículo 20°.- (Casas de acogida y refugio temporal)** 
+
+1. La remisión a una Casa de Acogida y Refugio Temporal de una mujer en situación de violencia, podrá ser adoptada por los promotores de la denuncia, operadores, administradores de justicia y organizaciones de la sociedad civil que trabajen atendiendo a mujeres en situación de violencia.
+2. El personal de las Casas de Acogida y Refugio Temporal, no podrán tener ningún contacto con el agresor o con familiares del mismo, ni podrán promover bajo ningún concepto la conciliación de éste con la mujer en situación de violencia.
+3. Los refugios temporales públicos recibirán a mujeres en situación de violencia que requieran permanencia transitoria que no amerite su ingreso a una casa de acogida.
+
+**Artículo 21°.- (Exclusividad de funciones de la FELCV)** Las servidoras y los servidores públicos policiales designados a la FELCV, desarrollarán sus funciones establecidas en la [Ley Nº 348](#TODO-link) de manera exclusiva y permanente.
+
+**Artículo 22°.- (Asignación presupuestaria a la FELCV)** La Policía Boliviana, asignará presupuesto suficiente para infraestructura adecuada, equipamiento de trabajo e investigación, capacitación y formación del personal y otros necesarios para el cumplimiento de las funciones establecidas en la [Ley Nº 348](#TODO-link).
+
+**Artículo 23°.- (Seguimiento)** La FELCV realizará el seguimiento por setenta y dos (72) horas a las mujeres en situación de violencia mediante visitas domiciliarias u otras adecuadas dentro del proceso de investigación debiendo presentar un informe. Cumplido este plazo se realizarán visitas periódicas hasta que cese la situación de riesgo.
+
+**Artículo 24°.- (Examen médico)** 
+
+1. El examen médico se llevará a cabo preservando la salud y dignidad de la examinada y evitando su revictimización debiendo aplicar obligatoriamente, los protocolos que correspondan. al acto solo podrá asistir una persona de confianza de la examinada quien será informada previamente de tal derecho.
+2. Copia de la certificación médica deberá adjuntarse obligatoriamente al Historial Clínico.
+
+**Artículo 25°.- (Deber de informar)** Las instituciones promotoras y receptoras de la denuncia deben, en todas las etapas pertinentes del proceso legal, brindar información de forma diligente y adecuada a las mujeres en situación de violencia y en un idioma de su comprensión, sobre:
+
+1. Sus derechos;
+2. Las acciones a seguirse dentro de los procesos administrativos y judiciales pertinentes;
+3. Los servicios, mecanismos de apoyo y medidas de protección disponibles;
+4. Las oportunidades de obtener restitución y compensación a través del sistema judicial;
+5. Otros relativos a su situación.
+
+**Artículo 26°.- (Atención con calidez)** Las servidoras y los servidores públicos que atiendan casos de mujeres en situación de violencia darán un trato digno, respetuoso, con calidad y calidez, no debiendo incurrir en las siguientes conductas:
+
+1. Adoptar una actitud acusadora o estigmatizante hacia las mujeres en situación de violencia, así como cuestionar la conducta íntima o sexual;
+2. Dar mala atención e interrumpir el relato que dificulte la comprensión;
+3. Dar un trato humillante, vejatorio, discriminatorio o agresivo;
+4. Hacer referencia al hecho sufrido en términos irrespetuosos, incriminatorios o culpabilizadores, opinar o emitir juicios de valor sobre la mujer, sus roles y sus decisiones.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en Palacio de Gobierno de la Ciudad de La Paz, a los catorce días del mes de octubre del año dos mil catorce.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Jorge Perez Valenzuela, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Juan Carlos Calvimontes Camargo MINISTRO DE SALUD E INTERINO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

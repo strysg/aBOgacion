@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 27361, 10 de febrero de 2004
+
+CARLOS D. MESA GISBERT
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004 estableció los mecanismos de austeridad a aplicarse en el Poder Ejecutivo, con el objeto de racionalizar los gastos de las entidades públicas.
+* Que la Asociación Internacional para el Desarrollo (International Development Association - IDA), ha firmado con la República de Bolivia el Contrato de Préstamo IDA 3507-BO, suscrito en fecha 22 de mayo de 2001 para la ejecución del Crédito Programático de Ajuste Estructural (Programmatic Structural Adjustment Credit - PSAC), por un monto aproximado de 60 millones de dólares americanos. El Convenio está definido como el primero de cuatro créditos programáticos a ejecutarse hasta finales del año 2005, cuyos recursos están destinados a profundizar el proceso de descentralización del Estado boliviano.
+* Que el Ministerio de Hacienda, mediante Resolución Ministerial Nº 003 de 2 de enero de 2004 asignó recursos disponibles del Crédito Programático de Ajuste Estructural PSAC del Contrato de Préstamo IDA 3507-BO por el monto de $us601.157,00.- (Seiscientos Un mil Ciento Cincuenta y siete 00/100 Dólares Estadounidenses) para el “Subprograma VCG3 Temas del Ministerio de la Presidencia”, con la finalidad de dar cumplimiento a los objetivos del Programa en el marco de la profundización del proceso de descentralización del país.
+* Que mediante Convenio Interinstitucional MH-UDF-VCG Nº 003 se acordó la transferencia de recursos entre el Ministerio de Hacienda y el Ministerio de la Presidencia, por un monto de $us601.157,00.- (Seiscientos Un mil Ciento Cincuenta y siete 00/100 Dólares Estadounidenses), a ser ejecutados por el Viceministerio de Coordinación Gubernamental del Ministerio de la Presidencia.
+* Que el Informe Técnico MPR-VCG-DAF 001/2004 de 28 enero de 2004 e Informe Legal UA-DGAJ Nº 009/2004 de 4 de febrero de 2004, elaborados por el Departamento Administrativo Financiero dependiente del Viceministerio de Coordinación Gubernamental y la Dirección General de Asuntos Jurídicos, ambos del Ministerio de la Presidencia, establecen la necesidad y prioridad del requerimiento y, determinan su legalidad en virtud de que no se contraviene ninguna norma vigente en la materia, quedando convalidados a través de la presente norma.
+* Que mediante Nota MPR. VCG No.540/04 de 3 de febrero de 2004 el Viceministro de Coordinación Gubernamental solicitó la emisión de la norma de aprobación y autorización para la inscripción de los citados recursos financieros en el presupuesto de la gestión 2004.
+* Que el Crédito Programático de Ajuste Estructural está constituido por recursos programados con anterioridad hasta su finalización en el año 2005 y, por tanto, se encuentra compatibilizado con la aplicación del Artículo 7 de la [Ley Nº 2627](#TODO-link) de 30 de diciembre de 2003 y cumple con lo dispuesto en el Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link).
+* Que el Presupuesto del Ministerio de la Presidencia de las Direcciones Administrativas: Gestión de la Presidencia y Unidad de Análisis, la Partida 25200 “Estudios e Investigaciones”, fue registrado en la Partida 26900 “Otros Servicios No Personales”, debido a retrasos en la información y registro presupuestario; por lo que, se debe regularizar el registro tal como correspondía en la gestión 2003.
+* Que en función del normal desarrollo de las actividades del Ministerio de la Presidencia es necesario realizar el traspaso presupuestario de la Partida 26900 “Otros Servicios No Personales” a la Partida 25200 “Estudios e Investigaciones”, debido a que los recursos involucrados ya fueron consignados con anterioridad para el Ministerio de la Presidencia.
+* Que el citado traspaso, de conformidad a los Informes Técnico y Jurídico de respaldo, emitidos por las instancias correspondientes del Ministerio de la Presidencia, de ninguna manera significa incremento o nueva asignación presupuestaria, se encuentra compatibilizado con el Artículo 7 de la [Ley Nº 2627](#TODO-link) y cumple lo dispuesto por el Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link); y, al no contradecir ninguna norma legal en vigencia quedan convalidados a través de la presente norma.
+
+EN CONSEJO DE GABINETE,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. De conformidad a lo establecido por el Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link) de 31 de enero de 2004 y no vulnerar lo dispuesto por el Artículo 7 de la [Ley Nº 2627](#TODO-link), se aprueba y autoriza la inscripción de un Presupuesto de $us601.157,00.- (Seiscientos Un mil Ciento Cincuenta y siete 00/100 Dólares Estadounidenses) equivalente a Bs4.833.302,00.- (Cuatro Millones novecientos Treinta y Tres mil Trescientos Dos 00/100 Bolivianos) a favor del Ministerio de la Presidencia, según Anexo adjunto, que forma parte integrante del presente Decreto Supremo.
+2. De conformidad a lo establecido por el Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link) y no vulnerar lo dispuesto por el Artículo 7 de la [Ley Nº 2627](#TODO-link), se autoriza, excepcionalmente y por tratarse del segmento ligado a la Presidencia de la República, registrar el incremento de la Partida 25200 “Estudios e Investigaciones” a favor del Ministerio de la Presidencia en las Direcciones Administrativas de: Gestión de la Presidencia y Unidad de Análisis, según Anexo adjunto que forma parte integrante del presente Decreto Supremo. Asimismo, excepcionalmente se autoriza el traspaso de la Partida 12100 “Personal Eventual” a la Partida 11700 “Sueldos” de la Unidad de Análisis aprobada en el Presupuesto de la Gestión 2004, según Anexo adjunto que forma parte integrante del presente Decreto Supremo.
+3. El presente Decreto Supremo está compatibilizado y no vulnera lo establecido en el Artículo 7 de la [Ley Nº 2627](#TODO-link) y se emite en cumplimiento del Artículo 8 del [Decreto Supremo Nº 27327](#TODO-link).
+
+---
+
+Los Señores Ministros de Estado en los Despachos de la Presidencia y Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de febrero del año dos mil cuatro.
+  
+Fdo. CARLOS D. MESA GISBERT, Juan Ignacio Siles del Valle, José Antonio Galindo Neder, Alfonso Ferrufino Valderrama, Gonzalo Arredondo Millán, Javier Gonzalo Cuevas Argote, Jorge Cortes Rodríguez, Xavier Nogales Iturri, Carlos Romero Mallea Ministro Interino de Servicios y Obras Publicas, Alvaro Ríos Roca, Donato Ayma Rojas, Fernando Antezana Aranibar, Luis Fernández Fagalde, Diego Montenegro Ernst, Roberto Barbery Anaya, Justo Seoane Parapaino.

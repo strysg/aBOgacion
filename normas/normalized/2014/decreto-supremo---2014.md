@@ -1,0 +1,28 @@
+# Bolivia: Decreto Supremo Nº 2014, 28 de mayo de 2014
+
+[Decreto Supremo Nº 2014](#TODO-link)  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 1 del Artículo 5 de la [Ley Nº 070](#TODO-link), de 20 de diciembre de 2010, de la Educación “Avelino Siñani - Elizardo Pérez”, determina como un objetivo de la educación, el desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica de la vida y en la vida para Vivir Bien, que vincule la teoría con la práctica productiva. La educación estará orientada a la formación individual y colectiva, sin discriminación alguna, desarrollando potencialidades y capacidades físicas, intelectuales, afectivas, culturales, artísticas, deportivas, creativas e innovadoras, con vocación de servicio a la sociedad y al Estado Plurinacional.
+* Que el Artículo 11 de la [Ley Nº 070](#TODO-link), establece que el Subsistema de Educación Regular comprende a la Educación Inicial en Familia Comunitaria; Educación Primaria Comunitaria Vocacional; y Educación Secundaria Comunitaria Productiva.
+* Que el Parágrafo I del Artículo 4 del [Decreto Supremo Nº 1861](#TODO-link), de 8 de enero de 2014, que reglamenta la aplicación de la [Ley Nº 455](#TODO-link), de 11 de diciembre de 2013, del Presupuesto General del Estado - Gestión 2014, dispone que en el marco de sus competencias, autoriza al Ministerio de Economía y Finanzas Públicas y al Viceministerio de Inversión Pública y Financiamiento Externo dependiente del Ministerio de Planificación del Desarrollo, la inscripción o incremento de las partidas de gasto 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y 46000 “Estudios y Proyectos para Inversión”, con recursos de financiamiento externo de crédito, donación y/o contraparte nacional establecidos en los convenios específicos, no amerita Decreto Supremo. Para las demás fuentes de financiamiento el incremento de estas partidas deberá aprobarse mediante Decreto Supremo.
+* Que el Artículo 19 del [Decreto Supremo Nº 1861](#TODO-link), señala que la definición de las remuneraciones de los consultores individuales de línea, debe estar establecida en función a la escala salarial; para lo cual, las Unidades Administrativas de cada entidad, elaborarán el cuadro de equivalencia de funciones que será avalado por la Unidad Jurídica y la Máxima Autoridad Ejecutiva - MAE de la entidad, a través de una Resolución expresa.
+* Que el Ministerio de Educación requiere incrementar la subpartida 25220 “Consultores Individuales de Línea”, para la implementación de las actividades del Programa “Escuelas Comunitarias para Vivir Bien”, que pretende crear espacios alternativos para los adolescentes y jóvenes, así como el entorno de la comunidad, que permita formar conciencia social a través de actividades educativas, culturales y recreativas, en el marco de la filosofía del Vivir Bien.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza al Ministerio de Educación incrementar la subpartida 25220 “Consultores Individuales de Línea” por un monto de Bs354.900.- (TRESCIENTOS CINCUENTA Y CUATRO mil novecientos 00/100 BOLIVIANOS), financiados con fuente y organismo financiador 10-111 “Tesoro General de la Nación”, a través de un traspaso presupuestario intrainstitucional, afectando la subpartida 26990 “Otros”, para la implementación de las actividades del Programa “Escuelas Comunitarias para Vivir Bien”.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Publicas, y de Educación, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de mayo del año dos mil catorce.
+  
+Fdo. ALVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO PLANIFICACIÓN DEL DESARROLLO, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL E INTERINA DE DESARROLLO RURAL Y TIERRAS, Arturo Vladimir Sánchez Escobar, Felix Cesar Navarro Miranda, Elizabeth Sandra Gutierrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres, Tito Rolando Montaño Rivera.

@@ -1,0 +1,89 @@
+# Bolivia: Decreto Supremo Nº 1759, 9 de octubre de 2013
+
+Decreto Supremo Nº 1759
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo III del Artículo 103 de la [Constitución Política del Estado](#TODO-link), establece que el Estado, las universidades, las empresas productivas y de servicio públicas y privadas, y las naciones y pueblos indígena originario campesinos, desarrollarán y coordinarán procesos de investigación, innovación, promoción, divulgación, aplicación y transferencia de ciencia y tecnología para fortalecer la base productiva e impulsar el desarrollo integral de la sociedad.
+* Que los Parágrafos I y III del Artículo 318 del Texto Constitucional, disponen que el Estado determinará una política productiva industrial y comercial que garantice una oferta de bienes y servicios suficientes para cubrir de forma adecuada las necesidades básicas internas, y para fortalecer la capacidad exportadora; así como fortalecerá la infraestructura productiva, manufacturera e industrial y los servicios básicos para el sector productivo.
+* Que La [Ley Nº 232](#TODO-link), de 9 de abril de 2012, crea el Fondo para la Revolución Industrial Productiva - FINPRO y establece los mecanismos de financiamiento y asignación de sus recursos para la implementación de emprendimientos productivos.
+* Que el Artículo 5 del [Decreto Supremo Nº 1367](#TODO-link), de 3 de octubre de 2012, que Reglamenta la [Ley Nº 232](#TODO-link), señala el procedimiento general para la aprobación de proyectos del FINPRO. Asimismo, el Artículo 6 del mencionado Decreto Supremo, establece que una vez que los emprendimientos productivos cuenten con la homologación respectiva por parte del Comité, la asignación de recursos deberá ser aprobada mediante Decreto Supremo, a ser tramitado de acuerdo a normativa vigente.
+* Que mediante Resolución Ministerial MDPyEP/DESPACHO/N°.178.2013, de 29 de agosto de 2013, se aprueba el Estudio de Identificación del Proyecto “Implementación Planta Ensambladora de Equipos de Computación en el Parque Industrial de Kallutaca-Laja”, mismo que fue remitido a consideración del Comité de Homologación de Proyectos del FINPRO.
+* Que una vez cumplidos los requisitos exigidos al efecto, el proyecto “Implementación Planta Ensambladora de Equipos de Computación en el Parque Industrial de Kallutaca-Laja”, presentado por el Ministerio de Desarrollo Productivo y Economía Plural, ha sido homologado mediante Resolución N° 008/2013, de 16 de septiembre de 2013, emitida por el Comité de Homologación de Proyectos del FINPRO.
+* Que corresponde la emisión del Decreto Supremo con la finalidad de crear una Empresa Pública Nacional Estratégica y autorizar el préstamo para la implementación, operación y puesta en marcha de la Planta Ensambladora de Equipos de Computación.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto crear la Empresa Pública “QUIPUS” y autorizar la asignación de recursos del “Fondo para la Revolución Industrial Productiva” - FINPRO.
+
+**Artículo 2°.- (Creación y naturaleza jurídica)** 
+
+1. Se crea la Empresa Pública “QUIPUS”, con personalidad jurídica y patrimonio propio, de duración indefinida, autonomía de gestión administrativa, financiera, técnica y legal, bajo tuición del Ministerio de Desarrollo Productivo y Economía Plural.
+2. La Empresa QUIPUS no cuenta con directorio y tiene el carácter de Empresa Pública Nacional Estratégica - EPNE.
+
+**Artículo 3°.- (Domicilio)** La Empresa QUIPUS, tiene como domicilio la ciudad de La Paz, pudiendo establecer agencias o sucursales en todo el territorio del Estado Plurinacional de Bolivia.
+
+**Artículo 4°.- (Giro de la empresa)** La Empresa QUIPUS tiene por giro y principal actividad la producción, ensamblado y comercialización de productos que son parte del Complejo Productivo Tecnológico.
+
+**Artículo 5°.- (Financiamiento)** La Empresa QUIPUS será financiada mediante:
+
+1. Recursos específicos;
+2. Donaciones;
+3. Créditos;
+4. Otros.
+
+**Artículo 6°.- (Gerente General y funciones)** 
+
+1. La Empresa QUIPUS, estará a cargo de un Gerente General que ejercerá la representación institucional y será designado por el Presidente del Estado Plurinacional de Bolivia, mediante Resolución Suprema.
+2. Son funciones del Gerente General, las siguientes:
+   1. Ejercer la representación legal de la empresa;
+   2. Realizar las acciones necesarias para garantizar el funcionamiento, en el marco de la normativa vigente;
+   3. Aprobar la organización, estructura, planes, programas, proyectos reglamentos y manuales necesarios para el funcionamiento y desarrollo de las actividades de la empresa;
+   4. Aprobar el Programa de Operación Anual, presupuesto de la empresa y su reformulación, para su posterior remisión a las instancias correspondientes;
+   5. Elaborar la escala salarial de la empresa para su posterior aprobación por Resolución Bi-Ministerial;
+   6. Aprobar el Plan Estratégico de la empresa;
+   7. Evaluar el cumplimiento de los planes a corto, mediano y largo plazo de la empresa;
+   8. Suscribir contratos, convenios, y/o acuerdos para el cumplimiento de las actividades de la empresa, en el marco de la normativa vigente;
+   9. Administrar recursos para el desarrollo de las funciones de la empresa, en el marco de la normativa vigente;
+   10. Elaborar y presentar informes sobre el avance de actividades de la empresa a requerimiento del Ministerio de Desarrollo Productivo y Economía Plural;
+   11. Otras funciones inherentes a su cargo.
+
+**Artículo 7°.- (Régimen laboral)** Las trabajadoras y los trabajadores de la Empresa QUIPUS, se hallan sometidos al régimen laboral de la Ley General del Trabajo.
+
+**Artículo 8°.- (Recursos de financiamiento del FINPRO)** En el marco de lo dispuesto por la [Ley Nº 232](#TODO-link), de 9 de abril de 2012, se autoriza al Banco de Desarrollo Productivo S. A. M.- BDP SAM, Banco de Segundo Piso, a suscribir un contrato de préstamo con la Empresa Pública “QUIPUS”, por un monto de $us60.705.515.- (SESENTA MILLONES novecientos CINCO mil QUINIENTOS QUINCE 00/100 DÓLARES ESTADOUNIDENSES), con recursos del Fideicomiso del “Fondo para la Revolución Industrial Productiva” - FINPRO, para la implementación, operación y puesta en marcha de la “Implementación Planta Ensambladora de Equipos de Computación en el Parque Industrial de Kallutaca - Laja”.
+
+**Artículo 9°.- (Plazo, tasa de interés y forma de pago)** 
+
+1. El contrato de préstamo deberá establecer un plazo de diez (10) años, con un (1) año de gracia.
+2. Se fija una tasa de interés anual del uno por ciento (1%).
+3. La forma de pago del crédito será realizada anualmente.
+
+**Artículo 10°.- (Garantías)** 
+
+1. En el marco del Artículo 5 de la [Ley Nº 232](#TODO-link), el Ministerio de Economía y Finanzas Públicas a través del Tesoro General de la Nación - TGN, emitirá Bonos del Tesoro para garantizar la operación de financiamiento señalada en el Artículo 8 del presente Decreto Supremo.
+2. En el caso que los Bonos del Tesoro señalados en el Parágrafo I del presente Artículo sean efectivizados, el Ministerio de Economía y Finanzas Públicas, debitará automáticamente de las cuentas que mantiene la empresa en el Banco Central de Bolivia y cuentas corrientes fiscales en el sistema financiero, los importes que correspondan o en su caso, la empresa emitirá Certificado Accionario o Certificado Representativo de Participación de Capital.
+
+**Artículo 11°.- (Evaluación, seguimiento y control)** El Ministerio de Desarrollo Productivo y Economía Plural, será el encargado de realizar la evaluación, seguimiento y control de los recursos otorgados por el Fideicomiso del FINPRO, a favor de la Empresa QUIPUS.
+
+# Disposiciones adicionales
+
+**Artículo adicional Único.-** Se incorpora el Parágrafo V al Artículo 4 del [Decreto Supremo Nº 26688](#TODO-link), de 5 de julio de 2002, ampliado, complementado y modificado por los Decretos Supremos Nº 0224, de 24 de julio de 2009, Nº 0800, de 23 de febrero de 2011, N° 1306, de 1 de agosto de 2012 y Nº 1469, de 25 de enero de 2013, con el siguiente texto:
+> “V. Se autoriza a la Empresa Pública “QUIPUS”, realizar contrataciones directas o por comparación de ofertas en territorio extranjero de bienes y servicios especializados cuando éstos no estén disponibles en el mercado nacional o no se puedan recibir ofertas en el país o la contratación de éstos sea de mayor beneficio económico para la empresa; pudiéndose adherir a los contratos elaborados por los proveedores y contratistas.”
+
+# Disposiciones finales
+
+**Artículo final Único.-** Para el cumplimiento de la Disposición Adicional Única del presente Decreto Supremo, el Ministerio de Desarrollo Productivo y Economía Plural en coordinación con la Empresa Pública “QUIPUS”, en el plazo de veinte (20) días calendario, computables a partir de su publicación, elaborará el reglamento específico que contendrá las modalidades, procedimientos, plazos, criterios de evaluación y demás características de los procesos de contratación que realice, velando por la competitividad, eficiencia y transparencia de los mismos.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo, de Economía y Finanzas Públicas, y de Desarrollo Productivo y Economía Plural, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de octubre del año dos mil trece.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco MINISTRO DE HIDROCARBUROS Y ENERGÍA E INTERINO DE MEDIO AMBIENTE Y AGUA, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

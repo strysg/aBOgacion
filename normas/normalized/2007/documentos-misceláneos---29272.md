@@ -1,0 +1,3156 @@
+# Bolivia: Documentos misceláneos Nº DS29272, 12 de septiembre de 2007
+
+PLAN NACIONAL DE DESARROLLO “BOLIVIA DIGNA, SOBERANA, PRODUCTIVA Y DEMOCRÁTICA PARA VIVIR BIEN”
+  
+LINEAMIENTOS ESTRATÉGICOS
+  
+2006 - 2011
+
+### Presentación
+
+El Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien”, 2006 – 2011, en su primera versión, en presencia del Presidente Constitucional de la República Evo Morales Ayma, fue presentado oficial y públicamente en Palacio de Gobierno el 16 de junio, 2006.
+  
+El inicio de su ejecución tiene sus orígenes en el mes de mayo, 2006. Posteriormente, durante el segundo semestre del año 2006, fue socializado a través de talleres realizados en todo el país con la participación de organizaciones sociales, indígenas, originarios, campesinos, productores, empresarios, ciudadanos y académicos. En la presente gestión se profundizó su implementación y se actualizaron las propuestas programáticas.
+  
+El Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien: Lineamientos Estratégicos”, 2006 – 2011, en su versión actualizada, fue aprobado mediante Decreto Supremo No 29272, de fecha 12 septiembre, 2007.
+  
+**Ministros de Planificación del Desarrollo**
+
+|  |  |
+| --- | --- |
+| Lic. Carlos Villegas | Gestión 23/1/06-14/9/06 |
+| Lic. Hernando Larrazabal | Gestión 15/9/06-22/1/07 |
+| Lic. Gabriel Loza | Gestión 23/1/07 a la fecha |
+
+  
+**Viceministros**
+
+|  |  |
+| --- | --- |
+| Lic. Noel Aguirre | de Planificación y Coordinación |
+| Lic. Jhon Vargas | de Planificación Territorial y Medio Ambiente |
+| Dr. Roger Carvajal | de Ciencia y Tecnología |
+| Lic. Hernando Larrazabal | de Inversión Pública y Financiamiento Externo |
+| Lic. Humberto Arandia | de Planificación Estratégica Plurianual |
+| Lic. Carmen Alcoreza | de Inversión Pública y Financiamiento Externo |
+
+  
+**Directores Generales**
+
+|  |  |
+| --- | --- |
+| Lic. Luís A. Rodríguez | Director General de Planificación |
+| Lic. Javier Fernández | Director General de Coordinación Institucional |
+| Lic. David Haquim | Director General de Planificación Territorial |
+| Lic. Raúl Manjón | Director General de Planificación Estratégica y Plurianual |
+
+  
+**Equipo Técnico del Ministerio de Planificación del Desarrollo MPD**
+
+|  |  |  |
+| --- | --- | --- |
+| Celso Ayala | Daniel Vedia | Bernardo Corro |
+| Celso Erazo | Fernando Jiménez A. | Víctor Camacho |
+| Juan Gabriel Pérez | Guillermo Pereira | Jesús Limpias |
+| Daniela Seoane | Jorge Bohorquez | Carmen Zelada |
+| Mónica Loma | Héctor Cordova | Mariana Deheza |
+| Claudia Sotomayor | Jerzy De la Barra A. | Andres Viscarra |
+| Aparecida Tobias | Luis Alberto Miranda | Humberto Zambrana |
+| Vivian Viaña | Sonia Escobar | Antonio Calvetti |
+| Mariela Fernandez | Daniel Vargas | Jazmín Antonio |
+| Marcos Kucharsky | Marina Videla |  |
+| Rafo Delgado | Miriam Olivares |  |
+
+### Presentación
+
+Las políticas neoliberales que habían anunciado un elevado crecimiento económico y la reducción de la pobreza no han cumplido su objetivo, más al contrario, al cabo de 20 años de su aplicación en Bolivia, hasta diciembre de 2005, estos ajustes mostraron un país con bajo crecimiento del PIB per capita, con mayor pobreza y menores oportunidades de desarrollo económico, político, social y cultural.
+  
+Es así que a partir del 22 de enero del 2006, Bolivia inició una nueva etapa de su historia. De esta historia, sembrada de esperanzas y desafíos, emerge la necesidad de construir la revolución democrática y cultural que plantea el gobierno presidido por el compañero y hermano Evo Morales Ayma.
+  
+La convocatoria a la Asamblea Constituyente, la Nacionalización de los Hidrocarburos, la puesta en marcha del proyecto Mutún, la distribución del Bono Juancito Pinto y otras medidas que puso en práctica el Gobierno Nacional, son parte del propósito y de los caminos orientados a consolidar el actual periodo de transformaciones. Estas medidas forman parte del Plan Nacional de Desarrollo: Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien.
+  
+Las propuestas y orientaciones del Plan Nacional de Desarrollo (PND) son la base del inicio del desmontaje del colonialismo y del neoliberalismo en el país. Constituyen, asimismo, el resultado de las demandas seculares y actuales del pueblo para construir un Estado pluricultural y comunitario, que permita el empoderamiento de los movimientos sociales y pueblos indígenas emergentes. Su principal aspiración es que las bolivianas y bolivianos vivamos bien.
+  
+El objetivo es lograr la convivencia equilibrada y la complementariedad con equidad de la Economía Estatal, la Economía Comunitaria –que se asienta en procesos productivos, impulsados por organizaciones sociales, comunitarias, y micro y pequeños empresarios, artesanos, organizaciones económicas campesinas, organizaciones productivas, comunidades, y asociaciones urbanas y rurales–, la Economía Mixta y la Economía Privada.
+  
+Bolivia vive actualmente una excelente coyuntura nacional e internacional. En lo interno se cuenta con un masivo respaldo de la población, así como una dotación especial de recursos naturales renovables y no renovables, con reservas significativas de hidrocarburos, lo que permitirá disponer de excedentes económicos importantes para su uso dentro del país y orientado a la diversificación económica y el desarrollo social. En lo externo, se cuenta con un ciclo económico mundial favorable debido al aumento de los precios internacionales de las materias primas relacionados con los sectores de hidrocarburos, minería y agropecuario.
+  
+Esta coyuntura favorable requiere de un manejo adecuado, especialmente, para que el excedente económico se traduzca en inversión social y productiva, contribuya a construir y a consolidar una Bolivia Digna, Soberana, Productiva y Democrática, como es la finalidad del Plan Nacional de Desarrollo para que las bolivianas y bolivianos vivamos bien.
+  
+Después de muchos años el país cuenta ahora con un Plan Nacional de Desarrollo, con visión para el corto, mediano y largo plazo, un Ministerio de Planificación que en conjunto con el equipo de Gobierno permitirán direccionar los recursos internos y externos en función de las prioridades nacionales.
+  
+El Plan Nacional de Desarrollo: “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien” comprende seis capítulos:
+  
+Capítulo I: Concepción del Desarrollo
+  
+Capítulo II: Bolivia Digna
+  
+Capítulo III: Bolivia Democrática
+  
+Capítulo IV: Bolivia Productiva
+  
+Capítulo V: Bolivia Soberana
+  
+Capítulo VI: Sostenibilidad Macroeconómica
+  
+De acuerdo a los lineamientos estratégicos que establece el Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien”, los planes de desarrollo del país, en todos los ámbitos sectoriales y territoriales, según sus características, deberán incorporar la siguiente estructura, objetivos y composición de los pilares del PND:
+  
+El objetivo de la *Bolivia Digna* es la erradicación de la pobreza y la inequidad, de manera de lograr un patrón equitativo de distribución y/o redistribución de ingresos, riqueza y oportunidades. Está conformada por los sectores generadores de activos y condiciones sociales; y por la política, estrategias y programas intersectoriales de Protección Social y Desarrollo Integral Comunitario.
+  
+El objetivo de la *Bolivia Democrática* es construir una sociedad y Estado plurinacional y socio- comunitario, donde el pueblo ejerza el poder social y comunitario y sea corresponsable de las decisiones sobre su propio desarrollo y del país. Está constituido por los sectores orientados a lograr una mejor gestión gubernamental, transparencia y construir el poder social comunitario.
+  
+La *Bolivia Productiva* está orientada hacia la transformación, el cambio integrado y diversificación de la matriz productiva, logrando el desarrollo de los complejos productivos integrales, y generando excedentes, ingreso y empleo con la finalidad de cambiar el patrón primario exportador excluyente. Está conformada por los sectores: estratégicos generadores de excedentes y los sectores generadores de empleo e ingreso. De manera transversal se encuentran los sectores de infraestructura para el desarrollo productivo y de apoyo a la producción.
+  
+La *Bolivia Soberana* contribuirá a constituir al Estado en un actor internacional, soberano, autodeterminado, con identidad propia, mediante una política exterior que oriente la acción política y diplomática con presencia de los pueblos y defensa sostenible de los recursos naturales y de la biodiversidad. Está conformada por los sectores de Relaciones Exteriores y Relaciones Económicas internacionales.
+  
+La concepción de desarrollo y los pilares del PND, requieren de un equilibrio entre el cambio deseado y la sostenibilidad macroeconómica del país como instrumento que coadyuvará a implementar las mencionadas estrategias, de manera que, las políticas adoptadas profundicen la recuperación de la economía y promueven mayor justicia social.
+  
+Se está construyendo un Sistema Nacional de Planificación a nivel nacional, departamental y municipal, que permita realizar un seguimiento, monitoreo y evaluación del PND. El Presupuesto General de la Nación será programado de acuerdo a los objetivos, lineamientos y prioridades del Plan Nacional de Desarrollo, con la finalidad de lograr resultados a favor de la población boliviana.
+  
+El agradecimiento al Ministro Carlos Villegas por la dirección en la elaboración del documento del Plan, así como la participación comprometida de los viceministros, del equipo técnico y del personal de apoyo del Ministerio de Planificación del Desarrollo, de las unidades descentralizadas (Unidad de Análisis de Políticas Sociales y Económicas, UDAPE, Instituto Nacional de Estadísticas, INE, y Unidad de Productividad y Competitividad, UPC); así como también el reconocimiento de todos los equipos de planificación de los otros ministerios y, en especial, a los colegas ministros, por su participación en la primera y en la segunda etapa que comprendió el ajuste del PND, con el cual se generaron condiciones para implementar esta propuesta y conducir a Bolivia en el nuevo sendero del cambio para el Vivir Bien, de todas y todos los bolivianos.
+  
+Gabriel Loza Tellería
+  
+Ministro de Planificación del Desarrollo
+
+### Introducción
+
+Los cambios sociales y económicos estructurales promovidos por los movimientos sociales y originarios, la esperanza puesta en el futuro de los pueblos indígenas –centenariamente excluidos–, y el abrumador triunfo electoral del 18 de diciembre de 2005, son la fuente de inspiración y el mandato que recibió el novel Ministerio de Planificación del Desarrollo para la elaboración de este Plan Nacional de Desarrollo. Esta propuesta es la herramienta que debe remover, desde sus raíces, la profunda desigualdad social y la inhumana exclusión que oprimen a la mayoría de la población boliviana, particularmente la de origen indígena y originaria.
+  
+Este objetivo requiere del cambio del actual patrón de desarrollo primario exportador, que se caracteriza por la explotación y exportación de recursos naturales sin valor agregado, y de la constitución de un nuevo patrón de desarrollo integral y diversificado, consistente en la industrialización de los recursos naturales renovables y no renovables. Siendo evidente que el patrón primario exportador no permite la acumulación interna que sustente el desarrollo nacional, sino que transfiere excedentes al exterior, beneficiando a otras naciones, el nuevo patrón tiene como función la generación, control y distribución de los excedentes producidos por los recursos naturales renovables y no renovables para la acumulación interna que alimente, en el largo plazo, el desarrollo nacional.
+  
+El cambio del patrón de desarrollo se inicia con la transformación de la matriz productiva nacional, el desmontaje del colonialismo neoliberal, la descolonización del Estado y la construcción de la nueva identidad boliviana, basada en la institucionalidad multinacional con enfoque comunitario.
+  
+La desigualdad y la exclusión social actuales son productos del colonialismo y del patrón primario exportador. El colonialismo republicano institucionalizó la desigualdad y la exclusión –no sólo social sino también política y económica– de la población mayoritaria indígena desde el momento mismo de fundación de la República y de la primera Asamblea Constituyente de 1826, pues le niega el derecho a la propiedad de los medios productivos – principalmente la tierra–, el acceso a los servicios públicos de educación y salud, así como a la posibilidad de intervención en las decisiones nacionales. Se le impone, sin embargo, la continuidad del pago del tributo indígena –heredado de la colonia–, así como la servidumbre personal y el trabajo no remunerado en favor de los patrones.
+  
+El patrón primario exportador emerge con el establecimiento de la "industria" minera de la plata –a fines del siglo diecinueve–, que aprovecha a su favor la institucionalidad del colonialismo republicano, particularmente el trabajo servil no remunerado. De esta manera, con la instauración del capitalismo en el país, se profundiza la desigualdad y la exclusión social, política y económica de la población indígena en beneficio de reducidos núcleos oligárquicos –propietarios de las minas y las tierras– que concentran la riqueza y el poder político.
+  
+El patrón primario exportador "moderniza" la producción minera de la plata con la incursión de capitales anglo-chilenos que facilitaron la exportación de materias primas –minerales– a través del ferrocarril instalado para tal propósito desde las minas bolivianas hasta puertos chilenos. Así, las riquezas naturales extraídas de las entrañas del país "fugaron" hacia el exterior y engrosaron el capital anglo-chileno, depositado en un banco en Valparaíso, fundado para este fin. Las divisas obtenidas por la exportación no fueron destinadas a la reinversión, sino –una parte de ellas– a la importación de productos de consumo, en especial de bienes suntuarios para los núcleos oligárquicos minero-terratenientes, así como, en reducida proporción, para la mayoría de la población que se alimentaba básicamente de la producción interna, obtenida por los "indios" sujetos a la tierra. El excedente logrado por esta producción fue exportado simultáneamente con las materias primas y no contribuyó a la acumulación interna de capital y a la industrialización del país.
+  
+El patrón primario exportador se reprodujo desde las postrimerías del siglo diecinueve hasta el primer quinquenio del presente siglo. Este patrón no fue cambiado por la Revolución Nacional, cuyo objetivo era la independencia económica y la intervención del Estado en la producción de bienes y servicios, en concordancia con el “modelo de desarrollo hacia adentro”, que buscaba la industrialización y la sustitución de importaciones, por el contrario, mantuvo este patrón de extracción y exportación de materias primas. La nacionalización de las minas, la reforma agraria, la reforma de la educación y el voto universal promovidas por esta Revolución fueron insuficientes para suprimir las causas originarias de la desigualdad y la exclusión social, política y económica.
+  
+La instauración del capitalismo de Estado –en la segunda mitad del siglo pasado– dio lugar a la emergencia de nuevas oligarquías regionales que se apropiaron del patrimonio estatal, accedieron al control de los sucesivos gobiernos y conspiraron contra la acumulación interna y la industrialización, pues no consiguieron generar un proceso de desarrollo nacional, independiente de la ayuda externa, que condicionó el financiamiento externo a la aplicación de políticas de contención de los movimientos sociales a través de los organismos multilaterales y los convenios bilaterales.
+  
+La insuficiencia del modelo de desarrollo hacia adentro implantado y la liquidación de la Revolución Nacional condujeron al agotamiento del capitalismo de Estado; la crisis de la deuda externa y la hiperinflación contribuyeron a su epitafio: "liquidados por ineficientes y corruptos". Así, el modelo neoliberal se impuso como la opción resolutoria a la crisis del Estado de bienestar. De esta manera, el Estado fue sustituido por el mercado en la función de asignador de recursos para la producción de bienes y servicios y también para la distribución de la riqueza. El resultado fue la exacerbación de la concentración de la riqueza producida y de los medios productivos en un segmento muy reducido de la población -una décima parte- y, por otra parte, la ampliación de la desigual distribución de la riqueza y acceso a los medios productivos y al empleo remunerado para los nueve décimos de la población.
+  
+La desigualdad y la discriminación social –denominada "pobreza" por el colonialismo neoliberal– aumentaron en profundidad y extensión. El reconocimiento de este hecho condujo a la adopción de medidas compensatorias por los desastres causados. Las "políticas sociales", extraídas del recetario desarrollista, fueron el mejor reconocimiento del fracaso del mercado y se aplicaron como si fueran el instrumento eximio para resolver el problema de la distribución de la riqueza y el acceso equitativo a los medios productivos para nueve de cada 10 habitantes del país.
+  
+Con las políticas de ajuste se introdujeron los programas denominados de "reducción de la pobreza", como objetivo urgente de las políticas públicas, cuyo cumplimiento fue condicionado –por la cooperación externa, los organismos multilaterales y los convenios bilaterales– al logro de objetivos inconsultos, traducidos, primero, en metas de reducción de las "necesidades básicas insatisfechas”, luego en "indicadores de desarrollo humano" y, finalmente, en la consecución de los "objetivos del milenio" y la organización de una "red de protección social".
+  
+Paradójicamente, esta exigencia y su cumplimiento requerían de la presencia e intervención del Estado con recursos y autoridad en condiciones adversas, pues el proceso privilegiaba el mercado como único asignador de recursos. La "reducción de la pobreza" quedaba, entonces, supeditada al mercado. Debido al debilitamiento del Estado, las "políticas sociales" también quedaron supeditadas al mercado; sin embargo, ya que la empresa privada no asumió este desafío, quedó un vacío de intervención pública para encarar los problemas sociales básicos. Este vacío fue parcialmente cubierto por la iniciativa privada no gubernamental articulada a la cooperación externa, la cual también reemplazó parcialmente al Estado a través de la ejecución de "proyectos de desarrollo", circunscritos a comunidades locales, articulados levemente a municipios, prefecturas y ministerios.
+  
+El carácter puntual de los "proyectos de desarrollo" financiados por la cooperación externa, dio lugar a la conformación de unidades sujetas exclusivamente a los objetivos de los proyectos. Pese a su articulación con diversas instancias gubernamentales, la ejecución de proyectos fragmentados y dispersos no resolvió el problema, pero sí contribuyó al debilitamiento del Estado. De esta manera, tales "proyectos de desarrollo" –articulados a instancias estatales nacionales, departamentales y municipales– significaron una inyección externa de recursos financieros y tecnológicos que no se tradujo en desarrollo, sino en un gasto ineficiente de ahorro externo.
+  
+Como efecto de lo anterior, el desarrollo del país quedó supeditado a los designios de la cooperación externa conformada por las organizaciones multilaterales, los convenios bilaterales y los intereses de las empresas transnacionales, con lo cual la discriminación y la exclusión social, económica y política de la mayoría de la población del país, en especial la indígena, no fue resuelta sino que aumentó de manera creciente a la par de la exportación de materias primas y la depredación de los recursos naturales.
+  
+Como lo admiten los propios organismos multilaterales, la pobreza aumenta al mismo ritmo en que aumenta la cooperación externa para reducirla, esto significa que las políticas de reducción de la pobreza diseñadas por el colonialismo neoliberal fueron, primero, mal encaminadas y, segundo, fueron aplicadas de manera ineficiente, porque no estuvieron dirigidas a suprimir las causas que la originaron sino a paliar sus manifestaciones.
+  
+La desigualdad y la exclusión social productos del colonialismo son inherentes al patrón primario exportador –instaurado a fines del siglo diecinueve y que se mantuvo hasta principios del siglo veintiuno– y al neoliberalismo, lo que debilitó al Estado y supeditó el desarrollo del país a los designios de las organizaciones multilaterales y a los intereses de las empresas trasnacionales. Como consecuencia, la discriminación social, económica y política de la mayoría de la población indígena del país aumentó de manera creciente, a la par que creció y se diversificó la exportación primaria y la depredación de los recursos naturales renovables y no renovables, con una alta concentración de la riqueza en un reducido segmento de la población y la consiguiente ampliación de la desocupación y la pobreza asociada a la exclusión de los medios productivos y deterioro de las condiciones laborales de los trabajadores, marcado por la extensión de la jornada y el trabajo precario mal remunerado e inestable.
+  
+El objetivo principal está centrado, por lo tanto, en la supresión de las causas que originan la desigualdad y la exclusión social del país, lo que significa cambiar el patrón primario exportador y los fundamentos del colonialismo y el neoliberalismo que lo sustentan. Es decir, desmontar, no sólo los dispositivos económicos, sino también los políticos y culturales, coloniales y neoliberales erigidos por la cultura dominante, que se encuentran diseminados en los intersticios más profundos de la organización del Estado y también en la mente de las personas a través de la práctica social individual en detrimento de la solidaridad y la complementariedad.
+  
+El cambio del patrón primario exportador es, por lo tanto, una condición imprescindible para revertir la desigualdad y la exclusión de la población indígena, urbana y rural; erradicar la pobreza y desmontar tales dispositivos. Sin embargo, dicho "desmontaje" resultaría insuficiente si, al mismo tiempo, no instauramos nuevos dispositivos económicos, políticos y culturales que nos conduzcan a la construcción de un nuevo modelo de desarrollo –de producción y acumulación interna de riqueza, basado en la soberanía de la propiedad y en la industrialización de los recursos naturales para su exportación y uso interno, a la par, debe traducirse en la redistribución de la riqueza nacional obtenida en beneficio de los sectores sociales tradicionalmente excluidos del acceso a los medios productivos y al empleo digno, adecuadamente remunerado y estable, mediante la ampliación y diversificación del aparato productivo en una matriz, la recuperación del mercado interno y la redefinición de nuestro relacionamiento con los mercados internacionales, siempre en beneficio del país.
+  
+Este cambio del patrón de desarrollo y de los dispositivos de dominación requiere de la intervención del Estado como promotor y protagonista del desarrollo nacional, porque no basta su presencia como conductor del desarrollo, sino que es indispensable su participación en la producción y en la actividad comercial de los sectores estratégicos que garanticen la acumulación interna, al mismo tiempo que proteja y aliente la innovación y la expansión de la producción en el resto de los sectores productivos, en los cuales los pequeños productores son los mayores generadores de empleo e ingresos y requieren del apoyo estatal para modificar su productividad e introducirse ventajosamente en los mercados internos y externos, a fin de que el empleo y los ingresos sean estables y dignos.
+  
+Esta estrategia conduce a la construcción de una nueva sociedad fundada en la energía y en la capacidad derivada de la multiculturalidad que posee el país y de la diversidad de las prácticas solidarias ejercitadas por las comunidades urbanas y rurales, en la construcción de una nueva forma organizativa nacional sustentada en la nueva institucionalidad que emerge de nuestra multiculturalidad; afirmada en un nuevo Estado social comunitario, descolonizado y fundada en la multidiversidad social urbana y rural, como expresión de la diversidad de intereses y aspiraciones de cambio en función del Vivir Bien, ahora y mañana.
+  
+El Plan Nacional de Desarrollo corresponde a los lineamientos estratégicos, por lo tanto, no incluye la totalidad de los proyectos que serán ejecutados el próximo quinquenio (algunos de ellos requieren ser validados territorialmente para su inclusión en la programación).
+  
+Bolivia, Junio de 2006
+  
+Carlos Villegas Quiroga
+
+## Capítulo I Concepción de desarrollo
+
+### Sección 1.1 El enfoque de desarrollo
+
+### 1.1.1. El desarrollo desde el colonialismo neoliberal
+
+Durante años, las estrategias de desarrollo fueron presentadas como instrumentos técnicos, sin ideología y ajenos a las condiciones políticas e históricas de la realidad nacional. Las políticas de desarrollo de las últimas dos décadas acumularon frustración, desigualdad y pobreza en la mayoría de la población.
+  
+Los pobres no tenían esperanza de obtener trabajo digno y remunerado para satisfacer sus necesidades más elementales y tampoco contaban con un Estado protector. Esta situación generó el rechazo al modelo de desarrollo diseñado para expropiar la riqueza nacional, que luego se convirtió en demanda social por participación directa en las políticas de Estado, el acceso igualitario a los medios productivos, el reconocimiento de sus culturas y la construcción de nuevas alternativas de futuro.
+  
+El neoliberalismo concebía el desarrollo humano asociado exclusivamente al crecimiento económico, desvinculado del Estado y de la política, que terminó por expropiar al pueblo el derecho a proponer y debatir su futuro común. El libre cambio es una ficción del capitalismo, por ello la apertura de la economía agudizó el empobrecimiento y las diferencias sociales. La estabilidad macroeconómica, la flexibilización del mercado laboral, la privatización de empresas y de los servicios públicos fueron condiciones necesarias para garantizar la competitividad y estimular la inversión extranjera directa sin condiciones.
+  
+Las diversas vertientes teóricas del desarrollo corresponden a pautas civilizatorias occidentales, cuyo lenguaje esconde dispositivos de dominación y control social que refrendan las prácticas de poder y conocimiento colonial. Para el neoliberalismo, los pueblos indígenas y la diversidad multiétnica y pluricultural son intrascendentes porque no contribuyen al crecimiento económico, excepto como mano de obra barata o potencial consumidor. En esta lógica la comunidad y lo indígena fueron sentenciados a diluirse por el colonialismo y la globalización.
+  
+El achicamiento del Estado –supuesta condición del fortalecimiento de la empresa privada– llevó a su debilitamiento y dispersión funcional. El empleo público fue drásticamente reducido en favor del servicio de consultoría privado, financiado por la cooperación externa, y la burocracia estatal fue privatizada y subordinada a intereses externos.
+  
+La reducida participación del sector público, la incursión de la gran empresa privada extranjera y la institucionalización de la libre contratación condujeron a disminuir la generación de empleo y a la caída de los salarios. Estos hechos, al generalizarse, ocasionaron el aumento de las tasas de desempleo abierto y también condujo a que las unidades de pequeña escala y los trabajadores por cuenta propia se constituyan en la mayor fuente de generación de empleo, aunque en condiciones de alta precariedad, con ingresos bajos y sin beneficios sociales.
+  
+El deterioro de las condiciones sociales contrastó con la alta rentabilidad de las operaciones financieras y con la concentración patrimonial en una reducida porción de la sociedad. Este proceso se realizó al amparo de la impunidad del poder político y de la ganancia prebendal, que contribuyó a que la riqueza nacional se concentre en empresas multinacionales exportadoras de excedentes.
+  
+La masificación de la pobreza en las ciudades está asociada a la ruptura de las formas culturales de integración social, la aguda diferencia entre ricos y pobres, la reducida capacidad protectora del Estado, la presión consumista, el comportamiento mediático y la proliferación de formas no solidarias y competitivas de conducta y relación humana.
+  
+El malformado Estado oligárquico, centralista, patrimonialista y corrupto, atrincherado en una democracia representativa, exacerbó la discriminación social, la exclusión política y el desconocimiento de los derechos indígenas.
+
+### 1.1.2. Vivir bien, el fundamento de la nueva propuesta de desarrollo
+
+En un país multiétnico y pluricultural el desarrollo debe edificarse desde una lógica plurinacional de convivencia civilizatoria. La convivencia articula las diversas maneras de percibir, asumir, interpretar la vida, la sociedad, la naturaleza, la economía y el Estado.
+  
+La nueva propuesta de desarrollo se basa en la concepción del Vivir Bien, propia de las culturas originarias e indígenas de Bolivia. A partir de los elementos comunitarios enraizados en pueblos indígenas, comunidades agrarias, nómadas y urbanas de las tierras bajas y altas, el Vivir Bien postula una visión cosmocéntrica2 que supera los contenidos etnocéntricos tradicionales del desarrollo.
+  
+El Vivir Bien expresa el encuentro entre pueblos y comunidades, respeta la diversidad e identidad cultural. Significa “Vivir Bien entre nosotros”, es una convivencia comunitaria con interculturalidad y sin asimetrías de poder, “no se puede Vivir Bien si los demás viven mal”. Se trata de vivir como parte de la comunidad, con protección de ella, en armonía con la naturaleza, “vivir en equilibrio con lo que nos rodea”. También significa “Vivir Bien contigo y conmigo”, que es diferente del “vivir mejor” occidental, que es individual, separado de los demás e inclusive a expensas de los demás y separado de la naturaleza.
+  
+El Vivir Bien es la expresión cultural que condensa la forma de entender la satisfacción compartida de las necesidades humanas, más allá del ámbito de lo material y económico. A diferencia del concepto occidental de “bienestar”, que está limitado al acceso y a la acumulación de bienes materiales, incluye la afectividad, el reconocimiento y prestigio social.
+  
+También es una práctica relacionada con la dignidad, la independencia y la singularidad, con las lenguas nativas y el bilingüismo, y con dimensiones inmateriales y subjetivas, como el aprecio y reconocimiento comunitario, el afecto y el ocio traducido en la fiesta.
+  
+El Vivir Bien es la demanda de humanización del desarrollo donde la diversidad cultural asegura la responsabilidad y obligación social en el desempeño de la gestión pública. De esta manera, el desarrollo se convierte en un proceso colectivo de decisión y acción de la sociedad como sujeto activo y no como receptora de directivas verticales. De este modo, el Vivir Bien es el acceso y disfrute de los bienes materiales y de la realización efectiva, subjetiva, intelectual y espiritual, en armonía con la naturaleza y en comunidad con los seres humanos.
+  
+*El encuentro como sentido esencial de las relaciones humanas (El encuentro y la pluralidad cíclica y en espiral frente al progreso lineal unidimensional)*
+  
+La concepción lineal y secuencial de progreso es insuficiente para comprender la nueva propuesta de desarrollo porque requiere de una comprensión integral, holística3, radial y acumulativa, capaz de abarcar situaciones no homogéneas y a la vez incorpora aspectos desde lo cultural, económico, político y social. Asimismo une diversas prácticas y conocimientos provenientes de actores sociales diferentes, portadores de intereses, expectativas y percepciones contrapuestas.
+  
+La nueva política propone el desarrollo desde el encuentro y la contribución horizontal, y no desde la imposición y el autoritarismo. El encuentro significa la unión, la comunidad, la fiesta del compartir imaginarios4 urbanos y rurales, el sentido esencial de las relaciones humanas complementarias en un país diverso y comunitario.
+  
+Este principio del encuentro asociado al desarrollo es importante para contrarrestar la herencia colonial extendida a la constitución republicana, que se refleja en la acumulación de desencuentros e incomprensiones.
+  
+El encuentro es la pieza capital del proceso constituyente en el que está inmerso el país porque parte de la idea de comunidad política. Desde esta perspectiva, la Asamblea Constituyente debe vislumbrarse como un gran encuentro de culturas e identidades sociales para la construcción de la nueva nación y el nuevo Estado, fundados en la interculturalidad (relación entre culturas).
+  
+**La armonía con la naturaleza**
+  
+El desarrollo en torno al Vivir Bien se fundamenta en la capacidad de recuperar el vínculo con la naturaleza y la memoria social. En las comunidades agrarias está centrado en la tierra, en las comunidades nómadas en el bosque y en las comunidades urbanas en el barrio y la ciudad. De este modo se descarta el procedimiento deliberado de separar a las sociedades de sus raíces culturales mediante la dominación de una sola cultura.
+  
+La planificación busca ordenar el desarrollo y fortalecer el principio de relación intrínseca entre las culturas bolivianas y la naturaleza, como nexo generador de visiones sobre el mundo, interpretaciones del trabajo, identidades sobre el tiempo y sus mitos, construcción de la territorialidad y del poder.
+  
+Los sólidos vínculos de las culturas bolivianas con la naturaleza son patrimonio de todos y representan una enorme ventaja comparativa con relación a un modelo de desarrollo capitalista en crisis, donde la ecuación básica de desarrollo está asociada a la depredación de los recursos naturales con ganancias de corto plazo.
+  
+La nueva propuesta de desarrollo, enraizada en la pluralidad cultural, el encuentro y en la complementariedad de conocimientos, tienen el objetivo de acabar con el mito del progreso lineal que pretende dividir a las culturas entre modernas y atrasadas o primitivas y avanzadas. Esta trampa desarrollista conlleva la aniquilación de otras temporalidades, memorias, aportes a la construcción de las relaciones interhumanas y relaciones con el tiempo y espacio, cuyo horizonte estratégico es preservar otros significados acerca de la relación entre humanidad y naturaleza.
+  
+**Hacia una vida social fraterna y solidaria**
+  
+Es necesario vulnerar, desobedecer y quebrantar los moldes mentales convencionales para esbozar una nueva configuración mental en torno al desarrollo. Se trata de recuperar y ensamblar al desarrollo valores esencialmente humanos como la complementariedad, la solidaridad y la retribución, que tienen múltiples expresiones en la vida social boliviana y deben ser rescatadas, expresadas, revalorizadas y fortalecidas.
+  
+Más allá de la adhesión circunstancial a una causa, las expresiones de solidaridad generadas alrededor de movimientos sociales y organizaciones ciudadanas son una fuente esencial de valores basada en la unión y el respaldo mutuo, y en la solidaridad y complementariedad. Esta necesidad se manifiesta en formas de organización de las comunidades, cuyas expresiones rurales y urbanas son diversas y complementarias. Como colectivo social, que integra a familias e individuos, reproducen formas de vida social donde las personas mantienen relaciones sociales fraternas y solidarias protegidas por la comunidad.
+  
+Algunas de estas formas sociales son de trabajo asociado o de confluencia de intereses productivos. Las empresas campesinas, asociaciones de productores rurales o urbanos, cooperativas, micro y pequeñas empresas familiares son células económicas generadoras de empleo y distribuyen ingreso con una elevada contribución a la economía nacional.
+  
+Pese a esta capacidad, estas entidades no forman parte de los registros estadísticos oficiales y virtualmente no existen porque la normatividad estatal –fundada en principios jurídicos coloniales– sólo reconoce a una parte de la sociedad: a las empresas formales.
+  
+Estas formas de organización –no reconocidas por el Código de Comercio– son sancionadas con la exclusión de acceso al crédito en el sistema financiero y otros servicios públicos y privados. Además son discriminadas y calificadas como “informales” y, por consiguiente, “ilegales”, ignorando su naturaleza. Sin embargo el Estado colonial les exige su obligación de contribuyentes.
+  
+Dada la magnitud de su aporte a la economía, estas formas de organización productiva representan un universo diferenciado del sector privado y de las empresas estatales del sector público. En ese sentido conforman un tercer sector económico de carácter sociocomunitario. Su discriminación está estrechamente ligada a la exclusión social general.
+  
+**Democratización integral del desarrollo: plurinacional y diverso**
+  
+La nueva política propone el concepto de “patrón de desarrollo” en oposición al “modelo de desarrollo” porque no sigue ni utiliza un prototipo probado y validado, sino que plantea construir un nuevo patrón de desarrollo en sustitución del primario exportador. Parte de la convicción de que en un país diverso, multicultural y plurilingüe, el desarrollo sólo puede ser un proceso plural, conjunto, colectivo, atento a la diversidad y pronunciado en distintas lenguas y concepciones del mundo.
+  
+Este proceso es la sucesión y el medio para dignificar la vida, contrario a la sumisión, sometimiento y a las formas políticas de absolutismo y dictadura. Algo que sólo puede suceder sin dominación, sin imposición cultural y con libertad para decidir el futuro.
+  
+El proceso está destinado a mejorar y ampliar las opciones, condiciones y capacidades humanas desde el respeto a la diferencia, sin homogenizar a las comunidades, a los pueblos y a los individuos, sino a fortalecer su cohesión mediante la heterogeneidad.
+  
+El marco teórico de esta estrategia se sustenta en la convicción de que las limitaciones y frustraciones del desarrollo del país son producto de un sistema de dominación étnica, cultural y político, impregnado de racismo y enraizado en las diversas formas del colonialismo.
+  
+Sin negar la importancia de las “necesidades básicas” es necesario comprender el desarrollo como un proceso de participación, deliberación y emancipación donde las comunidades y los pueblos deciden las prioridades, los contenidos y las expectativas de su futuro desde sus valores culturales y su imaginario social. En este contexto, el respeto a los derechos humanos, el sentido de pertenencia, la seguridad, el respeto a las formas de organización social y los derechos de las minorías tienen un valor central.
+  
+El patrón de desarrollo se define como una estructura fundamental que va más allá de la acumulación económica y está relacionada esencialmente con la libertad cultural para decidir, el respeto a la diversidad, la diferencia, la heterogeneidad social y con la forma en que se organiza la vida, la sociedad y el Estado.
+  
+En este sentido, el Vivir Bien corresponde a un patrón de desarrollo y de democratización integral, plurinacional y diversificado, donde el desarrollo y la democracia tienen la misma importancia. No existe desarrollo sin democracia, sin extender la participación social en la actividad y las decisiones políticas, económicas y culturales.
+  
+La democratización en su dimensión social es la toma de decisiones, la organización estatal y la actividad política. Este proceso está relacionado con la representación, legitimidad y la forma en que los movimientos sociales, las organizaciones campesinas y los pueblos indígenas participan, aportan e intervienen en la configuración democrática del país.
+  
+Este énfasis popular obedece a que son las organizaciones sociales, los pueblos indígenas y los trabajadores campesinos los legítimos impulsores históricos de la transformación democrática en el ejercicio del poder político. De este modo la democratización no pasa únicamente por el reconocimiento de las identidades culturales y sociales, sino por un diseño institucional distinto a la representación y al ejercicio del poder.
+  
+**El cambio multidimensional desde la diversidad cultural**
+  
+La clave del desarrollo radica en suprimir la estructura de dominación cultural y de discriminación racial vigente e instituir una práctica de diálogo, cooperación, complementación, reciprocidad y entendimiento. De esta manera el crecimiento económico se concibe como el proceso de consolidación, fortalecimiento e interacción entre identidades, como la articulación de redes de intercambio e interculturalidad.
+  
+El crecimiento económico también se concibe como la estimulación de formas de comunidad y convivencia, y la constitución de mecanismos y andamiajes institucionales para proteger, respetar y promover la diversidad y los derechos en el proceso productivo. En consecuencia, el cambio cuantitativo, la expansión de la economía y el aumento porcentual del producto interno bruto (PIB) y del producto real por habitante no expresan el crecimiento que se deriva de la diversidad, la identidad y la interculturalidad.
+  
+El aumento de los valores de bienes y servicios producidos, la suma de variables macroeconómicas de la inversión, producción, el empleo y consumo que convergen para generar bienestar tampoco expresan el aporte de la comunidad, de la convivencia y la expansión de los derechos que están fuera de esta comprensión.
+  
+El crecimiento múltiple y sostenible responde a la multiplicidad de formas coexistentes y simultáneas de pensar, encarar y relacionarse con los ámbitos del progreso y del desarrollo. De esta manera, el crecimiento se vuelve diverso, complejo, heterogéneo y compuesto.
+  
+La vocación por la diversidad y la admisión de las formas múltiples del crecimiento supone una postura de resistencia a: i) la imposición de un macromercado globalizado, ii) a la creación de patrones de consumo, pensamiento y comportamiento uniformes, y iii) a la contradicción provocada entre la producción capitalista y la preservación de la diversidad biológica, de los recursos naturales y de la integridad de los ecosistemas (por el modelo de consumo globalizado).
+  
+**La interculturalidad y la diversidad son la base de la acumulación interna y la calidad de vida**
+  
+Uno de los núcleos del nuevo patrón de desarrollo propuesto es la interculturalidad (relación entre varias culturas dentro de un mismo territorio) como interacción, intercambio y comunicación cultural, y también como reconocimiento, aceptación y reciprocidad con el otro.
+  
+La interculturalidad es el motor del desarrollo porque permite que las culturas interactúen, compartan valores, se complementen y se reconozcan promoviendo relaciones igualitarias entre los seres humanos y los pueblos. La interculturalidad es una construcción opuesta al etnocentrismo5.
+  
+La interculturalidad asociada al desarrollo permite interpretar de manera distinta los fenómenos sociales, como ocurre en los tránsitos y desplazamientos poblacionales en el territorio que son fuentes de identidad colectiva, fértiles espacios de intercambio y de construcción de andamiajes organizativos.
+  
+La postulación de la interculturalidad y de la vida, como principios prioritarios en la concepción de esta estrategia frente a la acumulación económica, es una crítica a la perversión neoliberal que sitúa al capital y a la especulación financiera por encima de toda convivencia humana. Además conduce a mercantilizar toda la apropiación privada del conocimiento, la tecnología, los recursos naturales, la comunicación y hasta la producción y difusión de significados y mensajes.
+
+### 1.1.3 Recuperar la capacidad de decidir como principio de soberanía nacional: Construyendo el Nuevo Estado
+
+Otro componente esencial del diseño conceptual del nuevo patrón de desarrollo es recuperar la capacidad de decidir. Sin el restablecimiento de esta facultad consustancial con el papel del Estado, como representante del interés social y colectivo, no es posible establecer nuevas pautas y dimensiones del desarrollo.
+  
+La recuperación de la capacidad de decidir es un acto fundamental de libertad y soberanía nacional. Sólo mediante el autogobierno y la autodeterminación de los pueblos se puede construir un país solidario y cohesionado socialmente, basado en la convivencia y en la paz.
+  
+La capacidad de decidir qué ser y qué hacer es la condición necesaria para el diseño y el cambio de un nuevo patrón de desarrollo de democratización integral, plurinacional y diversificado. El país solidario y cohesionado socialmente propone y busca una convivencia en paz para todos los miembros de la sociedad.
+  
+La recuperación de la capacidad de decidir radica en establecer un nuevo concepto de lo nacional, arraigado en el reconocimiento auténtico de la plurietnicidad (varias etnias) y de la multiculturalidad (varias culturas), en la vitalidad de los movimientos sociales, en lo popular como una ampliación de la participación del pueblo y en la conjugación de las fuerzas nacionales que fueron la esencia histórica de la vitalidad democrática del país. 6
+  
+La capacidad de decidir, la soberanía y la dignidad son valores nacionales sustanciales para configurar un patrón de desarrollo que contribuya a superar la pobreza, la desnutrición y que impacte positivamente en la salud, la esperanza de vida, la generación de empleo y en la erradicación de la corrupción.
+  
+**Construcción del Estado descolonizado: protagonista y promotor del desarrollo**
+  
+El Estado es concebido como potencia transformadora del cambio y su carácter esencial se expresa en un nuevo poder que surge de los sectores populares y de los pueblos indígenas, de las comunidades campesinas y de los trabajadores del campo y la ciudad. Este Estado representa el nuevo bloque de poder que enuncia los intereses de los que fueron marginados y excluidos durante siglos.
+  
+Este nuevo Estado corresponde a una sociedad diversa, participativa y justa, basada en la solidaridad, cooperación y reciprocidad como rasgos distintivos de su propia identidad. En esta sociedad se alcanza el máximo nivel posible de bienestar colectivo, que subordina el interés individual al social y en la que se combina y complementa la acción espontánea de las leyes del mercado con la previsión consciente del Estado mediante la planificación.
+  
+**La ruta para descolonizar el Estado desde el Estado**
+  
+La propuesta de la nueva institucionalidad del Estado boliviano consiste en asumir su descolonización desde sus mismas estructuras, prácticas y discursos. La composición colonial del aparato estatal y la urgencia de desmontar todos los mecanismos explícitos e implícitos que connotan y denotan esta colonialidad se debe a que está impregnada en la estructura del Estado y en su funcionamiento cotidiano.
+  
+La reconstrucción continua de lo colonial penetró a todas las esferas sociales y en ella se mezclaron elementos de dominación, exclusión étnica, racismo y hegemonía, mistificados por la modernización liberal y neoliberal de segmentos de la sociedad.
+  
+En lo político la descolonización implica aceptar las prácticas políticas de poblaciones sometidas y excluidos, mientras que en lo económico reconoce las economías de los pueblos agrarios y nómadas junto a las comunidades urbanas.
+  
+En el Estado descolonizado se superponen las raíces culturales regionales andinas, amazónicas, chaqueñas, chiquitanas y otras junto a las expresiones culturales occidentales insertas desde la colonia o recientemente instaladas. Descolonizar el Estado significa reconocernos cómo somos, diversos y múltiples, en un largo proceso que parte de la subjetividad social hasta llegar a una conciencia colectiva de una nueva identidad nacional.
+  
+La institucionalidad política y la constitución del Poder Ejecutivo tienen base colonial, por lo tanto es necesario desmontar el colonialismo cambiando la institucionalidad estatal por una nueva.7
+  
+La ruta de la descolonización comprende diversas acciones y decisiones políticas. La Asamblea Constituyente es el espacio central para incorporar la diversidad social al proceso de construcción de una nueva institucionalidad, que le restará centralidad a las entidades liberales en el mismo núcleo del poder político.
+  
+En este escenario se planteará el diseño de las instituciones sobre la base de una propuesta multiétnica y pluricultural, que no significa sustituir la hegemonía señorial por la indígena, sino que organiza una nueva institucionalidad para democratizar el país e incorpora instituciones y formas ajenas a la modernidad.
+  
+Restarle centralidad a la cultura dominante es un requisito indispensable de la descolonización, porque las herencias coloniales se asientan en representaciones, discursos y estructuras ideológicas con contenido racial y étnico. El centro neurálgico de la colonialidad es la administración de la lengua y del conocimiento.
+  
+La incorporación concertada y participativa en la gestión estatal de diversos sujetos, movimientos sociales y trabajadores del campo y la ciudad, que reconozcan las formas comunales asociadas a prácticas solidarias y cooperativas, forma parte de la descolonización del Estado al igual que el reconocimiento y valoración de las economías comunales indígenas y campesinas, porque contribuyen a construir un Estado para todos con la participación de todos. La prioridad de este proceso es cambiar la historia y lograr reconocimiento legal de las economías indígenas y la necesidad de su normatividad positiva.
+  
+**El Estado social, pluricultural y comunitario produce riqueza y controla el excedente**
+  
+El propósito del nuevo patrón de desarrollo, democratizador, integral, plurinacional y diversificado carece de sentido si no genera capacidades y canales para que la sociedad boliviana se apropie de su Estado y lo oriente hacia las necesidades de la población.
+  
+El diseño de una nueva matriz productiva para racionalizar la inversión pública con equidad en el proceso de distribución de los recursos reduce el intercambio desigual, el desequilibrio urbano rural y la relación asimétrica regional.
+  
+El Estado descolonizado controlará el excedente económico para el desarrollo ampliado de la vida humana, asumirá el rol productor y distribuidor de la riqueza nacional y cumplirá el papel rector de la actividad económica. El Estado recupera las funciones, las atribuciones y las competencias que el neoliberalismo le cercenó progresivamente hasta convertirlo en un aparato subsidiario.
+  
+Este nuevo Estado restablecerá sus funciones económicas en la producción, en la infraestructura, en la comercialización y en el financiamiento, generará la construcción de un nuevo sector público y una nueva empresa pública con gestión transparente y sustentable.
+  
+La creación de rentas estatales en los sectores estratégicos de hidrocarburos, minería, energía eléctrica y ambiental contribuirá a la acumulación interna como soporte del desarrollo de los sectores generadores de empleo e ingresos. Este proceso se realiza en concordancia con la construcción de un país digno, soberano y productivo.
+  
+De acuerdo con el nuevo patrón de desarrollo propuesto, la democratización del Estado no existirá ni prosperará si no se conforma una estructura de poder para que todos los pueblos y culturas estén presentes en las decisiones económicas y políticas del Estado. Será imprescindible diseñar y establecer mecanismos institucionales para que lo comunitario, lo local y lo regional participen y tengan peso en la definición de las políticas públicas y en las decisiones del Estado.
+  
+El nuevo Estado debe surgir del proceso de debate en la Asamblea Constituyente, alrededor de las visiones sobre la posible reconstitución de la división política estatal y de las autonomías. Debe respetar la complementación, solidaridad, cooperación, el desarrollo de las regiones, el respeto a las culturas nómadas y comunitarias, y a la forma en que éstas subsisten basadas en estrategias de tránsito entre distintos pisos productivos y ecológicos.
+
+### 1.1.4. Las nuevas dimensiones del desarrollo: consolidación y complementariedad de identidades y valores
+
+Las identidades pueden consolidarse, complementarse y enriquecerse mutuamente si se considera la diversidad cultural de grupos humanos como una construcción social destinada a establecer vínculos e intercambios culturales para superar la visión de la identidad como un hecho de confrontación con los demás.
+  
+Para ello se debe articular elementos relevantes y definitorios de las identidades colectivas –como los vínculos de sangre, el color de la piel, el lugar de nacimiento, los rasgos físicos, la lengua y la vestimenta– para que sean comprendidos, respetados y conjugados de forma enriquecedora. De esta manera la diversidad se convierte en un factor de cohesión social y no de separación y enfrentamiento. Asimismo se deben construir espacios que faciliten la complementariedad de identidades y la generación de valores compartidos 8.
+  
+En realidad todas las culturas son mestizas en la medida que reciben aportes de otras identidades diferenciadas. Por lo tanto, el mestizaje es un punto de llegada y no de partida. En este sentido, la revalorización de las identidades debe partir del concepto de las culturas como espacios de condensación de anhelos, costumbres, poderes, deseos, gustos, imaginaciones, de actos de personas y grupos relativamente compactos que mutuamente se integran, se seducen y toleran, se confrontan y se aceptan e imponen.
+  
+Construir esquemas de complementariedad de identidades y generación de valores compartidos implica romper el modo histórico de cómo se produjo y se produce la cultura desde las elites reducidas que controlan y disciplinan la elaboración y difusión de representaciones discursivas. Contra esta forma de creación de cultura se propone incorporar una matriz cultural heterogénea que combine distintas voces de la diversidad, sin imposiciones ni predominios.
+  
+El aporte conceptual de la Estrategia Nacional de Desarrollo se basa en la propuesta de una complementariedad de identidades que no se reduce a la etnicidad (como visión unilateral) como exclusión y tampoco como categoría fiscal tributaria, utilizada para jerarquizar oficios, dominar y prolongar las formas impuestas por el orden establecido y por la colonialidad extendida.
+  
+La propuesta de consolidación y complementariedad de identidades y valores compartidos es una apuesta por constituir textos, hábitos y prácticas para descolonizar, orientadas a acabar con la hegemonía de una fracción social acostumbrada a mandar e imponer su dominación por siglos.
+  
+Para que el Estado pueda quebrar la raíz del colonialismo es necesario que vaya más allá de la ocupación de la identidad delegada. Es inexcusable llevar hasta el límite la impugnación de las falsedades instituidas por el colonizador y avanzar hacia un proceso progresivo de autoemancipación y de ejercicio de la libertad.
+
+### 1.1.5 El acceso equitativo al conocimiento y a la comunicación como bienes públicos
+
+El acceso universal al conocimiento y a la comunicación, como bienes públicos, son de responsabilidad del Estado porque están asociados a generar espacios de igualdad y de oportunidad mediante su democratización y el establecimiento de nexos interactivos para que la sociedad no sólo reciba conocimiento e información, sino que contribuya a producir, adaptar y reinterpretar el saber.
+  
+La nueva propuesta de desarrollo plantea fortalecer los sistemas de publicación y difusión de información, y establecer mecanismos para el desarrollo, la comunicación del conocimiento, los saberes propios y autóctonos vinculados con los pueblos originarios y comunidades urbanas.
+  
+De este modo, la consolidación de distintas vías para el acceso plural a la información y a la disponibilidad de tecnologías apropiadas debe entenderse como un mecanismo para combatir la desigualdad y mejorar la productividad, creatividad, comprensión y el intercambio cultural.
+  
+Este concepto de acceso abierto al conocimiento y a la comunicación también se extiende al ámbito de los servicios estatales, sociales y productivos. En está lógica se concibe al Estado como un agente democratizador, incluyente y participativo, que genera y permite la cohesión social a partir de la disponibilidad social e irrestricta de sus servicios.
+  
+La construcción de conocimiento debe ser una actividad colectiva, catalizada por el Estado y ejecutada en todos los ámbitos, desde los centros científicos y tecnológicos hasta las comunidades más alejadas.
+
+### 1.1.6 La democratización de la propiedad, el ingreso y el empleo
+
+Una nueva dimensión fundamental para constituir un desarrollo alternativo al colonial es democratizar la propiedad, el ingreso y el empleo. La herencia colonial en combinación con el neoliberalismo determinó que los derechos de propiedad sean ejercidos por una elite minoritaria asociada a la gestión permanente de la política y el poder.
+  
+Por ello, es necesario que establecer mecanismos para democratizar la propiedad para que el Estado y la sociedad participen activamente en la economía, que significa generar riqueza y acceder a nuevos mercados y a los flujos económicos restringidos y controlados por los grupos de poder acostumbrados al usufructo del patrimonio estatal.
+  
+La democratización de la propiedad, el ingreso y el empleo es el principal instrumento para contrarrestar la desigualdad y la inequidad social. Desde el Estado es necesario establecer procedimientos y fórmulas que favorezcan una distribución más democrática del ingreso y la riqueza, donde la tierra es un elemento básico.
+  
+El empleo es otro de los componentes esenciales de la dignidad humana porque permite afianzar el relacionamiento y la cohesión social interna. Democratizar el empleo significa considerar que es un derecho fundamental que debe ser protegido y extendido por la acción del Estado.
+
+### 1.1.7 Seguridad alimentaria con soberanía, base de la soberanía nacional
+
+Uno de los pilares fundamentales, que orienta la estrategia nacional de desarrollo productivo, se basa en la seguridad y soberanía alimentaria, entendida esta como el derecho de nuestro país a definir sus propias políticas y estrategias de producción, consumo e importación de alimentos básicos, conservando y rescatando la diversidad productiva y cultural de nuestro territorio. Garantizando el acceso oportuno en cantidad y calidad de alimentos sanos, nutritivos y culturalmente apropiados a la población para Vivir Bien.
+  
+La nueva visión contribuye al logro de la seguridad alimentaria nacional sustentable, aplicando tecnologías ancestrales y de última generación, dirigidas al fortalecimiento del sector productivo, priorizando la micro, pequeña y mediana producción, así como a las organizaciones productivas.
+  
+Esto requiere de la garantía estatal del acceso del sector productivo al agua, la tierra, recursos genéticos y mercados justos.
+
+### 1.1.8 La configuración de una nueva forma de relaciones internacionales
+
+La inserción en el mundo globalizado exige un cambio de las relaciones con otros países, acuerdos comerciales bilaterales y multilaterales para que sea concordante con el nuevo patrón de desarrollo. El propósito es eludir las influencias perniciosas de un mundo enfrascado en una feroz competencia por capturar y acumular el excedente internacional, a costa de la biodiversidad del planeta y la propia supervivencia humana.
+  
+Este nuevo relacionamiento protegerá al país y a la sociedad de los elementos nocivos que introduce la tecnología para abaratar costos y lograr competitividad, como el uso perverso de la biotecnología, que implica condicionantes políticas de sumisión para acceder a mercados externos.
+  
+Además del comercio de mercancías, la interrelación con el mundo abarca el aporte cultural al mundo y la recepción de elementos beneficiosos de otras culturas, en el marco de relaciones de intercambio equitativas que ayuden a reproducir y expandir la nueva matriz productiva del país.
+  
+Es necesario construir y desarrollar vínculos internacionales mediante alianzas estratégicas con estados que comparten el comercio justo en beneficio de los pueblos y no de las transnacionales que controlan los mercados internacionales y la Organización Mundial de Comercio (OMC). Desde esta perspectiva, el comercio internacional debe proteger la biodiversidad y la propiedad intelectual de productos locales indígenas incorporados en los productos ecológicos, fitofármacos, nutraceúticos y la medicina tradicional.
+
+### 1.1.9 La relación latinoamericana con el cambio de patrón de desarrollo en Bolivia
+
+Las repercusiones del cambio en el entorno latinoamericano son parte de la historia de las variadas experiencias de las políticas desarrollistas compartidas por decenios en el siglo pasado. No cabe duda que el cambio de paradigma de desarrollo privilegia al sujeto social como depositario de los beneficios.
+  
+La acumulación de riqueza es un instrumento para el bienestar de las personas que viven en alguna forma comunitaria y comparten las consecuencias perversas del mercado, y no la finalidad del esfuerzo de la sociedad.
+  
+El Vivir Bien extensivo a las relaciones con los pueblos en condiciones distintas al simple intercambio mercantil de productos entre empresas (que benefician primero a sus propietarios y residualmente a los demás), significa incorporar la solidaridad, la complementariedad y la reciprocidad. No es un intercambio de compensaciones obligatorias, sino una ayuda oportuna para romper con las formas tradicionales de los limitados acuerdos de comercio.
+  
+La nueva política exterior boliviana se funda en estos principios y está traducida en el Tratado de Comercio de los Pueblos que, además del comercio de mercancías, abarca el intercambio cultural, social, científico, político y tecnológico, basado en la complementación de las disponibilidades y capacidades de cada pueblo. Esta modalidad es extensiva a las relaciones con los otros países de la región, sobre nuevas bases de integración entre pueblos.
+  
+La integración de centros académicos y de investigación que realicen trabajos conjuntos en una relación sur-sur conformará una masa crítica que ayude a romper la dependencia tradicional de los centros de investigación del norte y a desarrollar conocimiento regional propio, compartido en costos y beneficios para los pueblos. Otra opción similar es la integración de empresas estatales como mecanismo de protección frente al mercado internacional.
+
+### Sección 1.2 El país que construiremos
+
+El país se encuentra en un periodo histórico de crisis generalizada que demanda transformaciones estructurales en el Estado, la economía, la organización social y la cultura. La Asamblea Constituyente es el instrumento político para establecer el nuevo pacto social intercultural y lograr el cambio institucional que esperan pueblos y comunidades de todas las regiones del país.
+  
+Este instrumento debe normar el proceso de transformación y hacer posible la erradicación del origen colonial de la desigualdad y la exclusión que no consiguió eliminar el desarrollismo y fue profundizado por el neoliberalismo.
+  
+La transformación del país en el largo plazo, en el lapso de una generación, configura una Bolivia Digna, Soberana, Productiva y Democrática para que todos los bolivianos y bolivianas “vivamos bien“.
+  
+La *Bolivia Digna* erradicará la pobreza y toda forma de exclusión, discriminación, marginación y explotación, y hará que se ejerzan plenamente los derechos sociales, políticos, culturales y económicos de la población. La solidaridad y reciprocidad se expresarán en un patrón equitativo de distribución del ingreso y la riqueza, con una población en situación de menor riesgo en lo social, económico y político.
+  
+La *Bolivia Democrática* se funda en la sociedad plurinacional y comunitaria, donde el pueblo ejercerá el poder político desde las regiones con los actores sociales y los movimientos sociales e indígenas. El pueblo no sólo elige sino revocará mandatos, ejercerá control social sobre la gestión estatal y será corresponsable en las decisiones sobre su propio desarrollo.
+  
+La *Bolivia Productiva* transformará, integrará y diversificará su matriz productiva en el marco del nuevo patrón de desarrollo, ocupará el conjunto de su territorio y logrará el desarrollo de los complejos productivos integrales. También creará productos materiales e intelectuales con marca boliviana, industrializará sus recursos naturales y aumentará el valor agregado a sus exportaciones con el apoyo del Estado promotor y protagonista del desarrollo. Este Estado, con políticas productivas y un mercado interno fortalecido, generará excedentes, contribuirá a la acumulación interna y distribuirá la riqueza equitativamente.
+  
+La *Bolivia Soberana* tomará decisiones propias y autónomas a partir de sus necesidades, perspectivas e identidades. También se relacionará digna y exitosamente en el contexto mundial, preservará relaciones armónicas y de equilibrio entre los países y consolidará su soberanía alimentaria y energética en beneficio del Vivir Bien.
+  
+Este esfuerzo se orienta a construir una sociedad y un Estado en el que bolivianas y bolivianos y “vivamos bien“, donde Bolivia es la casa común, digna y soberana. En este escenario se desarrollará una concepción cosmocéntrica, holística y se privilegia el vivir en comunidad con el disfrute de los bienes materiales, espirituales y afectivos generados por la sociedad y el Estado.
+  
+En este contexto, el plan estratégico está orientado a desmontar el colonialismo y el neoliberalismo para construir un paradigma alternativo de desarrollo que contribuya a recuperar lo mejor de la humanidad y a garantizar la sostenibilidad del planeta.
+  
+**Para el año 2015 se logrará:**
+  
+\* Implantar políticas estructurales de cambio del patrón de distribución de activos productivos y sociales, y mecanismos distributivos del ingreso mediante estrategias y programas de desarrollo comunitario.
+  
+\* Configurar un nuevo patrón de desarrollo diversificado e integral, basado en la matriz productiva con productos y servicios con mayor valor agregado, sustentado en la industrialización de los recursos naturales, en la calificación del potencial humano y en el desarrollo sectorial y territorial equilibrado y articulado.
+  
+\* Establecer una nueva modalidad de relacionamiento internacional político, económico y cultural, apoyado en principios de autodeterminación, complementariedad y reciprocidad, donde se privilegiará el beneficio para los pueblos y se propugnará el intercambio justo.
+  
+\* Consolidar el control social y la participación ciudadana en el diseño, seguimiento y evaluación de políticas de desarrollo regional y nacional. Se alcanzará un alto nivel de transparencia en la gestión pública y se disminuirá drásticamente la corrupción.
+  
+**En la perspectiva del Vivir Bien se alcanzará:**
+  
+\* Desarrollar la economía con tasas de crecimiento sostenidas más altas que las obtenidas en los últimos 20 años y superiores a las del crecimiento demográfico.
+  
+\* Generar mayores ingresos en el marco de una distribución más equitativa, empleo digno y permanente, donde el trabajo es una actividad que contribuye a la realización plena de la persona.
+  
+\* Reducir la desigualdad con una mayor disponibilidad y acceso a elementos materiales y espirituales satisfactorios, además de los activos sociales y productivos.
+  
+\* Incorporar en las políticas y estrategias de desarrollo el enfoque social, de equidad cultural, género, manejo ambiental, innovación y aplicación de saberes y conocimiento.
+  
+**En el período 2006 - 2011 se alcanzará:**
+  
+\* Un crecimiento del Producto Interno Bruto (PIB) de 6,3 por ciento como tasa promedio estimada.
+  
+\* Disminuir la pobreza de 58,9 por ciento en 2005 a 49,7 por ciento en 2011, mientras que la pobreza extrema se reducirá de 35,3 por ciento en 2005 a 27,2 por ciento en 2011.
+  
+\* Reducir la tasa de desempleo abierto de 8,4 por ciento en 2005 a cuatro por ciento en 2011.
+  
+\* Un promedio de 90 mil empleos por año durante este período.
+  
+\* Un ingreso per cápita que subirá de 1.000 dólares en 2005 a 1.411 dólares en 2011.
+  
+\* Una disminución de la desigualdad medida en términos de diferencia entre el ingreso del 10 por ciento más rico con relación al 10 por ciento más pobre de 27 veces en 2005 a 21 veces en 2011.
+  
+\* Un cambio de la matriz energética del 50 por ciento del parque automotor.
+  
+\* Reforestación de medio millón de hectáreas.
+
+### Sección 1.3 Estrategia general del Plan Nacional de Desarrollo
+
+La historia de Bolivia, al igual que la de Latinoamérica, se encuentra marcada por el colonialismo y el neoliberalismo, donde las potencias coloniales impusieron una forma de civilización ajena que dio lugar a una larga historia de dominación y exacción económica, sustentada en un patrón de desarrollo primario exportador. La coacción impuesta se complementó con exclusiones culturales, sociales y políticas.
+  
+En las dos últimas décadas, aquellas imposiciones y exacciones adquirieron características aún más excluyentes porque las transnacionales, los organismos internacionales y las naciones poderosas impusieron su agenda. Asimismo se acrecentó el colonialismo externo y la burguesía nacional abandonó su propio proyecto nacional para someterse a las decisiones de los países externos.
+  
+El resultado de ese proceso dejó un país profundamente inequitativo y excluyente. La pobreza y la desigualdad son la expresión de la distribución inequitativa del ingreso, empleo, consumo, de la riqueza y las oportunidades, además del desconocimiento de las identidades, los derechos y la dignidad de las personas.
+  
+Ante esta situación, el Gobierno Nacional decidió poner en marcha su Plan Nacional de Desarrollo para dar inicio al proceso de desmontaje del colonialismo y del neoliberalismo, y a empezar a construir una nueva sociedad con un Estado plurinacional y comunitario.
+  
+En este proceso de construcción prevalece lo comunitario, la asociación de “complementarios que a su vez son diversos”, la reciprocidad, la relación armónica hombre/mujer con la naturaleza y la visión holística de la realidad.
+  
+En el corto plazo, el desmontaje y la construcción plantean el fortalecimiento de un Estado promotor y protagonista del desarrollo, distribuidor de riqueza y oportunidades, productor en unos casos de manera directa y en otros como socio mayoritario e impulsor de la convivencia entre la economía privada, comunitaria y mixta.
+  
+Este cambio se realizará con la implementación de cuatro estrategias nacionales (ver Gráfico No 1):
+  
+\* Estrategia sociocomunitaria: Bolivia Digna, busca la erradicación de la pobreza e inequidad, y desarrollo de un patrón equitativo de distribución y/o redistribución del ingreso, la riqueza y las oportunidades.
+  
+\* Estrategia del poder social: Bolivia Democrática, con base en una sociedad y Estado plurinacional y socio – comunitario, donde le pueblo ejerce el poder social y comunitario y es corresponsable de las decisiones sobre su propio desarrollo y del país.
+  
+\* Estrategia económica productiva: Bolivia Productiva, busca la transformación, el cambio integrado y diversificado de la matriz productiva generando excedentes, ingresos y empleo.
+  
+\* Estrategia de relacionamiento internacional: Bolivia Soberana, consiste en la interacción con el resto del mundo a partir de nuestra identidad y soberanía.
+  
+*Gráfico No 1 - Estrategia General del Plan Nacional de Desarrollo*
+  
+![Estrategia General del Plan Nacional de Desarrollo](#TODO-link)
+  
+La estabilidad macroeconómica del país y la nueva gestión institucional estatal son instrumentos que coadyuvarán a implementar las mencionadas estrategias. Este proceso se asienta en las regiones, siendo el territorio y sus componentes naturales, agua y ser humano los elementos substanciales de la cosmovisión de las culturas. De esta manera, la innovación, la equidad social, cultural y de género, y el manejo adecuado del medio ambiente transversalizan las estrategias.
+  
+Desde la visión holística de la propuesta, las estrategias Bolivia Digna, Soberana, Productiva y Democrática están orientadas a conseguir el Vivir Bien en comunidad.
+  
+En este sentido, el PND reconoce la existencia y la necesidad de articulación con equidad y complementariedad de la economía estatal, comunitaria, mixta y privada.
+  
+La economía estatal, donde el Estado es promotor y protagonista del desarrollo, asumiendo roles y funciones diferenciadas económicas en los procesos productivos del país y propiciando la transformación de la matriz productiva.
+  
+La economía comunitaria, que se asienta en procesos productivos impulsados por organizaciones sociales, comunitarias y micro y pequeños empresarios, artesanos, Organizaciones Económicas Campesinas (OECAS), Organizaciones Productivas, Comunidades y Asociaciones urbanas y rurales, basados en valores como equidad, complementariedad, reciprocidad y solidaridad.
+  
+La economía mixta, que se establece sobre la asociación del Estado con los actores del resto de las economías.
+  
+La economía privada que surge de la iniciativa privada y que se desarrolla fundamentalmente con reglas de mercado.
+
+## Capítulo II Bolivia Digna
+
+### Sección 2.1 Estrategia Nacional Sociocomunitaria
+
+La estructura socioeconómica y sociocultural imperante en Bolivia es inequitativa y excluyente porque no toma en cuenta las diversidades socioculturales, genera alta desigualdad en la distribución de los ingresos y en el acceso al empleo digno y remunerado con participación social. Las desigualdades económicas y sociales brindan escasas oportunidades de acceso al sistema educativo, a los servicios de salud, a la vivienda, saneamiento, justicia, seguridad ciudadana y a servicios financieros.
+  
+Los más afectados de este orden estructural son los indígenas, las mujeres, los campesinos, niños y jóvenes, adultos mayores, personas con capacidades diferentes y en general todos los actores vulnerables que en su conjunto son la mayoría nacional.
+  
+Esta grave situación se refleja en:
+  
+i) Pobreza, la más extensa y profunda de la región.
+  
+ii) Alta vulnerabilidad social, económica, organizativa, cultural y territorial que afecta con mayor rigor a los más pobres.
+  
+iii) Alta desigualdad en la distribución de los ingresos y en el acceso al empleo digno.
+  
+iv) Inequidad y exclusión estructural que principalmente provocó la marginación y discriminación de los pueblos indígenas y originarios de las áreas urbanas y rurales y que estructuró un ordenamiento social de base étnico-cultural ocasionando la segmentación, discriminación de la diversidad -no solo cultural sino de toda índole-, menosprecio de potencialidades y patrimonio cultural.
+  
+v) Enormes diferencias entre: pobres y ricos; el área rural y urbana, que produjo la mayor migración de nuestra historia; regiones; y entre el eje central (ciudades de La Paz, Cochabamba, Santa Cruz) y el conjunto del territorio.
+  
+vi) Debilitamiento de las capacidades integrales individuales y comunitarias en términos de:
+  
+\* Reproducción social (educación, salud, habitabilidad, tierra, cultura, justicia, seguridad).
+  
+\* Manejo territorial (tierra territorio, sistemas de manejo de recursos naturales, agua, aire, biodiversidad entre otros)
+  
+\* Reproducción económica de la producción, transformación, circulación y distribución.
+  
+vii) Rupturas civilizatorias de la diversidad.
+  
+La Estrategia Nacional de Protección Social y Desarrollo Integral Comunitario Bolivia Digna, es la respuesta a esta situación, en un proceso de desmontaje del colonialismo liberal y la construcción de la interculturalidad y el comunitarismo expresado en una nueva «estatalidad» y «societalidad».
+  
+*Gráfico No 2 - Desmontaje del colonialismo y neoliberalismo*
+  
+![Desmontaje del colonialismo y neoliberalismo](#TODO-link)
+  
+La colonialidad liberal mina estructuralmente las capacidades humanas y comunitarias del país y su diversidad cultural.
+  
+El desmontaje del colonialismo alcanza a la institucionalidad, por su vocación excluyente y su normatividad institucional diferenciadora y colonizante. Comprende la disciplina que genera hábitos que reproducen conocimientos, actitudes y prácticas de jerarquización colonial de sometimiento. Finalmente involucra la lógica civilizatoria que determina las relaciones sociales entre las personas y la relación con la naturaleza.
+  
+El desmontaje del liberalismo comprende a su vez la reversión del centralismo del mercado que forma imaginarios objetivados y centrados en el individualismo y la desestructuración de la comunidad. Revierte, la competencia destructora que corroe la solidaridad y la responsabilidad compartida, como al consumismo que destruye la naturaleza.
+  
+La construcción de la interculturalidad parte de la reconstitución de las unidades socioculturales y los actores sociales para encarar un modelo de estatalidad, de la diversidad alternativa a la lógica homogeneizante del "Estado Nacional Colonial". De ésta manera, la interculturalidad puede desarrollarse en todos los ámbitos, espaciales y sectoriales, orientada a construir, de manera permanente, simetrías en las relaciones de poder.
+  
+La construcción comunitaria de: los pueblos indígenas y originarios; organizaciones populares; comunidades económicas, sociales, culturales y políticas, se centra en la conformación de armonías, equilibrios, interdependencias y autonomías. Estas redistribuyen y construyen equidad, que otorga vida y movimiento al entorno en su conjunto.
+  
+El proceso de desmontaje es la afirmación y construcción de la democracia comunitaria. Esta implica la toma de decisiones compartidas entre el Estado y la sociedad, así como la participación permanente y equilibrada individual en la comunidad.
+  
+La Estrategia Nacional Sociocomunitaria Bolivia Digna, construye comunitarismo intercultural y democrático. Rompe con las formas tradicionales de poder y de asignación de recursos para el «Sector Social», porque esas formas coadyuvan a que las estructuras reproduzcan la desigualdad en la dimensión económica, en el poder y en el sistema mundial.
+  
+La Estrategia Bolivia Digna asume una proyección tetradimensional. Genera, primero, capacidades humanas y comunitarias para el desarrollo de la economía, de la propia sociedad, la cultura y la política. En éste sentido, forma y reproduce el factor más importante del desarrollo que son: individuo (persona), la familia, la comunidad.
+  
+En segundo lugar, la distribución de factores y medios de producción, como elementos sustantivos de la reciprocidad y la redistribución del excedente nacional para potenciar y fortalecer la capacidad de los actores y el territorio.
+  
+En tercer lugar, genera desarrollo socio comunitario pleno, sano, creativo, proactivo, con valores e identidad, con capacidad proyectiva y transformadora, y con esperanza.
+  
+Finalmente, orienta la reproducción de la equidad, establece un escudo de protección y movilización que garantiza cerrar las injustas brechas, y se organiza en torno al horizonte de dignidad para erradicar toda forma de exclusión, discriminación y violencia.
+  
+Los principios de intervención son: la intersectorialidad y la territorialidad; la primera orientada a construir integralidad en una concepción holística de interdependencias y complementariedades de construcción, y cuidado permanente del equilibrio y armonía; permite una intervención integral porque no se construye sólo en el ámbito de lo sociocomunitario sino también en su relación con lo económico, el poder social y la inserción internacional.
+  
+El segundo principio, la intervención territorial, está orientada a generar equidades regionales y al mismo tiempo reconstituir unidades socioculturales.
+  
+La Bolivia Digna está organizada en una matriz sociocomunitaria compuesta por sectores que generan capacidades y sectores que generan condiciones. Los sectores que generan capacidades son: educación, salud, vivienda, agua y saneamiento, los sectores que generan condiciones son: cultura, justicia, seguridad nacional (defensa) y seguridad pública.
+  
+*Gráfico No 3 - Matriz sociocomunitaria*
+  
+![Matriz sociocomunitaria](#TODO-link)
+  
+De esta manera la política social se convierte en una condición fundamental para el desarrollo orientado por el Vivir Bien, no es una acción compensatoria para los pobres por los daños que genera el mercado. Generan capacidades individuales (de la persona), familiares y comunitarias a partir de la educación, la salud y la habitabilidad (vivienda, agua, saneamiento básico, energías) que se articula estructuralmente a la vida económica, social, cultural y política fortaleciendo, desarrollando y reconstituyendo capacidades humanas orientadas al desarrollo integral. Generan condiciones a partir de inclusión como factores de desarrollo a la cultura, la justicia, la equidad y la seguridad (pública y nacional) de tal manera que los actores no solo tienen la oportunidad de generar condiciones sino que el entorno se torna favorable para la gestión del desarrollo.
+
+### Sección 2.2 Políticas sociales
+
+Las políticas en la Bolivia Digna, como objetivo de desarrollo en el largo plazo, están orientadas a erradicar la pobreza y toda forma de exclusión, marginación y explotación social, política, cultural y económica. Se realizará a través del establecimiento de políticas nacionales de desarrollo integral que contribuyan a la generación de un patrón equitativo de distribución del ingreso, de la riqueza y de las oportunidades.
+  
+Deben concretarse mediante el ejercicio pleno de la dignidad y de los derechos de las personas y de los grupos sociales, así como, mediante la implementación de estrategias y programas de desarrollo destinados a reducir drásticamente las situaciones de riesgo y sus consecuencias en lo social, económico y político.
+  
+En esta perspectiva, las orientaciones que regirán la gestión del Estado son:
+
+### 2.2.1 Políticas y estrategias sociales integrales y sostenidas
+
+La política social en Bolivia dependió, en gran parte, de las olas generadas por el ámbito internacional, que puso de moda tendencias y enfoques. Situación que sumada a las debilidades institucionales de la administración estatal facilitó la ejecución de proyectos y estrategias, poco estables y articuladas, con fuerte orientación asistencial.
+  
+La propuesta plantea el desarrollo de procesos sostenidos de intervención de tal manera que las políticas sociales tengan continuidad y sostenibilidad. Establece, además la necesidad de realizar acciones articuladas entre los múltiples sectores, en la perspectiva de fomentar el desarrollo integral de las personas, así como su relación armónica y equilibrada con la naturaleza, y el conjunto de la sociedad.
+
+### 2.2.2 La política social de Estado
+
+Las estrategias del sector sociocomunitario se sustentarán en políticas de Estado. Estas responderán a las necesidades y expectativas de la población y serán parte indisoluble de las propuestas de desarrollo del país para Vivir Bien, y serán construidas sobre la base de la complementariedad entre políticas sociales y económicas.
+  
+Se dejará de considerar lo social como “variable de ajuste” de las políticas de crecimiento económico, y se constituirá como función principal del Estado, otorgándole a éste, el rol de promotor y protagonista para generar condiciones de equidad que contribuyan al logro del Vivir Bien.
+
+### 2.2.3 Políticas sociales como parte de la revalorización de los derechos de las personas y grupos sociales
+
+La inequidad y desigualdad, además de la ausencia de ciertos beneficios sociales y económicos, es la expresión estructural de la negación de los derechos de las personas y de los grupos sociales. En consecuencia, las políticas sociales deben dar prioridad a la atención y resolución de las causas de la negación de estos derechos y oportunidades.
+  
+El Plan Nacional de Desarrollo prevé la generación de estrategias destinadas a facilitar el perfeccionamiento de potencialidades y habilidades que conduzcan a formar activos sociales y condiciones sociales.
+
+### 2.2.4 Políticas de acción afirmativa para los sectores excluidos
+
+Las prioridades de inversión y ejecución de estrategias, programas y proyectos estarán orientadas a garantizar la atención y resolución de necesidades, expectativas y derechos de los grupos sociales con mayores niveles de exclusión. Estos grupos son: niñas y niños, mujeres, indígenas, adultos mayores, habitantes de áreas rurales, personas con capacidades diferentes, y adolescentes trabajadores.
+
+### 2.2.5 Políticas de construcción del poder social de los excluidos
+
+Los procesos de resolución de la problemática social contarán con la participación y toma de decisiones de los sectores y actores en situación de exclusión. La construcción de la equidad se sustentará en estrategias de carácter comunitario y estará orientada al establecimiento de relaciones de igualdad con el resto de la sociedad y el Estado.
+  
+En este sentido el acceso, control y capacidad de uso de la comunicación y la información, la capacidad de negociar y participar en espacios de decisión y la defensa y ejercicio de sus derechos serán un soporte fundamental para la toma de decisiones y el control social.
+
+### 2.2.6 Políticas de valoración de los saberes y conocimientos locales
+
+La recuperación y valorización de saberes y conocimientos locales, así como el encuentro con los llamados “conocimientos universales”, será una base fundamental para el diseño y desarrollo de estrategias sociales que promoverán la equidad.
+
+### Sección 2.3 Indicadores sociales
+
+Para conocer el nivel de vida en que se encuentra la población, desde la perspectiva holística del Vivir Bien, no es suficiente considerar las variables macroeconómicas tales como el PIB global, el PIB per cápita, el nivel de inversión, la tasa de inflación, etcétera.
+  
+El significado del Vivir Bien tiene directa relación con el estado de bienestar general de las personas, es decir, con elementos adicionales que son cotidianos y parte de su vida diaria, así como de los grupos sociales con los que se interrelacionan.
+  
+En ese contexto, lo que cuenta es disponer de trabajo digno y permanente, de ingresos suficientes, vivienda decente, alimentación adecuada, educación, transporte, energía eléctrica, agua, servicios sanitarios y otros satisfactores de orden material y espiritual.
+  
+En este sentido, se han establecido indicadores sociales que servirán para evaluar el avance de las políticas sociales del Plan Nacional de Desarrollo, los mismos que se presentan en el siguiente cuadro.
+  
+*Cuadro N° 1 - Indicadores sociales globales* 
+
+| Indicador | 2005 (%) p | 2006 (%) p | 2011 (%) e |
+| --- | --- | --- | --- |
+| Pobreza moderada (a) | 60.6 | 59.9 | 51,6 |
+| Pobreza extrema o indigencia (b), (c) | 38.2 | 37.7 | 29,5 |
+| Tasa de crecimiento PIB per cápita | 1,8 | 2,5 | 4,8 |
+| Ratio entre ingreso del 10% más rico y con el 10% más pobre (d) | 30 veces | 24 veces | 22 veces |
+| Tasa de desempleo urbano | 8,1 | 8,0 | 4,0 |
+
+  
+Fuente: Elaborado con datos del INE (Dossier Estadístico UDAPE 2007).
+  
+p: Preliminar; e: Estimado.
+  
+La pobreza moderada (a) se refiere a aquellas personas cuyos ingresos no les permiten satisfacer una canasta básica alimentaría y otros satisfactores básicos como educación y salud. La pobreza extrema o indigencia (b), se refiere a aquellos grupos sociales cuyos ingresos no cubren siquiera una canasta básica alimentaría.
+  
+Finalmente, el fuerte incremento que se espera lograr en la cobertura de servicios de electrificación rural permitirá levantar restricciones importantes para el desarrollo de diferentes actividades productivas urbanas y rurales, agroindustriales y de servicios.
+  
+Esto no solo representa mejoras tecnológicas sustanciales en las condiciones de vida y de producción, sino que constituye la base para el desarrollo de programas de educación, de capacitación técnica y el acceso a los servicios de telecomunicación, tecnologías de la información y la comunicación (TICs).
+  
+El cuadro siguiente muestra algunas de las metas sociales que se piensa alcanzar con la ejecución del Plan Nacional de Desarrollo, durante el periodo 2006 a 2010.
+  
+Cuadro N° 2 - Indicadores sociales sectoriales
+
+| No | Situación Actual | Metas 2006-2010 |
+| --- | --- | --- |
+| 1 | **Agua potable y saneamiento** Actualmente 2.6 millones de habitantes (26.9%) no tienen acceso al agua potable.  4.3 millones de habitantes (44.3%) no tienen acceso al servicio de saneamiento. | Población adicional que será beneficiada con agua potable: 1.926.414 habitantes. Población adicional que será beneficiada con saneamiento: 2.057.750 habitantes. |
+| 2 | **Recolección y tratamiento de residuos sólidos**  Deficiente prestación en los servicios de recolección y tratamiento de residuos (rellenos sanitarios) sólidos. | Se incrementará y mejoraran los rellenos sanitarios y el servicio de recolección, con una inversión de 11.5 millones de dólares americanos al año. |
+| 3 | **Aguas residuales**   Reducido tratamiento de Aguas Residuales | Población adicional que será beneficiada con tratamiento de aguas residuales: 1.314.778 habitantes. |
+| 4 | **Electricidad**  A octubre del presente año 1.42 millones de hogares en el área urbana y 271 mil hogares en el área rural cuentan con electricidad | Se ampliará la cobertura de electricidad en el área urbana de 90% a 97%, beneficiando al menos a 462 mil hogares adicionales y sectores productivos de zonas periurbanas.  Se ampliará la cobertura de electricidad en el área rural de 33 por ciento a 53 por ciento beneficiando a 210 mil hogares. |
+| 5 | **Matriz energética**  Actualmente los hogares utilizan Gas Licuado de Petróleo para la generación de energía | Se construirán redes e instalaciones domiciliarias de Gas Natural en 150.000 viviendas |
+| 6 | **Vivienda**  Existe un déficit cuantitativo de 298 mil viviendas y en términos cualitativos un déficit de 855 mil viviendas | Se construirán 45 mil soluciones habitacionales en el periodo 2006-2010. |
+| 7 | **Alfabetización**  Actualmente el 13.6 por ciento (750.000 habitantes) de la población mayor a 15 años es analfabeta absoluta | Se alfabetizarán a 1.23 millones de personas mayores a 15 años, lo que significa prácticamente analfabetismo cero. |
+
+  
+Fuente: Elaboración propia con base en los datos del PND
+  
+Con éste planteamiento se espera superar de manera cuantitativa y cualitativa las metas del Milenio reflejando el esfuerzo del país frente al pacto mundial de erradicación de la pobreza en sus diferentes manifestaciones a objeto de alcanzar el desarrollo sustentable, en cumplimiento de los Objetivos de Desarrollo del Milenio (ODM).
+  
+De esta manera, el Plan Nacional de Desarrollo expresa la voluntad política de superar la exclusión social y reducir sustancialmente las desigualdades e inequidades económicas y sociales en el marco de una nueva visión de país, articulando las denominadas políticas de carácter universal que contribuyen al logro de los ODM, con políticas de focalización poblacional y territorial en intervenciones estratégicas más puntuales como repuesta integral a la superación de las causas de la pobreza, de la exclusión socio-cultural y económica.
+
+### Sección 2.4 Sector protección social y desarrollo integral comunitario
+
+La pobreza es la manifestación más aguda de la desigualdad y la exclusión social, económica, política y cultural. Los pobres son discriminados socialmente por sus características étnicas y culturales; económicamente porque sólo pueden acceder y desempeñar las ocupaciones más degradantes y con las peores remuneraciones; políticamente porque no acceden a la representación ni a la gestión pública; y culturalmente porque están constreñidos a aplicar la normatividad impuesta en contra de sus usos y costumbres.
+  
+La pobreza en Bolivia es elevada pues más de la mitad de la población total (65,1 por ciento) es pobre y un tercio de la misma (41,3 por ciento) es extremadamente pobre. Estas cifras significan que un tercio de la población nacional está sometida a un alto grado de desigualdad y exclusión social, que están corroboradas por la distribución del ingreso nacional, donde la población más rica recibe el 47,3 por ciento del total del ingreso, o sea, 325 veces más que la población más pobre, que sólo obtiene el 0,2 por ciento. Además, esta concentración de la riqueza aumentó considerablemente con el modelo neoliberal, pero, creció la concentración de la pobreza, especialmente en algunas regiones del país.
+  
+La comparación del consumo en los municipios más pobres y más ricos confirma la situación de desigualdad del país. Los 80 municipios más pobres registran indicadores críticos (por el bajo nivel de ingreso), 97 de cada mil niños nacen muertos y sólo el 37 por ciento de ellos llega al octavo grado de la escuela, esto debido a la carencia de servicios básicos, de agua potable, recolección de basura, eliminación de excretas y en general, necesidades básicas insatisfechas que no fueron resueltas para la población indigente y marginal, como lo muestra el cuadro anterior.
+  
+En promedio, el porcentaje de población en extrema pobreza de los ochenta municipios focalizados es del 92,83 por ciento. Entre los problemas que afectan a la población de estos municipios esta la prevalencia de desnutrición global en menores de dos años que alcanza niveles alarmantes; donde el promedio es del 7,73 por ciento pero en algunos casos alcanza hasta el 46,03 por ciento. El promedio de consultas prenatales por embarazada atendida es de tres.
+  
+En Bolivia, las políticas de protección social surgieron para mitigar los efectos sobre la población del modelo económico neoliberal, comprometiéndose enormes cantidades de recursos financieros para el “alivio de la extrema pobreza”, en base a proyectos asistencialistas, individualistas, paternalistas y sin visión de largo plazo ni sostenibilidad, los que también poco o casi nada han logrado en resultados.
+  
+**Propuesta de cambio**
+  
+El nuevo modelo de intervención está orientado a fortalecer la capacidad autogestionaria de las comunidades urbanas y rurales en la identificación, priorización, ejecución y seguimiento de proyectos de desarrollo integral comunitario.
+  
+El modelo se basa en la articulación intersectorial e interinstitucional, y en la movilización y participación de las comunidades para la definición y gestión de los proyectos que las benefician a través de transferencias autocondicionadas que implican que las comunidades reciban recursos contra la responsabilidad comunitaria del cumplimiento de metas de mejoría en indicadores de desarrollo.
+  
+El actual gobierno tiene como objetivo mejorar las condiciones de vida de la población en extrema pobreza urbana y rural fortaleciendo sus capacidades de organización comunitaria y generando de forma integral, participativa y autogestionaria en entorno que les garantice acceso a mejores oportunidades y capacidades de desarrollo individual y comunitario.
+  
+Los objetivos de Protección Social y Desarrollo Integral Comunitario son los siguientes:
+  
+\* Contribuir a erradicar las causas estructurales de la pobreza, extrema pobreza, reducir las brechas de inequidad entre la población, eliminar toda forma de exclusión, y disminuir factores de riesgo, precariedad y vulnerabilidad de las personas, familias, comunidades y grupos sociales, focalizando la inversión productiva y social en: i) comunidades y municipios más pobres ubicados en el área rural; ii) población con mayores niveles de vulnerabilidad y iii) zonas periurbanas de las ciudades más pobladas.
+  
+\* Coadyuvar a la restitución y fortalecimiento de los derechos y capacidades (económicas, físicas, humanas, naturales y sociales) de la población, principalmente de los indígenas, originarios y campesinos.
+  
+\* Fortalecer el modelo comunitario urbano y rural que se sustenta en los valores de la comunidad, el control social directo y la transparencia, las formas organizativas propias de las poblaciones locales, y la identidad cultural y territorial;
+  
+Esta propuesta permitirá, a las poblaciones excluidas, ser protagonistas de la nueva matriz productiva a través de la generación de ingresos y el acceso a servicios sociales; revalorizar sus derechos fundamentales e implementar estrategias sostenibles de solidaridad y redistribución del ingreso; desarrollar potencialidades comunitarias de manera que no se reproduzca ninguna forma de exclusión y explotación en la perspectiva pluricultural y multiétnica.
+  
+**Políticas y Estrategias**
+  
+Protección Social y Desarrollo Integral Comunitario se basa en las siguientes políticas:
+  
+**i) Integralidad**
+  
+Contribuye a desarrollar las múltiples capacidades de las personas, familias, grupos sociales y comunidades en forma armónica y equilibrada a través de intervenciones intersectoriales, así como con programas de corto, mediano y de largo plazo.
+  
+**ii) Territorialidad**
+  
+Las intervenciones se focalizan en el ámbito de la comunidad, municipal, departamental, regional y nacional, reconociendo las relaciones sociales y culturales que se establecen en los territorios, fortaleciendo la reconstitución de actores territoriales, generando equidad entre los mismos y estableciendo nuevas dinámicas de relacionamiento entre las comunidades y los municipios, regiones, departamentos y país.
+  
+**iii) Enfoque comunitario**
+  
+Fortalece y se sustenta en la identidad y las formas de organización y autogestión de las comunidades locales campesinas, indígenas-originarios, productivas y vecinales, en el diseño, implementación, monitoreo y evaluación de los programas y proyectos.
+  
+**iv) Impacto sobre las causas de la pobreza**
+  
+Los programas estarán orientados a erradicar las causas estructurales de la pobreza, extrema pobreza, marginalidad y prevención y reducción de vulnerabilidad en todas sus manifestaciones.
+  
+**v) Autogestión**
+  
+Destinada a fortalecer las capacidades de autogestión y de desarrollo sustentable de las comunidades locales campesinas, indígenas–originarias, productivas y vecinales, fundamentalmente a través de transferencias monetarias y en especie.
+  
+**vi) Intersectorialidad**
+  
+Se consideran tanto procesos intersectoriales como territoriales que apoyan la articulación sectorial de manera estratégica e inteligente y no solamente como una suma de sectores, donde cada uno de ellos contribuirá de manera específica a dar solución a los factores que causan la pobreza y en función a las propias decisiones comunitarias. Asimismo, permitirá generar un proceso de elevada movilización social y estatal para apoyar a la población a salir de la extrema pobreza con creatividad.
+  
+La implementación de la Red de Protección Social y Desarrollo Integral Comunitario (RPS – DIC) está enfocada a intervenir de manera progresiva en los territorios y poblaciones vulnerables y de extrema pobreza, a fin de lograr en el corto, mediano y largo plazo los cambios estructurales establecidos en los objetivos de la Política. Se desarrollará en base a las siguientes estrategias y programas.
+  
+Estrategia de *Transición de Corto Plazo*, destinado a la generación de programas que en una primera etapa será necesario para resolver demandas de emergencia.
+  
+Estrategia de *Generación de Oportunidades y Activos Sociales* está dirigida a la creación de activos sociales para las poblaciones con mayores niveles de pobreza. Esta estrategia comprende los siguientes programas:
+  
+\* Jóvenes en Acción, *Mi Primer Empleo Digno*, dirigido a incrementar la inserción laboral de jóvenes, mujeres y varones, de escasos recursos, bachilleres de área peri - urbanas mejorando sus condiciones de empleabilidad en el mercado de trabajo, mediante programas de capacitación y pasantía.
+  
+\* *Bono Juancito Pinto*, dirigido a niños y niñas de escuelas públicas que cursan entre primero y quinto de primaria, subsidio de incentivo a la permanencia escolar instituido a través del Decreto Supremo No 28899 de 26 de octubre de 2006.
+  
+\* *Desnutrición 0*, dirigido a mejorar la alimentación y el cuidado integral de los niños y niñas menores de cinco años y mujeres embarazadas en periodo de lactancia, en el marco de la política de Seguridad y Soberanía Alimentaria del PND.
+  
+Estrategia de *Desarrollo Integral Comunitario* comprende los siguientes programas:
+  
+\* *Comunidades en Acción*. Promueve la construcción de un modelo comunitario con base en la identidad cultural y territorial y en los valores de solidaridad y reciprocidad propios de la comunidad. Se implementará en municipios rurales con extrema pobreza.
+  
+Este programa se basa en la movilización de los valores, capacidades, decisiones autónomas, y mecanismos de reciprocidad, administración y autogestión comunitaria para la erradicación de la extrema pobreza.
+  
+\* *Comunidades Recíprocas*. Orientadas a mejorar las capacidades económicas, físicas, naturales, humanas y socio-comunitarias a partir de las potencialidades de los municipios del área urbana. Se ejecutará en las áreas de extrema pobreza de las Ciudades más pobladas del País.
+  
+Se denomina así porque la erradicación de la pobreza forma parte de un esfuerzo basado en la reciprocidad entre el Estado y las comunidades urbanas, rurales, y entre la población que vive en las ciudades.
+  
+\* *Comunidades Solidarias*. dirigida al reconocimiento, restitución y potenciamiento de capacidades, oportunidades, proyecciones y derechos de los sujetos con mayor vulnerabilidad, discriminación y marginalidad.
+  
+Está dirigida a atender a las poblaciones con mayores riesgos, de acuerdo al siguiente detalle: personas con discapacidad, adultos mayores pobres, trabajadores infantiles, indigentes en las ciudades y emigrantes rurales en extrema pobreza, y poblaciones indígenas con alta vulnerabilidad física, lingüística, cultural, y amenazados por procesos económicos. Se denomina así porque la disminución de los factores de riesgo y vulnerabilidad en estas poblaciones requiere de la solidaridad del propio Estado y de la población boliviana.
+  
+Protección Social y Desarrollo Integral Comunitario se desarrollará a través de cinco componentes principales.
+  
+a) Iniciativas económicas comunitarias:
+  
+Este programa está orientado a mejorar las capacidades económicas de la población local extremadamente pobre, promoviendo la producción de alimentos en el marco de la seguridad alimentaria y para el incremento de sus ingresos económicos.
+  
+Esto se logrará a través del desarrollo de complejos productivos que consoliden el control por parte de la población local del territorio comunal y regional, así como sobre el conjunto del proceso productivo, de transformación y comercialización, en una lógica creciente de incorporación de nuevas innovaciones hasta lograr el máximo de la transformación y de desarrollo científico tecnológico.
+  
+b) Construcción de una vida digna:
+  
+Este programa está dirigido a mejorar de forma integral las capacidades humanas de las poblaciones locales más pobres, otorgándoles las condiciones para que gocen de una buena salud, educación y nutrición, en el marco de sus propias visiones culturales, y con calidad y calidez.
+  
+Se desarrollará con enfoques intersectoriales para resolver problemas estructurales de manera coordinada entre sectores que generan capacidades (educación, salud, vivienda, agua, saneamiento básico, y energías) y condiciones (culturas, justicias, equidad, transparencia y seguridad).
+  
+c) Restitución ambiental:
+  
+Este programa está dirigido a conservar, mejorar y restituir las capacidades naturales de los recursos (tierra, agua y bosques) de la población más pobre, de tal manera que se pueda garantizar que en el mediano plazo se detenga el deterioro ambiental progresivo y se incrementen las capacidades de productividad del ecosistema en su conjunto.
+  
+d) Fortalecimiento de prácticas comunitarias autogestionarias:
+  
+Este programa apoyará al fortalecimiento de las capacidades socio-comunitarias de la población indígena a través del soporte a las prácticas sociales comunitarias en los distintos niveles de las organizaciones comunitarias.
+  
+e) Construcción de infraestructura y equipamiento social y productivo:
+  
+Este programa está orientado a que las regiones cuenten con las capacidades de infraestructura física social y productiva completa.
+  
+Estos componentes se sustentan en los siguientes programas de soporte: Conocimiento e innovación, identidad Territorial, Desarrollo Regional e Identidad cultural.
+
+### Sección 2.5 Sectores generadores de activos sociales
+
+### 2.5.1 Salud
+
+El Estado tiene una deuda social sanitaria con la población boliviana acumulada desde la colonia, agravada en los últimos 20 años por la aplicación de políticas neoliberales de ajuste económico social, y que incluyeron procesos de reforma estructural del Estado, el privilegio de la economía de mercado, así como reformas sectoriales, que comprendieron el sector salud, que profundizaron la desigualdad, la exclusión social y la ineficiencia e ineficacia de las instituciones públicas.
+  
+Los datos revelan que el recorte del gasto público en salud y el desplazamiento de la responsabilidad del Estado de garantizar los derechos sociales constitucionales en salud, generaron serios problemas, tanto en la profundización de la precariedad de las condiciones de vida y situación de salud de grandes mayorías poblacionales, incrementando la desigualdad, la exclusión en salud y el debilitamiento de las instituciones públicas del sector.
+  
+Esta situación, junto a la depresión salarial, el aumento del desempleo, la flexibilización de las relaciones laborales y la feminización de la pobreza, derivo en la conformación de grupos de población con perfiles epidemiológicos diferenciados, en su mayoría caracterizados por la prevalencia de las enfermedades de la pobreza –tuberculosis, diarreas e infecciones–, que a su vez han incidido en la alta morbimortalidad general, y materno infantil, en particular; además de ahondar las brechas de inequidad y de género, las diferencias entre lo urbano y lo rural, y entre indígenas y no indígenas.
+  
+Así también, siendo que Bolivia es un país multiétnico y multicultural, el Sistema Nacional de Salud ejerció represión y desprecio al saber ancestral y a los usos y costumbres tradicionales, situaciones que están entre las causas de la exclusión y marginación en la atención en salud. Los intentos de recuperación sociocultural fueron insuficientes ya que nunca antes se asumió la cosmovisión sanitaria de los pueblos indígenas y originarios de las diferentes regiones.
+  
+Entre los indicadores que reflejan la grave situación de salud y de exclusión de la población boliviana, están los siguientes:
+  
+\* El 77 por ciento de la población se encuentra excluido de los servicios de salud, con fuerte incidencia en regiones del altiplano y valles rurales. Las barreras son la económica, la geográfica, la cultural y la social.
+  
+\* Siete niños de cada cien mueren antes de los cinco años, principalmente por enfermedades infecciosas prevenibles y curables; 26,5 por ciento de los sobrevivientes tiene desnutrición crónica y la mayoría de ellos tiene secuelas irreversibles en su capacidad intelectual y desarrollo; el 67 por ciento de los niños menores de tres años tiene anemia y el 19 por ciento déficit de vitamina A.
+  
+\* El 44 por ciento de los niños nacidos de madres sin educación son desnutridos, lo que prueba una relación directa entre educación y desnutrición. Un tercio de la población de niños de áreas rurales menores de tres años e indígenas de la misma edad tiene desnutrición crónica, que equivale al doble de la población de niños de la misma edad que viven en la ciudad. Por otro lado, el país presenta una mortalidad materna de 320 por cada 100 mil nacidos vivos (ENDSA 2003), y es la más alta de Sudamérica.
+  
+\* La tasa de Incidencia Parasitaria Anual (IPA) en la población en riesgo es de 4,3 por mil habitantes expuestos en 2005.
+  
+\* La dispersión de vectores domiciliaros cubre, aproximadamente, el 60 por ciento del territorio, ocupando casi toda la superficie de los departamentos de Tarija, Chuquisaca, Cochabamba, Santa Cruz y, parcialmente, Potosí y La Paz, representando un 80 el riesgo de transmisión vectorial.
+  
+\* La tuberculosis es un problema grave de salud pública: la notificación de casos procedentes de los servicios de salud públicos muestra una incidencia de casos pulmonares positivos de 67,3 por 100 mil y en todas sus formas de 100,3 x 100 mil.
+  
+Para revertir la critica situación de salud de la población anteriormente señalada, el Gobierno Nacional ha definido una nueva política social, en cuyo centro se encuentra la salud y la seguridad social. En ese marco, el Ministerio de Salud y Deportes, con una visión integral e intersectorial, tomando en cuenta las prerrogativas constitucionales, ha elaborado participativamente un Plan de Desarrollo Sectorial orientado a generar bienestar social, a proteger a la sociedad de riesgos, a garantizar la equidad en salud, la asignación de recursos y a lograr la máxima eficiencia en el impacto.
+  
+Inicialmente, el sector salud ha establecido las siguientes problemáticas:
+  
+\* Alta privación socio-biológica9 en mayorías poblacionales, dada por los factores obstaculizadores y desfavorables en la calidad de vida y sus consecuencias para la salud colectiva, que se expresan en perfiles patológicos y epidemiológicos diferenciados según grupos sociales, caracterizados por la alta incidencia de enfermedades de la pobreza, muertes evitables y baja productividad.
+  
+\* Sistema de Salud inequitativo e ineficiente, que no toma en cuenta la diversidad social, étnica y cultural del país. Insuficiente capacidad resolutiva de los establecimientos de salud, expresado en niveles de gestión y atención desintegrados; sin criterios de calidad y eficiencia; desconectados entre sí; mal distribuidos; deficientemente equipados; con profesionales, técnicos y administrativos desmotivados, y sin mecanismos de control social.
+  
+\* Sistema Nacional de Salud segmentado, fragmentado, con débil rectoría, gestión ineficaz e ineficiente, sin capacidad de seguridad sanitaria ni de contribuir a la protección social de la población, expresado en la presencia de varios subsectores, con planes y presupuestos no coordinados con el Ministerio de Salud y Deportes, y de accionar independiente; con recursos de cooperación mayoritariamente condicionados por las agencias cooperantes; con un marco jurídico disperso y contradictorio, en gran parte obsoleto; con concentración y duplicidad de servicios en focos urbanos y con áreas rurales sin servicios básicos de salud; con poca o ninguna experiencia o interés en coordinar intersectorialmente para intervenir sobre las determinantes y minimizar la exclusión social en salud.
+  
+\* Insatisfacción de los usuarios del Sistema Nacional de Salud, y escasa participación en la planificación y control social de la actividad, determinado por un entorno económico y social que ha minado el poder social y ha evitado el empoderamiento de la población, aún más el de las mujeres.
+  
+\* El sistema de salud no asume la medicina tradicional y no hay complementación intercultural en los servicios. Hay una falta de fomento a la práctica de los terapeutas tradicionales, a la investigación de la medicina ancestral, a la elaboración de una farmacopea y a la implementación de mecanismos regulatorios.
+  
+\* Problemas alimentario nutricionales, que repercuten en la desnutrición y malnutrición, que generan bajas defensas frente a la enfermedad, y en el caso de la infancia causa disminución en sus capacidades de aprendizaje y desarrollo intelectual.
+  
+Las potencialidades identificadas son las siguientes:
+  
+\* Un modelo de gestión de salud descentralizado y concurrente, en proceso de mayor profundización que tendría capacidad para tomar decisiones más próximas a los problemas locales, en la que participarán las comunidades en la toma de decisiones.
+  
+\* La existencia de varias experiencias exitosas del enfoque de salud familiar comunitaria intercultural en el altiplano, valles, llanos y en otros países, que serán sistematizados y aplicados en Bolivia.
+  
+\* Pueblos indígenas y originarios con estructuras propias que cuentan con saberes ancestrales en el tratamiento de enfermedades.
+  
+\* Sistema Nacional de Salud con práctica gerencial en manejo del seguro público (Seguro Universal Materno Infantil y Seguro Médico gratuito de Vejez) en todo el territorio nacional, además de 50 años de experiencia en Seguridad Social.
+  
+**Propuesta de cambio**
+  
+El objetivo del Plan Nacional en el sector salud es la eliminación de la exclusión social, se conseguirá con la implementación del Sistema de salud familiar comunitario intercultural, que asume la medicina tradicional.
+  
+Este sistema será inclusivo, equitativo, solidario, de calidad y calidez. Participará de la dimensión económica, productiva, sociocultural y política organizativa, generando capacidades individuales, familiares y comunitarias, actuará de manera intersectorial sobre los determinantes de salud con participación plena en todos sus niveles, orientado hacia la promoción de hábitos saludables, de la actividad física y deportiva, que cuida, cría y controle el ambiente, promueve y se constituye en el espacio de organización y movilización sociocomunitaria del Vivir Bien.
+  
+El rol del Estado, basado en una concepción social, comunitaria intercultural, asume la historicidad de las personas y el derecho a la salud y la vida. Reconoce lo social como totalidad para lograr una correcta caracterización de la situación de salud y formular propuestas articuladas para la solución de los problemas de salud y lograr transformaciones socio económicas.
+  
+En este sentido, todos los sectores involucrados en el Sistema Nacional de Salud (público, seguridad social, tradicional y privado) cumplirán, bajo la rectoría y autoridad normativa y regulatoria del Ministerio de Salud y Deportes, los roles y funciones que estén vigentes. (Ver Gráfico No 4).
+  
+*Gráfico N° 4 - Relación del enfoque político con los lineamientos centrales del Plan de Salud*
+  
+![Relación del enfoque político con los lineamientos centrales del Plan de Salud](#TODO-link)
+  
+Este cambio permitirá el cumplimento de las Metas del Milenio en Salud hasta el 2015:
+  
+\* Erradicar la pobreza extrema y el hambre
+  
+\* Alcanzar la educación primaria universal
+  
+\* Promover la equidad de género de la mujer
+  
+\* Reducir la mortalidad infantil
+  
+\* Mejorar la salud materna
+  
+\* Combatir el VIH/SIDA, el paludismo, Chagas y Tuberculosis
+  
+\* Garantizar la sostenibilidad del medio ambiente
+  
+La población boliviana, hasta el 2010, accederá en un 100 al Sistema Salud Familiar Comunitario Intercultural, además del acceso a servicios básicos. Se eliminará la desnutrición en niños menores de cinco años. Se alcanzará la mayor cantidad de años de vida en forma saludable con menor incidencia de enfermedades.
+  
+El sistema de salud generará un ambiente sano y sostenible vigilando el ámbito productivo, los desechos industriales, residuos hospitalarios y suelos (minería, agricultura, hidrocarburos y otros). Para ellos se crearán políticas, normas y sistemas.
+  
+Se eliminará la violencia intrafamiliar focalizada principalmente en niñas de municipios pobres.
+  
+**Políticas y estrategias**
+  
+**i) Sistema único de salud familiar comunitaria intercultural**
+  
+Permitirá el acceso a los servicios de salud del 100 de la población boliviana bajo el Sistema Único de Salud Familiar Comunitaria Intercultural, mediante la promoción de hábitos y conductas saludables en individuos, familia y la comunidad, la prevención de riesgos, el control de daños y la rehabilitación de personas con discapacidades; logrando una población sana y productiva, que participe en la transformación económica, social y cultural, con la aplicación de un modelo de salud familiar comunitaria intercultural.
+  
+La estrategia de está política es la *Universalización del Acceso al Sistema Único de Salud Familiar Comunitaria Intercultural*, orientada a superar toda forma de exclusión en salud, que se traduce en altos índices de enfermedad y muerte, pero también en personas con hábitos no saludables.
+  
+El Programa es «Salud Familiar Comunitaria Intercultural», que comprende la Extensión de coberturas; el Fortalecimiento de Redes de Salud; Gestión de la calidad, Intercultural, género generacional; y Vigilancia de la calidad de producción de bienes y servicios. El requerimiento para la implementación del programa es el de contar con recursos humanos con competencias especiales en la atención primaria de salud.
+  
+**ii) Rectoría**
+  
+Recupera la soberanía y la rectoría del sistema, liderizando la intersectorialidad para la salud; con mayor capacidad de gestión que permitirá garantizar la sostenibilidad financiera del sector, proteger la salud de los bolivianos, sus condiciones de vida, de trabajo y de su relación con el ambiente. También se busca que el Sistema de Salud cuente con un marco jurídico normativo, administrativo y financiero independiente de condicionamientos externos.
+  
+Para implementar esta política se plantea la estrategia de «Recuperar y consolidar la soberanía sanitaria», orientada a fortalecer la rectoría estatal del Sistema Único de Salud Familiar Comunitaria Intercultural y de la autoridad sanitaria en todos los niveles de gestión.
+  
+El programa Conducción, Regulación Fiscalización y Modulación del Financiamiento, recuperará para el Estado la responsabilidad de la salud y la protección social de la población en general y de los grupos más vulnerables en particular. El avance será mediante fortalecimiento de la capacidad de gestión; aseguramiento público ampliado y reformas en la Seguridad Social de Corto Plazo.
+  
+**iii) Movilización social**
+  
+Plantea promover la ciudadanía activa, participativa y corresponsable del quehacer en salud y del autocuidado de las personas de base comunitaria (gestión, movilización y control social) empoderando y movilizando consejos de salud en el nivel nacional, departamental y municipal. Esto permitirá coadyuvar a aumentar los años de vida saludable de la población y mayor productividad para el país.
+  
+La estrategia de esta política es la «Revalorización de la salud en las prioridades de los hombres, mujeres, comunidades y familias bolivianas», orientada a la promoción de una ciudadanía activa, participativa y responsable.
+  
+Esta estrategia se implementará mediante el programa Participación comunitaria, desarrollando las comunidades saludables en el marco de la propuesta nacional de “comunidades en acción”.
+  
+**iv) Determinantes de la salud**
+  
+Propone la recuperación de la responsabilidad del Estado en la cultura de salud integral y la calidad de vida de las personas y familias.
+  
+La estrategia de esta política es la «Recuperación de la responsabilidad del Estado en la cultura de salud integral y la calidad de vida», orientada a la disminución de la carga social sobre el proceso salud enfermedad, a intervenir, coordinadamente, entre el sector salud y los demás sectores del desarrollo económico social, en los factores que determinan la calidad de vida, para que se incremente el acceso de la población a servicios básicos, alimentación, vivienda, vestimenta, recreación, acceso a servicios básicos de educación, salud, saneamiento básico, agua segura, energía limpia y seguridad social.
+  
+Para lograr esta estrategia se implementará el programa «Intersectorialidad», como una acción intersectorial, integral, articulada y sostenible para contribuir a mejorar la capacidad del Estado para enfrentar los problemas de los diferentes grupos sociales, logrando aumentar la calidad de vida y alcanzar la equidad por sobre intereses excluyentes, contribuyendo con ello a la dignidad nacional.
+  
+Articulará al sector educativo, por ser el encargado de formar la mente de las y los niños, y producir recursos humanos para el desarrollo nacional, prioriza la formación y el desarrollo integral de los bolivianos y bolivianas, mediante la actividad física como un proceso que garantice la incorporación de estilos de vida activa y saludable y el desarrollo de una cultura de ganadores.
+  
+Dentro de este programa, el proyecto Espacios Saludables, que plantea construir e implementar el concepto y la práctica de escuelas, normales, universidades, cuarteles saludables y productivas y otros. En todos se priorizará la atención de todos los sectores sociales y productivos a nivel nacional que garanticen los insumos, medios y servicios que contribuyan al Vivir Bien.
+  
+**v) Solidaridad**
+  
+Esta política desarrollará la estrategia de la “alianza nacional para la erradicación de la desnutrición y violencia; la habilitación, rehabilitación, prevención y equiparación de oportunidades de personas discapacitadas y la inclusión social de grupos desprotegidos que viven en la extrema pobreza”.
+  
+Se pretende mejorar la alimentación y nutrición de niños menores de cinco años y mujeres en edad fértil; cambiar los hábitos alimentarios.
+  
+Esto implica un plan de acciones inmediatas intersectoriales bajo la coordinación del Sector Protección Social y con recursos de los sectores incorporados en su programación operativa como acciones intersectoriales.
+  
+La estrategia es la Alianza Nacional para la erradicación de la desnutrición y la violencia; la habilitación, rehabilitación, prevención y equiparación de oportunidades de personas discapacitadas y la inclusión de grupos más desprotegidos que viven en extrema pobreza, orientada a eliminar la exclusión social en salud.
+  
+Para lograr esta estrategia, se implementará el programa “Solidaridad”, que focalizará las intervenciones en forma inmediata, en tanto se vayan modificando las estructuras sociales y del Estado para el Vivir Bien. Asimismo, se plantea luchar contra la violencia, fundamentalmente, en niñas menores de cinco años; el derecho a la integración de las personas con discapacidad.
+
+### 2.5.2 Educación
+
+La política de Reforma Educativa aplicada en el país no ha logrado superar el modelo colonial que conlleva procesos de exclusión, discriminación, marginación y explotación. Asimismo, el Sistema Educativo Nacional asumió la visión hegemónica y el modo de vida de las élites y no tomó en cuenta identidades, formas de pensar, de organizar el mundo, cosmovisiones y proyecciones históricas de los pueblos originarios e indígenas.
+  
+En este marco, la educación se ha constituido en un instrumento de reproducción de las jerarquías coloniales y de imposición arbitraria; no incluyó a la población, ni a los maestros en la definición de la política educativa y coartó la iniciativa, creatividad y capacidad de producción intelectual de la población. En este contexto, los problemas a enfrentar son: la falta de igualdad de oportunidades, relacionadas al acceso, permanencia y calidad en el sistema educativo nacional, la desvinculación entre la educación y el sector productivo, la cual no guarda relación con el ámbito científico, tecnológico, cultural y político.
+  
+**Propuesta de cambio**
+  
+El proceso de cambio que impulsa el sector es el de transformar la concepción y operacionalización de la educación en los niveles inicial, primario, secundario, técnico y universitario, en sus modalidades formal y alternativo; de tal manera que éste se articule a la nueva matriz productiva, al desarrollo socio comunitario, al proceso de acumulación y desarrollo de la ciencia y tecnología, a los procesos de construcción de la nueva estatalidad, de reconstitución de las unidades socioculturales y de reterritorialización, de modo que responda a la diversidad en sus dimensiones económica, cultural, espiritual, social y política, para que en sus procesos de formulación e implementación, desarrolle la participación real y estratégica de las organizaciones sectoriales, sociales, territoriales y comunitarias.
+  
+Con ello, cada boliviano y boliviana tendrá derecho a desarrollarse con su propia cultura rescatando sus saberes y tradiciones, de manera que su identidad se fortalezca y así pueda aportar desde su visión a la construcción de un nuevo país.
+  
+**Políticas y estrategias**
+  
+**i) Transformación del sistema educativo**
+  
+Esta política consiste en una transformación integral que abarque todos los niveles formativos; se llevará a cabo desde la sociedad en el marco de la democracia inclusiva y en la perspectiva de la articulación con la nueva matriz productiva; también desarrollará la interculturalidad socio comunitaria rescatando y promoviendo culturas ancestrales, para el proceso de reconstitución de las unidades socioculturales.
+  
+Bajo la estrategia refundar la educación se busca promover la participación de todos los actores sociales, en el marco de una democracia inclusiva, que posibilite identificar plenamente las necesidades de las regiones del país, para el diseño y gestión de políticas educativas que sustenten el Nuevo Pacto Social, para precisamente, refundar la educación boliviana.
+  
+Con los nuevos lineamientos de la política educativa, expresados en una nueva Ley, “Elizardo Pérez y Avelino Siñani”, se normará y reglamentará la estructura curricular, la gestión educativa y la participación social, de modo que la educación se vincule desde, para y con la producción, ajustándose a las características culturales.
+  
+**ii) Educación de calidad que priorice la igualdad de oportunidades**
+  
+Uno de los principales problemas de la educación en Bolivia es la falta de igualdad de oportunidades para el acceso, la permanencia y la calidad en el sistema educativo nacional. Los mayores índices de analfabetismo, deserción escolar y baja escolaridad se registran en el área rural, en las familias más pobres y sobretodo en las mujeres. Las tasas de abandono escolar, son de 7 por ciento rural y 5,5 por ciento urbano; siendo el principal factor para el abandono escolar la pobreza. Los niños y niñas de las familias pobres se insertan tempranamente al mundo laboral y abandonan el sistema educativo, en éste hecho nuevamente es el área rural el más afectado: 7 por ciento en relación al área urbana donde solo llega a un 5,5 por ciento.
+  
+Mediante esta política, se busca generar igualdad de oportunidades educativas para la población discriminada, excluida y explotada, democratizando el acceso y la permanencia de la educación, con programas, acciones y tareas que faciliten la inserción de los sectores sociales desfavorecidos, y garantizando su movilidad a otras modalidades del sistema formativo, facilitando así la continuidad de su formación.
+  
+Con la estrategia de promoción de la educación equitativa y de calidad se ampliará la cobertura de las áreas rurales y peri urbanas de manera prioritaria, para que se facilite el acceso y la permanencia de mujeres, jóvenes, adultos e indígenas, a través de la dotación de recursos pedagógicos, equipamiento, recursos humanos capacitados y sobre todo para desarrollar competencias productivas en coordinación con otros sectores.
+  
+Se cuenta con dos programas, el primero y prioritario es el de Alfabetización sostenida que beneficiará a 1,23 millones de jóvenes y adultos, hombres y mujeres de sectores rurales y zonas peri urbana, para que puedan integrarse en mejores condiciones al mundo contemporáneo.
+  
+El segundo, denominado Educación de calidad con equidad social, étnica, de género y generacional, tiene como orientación vincular el aprendizaje a las necesidades laborales, psicológicas, emocionales, procedimentales y de actitud para que esa población pueda integrarse a la sociedad en mejores condiciones. Para ello, el proceso de transformación de la educación superior promoverá la extensión de las universidades públicas al área rural, las cuales tendrán la misión de recuperar saberes y tecnologías de los pueblos originarios y el de promover el diálogo entre estos actores y otras culturas y la democracia participativa, comunitaria e inclusiva.
+  
+Además, el programa está dirigido a legitimar, a través de un proceso de certificación, las competencias, conocimientos, habilidades (artísticas y artesanales), adquiridas de manera empírica por jóvenes y adultos.
+  
+**iii) Educación que genera, adapta y aplica ciencia y tecnología**
+  
+Busca desarrollar procesos intersectoriales de transformación de la gestión educativa vinculada a las vocaciones y características productivas y culturales de las regiones y a sus demandas de formación técnica y tecnológica. Para ello se coordinarán acciones conjuntas con ministerios, prefecturas y municipios para vincular las vocaciones productivas y culturales de las regiones a la educación; además de desarrollar competencias conceptuales, procedimentales y de actitud, para generar investigaciones aplicadas que impulsen el desarrollo y mejoren la productividad.
+  
+Su primer programa, Educación para la producción con identidad cultural, tiene el propósito de promover la investigación para identificar las vocaciones productivas de los municipios en todos los niveles y modalidades del sistema educativo. Mientras que el programa de Institutos productivos y saludables esta orientado a la dotación de infraestructura, equipamiento y el mantenimiento de centros de formación técnica, tecnológica y universitaria.
+  
+Asimismo se contempla una estrategia para desarrollar procesos educativos y culturales, dirigidos a fortalecer pedagogías descolonizadoras que recuperen, revaloricen y promuevan saberes y tecnologías de las culturas ancestrales, mediante el rescate y revalorización de formas de pensamiento, filosofías, espiritualidades, valores, comportamientos y usos culturales.
+  
+Con el programa de Investigación educativa para la recuperación y revalorización cultural, se busca rescatar y valorizar las lenguas originarias, el equilibrio cultural y de integración, para ello, y entre otros, se alfabetizará en idioma originario a los hablantes de castellano de las diferentes regiones del país; y con el programa de Tecnologías de información y comunicación, a través de la instalación de Tele centros educativos comunitarios, que incluyen equipamiento, tecnología de punta, la implementación de un Portal Educativo, servicios de Internet, telefonía, radio, video-conferencia y televisión satelital, se modificarán radicalmente los sistemas de enseñanza-aprendizaje, especialmente en el área rural y la periferia de las ciudades; para ello, 115 tele centros ya estarán instalados y funcionando hasta diciembre de 2007 y 1.000 hasta el año 2010.
+
+### 2.5.3 Agua para la gente - saneamiento básico
+
+Desde 1997 se impulsó la privatización del servicio de agua potable en las ciudades de La Paz, El Alto, y Cochabamba. Con la Ley 2066 se implantó una política de concesiones para empresas privadas con beneficios tales como tarifas indexadas al dólar, monopolio por 40 años, prohibición de servicios alternativos y un marco regulatorio sin mecanismos claros de control y evaluación por parte de la sociedad y del Poder Ejecutivo.
+  
+El impacto de las medidas de privatización sobre el patrimonio social y público del país y sobre los derechos de gestión de las comunidades campesinas, indígenas y originarias, obligó a la población a defender sus derechos sobre las fuentes de agua que usaba tradicionalmente. Esta defensa se hizo realidad con movilizaciones, paros cívicos y otros enfrentamientos contra el gobierno de turno. El principal conflicto ocurrió en Cochabamba con la “guerra del agua”. Posteriormente, a fines del año 2004, una nueva crisis se produjo en las ciudades de El Alto y La Paz.
+  
+En Bolivia, igual que en otros países, se observa una creciente demanda por el uso del agua. Las demandas para consumo humano y saneamiento, uso agropecuario, industrial y otros, se incrementan cada vez más y, generalmente, no se respeta la prioridad del uso para consumo humano y riego, generando y profundizando conflictos relacionados al acceso, aprovechamiento y derechos sobre el recurso.
+  
+**Propuesta de cambio**
+  
+Se pretenden encarar importantes transformaciones en el sector, en la perspectiva de promover y coordinar la elaboración de un ordenamiento jurídico que brinde mayor seguridad jurídica a las comunidades indígenas y campesinas sobre fuentes de agua, y desarrolle cambios legales tendientes a priorizar la inversión en servicios de agua que beneficien a las poblaciones más vulnerables, entre ellas terminar con la privatización de los servicios del agua potable.
+  
+El sector pretende lograr un incremento sustancial del acceso a los servicios de agua potable, alcantarillado sanitario y saneamiento en general, en el marco de una gestión integral de los Recursos Hídricos con enfoque de cuenca, así como de una gestión participativa y responsable de instituciones prestadoras de servicios básicos garantizando la sostenibilidad y el carácter no lucrativo de los mismos, promoviendo la participación de los usuarios, la transparencia, la equidad y la justicia social, respetando usos y costumbres de comunidades campesinas e indígenas, garantizando jurídicamente el acceso a las fuentes de agua para la prestación de los servicios.
+  
+**Políticas y estrategias**
+  
+**i) Agua de dominio público**
+  
+El agua su asignación y control por el Estado, su protección frente a los monopolios, su uso efectivo, la prohibición de contaminarla y ponerla en riesgo, su aprovechamiento sustentable, su uso prioritario para el consumo humano y riego agropecuario, su reservación dentro de los flujos ambientales y finalmente, el respeto a la forma que tienen de usarla los pueblos y las comunidades indígenas y campesinas son de dominio público.
+  
+Con la estrategia Acceso pleno al agua y saneamiento como uso social, se pretende establecer las bases de planificación para el desarrollo de las inversiones, mediante fondos de inversión pública. Esto implica elaborar y aprobar el Plan Nacional de Saneamiento Básico y la Política Financiera Sectorial.
+  
+El programa de Inversiones a través de la Política Financiera Sectorial pretende incrementar la cobertura de los servicios de agua potable para 728.484 habitantes y los servicios de saneamiento básico para 620.777 habitantes.
+  
+El Programa Nacional de Agua Potable y Alcantarillado Sanitario para zonas peri urbanas, logrará la expansión de los servicios de agua potable y alcantarillado sanitario en las zonas peri urbanas y que tienen características propias como ser una alta tasa de crecimiento, una elevada densidad poblacional, bajos niveles en las coberturas de agua potable y alcantarillado y niveles de pobreza altos.
+  
+El Programa Nacional de Agua Potable y Saneamiento para localidades rurales logrará el desarrollo integral del sector, mediante la implementación de los proyectos de agua potable y saneamiento para localidades rurales. Tiene como metas beneficiar con servicios de Agua 210.650 habitantes y una población con servicios de saneamiento a 269.165 habitantes.
+  
+El Programa Nacional de Agua y Saneamiento para Pueblos y Territorios Indígenas y Originarios desarrollará inversiones en captación de aguas y prestación de servicios de agua potable y saneamiento básico. Sus metas son de 50 mil habitantes con servicios de agua y una población adicional con servicios de saneamiento
+  
+El Programa Multidonante de Agua Potable y Saneamiento (UNICEF) contribuirá a la reducción de la mortalidad infantil y al mejoramiento de la salud de niñas y niños, mediante el acceso a los servicios de agua y sanea-miento y cambios de hábitos de higiene en comunidades rurales dispersas y barrios periurbanos.
+  
+El Programa Nacional de Agua Potable y Saneamiento, para ciudades menores e intermedias logrará el desarrollo integral del sector, mediante la implementación de los proyectos de agua potable y saneamiento para ciudades menores e intermedias. Las metas de población incremental con servicios de Agua son de 145.240 habitantes y la población con saneamiento es de 280.668 habitantes.
+  
+El Programa Nacional de agua potable y saneamiento con inversión integral en enclaves geográficos socio productivos logrará el desarrollo integral del sector, mediante la implementación de los proyectos de agua potable y saneamiento ligados a la producción. Sus metas son una Población adicional con servicios de Agua de 125 mil habitantes y una población con saneamiento de 125 mil habitantes.
+  
+Con la estrategia Desarrollo e implementación de una gestión ambiental se elaborará el proyecto de ley de residuos sólidos y sus reglamentos y el plan de inversiones. Se Implementará y desarrollará infraestructura para el tratamiento de aguas residuales, coadyuvando a la implementación de una gestión ambiental. Se desarrollará e implementará una gestión ambiental para la protección, preservación y aprovechamiento sostenible de los recursos hídricos.
+  
+El Programa Nacional de Mejoramiento y Ampliación de los servicios de recolección y rellenos sanitarios reducirá el 6 de la cantidad de residuos sólidos que van a relleno sanitario.
+  
+El Programa Nacional de Plantas de Tratamiento de Aguas Residuales mejorará los servicios de tratamiento de aguas residuales y su meta es una población incremental con tratamiento de aguas residuales de 1.314.778 habitantes.
+  
+Con la estrategia Garantizar la seguridad jurídica en el sector se debe implementar los siguientes programas: Ajuste de la Normativa del Sector Agua Potable y Saneamiento, Asistencia Técnica y Fortalecimiento a la Entidad Nacional de Regulación de Saneamiento Básico y la Fundación de Saneamiento Básico (FUNDASAB) e Instituciones del Sector, asimismo comprende el fortalecimiento institucional y asistencia técnica a las Entidades Prestadoras de Servicios de Agua Potable y Saneamiento (EPSA)
+  
+El Programa de fortalecimiento de la información del sector contará con información precisa, sistematizada, y de fácil acceso para la elaboración de políticas concertadas, planificación estratégica y toma de decisiones que respondan a las necesidades de los diferentes actores del sector. Se contará con un Sistema de Información de Agua Potable y Saneamiento integrado con el Sistema de Información del Agua en Bolivia (SIAB).
+
+### Sección 2.6 Sectores generadores de condiciones sociales
+
+### 2.6.1 Justicia
+
+La justicia en Bolivia de hoy, es el resultado de un largo proceso colonial que se reproduce y renueva constantemente. La fundación de la república y su proceso codificador (Códigos Santa Cruz), las reformas dictatoriales de los años 70 (Códigos Bánzer), las reformas neoliberales de los años noventa, no han hecho más que reforzar la continuidad colonial al eje jurídico de un Estado de Derecho: la administración de Justicia.
+  
+Junto a ella, los sistemas de Justicia indígena originaria –patrimonio de los primeros habitantes de estas tierras– nos muestran la posibilidad histórica para descolonizar el derecho y nacionalizar la justicia, en base a principios y valores que norman y regulan la convivencia armónica de los pueblos indígenas originarios, comunidades campesinas y afro descendientes; pues el sistema de justicia es hasta ahora un instrumento que legaliza y legitima el Estado colonial, neoliberal y patriarcal. Es excluyente, se encuentra sentada en la desigualdad e inequidad, es monopolizada por una élite y sus prácticas judiciales perversas y corruptas desechan toda posibilidad real de acceso a la justicia y el ejercicio pleno de los derechos de las mayorías poblacionales, principalmente de las mujeres, personas con capacidades diferentes, pueblos indígenas y originarios.
+  
+Por efecto de la impunidad, el ciudadano se convierte en un evasor de sus propios deberes porque considera que al no sancionarse la corrupción ésta puede ser considerada como una actividad normal, rompiendo con ello valores y principios de la responsabilidad y convivencia. Además, la corrupción conlleva un alto costo social y económico para el país (300 millones de dólares anuales, estimativamente).
+  
+Por otro lado, el sistema de justicia no considera a las mujeres, grupos generacionales y personas con capacidades diferentes como sujetos de derecho y desarrollo, más al contrario fueron permanentemente discriminados y desvalorizados.
+  
+En aquel marco, las políticas del estado colonial, neoliberal, patriarcal y androcéntrica vulneran los derechos de las personas, lo que se manifiesta en el maltrato y/o abandono infantil, trabajo infantil, trata y tráfico de personas, explotación sexual comercial infantil, y adolescente, precarización de las condiciones laborales, feminicidio y violencia en todas sus manifestaciones en contra de las mujeres. En síntesis, el Estado se deslindó de las responsabilidades en la protección de los sectores poblacionales más vulnerables.
+  
+**Propuesta de cambio**
+  
+La propuesta del cambio en el sector está orientada a construir un sistema de justicia plural, participativa, transparente, esencialmente restaurativa, con equidad e igualdad; instaurando una cultura de inclusión, igualdad, equidad y respeto a la diferencia, que considere las necesidades y demandas específicas de las poblacionales vulnerables, que revalorice las identidades culturales en el marco de una cosmovisión sin asimetrías de poder entre hombres y mujeres.
+  
+Se trata de descolonizar el sistema de justicia construyendo, de manera participativa y comunitaria, un sistema de justicia plural e integral. Desarrollando un nuevo saber jurídico que elimine el monopolio en la producción del derecho, desmonte de las prácticas burocráticas. Se promoverá la participación, el control social y la inclusión de los sectores poblacionales, históricamente marginados, en el acceso a la justicia y el ejercicio de los derechos fundamentales.
+  
+Se busca redimensionar el sistema de administración de justicia comunitaria como base para el cambio del método de administración de justicia formal y su esencia colonial así como patriarcal.
+  
+Se busca la institucionalización, reconocimiento y ejercicio pleno del sistema de justicia indígena originaria en el marco del sistema de justicia plural e integral
+  
+Se busca establecer y ampliar el marco normativo de transparencia que permita la prevención, control social y sanción de la corrupción en el ámbito público y privado, con normas específicas que mejoren las normas vigentes en el país, regulando la conducta y los actos de los servidores públicos.
+  
+La propuesta está orientada a transformar el Estado colonial, neoliberal y patriarcal en un Estado comunitario, donde las mujeres, grupos generacionales y las personas con capacidades diferentes ejerzan plenamente sus derechos en todas las dimensiones y ámbitos que hacen al desarrollo de sus existencias, desterrando toda forma de discriminación, marginación, exclusión y violencia. Un Estado donde se elimine la violencia en contra de estos sectores, los considere sujetos activos dentro de la matriz económica productiva y beneficiarios prioritarios de las políticas sociales, restableciendo rupturas que no permitieron la armonía y el equilibrio cosmocéntrico.
+  
+Diseñar y aplicar políticas de pleno ejercicio de los derechos humanos y políticas de reparación de la violación de los derechos humanos priorizando los derechos económicos, sociales, políticos y culturales.
+  
+**Políticas y estrategias**
+  
+**i) Nacionalizar la justicia descolonizando el derecho**
+  
+Consiste en la afirmación y puesta en práctica efectiva de los derechos sociales, que constituye la preocupación central del Ministerio de Justicia. El proceso de “nacionalización de la Justicia y la descolonización del Derecho” será el soporte epistemológico y base para la transformación del Poder Judicial, ya que una verdadera revolución judicial generará credibilidad a la zona sensible de todo Estado de Derecho.
+  
+Estrategia: “Transformar el sistema judicial tomando en cuenta la realidad económica, social, política y cultural del país en base a principios y valores de igualdad, equidad, tolerancia, respeto a la diferencia, participación social y no discriminación”.
+  
+**ii) Institucionalizar la plena vigencia de la justicia comunitaria**
+  
+La plena vigencia e institucionalización de las prácticas, valores y principios de la Justicia Comunitaria; se entiende como la promoción del respeto, ejercicio y reconocimiento de los sistema de Derecho Indígena existente en Bolivia, de tal forma que las decisiones emanadas de los Pueblos Indígenas Originarios y Comunidades sean valoradas y asumidas, principalmente por el Poder Judicial, con ese horizonte de construir una sociedad Plurinacional Comunitaria, buscando ante todo la reafirmación de la identidad cultural de los Pueblos Indígenas.
+  
+Estrategia: “Compatibilizar los sistemas de Justicia Originaria y Formal”. Que, promoverá la compatibilidad, complementariedad y coordinación entre el ejercicio de la Justicia Ordinaria y la Justicia Comunitaria, enmarcado en una nueva política de Estado, implementada a través de un sistema de Derecho Indígena, Originaria y Campesina, reconocido y avalado dentro de un nuevo sistema jurídico plurinacional y comunitario.
+  
+**iii) Erradicar la corrupción institucionalizada, implementando medidas administrativas, judiciales y legislativas**
+  
+Enmarcada en Cero Tolerancia a la Corrupción e Impunidad, con plena transparencia en el manejo de recursos y vigencia de mecanismos de control social pertinentes.
+  
+Estrategia: “*Implementar mecanismos de participación y control social*, para transparentar la gestión pública y de los servidores públicos”, constituyéndose en instrumentos por los cuales el pueblo organizado participa y controla las acciones de la administración estatal, sustentado en alianzas estratégicas con movimientos indígenas y sociales. Enmarcado en cero tolerancia a la corrupción e impunidad, plena transparencia en el manejo de recursos y vigencia de mecanismos de control social pertinentes.
+  
+**iv) Reducir las brechas sociales-económicas, políticas y culturales por razón de género, generacional y personas con discapacidad.**
+  
+Consiste en la restitución de los derechos de la población más vulnerable, en la perspectiva de establecer una cultura de igualdad y equidad respetando las diferencias que destierre toda forma de discriminación, marginación, exclusión y violencia que afecta a las mujeres, jóvenes, adolescentes, adultos mayores, niñas, niños y personas con capacidades diferentes. Se promoverá la creación de nuevas fuentes de trabajo o de actividades que generen ingresos económicos, éstas deberán estar ceñidas a los aspectos más sobresalientes que caracterizan a los sectores poblacionales marginados. Como también, se buscará eliminar las peores formas de explotación laboral de niñas y niños, y de manera gradual eliminar definitivamente el trabajo infantil.
+  
+Estrategia: Promover la ampliación de la inserción laboral y fortalecer la participación activa de mujeres, grupos generacionales y personas con discapacidad.
+  
+**v) Promover el pleno ejercicio de los derechos fundamentales de la persona, desde una visión multicultural.**
+  
+Los Derechos Fundamentales, forman parte de las transformaciones profundas en estos últimos años, en este contexto los Derechos Económicos, Sociales, Políticos y Culturales, adquieren una importancia de primer grado en las políticas públicas; reconceptualizando lo jurídico a partir de los derechos colectivos, acorde a la realidad actual del país. El ejerció pleno de los derechos humanos implica políticas de respeto a los derechos humanos y políticas de reparación a la violación de derechos humanos.
+  
+Estrategia: Construir una visión multicultural de los Derechos Humanos y fundamentales de la persona, que priorice los derechos sociales, políticos, económicos y culturales, que adquieren una importancia de primer grado en las políticas públicas; reconceptualizando lo jurídico a partir de los derechos individuales y colectivos, acorde a la realidad actual del país, contraponiendo un sistema judicial que reconozca la justicia como un modo de convivencia inclusiva y solidaria, que promueva el bien común, el mayor beneficio público y su gran relevancia para la realización efectiva de los derechos, exigibles por sus titulares.
+
+### 2.6.2 Seguridad pública
+
+Durante los últimos veinte años, producto de las reformas neoliberales aplicada a las entidades de Seguridad Pública, acontece una situación de colapso en las instituciones de seguridad. Las debilidades institucionales en su estructura ofrecieron condiciones propicias para la expansión del crimen, los ciudadanos están enfrentados a un desproporcionado incremento de la violencia criminal y el delito común. El miedo inunda los hogares bolivianos y los espacios públicos destinados a la convivencia social se contraen cotidianamente, profundizando el distanciamiento de las instituciones públicas de seguridad y la población. A lo que se suma la carencia de servicios como el alumbrado público que permite un aumento de la delincuencia.
+  
+Los organismos de seguridad no tuvieron como prioridad la prevención del delito, ni el control de la criminalidad organizada; la Policía y la administración de justicia tuvieron como objetivo atacar los eslabones débiles de la cadena social; entretanto los delitos de cuello blanco cuyo impacto económico es demoledor para los intereses de la sociedad, no fueron objeto de investigación o se pasearon más bien bajo el encubrimiento e impunidad.
+  
+Los planes de seguridad ciudadana no resolvieron el crecimiento de la violencia intrafamiliar por la falta de coordinación interinstitucional y la intromisión de gobiernos extranjeros en la legislación antidroga nacional, solo lesionaron la soberanía y el derecho internacional.
+  
+Sin embargo, frente a esta situación, la sociedad tuvo la capacidad de enfrentar todas estas injusticias y vicisitudes, donde los movimientos sociales organizados han generado espacios de participación, mediación y acercamiento con el Estado, llevando adelante las reformas estructurales y la predisposición favorable ante la cooperación internacional.
+  
+**Propuesta de cambio**
+  
+El nuevo enfoque de seguridad pública basará su tarea en la inclusión, participación y prevención social, antes que el orden público y atenderá las necesidades de la población en el respeto y ejercicio pleno de los derechos humanos y la seguridad humana para mejorar la calidad de vida de la población. Los cambios en el sector se conseguirán en la perspectiva de un nuevo modelo de Seguridad Pública, que base su acción en el enfoque con justicia social y rechace la seguridad bajo el concepto vinculado al orden público y la represión. El objetivo del sector es proporcionar seguridad pública a los habitantes del país con un enfoque preventivo, la participación activa de la población organizada y el cambio de patrones culturales bajo un nuevo concepto de fuerza pública y Estado de derecho.
+  
+La propuesta de seguridad basa su acción en la construcción de una sociedad igualitaria y democrática que se diferencia de aquella que trata de contener represivamente a la sociedad al amparo de supuestos delitos atribuidos a los pobres. La única forma de garantizar la paz y una democracia participativa e incluyente, es construyendo una sociedad que acceda a la justicia y practique sus derechos constitucionales.
+  
+**Políticas y estrategias**
+  
+**i) Seguridad ciudadana y educación preventiva**
+  
+Esta política busca garantizar la seguridad de las personas, reducir los niveles de violencia delictiva y proteger fundamentalmente los derechos humanos, como una de las principales responsabilidades del Estado.
+  
+La aplicación de esta política no podrá ser efectiva sin la participación activa de las Organizaciones Sociales a través de la Red Social e Institucional de Seguridad Ciudadana, la que será ejecutada a través de los Consejos de Seguridad Ciudadana que serán implementadas y desarrolladas en los Municipios, Comunidades, Juntas Vecinales, Juntas Escolares, Ayllus, Tentas y Capitanías, bajo una nueva normativa que fortalezca la legitimidad de la Justicia y materialice los Derechos Humanos.
+  
+Esta política es planteada en el ámbito de las demandas, fundamentalmente dirigidas al cumplimiento de las leyes a favor de los niños, adolescentes, jóvenes, personas de la tercera edad, personas con discapacidad. Así también, se pretende abordar los temas más sensibles de atención de la población juvenil, en posibilidades de disgregación familiar, el consumo de drogas, el consumo de alcohol, el desempleo y otros.
+  
+Con la estrategia y consolidación democrática de un nuevo método de seguridad ciudadana con equidad e inclusión social de las diferentes organizaciones sociales, se espera tener la nueva normativa consensuada en función a las demandas y necesidades de seguridad ciudadana.
+  
+**ii) Seguridad pública y la acción de los Derechos Humanos con participación de la sociedad civil organizada**
+  
+La relación compleja entre seguridad y derechos humanos, ante la inseguridad en la que vivimos no permitió discernir claramente entre Estado de Derecho, derechos fundamentales y Derechos Humanos, pese a los logros democráticos en el país ésta no ha logrado liberarse de las concepciones colonialistas de seguridad, porque aún continúa el uso de la violencia institucional frente a la protesta social.
+  
+Esta política plantea que la sociedad civil organizada, juntamente con las instituciones de seguridad pública, interactúen en su accionar, garantizando el ejercicio pleno de los derechos humanos, permitiendo la reducción de la inseguridad en todas sus formas y favoreciendo el accionar libre de la población.
+  
+La estrategia de acción conjunta entre la sociedad civil y las instituciones de seguridad pública es la que velará por el ejercicio de los Derechos Humanos, como necesidad de reconocer los valores de la multiculturalidad de los pueblos indígenas, originarios y organizaciones sociales al respecto de las transgresiones, la violencia o el delito, los organismos de seguridad o jueces fiscales deben considerar el delito desde una perspectiva multicultural y no desde la visión colonialista de la justicia.
+  
+Los programas para llevar a cabo esta estrategia son la acción conjunta de la sociedad civil con instituciones de seguridad ciudadana y el establecimiento de líneas de acción conjunta de organizaciones sociales e Instituciones en Régimen Interior para la Seguridad Pública.
+  
+**iii) Defensa Social para garantizar la protección contra las drogas**
+  
+La Defensa Social y el conjunto de políticas de Estado se orientarán a garantizar la protección de la sociedad civil frente a los efectos derivados de la problemática de las drogas que repercuten en los ámbitos social, cultural y económico. Para llevar adelante esta política se estableció la estrategia de construcción de una nueva cultura democrática en torno a la defensa social.
+  
+El objetivo de esta estrategia es generar en la población una actitud de respeto a las normas democráticas y principios de defensa social, con la participación democrática de la sociedad en la toma de decisiones, monitoreo y evaluación permanente.
+  
+La aplicación de esta política permitirá reducir los niveles promedio anual del consumo de inhalantes, alcohol y tabaco en jóvenes de 12 a 24 años de edad, a través de programas de prevención.
+
+### 2.6.3 Defensa Nacional
+
+Después de casi 180 años de vida republicana, época signada por la prominencia de diferentes grupos dominantes, dirigida por caudillos militares y civiles de la rosca minero feudal y por los grandes terratenientes que respondían a corrientes político ideológicos foráneos, el Estado no ha podido desarrollar un Sistema de Seguridad Civil y de Defensa Nacional, capaz de garantizar la soberanía, proteger el territorio y su población, ni defender los recursos naturales de carácter estratégico, indispensables para el desarrollo socioeconómico del país.
+  
+Los gobiernos que apostaron por el modelo neoliberal tampoco atendieron las necesidades administrativas y operativas del sector de Defensa Nacional, haciendo que este, en la actualidad, se encuentre reducido a límites extremos.
+  
+Entre los principales problemas identificados en el sector se encuentran la falta de definición de políticas de seguridad y defensa nacional, así como la escasa atención a las necesidades administrativas y operativas de parte de los anteriores gobiernos, lo que ha causado que los equipos y medios tácticos se encuentren hoy reducidos a su mínima capacidad de operación y la infraestructura cuartelaria se halle en estado de deterioro.
+  
+El Sistema de Defensa Civil no está articulado ni estructurado a nivel municipal, departamental ni nacional. La dispersión de esfuerzos y recursos limita la capacidad de respuesta ante situaciones adversas y de riesgos.
+  
+El sector tiene potencialidades que pueden ser aprovechadas en beneficio del Vivir Bien, entre las que destaca la voluntad política del actual gobierno para restablecer y fortalecer las capacidades institucionales, así como modernizar las Fuerzas Armadas (FFAA) a través del desarrollo de una política de defensa nacional y haciendo de ésta una política de Estado.
+  
+Se cuenta con unidades operativas y presencia militar en todo el territorio nacional para proteger a la población y los intereses nacionales. A esto se suman instituciones y empresas especializadas como el Instituto Geográfico Militar, el Comando de Ingeniería, Transportes Aéreos Militares, la Empresa Naviera Boliviana y otras que realizan un efectivo apoyo en programas y proyectos de inversión social.
+  
+Se brindará mayor capacitación técnica especializada a los conscriptos para que puedan una vez culminados su servicio militar, replicar sus conocimientos, bajo los principios de equidad, reciprocidad y dignidad.
+  
+En la actualidad, el sector de defensa busca su renovación ideológica, espiritual y material para garantizar la seguridad, defensa y soberanía del territorio nacional, así como los altos intereses de la nación y la población. Busca también organizar y reestructurar la defensa civil y apoyar efectivamente al desarrollo, brindando protección y posibilidades de Vivir Bien a las poblaciones más empobrecidas y vulnerables del área rural y de las fronteras. Propuesta del cambio
+  
+El objetivo del sector es lograr una Bolivia soberana y segura: que defienda el territorio y a su población, que cuente con un sistema de defensa civil fuerte y que participe activamente en el desarrollo integral bajo los principios de equidad, reciprocidad y equidad de género.
+  
+Para conseguir esto el sector restablecerá y fortalecerá de manera sólida sus capacidades institucionales, consolidando un liderazgo institucional soberano, competente y honesto al servicio de los altos intereses de la patria, de la seguridad de sus recursos estratégicos y de su población; con capacidad operativa de disuadir con mayor credibilidad a cualquier amenaza externa; y con infraestructura cuartelaria, equipo y sistemas de comunicación que permitan la modernización del sector defensa en forma sostenida.
+  
+Asimismo, se desarrollarán 25 polos de desarrollo en el área de influencia de los puestos militares y capitanías de puertos ubicados en las fronteras, con infraestructura básica, social y productiva instalada, lo que permitirá fortalecer la presencia del sector en los más de 7.000 kilómetros de frontera que tiene el país, con capacidad de proteger todos los recursos naturales estratégicos existentes y asegurando su control con soberanía.
+  
+En relación a la Defensa Civil, se desarrollará el Sistema de Prevención de Riesgos; mediante un sistema de alerta temprana en los diferentes centros de operación departamental y en coordinación con los municipios, prefecturas y comunidades se organizarán redes comunitarias para la reducción de riesgos, disminuyendo, considerablemente, el efecto de los desastres naturales en las zonas de alto riesgo.
+  
+También se promoverá, desarrollará y consolidará una política de modernización del sistema de defensa nacional de forma permanente e integral a la política de Estado, conformando la «comunidad de defensa» entre civiles y militares.
+  
+La soberanía nacional se hará efectiva mediante el fortalecimiento de los puestos militares fronterizos y la consolidación de asentamientos humanos dotados de sistemas de infraestructura básica social y productiva, generando de esta manera, polos de desarrollo a través de un trabajo conjunto entre la población civil y militar.
+  
+Una nueva identidad de unidad nacional será establecida bajo principios de interés social y comunitario, el desarrollo de un nuevo marco normativo (leyes, reglamentos y procedimientos) y la capacitación en el sistema educativo nacional y del sector defensa, mediante la inclusión de materias de educación cívica, ética y moral, historia y cultura, en todos sus niveles de educación y formación militar.
+  
+**Políticas y estrategias**
+  
+**i) Seguridad y Defensa Nacional**
+  
+Esta política estará orientada a desarrollar un liderazgo institucional, imbuido de un alto sentido de patriotismo, capaz, competente y honesto, al servicio de los altos intereses de la patria, la seguridad y defensa de sus recursos estratégicos y la población, que se hará efectiva mediante el fortalecimiento y modernización de las Fuerzas Armadas de manera continua y en permanente interacción con la población.
+  
+Para el logro de esta política se ha establecido la Estrategia Bolivia Segura y Soberana, donde se desarrollará una política de defensa en función a la protección, resguardo y desarrollo de los intereses nacionales y su población, con unas Fuerzas Armadas modernas.
+  
+Esta estrategia contará con los siguientes programas:
+  
+Programa de Desarrollo de la nueva identidad nacional, estableciendo el nuevo marco normativo a través de la aprobación del cuerpo legal del sector Defensa y el rediseño del Sistema de Fuerzas (Ejército, Fuerza Naval, Fuerza Aérea) para fortalecer las capacidades institucionales y consolidar una política de defensa nacional como política de Estado, garantizando la soberanía y continuidad del Estado.
+  
+El segundo programa contempla el equipamiento y modernización de las Fuerzas Armadas con equipos de campaña, armamento y municiones; vehículos tácticos terrestres, aéreos y náuticos de instrucción, reconocimiento y combate; mejoramiento de la infraestructura cuartelaria y viviendas funcionales; batallones de ingeniería y centros de mantenimiento para la construcción de caminos y obras productivas a nivel nacional, departamental y municipal; además de sistemas de comunicación integrados con todas las unidades militares y poblaciones rurales y fronterizas a nivel nacional con el fin de recuperar la capacidad operativa, infraestructura cuartelaria, equipo y sistemas de comunicación para conformar una institución con capacidad de defensa efectiva.
+  
+El control y vigilancia terrestre, acuática y aérea de todo el territorio nacional, es un programa que permitirá la protección y vigilancia de los recursos estratégicos (hidrocarburos, minerales, recursos hídricos y otros) en beneficio del desarrollo nacional, en forma conjunta con las organizaciones e instituciones del Estado, la población y organizaciones comunitarias.
+  
+El programa de modernización, democratización y universalización del servicio militar obligatorio permitirá incorporar al servicio militar y de defensa que requiere el Estado, al 100 de jóvenes, hombres y mujeres, en edad de cumplir con esta obligación, a través de un sistema de administración informático que focalice y ubique al futuro conscripto y a las unidades militares donde prestarán sus servicios.
+  
+A través del programa de participación en el mercado naviero-portuario en el ámbito fluvial (hidrovía Paraguay-Paraná) y marítimo se tomará parte activa en el transporte por agua de la Carga Estratégica Nacional y se construirá un puerto en Puerto Quijarro y otro alternativo en Puerto Busch, en coordinación con instituciones públicas y privadas, con el objetivo de contar con un punto de carga estratégica y salida alterna y soberana de exportación hacia el Océano Atlántico.
+  
+**ii) Sistema de Defensa Civil**
+  
+La Estrategia Bolivia Segura y Soberana estará orientada a desarrollar un Sistema Nacional de Defensa Civil articulado institucionalmente con las prefecturas, municipios, comunidades y organismos nacionales e internacionales. Implementará unidades de reacción inmediata, entrenada y especializada con capacidad efectiva de reacción y atención inmediata ante los desastres naturales y antrópicos (producidos por los seres humanos).
+  
+Esta política tiene como estrategia reestructurar el sistema nacional de defensa civil, definiendo funciones y atribuciones entre las instituciones involucradas. Definirá niveles de coordinación para la atención de los asuntos administrativos y operativos relacionados con la gestión de riesgos, y establecerá planes, programas y proyectos integrales, para contar con un sistema de Defensa Civil fuerte.
+  
+Se incorporará en el diseño curricular del sistema educativo la temática de prevención y atención de desastres, con miras a fortalecer una cultura de prevención colectiva, en coordinación con el Ministerio de Educación para involucrar a toda la población en el sistema de Defensa Civil.
+  
+**iii) Apoyo al Desarrollo Nacional**
+  
+Orientada hacia la participación de las FFAA en el desarrollo nacional, integrando esfuerzos de la población civil, militar, ministerios y prefecturas, municipios y comunidades en la lucha contra la pobreza; promoviendo la inclusión, equidad y desarrollo, y generando polos de desarrollo en las áreas de frontera para fortalecer la soberanía nacional.
+  
+La estrategia consiste en apoyar la inclusión socioeconómica, mediante la capacitación y participación, del efectivo militar en diferentes campañas de salud y educación para que posteriormente éste transmita en su lugar de origen todos estos conocimientos a través de una participación activa y efectiva del sector Defensa en el desarrollo nacional.
+  
+El programa de Apoyo al Desarrollo de Fronteras, donde las FF.AA. colaborarán al desarrollo de las fronteras con la implementación de 25 polos de desarrollo en los puestos militares fronterizos más desprotegidos, estratégicos y vulnerables (Laguna Colorada, Charaña, Silala, Bolpebra, Río Machupo, Fortaleza del Abuná y otros), con el objetivo de precautelar la soberanía nacional. Para ello, se facilitará el asentamiento de familias alrededor de estos puestos, a las que se les dotará de infraestructura social y productiva con la participación activa de pobladores, Ejército e instituciones públicas y privadas.
+  
+Con el programa de Capacitación Integral a Jóvenes se otorgará instrucción integral a jóvenes bolivianos en el Servicio Militar Obligatorio en las diferentes especialidades acorde a las necesidades de la población boliviana.
+  
+Bajo el programa de apoyo al desarrollo nacional se apoyará la protección del medio ambiente y del patrimonio cultural de áreas protegidas, mediante la instalación de puestos militares para incrementar la seguridad y resguardo de las mismas, fortaleciendo la soberanía de los territorios indígenas y evitando el avasallamiento y explotación ilegal de recursos naturales, de biodiversidad y del medio ambiente.
+  
+Finalmente, se concluirá y actualizará la cartografía básica nacional y se levantará la cartografía náutica en los ríos Beni, Madre de Dios, Mamoré e Ichilo, necesaria para la planificación del desarrollo de los municipios.
+
+### 2.6.4 Culturas
+
+La Revolución Democrática y Cultural iniciada en Bolivia desde enero de 2005 implica también una profunda trasformación de las relaciones sociales y culturales de los ciudadanos y ciudadanas.
+  
+Hasta ahora estas relaciones si bien se han mantenido en los márgenes del sincretismo con culturas occidentales y coloniales con expresiones respetuosas de la diversidad cultural de
+  
+Bolivia, es necesario reconocer que también existen sectores de la población que manifiestan su participación en la comunidad a partir de expresiones de división, exclusión, racismo, discriminación e individualismo.
+  
+Está claro que este tipo de relaciones sociales y culturales no puede seguir formando parte de una sociedad transformada en sus relaciones políticas, económicas y sociales, como elementos centrales de una revolución Democrática y Cultural instaurada a partir de una decisión soberana asumida por la mayoría de la población boliviana en las elecciones nacionales de diciembre de 2004.
+  
+El principal antecedente de esta definición política se encuentra en el valor cuantitativo de la composición étnica y social del país, en el que 63 por ciento de la población se reclama indígena. A este factor debemos sumar la definición política y ciudadana, suficientemente elocuente como para promover una transformación de las políticas culturales en Bolivia, que tienen que contrastarse con el patrimonio cultural de la nación para constatar la demanda implícita de una propuesta de cambio en las políticas públicas destinadas al sector cultural del país.
+  
+El territorio boliviano está habitado según el Censo Nacional de Población y Vivienda de 2001 por 8.274,325 ciudadanos y ciudadanas, de esa población, la indígena está constituida por 4.915.245 habitantes mayores de 15 años (CNPV 2001) lo que da cuenta que el 60 por ciento de la población total de Bolivia está constituido por indígenas y originarios de los cuales los pueblos más numerosos son el Quechua con 1.510.560 (18,25 por ciento), el Aymara 1.243.728 (15,03 por ciento), el Chiquitano 108.206 (1,30 por ciento), el Guaraní 77.121 (0,93 por ciento) y el Moxeño 44.247 (0,53 por ciento).
+  
+Aun a pesar de su peso específico el 86 por ciento de la población indígena es pobre, el 10 por ciento más rico de los bolivianos consume 22 veces más que el 10 por ciento más pobre y cerca de dos tercios de la población indígena se encuentra entre el 50 por ciento más pobre de la población.
+  
+Paradójicamente estos datos contradicen el aporte de los indígenas a la actividad productiva del país. La tasa de participación laboral esta compuesta por 81por ciento de población indígena y 64 por ciento de población no indígena. Los indígenas son 3 por ciento menos propensos a estar desempleados (4 por ciento comparado con 7 por ciento) que los no indígenas pero un tercio de los indígenas empleados no reciben remuneración por su trabajo, comparado con un 13 por ciento de los no indígenas. Es importante subrayar que la mayoría del trabajo sin pago es realizado por mujeres.
+  
+Por otra parte, Bolivia ostenta en su Patrimonio Cultural (no suficientemente documentado y sistematizado legal y científicamente), 35.000 sitios arqueológicos registrados de los cuales 7.000 fueron intervenidos por las instancias estatales. 500 sitios arqueológicos son considerados de interés turístico. Asimismo existen 6 Patrimonios Mundiales, 2 Obras
+  
+Maestras de la Humanidad y 1 Memoria del Mundo.
+  
+La Institución Pública para la administración de las culturas en el Estado boliviano también es producto de una crisis permanente y sostenida en el tiempo al no haber tenido una posición fija en la estructura, su lugar estuvo determinado por decisiones gubernamentales fluctuantes.
+  
+Las culturas y el patrimonio boliviano han sido considerados como poco estratégicos para la gestión pública y en consecuencia los niveles de inversión desde el Estado y la
+  
+Cooperación Internacional en esta área no son significativos, pero aun peor es constatar que no responden a una propuesta de política pública que fortalezca un proceso de desarrollo cultural.
+  
+**Propuesta de cambio**
+  
+En la constatación cualitativa, fáctica y cuantitativa de las relaciones socioculturales y patrimoniales de Bolivia, está implícita la propuesta del sector Culturas del Plan Nacional de Desarrollo que debe constituirse en una auténtica Revolución Cultural para Bolivia.
+  
+Este sector debería concebirse como factor estratégico para la gestión política, económica y social del país, en la medida en que su incidencia en el pensamiento, comportamiento y actitud de la sociedad, puede transformar la misma en un sentido revolucionario para la sociedad boliviana.
+  
+La administración eficiente, eficaz, participativa, democrática y transparente de las culturas en Bolivia, fundamentan el destino de la gestión pública en el sector cultural del gobierno que encabeza el Presidente Evo Morales Ayma.
+  
+El resultado revolucionario debe constituirse en una valoración social y económica más equilibrada en relación a la diversidad étnica y cultural del país.
+  
+Su participación en la economía, su notoriedad social en sentido interno y su expresión hacía el mundo, además de su legitimación a partir de la institucionalización del proceso participativo de evaluación y planificación, deben ser los principales objetivos de la gestión gubernamental.
+  
+Ante la hegemonía excluyente de la evaluación y planificación del desarrollo cultural en el país, se hace imperioso un permanente diálogo con la sociedad para evaluar y planificar participativa y democráticamente la agenda estatal de la gestión cultural.
+  
+Este proceso tendría que ser complementado con la Institucionalización de la administración cultural del Estado, a partir de la creación del Ministerio y los Consejos Departamentales y Nacional de Desarrollo de Culturas, que expresarían un sentido representativo y democrático consecuente con el carácter progresista del sector.
+  
+La participación de la ciudadanía y su institucionalización, tienen sentido en la medida en que administren recursos públicos que constituyan inversión y desarrollo efectivo, para lo cual se propone la creación de un Fondo Concursable de Desarrollo de Culturas que debiera estar financiado con recursos provenientes de las empresas públicas más rentables del país, además de los aportes de la empresa privada a través de la reglamentación del mecenazgo y un impuesto al consumo de alcohol y tabaco, fundamentales para que el desarrollo cultural dependa fundamentalmente del aporte de los bolivianos y bolivianas.
+  
+Bajo esta estructura estatal, el control y planificación ciudadano, además del aporte real de los bolivianos y bolivianas, es necesario encarar un trabajo de desarrollo en diez áreas temáticas vinculadas a las culturas.
+  
+**Políticas y estrategias**
+  
+Evaluación y Planificación Democrática y Participativa. Institucionalizando las Jornadas Culturales departamentales para generar un trabajo de evaluación y planificación con la participación de los actores y gestores culturales de cada Departamento organizados.
+  
+Institucionalización de la Gestión Cultural. Mediante la creación del Ministerio de Desarrollo de Culturas, los Consejos Departamentales de Desarrollo de Culturas y el Consejo Nacional de Desarrollo de Culturas.
+  
+Sostenibilidad de la Gestión Cultural. Mediante la creación del Fondo Concursable de Desarrollo de Culturas y el redireccionamiento del Fondo del Banco Central de Bolivia y creación de Fondos de apoyo a la Cultura.
+  
+Estas políticas se implementarán a través de las siguientes estrategias:
+  
+**i) Descolonizar la cultura**
+  
+La gestión cultural de Bolivia se ha caracterizado por una fuerte atención de las instituciones del Estado a las expresiones artísticas y culturales convencionales y casi estrictamente vinculadas a los espacios urbanos del país.
+  
+Esto ha promovido dos efectos de la colonización cultural en Bolivia, por un lado una subestimación de las expresiones artísticas y culturales de los pueblos y naciones originarias e indígenas y, por otro, una sobrestimación de las expresiones convencionales urbanas y occidentales sin vínculos de identidad nacional.
+  
+Dado que las principales fortalezas de la identidad y culturas en Bolivia corresponden a las expresiones originarias, se propone desarrollar estrategias que apunten a revertir las consecuencias de la colonización cultural en Bolivia.
+  
+Para ello es necesario poner en valor las expresiones originarias a la par de las expresiones occidentales y urbanas y proyectar ambas en un sentido pleno de interculturalidad vinculando este proceso al fortalecimiento de una nueva identidad nacional y el mejoramiento de la autoestima social en Bolivia.
+  
+Esta estrategia se llevará adelante a través del “Programa Fortalecimiento de la interculturalidad” y “Fomento a las iniciativas Artísticas y Culturales”
+  
+**ii) Construir una Nueva Identidad Nacional**
+  
+Como un efecto de la Estrategia precedente es necesario construir nuevos paradigmas de Identidad Nacional basados en el respeto del colectivo y la valoración real del Patrimonio Cultural del país.
+  
+El proceso de reconocimiento de los nuevos paradigmas de la nacionalidad necesariamente tiene que fundamentarse en la recuperación de los valores tradicionales que ostentan las diversas culturas que habitan el territorio boliviano, pero no basta con la recuperación de los distintos elementos tradicionales, es necesario proyectarlos en el contexto del nuevo siglo y las actuales condiciones de comunicación y mercado global.
+  
+Es necesario encontrar en ese contexto elementos de representación de la nacionalidad que vinculen el territorio y la población generando una continuidad efectiva en la identidad nacional respetuosa de la diversidad que le es innata.
+  
+A partir de la valoración de la nueva identidad nacional será necesaria una vinculación a las diferentes expresiones populares, para generar a partir de su reconocimiento y valoración, imaginarios sociales más expresivos con lo propio en el sentido cultural de sus imaginarios.
+  
+La implementación de esta estrategia se realizará a partir del “Programa Investigación Cultural”
+  
+**iii) Hacer del Estado el principal protagonista del desarrollo cultural**
+  
+El Estado boliviano debe recuperar su participación en el proceso de planificación y ejecución de proyectos de gestión cultural en el país. Esta agenda debe estar coordinada con los Gobiernos Departamentales, los Gobiernos Nacionales y los gestores culturales que desarrollan iniciativas en el país. Es necesario reglamentar los aportes a través del Fondo Concursable y con indicadores claros de impacto económico y social para garantizar la eficiencia y sostenibilidad de la propuesta.
+  
+Los Concursos Nacionales y los principales Festivales de Carácter nacional e Internacional que se desarrollan en el país deben contener el aporte y participación de las instancias estatales responsables del sector cultural.
+  
+Para esta estrategia se formula el programa “Fondo para el Desarrollo Cultural de Bolivia”
+  
+**iv) Transformar el patrimonio cultural en fuente generadora de empleo e ingresos**
+  
+El inmenso patrimonio cultural de Bolivia debe ser administrado de forma tal que su administración genere fuentes de trabajo y recursos destinados a las comunidades o sectores de la sociedad vinculados a los mismos.
+  
+La implementación de esta estrategia se llevará adelante con la implementación del “Programa Gestión Comunitaria del Patrimonio Cultural”
+  
+**v) Promover la formación artística con identidad nacional**
+  
+La Formación artística debe ser reglamentada en el proceso mismo de su ejecución y es necesario reglamentar la titulación. Debe ser más amplía y democrática con énfasis en los sectores más vulnerables de la población, la que se llevará adelante a través del “Programa Formación Artística y Promoción Cultural”.
+  
+**vi) Ejecutar una política de comunicación cultural eficiente**
+  
+Toda acción cultural debe estar acompañada de una política y estrategia de comunicación que amplíe el impacto social de la gestión misma.
+  
+La que se llevará adelante a través del programa “Fomento al Arte audiovisual para el registro y documentación de nuestros bienes y manifestaciones culturales”.
+
+## Capítulo III Bolivia democrática
+
+### Sección 3.1 Enfoque
+
+La democracia es un patrimonio y vocación del pueblo. La historia testimonia largas luchas antidictatoriales, anticoloniales, libertarias e igualitarias a lo largo y ancho del territorio. Se la concibe en su sentido más amplio porque abarca las dimensiones política, económica, cultural y social, y no se la imagina sin justicia social y redistribución equitativa del excedente, las oportunidades y los derechos individuales y comunitarios.
+  
+La democracia va más allá de la formalidad del acto electoral, es la expresión de la participación plena, permanente, decisiva, movilizada y creativa de la sociedad, que incide en la gestión pública en su manifestación local, regional y nacional. No se circunscribe a un modelo único y homogenizador porque es dinamizador de la diversidad y confluye en una articulación estratégica entre democracia formal, popular, obrera y comunitaria. La democracia es el sistema de gobierno estatal, de autogobierno social y comunitario, y la vinculación de ambas manifestaciones.
+  
+La emergencia de la participación social como germen y espacio de desarrollo del cambio estructural del país es un proceso para profundizar la democracia sustentada en los movimientos sociales10 y la sociedad civil11, en la perspectiva de lograr equilibrio entre sociedad y Estado.
+  
+La fortaleza de la sociedad es la base fundamental del nuevo enfoque de desarrollo, es una prioridad esencial para consolidar la capacidad crítica y propositiva de la sociedad, y viabiliza su alianza estratégica con el Estado para integrar gestión pública de calidad, autogestión, autorregulación y reconstitución de todas las estructuras sociales.
+  
+La legitimidad del Estado se basa en el reconocimiento real de que todo poder deriva del pueblo y se canaliza mediante sus diversas formas de manifestación democrática y el ejercicio real de ese poder de manera permanente. Esta legitimidad se organiza en medios, sistemas e instituciones que luego ejercen democráticamente la autoridad.
+  
+El control sociocomunitario y la transparencia son mecanismos del ejercicio del poder social que enriquece y perfecciona la gestión pública en su proceso de articulación con la gestión privada y comunitaria. La participación y veto social son complementarios en la construcción del modelo de desarrollo, que implica corresponsabilidad, pertinencia y legitimidad social, cultural, económica y política. La autonomía y la territorialización son expresiones de milenarias luchas libertarias que profundizan la descentralización y el desarrollo territorial.
+  
+El objetivo de la democracia es el Vivir Bien, como paradigma diverso del desarrollo que canaliza la búsqueda activa y permanente de la equidad, equilibrio, interdependencia, complementariedad y armonía. Democracia y desarrollo están estructuralmente articulados a tal punto que no se puede pensar lo uno sin lo otro.
+
+### Sección 3.2 Políticas del área
+
+### 3.2.1 Constitución del Estado Social Plurinacional y Comunitario
+
+El nuevo Estado participativo e incluyente se asentará en el poder democrático emergente del proceso reivindicatorio de los pueblos indígenas, originarios, campesinos y los movimientos sociales, que se expandió al conjunto de la sociedad.
+  
+El Estado social es la manifestación del equilibrio, armonía, complementariedad y su articulación con la sociedad y el desarrollo pleno de justicia social. Se basa en principios de redistribución equitativa y equilibrada del excedente nacional, y en factores de oportunidad individual y comunitaria, de inclusión y de erradicación de las brechas de desigualdad entre pueblos y personas.
+  
+El Estado plurinacional es la expresión de un patrón de la diversidad en lugar de la homogeneidad. Se trata de una diversidad de distintas bases culturales, económicas, sociales, políticas, filosóficas, religiosas, territoriales e históricas articuladas de manera compleja, armónica e interdependiente. El Estado comunitario se apoya en la comunidad que no anula ni elimina a la persona, sino que la posiciona de modo diferente, donde se armoniza el bien particular con el bien comunitario.
+
+### 3.2.2 Constitución del territorializado poder social culturalmente
+
+A partir de la descentralización territorial se conforma el poder social regional de acuerdo con la ocupación y uso cultural del territorio en concordancia con las autonomías municipales concentradas en las diversas regiones. Se descentralizará el poder político y económico para que cada municipio, región, pueblo originario y departamento sean autónomos en políticas territoriales y sectoriales, y en la gestión de su propio desarrollo. En términos de equidad significa dar más a los que más necesitan en un proceso de restitución de capacidades y no de generación de dependencias.
+  
+De esta descentralización territorial emerge el poder social regional mediante la formación de consejos regionales de desarrollo, convertidos en espacios consultivos que regionalizan la toma de decisiones y permiten que la población genere una nueva capacidad de concertar políticas públicas para el desarrollo de su región, de acuerdo con sus necesidades y características propias.
+  
+Para ello es necesario consolidar el asociativismo municipal que promueva su organización en regiones para fortalecer unidades de planificación y de desarrollo. Estas agrupaciones de municipios acercan el Estado y las decisiones políticas, económicas, sociales y culturales con los actores de la región, que tienen la posibilidad de participar y definir políticas públicas orientadas a mejorar su calidad de vida.
+  
+Se reconfigurará la estructura territorial para ordenar las unidades político administrativas, de acuerdo con criterios sociales, culturales, económicos, organizativos, de tamaño, densidad, población, superficie y asignación de recursos que viabilicen el desarrollo municipal y regional, y se contribuirá a generar unidades de planificación y desarrollo más adecuadas.
+  
+También se privilegiará la generación de espacios de diálogo para concertar políticas públicas en correspondencia con usos y costumbres regionales de los pueblos y organizaciones sociales locales, y se constituirá el poder social territorializado. Con la apertura de estos espacios se descentralizará el poder estatal, ya que su objetivo es asentar la presencia de pueblos indígenas, movimientos sociales, cívicos y comunitarios en la toma de decisiones sobre aspectos relacionados con el desarrollo nacional y regional, y en la gestión política de la demanda social.
+  
+Asimismo se formarán consejos regionales de desarrollo integrados por comités de movimientos sociales para el desarrollo, que participarán como organizaciones políticas territorializadas, pueblos indígenas, movimientos cívicos y comunitarios, además de distintos actores de salud, educación, gobiernos municipales, mancomunidad, prefectura, actores económicos privados y organizaciones sociales regionales.
+  
+En el marco del plan de desarrollo, la asignación de recursos públicos y competencias específicas a las regiones permitirá la sostenibilidad del proceso de desarrollo en el largo plazo. Esto implica la definición de criterios de equidad en las transferencias de recursos financieros a las regiones y municipios y su orientación al logro de metas de desarrollo.
+
+### 3.2.3 Construcción del poder social a partir de la presencia efectiva de los excluidos en las instancias del poder político
+
+Esta presencia social en el Estado no excluyente legitima la representación social de los pueblos, movimientos y organizaciones sociales y de la sociedad civil. Además genera escenarios para recomponer el Estado en ambientes de estabilidad y construcción permanente mediante la institucionalización del debate político de los asuntos nacionales.
+  
+Esto es posible en espacios públicos para consolidar una visión nacional, de acuerdo con intereses colectivos y no sectoriales o corporativos.
+  
+De esta manera las demandas sectoriales, corporativas y territoriales asumen una visión política nacional y privilegian el bien común mediante asambleas y consejos.
+
+### 3.2.4 Transparencia de la gestión del desarrollo nacional, departamental, regional y municipal pública, privada y comunitaria
+
+La transparencia de la gestión del desarrollo en los niveles público, privado y comunitario tiene enfoque preventivo y correctivo, es parte del diálogo entre sociedad y Estado, y a la vez un mecanismo de articulación y complementariedad. En el aparato estatal tiene la misión de generar condiciones de calidad, efectividad, oportunidad y veracidad hacia la sociedad civil.
+  
+La transparencia implica lucha frontal contra la corrupción haciendo uso de las leyes para lograr el castigo justo y oportuno a los actos abusivos y fuera de la ley de los funcionarios públicos o de aquellos que utilicen recursos del Estado.
+  
+La normatividad cumple un rol sustantivo que será actualizado en los marcos de la presente política y se articulará con mecanismos de regulación, control, opinión y acción positiva desde la sociedad. La ley es un instrumento del poder social para acompañar de manera activa a su cumplimiento en todos los niveles sociales, administrativos, públicos, privados y comunitarios donde la sociedad civil es activa.
+
+### 3.3 Consejos de desarrollo que construyen poder social y comunitario
+
+El Estado colonial estableció la exclusión y marginación de vastos sectores sociales - especialmente los provenientes de pueblos indígenas y originarios que son el resguardo de la nacionalidad boliviana- y consolidó el poder de reducidos grupos privilegiados que controlaban el poder político, económico y las decisiones del Estado a nivel local, regional y nacional en beneficio de estratos privilegiados.
+  
+Para romper esta lógica del poder oligárquico es necesario deconstruir la actual estructura estatal diseñada para la exclusión y al mismo tiempo construir la nueva estructura estatal.
+  
+La deconstrucción del Estado es un proceso que conlleva la construcción de un nuevo poder, que emerge del poder de los excluidos con capacidad de gobernar, proponer y decidir sobre asuntos de interés común para mejorar su calidad de vida.
+  
+**Propuesta de cambio**
+  
+Se propone construir el poder social en el Estado Social, Plurinacional y Comunitario eficaz, que se configurará a partir de la descentralización regionalizada e intercultural y la participación activa de los movimientos sociales y la sociedad civil en la planificación del desarrollo y la elaboración de políticas públicas.
+  
+Para lograr este propósito es indispensable cambiar los actuales fundamentos constitutivos del poder y de la política vigente e incorpora en los espacios del poder, en las decisiones nacionales y en la gestión pública a los pueblos originarios, campesinos y movimientos sociales. La responsabilidad de las decisiones y de la gestión del desarrollo debe dejar de ser exclusiva del Estado y ser compartida con la sociedad civil, delegar el poder nacional a los niveles regional, municipal y local.
+  
+**Políticas y estrategias**
+  
+**i) Consejos de desarrollo**
+  
+Consolida la relación equitativa entre sociedad y Estado, articulados estratégicamente en la unión de esfuerzos por el desarrollo, entendido como el Vivir Bien, y abarca el nivel nacional y las diversas estructuras territoriales: departamento, pueblos originarios, regiones, municipios, distritos y sectores.
+  
+En este contexto se constituirá el consejo nacional de desarrollo, como espacio consultivo y de concertación de políticas públicas relacionadas con el desarrollo nacional. Esta instancia será integrada por el consejo nacional de movimientos sociales, representaciones de la sociedad civil y representantes nacionales y subnacionales de todos los sectores establecidos en el Plan Nacional de Desarrollo, que también permite constituir subconsejos específicos.
+  
+Para avanzar en esta política se propone cuatro estrategias: *a) Consejo nacional de desarrollo que articula la participación de las organizaciones nacionales de la sociedad y las instancias estatales de nivel nacional, b) consejos territoriales de desarrollo con participación de los actores sociales y estatales en los departamentos, territorios indígenas y originarios, regiones, municipios y distritos, c) consejos sectoriales en escenarios estratégicos y d) consejos intersectoriales y de temas estratégicos*.
+  
+**ii) Consejos sociales para el desarrollo integral**
+  
+Son espacios de desarrollo de iniciativas y gestión desde la sociedad12, que se organizan para fortalecer y generar la estrategia de reconstitución y rearticulación orgánica estructural. El Estado los reconoce y crea las mejores condiciones normativas para su desarrollo, preserva su autonomía y genera espacios de empoderamiento en el marco de respeto.
+  
+Los consejos sociales no son paralelos a las organizaciones sociales, sino sus brazos orgánicos para el desarrollo territorial, social, económico-productivo, cultural, político- organizativo y de infraestructura para consolidar la autogestión, la autorregulación y la iniciativa popular. El Estado preservará la unidad de los movimientos sociales y de las organizaciones de la sociedad civil.
+  
+Los movimientos sociales podrán constituir su consejo nacional para generar mejores condiciones de participación en el desarrollo. Para ello se establecerán cuatro estrategias en las que el Estado generará condiciones de acuerdo con la dinámica social: *a) Consejos de incidencia estratégica donde destaca el consejo de protección social y desarrollo integral comunitario, b) consejos indígenas y originarios que fortalecen la gestión en territorios étnicos, c) consejos sociales territoriales especialmente campesinas y barriales d) consejos sociales sectoriales en áreas estratégicas que inciden en el desarrollo nacional y territorial*.
+
+### Sección 3.4 Sectores que consolidan y reconstituyen poder socio comunitario
+
+El poder sociocomunitario se consolidará como enriquecedor de la gestión pública y generador de nuevos escenarios de desarrollo de la gestión comunitaria, que fortalecerá la dimensión de la economía comunitaria y del enfoque propositivo. Esta transformación estructural alcanza a las esferas estatales y a la sociedad civil.
+
+### 3.4.1 Movimientos sociales y sociedad civil
+
+El nuevo Estado participativo inclusivo se asentará en el poder democrático que emergió del proceso reivindicatorio de los pueblos originarios y los movimientos sociales, que posibilitó la presencia política de sectores tradicionalmente excluidos del Estado. En este sentido se efectivizará la presencia de estos sectores en la gestión pública como actores políticos, económicos, culturales y sociales.
+  
+Esta articulación se promoverá de manera efectiva, incluyente, institucionalizada, transparente y sostenible como manifestación del encuentro entre la demanda social y la oferta pública. Para ello se establecerá nuevos sistemas de relacionamiento estratégico entre el Estado y la sociedad con relación a visiones y objetivos nacionales, departamentales, regionales y municipales, en el marco de la interculturalidad, diversidad y participación de todos los sectores y actores sociales.
+  
+**Propuesta de cambio**
+  
+Con el propósito de establecer una nueva lógica de relacionamiento entre el gobierno, los movimientos sociales y la sociedad civil, se propone generar condiciones para ampliar la democracia13 mediante el diálogo y concertación, la atención oportuna de las demandas sociales, el fortalecimiento de las organizaciones sociales y el seguimiento y análisis estratégico para prevenir la conflictividad social.
+  
+**Políticas y estrategias**
+  
+**i) Dinamizar la sociedad civil y movimientos sociales para constituir el Estado plurinacional comunitario desde la sociedad**
+  
+Se canalizará la presencia efectiva e integradora de los sectores sociales excluidos como sujetos políticos para que asuman corresponsabilidad en el servicio público y en la construcción del nuevo Estado, que velará por el Vivir Bien de todos sus habitantes y permitirá que los pueblos originarios se conviertan en sujetos políticos en la toma de decisiones, en formular políticas nacionales y en su efectiva inclusión en el Estado.
+  
+Esta política se ejecutará mediante dos estrategias: *a) presencia, participación y corresponsabilidad de los sectores excluidos en la gestión pública y control del Estado, en el que destaca el programa sistema normativo para pueblos indígenas, que se apoya en el ejercicio efectivo de los derechos políticos, económicos, sociales y culturales, b) institucionalización de políticas públicas gestadas desde la sociedad como expresión del relacionamiento entre el Estado, movimientos sociales y sociedad civil y fruto del diálogo y la concertación*. De este modo se consolida la visión de integración y articulación nacional, y se posibilita la actuación responsable de los diferentes actores en la gestión pública mediante el desarrollo del programa diálogo y concertación.
+  
+**ii) Construcción de mecanismos de gestión a la demanda social y profundización de la democracia.**
+  
+Coordina la demanda e iniciativa de la sociedad, los pueblos originarios y los movimientos sociales con la gestión del Estado para acercar los movimientos sociales y la sociedad civil a las instancias de gestión pública, y facilitar el relacionamiento y atención oportuna de iniciativas y demandas sociales para construir sinergias del desarrollo.
+  
+Esta articulación entre Estado y sociedad fortalece y amplía la democracia, genera nuevos espacios institucionalizados de participación, representación y deliberación y se establece nuevas formas efectivas, incluyentes, institucionalizadas, transparentes y sostenibles de encuentro, no solo entre la demanda social y la oferta pública, sino entre los diferentes actores.
+  
+Se implementará una nueva lógica de relacionamiento entre sociedad y Estado para construir, recibir, priorizar, canalizar e incorporar la demanda social en las políticas, planes y presupuestos públicos, mediante la formación y funcionamiento de escenarios y procesos de diálogo, deliberación, coordinación, proposición y concertación de organización, funcionamiento y efectividad de la gestión pública.
+  
+El propósito no sólo se reduce a mejorar la capacidad para recibir demandas, desconcentrarlas y procesarlas de manera cada vez más especializada, sino que se pretende democratizar el poder político a partir de la deliberación y participación de las comunidades y los ciudadanos en la formulación y gestión de políticas públicas.
+  
+Esta política se operativizará mediante la estrategia de generación de mecanismos de apoyo para profundizar la democracia con la activa participación de los actores involucrados. Consta de dos programas: a) gestión democrática de la demanda social y prevención de la conflictividad, orientada a atender, canalizar, monitorear y hacer seguimiento a las demandas sociales; b) monitoreo y análisis estratégico de la información, seguimiento de los acuerdos suscritos con los sectores sociales y la sociedad civil, con el fin de contar con la toma de decisiones oportuna y acertada.
+  
+**iii) Construcción del poder social con la presencia efectiva de los excluidos en las instancias del poder político**
+  
+Organiza la construcción del poder social comunitario y fortalece las organizaciones, movimientos sociales e indígenas para consolidar una visión nacional que incluya lo local y regional, y genere corresponsabilidad en la gestión pública mediante una estrategia de apertura y estructuración de espacios de poder y decisión.
+  
+Para implementar esta política se cuenta con la estrategia *Apertura y Estructuración de Espacios de Poder y Decisión para las Organizaciones Sociales y Pueblos Indígenas*, la cual se operativizará mediante dos programas: Fortalecimiento a los Movimientos Sociales y Sociedad Civil ante el Estado Nacional, el segundo programa es Fortalecimiento de la institucionalidad pública para fortalecer y consolidar las capacidades técnicas, operativas y de gestión de los movimientos sociales y sociedad civil.
+
+### Sección 3.5 Sectores que consolidan y profundizan la democracia
+
+La decisión de profundizar la descentralización y la transparencia de la gestión pública y privada fortalece y consolida la democracia, la legitima y renueva hasta llegar a diversas estructuras de la sociedad con la respectiva rendición de cuentas.
+
+### 3.5.1 Descentralización
+
+En el enfoque neoliberal, junto al predominio de la lógica rentista en la administración de los recursos económicos del Estado (especialmente los provenientes de los recursos naturales) y el abandono estatal de la tarea de inversión en procesos de desarrollo económico y productivo, Bolivia enfrenta una crónica debilidad institucionalidad estatal que históricamente se expresa en la ausencia de control sobre su territorio. Hace sólo 12 años se estableció un primer nivel de reconfiguración al instituir jurisdicciones municipales en todo el país y con ella se estableció gobiernos locales autónomos con competencias y transferencia de recursos.
+  
+Con esta medida se dio un paso importante para sentar presencia estatal en todas las secciones de provincia del país. Sin embargo resulta insuficiente para superar las limitaciones en la articulación social, política y económica de las comunidades locales y municipios entre sí. Tampoco se desarrollaron mecanismos y políticas para articularse intra e interdepartamentalmente, situación que impide la posibilidad de ejecutar políticas coordinadas para el desarrollo regional y nacional.
+  
+El Estado centralista y su institucionalidad sólo se desarrollaron en algunos pequeños focos poblacionales, concentrados principalmente en algunas capitales de departamento. Recién, en los últimos años, los municipios comenzaron a generar una dinámica de búsqueda de estrategias locales de desarrollo orientados por la propuesta del “municipio productivo”, pero en general el espacio local no parece ser la escala más apropiada para ello.
+  
+Con la aprobación de la Ley de Participación Popular en 1994 y su posterior aplicación, se logró territorializar la geografía nacional hasta que no haya un solo metro cuadrado que escape a su precisa identificación como perteneciente a un municipio y por lo tanto a una jurisdicción en particular. También se estableció la presencia estatal mediante los gobiernos municipales y se superó la situación de ausencia física e institucional del Estado en tres cuartas partes del país donde carecía de autoridades constituidas y reconocidas.
+  
+En la experiencia democrática es destacable el ejercicio de la ciudadanía en la elección de las autoridades locales. En sucesivas ocasiones la población ejerció su derecho en elecciones municipales y como resultado de este proceso se legitimó la autoridad local y los órganos deliberativos con atribuciones y recursos. La experiencia de la gestión con errores, aciertos, avances, limitaciones y renovación sucesiva de autoridades permitió el autoreconocimiento de la población como sujeto de derechos políticos de ciudadanía y acumulación de experiencia sobre su práctica.
+  
+Debe anotarse también como elemento importante la propuesta de planificación participativa y el reforzamiento de la conciencia ciudadana sobre el rol de la autoridad en la atención de las necesidades de la población.
+  
+Ante las históricas demandas por mayores niveles de descentralización en el país, que llegaron a madurar en un proyecto de conformación de gobiernos departamentales a principios de la década del 90, la Ley de Participación Popular estableció un nuevo escenario, el local, para este proceso, relegando la descentralización del nivel intermedio. De todas maneras, en 1995 se aprobó una Ley de Descentralización Administrativa que norma el funcionamiento y competencias de las prefecturas, y crea el consejo departamental como órgano fiscalizador.
+  
+Esta norma y otras posteriores se diseñaron al amparo de una Constitución Política del Estado, régimen institucional y una legislación general adecuadas a la sujeción y dependencia directa de las autoridades departamentales al gobierno central y sus determinaciones ejecutivas.
+  
+El año 2005 surge un movimiento de presiones hasta lograr que las prefecturas de departamento reciban de manera directa la mayor parte de los recursos del Impuesto Directo a los Hidrocarburos14 (IDH), creado por la nueva Ley de Hidrocarburos. Esta distribución, que significa una enorme y desproporcionada descentralización de recursos (que además incrementa los ingresos de los municipios) crea enormes inequidades interdepartamentales e intermunicipales.
+  
+La elección directa de prefectos en los departamentos y la posterior modificación de la Constitución Política del Estado a la medida de esta decisión representa el componente político de la descentralización al nivel intermedio, pero se hace sin el previo diseño estructural y funcional que garantice el funcionamiento coordinado de la institucionalidad del Estado.
+  
+El referéndum por autonomías departamentales y las elecciones para la Asamblea Constituyente en 2006 marca la tendencia de la descentralización, que se reflejará en el diseño estatal definido por la nueva Constitución Política del Estado, desafío histórico que debe recoger también las demandas por mayor autonomía para los pueblos indígenas y originarios. Sin embargo para avanzar en estos temas se deberán enfrentar problemas que se explican a continuación.
+  
+i) Territorialidad. La división político-administrativa del país, arbitraria y caprichosa no responde a criterios de ordenamiento territorial ni a lógicas económicas y culturales. De manera gradual se dio un proceso de fragmentación territorial completamente desordenado y con una tendencia progresiva (incentivada además por el tema de las regalías).
+  
+En el nivel local existe una superposición de jurisdicciones y autoridades que no fue resuelto, como es el caso de cantones y distritos municipales, vigentes indistintamente con corregidores y agentes cantonales simultáneamente en los cantones, además de subalcaldes en los distritos municipales.
+  
+La fragmentación creó provincias que no coinciden con espacios cultural, económica o socialmente adecuados para la planificación y gestión del desarrollo, y mantuvo municipios (secciones de provincia) que por motivos de extensión, demográficos y otros se tornan inviables en términos de gestión municipal responsable.
+  
+ii) Debilidad institucional. Además de la debilidad natural en instituciones que apenas tienen 12 años de existencia, como es el caso de la mayoría de los gobiernos municipales, en capacidades para el ejercicio de sus competencias y funciones (compartida también por las prefecturas en general) hay otros elementos que tornan más agudo este problema.
+  
+Dadas las condiciones y limitaciones económicas del medio en que se desenvuelven y de las propias instituciones municipales y prefecturales, la administración pública subnacional está sujeta a normas administrativas que dificultan enormemente su accionar.
+  
+La Ley SAFCO, aprobada antes de la existencia de gobiernos municipales, y la rigidez de sus reglamentos es uno de los principales escollos que contrasta con la casi absoluta ausencia de mecanismos y sistemas de seguimiento y monitoreo a los resultados de la gestión pública subnacional.
+  
+En su relación con otros niveles de la administración del Estado, no se estableció de manera clara y eficiente la concurrencia de los municipios con las prefecturas en la inversión. Ante la frágil institucionalidad municipal y prefectural, la ausencia de normas de obligatoriedad y de procedimientos que faciliten y efectivicen la concurrencia de la inversión pública impidió su desarrollo y se quedó como una opción utilizada casi exclusivamente en prácticas de clientelismo político y corrupción.
+  
+El diseño prefectural (no adecuado a las actuales condiciones de prefectos electos democráticamente) puede tornar su gestión en un espacio estanco debido a que no se establecieron mecanismos institucionales de coordinación con el nivel municipal y nacional, pese al importante volumen de recursos destinado a las prefecturas, por lo que es importante consolidar su característica del nivel intermedio, que es de coordinación y articulación.
+  
+iii) El aspecto económico. Junto a un crónico rentismo de las administraciones subnacionales y un desordenado proceso de descentralización financiera, que primero asigna recursos y luego debate sobre las competencias, se generó un escenario de dispersión de los recursos financieros del Estado que no acompaña a políticas y estrategias de desarrollo coherentes y articuladas.
+  
+Además de la falta de responsabilidad fiscal que fomenta el rentismo, en los últimos años se estableció un sistema de distribución de recursos a nivel departamental y municipal (provenientes principalmente de la explotación de la riqueza hidrocarburífera) que creó enormes inequidades interdepartamentales e intermunicipales y un diseño poco sostenible en el tiempo.
+  
+iv) La exclusión rural e indígena. La monoculturalidad (visión de una sola cultura) en el diseño homogéneo de los gobiernos municipales en particular, pero que aqueja al conjunto de la institucionalidad del Estado en general, excluye a los pueblos indígenas de la posibilidad de ejercer la administración pública de acuerdo con sus usos y tradiciones consuetudinarias, y cuando acceden al gobierno se enfrentan a un sistema extraño que impide el desarrollo de su cultura e identidad como pueblos.
+  
+Además, dada la artificial división del territorio, los pueblos originarios no encuentran espacios político administrativos que, reconociendo su territorio y hábitat natural permitan gobiernos subnacionales que reunifiquen a su población.
+  
+El histórico ejercicio del poder, la administración pública y el gasto público en los mayores centros urbanos excluyó a los habitantes de las áreas rurales y las regiones de las oportunidades y procesos de desarrollo económico y social hasta configurar un Estado urbano-céntrico.
+  
+Para superar los problemas señalados se deben mencionar las potencialidades existentes en los gobiernos municipales, las prefecturas y los pueblos originarios.
+  
+i) Los gobiernos municipales. En la medida en que se superen las limitaciones anotadas, los gobiernos municipales tienen un potencial generador de democracia local y ejercicio de ciudadanía, que es necesario desarrollar. Asimismo la cultura municipalista puede irradiarse y alimentar el diseño y gestión a niveles superiores.
+  
+Las perspectivas de las mancomunidades municipales de ser instrumentos de coordinación y trabajo conjunto entre gobiernos municipales pueden trascender a un rol fundamental hasta constituirse en espacios de articulación entre municipios y el departamento, con una escala más apropiada para la planificación y la gestión del desarrollo económico y social.
+  
+ii) Las prefecturas. Considerando la coyuntura de transformaciones estructurales, cuyo tema central es consolidar el nivel intermedio mediante gobiernos departamentales, la Asamblea Constituyente debe aprobar y regular el régimen de autonomías departamentales basado en la pregunta del referéndum del 2 de julio de 2006.
+  
+En este sentido, las prefecturas pueden convertirse ya sea en instrumentos de freno e impedimento a los cambios, si su papel es reproducir los mismos errores y problemas del diseño y funcionamiento del Estado en la escala departamental (centralismo), o por el contrario en protagonistas de las soluciones estructurales de largo plazo asumiendo efectivamente su rol articulador entre los niveles nacional y local; ejerciendo una gestión descentralizada en las regiones, como espacios de gestión y planificación territorial en una escala más adecuada entre los municipios y el departamento; superando de manera decidida las inequidades sociales, económicas y políticas inter e intradepartamentales y reconociendo los derechos de los pueblos indígenas sin subordinarlos a este nivel.
+  
+iii) Los pueblos originarios. Pese a que el transcurso del tiempo y las condiciones de exclusión pueden haberlas disminuido, los pueblos indígenas y originarios tienen un enorme potencial para ejercer sus capacidades de autogestión, de formular respuestas propias para solucionar sus problemas y de ejercer la administración y gestión pública subnacional, que es necesario alentar y fortalecer.
+  
+La solución a la exclusión pasa por reconocer el protagonismo de los pueblos en su propio desarrollo. Si esto ocurre, su aporte al conjunto del país mediante un Estado intercultural y plurinacional se traducirá en mejores escenarios y condiciones para consolidar las posibilidades de un desarrollo social, económico, político y cultural sostenible y duradero.
+  
+**Propuesta de cambio**
+  
+Los criterios de la propuesta de cambio son los siguientes:
+  
+a) Es necesario profundizar la descentralización política y administrativa del Estado boliviano en un proceso de relación y armonía entre población, territorio y estructura de poder, que amerita un ordenamiento territorial que supere las deficiencias del actual.
+  
+b) Solo se puede profundizar este proceso, en la medida en que se fortalezcan, consoliden y desarrollen los Gobiernos Municipales Autónomos, como condición para avanzar a otros niveles.
+  
+c) Se debe reconocer un nuevo régimen autonómico en el nivel intermedio, indisolublemente ligado a los principios de equidad, reciprocidad y solidaridad, expresado en gobiernos departamentales, cuya vigencia y desarrollo responda progresivamente a las capacidades institucionales y necesidades de la comunidad.
+  
+d) El proceso de descentralización y desconcentración político administrativa debe alcanzar a los pueblos originarios, regiones y distritos en grados progresivos de autonomía que la realidad y condiciones específicas de cada uno lo permitan.
+  
+e) Es necesario desarrollar y profundizar la descentralización a partir de la voluntad y decisión democrática de la ciudadanía y comunidad organizada, sin privilegios ni restricciones.
+  
+En esta perspectiva el cambio se orienta a:
+  
+i) Consolidar la autonomía municipal. Se debe optimizar la gestión pública de los gobiernos municipales, que en gran medida dependerá de una ordenada gestión y planificación territorial en su jurisdicción con la desconcentración y/o descentralización de sus operaciones. En este sentido se generará una política de distritación que absorba a los cantones en distritos municipales, según corresponda. De este modo, se evitará que se fragmente el territorio municipal en cantones y se eliminará la sobreposición de autoridades poco funcionales (agente cantonal, corregidor).
+  
+Las mancomunidades de gobiernos municipales deberán aprovechar su potencialidad de fortalecer la gestión municipal. Primero, las mancomunidades regionales (aquellas que coinciden con las regiones de cada Departamento) tienen una gran capacidad para fortalecer los procesos de desarrollo por sus ventajas de escala, para ejercer las funciones que le deleguen sus integrantes de manera subsidiaria, por lo que podrán ser reconocidas como instituciones de derecho público. Segundo, las mancomunidades metropolitanas destacan como una imperiosa necesidad para encarar los desafíos de la gestión municipal en las grandes urbes del país, que también serán reconocidas como instituciones de derecho público. Tercero, las mancomunidades de propósito específico se mantienen en el ámbito privado y deben contar con facilidades para mejorar su desenvolvimiento en función del apoyo a los gobiernos municipales que las componen.
+  
+La elección en listas separadas del alcalde y el concejo municipal consolidará la independencia de estos dos órganos, fortalecerá el rol normativo y de fiscalización del concejo, y establecerá la revocatoria del mandato por referéndum en lugar de los continuos reemplazos de alcalde mediante el voto constructivo de censura.
+  
+ii) La región, núcleo articulador del desarrollo para Vivir Bien. En las actuales condiciones y en la futura definición de gobiernos departamentales, el establecimiento de escenarios de encuentro entre los gobiernos municipales, administraciones departamentales y gobierno nacional es la mejor vía para coordinar, concertar y planificar el desarrollo económico y social con la participación de la comunidad. Estos espacios deben situarse al interior de cada departamento en una escala intermedia entre municipio y departamento para configurar regiones.
+  
+Las regiones se forman y constituyen por una o más provincias y sobre la base de la agregación de municipios y en alianza estratégica entre éstos, la comunidad local, la administración pública departamental, en armonía con las políticas nacionales. Las regiones son espacios territoriales de planificación con características culturales, geográficas, económicas y sociales complementarias, un potencial de desarrollo integral en conjunto y constituidos de manera imprescindible y fundamental por voluntad y acuerdo de las comunidades locales y los gobiernos municipales.
+  
+La región no supone crear una unidad político administrativa más, sino su reconocimiento como espacio de planificación territorial donde concurren los gobiernos municipales, su mancomunidad, la prefectura, el gobierno nacional y los actores sociales y económicos mediante la constitución de un consejo regional económico social (CRES) en cada una de las regiones, cuyas funciones se pueden establecer de la siguiente manera:
+  
+a) Como espacio de concertación de la inversión concurrente entre municipios y prefecturas, armonizadas con las políticas nacionales.
+  
+b) Territorio donde las prefecturas desconcentran y/o descentralizan su actividad y son la base para planificar y poner en práctica los procesos de desarrollo regional y departamental.
+  
+c) El lugar donde se articula el Plan Nacional de Desarrollo con los planes departamentales y municipales.
+  
+d) El lugar donde se instaure el diálogo y la interacción de los tres niveles del Estado (municipio, prefectura y gobierno nacional) con la comunidad local mediante las organizaciones sociales, pueblos originarios y actores privados de la región.
+  
+Además la regionalización no sólo se constituirá en una respuesta para los procesos de desarrollo, sino que también resultará un espacio ideal para construir gobernabilidad tanto de las prefecturas respecto a los gobiernos municipales y la sociedad civil, como del gobierno nacional con relación a los niveles subnacionales del Estado, mediante la articulación permanente de las instancias públicas y la participación directa de la población.
+  
+En el marco del concepto de regionalización, la articulación de espacios Macroregionales de planificación territorial se constituyen en un potencial de concurrencia y sinergia entre los tres niveles del estado (nacional, intermedio y local), entre éstos y los actores sociales, económico-productivos y pueblos indígena-originarios, orientado a conformar y madurar espacios estratégicos de planificación territorial supraregionales.
+  
+iii) Gestión pública y territorial indígena-originaria. En el marco de un Estado Plurinacional e Intercultural se fortalecerá y profundizará la gestión pública y territorial indígena-originaria a través de políticas que posibiliten la representación y participación política efectiva de pueblos indígenas y comunidades originarias en la gestión pública del nivel nacional, intermedio y local, así como el ejercicio de su derecho al autogobierno en los niveles subnacionales.
+  
+**Políticas y estrategias**
+  
+**i) Gestión y planificación territorial subnacional**
+  
+Profundiza la descentralización a partir de la consolidación de los gobiernos municipales y sus mancomunidades en el nivel local, y de las prefecturas de departamento en el nivel intermedio. Se inicia una dinámica de cambio con el reconocimiento de la región y macroregión como espacios de planificación, participación social, desconcentración, descentralización, coordinación y concurrencia entre niveles, y el reconocimiento del derecho y capacidad de los pueblos originarios para ejercer la gestión pública subnacional en sus espacios territoriales.
+  
+**ii) Desarrollo institucional**
+  
+El desarrollo de la normativa, las condiciones y capacidades institucionales de gestión pública, técnica y administrativa fortalecerán la gestión desconcentrada y/o descentralizada de prefecturas, gobiernos municipales, mancomunidades, entidades territoriales indígena- originarias y del gobierno nacional. De esta manera mejorará la eficiencia y oportunidad de respuesta a las demandas sociales de manera coordinada de acuerdo con las políticas nacionales para responder al desafío de un mayor protagonismo y responsabilidad de los niveles subnacionales en la administración del Estado.
+  
+**iii) Concertación y transparencia**
+  
+Esta política está destinada a transparentar el ejercicio de la gestión pública subnacional, recurrentemente caracterizada por la falta de mecanismos de información y evaluación sistemáticos que refuercen el compromiso recíproco entre la población y la institucionalidad democrática del Estado, y establecer espacios de diálogo, intercambio y concertación entre los actores involucrados de los tres niveles (local, departamental y nacional), particularmente en este período de profundización de la descentralización que requiere la mayor legitimidad y cuidado para darle un sólido sustento técnico y político.
+  
+**iv) Transformación del Estado**
+  
+Acompañar a la Asamblea Constituyente para que tome decisiones sobre el régimen de descentralización del Estado con información pertinente, suficiente y oportuna, y apoyar en los ajustes necesarios a la normativa e institucionalidad del Estado, adecuada a la nueva Constitución Política del Estado.
+
+### 3.5.2 Gestión pública y transparencia
+
+En Bolivia los gobiernos de turno legitimaron la exclusión de los sectores sociales en el manejo del Estado, como una estrategia para concentrar el poder en reducidos grupos económicos. En los últimos 25 años, la gestión pública respondió a los lineamientos hegemónicos de los sectores de poder y aplicó políticas que profundizaron las diferencias socioeconómicas en la sociedad boliviana.
+  
+Este Estado no disminuyó la desigualdad, las estructuras de poder no permitieron una adecuada correlación de fuerzas y se limitó la participación de los sectores marginados del área rural y urbana en la gestión pública. En este periodo la administración fue burocrática, estuvo alejada del mandato popular y de las necesidades sociales. El resultado del manejo de los recursos públicos fue poco transparente y sin control social en los tres niveles del Estado.
+  
+**Propuesta de cambio**
+  
+El nuevo enfoque de coordinación gubernamental plantea una articulación directa entre las demandas de los grupos sociales y la respuesta de las entidades estatales responsables de la gestión pública. El gabinete de ministros será el articulador del PND y el principal escenario para la toma de decisiones que garantice y consolide el Vivir Bien, la sostenibilidad macroeconómica y la estabilidad social.
+  
+La coordinación con el Poder Legislativo servirá para formular marcos normativos que respondan a las demandas de los sectores sociales que coadyuvarán en la legislación, fiscalización y gestión de los poderes legalmente constituidos.
+  
+La medición del impacto político y social de las medidas gubernamentales será el insumo para la toma de decisiones en el Poder Ejecutivo. El Estado tendrá una política de comunicación que garantice la difusión de los resultados de la gestión pública, como instrumento de transparencia.
+  
+La transparencia en la gestión pública establecerá un diálogo honesto y responsable entre el Estado y la sociedad, y bajo el mandato legal existente coordinará esfuerzos para construir acuerdos (corresponsabilidad) orientados a enriquecer y mejorar la ejecución de las políticas públicas.
+  
+**Políticas y estrategias**
+  
+**i) Modernizar la gestión pública hacia la eficiencia y transparencia para consolidar del Estado Social y Comunitario**
+  
+Con el propósito de promover la gobernabilidad y la democratización del Estado, la gestión pública fortalecerá los mecanismos de interacción entre el poder central y las organizaciones y movimientos sociales. Para su implementación se desarrollará la estrategia *Construcción de mecanismos de coordinación gubernamental al interior del Ejecutivo y sociedad civil*, aplicando sistemas de capacitación sobre los procesos de gestión pública y se conformará escenarios donde interactúen y la sociedad civil, movimientos sociales con el gabinete de ministros y otras entidades del gobierno.
+  
+**ii) Coordinación entre los poderes del Estado**
+  
+En el marco de la independencia de poderes y con la participación de los movimientos sociales, pueblos indígenas y originarios, la gestión parlamentaria impulsará la discusión, elaboración y socialización de los proyectos de ley hasta su promulgación. Este mecanismo establecerá normas que respondan al cambio y a los intereses del país.
+  
+Con el objetivo de construir espacios de acción conjunta entre los poderes Legislativo, Ejecutivo y la sociedad civil, gestión acompañará todas las iniciativas de interés regional y nacional. La estrategia es *Coordinación gubernamental con el Congreso*, aplicando mecanismos de fiscalización mediante el programa articulación con esa instancia legislativa.
+  
+**iii) Medición e información del impacto de las medidas gubernamentales**
+  
+Se propone fortalecer la eficiencia en la gestión pública y crear mecanismos de medición del impacto político y social de las medidas gubernamentales como insumo para el proceso de toma de decisiones en el Poder Ejecutivo. La medición del impacto de las medidas gubernamentales servirá para integrar el nivel político con los niveles técnicos institucionales, garantizar el cumplimiento de los acuerdos con los movimientos sociales y sentar las bases para construir una política pública de información gubernamental.
+  
+Esta política se aplicará mediante la estrategia de *Implementación del sistema de medición e información del impacto de las medidas gubernamentales* y el programa desarrollo de los instrumentos técnicos y metodológicos para evaluar e informar las medidas gubernamentales.
+  
+**iv) Socialización de los resultados de la gestión pública**
+  
+El Estado establece un mecanismo de comunicación para informar a la sociedad a los actores económicos y sociales que fortalecen la democracia, y a la vez retroalimenta las políticas públicas con el control y aporte de los mismos actores. Este enfoque integral de la comunicación hace énfasis en la constitución de la red.
+  
+Para su implementación se proponen tres estrategias: *a) impulso, fortalecimiento y posicionamiento de un sistema de medios de comunicación estatal*, que busca ampliar el efecto socializador de los resultados de la gestión pública mediante programas de posicionamiento de medios estatales de comunicación y mecanismos de difusión de la gestión pública nacional, departamental, regional y municipal, *b) sistema de información estatal*, que plantea consolidar niveles de coordinación y articulación de flujos informativos altamente eficientes entre las reparticiones del Estado mediante el programa fortalecimiento de la imagen gubernamental, *c) generar escenarios alternativos de comunicación para consolidar formas de comunicación innovadoras* que sean producidas por los diversos actores sociales y potenciados por el Estado a través del programa comunicación alternativa interactiva.
+  
+**v) Transparencia para erradicar la corrupción institucionalizada**
+  
+El objetivo es “cero tolerancia” a la corrupción por mandato presidencial mediante desarrollo de políticas de lucha contra la corrupción y de acciones preventivas para lograr una actitud ciudadana transparente y responsable. La política de acción se basa en los siguientes pilares: transparencia, lucha contra la corrupción, normativización y control social.
+  
+La transparencia se sustenta en acciones y hechos preventivos que dan lugar a actos munidos de valores éticos relacionados con la actitud del estudiante de escuela primaria y del servidor público, personas con calidad y responsabilidad en sus actitudes, que fomentan la transparencia y realicen sus actividades con total cuidado intrínseco.
+  
+El otro pilar de esta política es la lucha contra la corrupción, que tiene el propósito de generar acciones correctivas en todos los ámbitos donde se utilizan los recursos del Estado mediante el uso de la ley para dar curso de manera oportuna y cabal al cumplimiento de los castigos establecidos. Esta nueva manera de actuar genera confianza en la sociedad y estimulo para la denuncia. Es una nueva forma de Vivir Bien.
+  
+La normativización se refiere a elaborar, difundir, implementar y hacer uso correcto de la ley para que la sociedad, en general, y las personas que usan recursos del Estado, en particular, tomen recaudos para prevenir sus actos diarios y corregir y hacer corregir a otros del delito. Para ello es importante que la sociedad esté informada de los alcances de la ley y pueda intervenir oportunamente en acción o en cautela.
+  
+El control social es un instrumento transversal a la cotidianidad de la cultura preventiva (transparencia) como correctiva (lucha contra la corrupción) del quehacer nacional. Para el éxito de esta intervención activa es necesario desarrollar un control social dotado de capacitación legal para que sus intervenciones sean responsables y favorables en la toma de decisiones.
+
+## Capítulo IV Bolivia productiva
+
+### Sección 4.1 La formación de la matriz productiva nacional
+
+La dimensión económica del Plan Nacional de Desarrollo (PND) contribuirá a la transformación de la matriz productiva para cambiar el actual patrón primario exportador excluyente.
+  
+La estructura de la matriz productiva nacional está formada por dos grupos de sectores: los estratégicos generadores de excedente y los generadores de empleo e ingresos. De manera transversal se encuentran los sectores de infraestructura para la producción y apoyo a la producción.
+  
+*Gráfico N° 5 - Estructura de la matriz productiva nacional*
+  
+![Estructura de la matriz productiva nacional](#TODO-link)
+  
+Los sectores estratégicos están integrados por hidrocarburos, minería, electricidad y recursos ambientales, que resguardan la nacionalidad porque abarcan los recursos naturales, recuperados y reconocidos como patrimonio del Estado. Requieren elevadas inversiones en tecnología, son intensivos en capital y a su vez tienen gran capacidad para generar excedentes.
+  
+Esta característica plantea la necesidad de que el Estado sea protagonista del desarrollo mediante la creación o refundación de empresas estatales que promuevan el desarrollo de estos sectores, maximice el excedente económico, su apropiación, uso y distribución a través de la reinversión además de inversiones y transferencias a otros sectores que componen la matriz productiva y la matriz sociocomunitaria, optimizando su uso para diversificar la economía y mejorar el bienestar social en un contexto de equilibrio con el medio ambiente.
+  
+Los dos pilares del desarrollo, hidrocarburos y minería, corresponden a la actividad extractiva basada en la producción de recursos no renovables. Ambos sectores generan una renta para exploración y explotación, y también para su industrialización.
+  
+Los generadores de excedente son de alta rentabilidad y por lo tanto son atractivos para el capital extranjero. En este sentido, se propone una política de tratamiento a la inversión extranjera que otorgue seguridad jurídica y reglas claras sobre su aporte al Estado y a la sociedad.
+  
+Los hidrocarburos, en especial el gas natural, se destacan por ser recursos de carácter estratégico en la región latinoamericana y a nivel mundial. Por este motivo, en el país se requiere la presencia efectiva del Estado en el ciclo productivo.
+  
+Los hidrocarburos y la minería son intensivos en capital, requieren grandes inversiones a largo plazo, tecnología y mano de obra especializada, y tienen limitados encadenamientos con el resto del aparato productivo nacional. Por estas razones, el país necesita alianzas estratégicas con el sector privado nacional e internacional y con otras naciones a objeto de establecer criterios de desempeño para generar circuitos virtuosos entre el Estado y las empresas transnacionales.
+  
+Ambas actividades estratégicas contribuirán a desmontar el colonialismo con la industrialización y el aumento del valor agregado de la producción y la exportación, e inducirán al cambio del patrón primario exportador. Este desmontaje se realizará con la participación del Estado en todo el circuito productivo hidrocarburífero, mediante el cambio de la matriz energética y con políticas estatales para fijar precios y volúmenes de exportación. En el sector minero se reestablecerá el rol protagónico del Estado, con mejor capacidad de producción, control y fiscalización, y mayor participación en la renta minera.
+  
+El sector de electricidad es estratégico para el país por lo siguiente: a) es un servicio básico esencial para inducir al crecimiento económico y satisfacer las necesidades de la población, b) el Estado es propietario de las principales fuentes de generación de electricidad y c) en el mediano plazo se prevé construir nuevas plantas generadoras de electricidad orientadas a la exportación, cuya actividad redituará un mayor excedente económico. De esta manera se espera que la energía eléctrica, junto con los hidrocarburos, sitúe a Bolivia como el centro energético sudamericano.
+  
+El sector estratégico de recursos ambientales comprende los bienes tangibles como bosques, recursos hídricos y la biodiversidad con toda su riqueza biológica y amplia variedad de ambientes, y los bienes intangibles como la conservación del ciclo hidrológico y secuestro de carbono que, en conjunto, actúan mitigando los cambios climáticos, cuya certificación generará excedentes para el desarrollo del país.
+  
+Por ello, es necesaria la participación protagónica del Estado para garantizar que: a) los recursos naturales no sean objeto de explotación irracional, b) las instituciones científicas nacionales y extranjeras respeten los derechos de propiedad del Estado boliviano sobre la variedad genética existente y c) el beneficio sostenible y distribución justa de los excedentes privilegie a los actores participantes (comunidades rurales y pueblos indígenas y originarios).
+  
+La idea central es que, a partir de sus excedentes, los sectores estratégicos, además de reinvertir, provea recursos a los sectores generadores de ingresos y empleo para contribuir a diversificar la economía y beneficiar al desarrollo del área social. Esta propuesta requiere revisar el destino de los recursos provenientes de regalías, impuesto directo a los hidrocarburos (IDH) y de otros ingresos procedentes de los sectores estratégicos.
+  
+Los sectores generadores de ingresos y empleo están integrados por: desarrollo agropecuario, transformación industrial, manufacturera y artesanal, turismo y vivienda que ocupan la totalidad del territorio nacional. Se caracterizan por ser intensivos en mano de obra y con capacidad de generar ingresos para el conjunto de la población, por lo que se requiere un Estado promotor del desarrollo.
+  
+Esto implica un Estado identifica capacidades, debilidades, potencialidades y necesidades de cada uno de los sectores para luego generar intervenciones selectivas y condiciones básicas de normativa, infraestructura, servicios financieros, no financieros, y de articulación entre las distintas formas de producción.
+  
+Dichos sectores están integrados por diversas actividades productivas, comerciales y de servicios, y al mismo tiempo de tamaños, formas de organización y escalas de producción. En el área urbana se encuentran unidades micro, pequeñas, medianas y grandes empresas, además de cooperativas y artesanías. En el área rural están las grandes, medianas y pequeñas empresas, organizaciones económicas campesinas (OECAS), comunidades campesinas, pueblos indígenas y originarios, cooperativas y artesanías. El Estado apoyará a todas estas unidades mediante políticas con criterios de equidad, asociatividad, temporalidad y prioridad, considerando las potencialidades, equilibrios y dinamismos regionales y sectoriales.
+  
+Estos objetivos se lograrán con la transferencia de recursos de los sectores estratégicos para efectivizar el incremento de la productividad, el fortalecimiento de la organización institucional y una dinámica propia en los sectores generadores de ingreso y empleo.
+  
+A su vez, estos sectores proveerán de insumos y bienes finales a los sectores estratégicos para contribuir a la formación de un tejido productivo denso y cohesionado.
+  
+Los sectores de infraestructura y apoyo a la producción están encargados de crear condiciones necesarias para transformar la matriz productiva. Estos sectores son: transportes (sistema carretero principalmente, ferroviario, aéreo y fluvial lacustre) y telecomunicaciones. Además de ser articuladores de la matriz productiva, también cumplen un rol fundamental de apoyo al desarrollo de las políticas sociales.
+  
+Los sectores de apoyo a la producción facilitarán medios e instrumentos esenciales para mejorar la productividad y viabilizar la producción. Este objetivo se logrará con el apoyo del desarrollo tecnológico y recursos financieros, mediante el Sistema Nacional de Financiamiento para el Desarrollo Productivo (SINAFID) que incluye al Banco de Desarrollo Productivo, y el Sistema Boliviano de Innovación.
+  
+El SINAFID facilitará el acceso de las organizaciones económicas y sociales del campo y la ciudad, que fueron excluidas del sistema financiero tradicional, y contribuirá a diversificar la economía y ampliar la capacidad productiva de estas organizaciones. El ámbito de acción del sistema financiero se proyecta inicialmente a los complejos productivos integrales y en el largo plazo llegará a todas las ramas y sectores productivos.
+
+### Sección 4.2 Políticas nacionales productivas
+
+### 4.2.1 Políticas productivas selectivas
+
+El punto de quiebre del Plan Nacional de Desarrollo con relación al modelo anterior es que el país tendrá políticas productivas selectivas y transparentes. Esto significa un cambio del enfoque anterior de estrategias neutrales y horizontales del neoliberalismo, con las que “ningún sector sería privilegiado”. Pese a esta política supuestamente neutral, se deber considerar que el sector “capitalizado transnacional” estableció el sector privilegiado estratégico de los gobiernos neoliberales de los últimos diez años.
+  
+Las políticas productivas selectivas requieren criterios de priorización en las distintas áreas. De esta manera, se privilegia a los sectores estratégicos y se establecen interrelaciones con los otros para conformar un entramado productivo (la nueva matriz productiva) integrado, potenciado, articulado y diversificado.
+  
+La política nacional tiene el objetivo de desarrollar simultáneamente, con diferentes intensidades en función de sus especificidades, tanto a los sectores estratégicos como a los generadores de empleo e ingresos. Reconoce la heterogeneidad productiva, social, territorial y comunitaria del país, por lo tanto se aplicarán medidas diferenciadas.
+  
+La política productiva será inclusiva e incentivará la formación de agrupaciones y asociaciones empresariales como consorcios y diversas formas de asociatividad que combinen diferentes tamaños y formas de organización de la producción, favoreciendo la integración horizontal y vertical, en el marco del enfoque de Complejos Productivos Integrales.
+  
+La política pública productiva selectiva priorizará las actividades que contribuyan a generar valor agregado y diversifiquen la producción nacional, valorándola a partir de crear y posicionar la imagen de país mediante la marca boliviana. Asimismo, priorizará el desarrollo rural con enfoque intersectorial porque el subdesarrollo y la pobreza se concentran en dicha área y presenta múltiples facetas.
+  
+El rol del Estado promotor y protagonista del desarrollo responderá al contexto internacional asumiendo el control y propiedad del uso del excedente económico.
+
+### 4.2.2 Política comercial estratégica
+
+En el marco de la política productiva, la política comercial estratégica se centra en aprovechar el dinamismo de la demanda externa y de las potencialidades del mercado interno. Este énfasis significa un cambio del enfoque tradicional que estaba orientado principalmente a las exportaciones.
+  
+La política de comercio exterior forma parte de la nueva modalidad de relacionamiento económico internacional, consistente en un patrón exportador diversificado y con mayor valor agregado. Esta política implica el uso de criterios de selectividad en la aplicación de incentivos fiscales, financieros e institucionales a las exportaciones. Con relación a las importaciones, se implementarán medidas apropiadas para proteger al mercado interno frente al contrabando y a las prácticas desleales de comercio.
+  
+El nuevo enfoque implica el uso racional y oportuno de los aranceles, de las licencias previas y cupos de importación para estabilizar la producción nacional y el mercado interno frente a la competencia internacional. Estas medidas fueron aplicadas en los últimos años en forma aislada y parcial, sin responder a un régimen de importaciones de carácter integral.
+  
+En materia de exportaciones se espera llegar a 4.800 millones de dólares americanos en 2011. La balanza comercial y la balanza de pagos en cuenta corriente continuarán con superávit.
+
+### 4.2.3 Política de seguridad con soberanía alimentaria
+
+Para cumplir el paradigma Vivir Bien es necesario lograr seguridad alimentaria, complementada con la soberanía alimentaria. En este sentido, el Estado, como promotor y protagonista del desarrollo, establecerá esta política como un instrumento de desarrollo y fortalecimiento de la capacidad productiva para dotar oportunamente alimentos básicos y de consumo masivo a precios justos.
+  
+En el marco de esta política, se dará prioridad a la producción diversificada de alimentos para el autoconsumo y para el mercado nacional, basada en la producción agropecuaria y de transformación, con énfasis en la producción agroecológica y acorde con las necesidades de la población y el potencial de los ecosistemas. También se impulsará la asociatividad, el comunitarismo y todas las formas socioeconómicas de organización de los productores.
+  
+Esto implica que la política de seguridad alimentaría con soberanía privilegiará la producción nacional en términos de cantidad y calidad para el mercado interno, destinará los excedentes al mercado internacional, logrará transformar y consolidar los sistemas productivos alimenticios, ecológicos, sustentables con responsabilidad social.
+  
+Asimismo, se desarrollará investigaciones aplicadas que faciliten la toma de decisiones y mejoren los procesos productivos, además de cambiar los patrones alimenticios mediante la educación, información, comunicación y capacitación.
+
+### 4.2.4 Política de inversiones
+
+Para aumentar la producción será necesario incrementar y lograr una mayor eficiencia de la inversión. La nueva política productiva tiene como herramienta central una estrategia de inversiones que pone énfasis en el sector público, sin descuidar el rol de la inversión privada nacional y de la inversión extranjera directa (IED).
+  
+En el pasado reciente, la inversión del sector público se orientó principalmente a la infraestructura de apoyo a la producción, con un nivel de participación de 7 por ciento del Producto Interno Bruto (PIB) entre 1990 y 2005. La nueva política asigna a la inversión pública un rol productivo de acuerdo con las prioridades de la matriz productiva orientadas a lograr los objetivos del Vivir Bien. En este sentido, la inversión pública tendrá carácter plurianual y se estima aumentar su participación a un 9,5 por ciento del PIB en 2011.
+  
+En el anterior modelo, la inversión privada nacional no cumplió un rol motor en el crecimiento de la economía se mantuvo con una participación promedio de 4,4 por ciento del PIB y no participó en el proceso de capitalización. En el PND, por el contrario, la inversión privada juega un papel importante en los sectores de la matriz productiva, siendo los más relevantes los generadores de ingresos y empleo con una participación proyectada de 8 por ciento del PIB para el año 2011.
+  
+En los hechos, la IED fue el motor principal de la economía al finalizar la década del noventa, con más de mil millones de dólares de inversión, pero después perdió dinamismo hasta registrar niveles negativos. En el período 1990 a 2005 su participación promedio fue 4,5 por ciento y en las proyecciones del PND se espera que suba a 9 por ciento en 2011.
+  
+El PND contempla como próximo objetivo la elaboración de una Ley de Tratamiento y Fomento a la Inversión Extranjera con reglas claras y basada en principios de soberanía y dignidad, en un contexto de seguridad jurídica.
+  
+La mencionada ley será formulada con criterios adecuados de carácter fiscal, social, ambiental y de rentabilidad empresarial, y en principios de retribución justa para el Estado y una renta apropiada por el aprovechamiento de los recursos naturales no renovables. Asimismo se debe considerar una licencia social y ambiental para que los beneficios sean recibidos por las comunidades y distritos donde se asienta la inversión, evitando el deterioro del medio ambiente.
+  
+El Estado garantizará la seguridad jurídica para la inversión extranjera y el gobierno un entorno nacional social y político estable. Se establecerán normas a las que se adecuará la inversión extranjera como, por ejemplo, la obligatoriedad de la empresa a registrar la información sobre su movimiento económico financiero. Se autorizará la inversión extranjera de acuerdo con su contribución a: la transferencia tecnológica, la generación de empleo, la preferencia en el uso de materia prima, insumos y servicios nacionales. El gobierno, a su vez, promocionará alianzas con capitales nacionales y nivelará desventajas en la negociación.
+
+### 4.2.5 Política de financiamiento al sector productivo
+
+La política de financiamiento al sector productivo prevé estructurar un sistema nacional de financiamiento público y privado, que será un mecanismo de promoción y articulación económica con equidad. El nuevo sistema asignará recursos de manera eficiente hacia los sectores productivos con alta potencialidad, que en la actualidad no acceden a financiamiento adecuado.
+  
+El SINAFID, a través del Banco de Desarrollo Productivo (BDP), es el mecanismo para redistribuir el ingreso nacional y financiar el desarrollo productivo de sectores y regiones excluidas por efecto del limitado acceso al crédito. Exclusión, debido a políticas conservadoras del actual mercado financiero, lo que ha significado ampliar las brechas de inequidad y pobreza, concentrando el capital y el mercado. El SINAFID y el BDP permitirán la transición hacia una nueva estructura de financiamiento para el sector productivo, dentro de un marco de estabilidad macroeconómica.
+  
+La nueva matriz productiva, con la recuperación de los recursos estratégicos y en el marco del nuevo patrón de acumulación, permite que los beneficios y los excedentes económicos que se generen, sean redistribuidos a través de estas instituciones. Esta estructura impulsa procesos de desarrollos comunitarios y solidarios, revaloriza, saberes ancestrales y capacidades productivas locales, y reconoce la diversidad económica, productiva y cultural.
+  
+A través de la adecuación institucional de la Nacional Financiera Boliviana SAM (NAFIBO) a Banco de Desarrollo Productivo, Banco de Segundo piso, el Estado canalizará recursos de financiamiento para inversiones de largo plazo. La entidad privilegia la producción agropecuaria, así como la micro, pequeña y mediana empresa.
+  
+Se llegará, igualmente, con inversión en infraestructura productiva y social, a los niveles municipales, regionales y departamentales con el objeto de apoyar al proceso productivo, con énfasis en la inversión social.
+  
+El SINAFID y el BDP serán el instrumento de financiamiento de las prioridades productivas estratégicas establecidas en el Plan Nacional de Desarrollo. Estas prioridades deben ser incluyentes, privilegiando a los pequeños productores del área rural y urbana, los cuales deben someterse a mecanismos de control social de la forma asociativa correspondiente a su unidad territorial para el correcto uso de los recursos.
+  
+Este apoyo debe permitir mejorar sus niveles de producción y productividad, gracias a los créditos con bajas tasas de interés, plazos adecuados y mayores periodos de gracia. Se otorgará financiamiento para capital de inversión y operaciones, maquinaria, equipos, infraestructura productiva y recambio tecnológico para la producción.
+  
+Promoverá, asimismo, el fortalecimiento de los diferentes sectores, y complejos productivos integrales, así como la infraestructura productiva y social.
+  
+Este instrumento financiero se constituye en el eje central para crear condiciones de equidad entre los actores productivos de la economía en cuanto al acceso al financiamiento, proporcionando mecanismos e instrumentos diferenciados y especializados.
+  
+Se privilegiará igualmente la inclusión de las asociaciones productivas comunitarias rurales y urbanas a los servicios financieros mencionados, con el objeto de lograr la patrimonialización del capital social y comunitario. Esto debe lograrse en el mediano plazo, con criterios de equidad regional, sectorial, étnico cultural, de género y generacional.
+  
+Las prioridades a alcanzar son el desarrollo productivo con identidad y soberanía financiera, la mejora y ampliación de la capacidad productiva industrial con tecnología, para que los bolivianos cuenten con un empleo productivo e ingreso digno.
+
+### 4.2.6 Política de innovación y desarrollo tecnológico
+
+Otro de los quiebres con la política anterior se da en el campo de la tecnología. Se dice que el país no es competitivo respecto a salarios, infraestructura e incentivos; sin embargo, el factor más relevante que explica nuestro rezago en competitividad es el factor tecnológico que influye directamente en la productividad.
+  
+Uno de los factores centrales del cambio del patrón primario exportador consiste en la industrialización y agregación de valor a los productos. Este proceso incorporará tecnología, tanto en el nivel de equipamiento y manejo de procesos de producción, así como en la inclusión de nuevos y mejores productos para el mercado.
+  
+La nueva política asigna a la innovación y al desarrollo tecnológico un papel fundamental para el incremento de la productividad y la competitividad. Tal política será operacionalizada a través de la conformación del Sistema Boliviano de Innovación (SBI), que vincula a los centros científicos y tecnológicos con los centros productivos.
+  
+El sistema se dirige a desarrollar soluciones de base tecnológica a las demandas productivas, con la incorporación de conocimientos a los procesos de generación de productos para que cumplan con los suficientes niveles de calidad, novedad, diversidad y cuenten con certificación ecológica y social.
+  
+Sin embargo, no se trata de aplicar indiscriminadamente la tecnología, sino de combinar adecuadamente los avances tecnológicos con los saberes y conocimientos ancestrales, locales y populares en un contexto de equilibrio y respeto con el medio ambiente.
+
+### 4.2.7 Política de empleo
+
+La política de empleo planteada por el Plan Nacional de Desarrollo pretende en el corto, mediano y largo plazo cambios y soluciones efectivas al desempleo, mediante acciones orientadas a una economía que diversifica sectores, multiplica actores y genera condiciones para la ampliación significativa y la mejora de fuentes de trabajo, como un escenario óptimo para transformar la matriz productiva.
+  
+En la perspectiva de largo plazo se afectarán las variables estructurales del desarrollo económico, con énfasis en la generación de empleo, como la orientación selectiva de la inversión, la distribución y la democratización del acceso a los activos productivos; así como también, la promoción del desarrollo productivo. En este sentido, favorecerá actividades intensivas en mano de obra e ingresos, bajo el principio de empleo digno.
+  
+Asimismo, se desarrollarán instrumentos dirigidos a consolidar legal e institucionalmente a las diferentes formas de organizaciones de pequeños productores urbanos y rurales, a la condición de agentes económico-productivos plenos, situación que les permitirá participar de todo el proceso de producción, distribución y consumo.
+  
+En el mediano plazo, los esfuerzos se orientarán al desarrollo de cambios normativos e institucionales que garanticen el establecimiento y generación de empleo digno. Se mejorarán las condiciones productivas, a través de los instrumentos de política económica y de carácter normativo, como la vigencia plena de la legislación que proteja al trabajador e incentive al empleador.
+  
+También se promoverán acciones institucionales que repongan efectivamente las capacidades estatales para la nivelación de asimetrías en las relaciones laborales, regulación, seguimiento y generación de mecanismos institucionales de concertación. Se fortalecerán las organizaciones de trabajadores, promoverá el empleo y la capacitación laboral, así como de iniciativas productivas.
+  
+En el corto plazo se desarrollarán acciones para cualificar y dignificar el empleo existente mediante incentivos a la formalización y acceso a sistemas de seguro de corto y largo plazo; así como al goce de todos los beneficios previstos por ley. La dignificación y generación de empleo se basará en la reactivación del aparato productivo.
+
+### 4.2.8 Política de gestión ambiental
+
+El territorio boliviano ha sufrido un paulatino deterioro ambiental a causa de una explotación incontrolada de sus recursos naturales, que lejos de beneficiar al país, ha enriquecido solamente a ciertos grupos que han detentado el poder. La explotación irracional se realizó bajo la visión de una política neoliberal que fijó como principal parámetro de desarrollo la atracción y protección de las inversiones externas.
+  
+La política de gestión ambiental busca el logro del equilibrio entre la necesidad de desarrollo y la conservación del medio ambiente. Este objetivo se alcanza fortaleciendo el rol del Estado en la prevención, preservación, mitigación y remediación, en el control de la calidad ambiental y en la protección de los recursos naturales, sobre la base de una amplia participación social.
+  
+La recuperación de la soberanía sobre los recursos naturales renovables y no renovables, implica también su conservación, protección y el fomento a la producción orgánica y ecológica. En este sentido, las políticas nacionales están ahora más que nunca enfocadas en la implementación de una visión holística que toma de la naturaleza lo que necesita para su desarrollo, pero que a su vez la protege. Estas políticas transversalizan el tema ambiental en todos los sectores del Plan Nacional de Desarrollo que permita el Vivir Bien, en armonía con la naturaleza.
+  
+La política de Gestión Ambiental también prioriza las áreas de influencia más degradadas, los sectores de mayor impacto (minería, hidrocarburos, entre otros) y los grupos sociales más afectados. Impulsa la educación ambiental para formar una sociedad conciente de sus derechos y obligaciones en relación a los temas de calidad ambiental, biodiversidad y recursos naturales, incluyendo la valoración y recuperación de los conocimientos y los saberes ancestrales de las comunidades indígenas y originarias.
+
+### Sección 4.3 Intervencion intersectorial: Complejos Productivos Integrales (CPI)
+
+El aparato productivo nacional se caracteriza por la baja productividad de un elevado porcentaje de los pequeños productores15 con reducidos excedentes comercializables y limitadas relaciones con el resto de la economía. Al mismo tiempo, existen segmentos modernos que tienen altos niveles de productividad.
+  
+Estas marcadas asimetrías en la productividad son consecuencia del acceso inequitativo a los medios de producción, procesos tecnológicos y organizativos. A su vez, la heterogeneidad estructural causa la articulación incipiente de los procesos productivos de las diferentes unidades de producción y una débil integración de la economía nacional, provocando relaciones asimétricas en la generación y distribución del ingreso, y la disolución de los esfuerzos y recursos invertidos. Situación que se acrecentó con la aplicación de políticas de achicamiento del Estado y medidas homogéneas de apoyo a los sectores productivos.
+  
+Bolivia experimentó acciones concretas favoreciendo, desde el Estado, al reducido segmento moderno, conformado por empresas grandes, bajo el supuesto que absorberían mano de obra en actividades de mayor productividad y remolcarían hacia la modernidad al segmento tradicional; los resultados de esta propuesta fueron adversos para el conjunto de la economía y de la sociedad nacional puesto que no tuvieron el efecto rebalse esperado, acrecentando así la desigualdad y la exclusión.
+  
+La segunda perspectiva pretendía fomentar a los microempresarios, al margen de una propuesta de desarrollo concebida desde el Estado y sin un análisis de sus potencialidades, situación que fracasó en la práctica.
+  
+**Propuesta de cambio**
+  
+Ante estos hechos, el PND concibe al Estado como un actor central en la economía, promotor y protagonista del desarrollo, que genere capacidades para reorientar el proceso productivo hacia las necesidades de la población a través de la transformación de la matriz productiva, buscando equidad en el proceso de distribución de los recursos públicos y priorizando su apoyo a los productores menos favorecidos.
+  
+En este contexto, los Complejos Productivos Integrales (CPI’s) emergen como una estrategia de desarrollo que amplía su enfoque hacia las dimensiones social, cultural, política, ambiental, anteriormente ausentes en las propuestas de crecimiento.
+  
+Su objetivo es dinamizar el desarrollo económico y social de forma sostenible, integral y diversificada en el contexto del territorio nacional. Donde el Estado interviene favoreciendo a los pequeños productores a fin de impulsar su asociatividad. Afrontando así, la heterogeneidad productiva y la incipiente articulación. En procura de reducir las distancias, en términos de productividad, entre los pequeños y grandes productores, y tendiendo hacia un desarrollo integral, generando excedentes que contribuyan a la acumulación interna y la distribución y redistribución equitativa del ingreso.
+  
+Esta estrategia representa también una contrapropuesta al enfoque de las Cadenas Productivas que tenía como eje central el producto y el mercado de exportación. Por el contrario, los Complejos Productivos Integrales buscan generar al interior del circuito productivo relaciones de distribución favorables a los segmentos más débiles otorgándoles una justa participación de los beneficios de su trabajo.
+  
+Asimismo, los Complejos Productivos Integrales denotan una orientación al mercado interno y una inserción selectiva en el mercado externo, reconociendo la heterogeneidad de la economía nacional donde el conjunto mayoritario de actividades se desenvuelven en lógicas y ámbitos distintos, protagonizadas de forma predominante por economías campesinas, comunitarias y de subsistencia, así como el segmento informal.
+  
+Es así que, los CPI's son entendidos como un conjunto articulado de actores, actividades condiciones y relaciones sociales de producción en torno a la matriz productiva, en el ámbito sectorial y territorial, donde el Estado interviene generando equidad, en la redistribución de la riqueza, distribución y redistribución del ingreso, fortaleciendo y empoderando, de manera prioritaria, a los pequeños productores urbanos y rurales para Vivir Bien.
+  
+*Gráfico N° 6 - Estructura de complejos productivos integrales*
+  
+![Estructura de complejos productivos integrales](#TODO-link)
+  
+Los CPI’s se cimientan en la identificación de tres ejes: el *actor* como centro y objetivo de la estrategia, el *sector* que determina las actividades productivas y el *territorio* como el espacio geográfico donde se llevan a cabo los procesos productivos. Sobre estos ejes el Estado interviene como promotor y, en los sectores estratégicos, como protagonista del desarrollo, fortaleciéndolos y promoviendo la articulación entre los siguientes componentes:
+  
+\* Actores: pequeños, medianos y grandes productores, público y privados, cámaras de empresarios, entidades financieras, instancias subnacionales (municipales y prefecturales), universidades e institutos técnicos, centros de capacitación técnico empresarial, centros de extensión tecnológica, Organizaciones no Gubernamentales y otras organizaciones de la sociedad civil.
+  
+\* Las actividades estrechamente ligadas al CPI están relacionadas con la producción en todas sus fases: la recolección, extracción, producción primaria, almacenaje, transformación, diseño, industrialización, distribución, comercialización, etc. Se incluyen también todas las actividades conexas y relacionadas a la producción como el apoyo logístico, la innovación, la investigación, la educación, el financiamiento, etc.
+  
+\* Las condiciones básicas de la producción vinculadas al CPI tienen que ver con factores básicos, como la infraestructura (ya sea productiva o de apoyo a la producción), el acceso a la información, el capital humano , la asociatividad formada entre los actores, el acceso a la tecnología, el acceso a recursos financieros, la normativa vigente y el régimen fiscal, las características de la región geográfica (su vocación productiva, sus recursos naturales, la concentración de sus actores)
+  
+\* Las relaciones, comprende: Las relaciones sociales de producción, expresadas en la propiedad de los medios de producción y la distribución del valor generado en los procesos productivos (asumiendo valores como la reciprocidad, complementariedad, solidaridad, respeto por el medio ambiente, entre otros); articulaciones intrasectoriales (vínculos al interior del proceso de producción desde su etapa primaria hasta llegar al consumidor final); y relaciones intersectoriales entre diferentes sectores, complementarios al proceso de producción y la generación de condiciones.
+  
+En este sentido se pretende conformar entramados productivos integrados, articulados y diversificados con la participación de los distintos actores en procesos de producción, transformación y comercialización que impulsan la inserción justa en el mercado nacional y de exportación en directa articulación con la dimensión social, cultural, política y ambiental.
+  
+Consecuentemente los CPI's se caracterizan por ser:
+  
+\* Sistémicos porque interactúan unos con otros y a su vez, al interior de ellos sus componentes interactúan entre sí. Estas interrelaciones generan sinergias y permiten articular los sectores que componen el PND, en especial los de la matriz productiva.
+  
+\* Integrales porque, en el marco de la concepción del Vivir Bien, buscan la realización plena del ser humano tanto en el ámbito material, como subjetivo, por lo que incluye actividades vinculadas directamente con el proceso productivo así como relaciones con la educación, salud, etc. Se basan en el aprovechamiento racional y sostenible de los recursos naturales (armonía con la naturaleza), como también contempla el respecto a la diversidad cultural.
+  
+\* Equitativos, porque a través de la distribución y redistribución buscan la reducción de la desigualdad económica y social en sus múltiples manifestaciones.
+  
+Bajo el enfoque estratégico sectorial se pretende identificar sectores potenciales de la actividad productiva, que por su dinámica, serán capaces de generar sinergias, por sus características abarcan ámbitos territoriales amplios, y en ocasiones gran parte del país integrando a actores de diferentes territorios del país.
+  
+Bajo el enfoque estratégico territorial se pretende identificar espacios geográficos concretos, en los que se desenvuelven dos o más rubros productivos de actividades económicas que en algunos aspectos se complementan, en otros compiten, o se potencian entre sí. Estos rubros promueven y facilitan procesos de desarrollo simultáneo y progresivo del conjunto de las capacidades productivas que permiten interactuar con economías competitivas, beneficiando con preferencia a los productores más pobres en el marco del desarrollo integral territorial, el respeto a las formas tradicionales de organización en el territorio, la seguridad jurídica de la tierra y la sustentabilidad ambiental.
+
+### Sección 4.4 Sectores estratégicos
+
+### 4.4.1 Hidrocarburos
+
+A raíz del proceso de capitalización de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) y, posteriormente con la privatización de las actividades de producción y comercialización de hidrocarburos, transfiriendo la administración y control de la venta de estos recursos naturales a favor de las empresas transnacionales, se consumó la desarticulación y fragmentación de la estratégica empresa estatal YPFB. Consecuentemente el Estado boliviano perdió el control y soberanía de sus recursos hidrocarburíferos, siendo el menos favorecido al exponer nuestras reservas a una explotación irracional, bajo un marco legal que permitió que las empresas extranjeras se apropien del excedente.
+  
+A partir de la promulgación de la Ley de Hidrocarburos 3058, del Decreto Supremo 28701 de Nacionalización “Héroes del Chaco” y la aprobación y firma de los contratos con las empresas petroleras, el Estado boliviano recupera la propiedad y asume el control de todo el ciclo productivo de los hidrocarburos. Bajo este nuevo contexto, la profundización del proceso de nacionalización implica un gran desafío para el sector, porque al haberse afectado millonarios intereses transnacionales y al mismo tiempo, haberse generado ingresos importantes para el país, surgen dificultades de orden político y social tanto por el lado de los sectores tradicionales de poder, como por el lado de los intereses regionales; en contraste, los recursos generados por la actividad hidrocarburífera aún no se reinvierten en el sector.
+  
+Por otra parte, el país hereda una matriz energética basada en el uso ineficiente de los recursos energéticos en el mercado interno, que emplea fundamentalmente los productos derivados de petróleo para el desarrollo de actividades productivas, mientras que, a pesar de ser más abundante y limpio, el gas natural aún se comercializa fundamentalmente al exterior y en estado primario. Asimismo, el acceso y distribución de hidrocarburos al mercado interno aún es muy limitado, por su escasa y costosa infraestructura de distribución. Producto de esta situación, el país enfrenta problemas de provisión de carburantes y generación de energía eléctrica, haciéndose dependiente del diesel importado, hecho que contradice su condición de exportador de hidrocarburos.
+  
+Asimismo, las instancias del sector (Ministerio de Hidrocarburos y Energía, YPFB y Superintendencia de Hidrocarburos) aún permanecen con roles y competencias desactualizadas respecto la nueva visión de país y al nuevo contexto legal y político, mientras que la coordinación interinstitucional sectorial es todavía insuficiente.
+  
+Estas debilidades actuales del sector se contraponen a sus grandes potencialidades, como son las importantes cantidades de reservas probadas y probables de crudo y gas natural de alto valor energético, que convierten a Bolivia en el segundo país en Sudamérica con mayores reservas de gas después de Venezuela ,que alcanzan para cubrir la demanda interna y los compromisos externos por los próximos 20 años16; lo cual se expresa en una mayor dinámica de la actividad hidrocarburífera y su importante participación en el PIB nacional en los últimos años; adicionalmente, la ubicación estratégica del país le otorga el potencial de convertirse en el centro energético de la región.
+  
+**Propuesta de cambio**
+  
+El Estado boliviano, a partir de la recuperación y consolidación de la soberanía nacional sobre los recursos hidrocarburíferos – además de normar, fiscalizar, regular y controlar – asume un rol protagónico en el desarrollo del país, planificando y participando en todo el ciclo productivo de los hidrocarburos.
+  
+YPFB a nombre del Estado ejercerá el derecho propietario sobre la totalidad de los hidrocarburos, participa en todas las fases de producción de los hidrocarburos y representa al Estado en la suscripción de contratos que definen nuevas reglas con las empresas extranjeras. Por lo tanto, se cimentará un YPFB fortalecido y transparente, que en un ambiente de respeto por el marco normativo, el medio ambiente, la sociedad, la legislación laboral y el Convenio 169 de la Organización Internacional del Trabajo (OIT)17 sea capaz de generar excedentes para su reinversión y para apoyar el desarrollo nacional en una relación favorable tanto para el Estado como para sus socios e inversionistas privados.
+  
+El Sector Hidrocarburos se convierte en el motor estratégico de la economía al generar excedente y divisas que impulsen el desarrollo productivo nacional a partir de la exploración y producción, la generación de valor agregado y la industrialización de estos recursos naturales, priorizando el abasteciendo de hidrocarburos al mercado interno (especialmente del gas natural, impulsando el cambio de la matriz energética), lo que también propiciará el desarrollo de otros emprendimientos productivos. Por su localización geográfica, Bolivia se consolidará como centro distribuidor de los hidrocarburos en el cono sur de Latinoamérica mediante la ampliación y diversificación de los gasoductos, constituyéndose en un referente regional de precios, disminuyendo su dependencia externa e incrementando su capacidad para establecer mejores condiciones de volúmenes y precios de exportación captando mayores ingresos a favor del Estado.
+  
+Por otra parte, el Ministerio de Hidrocarburos y Energía, y el ente regulador y fiscalizador se encargarán de formular, evaluar y, controlar el cumplimiento de la Política Nacional de Hidrocarburos, así como regular este mercado, controlar, fiscalizar la producción de hidrocarburos y el cumplimiento de los contratos y compromisos de inversión, Asimismo, las empresas privadas nacionales y extranjeras tienen el rol de prestar servicios para generar ingresos y excedente.
+  
+**Políticas y estrategias**
+  
+**i) Recuperar y consolidar la propiedad y el control de los hidrocarburos**
+  
+Esta política se orienta a responder al mandato establecido por la Ley 3058 y el D.S. 28701 de Nacionalización de los Hidrocarburos, que en el contexto actual y de los nuevos contratos con las empresas petroleras, se constituye en una de las prioridades del país, con lo que se logrará incrementar los ingresos nacionales por concepto de regalías, participaciones e impuestos.
+  
+Una de las estrategias para este cometido es *Establecer el Marco Institucional y Desarrollar el Potenciamiento de las Instituciones del Sector para Asumir su Nuevo Rol*, a través del programa de Fortalecimiento Institucional y Asistencia Técnica para el Sector Hidrocarburos, lo cual permitirá contar con instituciones (Ministerio de Hidrocarburos y Energía, YPFB y ente regulador) sólidas, articuladas y con competencias claras, capaces de asumir la propiedad y el control de los hidrocarburos en beneficio del país, así como el desarrollo de estrategias sectoriales para profundizar el proceso de nacionalización. También contempla el programa de Fortalecimiento a la Gestión Socio Ambiental Integral del Sector Hidrocarburos.
+  
+Una segunda estrategia se relaciona con el *Control y Fiscalización de Operaciones en todo el Ciclo Productivo de los Hidrocarburos*, que mediante el programa para Establecer Sistemas y Mecanismos de Control, posibilitará un adecuado control de la producción y comercialización de nuestros recursos hidrocarburíferos, tanto en la optimización de las inversiones y costos, en cantidad y calidad, así como en volumen y precios (tanto en el down-stream como en el up-stream18).
+  
+**ii) Exploración, explotación e incremento del potencial hidrocarburífero nacional**
+  
+Se orienta a posibilitar que YPFB pueda cumplir con su nueva responsabilidad de operar en el up-stream establecida en la Ley 3058 de Hidrocarburos. Al efecto, se contemplan estrategias para: *Desarrollar, Incrementar y Cuantificar las Reservas Hidrocarburíferas*, mediante el programa Prospección Exploratoria e Incremento de Reservas en Zonas Hidrocarburíferas tradicionales y no tradicionales; *Desarrollar Nuevos Campos Hidrocarburíferos para Incrementar la Producción*, a través de su programa de Explotación Racional de Reservorios, con lo que se buscará garantizar la producción de los volúmenes requeridos para la industrialización de los hidrocarburos y el cumplimiento de los compromisos de exportación.
+  
+**iii) Industrializar los recursos hidrocarburíferos para generar valor agregado**
+  
+Esta política persigue que los recursos hidrocarburíferos (gas y petróleo) puedan ser industrializados buscando un mayor valor agregado, aspecto que implica un mayor beneficio económico y social para todo el país, constituyendo un paso fundamental para cambiar el patrón primario exportador que ha regido en la historia económica del país. Asimismo, se busca consolidar la nacionalización y la propiedad de las refinerías de petróleo más grandes e importantes a cargo de YPFB y la apropiación y desarrollo tecnológico de los procesos en sus fases de producción, organización y gestión de las empresas para asegurar el abastecimiento de combustibles líquidos, gas natural y otros productos derivados para el mercado interno y la exportación.
+  
+Esta política será implementada a través de la estrategia de *Industrialización del Gas Natural e Incremento de la Capacidad de Producción de Hidrocarburos Líquidos*, a desarrollarse a través del programa de Complejos Industriales del Gas, que contemplan plantas de extracción de licuables de las corrientes de Gas natural de exportación a la Argentina y Brasil, para recuperar el GLP y gasolinas para el mercado interno y los excedentes para exportación, de petroquímica (polietileno y urea-amoniaco), y de industria termoeléctrica, para lo cual se identificarán y desarrollarán los proyectos que den mayor beneficio económico y social al país y las regiones. Además del programa de Incremento de la Capacidad de Refinación de Combustibles Líquidos, que también conlleva la producción de derivados del petróleo para el mercado interno.
+  
+**iv) Garantizar la seguridad energética nacional y consolidar el país como centro energético regional**
+  
+Contrariamente a las políticas neoliberales que rigieron al sector, caracterizada por la exportación de nuestros recursos hidrocarburíferos en desfavorables condiciones para el Estado, se pretende ahora consolidar primero el abastecimiento del mercado interno y luego, posicionar al país como centro energético de la región, en coordinación con los sectores correspondientes y en el marco de una planificación y desarrollo de nuestros recursos energéticos en función de las proyecciones de oferta y demanda que visualice el corto, mediano y largo plazo. Para ello se prevén tres estrategias:
+  
+La primera consiste en el Cambio de la Matriz Energética que incluye el programa de Masificación de las Instalaciones de Gas Natural, con cuyos proyectos se pretende alcanzar al menos 150 mil conexiones domiciliarias de gas natural y, el programa de Sustitución de Energéticos (Conversión Productiva) para reemplazar el uso de gasolina, diesel, GLP y otros combustibles líquidos por el gas natural. En este propósito se incluye el programa de Desarrollo de Sistemas Alternativos de Transporte y Distribución de Gas para abastecer a regiones alejadas de la red de ductos.
+  
+La segunda estrategia se denomina Desarrollo de la Red de Distribución, que incluye el programa de Desarrollo de la Infraestructura de Transporte por Ductos y Almacenaje de Gas Natural y Líquidos para el Mercado Interno (Incremento de la Capacidad Instalada de Distribución), englobando proyectos que permitirán el abastecimiento de gas natural al interior del país. Finalmente, la estrategia de Desarrollo de la Infraestructura de Transporte y Ductos de Gas Natural para el Mercado Externo que con su programa Diseño y Construcción de Nuevos Ductos de Transporte de Gas para su Exportación, permitirá a Bolivia alcanzar y/o ampliar mercados en el exterior del país, principalmente a la Argentina y Brasil; sin descuidar la posibilidad de exportación de combustibles líquidos y GLP.
+
+### 4.4.2 Minería y metalurgia
+
+La minería en el contexto mundial ha experimentado importantes transformaciones estructurales que han configurado escenarios que el país debe enfrentar; la reducción de las tasas de crecimiento de la demanda de minerales y metales originada en largos periodos de recesión en las economías industrializadas, han provocado una sostenida caída en los precios de los minerales en el largo plazo, en un contexto de mercado de capitales de riesgo, cada vez más restringido. Entonces, en el último cuarto de siglo el sector minero boliviano fue llevado a una larga fase de estancamiento que se expresó, principalmente, en la declinación de la importancia de su contribución al Producto Interno Bruto (PIB), a las exportaciones y al empleo, prevalecientes hasta el 2004.
+  
+Las causas fueron la baja generalizada de precios de los metales en los mercados internacionales y, en el país, la implementación de una estructura normativa orientada al retiro del Estado de su rol productivo, de promoción y fomento de la actividad minera, lo cual condujo a la destrucción del aparato productivo estatal, mediante la imposición de medidas de ajuste estructural19,se transfirieron las operaciones de la Corporación Minera de Bolivia (COMIBOL) al sector privado sin lograr las inversiones esperadas, a costa del agotamiento de reservas, rezago tecnológico, escasa generación de valor agregado y un alto costo social, retirando más de 30.000 trabajadores mineros metalúrgicos, lo que dio lugar al surgimiento de la minería cooperativa y chica (que operan con grandes limitaciones técnicas y de gestión).
+  
+Asimismo, el marco jurídico vigente es insuficiente, no posibilita el control y fiscalización y el régimen impositivo actual da lugar a débiles recaudaciones para el Estado, sin una distribución equitativa que beneficie a las comunidades productoras.
+  
+A pesar de ello, Bolivia tiene potencialidades geomineralógicas de alto valor económico que pueden desarrollarse si se superan factores adversos, y se realizan inversiones en prospección y exploración en el resto del 75 por ciento del territorio nacional aun no explorado. Este emprendimiento permitirá nuevas operaciones en yacimientos mineros de explotación.
+  
+**Propuesta de cambio**
+  
+La base del cambio propuesto para el sector minero metalúrgico, se sustenta en la contribución y generación de excedentes mediante políticas que impacten desde un nuevo marco jurídico favorable al país y a los socios inversionistas privados, cambiando el patrón primario exportador, y viabilizar una nueva visión del sector con un modelo que, promueva la actividad minera con agregación de valor y contribuya a la industrialización.
+  
+El Estado, en su nuevo rol, participará directamente en el desarrollo de proyectos geológicos, mineros y metalúrgicos estratégicos, garantizando el desarrollo de la iniciativa privada, con atracción de inversión extranjera, y realizará un mejor uso y destino del excedente económico promoviendo la actividad productiva de las organizaciones sociales y comunitarias, que se encuentran al entorno de las operaciones mineras, contribuyendo a desmontar el colonialismo.
+  
+Un elemento fundamental para alcanzar los objetivos de las políticas mineras es la reingeniería institucional del sector minero estatal que permita contar con eficiente capacidad institucional para registrar, controlar y fiscalizar las concesiones mineras, participar activamente en las actividades de prospección y exploración minera y realizar operaciones en todo el circuito productivo con generación de valor agregado. El Estado también ejercerá el control de la comercialización de minerales y metales y apoyará el acopio y comercialización de la producción de las cooperativas y mineros chicos. Finalmente, participará de los excedentes mineros de forma directa en las empresas dependientes de COMIBOL o en asociación con el sector privado, e implementará un nuevo régimen tributario que permita mayores ingresos fiscales.
+  
+Esta propuesta se constituye en el inicio de un proceso de planificación a largo plazo, con sólidas bases estructurales para el sector minero.
+  
+**Políticas y estrategias**
+  
+**i) Nuevo marco jurídico normativo para el desarrollo integral de la minería**
+  
+La nueva Ley de Minería permitirá el control estratégico de los recursos minerales en el territorio nacional mediante el:
+  
+a) registro, control y fiscalización de los operadores mineros y sus actividades en el circuito productivo;
+  
+b) administración de las concesiones mineras a cargo de un organismo de servicio especializado, con el objeto de que las mismas sean trabajadas y no retenidas improductivamente, bajo sanción de caducidad por el no pago de patentes mineras y no cumplir con la función social y económica;
+  
+c) un sistema impositivo que permita al Estado obtener mayores ingresos sin afectar la viabilidad de las inversiones actuales ni futuras;
+  
+d) registro y control de las actividades de comercialización de minerales a fin de que éstas se realicen con transparencia, en beneficio de los productores y del Estado creando el Servicio Nacional de Registro y Control de la
+  
+Comercialización de Minerales y Metales (SENARECOM);
+  
+e) normas y procedimientos que regulen la actividad minera. Asimismo la Ley de Minería definirá los nuevos roles de las instituciones estatales del sector minero, así como de los subsectores de la minería y las comunidades indígenas. Para esto se cuenta con el programa Reforma del marco legal con visión eficiente y transparente, que se enmarca en la estrategia de *Modificar el marco jurídico regulatorio y productivo del sector minero*.
+  
+**ii) Participación del Estado como protagonista y promotor del desarrollo de la Minería y Metalurgia**
+  
+El Estado tendrá una participación estratégica, activa y directa en todo el proceso productivo minero metalúrgico mediante sus instituciones fundamentales como la COMIBOL, Empresa Metalúrgica Vinto (EMV), Empresa Siderúrgica del Mutún (ESM), Servicio Geológico Técnico de Minas (SERGEOTECMIN) y las entidades normativas, reguladoras y de investigación. Para esto, y en el marco de la estrategia de *Reingeniería institucional de organizaciones mineras*, se desarrollará el programa Reforma operativa del marco institucional de las entidades del sector.
+  
+La intervención del Estado en el desarrollo minero será con facultades de control, fiscalización y promoción en todo el circuito productivo, desde la otorgación de concesiones mineras hasta la industrialización, restituyendo a COMIBOL su rol productivo y mejorando la participación del Estado en los beneficios de la actividad minera vía régimen impositivo. Asimismo, la intervención del Estado se manifestará en control y participación en la implementación de medidas que contribuyan a un mejor desempeño ambiental sostenible de los operadores mineros.
+  
+El rol activo del Estado también se expresará en su función de protagonista y promotor de una actividad minera planificada, racional, inclusiva, moderna, sistematizada, y socialmente aceptable, en la que participen de manera armónica e integral el sector público, pueblos indígenas, originarios, comunidades campesinas y los otros subsectores: grande, mediano, chico y cooperativo. Además, por tratarse de un sector estratégico para el desarrollo nacional, el Estado brindará la seguridad necesaria para su desarrollo y expansión.
+  
+**iii) Desarrollo y diversificación del potencial minero metalúrgico del país.**
+  
+La política minero metalúrgica contenida en el Plan Nacional de Desarrollo reconoce que la base de la actividad minera son los recursos minerales, por esta razón el Estado emprenderá la estrategia de *Aprovechamiento del potencial geomineralógico para incrementar el aparato productivo nacional*, apoyando con las acciones y medidas necesarias para incrementar el conocimiento del potencial minero del territorio nacional e impulsar su efectivización, vía el Programa de prospección y exploración minera en el territorio nacional y el Programa de promoción de inversiones mineras con amplia y actualizada información, en reservas mineras económicamente explotables, promoviendo el descubrimiento de nuevos yacimientos que signifiquen beneficio económico para el país, para los operadores y las comunidades. Por esta razón, la prospección y exploración serán en el futuro próximo las actividades mineras de mayor importancia y serán ejecutadas por COMIBOL en sus concesiones y por SERGEOTECMIN, fortalecido técnica y financieramente, en el resto del país. La iniciativa privada en actividades de prospección y exploración minera también recibirá un gran impulso e incentivo.
+  
+Por su parte, la estrategia de *Generación de valor agregado en el sector minero* se apoya en cuatro programas: De reactivación productiva en plantas metalúrgicas y yacimientos, De desarrollo minero metalúrgico en plantas de COMIBOL, De Aprovechamiento integral de los recursos evaporíticos del salar de Uyuni y de retratamiento y aprovechamiento de colas y desmontes de COMIBOL. Los mismos que permitirán la generación de valor agregado, el incremento y diversificación de la producción en la minería estatal y privada (donde se incluyan otros recursos mineralógicos metálicos y no metálicos, piedras preciosas, semipreciosas, áridos, rocas de cantera, industriales, ornamentales, recursos evaporíticos de salares, radiactivos y otros), la explotación de colas, relaves y desmontes, la recuperación y rehabilitación de la infraestructura existente para la transformación y procesamiento de minerales a través de la concentración, refinación y fundición de minerales, (Vinto, Telamayu y otros), y la comercialización bajo control, son los objetivos prioritarios de la nueva etapa de la minería.
+  
+También contempla el impulso y apoyo a los proyectos en actual ejecución, estatales y privados. En esta dirección se concretó el proyecto de explotación del hierro del Mutún, se pondrá en marcha el Complejo Metalúrgico Karachipampa, y se crearán las condiciones para la industrialización de los minerales del Salar de Uyuni. Proyectos en los que COMIBOL, a nombre del Estado, participará en toda las fases productivas, como también desarrollarán los distritos mineros de su propiedad (Huanuni - Cerro Posokoni, Corocoro, Matilde y otros). Asimismo, se otorgará el apoyo necesario para la concreción de las operaciones en San Cristóbal, San Vicente, San Bartolomé, Amayapampa y otros, tanto en el Precámbrico como en otras regiones del territorio nacional.
+  
+**iv) Fortalecimiento de la minería chica y cooperativizada**
+  
+Las características socioeconómicas de la minería chica y de la minería cooperativa, en especial el elevado número de personas que conforman cada uno de estos subsectores, y el número de concesiones a su cargo, ya sea en forma de contratos de arriendo o peticiones directas, hace necesario considerar la ejecución de programas de apoyo a ambos subsectores a fin de que los yacimientos a su cargo sean trabajados de manera racional, tecnificada y ambientalmente controlada, para así poder generar excedentes que les permitan ampliar y mejorar sus operaciones.
+  
+La estrategia para alcanzar este objetivo consiste en la *Transformación productiva, económica y social de la minería chica y cooperativa* con participación del Estado, comunidad y propios actores, resultante de un proceso de mecanización, mejoras tecnológicas, incremento de la producción y productividad, gestión administrativa eficiente y manejo ambiental adecuado, lo que se reflejará en mayores beneficios económicos y en la calidad de vida.
+  
+Estos cambios se lograrán a través del programa de asistencia técnica, financiera administrativa con la participación y compromiso de los propios actores (implementando dos mecanismos destinados a prestar dicha asistencia: El primero es el Fondo Minero de
+  
+Inversión (FOMIN), creado para apoyar a la minería cooperativa y, el segundo, el Fondo de Apoyo a la Reactivación de la Minería Chica (FAREMIN), destinado a apoyar a la minería chica) y por otro lado el programa de gestión ambiental, coadyuvará las operaciones y actividades de las cooperativas y mineros chicos a las disposiciones legales ambientales vigentes, procurando que se puedan aplicar medidas de control y administración en base a la prevención y mitigación de los impactos producidos por las actividades mineras.
+  
+**v) Participación de la comunidad**
+  
+El principio general sobre la participación de los pueblos indígenas, originarios y comunidades campesinas en los beneficios de los proyectos de exploración y explotación de recursos naturales que se desarrollan en sus tierras, establecido en el Convenio 169 de la Organización Internacional del Trabajo (OIT), ha sido incluida en la política minero metalúrgica como un nuevo elemento de análisis en la etapa de planificación de los proyectos mineros.
+  
+Uno de los procedimientos es la consulta, entendida como la presentación del proyecto minero metalúrgico a consideración de la comunidad, para que ésta conozca los posibles impactos, positivos y negativos que puedan ser causados por el proyecto sobre los factores ambientales (suelo, agua y aire), y otros impactos socioeconómicos, permitirá establecer, mediante la Licencia Ambiental, la forma en que los mismos serían prevenidos, controlados, mitigados y en su caso compensados. La consulta, llevada a cabo de manera apropiada, es un elemento importante para que pueda existir la aceptación o consentimiento de la comunidad para la realización de un proyecto minero metalúrgico en sus regiones.
+  
+Otro de los elementos fundamentales para la sostenibilidad de la actividad minera es el apoyo al desarrollo de la comunidad en cuyas tierras se ejecuta el proyecto minero. Para este propósito, se redefinirá la distribución tributaria del sector de tal manera que un porcentaje sea destinado a financiar los proyectos productivos sostenibles de la comunidad. De esta manera, el aporte del operador minero será el medio por el cual las expectativas e intereses de ambos, mineros y comunidad, puedan desarrollarse en armonía, y la minería convertirse en un pilar estratégico para el desarrollo económico y social de la población.
+
+### 4.4.3 Electricidad
+
+El modelo neoliberal impuesto con las reformas en el sector eléctrico en los años noventa, no ha logrado efectos significativos en el crecimiento de la infraestructura eléctrica, ni en la calidad del suministro, particularmente, en los sistemas aislados y en las zonas peri urbanas y rurales ni en la cobertura, que en el área urbana de Bolivia alcanzó en el 2005 a 87 por ciento, en tanto que en el área rural sólo llegó a 33 por ciento, lo que significa que más de 735 mil hogares rurales y urbanos aún no tienen acceso a este servicio. Se dejó todo emprendimiento a la iniciativa privada, sin concretar proyectos de exportación de energía eléctrica, a pesar que existe una alta demanda de electricidad en los países vecinos y que nuestro país cuenta con un enorme potencial de recursos energéticos para atender la demanda interna y externa.
+  
+La normativa actual sobre el sector electricidad no se ajusta a la realidad social y económica del país, ni a sus potencialidades. Esto porque restringe la participación de las cooperativas y empresas públicas, como el caso de la Empresa Nacional de Electricidad (ENDE), que debería jugar un rol protagónico y estratégico.
+  
+El sector eléctrico se convierte en consumidor de los recursos hidrocarburíferos para la generación de la electricidad, que a su vez se constituye en insumo indispensable para el desarrollo de los otros sectores, que serán acompañados por políticas del sector eléctrico que permitirán crear las condiciones para la instalación y mejoramiento de los sectores productivos y servicios de comunicación, educación, salud y otros.
+  
+A fin de superar la actual situación de estancamiento, se ha fijado el objetivo de consolidar un sector eléctrico eficiente que cuente con una infraestructura capaz de satisfacer la demanda interna, asegurando el acceso universal al servicio con equidad y aprovechando las fuentes energéticas, de forma racional y sostenible. Además, el aprovechamiento de la exportación de electricidad a los países vecinos, con participación del sector privado y público, lo cual permitirá situar a Bolivia como el centro energético sudamericano, preservando la soberanía y seguridad energética nacional.
+  
+**Propuesta de cambio**
+  
+Se reestablecerá la función protagónica y estratégica del Estado en el desarrollo y planificación de la industria eléctrica (con una ENDE que permita una administración sólida, transparente y rentable, respetuosa de la sociedad, del medio ambiente y de sus socios), con el objeto de garantizar el suministro eléctrico, asegurando el acceso universal a este servicio en forma sostenible y con equidad social. Se logrará diversificar las fuentes energéticas, para ejercer y afianzar la soberanía sobre los recursos y fuentes de energía eléctrica, generando seguridad energética para atender de manera prioritaria al mercado interno y alcanzar el mercado externo.
+  
+Su aporte a la matriz productiva será generar excedentes para el Estado mediante el incremento en la generación de energía eléctrica para la exportación, y a través del abastecimiento de energía al mercado interno, con el incremento de la cobertura del servicio en las áreas urbana y rural, contribuyendo así al desarrollo del país.
+  
+**Políticas y estrategias**
+  
+**i) Desarrollar la infraestructura eléctrica para atender las necesidades internas y generar excedentes con la exportación de electricidad**
+  
+Para lograr la integración eléctrica del país, se promoverá la participación activa de los sectores privado y público en la expansión de la generación y transmisión de energía eléctrica, a fin de atender la demanda creciente y apoyar el aparato productivo nacional. Asimismo, desde el Estado se promoverá la exportación de electricidad, para lograr situar a Bolivia como el centro energético sudamericano, en coordinación con el sector hidrocarburos, con ENDE jugando un rol protagónico.
+  
+Se plantea la estrategia de *Desarrollar la infraestructura eléctrica de generación y transmisión, para satisfacer la demanda interna y de exportación de electricidad*. Para cumplir con está estrategia se ejecutarán tres programas: el primero plantea la Expansión de la generación del Sistema Interconectado Nacional (SIN). El segundo programa, Expansión de la transmisión del SIN, brindará mayor confiabilidad al abastecimiento de la demanda interna y construirá líneas y obras de transmisión y subestaciones de potencia para interconectar los sistemas aislados de Tarija y Trinidad. El tercer programa: Exportación de electricidad a países vecinos, generará recursos mediante la instalación de centrales y líneas de transmisión.
+  
+**ii) Incrementar la cobertura del servicio eléctrico en el área urbana y rural, para lograr la universalización del servicio de electricidad.**
+  
+Que tiene como base la estrategia de *Incrementar la cobertura de electrificación para promover la universalización del servicio de energía eléctrica en el área urbana y rural*, desarrollando la electrificación rural como política de prioridad nacional, en el contexto integral del desarrollo social y productivo, para la atención prioritaria a los sectores de menores recursos. El Estado tendrá una mayor participación a través de planes de electrificación que incorporen mecanismos de financiamiento sostenibles y promuevan la inversión pública y privada, utilizando racionalmente todas las fuentes energéticas con respecto al medio ambiente. Se consolidará la Tarifa Dignidad, como instrumento de política sectorial para favorecer el acceso y el uso del servicio público de electricidad a las familias de bajos ingresos.
+  
+Se estimularán los usos productivos de la electricidad, contribuyendo a la reducción de la pobreza y mejorando la calidad de producción, la educación, salud, integración social.
+  
+El programa Electricidad para Vivir con Dignidad busca la universalización del servicio de energía eléctrica en el área urbana y rural, permitiendo incrementar el índice de cobertura de electrificación. En el área rural se proveerá el servicio a poblaciones menores, con la participación del Gobierno Nacional, prefecturas, gobiernos municipales y el sector privado. Contempla la implementación de proyectos que incorporan diferentes energías alternativas de suministro, que mejoren la calidad de vida e ingresos económicos de la población rural.
+  
+**iii) Soberanía e independencia energética**
+  
+Consolidar la propiedad del Estado sobre los recursos naturales que son fuentes de generación de electricidad en todo el territorio nacional y desarrollar normas para el aprovechamiento de las energías renovables, fomentando su desarrollo, explotación y garantizando la independencia energética del país.
+  
+Disponer el cambio de la matriz energética en el marco de la sostenibilidad y sustentabilidad, cumpliendo con la legislación ambiental y con los acuerdos internacionales en el marco del Protocolo de Kyoto.
+  
+La estrategia es *Desarrollar fuentes de energías renovables mediante la implementación de programas y proyectos que garanticen la independencia energética* (hidroelectricidad, geotérmica, biomasa, fotovoltaicos, eólica, etc.). Asimismo, la interconexión de sistemas aislados, la reducción de costos a productores, la contribución al TGN y el menor impacto al medio ambiente.
+  
+Se proponen, para tales efectos, los programas: De generación hidroeléctrica, que comprende la evaluación y el aprovechamiento del potencial hidroeléctrico del país; de generación eólica, que comprende la evaluación del potencial eólico en zonas del altiplano, valles y llanos del país y de Generación geotérmica, que permitirá implementar entre otros, la generación de electricidad en la zona de Laguna Colorada del Departamento de Potosí.
+  
+**iv) Consolidar la participación del Estado en el desarrollo de la industria eléctrica con soberanía y equidad social**
+  
+Incorporar al Estado en el desarrollo de la industria eléctrica, asignando un rol estratégico a ENDE, a través de un nuevo marco normativo que promueva el desarrollo integral del sector conjuntamente con el sector privado, bajo los principios de soberanía, eficiencia, seguridad energética, transparencia y equidad social, acorde con el nuevo ordenamiento político y administrativo nacional y regional del país. La estrategia de esta política es *Perfeccionar la normativa para incorporar al Estado en el desarrollo de la industria eléctrica*.
+  
+Se proponen los siguientes programas: Refundación de ENDE para contar con una entidad fortalecida y renovada y, que contempla el mejoramiento de la normativa del sector eléctrico. El programa Protección de los derechos de los consumidores para garantizar la continuidad del suministro en el servicio eléctrico, que contempla la regulación de la industria eléctrica en su totalidad. El programa Interconectar el país y exportar electricidad permitirá consolidar y viabilizar, en el largo plazo, la exportación de electricidad y consolidando a Bolivia como el centro energético de la región, con soberanía y seguridad energética
+
+### 4.4.4 Recursos ambientales
+
+Bolivia, por los recursos ambientales que posee, es uno de los 15 primeros países del mundo megadiversos; sin embargo, se encuentra entre los países más pobres de América Latina e incluso del mundo, por el bajo nivel de ingreso de su población, este problema estructural se debe, entre otras cosas, al estancamiento cíclico de la economía, determinada por el patrón primario exportador poco dinámico y por la falta de oportunidades de empleo en diferentes ramas de la producción, provocado desplazamientos de mano de obra hacia las ciudades capitales, hacia el exterior y a las actividades agrícolas del oriente del país.
+  
+Por otro lado, el territorio boliviano ha sufrido un paulatino deterioro ambiental a causa de una explotación incontrolada de sus recursos naturales desde la época de la Colonia que, lejos de beneficiar al país, ha enriquecido solamente a las elites que han detentado tradicionalmente el poder, implementando en los últimos años modelos que debilitaron el rol del Estado sobre los recursos naturales, lo que a su vez debilitó las políticas de conservación del medio ambiente reflejada en la inconsistencia del marco normativo y la inadecuada articulación institucional.
+  
+Adicionalmente, Bolivia se encuentra entre los países con mayor disponibilidad de recursos hídricos del planeta, porque se ubica en la cabecera de dos importantes cuencas continentales, la Cuenca del Plata y la Cuenca del Amazonas, y en la parte baja del sistema Hídrico del Titicaca. Este patrimonio hídrico, permite cubrir las necesidades de consumo humano, y de riego para la agricultura y otras actividades productivas.
+  
+Actualmente este recurso es considerado no renovable; el agua se ha constituido como un elemento estratégico por su creciente escasez y vulnerabilidad, a raíz de la reducción de las fuentes de agua dulce, la desaparición paulatina de las nieves cordilleranas y los hielos polares –principalmente - por el efecto de los cambios climáticos, situación que empeora por el manejo irracional de los recursos naturales. Todo ello altera el ciclo hidrológico, ocasionando fenómenos naturales de abundancia o escasez del recurso, además de estas manifestaciones y la contaminación de fuentes de agua, causada por la descontrolada actividad extractiva y productiva, amenazan la disponibilidad, acceso, uso y aprovechamiento de este recurso para el consumo humano y la subsistencia de otros seres vivos.
+  
+La consideración del agua como servicio ambiental ha generado corrientes que establecen mecanismos de venta para incentivar su conservación. Estos enfoques han conducido a que primen políticas y normas que configuraron al agua como un recurso transable en el mercado y que condujeron en muchos casos a su privatización, medidas que determinaron secuelas de desigualdad e inequidad, en el acceso a este vital elemento por parte de la población más vulnerable.
+  
+Además, tenemos que tener en cuenta que entre las potencialidades de mercado se destaca la creciente demanda mundial por productos con valor agregado y certificación de manejo sostenible. En este marco, se han proliferado nichos de mercado para productos forestales certificados y de biocomercio sostenible desarrollados a partir de criterios ambientales, sociales y económicos.
+  
+Por tanto, el liderazgo mundial de Bolivia en bosques con sello verde es una ventaja que debe ser consolidada y ampliada. Paralelamente el secuestro de carbono y las reducciones certificadas de emisiones de Gases de Efecto Invernadero (GEIs), constituyen una importante oportunidad de generación de ingresos para el país, dada la apertura de mercados internacionales para los servicios ambientales a través del Mecanismo de Desarrollo Limpio y otros mercados emergentes en el marco del Protocolo de Kyoto.
+  
+**Propuesta de cambio**
+  
+Consolidar la presencia y dominio originario del Estado en su rol promotor y protagonista del aprovechamiento sustentable de los recursos naturales, desarrollando políticas nacionales desde una visión holística que restablezca el equilibrio entre la necesidad de conservación de la naturaleza y las necesidades económicas del desarrollo nacional, cuyo eje de articulación interinstitucional es la planificación ambiental, a partir de la cual se generará concurrencia programática inter-sectorial e inter-territorial. En este entendido se promoverá la incorporación de la dimensión ambiental y de gestión de riesgos en los planes de desarrollo, a nivel departamental, municipal y sectorial.
+  
+Además, la activa participación del Estado se promoverá el manejo y aprovechamiento sustentable de los Recursos Naturales Renovables, tanto en la producción primaria como en la industrialización, estimulando el comercio de bienes y servicios de los recursos de la biodiversidad, consolidando al sector forestal como un sector eficiente y sostenible, con alta capacidad de generación de excedentes, en un marco adecuado y justo de relaciones de trabajo basadas en la seguridad jurídica y social, generando recursos externos adicionales para el desarrollo comunitario rural.
+  
+Se optimizará el beneficio económico y social de servicios ambientales de secuestro y almacenamiento de carbono, así como de reducciones de emisiones de GEIs por cambios en la matriz energética y eficiencia en el uso de la energía, desarrollando tecnologías que no deterioren la capa de ozono e impulsando proyectos de adaptación a los cambios ambientales globales, implementando una gestión sostenible, equitativa, participativa e integral de los recursos naturales renovables, contribuyendo al desarrollo social y económico de una sociedad plurinacional y multiétnica, y a la conservación del medio ambiente con la participación del Estado.
+  
+**Políticas y estrategias**
+  
+**i) Control del Estado sobre los Recursos Forestales**
+  
+Consolidar la presencia y dominio originario del Estado sobre los recursos del bosque orientado a un desarrollo equitativo, participativo y productivo, a través de una adecuación normativa e institucional del régimen forestal, que amplié la participación de las comunidades campesinas, indígenas y originarias en el manejo, aprovechamiento y transformación de los productos del bosque y efectivice el control sobre el tráfico ilícito, y la restricción de exportaciones de productos forestales de bajo valor agregado.
+  
+La estrategia de *Adecuación al régimen forestal* generará las capacidades institucionales y organizacionales de los actores sociales del sector forestal, así como de las municipalidades y prefecturas, promoverá la conservación de la biodiversidad. Esta adecuación considera la revisión de los derechos de concesión forestal, en el marco del cumplimiento de los principios de sostenibilidad y el respeto a la vocación del uso del suelo de las concesiones forestales y propiedades agrarias en tierras forestales.
+  
+**ii) Transformación productiva del sector forestal (industrialización de productos maderables y no maderables) y expansión de la explotación sostenible del bosque.**
+  
+Esta política plantea la transformación productiva del sector forestal para la industrialización de productos maderables y no maderables, mediante el cual se generará excedentes económicos y empleo.
+  
+Con la estrategia de institucionalización de la forestaría comunitaria se logrará la articulación de todos los actores del régimen forestal en el manejo sustentable e integral de los bosques y la implementación de los complejos productivos, para ello se estimulará la capacitación y el desarrollo de habilidades técnicas forestales y el incremento de áreas bajo certificación voluntaria de los bosques con estándares de certificación y comercio justo.
+  
+La difusión sobre la importancia del ecosistema bosque es otro de los componentes de la estrategia dirigida a los actores económicos, sociales y población en general, para fortalecer la comprensión de la interdependencia del ser humano y la naturaleza.
+  
+Asimismo esta política tiene por objetivo transitar a sistemas más integrales de manejo de tierras y bosques, promoviendo la restauración del patrimonio de los recursos naturales y revirtiendo situaciones de deterioro y degradación de los recursos naturales ligados con la actividad forestal. Esta política fomenta el desarrollo de los sistemas de rescate de los recursos naturales basados en las prácticas y experiencias tradicionales y ancestrales para el manejo integral del bosque, además de la aplicación de estrategias de estímulo y emulación para la conservación y uso sustentable de bosques, y el desarrollo de nuevas prácticas agroecológicas.
+  
+Otro de los propósitos de esta política es el desarrollo de acciones para reponer la fertilidad de los suelos y su cobertura vegetal para hacerla más viable y sustentable, dotándole de mayor capacidad y aptitud productiva, que resulte en mayores rendimientos para el beneficio de las familias de las tierras bajas y altas, incluyendo acciones para el manejo y conservación de los bosques degradados y en proceso de degradación. Se busca posicionar las vocaciones de uso de los suelos como garantía del mantenimiento de los activos naturales de la población rural y por tanto del sostenimiento del manejo de los recursos forestales maderables y no maderables.
+  
+En este sentido, la composición de nuevas comunidades en el marco del desarrollo de asentamientos humanos, en el ámbito de la protección y aprovechamiento sustentable de los recursos naturales, estará sujeta a la responsabilidad de las mismas en la ejecución de las estrategias y programas de esta política.
+  
+La estrategia para impulsar el aprovechamiento y manejo de los ecosistemas agro- forestales resulta de la constatación del estado actual de los ecosistemas agro-forestales, y su alta vinculación con procesos de erosión y degradación, que está originando problemas de baja productividad, disminución de ingresos y migración en la población. Esta estrategia se implementará en coordinación con las organizaciones públicas y privadas del sector productivo, para brindar a los productores de instancias, normas, instrumentos y facilidades para la gestión (aprovechamiento y manejo) de los recursos suelo, agua y cobertura vegetal, contenidos en los ecosistemas, sean estos forestales y agro-forestales, en el marco de los Planes de Uso del Suelo. Una de las acciones centrales consiste en la implementación del Plan Nacional de Aprovechamiento y Manejo Integral del Suelo para aumentar la capacidad productiva de los suelos agro-forestales, y mitigar los efectos de la erosión y degradación de estos recursos.
+  
+La estrategia para desarrollar la gestión forestal sustentable está dirigida a lograr el manejo comunitario integral de los bosques con amplia participación de pueblos indígenas y originarios y comunidades campesinas, agro-extractivistas, y nuevos asentamientos humanos, generando las capacidades necesarias para el manejo forestal sustentable. La principal acción se centra en el impulso al manejo forestal comunitario para promover la generación de capacidades productivas e institucionales para el manejo comunitario de los productos forestales maderables y no maderables en los grupos locales de usuarios forestales.
+  
+En el marco del desarrollo forestal y manejo integral de bosques, se desarrollarán procesos de forestación y reforestación de bosques y tierras forestales degradadas, mitigación de los incendios forestales, desarrollo de las capacidades de formación y capacitación en materia del régimen forestal, y fortalecimiento del manejo y conservación del recurso suelo a través de prácticas de recuperación de áreas degradadas y mejoramiento de cultivos agroforestales.
+  
+**iii) Protección, manejo y aprovechamiento sostenible de la biodiversidad**
+  
+El Estado boliviano reconoce el carácter estratégico de la conservación de la diversidad biológica para el desarrollo nacional y para el Vivir Bien de la población boliviana, con principios éticos de respeto y valoración hacia las distintas formas de vida existentes, a través de actitudes y prácticas en equilibrio con la diversidad natural que emergen de la diversidad cultural del país.
+  
+Esta política esta orientada a consolidar el rol protagónico del Estado en la protección y manejo de la biodiversidad, considerando el encuentro de conocimientos, saberes y practicas sociales que contribuya a la generación de capacidades, normas institucionales, científicas, técnicas para optimizar el manejo de la biodiversidad, y promueva la distribución equitativa de los beneficios generados por los servicios y productos de la biodiversidad. Para este propósito se efectuará la evaluación del estado de conservación de la biodiversidad en sus cuatro componentes: ecosistemas, especies, genes y diversidad cultural, e implementación del Sistema Nacional de Información Ambiental, cuyo componente de diversidad biológica, permita determinar acciones para una oportuna gestión de riesgos.
+  
+En este entendido se plantea la conservación y protección gubernamental y comunal permanente de la diversidad biológica, cultural y ambiental, en las Áreas Protegidas que representa el 22 por ciento del territorio nacional, mediante la regularización y consolidación del derecho propietario del Estado en las Áreas Protegidas de interés nacional y el programa de Desarrollo Ecoturístico Comunitario que fomentará y promocionará un turismo sustentable participativo.
+  
+Asimismo, es importante mencionar que este nuevo enfoque de la conservación de la biodiversidad, involucra no solo las áreas protegidas, sino también el desarrollo de procesos de gestión sustentable con participación plena de los actores locales. Consecuentemente, la conservación de la biodiversidad dentro y fuera de las áreas protegidas será asegurada siempre y cuando las comunidades locales sean corresponsables de ella, y en función a que puedan recibir directamente sus beneficios.
+  
+Por otra parte la estrategia de producción de bienes y servicios ambientales con valor agregado y comercialización en mercados nacionales e internacionales de exportación, permitirá a través de unidades y redes productivas un manejo racional de recursos de la biodiversidad con intervención del Estado, para esto se implementará el Programa Nacional de Recursos Ambientales, que apoyará emprendimientos e iniciativas locales que generen agregación e internalización de los recursos ambiéntales y la valorización económica, en el marco de las regiones que priorice la planificación ambiental, contribuyendo de forma directa a la gestión de los recursos naturales. En este contexto también se destaca la estrategia del Programa Andino de Biocomercio y la creación e implementación de un Fondo Regional de Biocomercio Sustentable.
+  
+La estrategia para conservar la biodiversidad de acuerdo a su importancia ecológica, cultural, económica y social, asegura la persistencia a largo plazo de la biodiversidad, reduciendo los peligros que la amenazan a través de acciones concretas de conservación en diferentes escalas y niveles. Las más importantes acciones a ser desarrolladas en el marco de esta estrategia son: a) conservación de la biodiversidad a nivel de ecosistemas, especies y ámbito genético, y b) gestión integral de la información sobre conservación y uso de la biodiversidad.
+  
+La estrategia para aprovechar sustentablemente la biodiversidad está dirigida a desarrollar procesos que generen beneficios para las poblaciones locales, en el marco del aprovechamiento, transformación y comercialización de productos y servicios de la biodiversidad a nivel interno y en el marco del Tratado de Comercio entre los Pueblos. Asimismo, comprende la generación de las capacidades institucionales y locales necesarias para la gestión de la biodiversidad. En esta estrategia se impulsará el programa nacional de conservación y aprovechamiento sostenible de la vicuña, el lagarto, y el programa nacional de biocomercio sostenible.
+  
+**iv) Reducción de gases de efecto invernadero (GEI) y secuestro de carbono**
+  
+El Estado a través del cambio de la matriz energética, la forestación, reforestación y conservación, participa en la generación de excedentes en calidad de propietario de los recursos naturales a través de la certificación, negociación internacional, venta y distribución equitativa y solidaria de los beneficios generados por la comercialización de bonos de carbono en mercados internacionales emergentes, en el marco del Mecanismo de Desarrollo Limpio.
+  
+Para ello se trabajará en la consolidación de los Planes de Manejo de la Áreas Protegidas y fomentará principalmente plantaciones forestales en los cinturones de amortiguación a las mismas, de igual manera proyectos de forestación y reforestación de áreas consensuadas con comunidades y validadas en los Planes de Desarrollo Municipales, serán priorizadas tanto como otras propuestas forestales de carácter privado.
+  
+**v) Agua para todos**
+  
+El agua es de dominio público y su gestión debe ser pública, participativa y descentralizada. La función del Estado es privilegiar y fomentar el uso social de los Recursos Hídricos por encima del uso comercial. El acceso al agua es un derecho de las personas y de todos los seres vivos de un territorio y su distribución y uso debe basarse en los principios de justicia, solidaridad, equidad, diversidad y sostenibilidad.
+  
+La unidad básica de planificación y gestión de los Recursos Hídricos es la cuenca, considerada fundamentalmente como espacio de vida e interculturalidad, que relaciona los espacios de gestión pública y social. En torno a ella se establecerá la Gestión Integrada de los Recursos Hídricos, priorizando el consumo humano, la producción agropecuaria, las necesidades de la flora y fauna y otros usos.
+  
+La Estrategia de Establecimiento de una gestión equitativa, sostenible, participativa, transectorial e integral de los Recursos Hídricos será un proceso que no descuide demandas urbanas, rurales, industriales, mineras, de generación de energía, navegación y usos recreacionales y de esparcimiento, con el fin de maximizar el bienestar social y económico con equidad y sin comprometer la sostenibilidad de los ecosistemas vitales.
+  
+En la integración transectorial de la Gestión de los Recursos Hídricos se priorizará: el agua para la gente, el agua para la alimentación y producción agropecuaria (riego), el agua para la naturaleza y el agua para la producción y otros usos. Este modelo se basa en cuatro pilares fundamentales: a) equidad social y cultural, b) eficiencia en el uso de recursos y capacidades; c) mantenimiento de la biodiversidad y sostenibilidad ambiental; y d) afirmación cultural y descolonización en la gestión del agua.
+  
+La estrategia se implementa bajo los siguientes programas:
+  
+Programa de Desarrollo de la Estrategia Nacional de Recursos Hídricos que tiene el objetivo de formular los instrumentos necesarios para la Gestión Integrada de los Recursos Hídricos a través de un proceso consensuado para la elaboración de la propuesta de política, estrategia y su correspondiente plan de acción, así como el proyecto de Ley de Marco de Aguas.
+  
+El Programa Nacional de Cuencas, se constituye en una herramienta articuladora de nuevas visiones y experiencias existentes en el país; con el propósito de desarrollar metodologías participativas e instrumentos de gestión, promover el desarrollo de conocimientos y capacidades, promover estructuras organizativas y sociales de gestión local del agua y fortalecer prácticas y técnicas de manejo de cuencas para construir, desde el nivel local las plataformas y la institucionalidad, así como políticas y normatividad para la gestión integral y social del agua y del medioambiente en las cuencas de Bolivia.
+  
+Programa de Fortalecimiento de la Información del Sector Agua que tiene como objetivo contar con información precisa, sistematizada y de fácil acceso para la elaboración de políticas concertadas, planificación estratégica y toma de decisiones que respondan a las necesidades de los diferentes actores del sector.
+  
+Mediante la estrategia de Gestión Ambiental de los Recursos Hídricos se pretende desarrollar e implementar una gestión ambiental de carácter público para la protección, preservación y aprovechamiento sostenible de los Recursos Hídricos.
+  
+La Estrategia de Establecimiento de mecanismos de coordinación y concertación con la sociedad civil organizada, intersectorial y transectorial en la Gestión de Recursos Hídricos implementará y fortalecerá el Consejo Técnico y Social del Agua, como mecanismo de coordinación, relacionamiento y concertación entre el Estado con la sociedad civil organizada, para una Gestión Integral y Sostenible de los Recursos Hídricos, respetando el uso sociocultural del recurso, como parte de las comunidades campesinas, indígenas y originarias del país de manera equitativa, participativa y sostenible.
+  
+**vi) Gestión Ambiental y de Riesgos: Equilibrio entre las necesidades del desarrollo y conservación del Medio Ambiente**
+  
+El objetivo de esta política es generar mediante la planificación ambiental, espacios de coordinación interinstitucional que orienten la gestión ambiental a partir de la concurrencia de los diferentes sectores y subniveles nacionales, en el marco del restablecimiento del equilibrio entre las necesidades del desarrollo y la conservación del medio ambiente.
+  
+En este entendido la Estrategia Nacional de Planificación Ambiental y de Riesgos, como mecanismo que garantice la sostenibilidad ambiental en los procesos de desarrollo, a partir de las sinergias programáticas inter-sectoriales e inter-territoriales, permitirá el diseño e implementación de políticas, estrategias, instrumentos, programas y proyectos de gestión de riesgos y protección, manejo y uso sostenible de los recursos naturales, desde la perspectiva del desarrollo sectorial y subnacional en equilibrio con la conservación del medio ambiente.
+  
+Asimismo se desarrollarán espacios de construcción, adecuación y reforma normativa de la temática ambiental (Ley de Biodiversidad, Ley de Carbono, Ley Forestal y Ley de Medio Ambiente, entre otros) en el marco del Vivir Bien y el Estado plurinacional, con plena participación de las comunidades campesinas y los pueblo indígenas y originarios.
+  
+Se promoverá la incorporación de la dimensión ambiental y de gestión de riesgos en los planes de desarrollo, a nivel departamental y municipal, fortaleciendo capacidades técnicas institucionales y generando procesos de descentralización y sostenibilidad técnica-financiera de la gestión ambiental.
+  
+Se modificará la normativa concerniente a la planificación e inversión pública, mediante la adecuación de los Planes de Gestión Territorial – Ambiental; se fortalecerá el Sistema Nacional de Información para el Desarrollo (SNID), como un instrumento que permita el seguimiento, monitoreo, evaluación de la gestión ambiental fundamentalmente al interior del país, pero también en el marco de los convenios internacionales en materia ambiental, y finalmente se implementará el Programa de sensibilización sobre la importancia de los recursos naturales, dirigido a la sociedad civil, como un mecanismo que promueva la conservación del medio ambiente, fortalezca la resiliencia en las comunidades de mayor vulnerabilidad y apoye a la reducción de riesgos, fortaleciendo el uso apropiado de los recursos naturales renovables, mediante la recuperación y difusión de saberes ancestrales y el desarrollo de sistemas de alerta temprana.
+  
+El Programa de prevención de desastres pretende desarrollar la normativa e institucionalidad que permitan la inclusión de la gestión de riesgos en los procesos de planificación e inversión sectorial y subnacional, para reducir la vulnerabilidad de las comunidades rurales y urbanas mejorando su capacidad de adaptación a los impactos emergentes de los cambios ambientales, sociales y económicos globales.
+  
+El programa de adaptación de sistemas de producción, con impacto negativo sobre los recursos hídricos evaluará la vulnerabilidad de la agricultura de subsistencia, en los ecosistemas frágiles de montaña, regiones áridas y nuevas áreas de colonización, para incorporar especies nativas resistentes a los cambios ambientales, que paralelamente permitan aprovechar las oportunidades existentes en mercados emergentes de agro- ecológicas.
+  
+Por otra parte, en el marco del seguimiento, prevención y control de la calidad ambiental, se priorizará la participación activa de la población con base en la sensibilización y concientización ambiental, con el propósito de lograr la mejora de la calidad ambiental. La estrategia para fortalecer las capacidades estatales para la gestión ambiental está orientada a diseñar e implementar procedimientos y mecanismos que coadyuven a la coordinación interinstitucional en materia de calidad ambiental entre las instancias nacionales, departamentales, sectoriales y municipales, haciendo uso de instrumentos que faciliten la participación ciudadana y la divulgación de la información.
+  
+La investigación, educación y comunicación ambiental sensibilizará a la población, mediante procesos de educación profunda y de información permanente, para promover procesos de transformación de la realidad ambiental.
+  
+La estrategia para prevenir y controlar la calidad ambiental se orienta a prevenir y controlar de manera directa los impactos ambientales negativos generados por las actividades, obras y proyectos. En este marco, se desarrollarán las siguientes intervenciones: a) se implementará el Plan Nacional de Acción Ambiental para el logro de la sustentabilidad ambiental, económica y sociocultural, mediante un trabajo concertado con todos los sectores de la comunidad local bajo un proceso abierto y participativo, b) se promoverá el desarrollo de sistemas de producción limpios que conduzcan a la optimización del uso de los recursos naturales y la calidad del medio ambiente, c) se realizará la fiscalización, seguimiento y evaluación de la gestión ambiental para verificar el cumplimiento de las normas ambientales vigentes.
+  
+Asimismo la estrategia de control, manejo, uso y disposición final de sustancias químicas altamente tóxicas, busca reducir y eliminar el impacto ambiental y el severo daño que ocasionan estas sustancias a la salud humana.
+  
+El Programa de Sustitución de Sustancias Agotadoras del Ozono y la Reconversión Tecnológica, considera entre otros aspectos la instalación en Bolivia de una planta para la producción de hidrocarburos refrigerantes a partir del gas natural y pretende eliminar el consumo en el país de las principales sustancias químicas que agotan la capa de ozono, protegiendo el medio ambiente atmosférico, mediante la consolidación de una estructura normativa y técnica para el adecuado manejo de este tipo de contaminantes. Para ello se propone un “Programa de Promoción de Tecnologías Alternativas al Uso de Agroquímicos” que reduzca el uso de estos insumos (agroquímicos) en las actividades agrícolas, con el propósito de proteger la salud del agricultor y de la población, además fortalecer la producción orgánica en el país.
+
+### Sección 4.5 Sectores generadores de ingresos y empleo
+
+### 4.5.1 Desarrollo agropecuario
+
+En la historia republicana de Bolivia se han implementado tres patrones de desarrollo socio-económico y rural, los mismos se detallan a continuación.
+  
+El modelo basado en la prolongación del estado colonial extractivista (1825-1952) se centró en la expoliación de los recursos colectivos de las comunidades y su individualización, y en la otorgación de los mismos a hacendados privados bajo el sistema del colonato. Las tierras y bosques del oriente del país permanecieron bajo el dominio del Estado, sin embargo, se ignoraron los derechos y necesidades de los pueblos indígenas y originarios.
+  
+El modelo nacional estatista (1953-1985) estableció un patrón de desarrollo rural que intentó diversificar la producción y la sustitución de las importaciones, impulsando la eliminación del sistema de colonato en las haciendas. Sin embargo, y pese a los esfuerzos en la redistribución de la tierra, las empresas agropecuarias sustituyeron a los actores rurales que intentaban desarrollar procesos de producción. Para los pequeños productores campesinos, indígenas y originarios, el proceso de distribución de tierras no estuvo vinculado a políticas efectivas de desarrollo rural lo que condujo a un proceso de minifundio, pérdida de la productividad de la tierra y deterioro de los recursos naturales.
+  
+El modelo privatista neoliberal (1986-2005) estuvo vinculado a la generación de un nuevo patrón económico que se basó en la entrega de la tierra a propietarios medianos y grandes, y a la consolidación de los sectores más dinámicos de la economía empresarial del oriente para la producción de cultivos industriales para mercados de exportación. Estas políticas generaron divisas para el Estado, potenciaron exclusivamente a un solo actor rural, desarrollaron asimetrías socioeconómicas y no contribuyeron a la seguridad y soberanía alimentaria. En la temática del agua las políticas estaban dirigidas a su privatización y mercantilización, afectando los derechos ancestrales de las familias campesinas, indígenas y originarias. La falta de una normativa actualizada en el acceso al recurso agua ha contribuido a profundizar el empobrecimiento.
+  
+**Propuesta de cambio**
+  
+El nuevo patrón de desarrollo en construcción avanza en la modificación de los procesos implementados anteriormente, garantizando la transición del actual modelo de desarrollo agrario y forestal primario exportador y socialmente excluyente, hacia otro que impulse la transformación de la estructura de tenencia y de acceso a la tierra y bosques, promueva el cambio de los sistemas productivos agropecuarios y forestales en una perspectiva integral, ecológica y sustentable, favorezca las innovaciones tecnológicas y del conocimiento, así como, dinamice los mercados de los productos agropecuarios y la industrialización de los recursos naturales para el beneficio de la población local.
+  
+En este ámbito, el riego tiene un papel fundamental en el desarrollo agropecuario ya que constituye un factor clave para mejorar la seguridad alimentaria y fortalecer la soberanía alimentaria, mediante el aprovechamiento sostenible de los recursos hídricos con la introducción de tecnología adecuada para lograr ampliar la frontera agrícola bajo riego, mejorando la productividad agrícola y la diversificación de cultivos por otros de mayor rentabilidad, posibilitando una mayor inversión pública productiva y promoviendo las capacidades agro-exportadoras.
+  
+El nuevo patrón de desarrollo tiene como base la Revolución Rural, Agraria y Forestal, la misma que se hará realidad con el desarrollo de tres procesos, que se impulsarán de forma simultánea.
+  
+La Revolución Rural tiene relación con el impulso a la transformación productiva de los territorios rurales, orientada no solamente al desarrollo agropecuario en específico sino al desarrollo rural en su conjunto, a través de la dinamización integral de las capacidades productivas territoriales del país y de acuerdo a la propia visión cultural de las poblaciones locales.
+  
+La Revolución Agraria tiene relación con la transformación de la estructura de tenencia y acceso a la tierra y bosques, constituyéndose en el soporte central mediante el cual el desarrollo agropecuario y rural adquiere pleno sentido y se desarrolla con su máximo potencial.
+  
+La Revolución Forestal se vincula al proceso de transición de una visión agrarista de desarrollo rural hacia otra visión más integral, que contempla el aprovechamiento de los bosques, de los recursos de la biodiversidad y de los servicios ambientales. Finalmente, el Fomento al Uso Productivo del Agua impulsará iniciativas productivas agrícolas, acompañadas de políticas que aseguren el ejercicio de los derechos de acceso equitativo al agua de riego, promoviendo el uso productivo de esta y la intensificación de la inversión pública en infraestructura productiva vinculada al riego
+  
+En esta dirección, es necesario transitar de intervenciones que se han venido desarrollando en el país a través de proyectos aislados y dispersos, a la implementación de programas integrales y de carácter territorial con un alto protagonismo del gobierno central, para fortalecer al Estado como protagonista del desarrollo y su capacidad de ejecución de los programas agropecuarios y de desarrollo rural. Este nuevo enfoque de intervención basado en programas requiere, asimismo, de una efectiva articulación del conjunto de las entidades estatales, y particularmente de la institucionalidad del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente (MDRAyMA) y del Ministerio de Agua (MDA).
+  
+La Revolución Rural, Agraria y Forestal se orienta a alcanzar tres objetivos. El primer objetivo es el de avanzar hacia la seguridad y soberanía alimentaria del país, que se logrará a través de la implementación articulada de tres políticas: a) transformación de la estructura de tenencia y acceso a la tierra y bosques, b) transformación de los patrones productivos y alimentarios, y c) agua para la producción. Estas políticas tienen como propósito garantizar el acceso, disponibilidad y el aprovechamiento biológico de los alimentos para el conjunto de la población boliviana.
+  
+El segundo objetivo es el de ampliar la contribución de la producción agropecuaria y forestal a los medios de vida de la población y al desarrollo del país, el mismo que se impulsará a través de las siguientes políticas: a) apoyo a la producción y transformación de los recursos naturales renovables, y b) dinamización y restitución integral de las capacidades productivas territoriales. Estas políticas permiten no solamente garantizar el potenciamiento de las actividades agropecuarias de los productores rurales sino también avanzar de forma efectiva hacia objetivos más amplios vinculados con el desarrollo rural, a través del fortalecimiento de las capacidades productivas en todos los territorios del país, en el marco de acciones de coordinación y articulación intersectorial.
+  
+Finalmente, el tercer objetivo es el de impulsar la gestión sustentable de los recursos naturales, que se desarrollará en el marco de la articulación de las políticas de desarrollo agropecuario con las políticas vinculadas a la gestión agraria y forestal sustentable y aprovechamiento de los recursos de la biodiversidad, que se presentan en la sección de este plan que corresponde a recursos ambientales.
+  
+**Políticas y estrategias**
+  
+**i) Transformación de la estructura de tenencia y acceso a la tierra y bosques**
+  
+El inadecuado manejo de la política agraria en Bolivia ha generado en el caso de la tenencia, uso de la tierra y el manejo de los recursos naturales, un escenario que es imprescindible modificar para crear una sociedad justa y un manejo adecuado de los recursos.
+  
+El gobierno implementa la Revolución Agraria con el fin de alcanzar la equidad en la distribución y el acceso a la propiedad agraria, junto a sistemas de uso sustentable de los recursos naturales y el impulso a la consolidación de la propiedad comunal de la tierra. Así, la transformación de la estructura de la tenencia y acceso a la tierra y bosques, en el marco de la reconducción comunitaria de la reforma agraria, constituye la principal política para impulsar la transformación estructural agraria, ya que la extrema desigualdad e irracionalidad en la distribución de la tierra no sólo prolonga la histórica injusticia a que están expuestas las poblaciones originarias, sino es la causa profunda de la inestabilidad económica y política que sufre la población boliviana en su conjunto.
+  
+La estrategia para eliminar el latifundio y recuperar tierras fiscales para la Nación, toma en cuenta el proceso inequitativo y desigual en la distribución de las tierras y bosques, y avanza en el imperativo de desarrollar un proceso en el que el saneamiento de la propiedad agraria de lugar, de forma efectiva, a la consolidación de las propiedades rurales trabajadas y a la reversión de las tierras ociosas, que no cumplen con la función económico-social, en el marco de la implementación del Plan Nacional de Saneamiento de la Propiedad Agraria.
+  
+La estrategia para distribuir y redistribuir tierras, favorece a los pueblos indígenas y comunidades campesinas hasta que se hayan superado los grandes desequilibrios referidos a la distribución de tierras en el país. La distribución y redistribución de tierras se logra a través de la puesta en marcha del Plan Nacional de Distribución de Tierras y Asentamientos Humanos, el cual comprende la asignación o reasignación de tierras y espacios territoriales, así como el apoyo a la dinamización de las capacidades productivas de los nuevos asentamientos y el manejo sustentable de este espacio en el marco de los programas territoriales y sectoriales incluidos en este plan.
+  
+**ii) Transformación de los patrones productivos y alimentarios**
+  
+Esta política está dirigida a lograr una profunda transformación de los sistemas productivos de los productores rurales de pequeña, mediana y gran escala, apoyándoles a consolidar sistemas productivos y alimentarios más eficientes, ecológicamente sustentables y socialmente responsables, que garanticen la seguridad y soberanía alimentaria y el desarrollo productivo rural, recuperando sus propias visiones culturales y fortaleciendo el poder autogestionario de sus organizaciones sociales y económicas.
+  
+En esta dirección, se fortalece, por una parte, el rol de la agricultura familiar campesina, indígena y originaria con base comunitaria, para promover el incremento en cantidad y calidad de la producción de alimentos por parte de dichos productores, valorizando, en primer lugar, el consumo de alimentos por parte los integrantes de dichas unidades familiares y su articulación favorable con el mercado interno.
+  
+Por otra parte, fortalece el potencial productivo de los productores rurales impulsando de forma integral el fortalecimiento de los sistemas productivos agropecuarios para incrementar la producción y productividad de los productos agrícolas y pecuarios, de tal modo que contribuyan a la generación de excedentes y, como consecuencia, al crecimiento integral de los recursos y capacidades de las familias rurales. El desarrollo agropecuario, sin embargo, está estrechamente vinculado al desarrollo integral de otras iniciativas productivas, como ser el aprovechamiento de los recursos forestales y recursos de la biodiversidad, y otras actividades no agropecuarias. También, se impulsarán procesos de tecnificación y mecanización de la producción agropecuaria y agroalimentaria, diversificación de la producción agropecuaria, y fomento al desarrollo de procesos de transformación en pequeña escala. De este modo, el proceso de transformación de los patrones productivos y alimentarios tiene que ver con el desarrollo simultáneo de procesos productivos vinculados a la seguridad alimentaria de la población pero también al desarrollo productivo rural.
+  
+Esta política se implementa a través de tres estrategias, que son: a) construir seguridad y soberanía alimentaria, b) desarrollar integralmente la producción alimentaria y el desarrollo productivo rural, y c) impulsar nuevos patrones de organización de la producción y distribución de los alimentos. Estas estrategias, a su vez, están vinculadas a cuatro programas articuladores del conjunto de las intervenciones en desarrollo agropecuario, de acuerdo al siguiente detalle:
+  
+a) El programa SEMBRAR el derecho humano a la alimentación, tiene como propósito promover la institucionalidad, estrategias y mecanismos para impulsar la seguridad alimentaria en el ámbito local.
+  
+b) El programa CRIAR (Creación de Iniciativas Alimentarias Rurales) tiene como objetivos fortalecer la agricultura familiar campesina, indígena y originaria de base comunitaria, basada en la producción agroecológica y sistemas integrales para la producción de alimentos, principalmente para el consumo familiar y el mercado local en las regiones con mayor pobreza extrema. A través de este programa se implementa el componente productivo de los programas intersectoriales, como ser: Desnutrición Cero y Comunidades en Acción.
+  
+c) El programa EMPODERAR (Emprendimientos Organizados para el Desarrollo Rural Autogestionario) tiene como objetivo apoyar al desarrollo de iniciativas productivas agropecuarias, forestales maderables y no maderables, agroforestales, de transformación y de otras iniciativas productivas no agropecuarias, aumentando la producción y productividad del agro boliviano.
+  
+**iii) Agua para la producción**
+  
+Reconociendo que el agua es el principal insumo para lograr la producción agropecuaria, es que se pretende mediante la implementación del Plan Nacional de Desarrollo de Riego para Vivir Bien, transversalizar el subsector Riego para que mediante sus componentes y líneas estratégicas coadyuve al logro de los objetivos planteados por los programas SEMBRAR, CRIAR y EMPODERAR.
+  
+Esta política se desarrollará mediante la implementación de dos líneas estratégicas:
+  
+a) Ampliación de la cobertura de riego
+  
+El Estado promoverá el incremento de las áreas cultivables bajo riego, otorgando mayor acceso al agua de riego, a través del mejoramiento y construcción de nueva infraestructura, la asistencia técnica, la capacitación, y el desarrollo tecnológico en riego a las familias campesinas, indígenas, originarias regantes, colonizadores y productores agropecuarios, tendientes a la autogestión y sostenibilidad de los sistemas de riego.
+  
+Se ampliará la cobertura de riego mediante la Promoción y Desarrollo Inversiones en infraestructura de riego, se pretende el aprovechamiento sostenible de los recursos hídricos, ampliando la frontera agrícola bajo riego, beneficiando a campesinos, indígenas, originarios, regantes y pequeños productores, que irán a contribuir a mejorar la producción y productividad agropecuaria, contribuyendo así al logro de la soberanía alimentaría y al desarrollo de las iniciativas productivas. En este sentido, se prevé la implementación de los programas de Inversiones Públicas en Riego y Programa de Inversiones en Microriego y de Fomento a la Inversión Privada en Riego Tecnificado.
+  
+Asimismo, la estrategia de Mejoramiento del Uso del Agua y la Gestión de los Sistemas de Riego, apunta a optimizar el uso del agua, mejorando la productividad de los cultivos, posibilitando además, el acceso al agua para riego en zonas que no son beneficiadas con las prácticas tradicionales. Esta estrategia se operativizará a través de los siguientes programas:
+  
+El Programa de Fortalecimiento Institucional, Información en Riego está dirigido al establecimiento de las condiciones de sostenibilidad y autogestión de los sistemas de riego. Comprende el fortalecimiento a las organizaciones sociales, económicas productivas agropecuarias a nivel de sistemas de riego y cuenca; así como generar capacidades institucionales del subsector así como en las organizaciones sociales, esta propuesta se operativizará con la implementación de la Escuela Nacional de Riego.
+  
+Programa de Asistencia Técnica, Capacitación, Investigación y Desarrollo Tecnológico en riego, dirigido al desarrollo de capacidades en entidades públicas y organizaciones sociales de productores agropecuarios, encargadas de la planificación, promoción, ejecución y la operación en riego, así como para el desarrollo tecnológico, se pretende impulsar la creación de la Fundación Riego (FUNRIEGO) responsable de la investigación aplicada e innovación tecnológica
+  
+b) Reconocimiento y otorgación de los derechos de uso de agua para riego.
+  
+Es fundamental impulsar el régimen de derechos de aguas para riego; la Ley 2878 de Apoyo y promoción al Sector Riego para la Producción Agropecuaria y Forestal, ha permitido dar ya los primeros pasos en esa dirección. Se regularizará y otorgará a través del Servicio Nacional de Riego (SENARI) y los Servicios Departamentales de Riego (SEDRIs) los derechos de uso de los recursos hídricos con fines de riego a partir de la emisión de registros y autorizaciones de uso de fuentes de agua a las organizaciones sociales, respetando los usos y costumbres; se implementará la normativa de resolución de conflictos de agua, para garantizar el derechos de acceso equitativo de acceso al agua para garantizar la producción agropecuaria.
+  
+**iv) Apoyo a la producción y transformación de los recursos naturales renovables**
+  
+Esta política promueve el desarrollo de procesos de apoyo a la producción y transformación agroalimentaria y de productos estratégicos para el país, destinados a generar mayor valor agregado con la finalidad de apropiar un beneficio económico mayor de la producción a la población local, y que genere nuevas fuentes de trabajo. Esta política se desarrolla fundamentalmente a través de la conformación de empresas sociales públicas en alianza con los productores.
+  
+Las empresas públicas de carácter estratégico se originan en base a la necesidad de apoyar a los productores rurales en la producción de alimentos básicos y su comercialización mayorista y de promover procesos de industrialización de productos naturales renovables estratégicos para garantizar el acceso a sus beneficios para la población local y el desarrollo del país. Estas empresas apoyan a los productores rurales a enfrentar mercados segmentados y que discriminan en su contra, superar sus debilidades técnicas y gerenciales que impiden su fortalecimiento y consolidación, y a enfrentar de forma estructural a una competencia desigual y asimétrica del libre mercado. En este sentido, cada empresa social se formará siguiendo un patrón específico que le permita lograr alianzas con las organizaciones locales para fortalecerlas y desarrollarlas en su plena capacidad y potencial, y de acuerdo a las diferentes necesidades de producción, transformación y comercialización.
+  
+La estrategia para constituir empresas sociales públicas de productos alimentarios y de gestión de productos estratégicos, se implementa a través del programa RECREAR (Reconducción del Rol del Estado en Emprendimientos Alimentarios y Rurales). Entre éstas se ha identificado el impulso a las empresas agroalimentarias, como: la Empresa Social Boliviana Azucarera, la Empresa Social Boliviana de Carne y Productos Cárnicos, y otras a ser priorizadas. En el marco de la gestión de productos estratégicos se ha identificado el desarrollo de la Empresa Social Forestal Boliviana (que impulsa la transformación y comercialización de productos maderables y no maderables, las plantaciones forestales y reforestación masiva, y el apoyo a servicios ambientales) y la Empresa Social Boliviana del Lagarto (que garantiza la distribución justa y equitativa a las comunidades locales de los beneficios del aprovechamiento sostenible del lagarto), entre las más importantes.
+  
+Finalmente, se impulsará la investigación científica, industrialización y comercialización de la coca, apoyándose en su uso medicinal y cultural, entre otros, e impulsando el fortalecimiento de los mercados para los productos legales derivados de esta industrialización.
+  
+**v) Dinamización y restitución integral de las capacidades productivas territoriales**
+  
+El desarrollo agropecuario no es suficiente para garantizar el Vivir Bien de la población rural, por lo que se hace necesario impulsar el desarrollo de otro tipo de acciones que garanticen avanzar de forma efectiva, a través del desarrollo agropecuario, hacia el desarrollo rural.
+  
+El potenciamiento del desarrollo agropecuario y de otros recursos naturales renovables, para generar mayores beneficios para la población local, se logrará a través de la dinamización y restitución integral de las capacidades productivas territoriales, de tal manera que se garantice que todas las regiones del país tengan oportunidades para desarrollar sus capacidades humanas, sociales, económico-productivas, ambientales y de infraestructura. En esta dirección, la estrategia para construir desarrollo productivo territorial tiene como finalidad impulsar la formación y consolidación de Complejos Productivos Territoriales, que se refieren al impulso simultáneo del conjunto de las actividades productivas que los pobladores rurales desarrollan como sus principales medios de vida (agropecuarios, forestales, agroindustriales, y de aprovechamiento de los recursos de la biodiversidad y no agropecuarios) en diferentes escalas de integración vertical y horizontal de la producción, mejorando su consumo familiar y la generación de excedentes a través de su incorporación a mercados seguros, y mercados internos y externos competitivos. Además, el complejo productivo permite también fortalecer los vínculos urbano-rurales, estimulando las capacidades productivas de las ciudades intermedias.
+  
+Los esfuerzos anteriores deben tomar en cuenta, sin embargo, de que la mayoría de la población rural se autoidentifica como indígena y originaria, por lo mismo es necesario garantizar que las actividades que estimulan el desarrollo productivo territorial tienen que implementarse en el marco de las propias visiones culturales de las poblaciones locales, a través de procesos de Gestión Territorial Indígena en los pueblos indígenas de las tierras altas, tierras bajas, y pueblos indígenas vulnerables. Esto supone impulsar procesos demostrativos para recuperar y sistematizar las iniciativas productivas y de gestión desde la propia visión de la población indígena y originaria para la gestión de sus recursos naturales, sociales, físicos y económicos, que luego sean replicados en una mayor escala.
+  
+Finalmente, el programa de desarrollo integral y sostenible de las zonas productoras de coca en el Trópico de Cochabamba y en los Yungas de La Paz tienen como propósito garantizar la dinamización integral de las capacidades productivas territoriales de estas regiones, en el marco de la implementación del Plan Nacional de Desarrollo Integral con Coca, apoyando a superar la pobreza, el desempleo, la marginación, y la discriminación social y cultural de las poblaciones vinculadas a la producción de la coca.
+  
+**vi) Fortalecimiento de la institucionalidad estratégica**
+  
+La Revolución Rural, Agraria y Forestal tiene también estrecha relación con el desarrollo y fortalecimiento de las propias capacidades estatales para la planificación del desarrollo agropecuario y rural, el desarrollo de procesos masivos de asistencia técnica, la generación y sistematización de información y seguimiento a la implementación de las estrategias y programas, y el desarrollo de efectivos procesos de articulación entre los actores rurales, entre los aspectos más importantes. Entre la institucionalidad estratégica para llevar adelante esta revolución se ha identificado la siguiente:
+  
+a) El Instituto Nacional de Innovación Agropecuaria y Forestal (INIAF): es la entidad responsable de organizar y desarrollar los procesos de investigación, transferencia, y difusión y comunicación de tecnologías en todo el país para beneficio del conjunto de los productores rurales.
+  
+b) El Instituto Nacional de Reforma Agraria (INRA): tiene entre sus principales responsabilidades desarrollar la gestión eficiente y transparente del saneamiento, avanzar en la gestión eficiente y transparente de la información sobre propiedad rural, y desarrollar la capacidad estatal para la administración de las tierras.
+  
+c) El Servicio Nacional de Áreas Protegidas (SERNAP): es la entidad desconcentrada del Ministerio de Desarrollo Rural, Agropecuario y Medio Ambiente, con dependencia funcional del Viceministerio de Biodiversidad, Recursos Forestales y Medio Ambiente, y responsable de la gestión del Sistema Nacional de Áreas Protegidas.
+  
+d) Servicio Nacional de Sanidad Animal e Inocuidad Alimentaria (SENASAG): es la entidad encargada de la administración del régimen específico de Sanidad Agropecuaria e Inocuidad Alimentaria en el territorio nacional, con atribuciones para preservar la condición sanitaria del patrimonio productivo agropecuario y forestal, el mejoramiento sanitario de la producción animal y vegetal, y garantizar la inocuidad alimentaria en los tramos productivos y de procesamiento que correspondan al sector agropecuario.
+
+### 4.5.2 Transformación industrial, manufacturera y artesanal
+
+En Bolivia, como consecuencia del patrón primario exportador, el desarrollo productivo industrial y manufacturero, es débil e insuficiente. En general, la industria y la manufactura presentan un bajo nivel de productividad y marcado rezago tecnológico.
+  
+La realidad del desarrollo productivo transformador, industrial y manufacturero, continúa mostrando una alta heterogeneidad estructural, donde coexisten diversas formas organizativas de producción y uso de tecnología. Asimismo, se presentan marcadas asimetrías en cuanto al acceso y el control de los recursos y medios de producción.
+  
+La contribución del llamado sector productivo informal, no tiene mayor reconocimiento público, ni registros que muestren su aporte económico real. Tampoco fueron sujetos de una política pública integral, que las incentive y contribuya a desarrollarlas, valorizando su producción. La lógica productiva de esas unidades de pequeña escala, asociativas y comunitarias, está basada en principios de reciprocidad y redistribución social; difiere de aquella orientada sólo hacia la acumulación individualista de capital. Su racionalidad económica combina tanto estrategias de acumulación material, como principios y búsqueda de reconocimiento y valoración social.
+  
+La presencia de esas unidades y asociaciones productivas, que concentran gran parte de la fuerza laboral y tienen una practica re-distributiva del ingreso, constituye un potencial significativo para el desarrollo productivo.
+  
+**Propuesta de cambio**
+  
+El cambio estructural propuesto para el sector consiste en la transformación tecnológica, alza de la productividad y diversificación productiva que permitirán incrementar la agregación de valor a la producción primaria, valorizando el producto boliviano y aumentando el ingreso en los sectores productivos que concentran la mayor parte de la fuerza de trabajo. Asimismo se buscará posicionar una marca país e imagen que represente la producción nacional, orgánica y ecológica con alta habilidad y destreza en la mano de obra.
+  
+La transformación y el desarrollo productivo se basará en un Nuevo Modelo Económico Productivo (NMEP), que visualiza a tres tipos de actores: 1) el Estado, 2) la economía social comunitaria y 3) la inversión privada, tanto de capital nacional como extranjero.
+  
+En ésta estructura, el Estado, además de su papel normador, asume un rol promotor y protagónico, como potencia articuladora y generadora del cambio, asumiendo roles y funciones económicas en la producción, la construcción de infraestructura productiva y apoyo a la producción, comercio interno, externo y financiamiento, junto a los sectores socio-comunitario y privado, propiciando la transformación de la matriz productiva.
+  
+El Estado protegerá y promoverá la producción nacional, en particular de las asociaciones y comunidades de productores, se les facilitará y dotará de mejores condiciones de acceso a tecnología, financiamiento, cualificación de recursos humanos y un marco jurídico- institucional funcional. Asimismo, el Estado participará de la industria transformadora en aquellos rubros donde la iniciativa privada no genera inversión.
+  
+El Estado, también impulsará y articulará el establecimiento de empresas bi o tri y gran nacionales en el marco de la nueva tendencia de integración de América Latina.
+  
+La intervención de la economía social comunitaria, cuyas expresiones rurales y/o urbanas son diversas y complementarias: empresas sociales comunitarias, asociaciones de productores rurales o urbanos, cooperativas, micro y pequeñas empresas familiares permitirán promover la generación de empleo y mejorar la distribución del ingreso.
+  
+La inversión privada con capital nacional y extranjero, expresado en la mediana, gran empresa e industria se constituye en importante factor para transformar y diversificar la producción.
+  
+La articulación de los tres actores será la característica de la nueva matriz productiva que posibilitará construir un patrón de acumulación diverso, generar excedentes, empleos e ingresos en condiciones de justicia, equidad, reciprocidad y complementariedad.
+  
+En tal sentido, esta transformación de la matriz productiva estará cimentada en cinco ejes estratégicos: Industrialización, Diversificación productiva, Reconversión Productiva, Soberanía productiva y alimentaría y Diversificación de los Mercados Internacionales.
+  
+**Políticas y estrategias**
+  
+**i) Reconocimiento y fortalecimiento de pequeños productores20**
+  
+El Estado reconocerá el rol y el desempeño de los pequeños productores generando procesos asociativos y brindando apoyo sistemático para su desarrollo integral
+  
+La estrategia es el Reconocimiento y Fortalecimiento de pequeños productores, orientada a promover la formalización y tributación adecuada de pequeños productores rurales y urbanos.
+  
+Se realizará un Mapeo productivo para el establecimiento de una base de datos de las micros y pequeñas empresas, Organizaciones Comunitarias Productivas, como ser: OECAS, Asociaciones de artesanos/as, cooperativas productivas y organizaciones comunitarias campesinas, indígenas y originarias.
+  
+En el ámbito del fortalecimiento, un componente se orienta a brindar apoyo para el mejor acceso al desarrollo y difusión de los adelantos tecnológicos en materia de producción, gerenciamiento y comercialización.
+  
+Asimismo, a través del programa Ahora es Cuando se promueve la construcción, gestión y complementariedad de saberes, el apoyo al empleo digno y productivo y la asociatividad de la producción, comercialización y consumo.
+  
+**ii) Servicios financieros y de desarrollo productivo integral**
+  
+Bajo esta política se plantean medidas que contribuyan a orientar recursos financieros al sector productivo, que permitan apoyar la transformación productiva y la generación de empleo, a través del Banco de Desarrollo Productivo, aprovechando eficientemente la capacidad instalada, por las entidades financieras privadas y públicas.
+  
+La estrategia de incentivo a la asociatividad en el marco del impulso a los Complejos Productivos Integrales, está orientada a promover un nuevo equilibrio entre las iniciativas privadas y el interés público, prestando especial atención a la igualdad de oportunidades, en el marco de los Complejos Productivos Integrales concebidos como un conjunto articulado de actores, actividades, relaciones y condiciones incorporados en la matriz productiva a nivel sectorial y territorial.
+  
+En el ámbito del Desarrollo Productivo Integral, los servicios de capacitación y asistencia técnica se caracterizarán por la formación teórico-práctica. Este es el caso del Programa Servicio Nacional de Desarrollo Productivo de Pequeños Productores (SENADEPRO), que coadyuvará en el mediano plazo a incorporar lógicas de gestión productiva, y mejorar su productividad.
+  
+**iii) Generación de condiciones para el desarrollo industrial y tecnológico sostenible**
+  
+Esta política comprende tres líneas de acción, la primera orientada a la promoción de servicios, en la cual se desarrollará apoyo a la certificación, acreditación y manejo ambiental productivo, así como la promoción de las prácticas de responsabilidad social; combinando aspectos legales, éticos, morales y ambientales.
+  
+La segunda línea se centra en la dotación de infraestructura para el desarrollo industrial. Finalmente, la tercera, se encuentra orientada al fortalecimiento de las condiciones técnicas y equipamiento para el apoyo al desarrollo industrial y tecnológico, así como la innovación tecnológica para los pequeños productores, mediante los Centros de Especialización Tecnológica e Investigación (CETIS).
+  
+La estrategia es el Desarrollo Estratégico Industrial Sostenible, basado en los programas Desarrollo Estratégico Industrial Sostenible con Responsabilidad Social Empresarial, Fortalecimiento del Servicio Nacional de Propiedad Intelectual, Fortalecimiento del Instituto Boliviano de Metrología implementados articuladamente, en función de una visión del desarrollo orientado a: “dinamizar” la estructura productiva nacional y contribuir al cierre de la brecha tecnológica, fortaleciendo la capacidad de la economía para experimentar con nuevas producciones y para adaptar a las condiciones locales las tecnologías, los procesos y las técnicas de comercialización de punta.
+  
+**iv) Patrón exportador diversificado con valor agregado y fortalecimiento del mercado interno**
+  
+Se impulsará un perfil exportador más diversificado con productos con mayor valor agregado, con insumos nacionales y marca boliviana, especialmente de las micro, pequeñas y medianas empresas, organizaciones económicas campesinas y comunidades indígenas. Asimismo se propenderá a unas relaciones comerciales equilibradas con diversificación de mercados que permitan ampliar las empresas en número y composición.
+  
+Además, el Estado brindará las condiciones necesarias para la protección arancelaria diferenciada y fortalecimiento del mercado interno.
+  
+Bajo la estrategia de Concientización, información y protección del mercado interno, se priorizarán acciones gubernamentales de apertura y consolidación de mercados internos, generando oportunidades para acceder a mercados y compras estatales, a través del Programa Compro Boliviano (COMPROBOL),y la implementación del Programa del Desarrollo del Mercado Interno, mediante un Sistema de Inteligencia del Mercado Nacional (SIM), así como el Servicio Boliviano de Comercio (SBC).
+  
+La estrategia, Inteligencia de mercados e incentivos para nuevos mercados externos, prevé el Programa Implementación de la Estrategia Nacional de Exportadores, con la aplicación del Sistema Integral de Inteligencia de Mercados para Exportaciones Bolivianas (SIEX) y la Red de Fomento Productivo y Promoción de las Exportaciones (REFO).
+  
+**v) Construcción del marco institucional del nuevo modelo productivo**
+  
+El objeto es implementar, ampliar y configurar un marco normativo e institucional que apoye y promueva la articulación de las unidades productivas, plasmadas en las siguientes estrategias:
+  
+La estrategia Desarrollo del marco normativo se aboca a promover el desarrollo económico nacional a través de la promulgación y creación de un marco normativo de fomento a los pequeños productores y medianas empresas, mediante el apoyo para su viabilidad, productividad, competitividad y sustentabilidad.
+  
+La estrategia Fortalecimiento Institucional mediante el Programa Aplicación de tecnologías de información y de comunicación para el desarrollo productivo se aboca a promover el desarrollo de los sistemas de información y herramientas de tecnología para la mejora de la gestión institucional del Ministerio de Producción y Microempresa. En este sentido, para emprender las nuevas políticas de desarrollo, será necesaria la aplicación de una adecuada gestión institucional, que finalmente irá en beneficio de las unidades y asociaciones de producción.
+  
+4.5.3 Turismo
+  
+En los últimos 20 años, la actividad turística en el país se ha desarrollado enfatizando sólo la dimensión económica. Esta concepción ha impedido que los pueblos indígenas y originarios, comunidades rurales y otros sean gestores y beneficiarios de esta actividad y ha imposibilitado que el ecoturismo se constituya en una opción de desarrollo productivo sostenible para los sectores sociales del país.
+  
+La orientación de corto plazo con la que se ha venido desarrollando el turismo en Bolivia no ha permitido superar las enormes deficiencias en infraestructura vial, servicios básicos, energía eléctrica y comunicaciones en la mayoría de los destinos turísticos priorizados, ocasionando baja calidad en la oferta turística, pese a que el país es muy rico en recursos naturales y biodiversidad, culturales, arqueológicas, históricas y étnicas, diversidad de flora, fauna y cultura viva en áreas protegidas.
+  
+**Propuesta de cambio**
+  
+El nuevo Estado concibe al turismo como una actividad productiva, integral, multidisciplinaria y multisectorial; su desarrollo estará orientado a promover y priorizar la participación de pueblos indígenas, originarios y comunidades rurales en la actividad, como agentes de preservación de la diversidad cultural, en armonía con el medio ambiente, como promotores del desarrollo local y receptores directos de los beneficios de la actividad turística en un horizonte temporal de largo plazo. Este nuevo enfoque de desarrollo permitirá atenuar las asimetrías económicas y sociales existentes entre regiones, así como al interior de las propias comunidades.
+  
+El Estado también participará en el sector turismo como promotor, modificando la estructura institucional del sector para hacerla funcional al nuevo enfoque de desarrollo turístico. Los pueblos indígenas, originarios y comunidades rurales, organizados en formas asociativas serán actores principales, a las cuales el Estado prestará asistencia técnica, financiamiento, capacitación e infraestructura turística. Las empresas privadas son otros actores de ésta actividad que al compartir con los agentes sociocomunitarios conforman alianzas estratégicas con el sector socio comunitario para el desarrollo del turismo sostenible.
+  
+**Políticas y estrategias**
+  
+**i) Promoción y gestión del turismo con énfasis en lo indígena, originario comunitario**
+  
+La política apunta a fortalecer a los pueblos indígenas, originarios y comunidades rurales como agentes de desarrollo local basado en el ecoturismo y turismo comunitario. En tal sentido se implementarán programas de capacitación, asistencia técnica para la recuperación y preservación de saberes locales, técnicas, tecnologías y promover el acceso al financiamiento para la creación de emprendimientos comunitarios de turismo.
+  
+La estrategia de Democratización de Turismo a través de la articulación intercultural e intraterritorial, orientará, fomentará y promocionará a los pueblos indígenas, originarios y a las comunidades rurales en la actividad turística.
+  
+Estos objetivos se realizarán a través del programa de Turismo Indígena, Originario y Comunitario, que permitirá fortalecer y generar emprendimientos comunitarios sostenibles para que se constituyan en agentes del desarrollo local, de gestión, mantenimiento y preservación de los recursos ecológicos.
+  
+El programa impulsará y facilitará el fortalecimiento, creación, articulación del turismo indígena comunitario y la creación de oferta turística Indígena y comunitaria en regiones con altos índices de pobreza, los que permitirán constituir micro empresas de ecoturismo y artesanías, se asistirá con capacitación, mecanismos de acceso a financiamiento e infraestructura.
+  
+La estrategia de cualificación de la oferta turística en los destinos existentes y por crearse, estará orientada al fortalecimiento de las capacidades de los recursos humanos del sector, a través de planes formativos avalados por las instancias competentes, con contenidos vinculados con la formación continua y ocupacional. Asimismo, se apoyará en la generación de una cultura turística, a través de la sensibilización y educación de la población local y actores del sector.
+  
+Esta estrategia prevé el programa de Gestión Turística territorial de los destinos existentes y por consolidarse, así como la Innovación Tecnológica y el Sistema de Información estadística para el desarrollo del turismo.
+  
+La estrategia de Promoción, mercadeo y difusión de la oferta turística se orienta a la mejora de la competitividad de los destinos turísticos del país, que, a través del programa Promoción y Mercadeo de la Oferta Turística Nacional en el Mercado Interno e Internacional pondrá en marcha e impulsará la calidad de servicios y destinos.
+  
+En esta línea, se apoyará especialmente destinos vinculados con el patrimonio, la cultura autóctona y el ecoturismo en áreas protegidas. A nivel internacional se apoyará la promoción y difusión de la imagen turística del país.
+
+### 4.5.4 Vivienda
+
+Los modelos de desarrollo económico social y territorial durante el siglo pasado, y en las últimas décadas, no permitieron un desarrollo equilibrado y una ocupación armónica del territorio; por el contrario provocaron un rápido proceso de urbanización producto de la migraciones campo ciudad, generando un crecimiento descontrolado en las ciudades, y una baja calidad de vida por carencia de condiciones básicas de habitabilidad.
+  
+Por otra parte, el Estado cedió su rol a las fuerzas del mercado como gestor del desarrollo urbano, del acceso al suelo y a la vivienda. Sin embargo, la iniciativa privada y anteriores programas de vivienda estatales no alcanzaron a adquirir significación en la solución al déficit cuantitativo y cualitativo de viviendas.
+  
+La debilidad de los municipios y la ausencia de una visión del estado para el desarrollo urbano, impidió encarar el mejoramiento del hábitat urbano, que concentra más del 65 por ciento de la población en las áreas urbanas.
+  
+**Propuesta de cambio**
+  
+El Estado inicia el proceso de promover el desarrollo urbano territorial, sobre la base de la complementariedad entre el campo y la ciudad, en alianza con el sector privado y recuperando el rol en la aplicación de políticas sociales y económicas en vivienda social, con la premisa de que la vivienda debe constituirse en un “motor dinamizador” del desarrollo productivo y social, para Vivir Bien.
+  
+Se aprovecha la organización comunitaria para el control social, para la gestión social del desarrollo y la preservación del medio ambiente. Tales formas comunitarias incluyen la autoconstrucción, y el cooperativismo, que tienen raíces ancestrales y comunitarias.
+  
+Para alcanzar los mencionados objetivos el Estado desarrollará un marco normativo e institucional que permita reposicionar al sector Vivienda y Urbanismo dentro del Plan Nacional de Desarrollo.
+  
+**Políticas y estrategias**
+  
+**i) Acceso a la vivienda**
+  
+Recuperación de un Rol para el Estado, en la generación de instrumentos, mecanismos y normas, para facilitar el acceso a la vivienda para la población carente.
+  
+La estrategia está orientada a impulsar la reactivación de la construcción, en tanto es generador de empleo y a la reducción del déficit habitacional, con programas e incentivos para la participación de las MyPEs y otras organizaciones asociativas, simultáneamente, al desarrollo del Programa Nacional de Vivienda Social y Solidaria. Se busca así, una reducción paulatina del déficit cuantitativo y cualitativo de vivienda en áreas urbanas y rurales, implementando mecanismos adecuados de adjudicación y selección de beneficiarios y la inversión de recursos provenientes de los aportes patronales del 2 por ciento privados y estatales.
+  
+Las metas del programa son reducir el déficit cuantitativo y cualitativo de viviendas, con la creación de nuevos empleos directos e indirectos en el quinquenio. Estas metas se basan en el desarrollo de los siguientes componentes:
+  
+a) El Componente Cualitativo comprende, para el área rural, el programa de Mejoramiento y ampliación de viviendas, viviendas productivas y viviendas saludables que consiste en un subsidio. En el área urbana comprende el programa Mejoramiento y ampliación de viviendas, el cual otorga créditos para el mejoramiento físico de las viviendas y módulos productivos.
+  
+b) El Componente Cuantitativo comprende los subprogramas: 1, consistente en un subsidio parcial para viviendas rurales, y los subprogramas 2, 3 y 4 dirigidas a las áreas urbanas del país con créditos para la construcción o compra de vivienda. Dentro de estos componentes, se incluyen proyectos especiales de vivienda cuyos beneficiarios serán poblaciones afectadas por desastres naturales y sectores de extrema pobreza. Cabe aclarar, que el déficit habitacional con esta propuesta se reduciría en un 20,8 por ciento.
+  
+Dentro de todos los componentes, se incorpora una línea de financiamiento dirigida a un Apoyo Institucional al Beneficiario del Plan de Vivienda Social, destinada a estudios de preinversión y pago de tasas de tramitación para casos que se requiera.
+  
+Complementariamente se busca actualizar y completar el marco normativo de vivienda para instituirla como un derecho social, garantizando sus condiciones de habitabilidad en interrelación con otros sectores, mediante la aplicación de políticas intersectoriales de acceso a los servicios básicos (agua, alcantarillado, energía eléctrica, instalaciones de gas, tratamiento de residuos), infraestructura básica (transporte masivo, vialidad, alumbrado público) equipamiento comunitario (áreas verdes, recreación e instalaciones de salud y educación, mercados).
+  
+**ii) Gestión del suelo**
+  
+Dotar al Estado de un rol en la Gestión Urbana desarrollando componentes que incidan de manera permanente y transversal en el Acceso al Suelo Urbano y a la Vivienda, para favorecer a la población carente.
+  
+Se trata de Fortalecer la Gestión Urbana Municipal paralelamente a la consolidación del Viceministerio de Vivienda y Urbanismo (VMVU) como instancia técnica del Catastro Urbano a nivel nacional mediante planificación del Catastro Urbano y la emisión de normas técnicas. De igual forma se realizará la implementación de programas de Regularización del Derecho Propietario Urbano, como herramientas fundamentales que permiten encarar una gestión urbana orientada a facilitar el acceso al suelo y a la vivienda.
+  
+Como aplicación de esta política, se tiene como objetivo posibilitar la formación y mejoramiento de sistemas de catastro en áreas urbanas con el fin de generar títulos y regularizar el derecho propietario en miles de predios en el ámbito nacional, proyectos en que el VMVU tendrá un rol de seguimiento, monitoreo y evaluación, para garantizar la idoneidad los proyectos y la aplicación de las normas técnicas.
+  
+Ejecutar el saneamiento, perfeccionamiento y ejercicio pleno del Derecho Propietario urbano (seguridad técnica y jurídica), incorporando predios urbanos al sistema de información Geográfica y Catastral de los Gobiernos Municipales, facilitando el acceso a servicios básicos y públicos, además de constituirse en el motor del desarrollo urbano y promotor de créditos en el sistema financiero nacional como factores que incentivan el mejoramiento de la vivienda, incrementando el valor de la propiedad catastral.
+  
+Igualmente se propone que el Estado asuma un rol en la promoción de la aplicación de instrumentos de Gestión del Suelo Urbano, estableciendo un componente normativo de apoyo a la Gestión Urbana Municipal orientado al Ordenamiento Urbano con criterios de Gestión de Riesgos y en ese marco, posibilitar la identificación de tierras urbanas y/o urbanizables en los municipios con destino a planes de vivienda social, apoyando así el Programa de Vivienda Social y Solidaria. Objetivo en el que las herramientas de Catastro y Delimitación de Áreas Urbanas son indispensables.
+  
+**iii) Gestión del hábitat urbano**
+  
+El Estado como gestor del Hábitat Urbano y de la competitividad de las ciudades. Se trata de dotar al Estado de una capacidad de gestión a nivel del Sistema Nacional de Ciudades para promover de procesos de metropolización.
+  
+La metropolización entendida como una política nacional para el Desarrollo, orientada a la generación de un marco de alianzas y complementariedad entre ciudades que conforman subsistemas vinculados por dinámicas interurbanas. Se tiene como objetivo impulsar el Desarrollo Urbano Territorial, con resultados a largo plazo que permitan corregir distorsiones en la distribución de la población en el país, una mejor ocupación del territorio nacional y el impulso a la competitividad de las ciudades.
+  
+Objetivo para el que es necesario desarrollar un componente de normas, instrumentos y estrategias que apoyen la Gestión Urbana Municipal en un marco Intermunicipal, contando con el requisito indispensable de la constitución de “mancomunidades territoriales” entre municipios involucrados para alcanzar este fin.
+  
+Las metas propuestas en este ámbito son, marco normativo nacional para metropolización de ciudades intermedias con Planes de Ordenamiento Urbano, y el Mejoramiento Integral de Barrios.
+  
+Para alcanzar este objetivo es necesario, paralelamente desarrollar un marco normativo e institucional que permita reposicionar al sector Vivienda y Urbanismo dentro del Plan Nacional de Desarrollo. En ese contexto, es necesaria la creación de un Sistema de Monitoreo del Sector, mismo que se propone poner en funcionamiento hasta el 2010. La formulación y dotación a los municipios de Guías normativas metodológicas para la Planificación Estratégica por Subsistemas de ciudades y un instrumento marco normativo y administrativo para el Desarrollo Urbano Territorial en Vigencia (Ley de Urbanismo).
+
+### 4.5.5 Dignificación del empleo
+
+Durante la vigencia del modelo neoliberal en nuestro país, la temática de empleo ha sido descuidada, debido a que se aplico prioritariamente un conjunto de mediadas económicas de ajuste estructural, plasmado en el D.S. 21060, que libero los mercados de trabajo, de bienes y servicios, y mercado de capitales.
+  
+En este sentido, el mercado de trabajo perdió dinamismo, lo cual se traduce en una tasa de desempleo abierto, que para el año 2006, representó 8.15 por ciento, siendo los más afectados los jóvenes de 18 a 24 años. Lo empleos se han concentrado en micro y pequeñas iniciativas económicas, de baja productividad, ingreso y sin seguridad social.
+  
+Asimismo, las organizaciones de trabajadores se debilitaron como consecuencia de la aplicación de normas neoliberales, cuyo impacto directo se sintió en el Ministerio de Trabajo que, redujo su capacidad de interlocución en la defensa de los derechos de los trabajadores.
+  
+Por otra parte, el escaso dinamismo del aparato productivo, y particularmente del sector empresarial de la economía no logró generar suficientes empleos, lo que obligo a los agentes sociales a incorporarse en actividades informales, de tipo familiares y pequeños emprendimientos, un contexto en el cual el trabajo asalariado no constituyó la primera opción de inserción laboral.
+  
+Para mejorar las condiciones de empleo, se requiere de un drástico cambio en la orientación del Estado, transformando al empleo en el pivote de la política económica, haciendo que la dignificación del trabajo sea el motor de Vivir Bien. Para ello, es necesario fortalecer la institucionalidad del Ministerio de Trabajo, como encargado de la articulación y coordinación de la política de empleo.
+  
+**Propuesta de cambio**
+  
+El punto de partida para revertir la actual situación de desempleo y precarización de las condiciones de trabajo es la valorización del trabajo como articulador de la vida, el Estado y la Sociedad. El trabajo articula la vida, en tanto determina la contribución de cada persona a la sociedad y en tanto configura identidades individuales y colectivas. Asimismo, el trabajo articula a la sociedad, puesto que es el elemento central de las relaciones de producción. Finalmente, el trabajo articula al Estado, al ser fuente de derechos individuales y colectivos.
+  
+Encarar el conjunto de problemas del empleo en el país, constituye un esfuerzo de carácter prioritario, cuyos contenidos se relacionan con la distribución de la riqueza, de los activos productivos y de la tecnología, por tanto con la actividad económica en todos los sectores y una interrelación nueva en la matriz productiva; pero también incorpora toda la problemática social y cultural expresada en prácticas de exclusión-discriminación. Así, los problemas educativos, de salud y de capacidad de reproducción de la fuerza de trabajo de los hogares están asociados con el acceso a una fuente de trabajo y de ingresos de sus miembros, como ámbito de resolución.
+  
+Estas iniciativas se articularán con la generación de condiciones de dignificación del trabajo, es decir: sin ningún tipo de sobreexplotación ni de discriminación, en su ambiente de respeto pleno a los derechos humanos, de seguridad en el espacio de trabajo, de pleno y democrático acceso a todas las oportunidades, en condiciones que garantizan una remuneración justa y un acceso a los mecanismos de protección y seguridad social. Para este cometido se desarrollarán acciones normativas y de cambio institucional.
+  
+**Políticas y estrategias**
+  
+**i) Población trabajadora de Bolivia tiene empleos más dignos y ejerce plenamente sus derechos sociolaborales**
+  
+Tiene como objetivo lograr que la población trabajadora de Bolivia tenga empleos más dignos y ejerza plenamente sus derechos sociolaborales. Así, se plantean como metas, que en los próximos cinco años, se reduzca el desempleo abierto al 4,5 por ciento y se amplíe la cobertura de protección al trabajo hasta llegar al 80 por ciento de la población trabajadora.
+  
+Para el logro de estos objetivos, se ha previsto la implementación de tres estrategias: Dignificación del trabajo, que pretende garantizar que la población trabajadora del país tenga seguridad jurídica para el cumplimiento efectivo de las normas laborales y sociales.
+  
+Se implementarán cuatro programas: Aplicación y mejoramiento de la normativa, que apunta a la modernización y simplificación de la normativa existente, eliminando todos aquellos elementos que impiden una correcta interpretación y aplicación del derecho laboral; el programa de nueva normativa, a través del cual se plantearán soluciones para incrementar la cobertura de defensa de derechos, el programa de fortalecimiento de las organizaciones sindicales, que apunta a mejorar las condiciones de desempeño de las organizaciones de trabajadores para que ejerzan su rol de guardianas de los derechos sociolaborales; finalmente, está el programa de diálogo social urgente, a través del cual se ejecutarán acciones de diálogo tripartito y prevención de conflictos.
+  
+La estrategia dos, Creación de condiciones para la generación de empleo productivo, pretende que la población trabajadora mejore sus condiciones de acceso a empleo digno y prevé la ejecución de cuatro programas: Promoción del empleo que, a través de acciones de articulación y coordinación interinstitucional posibilitará la ejecución de proyectos específicos para los segmentos más desfavorecidos de la población (jóvenes, mujeres y desempleados de largo plazo).
+  
+Dentro de esta segunda estrategia, el programa Seguimiento y Concertación de Propuestas de Empleo, creará espacios para la generación y ejecución de propuestas de acciones estructurales en materia de política económica orientada a la generación de empleo; el programa de impacto social planteará acciones inmediatas para poblaciones indígenas, erradicación del trabajo infantil y un acceso más equitativo al empleo digno por parte de las mujeres; finalmente, con el programa de fortalecimiento al sistema cooperativo se proponen acciones concretas para modernizar el marco normativo e institucional de supervisión y promoción del cooperativismo, a través de mecanismos ágiles que promuevan un crecimiento ordenado del sistema, y una adecuada gobernabilidad en cada instancia.
+  
+La estrategia tres, Dotación de condiciones institucionales, plantea en materia de empleo una institucionalidad fuerte, motivo por el cual, es necesario contar con una estrategia de fortalecimiento y crecimiento del Ministerio de Trabajo.
+  
+Esta estrategia tiene dos programas: Reorganización del ministerio, que implica modernizar los sistemas informáticos, para acercar el ministerio a la población trabajadora, facilitar y agilizar los trámites, además de contar con una estructura administrativa acorde con las funciones y mandatos del ministerio; por otro lado, se tiene el programa de cualificación del personal del ministerio, a través del cual se incidirá en las condiciones de reconocimiento social y económico, promoción y capacitación del personal, con el fin de mejorar constantemente la atención a la población trabajadora del país.
+
+### Sección 4.6 Sectores de infraestructura para la producción
+
+### 4.6.1 Transportes
+
+Las características geográficas del país dificultan la integración física, social, cultural y económica; tales condiciones elevan los costos de construcción, mantenimiento y operación de los servicios de transporte en sus diferentes modalidades: sistema vial, ferroviario, aéreo y fluvial lacustre. Esta situación ha sido agravada por cuatro factores: primero, que los recursos presupuestados a ser invertidos en infraestructura de transportes fueron administradas ineficiente y discrecionalmente; segundo, las insuficientes inversiones destinadas al transporte; tercero, las políticas pasadas, solamente estaban orientadas al transporte carretero en desmedro a las demás modalidades; cuarto, la falta de políticas y estrategias secuenciales de mantenimiento bien orientadas técnica y económicamente al transporte. Dichos factores parten de las políticas usadas por décadas por los gobiernos neoliberales que no fueron eficientes en el logro de una integración económica, regional y física
+  
+**Propuesta de cambio**
+  
+Mejorar e integrar el sistema de transporte nacional, en todas sus modalidades (caminera, ferroviaria, aeronáutica y fluvial lacustre) como componente significativo del desarrollo y la ampliación de mercados para la producción boliviana, contribuyendo a los esfuerzos integrales que permitirán a Bolivia salir efectivamente del subdesarrollo económico y social en que se encuentra.
+  
+Las tareas de construcción y mantenimiento de la infraestructura multimodal se realizarán bajo condiciones de costos eficientes, calidad y sostenibilidad de las operaciones, con absoluta transparencia erradicando todas aquellas prácticas discrecionales e ineficientes sobre la inversión en infraestructura de transportes.
+  
+El Estado recuperará y fortalecerá su presencia y capacidad de decisión en la conducción de la política caminera, ferroviaria, aeronáutica y fluvial lacustre.
+  
+A través de la nueva política de transportes, el Estado orientará sus recursos en la perspectiva de vertebrar internamente al país. En la consecución de este objetivo, se beneficiará primero a los bolivianos, sobre todo a aquellos que viven en zonas rurales y alejadas de las principales ciudades.
+  
+**Políticas y estrategias**
+  
+**i) Recuperación del patrimonio y del rol conductor del Estado.**
+  
+El Estado requiere recuperar el patrimonio que tiene en ferrovías y aeropuertos, para que estos presten servicios a la población, en términos de calidad y costo convenientes; bajo una perspectiva de apoyo significativo al desarrollo integral de cada una de las regiones del país.
+  
+Mediante la estrategia Establecimiento y recaudación del marco normativo técnico y orgánico del sector transporte se viabilizarán los mecanismos más convenientes para la Reactivación Recuperación del Patrimonio Ferroviario y Aeroportuario. Se conformarán nuevas entidades dependientes del Estado y se potenciarán las existentes para que sean administradas en términos de competitividad, eficiencia y servicio social mediante el programa Definición de roles de las entidades públicas del sector transportes a través de la adecuación de la normativa.
+  
+El rol conductor del Estado se manifestará en la estrategia de reforzamiento de los mecanismos de regulación y control de las actividades con un soporte de calidad de los servicios de transporte entregados a la población, así como con la participación directa en la prestación de servicios de transporte, con inversiones bajo una perspectiva de sostenibilidad y responsabilidad por la calidad y seguridad de los servicios. Por tanto, el estado asumirá un rol protagónico en el campo de la prestación de servicios, con el propósito de satisfacer las expectativas de la población, respecto a la ampliación del universo de usuarios de los servicios de transporte aéreo.
+  
+En cuanto a los servicios de transporte terrestre, el Estado se verá fortalecido en sus mecanismos y organismos de regulación con proyectos destinados a facilitar las operaciones en condiciones de seguridad de esta manera contribuyendo al desarrollo del país.
+  
+En materia aeronáutica, la estrategia de Mejoramiento de los Servicios a la Navegación Aérea, permitirá mantener la vigencia de las certificaciones internacionales y asegurar la calidad de los servicios de apoyo a las operaciones aéreas.
+  
+El Programa Nacional de Vigilancia promoverá la vigilancia de la seguridad operacional (servicios de infraestructura aeronáutica) y de los Servicios de Navegación Aérea; así como también el mantenimiento de las certificaciones de los aeropuertos internacionales del país.
+  
+Se complementará y actualizará el cuerpo normativo y regulatorio de la actividad aeronáutica en Bolivia, a objeto garantizar la calidad y seguridad en la prestación de servicios a la población orientándolos hacia la integración del territorio y al apoyo a las actividades productivas y de turismo.
+  
+Regular el funcionamiento de las instalaciones de infraestructura portuaria, a favor de las importaciones y exportaciones de productos sobre el canal Tamengo, para convertirlo en instrumento directo de apoyo al desarrollo del sector productivo del oriente del país.
+  
+**ii) Vertebración interna e integración externa**
+  
+Esta basada en la construcción, mantenimiento y rehabilitación de carreteras, ferrovías, aeropuertos e hidrovías, que permitan a Bolivia una mayor vertebración interna y lograr el acceso estratégico de sus exportaciones a los mercados de destino; bajo la perspectiva de un modelo de desarrollo de infraestructura multimodal que permita aprovechar de forma integral los diferentes sistemas de transporte de acuerdo a las características geográficas del país, esto marca un cambio de enfoque en el desarrollo basado anteriormente en esfuerzos dirigidos de manera aislada principalmente al modo terrestre.
+  
+Bajo la estrategia Desarrollo y Mantenimiento vial se aplicarán los programas de Integración Norte, Este y Oeste así como del Sur del país, apoyando a la expansión de las posibilidades productivas y comerciales de cada región.
+  
+La infraestructura de transporte que integra el norte del país, en general, es precaria, dado que las carreteras de tierra y ripio se ven afectadas por inundaciones, fenómenos naturales, fallas geológicas que afectan la comunicación de la región con el resto del país. En el caso de la integración del Sur se resalta la importancia del potencial minero, vitivinícola, hidrocarburífero y de turismo de la región; asimismo la importancia económica de concluir el corredor bioceánico oeste-este.
+  
+También se incluye los esfuerzos nacionales y regionales por desarrollar y mantener las redes departamentales y vecinales de transporte terrestre.
+  
+La segunda estrategia, Desarrollo del Sistema Nacional de Transporte Ferroviario busca, por sus características, permitir el transporte masivo de carga y pasajeros. Se pretende la rehabilitación de la Red Occidental, incluyendo el tramo Zona Roja para el apoyo a las actividades económicas que promuevan el desarrollo productivo y turístico en las poblaciones que la integran, para tal efecto se aplicará el Programa de Reactivación, Interconexión y Ampliación del Sistema Ferroviario.
+  
+Se evaluarán técnica y económicamente las alternativas de interconexión de las redes occidental y oriental de forma que posibilite la habilitación de un corredor nacional de transporte de pasajeros y carga por modo ferroviario. Asimismo, en el oriente del país se construirá la ferrovía que coadyuve al desarrollo del proyecto siderúrgico de El Mutún y a las exportaciones bolivianas a través de la hidrovía Paraguay-Paraná.
+  
+La tercera estrategia, Desarrollo y Mejoramiento de la Infraestructura Aeroportuaria, tiene el objetivo de mejorar la infraestructura de los aeropuertos de todo el país, y especialmente en regiones alejadas que, por su ubicación, requieren de esta modalidad para el transporte de carga y pasajeros.
+  
+La cuarta estrategia de la política se denomina Aprovechamiento de Hidrovías, que tiene el objeto de desarrollar el transporte por agua y convertirlo en un sólido sistema articulador del sector productivo.
+  
+El Programa Mejoramiento y desarrollo del transporte fluvial en la cuenca Amazónica permitirá la vinculación de regiones alejadas y potencialmente productivas a través de ríos navegables.
+  
+Y se solidificará este sistema de transporte con el programa Desarrollo de Infraestructura y equipamiento para mejorar las condiciones del transporte naviero e infraestructura en la Cuenca del plata
+  
+**iii) Inversiones eficientes en infraestructura de transportes**
+  
+Bolivia necesita optimizar los costos de inversión y operación de toda su infraestructura de transportes en sus cuatro modos, y que estas se realicen a través de un proceso de planificación acorde con las prioridades de las políticas productivas y las necesidades de la población.
+  
+La vertebración interna y la integración externa estratégicas serán posibles solamente con la participación del Gobierno Central, las Prefecturas y los Gobiernos Municipales, a través de un Sistema Referencial de Infraestructura de Transportes, basado en un conjunto de disposiciones legales y técnicas que establecerán, los mecanismos normativos para la concurrencia de la inversión pública entre los niveles de gobierno mencionados, para el desarrollo y mantenimiento de la infraestructura de transportes en todas sus modalidades.
+
+### 4.6.2 Telecomunicaciones
+
+Bolivia tiene la mayor brecha digital de América Latina lo que muestra la exclusión a la que están sometidas las áreas rurales y urbano marginales, resultado del patrón de desarrollo colonialista aplicado en el país y de las políticas de las empresas transnacionales que se hicieron del control de las telecomunicaciones, al amparo de un sistema de regulación sectorial a favor de estas empresas transnacionales, que aún están vigentes. Las empresas pese a obtener grandes ganancias no contribuyeron a la expansión de la cobertura hacia áreas deprimidas por la ausencia de compromiso social.
+  
+El acceso universal a la información, al conocimiento y a la comunicación como bienes públicos es responsabilidad del Estado, quien intervendrá soberanamente en todos aquellos espacios que son de interés social, para promover servicios públicos en condiciones de calidad, continuidad y accesibilidad económica para eliminar la marginación y la exclusión contribuyendo a la posibilidad de Vivir Bien.
+  
+**Propuesta de cambio**
+  
+Utilizar las telecomunicaciones como el medio esencial para una participación ciudadana mucho más activa en la democracia del país y el acceso irrestricto a la información y el conocimiento, en la apertura de mayores oportunidades de desarrollo económico y social sobre todo para los sectores sociales pobres y marginados, mediante la expansión substancial de la cobertura de los servicios.
+  
+Recuperación del control y la soberanía en la conducción del sector por parte del Estado, generando un nuevo marco normativo de regulación sectorial, intensificando el control de los servicios y estableciendo condiciones para que las ganancias se reinviertan en el propio sector y beneficien al país en su conjunto. El Estado soberanamente promoverá servicios públicos en telecomunicaciones en condiciones de calidad, continuidad y asequibilidad económica, implementando mecanismos para asegurar la sostenibilidad de los servicios.
+  
+**Políticas y estrategias**
+  
+**i) Comunicaciones para el área rural y periurbana**
+  
+Busca la integración a nivel nacional y mundial, eliminando la exclusión de grandes sectores pobres del país con la reducción de la brecha digital. Con la estrategia de reducción de las desigualdades de acceso a las telecomunicaciones, la población tendrá mayores posibilidades para comunicarse con el resto del país y del mundo, acceder a información y conocimiento para aprovechar de mejor manera los servicios de educación, salud y apoyo a la producción.
+  
+El programa de acceso y servicio universal en áreas de interés social permitirá la instalación de telecentros comunitarios, teléfonos públicos, servicio universal de telefonía, instalación de radiodifusoras comunitarias, respaldado con la aprobación de una normativa para garantizar este proceso.
+  
+Otro programa de esta política, garantizará la instalación de telefonía móvil celular, estaciones de radio y televisión en áreas rurales, y usos productivos y sociales con tecnologías de información y comunicación (TIC).
+  
+Una segunda estrategia de esta política es mejorar el servicio postal e incrementar su cobertura, para envíos de correspondencia personal hasta envíos de pequeñas muestras de productos para exportación. Para ello se cuenta con el programa de mejoramiento y expansión de los servicios postales, que contempla la expansión del servicio postal, seguridad postal, red de oficinas multiservicio, reingeniería de procesos, sistema de seguimiento y rastreo, establecimiento de costos y tarifas postales, entre otros.
+  
+ii) Conducción y control soberano de las telecomunicaciones
+  
+Tiene por objetivo lograr una mayor eficiencia, equidad y transparencia en los servicios públicos en beneficio de la sociedad. A partir de ella el Estado recuperará el control soberano y la conducción del sector de las telecomunicaciones, se reformará el modelo de regulación sectorial, se establecerán disposiciones que permitan el desarrollo de los mercados en condiciones de eficiencia y equidad a través de la generación de un nuevo marco normativo.
+  
+La propuesta cuenta con la estrategia para intensificar la supervisión y control del desarrollo de los servicios públicos de telecomunicaciones, para la preservación de la continuidad de estos servicios.
+  
+Para lograr esto se cuenta con el programa de reestructuración y articulación de las funciones regulatorias y normativas, que permitirá el rediseño del sistema de regulación y la elaboración de la normativa para la reestructuración de la función regulatoria. Mientras que, con el programa de continuidad de los servicios públicos de telecomunicaciones y de su expansión, se busca mejorar la supervisión a proveedores en situación de riesgo para garantizar la continuidad de los servicios, la promoción de nuevos operadores en áreas rurales y la elaboración de una normativa para este objetivo.
+  
+El programa de intensificación de la regulación de las actividades de telecomunicaciones busca la generación del nuevo régimen de control de la calidad de los servicios de telecomunicaciones, y el combate a las actividades ilegales de telecomunicaciones. A este se suma el programa de levantamiento y atención de las demandas de telecomunicaciones identificadas en las instituciones públicas.
+  
+Con la estrategia para mejorar las condiciones para alcanzar una libre y leal competencia, se busca: reforzar la participación proactiva del Estado para resolver las deficiencias y fallas de mercado, proteger y defender a los consumidores, con el programa de mejoramiento de la eficiencia en los mercados, así como la promoción y defensa de la competencia.
+  
+A este se suma el programa de intensificación de la protección y defensa de los consumidores, que busca la reducción de la asimetría de información para los usuarios; la expansión de la presencia física del organismo regulador al interior del país; y la generación de una normativa para mejorar la protección y defensa de los consumidores.
+  
+**iii) Generación, difusión y control de contenidos en beneficio de la sociedad.**
+  
+El Estado asumirá la responsabilidad social en la difusión de contenidos por radio y televisión, en la generación y difusión por Internet de contenidos locales para el desarrollo productivo, educativo y de salud, para evitar que se atente contra la dignidad humana y los derechos de la niñez, adolescencia y la mujer.
+  
+La propuesta tiene como estrategia la generación y difusión de contenidos en beneficio de la sociedad para el desarrollo productivo, educativo y de la salud, para ello se espera impulsar las tecnologías de información y comunicación incluyendo la conformación y difusión de sistemas científicos y tecnológicos que estén al servicio de los sectores que conforman la matriz productiva del país.
+  
+El programa que sustentará la propuesta es la implementación de la estrategia nacional de tecnologías de información y comunicación para el desarrollo de la sociedad del conocimiento, que busca contar con un Sistema Nacional de Información para el Desarrollo; la conectividad e infraestructura para el acceso, generación, emisión y recepción de la información; y la adecuación y desarrollo de la normativa para el uso de las TICs.
+  
+Una segunda estrategia de responsabilidad social en la difusión de contenidos audiovisuales y redefinición de las concesiones en radiodifusión, tiene al programa control de contenidos audiovisuales y redefinición de concesiones en radiodifusión.
+
+### Sección 4.7 Sectores de apoyo a la producción
+
+### 4.7.1 Sistema Nacional de Financiamiento para el Desarrollo (SINAFID)
+
+El sistema financiero boliviano, a pesar del proceso recesivo iniciado a finales de la década de los años 90, que todavía no puede ser superado, se ha mantenido relativamente estable a pesar del decrecimiento de la cartera que cayo de 5.000 millones de dólares al 31 de Diciembre de 1998 a 2.500 millones de dólares al 31 de diciembre de 2005, incrementándose a 3.617 millones de dólares al 31 de diciembre de 2006.
+  
+Durante el periodo del 1998 al 2005, la política financiera estuvo orientada a la protección del sistema financiero, evitando que ocurra un debilitamiento en el sistema de pagos. Si bien se logró “blindar” al sector financiero, el impacto de la crisis repercutió directamente sobre el sector real, teniendo como consecuencia la atomización del aparato productivo.
+  
+Por este proceso, los agentes productivos se vieron obligados a emprender actividades terciarias a pequeña escala, mermando la capacidad productiva del país y comprometiendo la dinamización económica de este sector, lo que implicó un insuficiente desarrollo económico sostenido para el país. Esto influyó para que el sistema financiero tenga un comportamiento procíclico y por tanto este sea un elemento que contribuye a alimentar el círculo recesivo.
+  
+El subsistema bancario, al decrecer ha buscado mantener su posición de solvencia institucional antes que su crecimiento y rentabilidad; mientras que el subsistema de micro finanzas creció y mejoró su solvencia, obteniendo niveles de rentabilidad atractivas.
+  
+En ambos subsistemas, las políticas financieras institucionales tuvieron como premisa mantener altos márgenes y previsiones, trasladando estos costos – e ineficiencias – al sector productivo y a los consumidores financieros, siendo líderes en costos pero no en tasas (precios). Se hizo evidente en este contexto, el comportamiento oligopólico de las instituciones financieras.
+  
+Asimismo, la poca dinamización del mercado de capitales, controlado también por los mismos grupos financieros, ha limitado el desarrollo y la profundización de instrumentos fiduciarios que permitan a las unidades productivas de menor escala, obtener financiamiento de mayor plazo y menor tasa.
+  
+Este reacomodo del sistema financiero en la crisis, ha inducido a que se privilegien políticas conservadoras en la otorgación de créditos – por el lado de las garantías y de los plazos-, haciendo que el acceso sea restringido y que el financiamiento sea orientado hacia actividades de corto plazo y de rápida rotación, como el comercio y servicios.
+  
+La atención al sector productivo has sido limitada, por la percepción de mayor riesgo que tienen las instituciones financieras sobre ellas. Este aspecto profundiza aún más el proceso de segmentación del crédito en dos extremos, la gran empresa y las actividades terciarias, limitando el financiamiento a las unidades productivas de menor escala, además de la escasa innovación financiera limitada por la normativa.
+  
+Por tal motivo, los actores del sector productivo consideran que el Estado debe involucrase decididamente en el sistema financiero, para que se introduzcan medidas anticíclicas y antioligopólicas, que contribuyan a orientar recursos al sector productivo, y que permita de esta manera apoyar la transformación productiva y la generación de empleo.
+  
+La participación del Estado en materia de financiamiento para el desarrollo, será efectiva en términos de acceso y costo para la unidad productora final, en la medida que se realice un aprovechamiento eficiente de la capacidad instalada, hasta ahora desarrollada por las entidades financieras privadas y públicas.
+  
+Además es necesario entender que la perspectiva del crédito otorgado, es insuficiente. La aplicación de nuevos instrumentos financieros, fiduciarios, además de otros de cobertura, permitirán el potenciamiento de los pequeños productores rurales y urbanos, mejorando sus condiciones de acceso a capital de largo plazo y a menor tasa. De esta manera se logrará que los actores económicos identificados y priorizados por la nueva matriz productiva tengan empleos e ingresos estables y dignos.
+
+### 4.7.1 El SINAFID en el desarrollo productivo
+
+Ante este marco de heterogeneidad y atomización del aparato productivo nacional, caracterizado por relaciones económicas inequitativas y alto grado de informalización, con fuertes pérdidas en generación de empleo e ingresos dignos, se definió una participación directa y activa del Estado en el sector financiero con el siguiente objetivo:
+  
+Financiar la ejecución de las prioridades productivas estratégicas establecidas en el Plan
+  
+Nacional de Desarrollo. Es necesario que las estrategias departamentales y municipales, sean incluyentes y concertadas respecto a los productores. Este sistema financiero está dirigido principalmente hacia la unidad económica campesina y a sus organizaciones, a los artesanos y a la micro, pequeña y mediana empresa, que forman parte de los diferentes sectores, redes, y complejos productivos, priorizados en este Plan.
+  
+Para tal efecto, el SINAFID proveerá financiamiento a la nueva matriz productiva y promoverá la producción de bienes y servicios, en los que el país tenga ventajas de inserción en mercados externos e internos. Apoyará, asimismo a los sectores generadores de excedente, de ingresos y de empleo, en la perspectiva de una equitativa distribución.
+  
+Este esfuerzo financiero nacional contribuirá a la reducción de la vulnerabilidad y dependencia del apoyo externo, fortaleciendo a la soberanía financiera. Este objetivo se realizará a través de la movilización de parte del excedente generado por la venta de hidrocarburos y el ahorro interno.
+  
+Se impulsará la complementariedad con el sector financiero privado, pues no se trata de sustituir a la iniciativa privada, sino de generar sinergias con ella y crear un sistema financiero solidario.
+  
+Una mayor eficiencia y competitividad del mercado financiero evitará que se transfieran al sector productivo las elevadas tasas de interés, las ineficiencias de algunas entidades financieras y el comportamiento oligopólico de otras.
+  
+Se democratizará el acceso al financiamiento, favoreciendo la innovación financiera que permita llegar a zonas más alejadas y que facilite el acceso de aquellos que todavía no son atendidos por entidades financieras privadas.
+  
+También se aplicará un programa articulado de financiamiento priorizando el desarrollo de mecanismos fiduciarios, la innovación financiera y la dotación de capital semilla para la creación de nuevas, pequeñas y medianas empresas comunitarias urbanas y rurales comunitarias.
+  
+Se favorecerá el desarrollo productivo privilegiando el apoyo a los productores campesinos e indígenas, colonizadores, artesanos, micro, pequeñas y medianas empresas urbanas y rurales, para la formación de capital comunitario.
+  
+Las entidades de financiamiento públicas serán rentables y sostenibles, de modo tal que se asegure su crecimiento y perdurabilidad en el tiempo.
+  
+Se construirán espacios de participación social, para que las organizaciones de productores participen en la selección de las instituciones financieras que administren los recursos en las mejores condiciones. Para que puedan, asimismo, realizar un seguimiento de su desempeño y fundamentalmente para catalizar formas de propiedad comunitaria de los activos productivos.
+
+### 4.7.2 El rol del Estado en el SINAFID: Banco de Desarrollo Productivo – SAM
+
+**Propuesta de cambio**  
+Con el propósito de cambiar la situación descrita en el diagnóstico, se ha visto necesario fortalecer la presencia del Estado en el financiamiento del desarrollo productivo, comunitario y social, a partir del establecimiento de una mayor capacidad financiera, técnica y de gestión de las entidades involucradas en este proceso, requiriéndose para ello de ajustes normativos e institucionales para una adecuada canalización del financiamiento interno y externo y de la cooperación internacional hacia programas y proyectos relacionados al desarrollo del aparato productivo nacional.
+  
+Mediante Decreto Supremo 28999, se establece la adecuación institucional de la Nacional Financiera Boliviana SAM (NAFIBO) a Banco de Desarrollo Productivo SAM- BDP SAM – Banco de Segundo Piso, para que se constituya en la entidad de intermediación financiera de segundo piso, que concentre los esfuerzos del Estado boliviano en el otorgamiento de financiamiento para el desarrollo productivo, movilizando el ahorro interno y canalizando los recursos provistos por el Tesoro General de la Nación, sus propios recursos y los obtenidos directamente por el Estado, de entidades de cooperación financiera internacional o de entidades privadas nacionales o extranjeras, bajo las modalidades más convenientes que permitan lograr la soberanía financiera nacional.
+  
+El BDP SAM tiene la misión de financiar la ejecución de las prioridades productivas estratégicas establecidas en el Plan Nacional de Desarrollo, otorgando financiamiento prioritariamente a quienes no han tenido acceso en condiciones de fomento, en especial a OECAS, organizaciones comunitarias y asociativas, pequeñas y medianas unidades productivas del área rural y urbana del país, a través de entidades financieras reguladas y no reguladas.
+  
+**Políticas y estrategias**
+  
+**i) Estrategia de intervención del BDP - SAM**
+  
+Desde una perspectiva operativa el Banco de Desarrollo Productivo SAM privilegiará las siguientes acciones:
+  
+Canalizará recursos provenientes del Estado, agencias multilaterales y bilaterales a través de entidades financieras privadas de primer piso, para apoyar actividades económicas vinculadas a los sectores o rubros productivos priorizados, privilegiando a los pequeños productores del área rural y urbana, contribuyendo así, a la democratización del acceso a financiamiento y a la consolidación de nuevos sujetos económicos en sus formas económicas comunitarias.
+  
+Para tal efecto, es fundamental canalizar la participación y el control social. En concreto los prestatarios de recursos del BDP SAM se obligarán a someterse a los distintos mecanismos de control social de su asociación, comunicad, localidad, municipio, OTB, OECA, CORACA, cooperativa, empresa comunitaria o de cualquier otra forma asociativa productiva correspondiente a la unidad territorial respectiva, para que de acuerdo con sus usos y costumbres estas últimas procedan a ejercer dichos mecanismos a fin de asegurar el cumplimiento de la devolución de los créditos otorgados y el correcto uso de recursos.
+  
+Las tareas de gestión de fondos, para líneas de financiamiento para el desarrollo, serán realizadas a través de la unidad correspondiente del BDP SAM. Asimismo se deberán realizar licitaciones para la asignación de recursos a las instituciones privadas, esto con la finalidad de obtener mejores condiciones financieras para los pequeños productores y lograr servicios de calidad.
+  
+Por otro lado, introducirá servicios financieros de cobertura de riesgo, para incentivar a las instituciones financieras a canalizar sus captaciones de ahorro hacia actividades productivas, sobre las que en la actualidad tienen una percepción de mayor riesgo.
+  
+Además de ello, facilitará procesos de innovación en las instituciones privadas, para mejorar el acceso al crédito (ejemplo: garantías alternativas, créditos sindicados), diversificar las formas de financiamiento (ejemplo: arrendamiento financiero, factoraje y capital de riesgo). Las metodologías que se promoverán para facilitar la innovación, serán participativas y de investigación, tareas que necesitarán cambios normativos.
+  
+Además de estas acciones con el sector financiero tradicional, es fundamental que se realicen esfuerzos para introducir mecanismos e instrumentos de bolsa, que permitan generar un ambiente de mayor competitividad en el sector financiero y ofrecer nuevas opciones de fondeo para las pequeñas y medianas empresas. El BDP SAM, actualmente tiene el 99.9 por ciento de participación accionario en NAFIBO Sociedad Titularizadora, que se constituye en un primer paso, contribuyendo al logro de este objetivo.
+  
+Además, articulará los servicios de desarrollo y transferencia de tecnología así como la asistencia técnica, que brindan las entidades especializadas públicas y privadas en beneficio de las micro, pequeñas y medianas unidades productivas que son parte de los complejos productivos priorizados, mejorando las capacidades empresariales y contribuyendo a que las micro, pequeñas y medianas empresas se relacionen mejor con el mercado interno y externo.
+  
+**ii) Estrategia de fondeo del BDP - SAM**
+  
+EL BDP SAM focalizará su atención principalmente en las fuentes de fondeo locales que le permitan asegurar, a largo plazo, un flujo de recursos continuo y en lo posible creciente.
+  
+Es necesario mantener la estabilidad macroeconómica del país para realizar esfuerzos de alcance masivo, que promuevan una cultura de ahorro. Actualmente Bolivia es uno de los países latinoamericanos con menor ahorro interno; sin embargo a pesar de los niveles de pobreza es posible incrementar sustantivamente los niveles de captaciones. Por ello es fundamental que el BDP SAM promueva la innovación en productos de ahorro popular y contribuya a construir esa red de mitigación de riesgo para las instituciones financieras privadas de primer piso. Esta estrategia es un paso necesario para lograr soberanía financiera.
+  
+La buena calificación de riesgo de NAFIBO SAM ahora BDP SAM, ha permitido que se tenga alguna experiencia en la emisión de bonos y, por tanto a través de este mecanismo, otra forma de fondeo.
+  
+Siguiendo con esta línea, se deberá considerar que parte de los ingresos nacionales generados por la exportación de hidrocarburos u otros sean destinados a la consolidación de una nueva matriz productiva.
+  
+Finalmente, los financiamientos de las organizaciones multilaterales y de la cooperación bilateral en condiciones concecionales, son deseables en un primer momento, para iniciar actividades en el sector productivo en el corto plazo, mientras se van consolidando progresivamente las fuentes de fondeo antes mencionadas.
+
+### 4.7.3 Ciencia y tecnología
+
+La Ciencia, la Tecnología y la Innovación (CTI) son el instrumento fundamental para el Desarrollo y sus actividades son prioritarias para el Estado, en todos sus sectores de producción y servicios como: Industrial, Agropecuaria, Desarrollo Rural, Hidrocarburos, Minería, Educación, Salud, Economía, Cultura, Medio Ambiente, Sabiduría Ancestral, entre otros, motivo por el cual adquieren un carácter transversal en una Bolivia Digna, Soberana, Democrática y Productiva para Vivir Bien.
+  
+Sin embargo, a lo largo del desarrollo histórico nacional, la alta dependencia científica tecnológica, acompañada de la falta de políticas adecuadas y acciones concretas para la inserción de la Ciencia, la Tecnología y la Innovación en la vida nacional, además del escaso apoyo financiero a actividades de Investigación y Desarrollo, y el total desconocimiento de la existencia de capacidades y potencialidades en los centros científico-tecnológicos, así como los productivos, no permitieron el crecimiento económico y social. En este contexto, el país tiene muchas capacidades y potencialidades que desarrollar y el Estado asume ese rol, a través de la creación del Viceministerio de Ciencia y Tecnología que debe responder a la demanda de contar con un referente gubernamental, que se constituya en la cabeza del sector en Ciencia, Tecnología e Innovación.
+  
+**Propuesta de cambio**
+  
+La Ciencia, Tecnología e Innovación, contribuirán al nuevo patrón de desarrollo del Estado boliviano, a través de la generación y adaptación y recuperación de conocimientos y tecnología para su aplicación en los procesos productivos y de servicios, hacia el logro de mejores niveles de productividad.
+  
+Asegura la interacción entre el sector científico-tecnológico, el sector productivo, el sector financiero, los recursos de la cooperación internacional y el Estado, a través del Sistema Boliviano de Innovación (SBI), estructura, compuesta por los sectores indicados, los cuales se encuentran inmovilizados en sus interrelaciones, por lo tanto, la activación del sistema permitirá romper la dependencia científica- tecnológica, que por siglos ha contribuido a sustentar el colonialismo y el patrón primario exportador.
+  
+Fortalecer el sector científico-tecnológico nacional y desarrollar una cultura científica a través de la popularización y difusión de la ciencia, la tecnología y la innovación, con el apoyo de las Tecnologías de Información y Comunicación (TICs) para lograr la apropiación social del conocimiento en el marco de la inclusión y la reciprocidad.
+  
+Promover la recuperación y valorización de la sabiduría ancestral, los saberes locales y los conocimientos tradicionales desarrollados a lo largo de milenios por los pueblos indígenas, originarios y comunidades, así como las culturas, en una plataforma conceptual y actitudinal del Vivir Bien.
+  
+Dada la naturaleza transversal, de los temas, a todos las actividades de producción y servicios, se pondrán en marcha programas y proyectos transectoriales de Investigación, Desarrollo e Innovación (I+D+I) en articulación con los sectores involucrados.
+  
+**Políticas y estrategias**
+  
+**i) Ciencia, tecnología e innovación en la integración nacional para el desarrollo productivo con soberanía e inclusión social**
+  
+Para el desarrollo de esta política, se propone la estrategia de contribuir a la matriz productiva a través de la activación del Sistema Boliviano de Innovación, que permita el fortalecimiento de los centros científicos, su vinculación con los sectores productivos y de servicios, el apoyo del Estado a la Investigación y Desarrollo y el acceso a los recursos financieros a través de la constitución del Fondo de Tecnología, como mecanismo financiero a cargo del Banco de Desarrollo Productivo, con alcance nacional a través de unidades técnicas instaladas en todos los departamentos.
+  
+Una segunda estrategia establece las bases para utilizar la ciencia y tecnología en la solución de los grandes problemas nacionales, a través de programas transectoriales y sectoriales de investigación.
+  
+Como parte de la tercera estrategia se propone conocer objetivamente la realidad nacional y sus recursos de Flora y Fauna, a través de la investigación para el desarrollo productivo se crea el Instituto Boliviano de Investigación de la Biodiversidad para el Desarrollo (IBIBD), que formulará, evaluará y ejecutará proyectos integrales y sustentables de investigación y desarrollo para la conservación y aprovechamiento, con valor agregado, de los recursos de la biodiversidad, con la participación de las comunidades poseedoras de la sabiduría ancestral y los conocimientos tradicionales.
+  
+En esta política se desarrollarán los programas: Fortalecimiento Institucional de los servicios para la producción, Alternativas productivas en el campo alimentario; Desarrollo de mecanismos para elaborar y efectuar proyectos con los sectores científicos y de investigación para: conocer la magnitud del potencial hidrológico boliviano; las causas de la Erosión y el desarrollo de tecnología para controlar la desertificación; Desarrollar tecnología textil; Incorporar tecnología en la producción de cueros; Desarrollar procedimientos tecnológicos para obtener nuevos insumos para la construcción a partir de componentes de los recursos naturales; desarrollar Estudios Sociales y Económicos e Investigar y Aplicar tecnologías para la Producción Mas Limpia.
+  
+**ii) Cultura científica inclusiva para la construcción de una sociedad del conocimiento con características propias.**
+  
+Se propone la estrategia de generación de una cultura científico-tecnológica en todos los estratos de la población por medio de la difusión y la popularización del conocimiento científico y tecnológico. Para tal fin se crea el Sistema Boliviano de Información Científica y Tecnológica que promueve el acceso e intercambio de conocimiento científico y su uso en función de las múltiples necesidades del desarrollo. El SIBICYT contemplará la articulación de la comunidad científica nacional y la popularización del conocimiento científico a la sociedad civil.
+  
+Entre los programas de esta política se encuentran el Plan Nacional de Inclusión Digital; Popularización de la ciencia y la tecnología; Centros de Formación Tecnológica; Movilización y formación de recursos humanos en investigación e innovación y; Ciencia, tecnología e innovación en la educación formal y no formal.
+  
+**iii) Recuperación, protección y utilización de los saberes locales y conocimientos técnicos y ancestrales.**
+  
+La estrategia que corresponde a esta política propone sistematizar, registrar y proteger los conocimientos y saberes de pueblos indígenas y comunidades, para su incorporación en la estructura científica y en la nueva matriz productiva. El programa principal, que lleva el mismo nombre, pretende incorporar los objetivos indicados en la estructura científica y en la nueva matriz productiva, para alcanzar un desarrollo que combine los conocimientos científico-tecnológicos con la sabiduría ancestral.
+  
+Entre los programas a desarrollarse están: Sistematización, protección y registro de conocimientos y saberes de pueblos indígenas y comunidades, Reformulación de las normas sobre propiedad intelectual y el Programa Coca, en el cual se propondrán estudios de investigación sobre las propiedades nutricionales y farmacológicas de la hoja de coca, frente a una futura industrialización de la misma. Asimismo, el Programa Coca contará con un fuerte componente de producción ecológica.
+
+## Capítulo V Bolivia soberana
+
+### Sección 5.1 Enfoque de las relaciones internacionales
+
+El Siglo XXI ha comenzado con signos de crisis y de cambio. El modelo de acumulación capitalista es insostenible para la subsistencia del planeta. Los patrones de consumo de la “civilización occidental” son imposibles de ser generalizados al conjunto de la humanidad porque los recursos naturales no alcanzan ni se renuevan al ritmo con el que se consumen. La crisis energética mundial, la crisis alimentaría y la crisis que provocan los efectos del cambio climático son expresiones de este proceso.
+  
+Asistimos al ocaso del consenso de Washington y del modelo neoliberal. Las políticas de liberalización comercial a ultranza y de supremacía absoluta del mercado son cuestionadas y reajustadas para intentar ser recicladas con un nuevo rostro “público-privado”. La burbuja financiera imaginaria es seis veces la producción mundial. La concentración de la riqueza en el mundo se incrementa y la reducción de la pobreza no avanza.
+  
+El monopolio y dominio militar son suficientes para devastar un país e incluso una región pero no para imponer los designios de las potencias en crisis. La fuerza del más fuerte resulta insuficiente para someter a los más débiles, pero en su implementación desesperada sólo trae destrucción, mayor confrontación y crisis.
+  
+Recién estamos en los albores del cambio. Un cambio que no viene por si sólo y que debemos construirlo. Un cambio que transitará por un proceso complejo y lleno de contradicciones en busca de nuevos equilibrios.
+  
+Bolivia es parte importante de este proceso complejo de cambio. La política exterior del país es una de sus más importantes herramientas, no sólo como expresión de los procesos de transformación interna que vive el país sino como instrumento para incidir de manera protagónica en estos procesos de cambio a nivel mundial. El avance de la revolución democrática y cultural que vive Bolivia es interdependiente de la evolución de los procesos mundiales.
+  
+La política exterior boliviana, con algunas pocas excepciones, siempre estuvo marcada por la dependencia y la aceptación de los designios externos. Más que sometimiento hubo autosometimiento en busca de ser los mejores alumnos de los modelos y las recetas de turno. Bolivia, presa de ese colonialismo interno, fue mucho más allá de lo que los propios ideólogos apuntaban en el norte. La integración de Bolivia en el escenario mundial era carente de propuestas, siguiendo siempre el curso de las corrientes dominantes. El Ministerio de Relaciones Exteriores y Cultos era esencialmente un “administrador” de las relaciones externas.
+  
+La política internacional se hacía tomando en cuenta, fundamentalmente, los intereses de algunas familias y de ciertos sectores empresariales. La Cancillería no trabajaba para la Nación sino para las prebendas y privilegios de unos pocos. La sociedad civil, los movimientos sociales y en particular los pueblos originarios estaban totalmente ausentes de estos procesos.
+  
+El nuevo enfoque de las relaciones internacionales, parte de la formulación de una política exterior de Estado que se sustenta en la valorización de la identidad nacional, en la defensa de sus recursos naturales y en la proyección geopolítica en la región, en la transformación e industrialización de los recursos naturales, en particular los estratégicos, sus productos y derivados, en la articulación de alianzas estratégicas para incrementar la capacidad negociadora del país y en el desarrollo de mecanismos operativos para la participación de instituciones y sectores sociales.
+  
+Nuestra política de relaciones exteriores, está orientada a forjar un mundo justo, diverso, inclusivo, equilibrado y armónico con la naturaleza para el “Vivir Bien” de todos los pueblos a nivel mundial.
+  
+Esta política se sustenta en cinco pilares:
+  
+\* Diplomacia de los pueblos, que busca escuchar, dialogar y trabajar para todos, anteponer los intereses de la nación a los de un sector y anteponer los principios de la vida a la lógica de mercado.
+  
+\* Ejercicio efectivo de la soberanía, que construye y desarrolla la capacidad articuladora del Estado y contribuye a proyectar nuevos modelos de cambio para la convivencia armónica internacional.
+  
+\* Diversidad cultural, que comprende la convivencia pacífica, el respeto entre los pueblos y la práctica de la diversidad cultural, de las diferentes identidades, los múltiples códigos, creencias, expresiones y valores de quienes habitamos el planeta Tierra es el corazón de la Cultura de la Vida que promueven los pueblos originarios e indígenas de Bolivia.
+  
+\* Armonía con la naturaleza, que busca originar un desarrollo integral, diverso e integrador en armonía como la única alternativa para la vida en el planeta Tierra.
+  
+\* Reducción y superación de las asimetrías, que busca la complementariedad y la solidaridad antes que la competitividad y la reciprocidad que parte del supuesto equivocado de que todas las naciones y regiones somos iguales.
+
+### Sección 5.2 Lineamientos de la Nueva Política de Relaciones Exteriores
+
+**i) Integración con soberanía**  
+El ejercicio de la soberanía está íntimamente vinculado a la conformación de bloques regionales que tengan capacidad de incidir en el escenario mundial. Ningún país por si sólo puede atender sus necesidades y resolver sus problemas si no es en el marco de procesos integración. En este marco, promovemos procesos de integración que tengan en el centro al ser humano y a la naturaleza antes que al comercio y las ganancias. Procesos de “integración integrales y holísticos” que abarquen los aspectos sociales, políticos, económicos, culturales y ambientales. Procesos de integración complementarios y solidarios para reducir las asimetrías entre países y regiones. Procesos de integración democráticos que tomen en cuenta la diversidad de enfoques económicos, sociales y culturales.
+  
+**ii) Relaciones bilaterales complementarias y de mutuo respeto**
+  
+Con las naciones vecinas y hermanas de Latinoamérica y el Caribe compartimos poblaciones que migran en uno u otro sentido, pueblos originarios, fronteras, eco regiones, ríos de curso sucesivo, vías de comunicación, mercados y todo un entramado de relaciones que aspiramos a seguir fortaleciendo, desarrollando en el marco del mutuo respeto, la solidaridad y la suscripción de convenios para la preservación del estatus territorial, los recursos naturales, el establecimiento de controles migratorios, aduana y policía, la coordinación y cooperación en la utilización de recursos para el desarrollo mutuo, la no afectación del territorio de un país por emprendimientos en el otro país, la lucha coordinada contra el narcotráfico, la complementariedad en materia comercial, el desarrollo de nuevas vías de comunicación, en el marco de polos de desarrollo integrales que no destruyan el medio ambiente, el fortalecimiento de la hermandad e identidad entre nuestros pueblos y el respeto mutuo a nuestros regimenes democráticos y a nuestras decisiones soberanas.
+  
+Con los Estados Unidos apostamos por un diálogo franco y sincero superando cualquier tipo de intromisión en asuntos internos. Buscamos una relación de cooperación que llegue a nuestra población más humilde evitando toda instrumentación. Aspiramos a que las preferencias arancelarias, de las cuales es beneficiaria Bolivia, se mantengan en correspondencia con el esfuerzo que realiza el país en la lucha contra el narcotráfico, y se amplíen por la corresponsabilidad que tiene EEUU como país consumidor de drogas. Buscamos un acuerdo de largo aliento a nivel comercial. Más allá de nuestras diferencias sobre la guerra, los Tratados de Libre Comercio y los biocombustibles creemos que podemos avanzar en un intercambio fructífero para nuestros pueblos.
+  
+Con Europa se busca profundizar nuestras relaciones a través de la diplomacia bilateral y del Acuerdo de Asociación CAN-UE que es un escenario muy importante para fortalecer el diálogo político, la cooperación y el comercio entre las dos regiones. En este Acuerdo de Asociación se buscará que se respete el acuerdo de la Comunidad Andina de reflejar los diferentes enfoques y visiones económicas de los países andinos, posibilitando diferentes niveles de negociación y compromisos en los diferentes temas del componente comercial. Bolivia por su enfoque crítico en torno a la liberalización comercial no hará compromisos en propiedad intelectual, servicios, inversiones, compras gubernamentales y políticas de competencia, y buscará que la cooperación se dirija a fortalecer nuestro aparato productivo, en particular de los pequeños y medianos productores, para que el país se beneficie efectivamente del Acuerdo de Asociación.
+  
+Con Asia, África y los países Árabes fortaleceremos las relaciones que existen e iniciar relaciones diplomáticas con otros países de esas regiones para fortalecer el dialogo político, la cooperación y el comercio complementario sur-sur.
+  
+**iii) Reintegración marítima**
+  
+Desde la guerra con Chile, Bolivia ha declarado objetivo permanente de su política exterior su reintegración marítima a las costas del Pacífico, con base en derechos históricos y jurídicos. Justifica además esta reintegración por imperativos políticos, económicos, comerciales, y con el fin de acceder a la explotación de los recursos marinos. Sin embargo, pasados 128 años, Bolivia no ha obtenido ningún resultado fuera de lo logrado con el tratado de 1904.
+  
+A partir de la elaboración de una Política de Estado basada en la Cultura del Diálogo, estamos presenciando un cambio histórico en las relaciones entre los dos países, en el que Chile se abre al diálogo y logramos acordar por primera vez una única Agenda de 13 puntos, que incluye la demanda marítima de Bolivia y establece el contenido y cronograma de trabajo en los distintos temas de interés conjunto. El primer punto de esta agenda es lograr la confianza mutua que permita avanzar en el tratamiento de los temas de la agenda, desde una perspectiva de amistad y complementariedad en vez de la tradicional de enemistad y confrontación. Se está trabajando para abrir nuevos escenarios y posibilidades en las relaciones bilaterales entre Bolivia y Chile.
+  
+Es fundamental realizar acciones para la socialización, participación y transparencia en el tratamiento del tema y comprensión del nuevo enfoque a nivel nacional; para informar y lograr apoyo de los pueblos a la causa marítima boliviana a nivel internacional; y continuar gestionando la inserción y tratamiento del tema marítimo en la agenda de foros internacionales como las NNUU, OEA, NOAL y otros.
+  
+**iv) Hacia un verdadero multilateralismo**
+  
+Bolivia busca contribuir a la construcción de una comunidad internacional armónica, complementaria y con autodeterminación de las naciones y los pueblos, propiciando relaciones políticas, económicas y culturales basadas en los principios de complementariedad y equilibrio. En este marco, apostamos por una reforma profunda de las Naciones Unidas, democratizando el Consejo de Seguridad y promoviendo el desarrollo de mecanismos vinculantes que garanticen el cumplimiento de las normas internacionales sobre derechos humanos, económicos, sociales, culturales, indígenas y medioambientales.
+  
+**v) Comercio solidario y complementario**
+  
+El relacionamiento económico internacional implica el cambio del patrón primario exportador por un nuevo enfoque de desarrollo más diversificado, más independiente y con productos de mayor valor agregado nacional que contribuya a resolver los problemas de heterogeneidad estructural, desigualdad y pobreza. El comercio externo está en función de complementar y no de remplazar, ni erosionar la producción local y nacional, para complementarnos entre naciones y no para conquistar mercados como un fin en si mismo. La apertura de mercados y la promoción de nuestras exportaciones estarán orientadas a favorecer a todos los actores productivos pequeños, medianos y grandes, impulsando sobre todo la exportación de bienes no tradicionales y con valor agregado, favoreciendo la exportación de productos ecológicos y promoviendo la diversificación de nuestras exportaciones.
+  
+El comercio y las inversiones no pueden definir todos los aspectos de la vida en el planeta: la salud, la agricultura, la educación, el agua y los bosques, los conocimientos, la biodiversidad, las políticas públicas y el derecho soberano de los Estados a legislar no pueden estar condicionadas por reglas comerciales como las que se quieren imponer a través de la Organización Mundial del Comercio (OMC), los Tratados de Libre Comercio y los Tratados Bilaterales de Inversiones.
+  
+La OMC requiere ser reestructurada y limitada al ámbito comercial. Los acuerdos comerciales no deben, a titulo de permitir el acceso a mercados, imponer condiciones que afectan los derechos humanos y ambientales. Los acuerdos comerciales deben contener un conjunto de normas favorables a los países menos desarrollados para ir reduciendo las asimetrías. Un comercio mutuamente favorable requiere de un fuerte componente de cooperación para potenciar el aparato productivo de los países menos desarrollados. En este marco, impulsamos el retiro del agua de la OMC, el hecho que no se patente los microorganismos que son formas de vida y el establecimiento de normas internacionales que garantice el acceso a los medicamentos.
+  
+**vi) Inversiones en el marco del respeto a la Constitución Política del Estado**
+  
+Bolivia quiere socios y no patrones. El inversionista extranjero que quiere invertir en nuestro país tiene todas las garantías para recuperar su inversión y tener una ganancia razonable. No se aceptarán los excesos y las violaciones a la Constitución Política del Estado (CPE). Los recursos naturales, como los hidrocarburos, son del Estado y todos los que quieren invertir y trabajar con el Estado, son bienvenidos. Bolivia se retiró del CIADI porque su reglamentación violaba los artículos 24 y 135 de la CPE, se pretende que los inversionistas nacionales y extranjeros tengan el mismo trato en Bolivia.
+  
+**vii) Revalorización de la hoja de coca**
+  
+La hoja de coca forma parte esencial de la vida de los pueblos originarios andinos por sus usos medicinales, nutricionales, tradicionales, rituales y religiosos enraizados en su cultura y cosmovisión. Sin embargo, fue incorporada equivocadamente en la Lista I de la Convención Única de Naciones Unidas sobre Estupefacientes de 1961, como si en su estado natural fuera una droga. La revalorización de la hoja de coca requiere una evaluación crítica de los convenios relativos a ésta, la investigación científica sobre sus beneficios medicinales y nutricionales, la inventariación de sus usos tradicionales y culturales, el estudio de los componentes demográficos, económicos, sociales y medioambientales de su consumo legal en el país y en el extranjero, y la puesta en marcha de iniciativas destinadas a promover su industrialización, comercialización y exportación para fines benéficos.
+  
+**viii) Lucha contra el narcotráfico**
+  
+La lucha contra la elaboración, tráfico y consumo de drogas ilícitas responde a la necesidad de enfrentar, en el marco del principio de la responsabilidad compartida con la comunidad internacional y del respeto a la soberanía nacional y a los derechos humanos, los efectos negativos que generan estas actividades en la sociedad, la política, la economía y en el medio ambiente.
+  
+En la política boliviana no hay coca cero ni libre cultivo de coca. Conscientes de que una parte de la producción de la hoja de coca va a la fabricación de estupefacientes y que actualmente la producción excedentaria en Bolivia puede contribuir potencialmente con el 9 por ciento de la cocaína en el mundo, el gobierno conjuntamente con las organizaciones de campesinos cocaleros está desarrollando la racionalización voluntaria de la hoja de coca. El plan del gobierno propone: a) estabilizar en una primera fase la producción de coca en 20.000 hectáreas, b) retirar el equivalente al potencial de 4.000 hectáreas a través de la interdicción y c) industrializar la producción de otras 4.000 hectáreas reduciendo de esta manera de 9 al 2 por ciento la participación potencial a nivel mundial en la fabricación de cocaína. Además, el gobierno reforzará el control en fronteras para evitar el crecimiento de la cocaína en tránsito hacia países vecinos, en particular Brasil, y realizará un estudio integral del mercado de la hoja de coca.
+  
+**ix) Reconocimiento a los derechos de los Pueblos Indígenas**
+  
+En casi todo el mundo los Pueblos Indígenas siguen siendo tratados como extranjeros en sus propios territorios. Sus derechos no son reconocidos ni respetados. Su visión y su mensaje son considerados resabios del pasado y su identidad y su cultura son reducidos a folklore. El futuro de Bolivia y de todo el mundo depende de cambiar esta visión y actitud. En los Pueblos Indígenas está la reserva moral, la visión ética con la naturaleza y el compromiso con la diversidad cultura y la democracia del consenso que nos puede permitir salvar el planeta y la vida. En este marco, es fundamental avanzar en la aprobación de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas y de nuevos mecanismos vinculantes que garanticen dichos derechos y proyecten su visión hacia el mundo.
+  
+**x) Defensa internacional de la biodiversidad y el agua**
+  
+La diversidad biológica y el agua que sostienen la vida en la Tierra están en peligro por el modelo de acumulación capitalista y de liberalización comercial. Los biocombustibles, la privatización del agua y el desarrollo de los transgénicos no hacen más que agravar esa situación. A ello se suman los efectos del cambio climático que son la expresión de la imposibilidad de seguir por este falso sendero de desarrollo. La implementación de la Convención de Cambio Climático, el Convenio sobre Diversidad Biológica por los países más desarrollados son pasos para salvar el planeta.
+  
+Así como se busca una “excepción cultural” también se debe alcanzar una “excepción ambiental” en la aplicación de los acuerdos comerciales. Deben existir mecanismos vinculantes de las Naciones Unidas para garantizar la biodiversidad, el agua y controlar los efectos del cambio climático en la Tierra. Frente a estos impactos por sequías e inundaciones, Bolivia propone a las naciones del mundo asumir conjuntamente la responsabilidad de cambiar el modelo energético y nuestros hábitos de consumo, de ir más allá que el cumplimiento del Protocolo de Kyoto, cuyas metas ya no son más que una fracción de las reducciones necesarias para frenar de forma significativa el calentamiento global. Como base de esta política, Bolivia propone al mundo asumir los valores de la Cultura de la Vida como la única solución que pueda lograr la sustentación y preservación de nuestro planeta Tierra.
+  
+**xi) Con los bolivianos y movimientos sociales en el exterior**
+  
+El país no cuenta con una política migratoria destinada a los ciudadanos que salen del país por razones sobre todo económicas. Actualmente se está promoviendo la regularización de la situación migratoria de los ciudadanos bolivianos en Argentina, Brasil, Estados Unidos, España e Italia, y definiendo los mecanismos para garantizar el voto de los bolivianos en el exterior. Para resolver las causas estructurales de la migración se requieren un conjunto de acciones que permitan superar las profundas desigualdades entre las naciones del mundo y promover una ciudadanía plena que garantice el respeto a los derechos humanos en todos los países.
+  
+Como nunca antes en la historia de Bolivia, un presidente es reconocido a nivel internacional suscitando el apoyo de sectores sociales, académicos, mediáticos y oficiales. Este respaldo se ha traducido en la postulación del Presidente Evo Morales Ayma al Premio Nóbel de La Paz por sus raíces indígenas y por su contribución al cambio profundo en democracia.
+  
+En este contexto, se construye una red de solidaridad con Bolivia de movimientos sociales, religiosos, intelectuales, ONG, parlamentarios y artistas dispuestos a apoyar al país en diferentes tareas que van desde la difusión, la investigación, la cooperación, el cabildeo y el intercambio de experiencias.
+
+### Sección 5.3 Sectores
+
+### 5.3.1 Relaciones exteriores
+
+La política exterior boliviana de los últimos veinte años se caracterizó por ser errática e incoherente, basada en un modelo neoliberal que llevó al país a una profunda crisis económica y social. Esta política no defendió la soberanía nacional y los intereses del Estado, lo que afectó negativamente a la sociedad civil, a los sectores empresariales no privilegiados, a los sectores sociales vulnerables, marginados y de bajos ingresos.
+  
+El modelo afectó negativamente el fortalecimiento nacional, acentuando el proceso de neocolonización y determinando una situación estructuralmente dependiente que limitó la inserción internacional y supeditó la administración del país a intereses externos.
+  
+Las administraciones neoliberales ocasionaron significativos daños económicos al Estado, que repercutieron negativamente en los sectores productivos y en la generación de empleo, incrementando también una masiva corriente migratoria de bolivianos a países del exterior en busca de mejores oportunidades de vida.
+  
+Se identificaron como principales problemas de las relaciones exteriores del país: la dependencia e injerencia externa; el predominio de factores políticos e intereses de grupos de poder económico; el régimen hegemónico en las relaciones políticas, económicas y sociales en América Latina; el ejercicio de una política exterior neoliberal que excluyó intereses y participación de los sectores sociales y omisión de una política coherente para la reintegración marítima.
+  
+En contraste con estos problemas, las potencialidades identificadas en la proyección internacional de Bolivia son: formulación de una doctrina nacional y de política exterior de Estado en el proceso de refundación constitucional para la consolidación del Estado nacional; la mayor valorización de la identidad nacional; la defensa, transformación e industrialización de los recursos naturales existentes en el país, en particular los estratégicos, sus productos y derivados; su proyección geopolítica en la región; la articulación de alianzas estratégicas para incrementar la capacidad negociadora de Bolivia en el contexto internacional; y el desarrollo de mecanismos operativos para la participación de instituciones y sectores sociales en la formulación y ejecución de la política exterior de Estado.
+  
+En esta perspectiva, Bolivia se inserta en el contexto internacional con una imagen digna, soberana, independiente, sin ataduras y no aceptará ningún tipo de condicionamiento.
+  
+**Propuesta de cambio**
+  
+Constituir al nuevo Estado boliviano en un actor internacional, soberano, independiente, con identidad propia, mediante una política exterior que oriente la acción política y diplomática con presencia de los pueblos y defensa de los recursos naturales y de la biodiversidad, propiciando un marco internacional de solidaridad y complementariedad.
+  
+**Política y estrategia**
+  
+**Estado boliviano, un actor internacional, soberano, independiente y con identidad propia.**
+  
+El objetivo de esta política es lograr que Bolivia se integre como actor internacional con soberanía, identidad propia en el marco del Paradigma de la Diplomacia de los Pueblos, que es el hilo conductor de la actual política exterior boliviana, orientada a defender y preservar la soberanía económica, cultural y territorial del país, con énfasis en la recuperación de la soberanía sobre los recursos naturales, proyectando y aplicando una política exterior que propicie la construcción de una comunidad internacional complementaria, más justa, democrática y solidaria entre los pueblos.
+  
+La política buscará el fortalecimiento de la Diplomacia de los Pueblos en sus relaciones bilaterales y multilaterales, en un franco respeto a la soberanía, dignidad, independencia y no injerencia de otros Estados en los asuntos internos promoviendo el cambio.
+  
+La estrategia para aplicar esta política es el *Fortalecimiento del Nuevo Estado para su mejor Relacionamiento Internacional*, que será implementada mediante el programa
+  
+Nueva Política Exterior de Estado, que busca consolidar la soberanía nacional, la reintegración marítima, documentar a los bolivianos en el exterior, revalorizar la hoja de coca y un servicio exterior con capacidad negociadora.
+
+### 5.3.2 Relaciones económicas internacionales
+
+Después de la aplicación de políticas de ajuste estructural, que vino aparejado con la liberalización comercial y de inversiones, las relaciones económicas internacionales de Bolivia se caracterizaron por una profunda apertura comercial unilateral y una amplia apertura a la inversión extranjera.
+  
+La apertura comercial unilateral no contribuyó a diversificar la oferta exportable, los mercados, ni aumentar el número de empresas exportadoras, descuidando el mercado interno. La apertura por el lado de las exportaciones continúo con un patrón basado en materias primas, aunque con una estructura más diversificada al incorporar productos básicos agrícolas, mineros e hidrocarburíferos.
+  
+La apertura a la inversión extranjera, bajo el marco de una Ley de Inversiones extremadamente permisible donde ni siquiera se contó con un registro estadístico y una política de retribución al Estado, no se orientó al desarrollo de una matriz productiva basada en la elaboración y exportación de bienes con mayor valor agregado, concentrándose en las áreas de explotación de los recursos naturales no renovables principalmente hidrocarburíferos con intervención de corporaciones transnacionales.
+  
+Bolivia cuenta con muchas potencialidades para superar la situación actual, entre las que se pueden mencionar: abundantes recursos naturales renovables y no renovables, variedad de microclimas y pisos ecológicos (siendo uno de los países con mayor biodiversidad en el mundo con amplias perspectivas para el biocomercio), una riqueza forestal con dos millones de hectáreas de bosque certificadas, productos ecológicos y especies nativas con demanda dinámica en el mercado mundial, y dispone de recursos humanos con habilidades, destrezas e iniciativas.
+  
+Tiene una ubicación geográfica privilegiada para ejercer un rol articulador en la región, en la integración energética y en las tres cuencas hidrográficas de América del Sur. Está dotada, además, de un patrimonio histórico, cultural y ecológico sobre el que puede asentarse el desarrollo de nuestra oferta turística.
+  
+**Propuesta de cambio**
+  
+La nueva modalidad de relacionamiento económico internacional se basará en: el cambio del patrón primario exportador por uno nuevo diversificado que genere valor agregado con productos e insumos nacionales posicionando la marca boliviana, y con relaciones comerciales equilibradas y mayor diversificación de mercados.
+  
+La recuperación de la importancia del mercado interno, la aplicación de una política de protección selectiva del mismo y el aprovechamiento del Compro Boliviano; el cambio del patrón de dependencia del financiamiento externo y de las donaciones, por un nuevo patrón sustentable en el ahorro interno, participación balanceada entre inversión extranjera, inversión nacional privada e inversión pública y una eficiente asignación de los recursos de la cooperación internacional en función de las prioridades del país.
+  
+**Políticas y estrategias**
+  
+**i) Facilitación del Comercio Exterior**
+  
+Tiene como objetivo impulsar la inserción de la oferta nacional a los mercados internacionales, mediante el aprovechamiento de acuerdos comerciales, así como la captación de inversión extranjera, a fin de lograr la diversificación de la oferta con valor agregado; dando un impulso a las empresas exportadoras, favoreciendo a los productores pequeños, medianos y grandes.
+  
+Esta política se instrumentalizará a través de la estrategia *Incentivo al Comercio Exterior* que comprende los programas: *Apertura, Diversificación de Mercados y Alerta Temprana para la Oferta Exportable Actual y Potencial*, que busca identificar nichos de mercado y oportunidades comerciales para productos de la oferta exportable boliviana con países de la región y el mundo.
+  
+El programa de *Promoción de las Exportaciones y Atracción de Inversiones*, tiene la finalidad de identificar la demanda potencial en el mundo y particularmente en los países en los cuales Bolivia cuente con la presencia de la Red Externa Boliviana. Al mismo tiempo, se impulsará la producción ecológica a fin de fortalecer las exportaciones de productos ecológicos a terceros mercados, incentivando el rescate y la revalorización de sistemas de producción tradicionales de las culturas andino-amazónicas, para que su producción se enmarque en las ventajas del comercio justo.
+  
+Con el programa de *Integración de la Infraestructura Física y Energética* se posibilitará el incremento del comercio exterior a través del desarrollo de la infraestructura física regional que permitirá contar con corredores de exportación y de ultramar, creando polos nacionales de desarrollo en diferentes áreas geográficas. Se abordará el tema de la integración energética, brindando información sobre mercados potenciales regionales y extra regionales, coadyuvando a la transferencia de tecnología, conocimiento, experiencias y documentación.
+  
+**ii) Integración, Acuerdos Comerciales, Foros y Organismos Internacionales**
+  
+Tiene como objetivo fortalecer el proceso de integración regional que conjuntamente con las nuevas políticas que se adoptarán para el desarrollo del sector productivo y exportador deberán regir la participación de Bolivia en las negociaciones bilaterales y multilaterales, las que se basarán en la defensa de los intereses nacionales, el tamaño y desarrollo de su economía y las políticas sectoriales vinculadas con el comercio.
+  
+Esta política se concretará con la estrategia de *Inserción Internacional de Bolivia en los Procesos de Integración de Acuerdos Comerciales Bilaterales, Regionales y Multilaterales*, que comprende los programas: *Fortalecimiento de la Participación Nacional en Organismos Económicos y de Integración Internacionales*, que tiene por objetivo llevar posiciones del país claras y consensuadas a los foros internacionales económico comerciales; *Tratado de Comercio de los Pueblos*, busca que los nuevos acuerdos comerciales se basen en la negociación e implementación de convenios internacionales integrales que vayan más allá de la simple apertura de mercados, promuevan inversiones a favor de los bolivianos, brinden protección a la soberanía nacional y a los conocimientos tradicionales y prácticas de conservación, así como al uso sostenible de la biodiversidad.
+  
+**iii) Protección y Fortalecimiento del Mercado Interno**
+  
+Implica modificar la política arancelaria de apertura irrestricta, unilateral, remplazándola con una nueva política arancelaria selectiva por sectores priorizados. También significa promover el desarrollo de productos en el mercado interno con visión hacia las exportaciones, de manera que el mercado nacional sirva de plataforma para el mercado internacional.
+  
+La estrategia para la protección del mercado interno tiene como objetivo establecer un marco jurídico nacional, tomando como referencia los compromisos internacionales y las necesidades de orden interno que permitan analizar y gestionar modificaciones a los marcos jurídicos internacionales.
+  
+El programa estará referido al análisis y evaluación de los compromisos arancelarios en los acuerdos comerciales, regionales, subregionales y multilaterales cuyo objetivo es contar con elementos de evaluación de los mecanismos arancelarios en dichos acuerdos; a la implementación y negociación de la nueva política comercial.
+  
+**iv) Tratamiento a la Inversión Extranjera Directa**
+  
+Esta política garantizará la seguridad jurídica con reglas de juego claras, que incluyan criterios tales como la licencia social, licencia ambiental, transferencia tecnológica, generación de empleo, preferencia en uso de materia prima, insumos y servicios nacionales. La nueva propuesta está fundamentada en que las inversiones deben respetar la soberanía y dignidad de la nación.
+  
+En el ámbito institucional respectivo se establecerá un nuevo marco jurídico regulatorio de la inversión extranjera, cuyo objetivo es el cambio de la actual legislación.
+  
+**v) Relacionamiento con la Cooperación Internacional**
+  
+Esta política se orientará a ordenar la relación Gobierno - Cooperación, fortalecer procesos de alineamiento y coordinación, reforzar el liderazgo del Gobierno, mejorar la asignación de recursos, facilitar su programación flexible y armonizar mecanismos de monitoreo y evaluación. Esta política se operacionalizará mediante un mecanismo de coordinación que establezca mesas de trabajo con la cooperación en el marco del Plan Nacional de Desarrollo.
+  
+**vi) Fortalecimiento del Servicio de Relaciones Exteriores**
+  
+Bajo esta política se modernizarán los sistemas de información y comunicación para el fortalecimiento del Servicio de Relaciones Exteriores de Bolivia, de manera que se permitan agilizar las gestiones diplomáticas, consulares y comerciales.
+  
+Se instrumentalizará mediante la estrategia de *Modernización de los Sistemas de Información y Comunicación*, que tiene como finalidad la renovación tecnológica y la dotación de herramientas de desarrollo informático principalmente para la promoción de exportaciones y captación de inversiones.
+
+## Capítulo VI Sostenibilidad macroeconómica
+
+### Sección 6.1. Macroeconomía
+
+Los indicadores socioeconómicos muestran – al final de un largo proceso de exclusión social y enajenación de los recursos naturales – resultados desalentadores sobre la vigencia del modelo neoliberal, traducidos en un bajo dinamismo de la economía y un manifiesto deterioro de la situación política y social, lo que afectó, inclusive, la sostenibilidad de las finanzas públicas. En este contexto se plantea, de manera inequívoca, la necesidad de realizar cambios estructurales en la orientación del desarrollo, hacia la democratización integral, intercultural y diversificada de la economía, la sociedad y el Estado para generar las condiciones que permitan el Vivir Bien.
+  
+Los resultados macroeconómicos de entre 1998 y 2005 presentan un bajo crecimiento del Producto Interno Bruto (PIB), con una tasa promedio anual del 2,9 por ciento21, levemente superior a la tasa de crecimiento poblacional (2,74 por ciento). Estos indicadores muestran que las medidas aplicadas en el país no lograron resolver la pobreza y la exclusión expresadas en la mala distribución del ingreso, la baja producción y productividad, y el desplazamiento laboral hacia actividades informales
+  
+Las finanzas públicas se caracterizaron por un elevado déficit fiscal, que en promedio alcanzó a 5,,4 por ciento del PIB entre 1998 y 2005, que se explica, principalmente, por el costo que asume el país como consecuencia de la reforma de pensiones (4,1 por ciento del PIB promedio anual) y, por los bajos niveles de ingresos tributarios, lo que en gran medida se explica por la evasión fiscal y la corrupción generalizada.
+  
+La inversión pública – con una participación promedio del 5,9 por ciento del PIB y financiada por la cooperación internacional en un 50 por ciento – estuvo orientada principalmente a infraestructura y la reforma institucional, con una baja participación para el sector productivo y social.
+  
+Entretanto la cuenta corriente de la balanza de pagos pasó de un déficit equivalente a 3,4 por ciento del PIB en 2001 a un superávit de 6,6 por ciento del PIB en 2005. Este comportamiento fue el resultado de fuertes incrementos en el valor de las exportaciones, originado por mayores precios internacionales y el crecimiento en el volumen exportado de hidrocarburos y minerales.
+  
+El aumento del ahorro nacional de 11,3 por ciento del PIB en 2001 a 19,4 por ciento en 2005 fue resultado principalmente de la contracción del consumo privado (de 75,3 por ciento a 66,6 por ciento del PIB, respectivamente). Además, el mayor ahorro nacional no tuvo como contrapartida una mayor inversión interna bruta. Por el contrario, disminuyó de 14,3 por ciento en 2001 a 13,8 por ciento del PIB en 2005.
+  
+Con relación al empleo, si bien la tasa de desocupación abierta en el área urbana es una de las más bajas de América Latina, Bolivia posee la tasa de informalidad más alta de la región (60 por ciento)22, lo que generó una desigualdad de ingresos cada vez mayor (a pesar del crecimiento de la economía en algunos años, el coeficiente de Gini no varió y se encuentra en 0.59 en 2006)23.
+  
+El porcentaje de trabajadores con salarios menores a una canasta básica alimentaria o personas que trabajan más horas a la semana (ambos conceptos ligados al subempleo) aumentó en los últimos años. Estos hechos muestran que una elevada proporción de las personas ocupadas enfrentan condiciones laborales desfavorables, lo que repercute en los bajos niveles de productividad del país.
+  
+En 1996, alrededor del 65 por ciento de la población total fue catalogada como pobre, en tanto que el 41 por ciento se encontraba en situación de pobreza extrema o indigencia en ese entonces. La desaceleración y la crisis económica vivida en los últimos casi diez años, tan sólo permitió que se reduzca levemente el porcentaje de personas que viven por debajo de la línea de pobreza, de manera tal que, en el año 2006 el 60 por ciento de la población es pobre y 38 por ciento es pobre extremo o indigente. La pobreza está más arraigada en el área rural, pues 76 por ciento es pobre moderado y 62 por ciento es pobre extremo.
+  
+En este contexto, el Plan Nacional de Desarrollo propone un marco que, respetando la estabilidad macroeconómica, asegure un mayor crecimiento y mayor equidad social, porque la inestabilidad golpea con mayor fuerza a los sectores más pobres de la población.
+  
+Si bien la estabilidad es una condición para lograr crecimiento económico, ésta será complementada con políticas estatales que promuevan el desarrollo social, político, económico y cultural para lograr el Vivir Bien de la población.
+
+### 6.1.1. Lineamientos macroeconómicos
+
+El PND procura la estabilidad macroeconómica en los sectores real, fiscal, externo y monetario-cambiario. En este último sector, mantendrá el principio de independencia del Banco Central de Bolivia.
+  
+El nuevo patrón de desarrollo plantea construir un Estado como potencia transformadora que reconozca los diversos actores sociales y de las economías estatal, privada, comunitaria y mixta que generan efectos y hechos, influyéndose y articulándose mutuamente. La concepción del desarrollo para Vivir Bien implica un cambio, que para ser alcanzado tiene entre sus requisitos la estabilidad macroeconómica. Los lineamientos que se proponen a continuación se construirán sobre la base de esta condición.
+
+### 6.1.2 Crecimiento económico
+
+Es necesario alcanzar altas tasas de crecimiento del PIB con niveles de inversión cada vez más altos y de mejor calidad, para garantizar la sostenibilidad de este crecimiento. El problema de la elevada dependencia de sectores extractivos no se podrá resolver de inmediato y en el corto plazo, seguirán siendo los de mayor dinamismo en la economía, debido a la coyuntura favorable de los precios internacionales y la abundancia de estos productos existentes en el país.
+  
+El proceso de cambio no será sostenible si no se transforma e industrializa la materia prima no renovable; y se aprovechen de manera sostenible, los recursos naturales renovables. En este contexto, el Plan Nacional de Desarrollo propone crear complejos de industrialización en hidrocarburos y minería para generar excedentes económicos suficientes que apoyen el desarrollo nacional.
+  
+Asimismo, el PND propone diversificar la producción nacional, como una forma de distribuir el excedente generado, orientándola al desarrollo de sectores con enorme potencial y que hasta ahora estaban desatendidos, como es el caso del sector agropecuario. En este contexto, la reasignación de tierras, recursos financieros, tecnologías, semillas, fertilizantes y la conformación de una red de Protección Social y Desarrollo Integral Comunitario contribuirá a elevar la productividad del sector y mejorar la calidad de vida de un importante segmento de la población.
+  
+6.1.3 Sostenibilidad fiscal
+  
+Para disminuir la dependencia de financiamiento externo y reducir la presión del Estado sobre el ahorro nacional se mantendrá reducido el déficit fiscal, coadyuvado con una trayectoria sostenible del saldo de la deuda pública.
+  
+Se observará un incremento en los niveles de gasto del gobierno con énfasis en determinados sectores sociales. También se incrementará la inversión pública en infraestructura destinadas a determinadas actividades productivas estratégicas.
+  
+La programación plurianual y el presupuesto por resultados brindarán mayor credibilidad a la política fiscal y generarán sostenibilidad y estabilidad al financiamiento de programas, dando consistencia a la política del gasto público, favoreciendo el manejo transparente de los recursos estatales y la efectiva rendición de cuentas.
+  
+El proceso de reducción de préstamos concesionales y el aumento sostenido de la deuda interna, en su mayor parte indexada a la inflación, demanda el desarrollo de iniciativas para ampliar los plazos de vencimiento de la cartera de obligaciones del Estado, junto a una disminución de las tasas de interés en condiciones de mercado.
+  
+Además, en el marco de la propuesta del G-8, el PND incorpora las iniciativas de alivio del 100 por ciento de deuda del Gobierno con los principales acreedores multilaterales. De igual manera, se promoverá la reducción de la deuda contraída en condiciones onerosas.
+  
+El nuevo financiamiento externo se orientará a la inversión pública acorde con las estrategias nacionales establecidas en el PND. En este sentido, la cooperación internacional y el Gobierno de Bolivia iniciarán un proceso de alineamiento a las políticas establecidas en el PND y de armonización de procedimientos para optimizar el acceso y uso de los recursos externos, y mejorar la gestión de inversión pública.
+  
+La política de recaudaciones considera una base tributaria más amplia, con principios de universalidad, proporcionalidad, capacidad contributiva y equidad, incluyendo una mayor participación del Estado en las rentas generadas por la explotación de recursos naturales no renovables, para proseguir con las políticas adoptadas recientemente y crear mecanismos que eviten la evasión y elusión tributaria y arancelaria.
+  
+También es importante: facilitar el acceso de la sociedad civil a la información de las finanzas publicas; equilibrar los ingresos reales con los gastos públicos para establecer flujos de caja y endeudamientos consistentes; coadyuvar a la elaboración de normas para el desarrollo y fortalecimiento del mercado de valores, sociedades comerciales, servicios financieros y micro finanzas rurales; y generar mejores condiciones para el sector productivo.
+  
+Además, se proyecta un incremento en las recaudaciones tributarias producto del Impuesto Directo a los Hidrocarburos (IDH), que generará un aumento importante en los ingresos tributarios hasta 2011 del orden del 14,5 por ciento del PIB.
+  
+Con relación a las regalías, el IDH y los nuevos contratos, se espera recaudar más recursos con el aumento de las exportaciones de gas natural, cuyos niveles máximos se alcanzarán entre 2009 y 2011. Adicionalmente, a partir de la gestión 2012, los proyectos de industrialización de los hidrocarburos generarán mayores ingresos para el Estado.
+  
+Ante el aumento de las recaudaciones del IDH, se asume un mayor gasto corriente y de capital, principalmente en los gobiernos subnacionales asociado a sus competencias.
+  
+Con el objetivo de reactivar algunos sectores productivos del país, de manera significativa, se incrementa la inversión pública que genere condiciones para impulsar el crecimiento sostenido, sin dejar de lado la inversión social.
+  
+Mediante estas políticas se pretende desarrollar estrategias destinadas a mejorar la redistribución del ingreso a través de un óptimo uso de los recursos del sector público.
+
+### 6.1.4 Política de precios
+
+El Gobierno mediante su política de precios se orientará a mantener la estabilidad de precios y aplicará las medidas necesarias para contribuir a normalizar el abastecimiento de los principales productos de la canasta familiar, corregirá prácticas especulativas de manera que los precios justos beneficien principalmente a los productores del área rural. La política del Gobierno tendrá principalmente por objetivo aumentar la producción nacional, principalmente de alimentos, y utilizará los instrumentos de la política comercial para corregir desajustes temporales en el abastecimiento.
+  
+Las acciones que implementará el PND consideran la importancia de mantener la estabilidad de precios y garantizan la independencia del Banco Central de Bolivia para mantener una inflación baja y estable. También se apoyará la aplicación de metas explícitas de inflación que amplíen la transparencia de la política monetaria, disminuyan la incertidumbre y las falsas expectativas de los agentes económicos, aspectos que se vinculan con las estrategias fiscales plurianuales.
+
+### 6.1.5 Política cambiaria
+
+El tipo de cambio es un precio clave de la economía, no sólo por sus efectos en el comercio exterior (mediante su impacto en la competitividad de las exportaciones y de la producción nacional que compite con las importaciones), sino por impacto en los demás precios y en el equilibrio macroeconómico, especialmente en una economía con elevada dolarización como la boliviana.
+  
+El PND propone preservar la competitividad del sector exportador y de la producción nacional que compiten con las importaciones. Además, se implementarán medidas complementarias para promover la diversificación de las exportaciones, estimular aquellas con mayor valor agregado y componente de empleo de mano de obra, y desarrollar un programa de sustitución de importaciones competitivas.
+  
+El régimen actual de tipo de cambio deslizante mostró ser exitoso, preservó la competitividad del sector transable y aisló en cierta medida a la economía nacional del contexto internacional, caracterizado por perturbaciones financieras y desequilibrios en los mercados cambiarios, especialmente en los países vecinos. En este sentido, el Banco Central de Bolivia seguirá fijando el tipo de cambio y respetará la libre convertibilidad.
+
+### 6.1.6 Desarrollo del sistema financiero
+
+El ahorro debe transformarse en inversión mediante el sistema financiero nacional. Además de los sistemas de ahorro provisional, es preciso generar una cultura de ahorro interno voluntario, fortalecer la confianza del público en las entidades de intermediación financiera (mediante políticas preventivas de regulación y supervisión bancaria), impulsar la extensión de los servicios financieros en áreas rurales y periurbanas, y coadyuvar a crear nuevos instrumentos financieros para el desarrollo del mercado. En este sentido, el PND propone disminuir paulatina y voluntariamente la dolarización financiera.
+  
+Con el objetivo de canalizar recursos orientados principalmente a los micros y pequeños productores en el ámbito urbano y rural, se creó el Banco de Desarrollo Productivo en el marco del SINAFID.
+
+### 6.1.7 Estímulo del ahorro e inversión interna
+
+No es posible dinamizar la producción y los ingresos con bajos niveles de inversión, por ello es esencial resolver la falta de financiamiento e incentivar el rol del empresariado nacional.
+  
+La inversión extranjera directa debidamente regulada es importante para el crecimiento. Sin embargo la dramática reducción de la inversión bruta (de un 23,6 por ciento del PIB en 1998 a 13,8 por ciento del PIB el año 2005) junto con el incremento del ahorro nacional (de 12,8 por ciento del PIB a 19,4 por ciento del PIB, respectivamente) muestra que es fundamental y factible incrementar la inversión interna.
+  
+Los lineamientos del PND señalados anteriormente apuntan a crear una atmósfera adecuada para la inversión privada. Además, una sociedad más justa, equitativa y equilibrada propicia mejores condiciones de seguridad jurídica.
+
+### 6.1.8 Pensiones
+
+Se identificaron factores que limitan la cobertura del actual sistema previsional boliviano como: la informalidad, el empleo temporal, el empleo estacional, el trabajo por producto, la mora en el pago de aportes para la jubilación, alta tasa de reemplazo y la deficiencia en los sistemas de control de las operaciones, en general, y los que corresponden a empleadores, en particular.
+  
+En ese contexto, se estableció la necesidad de replantear los criterios esenciales en la prestación de los beneficios del sistema previsional para aumentar la cobertura, mejorar las condiciones de acceso a las prestaciones, optimizar los sistemas de control y de aplicación de sanciones.
+  
+Se propone proteger el capital humano y racionalizar el sistema previsional para garantizar la sostenibilidad y la consecuente derivación de beneficios para la población en el largo plazo. Al fortalecer un sistema de pensiones como generador de recursos y de capacidades de inversión en actividades productivas, también se creará mecanismos para incorporar a la seguridad social una mayor parte de la población desprotegida (trabajadores de unidades productivas familiares, independientes, informales, campesinos, entre otros).
+
+### 6.1.9 Empleo y pobreza
+
+La calidad del empleo se expresa en un mayor número de personas trabajando mediante contratos de largo plazo, que sean empleos dignos que generen ingresos para Vivir Bien. En este sentido, el PND propone que hombres y mujeres que se encuentren en edad de trabajar tengan empleos dignos y sustentables.
+  
+La erradicación de la pobreza desde la perspectiva económica, depende, entre otros, de los siguientes factores: i) el crecimiento económico, que es un mecanismo efectivo para elevar los ingresos familiares mediante la creación de empleos y fuentes de ingresos y ii) las políticas distributivas mediante la inversión pública, especialmente en infraestructura, servicios sociales y apoyo a la producción, que elevan las capacidades de la población pobre y generan un crecimiento más inclusivo. Ambas políticas forman parte de los objetivos e instrumentos del PND.
+
+### 6.1.10 Fondo de Estabilización y Desarrollo
+
+El PND incorpora al Fondo de Estabilización y Desarrollo (FED) como mecanismo para enfrentar shocks transitorios y de estabilización, sustentado en los ingresos de la exportación de gas natural y su calidad de recurso natural no renovable, circunscrito a períodos perentorios de explotación y supeditado a fuertes oscilaciones de precios en el mercado internacional.
+  
+El propósito es que el sector público ahorre recursos en coyunturas favorables de precios y volúmenes para disponer de ellos en tiempos desfavorables. Este fondo también contribuirá a consolidar el ahorro nacional y la inversión productiva.
+  
+La necesidad de elevar las asignaciones de la inversión pública para revertir la deuda social y la implementación del FED, que preserve los recursos intergeneracionales de la renta petrolera, minera y de recursos naturales son prioritarias en la concepción del PND.
+
+### 6.1.11 Planificación estratégica plurianual
+
+La planificación estratégica plurianual abarca una visión de largo plazo para resolver el atraso y la dependencia, se introduce la planificación global como principal instrumento del desarrollo nacional, en cuyo contexto se define la planificación estratégica y la programación presupuestaria plurianual como principal nexo del sistema de planificación y el presupuesto en la gestión anual.
+  
+De esta forma, se resuelve la visión de coyuntura y de corto plazo de la política fiscal, en un contexto de estabilidad macroeconómica concebida como un fin en sí misma y no como un medio para alcanzar el crecimiento y el desarrollo.
+  
+Las razones para ampliar el horizonte presupuestario, más allá del ciclo anual, tratan de asegurar la sostenibilidad ínter temporal de las finanzas públicas para que la evolución del saldo público y la deuda doméstica y externa sean previsibles y confiables, generando políticas anticíclicas que preserven la inversión pública y la protección social de las fluctuaciones de los ingresos fiscales.
+
+### 6.1.12 Reforma institucional
+
+Con el propósito de impulsar la transformación del sector público se iniciará una reforma institucional para fortalecer las capacidades de planificación, articular y mejorar las capacidades institucionales, transparentar las cuentas públicas y optimizar el control social y las capacidades para lograr el control de gestión por resultados.
+  
+Las proyecciones financieras del marco macroeconómico y fiscal plurianual muestran la consolidación fiscal en términos de metas agregadas del nivel de recursos, gastos, déficit fiscal y deuda pública del sector público.
+  
+En esta perspectiva, los resultados fiscales se expresarán en una trayectoria sostenible de los indicadores de deuda, manteniéndolos por debajo de los umbrales de referencia.
+
+### 6.1.13 Proyecciones 2006 - 2011
+
+La tasa estimada de crecimiento económico promedio para el período 2006 - 2011 es algo superior al 5 por ciento, con una trayectoria creciente que parte de 4,6 por ciento en 2006 hasta alcanzar a 6.8 por ciento en 2011, Aunque la previsión del crecimiento en 2007 fue afectada sustancialmente por el fenómeno climatológico de El Niño. El crecimiento estará asociado principalmente a reactivar el sector minero-metalúrgico con la puesta en marcha del Mutún, además de la explotación del gas y el desarrollo de la infraestructura energética (eléctrica e hidrocarburífera) orientada a la demanda interna y externa.
+  
+*Gráfico N° 7 - Crecimiento del PIB*
+  
+![Crecimiento del PIB](#TODO-link)
+  
+El PND prioriza los proyectos energéticos para reconvertir la matriz productiva y energética nacional en el mediano plazo. Se sustituirá gradualmente el uso de combustibles líquidos importados como el diesel; y se logrará satisfacer la demanda de energía eléctrica en las zonas periurbanas y rurales del país, además de la demanda de naciones vecinas.
+  
+Este escenario de crecimiento económico considera prioritarias las actividades vinculadas al sector agrícola y a la reactivación de diversas formas asociativas de la economía rural campesina y del turismo comunitario y ecológico.
+  
+También es prioritario el sector industrial manufacturero, en particular la artesanía productiva, la pequeña y mediana empresa, sectores considerados como grandes dinamizadores de la economía y creadores de empleo por sus relaciones intersectoriales.
+  
+Asimismo, el Plan Nacional de Desarrollo considera importante la construcción de viviendas de carácter social para atender el déficit habitacional existente en el país. Esta actividad reactivará el sector de la construcción y generará fuentes de trabajo.
+  
+También se asume un mayor desarrollo de la agricultura en el contexto de la economía rural campesina, con aumentos de la superficie cultivada y los rendimientos agrícolas y pecuarios.
+  
+La tasa de crecimiento promedio para el sector Hidrocarburos en el periodo 2006 - 2011 será ligeramente superior al 9 por ciento con relación a la ampliación de instalaciones domiciliarias de gas natural, incrementos graduales en las exportaciones de gas natural a Argentina y Brasil, además del inicio de exportaciones a otros países.
+  
+La puesta en marcha de los proyectos mineros San Cristóbal y San Bartolomé, sumada a la reactivación de la minería chica y cooperativizada, con la participación activa de COMIBOL (que cumplirá el rol productivo del Estado) posibilitará que el sector de extracción de minerales metálicos aumente por encima del 12 por ciento durante el período 2006 - 2011. Se prevé que este sector logre su tasa máxima de crecimiento el 2008, cuando el proyecto San Cristóbal opere de manera plena.
+  
+En la industria manufacturera se estima un crecimiento promedio entre 6,8 por ciento en el período 2006 - 2011, gracias al desarrollo de la industria metalúrgica asociada al proyecto del Mutún, cuyas actividades comenzarán el año 2008 con una inversión superior a 1.500 millones de dólares en un período de cinco años. Este proyecto posibilitará la obtención de diversos productos del complejo, como pellets, hierro esponja (DRI) y acero, entre otros, con lo que aparte de lograr condiciones ventajosas para el país, concretará la generación de valor agregado en el proceso siderúrgico. Dada la magnitud del proyecto, éste tendrá una incidencia significativa en el crecimiento económico.
+  
+De igual manera, con el objetivo de generar valor agregado e industrializar la producción del sector minero, el PND propone reactivar las plantas metalúrgicas La Palca y Karachipampa.
+  
+En el mediano plazo, los proyectos metalúrgicos y petroquímicos lograrán recomponer la industria manufacturera. Adicionalmente el PND plantea implementar programas que incentiven la producción nacional, como el “Compro Boliviano” y el apoyo a las pequeñas y medianas empresas dedicadas a producir alimentos, textiles, madera, cuero, joyería y turismo - artesanía, entre otros
+  
+El sector de energía eléctrica introduce programas basados en la ampliación de fuentes de energía renovables, como el desarrollo e implementación de proyectos de generación de energía no renovable dirigidos a cubrir la demanda interna y externa de electricidad. Esta actividad alcanzaría una tasa de crecimiento promedio de 6 por ciento en los próximos años.
+  
+De esta manera, las inversiones realizadas en los sectores de industria petroquímica, metalúrgica y energética coadyuvarán en gran medida a reactivar los diferentes sectores productivos, entre ellos la construcción.
+  
+El PND implementará un programa de acceso a la vivienda urbana y rural mediante la construcción y mejora de la calidad de las viviendas, dotación de servicios básicos, gas domiciliario e infraestructura vial. El programa tendrá impactos en la solución de gran parte del déficit habitacional, en la creación de nuevos empleos en el sector de la construcción y en servicios a las empresas.
+  
+Otro aspecto importante se refiere a la implementación de programas de integración vial. El PND considera prioritarios los proyectos para concluir con el eje integrador este – oeste, la integración del norte y sur del país y la rehabilitación del sistema nacional de transporte ferroviario de la zona occidental y su interconexión con la red oriental.
+  
+El desarrollo de todas las actividades conjuntas relacionadas con la construcción posibilitará que este sector alcance una tasa de crecimiento promedio del orden del 14,5 por ciento durante el período 2006 - 2011.
+  
+El PND implementará programas en actividades transversales como el turismo con proyectos específicos en actividades productivas. Consolidar destinos turísticos, promover el ecoturismo y turismo comunitario incidirá en las actividades relacionadas con restaurantes y hoteles, servicios comunales, sociales y personales, transporte y servicios a las empresas.
+  
+De la misma manera, las actividades colaterales a la actividad productiva, como el comercio, el transporte y las comunicaciones serán influenciados en su crecimiento por el PND.
+  
+La implementación de la nueva matriz productiva hará posible la reconversión del sector industrial en especial de la industria metalúrgica por la puesta en marcha del proyecto Mutún. Adicionalmente, en términos de incidencias, cobran importancia los sectores de electricidad y de refinación de petróleo.
+  
+*Gráfico N° 8 - Incidencias en el crecimiento*
+  
+![Incidencias en el crecimiento](#TODO-link)
+  
+Fuente: BCB,UDAPE, INE
+  
+Como resultado de este proceso de reconversión, el crecimiento económico llegaría a depender de una mayor diversidad de sectores económicos y sostenibilidad en el mediano y el largo plazo será más factible.
+
+### Sección 6.2 Sistema de capitalización
+
+### 6.2.1. Empresas capitalizadas
+
+El funcionamiento del sistema de la capitalización tendió a crear un enclave de empresas transnacionales que respondía a una lógica económica ubicada fuera del país, sin conexiones internas, sin relación dinámica con otros sectores económicos y productivos, y sin interés en desarrollar las diferentes regiones del país.
+  
+El proceso de capitalización, contrariamente a lo que se pensaba, no constituyó una herramienta de desarrollo social y económico. Por el contrario, generó pérdidas importantes para el Estado, comprometió la soberanía nacional y limitó las posibilidades de desarrollo para el país.
+  
+Las propuestas para resolver la lógica de funcionamiento tienden a reorientar la dinámica actual extrovertida y excluyente de las empresas capitalizadas y a insertarlas en un nuevo esquema orientado a contribuir eficientemente al desarrollo nacional, a la industrialización interna, al desarrollo de los diferentes sectores y regiones.
+  
+Este cambio de orientación puede realizarse con las siguientes propuestas:
+  
+**i) Auditoría técnica y financiera a las empresas capitalizadas**
+  
+Resulta imprescindible proceder en el corto plazo a una auditoría técnica y financiera de las empresas capitalizadas con el objeto de establecer el valor real de su patrimonio neto.
+  
+**ii) Control accionario de las empresas capitalizadas**
+  
+Se procederá al control accionario de las empresas capitalizadas mediante la reversión de las acciones depositadas en el Fondo de Capitalización Colectiva (FCC) , y la compra de acciones restantes, hasta conformar el 51 por ciento del paquete accionario en favor del Estado Boliviano. Con esta medida se recupera y ejerce el control de la gestión empresarial y la captura del excedente económico.
+  
+**iii) Directorios de las nuevas empresas nacionales**
+  
+Los Directores de las empresas nacionales serán nombrados por el Poder Ejecutivo para que ejerzan derechos de propiedad en las instancias de decisión empresarial.
+  
+Los Directores de las empresas en número de siete, tendrán relación con el paquete accionario, equivalente a cuatro representantes del gobierno y tres de la empresa privada.
+  
+La administración de las empresas nacionales procederán por la elección de un operador privado o de una entidad dependiente del Poder Ejecutivo.
+  
+**iv) Pago del Bonosol**
+  
+Los dividendos obtenidos por la empresa nacional serán destinados a pagar el Bonosol a todos los beneficiarios que correspondan.
+
+### 6.2.2 Sistema de regulación sectorial
+
+\* Eliminación del sistema de regulación sectorial.
+  
+\* Formular la norma jurídica para eliminar las superintendencias sectoriales con excepción de la Superintendencia de Bancos y Entidades Financieras.
+  
+\* Las entidades resultantes de la eliminación de las superintendencias sectoriales serán supeditadas a los Ministerios correspondientes en calidad de Direcciones Generales.
+  
+\* La nueva ley debe ser elaborada y presentada para su aprobación a la brevedad posible, con el objeto de que el nuevo sistema entre en funcionamiento.
+
+### Sección 6.3 Programa de inversión pública 2006-2010
+
+En la nueva concepción de desarrollo para “Vivir Bien”, la inversión pública es el instrumento de política económica que concreta las políticas del Plan Nacional de Desarrollo (PND), en un escenario de desarrollo integral.
+  
+La proyección de la inversión pública para el próximo quinquenio presenta un crecimiento que oscila de 783 millones de dólares en el 2000 a 1.681,9 millones de dólares al 2010, esto representa un incremento de más del 114 por ciento, y su participación en el Producto Interno Bruto (PIB), pasa del 7,5 por ciento en la gestión 2006 al 11,9 por ciento para el 2010.
+  
+El gráfico 1 muestra que los montos programados para el quinquenio 2006-2010, superan los montos ejecutados y/o programados en el periodo 1987-2005.
+  
+La ejecución de los montos programados está en función del incremento de los niveles del ahorro público interno (Tesoro General de la Nación, Empresas Públicas, Entidades descentralizadas, Prefecturas y Gobiernos Municipales) y de la capacidad negociadora del Estado para procurar y comprometer efectivamente el financiamiento externo, preferentemente de carácter concesional destinado a la erradicación de la pobreza.
+  
+El Programa de Inversión Pública (PGIP) incluye proyectos nuevos y de continuidad, priorizados en el marco de la estrategia de desarrollo del Plan, orientando el gasto fiscal como único mecanismo efectivo que tiene el Estado para impulsar el desarrollo socioeconómico del país, buscando de preferencia la equidad en el proceso de distribución de los recursos públicos, la relación rural - urbano y la correspondencia asimetría regional.
+  
+La apertura del Programa de Inversión Pública para el quinquenio, es el siguiente: de acuerdo a la asignación sectorial (Ver gráfico No 9)
+  
+*Gráfico N° 9 - Tendencia de la Inversión Pública programada, ejecutada y proyectada*
+  
+![Crecimiento del PIB](#TODO-link)
+
+### 6.3.1. Bolivia Digna
+
+Las inversiones adquieren importancia para los sectores dirigidos al mejoramiento educativo, salud, saneamiento de tierras, servicios básicos (acceso a los servicios de agua, alcantarillado, etc.), seguridad social y otros presentan un incremento sostenido de 19,1 por ciento en 2006 al 25,5 por ciento en el 2010 sobre el total proyectado.
+
+### 6.3.2. Bolivia Democrática
+
+Las inversiones están dirigidas a la construcción de un nuevo pacto social, la movilización, participación social y el marco legal a ser reformado. El total de la demanda en inversión alcanza al 0,3 por ciento del total presupuestado.
+
+### 6.3.3. Bolivia Productiva
+
+**i) Sectores estratégicos, generadores de excedente**  
+Del monto total programado, el 12,8 por ciento corresponde a los sectores que tienen importancia en la generación de excedente para la inversión en el resto de los sectores, para la generación de empleo e ingresos.
+  
+**ii) Sectores generadores de ingresos y empleo**
+  
+Donde el Estado ejecuta proyectos de fortalecimiento para el desarrollo de la matriz productiva en los que prioritariamente están involucrados los grupos asociativos como las Organizaciones Económicas Campesinas (OECAS) en los sectores Agropecuario, Transformación Industria Manufacturera y Artesanal, Turismo y Vivienda, que en el quinquenio, abarcará el 15,6 por ciento de la inversión pública total propuesta.
+  
+**iii) Sectores de infraestructura para la producción**
+  
+Este grupo es el más importante del macro sector productivo principalmente porque las inversiones están dirigidas a la construcción, mejoramiento y mantenimiento periódico de la red vial fundamental, departamental y vecinal que son ejecutadas por la Administradora Boliviana de Carreteras (ABC), prefecturas y gobiernos municipales, respectivamente, que demandan el 38,9 por ciento de la inversión total del quinquenio.
+  
+**iv) Sectores de apoyo a la producción**
+  
+La programación para el desarrollo de la ciencia y la tecnología con base intercultural que debe articularse a la producción y al desarrollo sociocomunitario. El requerimiento del sector alcanza al 6,7 por ciento del total de la inversión pública programada.
+
+### 6.3.4. Bolivia Soberana
+
+Corresponde a inversiones para mejorar las acciones del Ministerio de Relaciones Exteriores y Cultos en los sectores de Relaciones Exteriores y Relaciones Económicas Internacionales. El monto programado para los 5 años alcanza al 0,3 por ciento sobre el total de la inversión pública programada.
+  
+En el gráfico No 10 se presenta una comparación de los grupos sectoriales de la inversión a partir de la gestión 1987, en la que se puede establecer el quiebre de la inversión pública a partir del 2006 el incremento es notable en los sectores productivos, infraestructura, sociales y multisectoriales.
+  
+*Gráfico No 10 - Tendencia de la inversión pública por grupos sectoriales*
+  
+![Tendencia de la inversión pública por grupos sectoriales](#TODO-link)
+
+
+---

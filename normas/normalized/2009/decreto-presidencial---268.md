@@ -1,0 +1,46 @@
+# Bolivia: Decreto Presidencial Nº 268, 26 de agosto de 2009
+
+Decreto Supremo Nº 0268
+  
+EVO MORALES AYMA
+  
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 18 de la [Constitución Política del Estado](#TODO-link), establece como derechos fundamentales, la Vida, la Salud y la Seguridad; asimismo, el Articulo 45 dispone que todas las bolivianas y los bolivianos tienen derecho a la Seguridad Social, bajo los principios de universalidad, integralidad, equidad, solidaridad, unidad de gestión, economía, oportunidad, interculturalidad y eficiencia, y que su dirección y administración corresponde al Estado, con control y participación social.
+* Que el Artículo 35 de la [Constitución Política del Estado](#TODO-link) dispone que el Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud. Asimismo, el Artículo 37 del mismo texto constitucional, establece que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera.
+* Que el Artículo 14 del Código de Seguridad Social y el Artículo 34 del Reglamento del Código de Seguridad Social, reconocen a los beneficiarios del trabajador.
+* Que mediante [Decreto Ley Nº 14643](#TODO-link), de 3 de junio de 1977, se amplía la situación de beneficiario desde los dieciséis (16) años, hasta los diecinueve (19) años de edad, sin el requisito de presentación del certificado de estudios. Asimismo, el [Decreto Supremo Nº 20989](#TODO-link), de 1 de agosto de 1985, establece que los beneficiarios calificados con derecho hasta los diecinueve (19) años de edad, pueden solicitar el beneficio de ampliación de prestaciones médicas hasta cumplir los veinticinco (25) años de edad, siempre que efectúen estudios bajo dependencia económica del asegurado y que no perciban remuneración económica alguna; y establecida la relación de prestaciones otorgadas serán determinadas en la proporción del cincuenta por ciento (50%) del costo, según lo dispuesto por el Artículo 3 del precitado Decreto Supremo.
+* Que el Artículo 5 de la [Ley Nº 1732](#TODO-link), de 29 de noviembre de 1996, de Pensiones, dispone que en orden de prelación, el cónyuge o conviviente supérstite, mientras no contraiga nuevo matrimonio o sostenga relación de convivencia, y los hijos del Afiliado, éstos sin prelación entre sí, desde concebidos aún no nacidos hasta los dieciocho (18) años de edad, los hijos que sean estudiantes hasta los veinticinco (25) años de edad o los que sean declarados inválidos antes de cumplir los veinticinco (25) años de edad, mientras vivan, son considerados como Derechohabientes en forma forzosa.
+* Que los incisos a) y m) del Artículo 6 del [Decreto Supremo Nº 25798](#TODO-link), de 2 de junio de 2000, establece que el Instituto Nacional de Seguros de Salud - INASES como Institución parte del Sistema Boliviano de la Seguridad Social, tiene las atribuciones de proponer al Ministro de Salud y Deportes, normas relativas al Sistema de Seguros de Salud y de Reglamentar el campo de aplicación de contingencias protegidas, orientándolas a la universalización de la atención medica en los regímenes de corto plazo.
+* Que el Principio de Igualdad es un principio general del Derecho y como tal es aplicable a la seguridad social, señala que se debe dar el mismo trato a personas que se encuentren en la misma situación, y a la inversa, debe darse un trato distinto y adecuado a cada circunstancia a las personas que se encuentren en situaciones distintas; contexto que no se adecua a los asegurados de los Entes Gestores de Salud de Corto Plazo, toda vez que en la Corporación del Seguro Social Militar - COSSMIL y en los Seguros Sociales Universitarios, la cobertura de los hijos de los asegurados se encuentra protegida hasta los veinticinco (25) años sin el co-pago del cincuenta por ciento (50%) del costo de las prestaciones.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** Se autoriza a los Entes Gestores de Salud de Corto Plazo a prestar atención médica asistencial a todos los hijos e hijas de los asegurados, hasta que alcancen la edad de veinticinco (25) años, que estudien o que se hallen en trabajo de aprendizaje sin percepción de remuneración alguna, previa certificación.
+
+**Artículo 2°.- (Beneficiarios del trabajador)** Son beneficiarios del Trabajador o Trabajadora los siguientes familiares:
+
+1. La esposa o el esposo, o la conviviente o el conviviente, inscrita o inscrito en los registros del Ente Gestor.
+2. Los hijos hasta los veinticinco (25) años de edad, siempre y cuando no sean casados o convivientes; que no hubieren abandonado el hogar de sus padres; que no vivan en hogares independientes y que no trabajen o dependan de un empleador teniendo seguro por derecho propio; o sin límite de edad si son declarados inválidos por los servicios médicos de las Cajas a cualquier edad.
+3. El padre y la madre, siempre que no dispongan de rentas personales para su subsistencia.
+4. Los hermanos, en las mismas condiciones de edad que los hijos, siempre que sean huérfanos o hijos de padres comprendidos en el inciso anterior, que no perciban rentas y que vivan en el hogar del asegurado.
+
+**Artículo 3°.- (Fiscalización)** El Instituto Nacional de Seguros de Salud - INASES, como Institución parte del Sistema de Seguridad Social Boliviano, sobre el análisis de los estados financieros de los Entes Gestores del Régimen de Corto Plazo, deberá elaborar Informes Técnico - Financieros anuales referidos al impacto que representen los costos de las implementaciones descritas en el Artículo precedente, a efecto de proponer acciones específicas para evitar el desequilibrio financiero, en resguardo de la economía de los Entes Gestores de Salud de Corto Plazo.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo abrogatorio Único.-** Se abroga el [Decreto Supremo Nº 20989](#TODO-link), de 1 de agosto de 1985.
+  
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Salud y Deportes, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la Ciudad de La Paz, a los veintiséis días del mes de agosto del año dos mil nueve.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Romero Bonifaz, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Héctor E. Arce Zaconeta, Noel Ricardo Aguirre Ledezma, Luís Alberto Arce Catacora, Oscar Coca Antezana, Patricia Alejandra Ballivián Estenssoro, Walter Juvenal Delgadillo Terceros, Luís Alberto Echazú Alvarado, Celima Torrico Rojas, Calixto Chipana Callisaya, Jorge Ramiro Tapia Sainz, René Gonzalo Orellana Halkyer, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCION, Julia D. Ramos Sánchez, Pablo Groux Canedo.

@@ -1,0 +1,76 @@
+# Bolivia: Decreto Supremo Nº 23439, 25 de marzo de 1993
+
+JAIME PAZ ZAMORA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que las leyes 1243 y 1297 de 11 de abril y 27 de noviembre de 1991 han elevado el Código de Minería reformado y modificado a Ley;
+* Que el artículo 202 del Código de Minería modificado dispone que “ las personas individuales o colectivas que sin ser productoras mineras se dediquen a las actividades de comercialización y exportación de minerales y metales, tramitarán la autorización correspondiente ante el Ministerio de Minería y Metalurgia, acreditando su personalidad jurídica e inscripción en el Registro de Comercio y Registro Unico de contribuyentes, debiendo sujetarse a lo estipulado en el decreto reglamentario”;
+* Que es deber del Estado precautelar con equidad y justicia los deberes y obligaciones de la libre comercialización de todo el sector minero, así como de las personas individuales o colectivas comercializadoras no productoras, siendo también su obligación asegurar el cumplimiento de las retenciones establecidas en su favor y de otras entidades beneficiarias, a fin de mantener relaciones administrativas claras, armónicas y eficaces;
+* Que es necesario también disponer de información económica, estadística y sectorial de la actividad de comercialización de metales así como minerales metálicos y no metálicos, con el fin de formular políticas mineras eficientes;
+* Que corresponde reglamentar el artículo 202 del Código de Minería en concordancia con el [Decreto Supremo Nº 22407](#TODO-link) de 11 de enero de 1990 que garantiza la libre determinación de precios como también de la producción y comercialización de bienes y contratación de servicios en general, actividades que deben cumplirse con eficiencia económica, competencia y competitividad;
+* Que la [Ley Nº 1243](#TODO-link) encomienda su reglamentación en su artículo 3, al Poder Ejecutivo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I. Del Registro Nacional de Comercializacion de Minerales y Metales
+
+**Artículo 1°.-** Se crea el REGISTRO NACIONAL DE COMERCIALIZACION DE MINERALES Y METALES a cargo del Ministerio de Minería y Metalurgia.
+
+**Artículo 2°.-** Se inscribirán obligatoriamente en al Registro Nacional de Comercialización de minerales y metales:
+
+1. Las personas, individuales o colectivas, que sin ser productores mineros se dediquen a las actividades de comercialización y exportación de metales y minerales, , incluidos los comprendidos en el artículo 206 del Código de Minería.
+2. Los concesionarios mineros que comercialicen con minerales y metales no procedentes de sus concesiones mineras.
+3. Las personas individuales o colectivas que acopien, beneficien, fundan o refinen minerales o metales de terceros.
+4. Las personas que se dediquen a la compra de oro, mineral o metal, para manufactura o artesanía o comercialización interna o externa.
+
+## Capítulo II. Procedimiento del registro
+
+**Artículo 3°.-** La solicitud de inscripción en el Registro Nacional de Comercializadores de Minerales y Metales, se efectuará mediante memorial dirigido al Ministro de Minería y Metalurgía, acompañando los siguientes documentos:
+
+1. Certificado de inscripción en el Registro de Comercio y Sociedades por acciones.
+2. Registro Unico de Contribuyentes (RUC).
+3. Certificado de la Dirección General de Impuestos Internos (DGII) manifestando que el interesado se encuentra registrado en el régimen impositivo sobre utilidades mineras. Los sujetos del artículo 2 inc. b) que durante la transición continúan en el régimen de regalías, obtendrán también el certificado correspondiente de la Dirección General de Impuestos Internos (DGII), vía Renta.
+
+**Artículo 4°.-** El Ministerio de Minería y Metalurgia inscribirá al solicitante y el otorgará el carnet e comercializador, sin costo alguno, a excepción de los valores de ley, dentro los 10 días hábiles de presentada la solicitud y cumplidos los requisitos establecidos. La autorización y el carnet de comercializador son intransferibles.
+
+**Artículo 5°.-** Los comercializadores, autorizados legalmente son agentes de retención de regalías, conforme al artículo 119 inciso e) de la [Ley Nº 1297](#TODO-link) de 27 de noviembre de 1991 y de acuerdo a lo señalado en el artículo transitorio de la [Ley Nº 1243](#TODO-link) de 11 de abril de 1991. Cuando el vendedor esté incorporado al régimen impositivo a las utilidades no se efectuará esas retenciones.
+
+**Artículo 6°.-** Los comercializadores actuarán como agentes de retención de aportes al sistema de seguridad social para las cooperativas mineras de Bolivia y para la minería pequeña o chica, tomando en cuenta las previsiones del artículo 8 del [Decreto Supremo Nº 21637](#TODO-link) de 25 de junio de 1987 y conforme a las modalidades de los convenios suscritos entre los sectores interesados y las entidades del sistema de seguridad social, homologados por los ministerios de Previsión Social y Salud Pública y Minería y Metalurgia, previo informe del Instituto Boliviano de Seguridad Social.
+
+**Artículo 7°.-** Los comercializadores, mediante acuerdos que suscriban con las entidades interesadas, homologados por resolución ministerial, actuarán como agentes de retención de aportes y contribuciones para la Cámara Nacional y las cámaras departamentales de Minería, asociaciones y federaciones Nacional, departamentales y regionales de cooperativas mineras.
+  
+Actuarán asimismo de agentes de retención de cánones de arrendamiento y otros, destinados a instituciones estatales, cuyos porcentajes serán establecidos entre las instituciones y homologados por resolución ministerial del Ministerio de Minería y Metalurgia.
+
+**Artículo 8°.-** Los comercializadores tienen las obligaciones siguientes:
+
+1. Efectuar liquidaciones en forma clara y detallada, consignando todos los datos referentes a cada operación de compra y venta de minerales o metales, incluyendo, además de los que dispusiese la Dirección General de Impuestos Internos, el nombre o razón social del comprador, el nombre o razón social del vendedor, número de carnet de comercialización, la procedencia del mineral o metal especificando el nombre de la concesión minera y su ubicación (cantón, provincia y departamento), peso neto, ley de minerales, peso fino, precios de los minerales o metales y las retenciones realizadas de acuerdo al inciso de la [Ley Nº 1297](#TODO-link) y al presente decreto supremo. Una copia de cada liquidación será entregada al vendedor.
+2. Enviar mensualmente al Ministerio de Minería y Metalurgia, información estadística sobre comercialización interna y externa de minerales y metales, comprendiendo el origen, volumen, valor y destino, de acuerdo a los formularios emitidos por el Ministerio, para este efecto y expresamente aprobados por el Instituto Nacional de Estadística.
+     
+   Los mencionados informes se utilizarán exclusivamente para fines estadísticos. Estarán amparados por la confidencialidad establecida en los artículos 21 y siguientes de la Ley del Sistema Nacional de Información Estadística puesta en vigencia por el [Decreto Supremo Nº 14100](#TODO-link) de 5 de noviembre de 1976 y su procesamiento se sujetará a las regulaciones establecidas por esas disposiciones legales.
+
+## Capítulo III. Sanciones y alcances
+
+**Artículo 9°.-** Los comercializadores y productores que incumplan las determinaciones del presente decreto supremo, en cuanto a la retención de regalías, serán pasibles a las correspondientes sanciones del Código Tributario.
+
+**Artículo 10°.-** Las personas individuales o colectivas que realicen las actividades señaladas en el artículo 2 del presente decreto, sin su inscripción en el Registro Nacional de Comercialización de Minerales y Metales, serán sancionadas de acuerdo a los decretos supremos [Nº 17868](#TODO-link) de 30 de diciembre de 1980 y [Nº 19672](#TODO-link) de 15 de julio de 1983 y los artículos 203 y 205 del Código de Minería.
+
+## Capítulo IV. Disposiciones transitorias
+
+**Artículo 11°.-** Las personas individuales o colectivas, registradas y autorizadas en virtud del [Decreto Supremo Nº 22175](#TODO-link) de 13 de abril de 1989, deben complementar su registro mediante la presentación de certificado de la Dirección General de Impuestos Internos que acredite su inscripción en el régimen impositivo minero sobre utilidades.
+  
+Las acopiadoras de minerales, autorizadas por resolución ministerial, deben inscribirse en el Registro Nacional de Comercialización de Minerales y Metales, en un plazo no mayor de 90 días, cumpliendo los requisitos del artículo 3 del presente decreto.
+
+**Artículo 12°.-** Se abroga el [Decreto Nº 22175](#TODO-link) de 13 de abril de 1989 y todas las disposiciones legales contrarias al presente decreto supremo reglamentario.
+
+---
+
+Los señores Ministros de Estado en los despachos de Minería y Metalurgia, Finanzas, Exportaciones y Competitividad Económica así como Previsión Social y Salud Pública quedan encargados de la ejecución y cumplimiento del presente decreto supremo reglamentario.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de marzo de mil novecientos noventa y tres años.
+  
+Fdo. JAIME PAZ ZAMORA, Ronald MacLean Abaroa, Carlos A. Saavedra Bruno, Gustavo Fernández Saavedra, Alberto Saenz Klinsky, Roberto Peña Rodriguez, Flavio Escóbar Llanos Min. Planeamiento y Coordinación a. i., Mario Requena Min. Finanzas a. i., Abigail Pérez Medrano Min. Educación y Cultura a. i., Carlos Aponte Pinto, Fernando Campero Prudencio, Eusebio Gironda Cabrera, Carlos Dabdoub Arrien, Alvaro Rejas Villarroel, Oswaldo Antezana Vaca Diez, Herbert Müller Costas, Fernando Kieffer Guzmán, José Luis Lupo Flores.

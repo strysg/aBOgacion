@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 23625, 30 de agosto de 1993
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que en 1987, la República de Bolivia inició un Programa de Reducción de Deuda Comercial con la Banca Internacional, utilizando opciones de pago en efectivo y canje de deuda por Bonos de Inversión, con un costo de 11 centavos de dólar por cada dólar de capital adeudado, habiéndose logrado la condonación de todo tipo de intereses.
+* Que la finalidad de concluir con el retiro de la deuda comercial, la República de Bolivia presentó a la banca acreedora el Programa 1992 de Reducción de Deuda en el cual se incluye la opción de obtener Bonos STEP para financiar programas relacionados con el medio ambiente, salud, educación o cultura.
+* Que PROCOSI es una red de instituciones privadas sin fines de lucro que ejecutan y/o propician proyectos de supervivencia infantil en Bolivia.
+* Que de acuerdo a lo estipulado en el [Decreto Supremo Nº 22979](#TODO-link) de 20 de noviembre de 1991 y habiendo sido presentada oportunamente la solicitud y el programa social de PROCOSI al Banco Central de Bolivia en forma previa a dicha disposición legal y al Programa 1992 de Reducción de la Deuda Comercial Boliviana y su reglamentación, los procedimientos fijados en dichas disposiciones no son aplicables a PROCOSI, porque no tienen efecto retroactivo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se autoriza al Banco Central de Bolivia proceder al pago del Bono STEP correspondiente a PROCOSI, en virtud de que PROCOSI, a raíz del Programa 1992 de Reducción de la Deuda Comercial Boliviana y a solicitud del Gobierno nacional, debió interrumpir sus operaciones de canje, con objeto de viabilizar dicho programa de retiro. El pago debe efectuarse por el monto nominal de los Bonos Step incluyendo el interés que haya generado el Bono del Tesoro Americano hasta el momento de su redención y con el que colateralizó el Bono Step.
+
+**Artículo 2°.-** Se autoriza al Fondo de Inversión Social, a que, honrando la fe del Estado y en su condición de agencia gubernamental de implementación del programa social, efectúe en favor de PROCOSI, el desembolso correspondiente a la contribución adicional consistente en el equivalente al 50% del monto descontado del Bono Step (un medio del 16% de la deuda base).
+
+**Artículo 3°.-** Dicho desembolso en favor de PROCOSI, deberá efectivizarse hasta 19 de febrero de 1994. Tomando en cuenta el espíritu de la resolución del CFE 020/92 de 13 de julio de 1992 el premio respectivo deberá ser cubierto con fondos del Tesoro General de la Nación, para lo cual el Banco Central de Bolivia podrá, en su caso hacer viable esta operación con cargo al crédito fiscal.
+  
+Asimismo, queda establecido que no corresponde que el FIS cobre gastos de administración a PROCOSI, debido a que éste no efectuará control y seguimiento de los proyectos a ser ejecutados por PROCOSI.
+
+**Artículo 4°.-** Se autoriza a PROCOSI utilizar los fondos correspondientes a los Bonos Step y a la contribución adicional, para efectuar operaciones en el sistema financiero nacional, excepto en el Banco Central de Bolivia, en bolivianos con mantenimiento de valor. Con dichos fondos, PROCOSI establecerá su fondo fiduciario y de inversión a efectos de consolidar sus actividades y con destino a proyectos de salud, educación y cultura como señala el memorándum de oferta del Programa de Reducción de la Deuda Comercial, 1992.
+
+**Artículo 5°.-** Para tal efecto, se recomienda y autoriza al Banco Central de Bolivia y al Fondo de Inversión Social, viabilizar y agilitar los correspondientes desembolsos.
+
+---
+
+Los señores Ministros de Estado en los despachos de Planeamiento y Coordinación así como Finanzas, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de agosto de mil novecientos noventa y tres años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Germán Quiroga Gómez, Antonio Céspedes Toro, Carlos Sánchez Berzain, Fernando Illanes de la Riva, Fernando Romero Moreno, Reynaldo Peters Arzabe, Herman Antelo Laughlin, Carlos Morales Guillén, José G. Justiniano Sandóval.

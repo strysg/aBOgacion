@@ -1,0 +1,36 @@
+# Bolivia: Decreto Supremo Nº 25413, 11 de junio de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que por la importancia social y económica del Proyecto Múltiple Misicuni para satisfacer las necesidades de agua, alcantarillado, riego y energía eléctrica del valle de Cochabamba, mediante [Decreto Supremo Nº 25133](#TODO-link) de 21 de agosto de 1998, se autorizó la participación del sector privado en la prestación del servicio público de agua potable y alcantarillado para la ciudad de Cochabamba y en el Proyecto Múltiple Misicuni, a cuyo efecto, mediante Licitación Pública Nacional e Internacional No. MCEI/SE-SA/UR/SEMAPA-MISICUNI/05/98 de 27 de agosto de 1998, se convocó a empresas o consorcios a presentarse al proceso de selección para la prestación del referido servicio.
+* Que por [Decreto Supremo Nº 25351](#TODO-link) de 19 de abril de 1999, de acuerdo con el Informe de Recomendación de la Comisión Calificadora de fecha 15 de abril de 1999, elaborado conforme dispone el artículo 6 del [Decreto Supremo Nº 25133](#TODO-link), se declaró desierta la Licitación Pública Nacional e Internacional No. MCEI/SE-SA/UR/SEMAPA-MISICUNI/05/98, toda vez que el único proponente que se presentó, “Consorcio Aguas del Tunari”, no cumplió con determinadas condiciones exigidas en el Pliego de Condiciones establecido al efecto.
+* Que debido a que la ejecución del Proyecto Múltiple Misicuni y el desarrollo del servicio de agua potable y alcantarillado en la ciudad de Cochabamba constituyen necesidades impostergables de impacto social de amplio alcance, cuya solución tiene carácter impostergable en el marco de las condiciones reales del mercado de capitales y las restricciones para la inversión pública, por [Decreto Supremo Nº 25351](#TODO-link) de 19 de abril de 1999 se estableció una Comisión de Negociación conformada por el Viceministro de Inversión y Privatización, el Prefecto y Comandante General del Departamento de Cochabamba, el Honorable Alcalde Municipal del Municipio de Cochabamba, el Superintendente de Aguas, el Superintendente de Electricidad, el Presidente Ejecutivo de la Empresa Misicuni y el Gerente General de SEMAPA, para evaluar y negociar la propuesta presentada por el “Consorcio Aguas del Tunari”, a cuyo efecto se autorizó la negociación con dicho Consorcio, con carácter de exclusividad por un período de 45 días, sobre la base de los documentos contractuales de la Licitación Pública Nacional e Internacional No. MCEI/SE-SA/UR/SEMAPA-MISICUNI/05/98 y la Propuesta presentada por el indicado Consorcio.
+* Que la Comisión Negociadora después de conocer la propuesta inicial del Consorcio Aguas del Tunari y negociado la misma, hasta el día 3 de junio de 1999, recibió en fecha 4 de junio de 1999, la presentación de una propuesta mejorada para obtener la concesión para la ejecución del servicio público de agua potable y alcantarillado para la ciudad de Cochabamba y para la ejecución del Proyecto Múltiple Misicuni.
+* Que en cumplimiento del artículo 2 del [Decreto Supremo Nº 25351](#TODO-link), la Comisión Negociadora constituida al efecto, ha elevado a consideración del Presidente de la República en Consejo de Ministros, un informe detallado con las conclusiones de la negociación.
+* Que de conformidad con el Informe de la Comisión Negociadora, la propuesta presentada por el “Consorcio Aguas del Tunari” resulta conveniente para el interés nacional y particularmente para el departamento de Cochabamba, por lo que debe decidirse la adjudicación.
+* Que la política instaurada desde principios de la presente década en materia económica en Bolivia, estimula y garantiza las inversiones nacionales y extranjeras, aspectos que se encuentran previstos en las siguientes normas legales: [Ley Nº 1182](#TODO-link) de Inversiones, [Ley Nº 1330](#TODO-link) de Privatización, [Ley Nº 1544](#TODO-link) de Capitalización, Ley del Sistema de Regulación Sectorial 1600 y Ley del Mercado de Valores 1834, entre otras.
+* Que es necesario adoptar las decisiones conducentes a la solución perentoria de los problemas que se derivan del crónico déficit del agua en Cochabamba, sobre la base de la inversión privada en forma complementaria a la inversión pública, en curso de ejecución en el Túnel Principal del proyecto Múltiple Misicuni.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Aprobar el Informe de la Comisión Negociadora de fecha 8 de junio de 1999, referida a la negociación con el “Consorcio Aguas del Tunari” dispuesta por [Decreto Supremo Nº 25351](#TODO-link), a cuyo efecto, se define la opción recomendada de establecer el pago de alquiler, por parte del futuro concesionario, por los activos fijos de SEMAPA, conforme refiere el párrafo 42, inciso a, del citado Informe.
+
+**Artículo 2°.-** Aceptar la Propuesta Final del “Consorcio Aguas del Tunari” de 3 de junio de 1999 y adjudicar en favor del mismo, el aprovechamiento de aguas, la prestación del servicio público de agua potable y alcantarillado para la ciudad de Cochabamba, el suministro de agua de riego y la generación de energía eléctrica, en el contexto de la ejecución del proyecto Múltiple Misicuni, en el marco de su Propuesta Final y del Informe de la Comisión Negociadora, aprobado en el artículo anterior.
+
+**Artículo 3°.-** Para los efectos del artículo anterior, las Superintendencias de Aguas y de Electricidad otorgarán las concesiones y licencias correspondientes, de acuerdo a lo establecido en el articulo 11 de la [Ley Nº 1600](#TODO-link) del Sistema de Regulación Sectorial SIRESE, las normas legales sectoriales y demás disposiciones legales en vigencia. Los contratos de Concesión y Licencia, deberán ser suscritos en el plazo de sesenta días calendario por la Sociedad Anónima a ser conformada por el adjudicatario “Consorcio Aguas del Tunari”, sujetarse a la propuesta adjudicada y adecuarse a las condiciones y formas establecidas por las Superintendencias, conforme a las normas regulatorias aplicables en la República de Bolivia. En tanto no se suscriban los contratos con las Superintendencias, no podrá considerarse que la adjudicación establecida en el presente decreto crea derechos en favor del Consorcio Aguas del Tunari.
+
+**Artículo 4°.-** En caso que los contratos de concesión y licencia no fueran suscritos en el plazo establecido en el articulo anterior, por causas imputables al “Consorcio Aguas del Tunari”, el Ministerio de Comercio Exterior e Inversión, queda facultado a ejecutar la boleta de garantía bancaria de seriedad de propuesta, presentada por dicho Consorcio, emitida el 26 de abril de 1999 y enmendada el 2 de junio de 1999.
+
+---
+
+El señor Ministro de Estado en el despacho de Comercio Exterior e Inversión, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los once días del mes de junio de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada, Fernando Kieffer Guzmán, Herbert Müller Costas, Ana María Cortéz de Soriano, Jorge Pacheco Franco, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Adolfo Soliz Antezana, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Amparo Ballivián Valdés.

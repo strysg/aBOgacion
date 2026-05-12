@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 23849, 24 de agosto de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 23393](#TODO-link) de 29 de enero de 1993 aprueba el Programa de Reducción de deuda boliviana 1992 y el Memorandum de oferta, actuando el Banco Central de Bolivia en dicho programa como deudor emisor y la República como garante;
+* Que los artículos 2 y 3 de la citada disposición legal autorizan al Banco Central de Bolivia en ejecución del Programa, la recompra en efectivo de la deuda comercial pendiente con la banca internacional al precio de dieciséis por ciento (16%) del valor del capital adeudado y la emisión de bonos de canje de 30 años y/o de bonos sociales ambientales de corto plazo (9 meses) para proceder a su canje por deuda externa comercial pendiente de pago;
+* Que Woodstead Associates, en su condición de acreedor, no participó del Programa de Reducción de Deuda 1992, demandando ante la Corte de Nueva York el pago del cien por ciento (100%) de su deuda que asciende a $us.945.960.77 más intereses y costas judiciales;
+* Que el Banco Central de Bolivia y el Ministerio de Hacienda y Desarrollo Económico, previo análisis de la situación del proceso judicial y de acuerdo al asesoramiento de los abogados contratados Williams & Connolly en los Estados Unidos de América, consideran conveniente llegar a un arreglo extrajudicial que beneficie al país;
+* Que estando pendiente de trámite en la Corte del Distrito de los Estados Unidos - Distrito Sur de Nueva York la mencionada acción judicial, las partes de común acuerdo tienen la intención de evitar mayores controversias, cuya defensa legal implica considerables erogaciones de dinero por el costo oneroso de la contratación de los servicios profesionales, desistiendo de la acción judicial, para llegar a un arreglo transaccional, estableciendo el pago de 80 centavos por dolar de deuda, lo cual implica la liquidación total de la misma.
+* Que es necesario autorizar la negociación para lograr un acuerdo conveniente a los intereses del país.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorízase al Banco Central de Bolivia y al Ministerio de Hacienda y Desarrollo Económico transigir con Woodstead Associates una solución definitiva de pago por $us.756.768.61, que representa el ochenta por ciento (80%) del capital adeudado novecientos CUARENTA Y CINCO mil novecientos SESENTA 77/100 DÓLARES AMERICANOS ($US.945.960.77), pago que constituye la extinción total de la deuda, incluyendo intereses y gastos judiciales.
+
+**Artículo 2°.-** Autorízase al Banco Central de Bolivia, depositar con cargo al Tesoro General de la Nación, en una cuenta en fideicomiso en los Estados Unidos de América, el monto de $us.756.768.61, a ser cancelado a Woodstead Associates en 26 de agosto de 1994, a través de los abogados Williams & Connolly en dicho país.
+
+**Artículo 3°.-** Autorízase al Ministerio de Hacienda y Desarrollo Económico y a los representantes legales del Banco Central de Bolivia a suscribir los respectivos convenios de liquidación total de la deuda y liberaciones.
+
+---
+
+El señor Ministro de Estado en el despacho de Hacienda y Desarrollo Económico queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los vienticuatro días del mes de agosto de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Germán Quiroga Gómez, Raúl Tovar Piérola, Carlos Sánchez Berzain, Rene Oswaldo Blattmann Bauer, Fernando Alvaro Cossio, Enrique Ipiña Melgar, José G. Justiniano Sandoval, Reynaldo Peters Arzabe, Ernesto Machicao Argiró, Alfonso Revollo Thenier.

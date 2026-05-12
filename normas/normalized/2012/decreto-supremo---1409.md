@@ -1,0 +1,431 @@
+# Bolivia: Decreto Supremo Nº 1409, 20 de noviembre de 2012
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 6 del Artículo 9 de la [Constitución Política del Estado](#TODO-link), establece como fines y funciones esenciales del Estado, entre otras, promover y garantizar el aprovechamiento responsable y planificado de los recursos naturales, e impulsar su industrialización, a través del desarrollo y del fortalecimiento de la base productiva en sus diferentes dimensiones y niveles, así como la conservación del medio ambiente, para el bienestar de las generaciones actuales y futuras.
+* Que el Artículo 2 del [Decreto Supremo Nº 0637](#TODO-link), de 15 de septiembre de 2010, crea la Empresa Azucarera San Buenaventura - EASBA, como Empresa Pública Nacional Estratégica - EPNE, con personería jurídica y patrimonio propio, de duración indefinida, autonomía de gestión administrativa, financiera, legal y técnica, bajo tuición del Ministerio de Desarrollo Productivo y Economía Plural.
+* Que el Artículo 4 del [Decreto Supremo Nº 0637](#TODO-link), determina que la EASBA tiene por objeto la producción de caña de azúcar, así como la producción y comercialización de azúcar y sus derivados, para incentivar la producción nacional con valor agregado en procura de la soberanía y seguridad alimentaria.
+* Que se hace necesario que la EASBA para el cumplimiento de sus objetivos en la producción de azúcar y sus derivados, a partir del inicio de sus operaciones el año 2015, debe garantizar el abastecimiento de materia prima, promoviendo el desarrollo agrícola en la región de San Buenaventura, a través de la transferencia de semilla de caña de azúcar categorizada por variedades a las organizaciones de productores, brindar servicios agrícolas y efectuar otras labores emergentes de las actividades que desarrolla a fin de dar cumplimiento a sus objetivos.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se incluye un párrafo en el Artículo 4 del [Decreto Supremo Nº 0637](#TODO-link), de 15 de septiembre de 2010, con el siguiente texto:
+> “La EASBA en función de su capacidad podrá realizar la prestación de servicios agrícolas en la región a productores vinculados a la producción de caña de azúcar, así como prestar asistencia técnica, limpieza de barbecho, preparación de suelo, siembra, cosecha, venta de semilla de caña de azúcar y otros relacionadas a las labores agrícolas referentes al cultivo de caña de azúcar en la región.”
+
+# Disposiciones transitorias
+
+**Artículo transitorio Único.-** 
+
+1. Con carácter excepcional y por única vez se autoriza a la EASBA a comercializar directamente la madera proveniente de los desmontes que pueda efectuar dentro del predio de su propiedad, en el marco de la normativa vigente.
+2. Los ingresos de la venta de madera, se constituirán en recursos propios de EASBA, para sus actividades establecidas por norma.
+     
+
+   # Disposiciones finales
+
+**Artículo final Único.-** Previo cumplimiento de la normativa legal vigente, se autoriza la siembra y producción de caña de azúcar para el abastecimiento de materia prima a la EASBA, en la superficie de cuarenta y siete mil novecientos ochenta y seis hectáreas con siete mil quinientos siete metros cuadrados (47.986,7507 ha), ubicadas en la Provincia Abel Iturralde del Departamento de La Paz, conforme a las coordenadas descritas en el Anexo 1 que forma parte integrante del presente Decreto Supremo.
+
+---
+
+La señora Ministra de Estado en el Despacho de Desarrollo Productivo y Economía Plural, queda encargada de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de noviembre del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre MINISTRO DE MINERÍA Y METALURGIA E INTERINO DE HIDROCARBUROS Y ENERGÍA, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres MINISTRA DE COMUNICACIÓN E INTERINA DE JUSTICIA.
+
+# Anexo 1 Coordenadas del área destinada al cultivo de caña de azúcar en la Provincia Abel Iturralde
+
+| PUNTO | COORDENADAS UTM | |
+| --- | --- | --- |
+| X | Y |
+| V1 | 656795 | 8423904 |
+| V2 | 652561 | 8423942 |
+| V3 | 652420 | 8422957 |
+| V4 | 652248 | 8422221 |
+| V5 | 651704 | 8422258 |
+| V6 | 651203 | 8422407 |
+| V7 | 650634 | 8422002 |
+| V8 | 650241 | 8422245 |
+| V9 | 649611 | 8422886 |
+| V10 | 649188 | 8423135 |
+| V11 | 648752 | 8423091 |
+| V12 | 648348 | 8422836 |
+| V13 | 648086 | 8422357 |
+| V14 | 648069 | 8422079 |
+| V15 | 648063 | 8421819 |
+| V16 | 648219 | 8421445 |
+| V17 | 648591 | 8421085 |
+| V18 | 649339 | 8420695 |
+| V19 | 649783 | 8420660 |
+| V20 | 651248 | 8420703 |
+| V21 | 651807 | 8420358 |
+| V22 | 651357 | 8418470 |
+| V23 | 650862 | 8417778 |
+| V24 | 650720 | 8418415 |
+| V25 | 650344 | 8418897 |
+| V26 | 649916 | 8419133 |
+| V27 | 649248 | 8419295 |
+| V28 | 647674 | 8419314 |
+| V29 | 647277 | 8419635 |
+| V30 | 646467 | 8419773 |
+| V31 | 645596 | 8419927 |
+| V32 | 644851 | 8420402 |
+| V33 | 644316 | 8420894 |
+| V34 | 644014 | 8421304 |
+| V35 | 643988 | 8421677 |
+| V36 | 644042 | 8421918 |
+| V37 | 644337 | 8422659 |
+| V38 | 644419 | 8422873 |
+| V39 | 644482 | 8423373 |
+| V40 | 644300 | 8423731 |
+| V41 | 643913 | 8423974 |
+| V42 | 643581 | 8423999 |
+| V43 | 643179 | 8424129 |
+| V44 | 642879 | 8424430 |
+| V45 | 642784 | 8424944 |
+| V46 | 642950 | 8425411 |
+| V47 | 643374 | 8425877 |
+| V48 | 643777 | 8426502 |
+| V49 | 644109 | 8427177 |
+| V50 | 644286 | 8427843 |
+| V51 | 644342 | 8428268 |
+| V52 | 644121 | 8428787 |
+| V53 | 643682 | 8429171 |
+| V54 | 643282 | 8429365 |
+| V55 | 642996 | 8429400 |
+| V56 | 641956 | 8429567 |
+| V57 | 641477 | 8429809 |
+| V58 | 638730 | 8429808 |
+| V59 | 638385 | 8429769 |
+| V60 | 637923 | 8429980 |
+| V61 | 637515 | 8430292 |
+| V62 | 637063 | 8430728 |
+| V63 | 636874 | 8431354 |
+| V64 | 636919 | 8431799 |
+| V65 | 636888 | 8432454 |
+| V66 | 636702 | 8432760 |
+| V67 | 636333 | 8433207 |
+| V68 | 635462 | 8433648 |
+| V69 | 634811 | 8433848 |
+| V70 | 634464 | 8433901 |
+| V71 | 633587 | 8434152 |
+| V72 | 633226 | 8434519 |
+| V73 | 633012 | 8434933 |
+| V74 | 632750 | 8435665 |
+| V75 | 632595 | 8436373 |
+| V76 | 632327 | 8436665 |
+| V77 | 631465 | 8437199 |
+| V78 | 631304 | 8437508 |
+| V79 | 631294 | 8438985 |
+| V80 | 631104 | 8439510 |
+| V81 | 630753 | 8439837 |
+| V82 | 630403 | 8439885 |
+| V83 | 629644 | 8439883 |
+| V84 | 628867 | 8439817 |
+| V85 | 628302 | 8439842 |
+| V86 | 627664 | 8440122 |
+| V87 | 627276 | 8440399 |
+| V88 | 626751 | 8440976 |
+| V89 | 625925 | 8440480 |
+| V90 | 625491 | 8440317 |
+| V91 | 625214 | 8440458 |
+| V92 | 624890 | 8440679 |
+| V93 | 624355 | 8441367 |
+| V94 | 624028 | 8442323 |
+| V95 | 623342 | 8442653 |
+| V96 | 622852 | 8443163 |
+| V97 | 622281 | 8443939 |
+| V98 | 622275 | 8445062 |
+| V99 | 621950 | 8445321 |
+| V100 | 621140 | 8445854 |
+| V101 | 620457 | 8446411 |
+| V102 | 620370 | 8446988 |
+| V103 | 620255 | 8447275 |
+| V104 | 619668 | 8447962 |
+| V105 | 619598 | 8448321 |
+| V106 | 619745 | 8448500 |
+| V107 | 619946 | 8448559 |
+| V108 | 620431 | 8448541 |
+| V109 | 621040 | 8448779 |
+| V110 | 621118 | 8449237 |
+| V111 | 621035 | 8449714 |
+| V112 | 620834 | 8450171 |
+| V113 | 620367 | 8451005 |
+| V114 | 620184 | 8451270 |
+| V115 | 619685 | 8451820 |
+| V116 | 619342 | 8451957 |
+| V117 | 619145 | 8452379 |
+| V118 | 618757 | 8452703 |
+| V119 | 617778 | 8453652 |
+| V120 | 617409 | 8454246 |
+| V121 | 617220 | 8454752 |
+| V122 | 617215 | 8455418 |
+| V123 | 617342 | 8456123 |
+| V124 | 618004 | 8457328 |
+| V125 | 618087 | 8457913 |
+| V126 | 617885 | 8458428 |
+| V127 | 617410 | 8458848 |
+| V128 | 616541 | 8459106 |
+| V129 | 615912 | 8459363 |
+| V130 | 615596 | 8459532 |
+| V131 | 615005 | 8459532 |
+| V132 | 614441 | 8459284 |
+| V133 | 614064 | 8458886 |
+| V134 | 613653 | 8459290 |
+| V135 | 613012 | 8459709 |
+| V136 | 611948 | 8460324 |
+| V137 | 611223 | 8460474 |
+| V138 | 610467 | 8460350 |
+| V139 | 610362 | 8460560 |
+| V140 | 610380 | 8460917 |
+| V141 | 610602 | 8461726 |
+| V142 | 610699 | 8462702 |
+| V143 | 610608 | 8463209 |
+| V144 | 610509 | 8463478 |
+| V145 | 610353 | 8463805 |
+| V146 | 610175 | 8464060 |
+| V147 | 609837 | 8464297 |
+| V148 | 609653 | 8464385 |
+| V149 | 609036 | 8464439 |
+| V150 | 608480 | 8464236 |
+| V151 | 607746 | 8463808 |
+| V152 | 607453 | 8463357 |
+| V153 | 606400 | 8462493 |
+| V154 | 605605 | 8462581 |
+| V155 | 604808 | 8462969 |
+| V156 | 604109 | 8463518 |
+| V157 | 603450 | 8464522 |
+| V158 | 603413 | 8465499 |
+| V159 | 603249 | 8466031 |
+| V160 | 603537 | 8466350 |
+| V161 | 603568 | 8466880 |
+| V162 | 603473 | 8467279 |
+| V163 | 602616 | 8468441 |
+| V164 | 602084 | 8468935 |
+| V165 | 601361 | 8168491 |
+| V166 | 601081 | 8467925 |
+| V167 | 601083 | 8467523 |
+| V168 | 601348 | 8466979 |
+| V169 | 601842 | 8466396 |
+| V170 | 601898 | 8466157 |
+| V171 | 601842 | 8465687 |
+| V172 | 601607 | 8464823 |
+| V173 | 601428 | 8464497 |
+| V174 | 601258 | 8464416 |
+| V175 | 601629 | 8463749 |
+| V176 | 602040 | 8463228 |
+| V177 | 602397 | 8462758 |
+| V178 | 602395 | 8461433 |
+| V179 | 602217 | 8459105 |
+| V180 | 602128 | 8458488 |
+| V181 | 602318 | 8458203 |
+| V182 | 602717 | 8458025 |
+| V183 | 603327 | 8458016 |
+| V184 | 604688 | 8458347 |
+| V185 | 606245 | 8458325 |
+| V186 | 606650 | 8458236 |
+| V187 | 607037 | 8457939 |
+| V188 | 607459 | 8457378 |
+| V189 | 607752 | 8456751 |
+| V190 | 608102 | 8455437 |
+| V191 | 609206 | 8453402 |
+| V192 | 610086 | 8452894 |
+| V193 | 611286 | 8452312 |
+| V194 | 611700 | 8452029 |
+| V195 | 611985 | 8451200 |
+| V196 | 612260 | 8450642 |
+| V197 | 612412 | 8450464 |
+| V198 | 612784 | 8450222 |
+| V199 | 613084 | 8449910 |
+| V200 | 613376 | 8449584 |
+| V201 | 613040 | 8449020 |
+| V202 | 612853 | 8448325 |
+| V203 | 612849 | 8447749 |
+| V204 | 613025 | 8447147 |
+| V205 | 613910 | 8445568 |
+| V206 | 614144 | 8445285 |
+| V207 | 614246 | 8444867 |
+| V208 | 614234 | 8443899 |
+| V209 | 614049 | 8443540 |
+| V210 | 614019 | 8443379 |
+| V211 | 614072 | 8442884 |
+| V212 | 614510 | 8442491 |
+| V213 | 615204 | 8442110 |
+| V214 | 615556 | 8442010 |
+| V215 | 616161 | 8441588 |
+| V216 | 616613 | 8440858 |
+| V217 | 616725 | 8440448 |
+| V218 | 617366 | 8439507 |
+| V219 | 618141 | 8438903 |
+| V220 | 619158 | 8438396 |
+| V221 | 619393 | 8438002 |
+| V222 | 619493 | 8436023 |
+| V223 | 619602 | 8435629 |
+| V224 | 619880 | 8435155 |
+| V225 | 620793 | 8434515 |
+| V226 | 621900 | 8434075 |
+| V227 | 623148 | 8433452 |
+| V228 | 623913 | 8433395 |
+| V229 | 624131 | 8433459 |
+| V230 | 624212 | 8433664 |
+| V231 | 624168 | 8434141 |
+| V232 | 623874 | 8435342 |
+| V233 | 623815 | 8435819 |
+| V234 | 623808 | 8436266 |
+| V235 | 624323 | 8436522 |
+| V236 | 624901 | 8436192 |
+| V237 | 625189 | 8435939 |
+| V238 | 625370 | 8435330 |
+| V239 | 625468 | 8434792 |
+| V240 | 625565 | 8434605 |
+| V241 | 625968 | 8434176 |
+| V242 | 626249 | 8433973 |
+| V243 | 626954 | 8432819 |
+| V244 | 626987 | 8432455 |
+| V245 | 627021 | 8432181 |
+| V246 | 627213 | 8431340 |
+| V247 | 627433 | 8430958 |
+| V248 | 627761 | 8430553 |
+| V249 | 628691 | 8430060 |
+| V250 | 629019 | 8430086 |
+| V251 | 630334 | 8430259 |
+| V252 | 631114 | 8430234 |
+| V253 | 631733 | 8430166 |
+| V254 | 632058 | 8429984 |
+| V255 | 632314 | 8429520 |
+| V256 | 632384 | 8429063 |
+| V257 | 632212 | 8428042 |
+| V258 | 632099 | 8427045 |
+| V259 | 632133 | 8426882 |
+| V260 | 632194 | 8426688 |
+| V261 | 632357 | 8426440 |
+| V262 | 633013 | 8426118 |
+| V263 | 633267 | 8426021 |
+| V264 | 633434 | 8424952 |
+| V265 | 633664 | 8424571 |
+| V266 | 633836 | 8424227 |
+| V267 | 633926 | 8423870 |
+| V268 | 633915 | 8423583 |
+| V269 | 634234 | 8422910 |
+| V270 | 634094 | 8422652 |
+| V271 | 634116 | 8422255 |
+| V272 | 634277 | 8421919 |
+| V273 | 634610 | 8421582 |
+| V274 | 634704 | 8421204 |
+| V275 | 634704 | 8420930 |
+| V276 | 634106 | 8420089 |
+| V277 | 634056 | 8419348 |
+| V278 | 634234 | 8418826 |
+| V279 | 634661 | 8417992 |
+| V280 | 635416 | 8417336 |
+| V281 | 637160 | 8416429 |
+| V282 | 637916 | 8415752 |
+| V283 | 638776 | 8413742 |
+| V284 | 639910 | 8412447 |
+| V285 | 641370 | 8411561 |
+| V286 | 642601 | 8410281 |
+| V287 | 645001 | 8408837 |
+| V288 | 645794 | 8408263 |
+| V289 | 646259 | 8407845 |
+| V290 | 646434 | 8407556 |
+| V291 | 646680 | 8407326 |
+| V292 | 646833 | 8407217 |
+| V293 | 647282 | 8407200 |
+| V294 | 647550 | 8407321 |
+| V295 | 648058 | 8407769 |
+| V296 | 648399 | 8407856 |
+| V297 | 649285 | 8407566 |
+| V298 | 649575 | 8407413 |
+| V299 | 650605 | 8406537 |
+| V300 | 651114 | 8405924 |
+| V301 | 651465 | 8406110 |
+| V302 | 651749 | 8406449 |
+| V303 | 652025 | 8406514 |
+| V304 | 652592 | 8406357 |
+| V305 | 653323 | 8405342 |
+| V306 | 653613 | 8405035 |
+| V307 | 654150 | 8404987 |
+| V308 | 654537 | 8405228 |
+| V309 | 654893 | 8405053 |
+| V310 | 655424 | 8405029 |
+| V311 | 656089 | 8404877 |
+| V312 | 656325 | 8404630 |
+| V313 | 656639 | 8403918 |
+| V314 | 657526 | 8403906 |
+| V315 | 657369 | 8404274 |
+| V316 | 657417 | 8404817 |
+| V317 | 657363 | 8405040 |
+| V318 | 657260 | 8405257 |
+| V319 | 657146 | 8405402 |
+| V320 | 656753 | 8405480 |
+| V321 | 656403 | 8405697 |
+| V322 | 655800 | 8405981 |
+| V323 | 655619 | 8406029 |
+| V324 | 655256 | 8406433 |
+| V325 | 655148 | 8406815 |
+| V326 | 655154 | 8407165 |
+| V327 | 655317 | 8407557 |
+| V328 | 655420 | 8407643 |
+| V329 | 655963 | 8407950 |
+| V330 | 656035 | 8408119 |
+| V331 | 656029 | 8408469 |
+| V332 | 655951 | 8408680 |
+| V333 | 655812 | 8408778 |
+| V334 | 655401 | 8408911 |
+| V335 | 655244 | 8409025 |
+| V336 | 655039 | 8409110 |
+| V337 | 654894 | 8409315 |
+| V338 | 654822 | 8409502 |
+| V339 | 654737 | 8409871 |
+| V340 | 654816 | 8410137 |
+| V341 | 655305 | 8410663 |
+| V342 | 655492 | 8411272 |
+| V343 | 655722 | 8411441 |
+| V344 | 656150 | 8411453 |
+| V345 | 656603 | 8411592 |
+| V346 | 656766 | 8411926 |
+| V347 | 656869 | 8412287 |
+| V348 | 656845 | 8412764 |
+| V349 | 656821 | 8412874 |
+| V350 | 656640 | 8413067 |
+| V351 | 656362 | 8413145 |
+| V352 | 655674 | 8413163 |
+| V353 | 655529 | 8413308 |
+| V354 | 655167 | 8413314 |
+| V355 | 655018 | 8413504 |
+| V356 | 654971 | 8413695 |
+| V357 | 654950 | 8413923 |
+| V358 | 654984 | 8414055 |
+| V359 | 655234 | 8414237 |
+| V360 | 655475 | 8414411 |
+| V361 | 655734 | 8414504 |
+| V362 | 656052 | 8414767 |
+| V363 | 656293 | 8414932 |
+| V364 | 656636 | 8415275 |
+| V365 | 657001 | 8415784 |
+| V366 | 657824 | 8417287 |
+| V367 | 658077 | 8417658 |
+| V368 | 658581 | 8418032 |
+| V369 | 659007 | 8418262 |
+| V370 | 659309 | 8418401 |
+| V371 | 659777 | 8418501 |
+| V372 | 659685 | 8418646 |
+| V373 | 659544 | 8419102 |
+| V374 | 659235 | 8419275 |
+| V375 | 658857 | 8419359 |
+| V376 | 658490 | 8419097 |
+| V377 | 657945 | 8418893 |
+| V378 | 657730 | 8418898 |
+| V379 | 657394 | 8418924 |
+| V380 | 656990 | 8419495 |
+| V381 | 656922 | 8419982 |
+| V382 | 657481 | 8420500 |
+| V383 | 657483 | 8420801 |
+| V384 | 656974 | 8421557 |
+| V385 | 656533 | 8422036 |
+| V386 | 656785 | 8422714 |

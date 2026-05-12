@@ -1,0 +1,26 @@
+# Bolivia: Decreto Supremo Nº 25313, 26 de febrero de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que se ha reglamentado la [Ley Nº 1565](#TODO-link) de Reforma Educativa, por [Decreto Supremo Nº 23968](#TODO-link) de 24 de febrero de 1995, en lo referente a las carreras en el servicio de Educación Pública;
+* Que el artículo 46 del citado decreto supremo prohíbe los descuentos por planillas en el salario de docentes o administrativos por contribuciones especiales, pagos a proveedores, amortización de préstamos, servicio de pulperías, cuotas para sindicatos o asociaciones y otros que no sean los establecidos por su artículo 22 y los que dispone la ley;
+* Que cursa en este Ministerio la Nota cite: COB 20/99 de 13 de enero del año en curso, presentada por la CENTRAL OBRERA BOLIVIANA en la que solicitan se efectué el descuento de Bs.2.- por planilla a todo el Magisterio Nacional, el mismo que se halla respaldado por la Resolución Ministerial 020/99 emitida por el Ministerio de Trabajo y Microempresa;
+* Que en mérito a la señalada solicitud de la CENTRAL OBRERA BOLIVIANA y existiendo el [Decreto Supremo Nº 23968](#TODO-link) que prohíbe la realización de descuentos por planillas al sector del Magisterio excepto los previstos por ley, es preciso aprobar el instrumento legal pertinente autorizando excepcionalmente el descuento solicitado.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Autorízase al Ministerio de Educación, Cultura y Deportes, proceder al descuento de Bs.2.- (DOS 00/100 BOLIVIANOS) por única vez, en la planilla del mes de febrero del presente año, al Magisterio Nacional (urbano, rural, adiministrativo y de servicios), el mismo que será destinado a cubrir la cuota sindical anual del sector para la CENTRAL OBRERA BOLIVIANA.
+
+---
+
+El señor Ministro de Estado en el Despacho de Educación, Cultura y Deportes, queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiséis días del mes de febrero de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Fernando Messmer Trigo, MINISTRO INTERINO DE RR. EE. Y CULTO, Carlos Iturralde Ballivián, Carlos Soruco Perrogon, MINISTRO INTERINO DE GOBIERNO, Fernando Kieffer Guzmán, Herbert Müller Costas, Ana María Cortéz de Soriano, Jorge Pacheco Franco, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Leopoldo López Cossio, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Amparo Ballivián Valdés.

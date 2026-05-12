@@ -1,0 +1,61 @@
+# Bolivia: Decreto Supremo Nº 24457, 23 de diciembre de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que los artículos 136 y 137 de la [Constitución Política del Estado](#TODO-link) otorgan el dominio originario del Estado y la calidad de bienes del Estado a toda la riqueza natural del país, como asimismo, el artículo 8 inc. h) instituye como deber fundamental el respetar y proteger los bienes de la colectividad y del Estado;
+* Que los artículos 60 y 61 de la [Ley Nº 1333](#TODO-link) del Medio Ambiente declaran que las áreas protegidas constituyen patrimonio del Estado, de interés público y social y que se encuentran bajo su protección con la finalidad de conservar y proteger la riqueza natural y cultural del país;
+* Que mediante [Decreto Supremo Nº 16646](#TODO-link) de fecha 28 de junio de 1979, se creó el Parque Nacional Huanchaca sobre una superficie de 541.000 hectáreas, ubicado en la Provincia Velasco del departamento de Santa Cruz;
+* Que mediante Ley de la República No 978 de fecha 4 de marzo de 1988 se denominó Parque Nacional Noel Kempff Mercado al antiguo Parque Nacional Huanchaca; posteriormente mediante [Decreto Supremo Nº 21997](#TODO-link) de fecha 31 de agosto de 1988 se amplió la extensión del Parque Nacional Noel Kempff Mercado a 706.000 hectáreas estableciéndosele nuevos límites; asimismo se estableció una faja de Pre-Parque definiéndose sus características y función;
+* Que posteriormente mediante [Decreto Supremo Nº 22024](#TODO-link) de fecha 19 de septiembre de 1988, se declara la Reserva Forestal de Producción Bajo Paraguá sobre 3.388.200 hectáreas, colindante al Este con la faja Pre-Parque del Parque Nacional Noel Kempff Mercado, cuyo objetivo fue proteger los recursos forestales a través del aprovechamiento sostenible de los mismos bajo inventarios forestales y planes de manejo, determinando sus límites y prohibiendo dentro de ellos los asentamientos y/o ocupación humana, así como toda actividad de caza y pesca.
+* Que mediante [Decreto Supremo Nº 22026](#TODO-link) de fecha 19 de septiembre de 1988, se declara Reserva Biológica Noel Kempff Mercado a la laguna La Bahía y su área de influencia, estableciendo su superficie en 21900 hectáreas, ubicadas en la margen Este de la Reserva Forestal de Producción Bajo Paraguá;
+* Que el objetivo del Parque Nacional Noel Kempff Mercado es el de proteger un área poco alterada en el país, con características paisajisticas sobresalientes, como la Meseta de Caparú y sus cataratas; que el Parque está ubicado en una zona de tensión climática amazónica y chaqueña y de transición entre las ecorregiones Amazónica y del Cerrado; y que el parque está naturalmente dotado con una gran diversidad de hábitats propios de los ecosistemas de bosques húmedos, decíduos, sabanas de cerrado, sabanas, humedales y comunidades ribereñas, que albergan numerosas especies amenazadas y poseen apreciables índices de biodiversidad;
+* Que los procesos de distribución y aprovechamiento de los recursos naturales de la zona de influencia del Parque Nacional Noel Kempff Mercado, deben contribuir a la conservación y protección del medio ambiente y hábitat local;
+* Que es necesario establecer políticas para la conservación y el desarrollo de los recursos naturales, bajo elementos de protección efectiva que permitan en el futuro su desarrollo sustentable;
+* Que se establece de utilidad y necesidad pública la conservación y protección de la riqueza natural y cultural del país con el objetivo de mejorar la calidad de vida de su población, determinando las formas de conservarlos, protegerlos y aprovecharlos para beneficio de la comunidad;
+* Que vistos los informes técnicos en que se basa la propuesta de ampliación del Parque Nacional Noel Kempff Mercado, los cuales advierten que su actual extensión no garantiza a futuro la conservación de la biodiversidad en sus poblaciones mínimas viables representativas de la región, dado que a mediano y largo plazo la misma podría perderse si no se toman desde ahora las medidas necesarias para evitarlo;
+* Que en mérito a que la riqueza de biodiversidad y paisajes del Parque Nacional Noel Kempff Mercado, han sido los motivos originales de su creación, objeto que es cada vez más reconocido por instituciones científicas nacionales y extranjeras, y por lo cual el Gobierno de Bolivia ha desarrollado en él un esfuerzo de más de una década;
+* Que ante la advertencia de que el área actual del Parque no es suficiente para garantizar la supervivencia de poblaciones mínimas viables de las especies; ante los cambios ambientales de origen humano y naturales que sufre la región; y teniendo en cuenta las condiciones de alta salud ambiental de la porción que se propone para su expansión, lo cual responde a las necesidades planteadas;
+* Que considerando a su vez, que es el momento histórico adecuado para tomar las decisiones que aseguren la conservación del patrimonio natural de Bolivia, fuente de calidad de vida y riqueza genética, y que es responsabilidad del Gobierno, como parte de la estrategia nacional para este fin, actuar con rapidez y aciertos necesarios.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se amplía la superficie del Parque Nacional Noel Kempff Mercado dispuesta mediante [Decreto Supremo Nº 21997](#TODO-link), a una extensión de 1.523.446 hectáreas, estableciéndose los siguientes nuevos límites geográficos:
+
+|  |  |
+| --- | --- |
+| Por el Norte y Este: | El río Iténez, en su tramo comprendido desde su confluencia con el río Verde hasta su confluencia con el río Paraguá. |
+| Por el Este: | El río Verde desde sus nacientes en el Hito Fronterizo (14 grados 36 minutos 20 segundos de Latitud Sur y 60 grados 16 minutos 30 segundos de Longitud Oeste) hasta su confluencia con el río Iténez. |
+| Por el Sur: | El límite internacional entre Brasil y Bolivia comprendido entre las nacientes del río Verde (14 grados 36 minutos 20 segundos de Latitud Sur y 60 grados 16 minutos 30 segundos de Longitud Oeste) y el Hito Fronterizo de Marco Falso (15 grados 05 minutos 52 segundos de Latitud Sur y 60 grados 14 minutos 37 segundos de Longitud Oeste). |
+| Por el Oeste: | Los ríos Tarvo y Paraguá entre el Hito Fronterizo de Marco Falso (15 grados 05 minutos 52 segundos de Latitud Sur y 60 grados 14 minutos 37 segundos de Longitud Oeste) y la desembocadura del río Paraguá en el río Iténez. |
+
+**Artículo 2°.-** Se establecen como nuevos límites naturales del Parque Nacional Noel Kempff Mercado, al Norte y Este la frontera con el Brasil, definida sobre los ríos Iténez y Verde, coincidiendo esta delimitación con el límite internacional que pasa por la mitad del cauce de ambos ríos; al Sur y Oeste sobre la margen izquierda del cauce de los ríos Tarvo y Paraguá, constituyéndose esta última delimitación, en el nuevo límite Este de la Reserva Forestal de Producción del Bajo Paraguá.
+
+**Artículo 3°.-** Se aprueban y homologan las Resoluciones Ministeriales, Prefecturales, Ejecutivas y Administrativas de cesación de derechos y devolución de áreas de corte forestal dentro de los nuevos límites del Parque Nacional Noel Kempff Mercado. Asimismo, se aprueba y homologa la rescisión de contratos de aprovechamiento forestal a largo plazo de las empresas madereras y palmiteras que poseían áreas de corte dentro del nuevo límite del Parque Nacional Noel Kempff Mercado, quedando dichos contratos sin efecto legal alguno.
+
+**Artículo 4°.-** Se dejan sin efecto las Resoluciones Ministeriales y Administrativas de otorgación de prioridades de áreas y los contratos a largo plazo de las empresas madereras y palmiteras que poseían áreas de corte dentro de los nuevos límites del Parque Nacional Noel Kempff Mercado, debiendo las autoridades públicas respectivas, reordenar los límites y superficie de la Reserva Forestal de Producción Bajo Paraguá en lo concerniente a las áreas forestales otorgadas.
+
+**Artículo 5°.-** Quedan prohibidas la ocupación de tierras y nuevos asentamientos humanos, las actividades de aprovechamiento forestal, agrícola, pecuario, minero, caza y pesca dentro de los nuevos límites del Parque Nacional Noel Kempff Mercado, quedando sin efecto legal todos los títulos agrarios otorgados en contravención a la Ley y que no hubieran cumplido con el artículo 166 de la [Constitución Política del Estado](#TODO-link) y la Ley Agraria, declarándose nulos los títulos y trámites de dotación durante la vigencia del decreto de creación de la Reserva Forestal de Producción Bajo Paraguá, todo ello dentro de los nuevos límites del Parque Nacional Noel Kempff Mercado;
+
+**Artículo 6°.-** Se reconoce y se garantiza el uso y aprovechamiento con carácter de subsistencia de los recursos naturales renovables, por parte de los pueblos y comunidades de Bella Vista, Piso Firme, Porvenir, Florida, Esperancita de la Frontera (Provincia Velasco) y Remanso (Provincia Iténez), dentro de la zonificación prevista para este efecto en los nuevos límites del Parque Nacional Noel Kempff Mercado, de acuerdo a la correspondiente reglamentación que provenga del Estudio del Plan de Manejo del Parque;
+
+**Artículo 7°.-** Se establece la necesidad de implementar en un plazo de un año, áreas de reserva comunal para las poblaciones de Bella Vista, Piso Firme, Florida y Esperancita de la Frontera, con extensiones que deberán definirse a través de un estudio y proceso participativo, a fin de que las mismas, dispongan de un territorio exclusivo, con derecho a uso de los recursos en forma sostenible, para mejorar su calidad de vida, no pudiendo en ellas, realizarse prácticas destructivas o contaminantes fuera del concepto de sostenibibilidad.
+
+**Artículo 8°.-** Se encarga a las autoridades públicas, Nacionales, Departamentales y Municipales con atribuciones para la administración y fiscalización de los recursos naturales de acuerdo a ley, tomar en cuenta los nuevos límites del Parque Nacional Noel Kempff Mercado. La oficina departamental del Plan de Uso del Suelo de la Prefectura del Departamento de Santa Cruz (PLUS-SC) deberá actualizar e incorporar en los respectivos planos, cartas y estudios técnicos los nuevos límites del Parque Nacional Noel Kempff Mercado y realizará los estudios técnicos correspondientes para definir las áreas comunales destinadas al aprovechamiento sostenible de los recursos naturales.
+
+**Artículo 9°.-** La administración y fiscalización del Parque Nacional Noel Kempff Mercado, estarán bajo la responsabilidad del Ministerio de Desarrollo Sostenible y Medio Ambiente a través de la Dirección Nacional de Conservación de la Biodiversidad, pudiendo participar de acuerdo a ley, entidades publicas o privadas sin fines de lucro mediante la suscripción y/o actualización de convenios interinstitucionales.
+
+**Artículo 10°.-** La Dirección Nacional de Conservación de la Biodiversidad, con la cooperación de entidades públicas y privadas, elaborará los estudios técnicos para la zonificación del Parque así como los planes de manejo con la finalidad de regular las actividades de conservación y protección de sus recursos naturales, investigación científica, educación, recreación y promoción del turismo ecológico.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintitrés días del mes de diciembre de mil novecientos noventa y seis años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Franklin Anaya Vásquez, Alfonso Erwin Kreidler Guillaux, Rudy Araujo Medinacelli, MINISTRO SUPLENTE DE LA PRESIDENCIA, Raúl España Smith, Fernando Candia Castillo, Oscar Sandoval Morón, MINISTRO SUPLENTE DE DESARROLLO HUMANO, Moisés Jarmúsz Levy, Hugo San Martín Arzabe, Mauricio Balcazar G., Edgar Saravia Durnick, MINISTRO SUPLENTE SIN CARTERA RESPONSABLE DE CAPITALIZACION, Jaime Villalobos Sanjinéz.

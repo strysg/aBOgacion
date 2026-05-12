@@ -1,0 +1,61 @@
+# Bolivia: Decreto Supremo Nº 3601, 20 de junio de 2018
+
+[Decreto Supremo Nº 3601](#TODO-link)  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 360 de la [Constitución Política del Estado](#TODO-link), determina que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo y garantizará la soberanía energética.
+* Que el Parágrafo I del Artículo 362 del Texto Constitucional, autoriza a Yacimientos Petrolíferos Fiscales Bolivianos - YPFB suscribir contratos, bajo el régimen de prestación de servicios, con empresas públicas, mixtas o privadas, bolivianas o extranjeras, para que dichas empresas, a su nombre y en su representación, realicen determinadas actividades de la cadena productiva a cambio de una retribución o pago por sus servicios.
+* Que el Artículo 366 de la [Constitución Política del Estado](#TODO-link), establece que todas las empresas extranjeras que realicen actividades en la cadena productiva hidrocarburífera en nombre y representación del Estado estarán sometidas a la soberanía del Estado, a la dependencia de las leyes y de las autoridades del Estado.
+* Que los incisos d) y f) del Artículo 67 la [Ley Nº 3058](#TODO-link), de 17 de mayo de 2005, de Hidrocarburos, determinan que los Contratos Petroleros que YPFB suscriba con personas individuales o colectivas, nacionales o extranjeras, públicas o privadas, así como sus modificaciones y enmiendas, deberán ser celebrados mediante escritura otorgada ante un Notario de Gobierno y contener, bajo sanción de nulidad, Cláusulas referentes a: La Garantía de cumplimiento del contrato, de acuerdo a lo establecido en la reglamentación. En caso de empresas subsidiarias o vinculadas la garantía será otorgada por la Casa Matriz. Garantía bancaria de cumplimiento de Unidades de Trabajo para Exploración - UTE; y la Cantidad de UTE comprometidas y su equivalencia en dinero.
+* Que el Artículo 138 de la [Ley Nº 3058](#TODO-link), señala entre las definiciones, las Unidades de Trabajo que son las obligaciones de trabajo expresadas en números, para las actividades exploratorias (geofísica, magnetometría, gravimetría, perforación de pozos exploratorios y otras actividades exploratorias), que deberán ser ejecutadas por el Titular en las diferentes fases de Exploración.
+* Que el Reglamento de Unidades de Trabajo para la Exploración, aprobado por [Decreto Supremo Nº 28393](#TODO-link), de 6 de octubre de 2005, tiene como finalidad establecer los mecanismos para la aplicación del sistema de UTE en los Contratos Petroleros, en el marco de lo dispuesto por la [Ley Nº 3058](#TODO-link).
+* Que la Cláusula 6 de los Contratos de Servicios Petroleros - CSP, suscritos por YPFB y los Titulares, estipula las obligaciones relativas a las UTE que deben ser incluidas en los Programas de Trabajo y Presupuesto anuales para la realización de Operaciones de Exploración, siendo su ejecución una condicionante para el cambio de Fase dentro del Periodo de Exploración. Asimismo, las Obligaciones de UTE para la Fase 1 se encuentran establecidas en el Anexo E de los CSP.
+* Que debido a la aplicación de tecnologías emergentes en las actividades de exploración resulta necesario realizar ajustes al Reglamento de Unidades de Trabajo para la Exploración, aprobado por [Decreto Supremo Nº 28393](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto realizar incorporaciones y modificaciones al Reglamento de Unidades de Trabajo para la Exploración, aprobado por [Decreto Supremo Nº 28393](#TODO-link), de 6 de octubre de 2005.
+
+**Artículo 2°.- (Incorporaciones)** 
+
+1. Se incorpora el inciso f) en el Artículo 3 del Reglamento de Unidades de Trabajo para la Exploración, con el siguiente texto:
+   > “f) Magnetoteluria.”
+2. Se incorpora el inciso f) en el Artículo 6 del Reglamento de Unidades de Trabajo para la Exploración, con el siguiente texto:
+     
+   “TRABAJO
+   1. Magnetoteluria:
+        
+      Cada estación que sea registrada, procesada, interpretada y mapeada. EQUIVALENTE UTE 0.19”
+
+**Artículo 3°.- (Modificaciones)** 
+
+1. Se modifica el Artículo 8 del Reglamento de Unidades de Trabajo para la Exploración, con el siguiente texto:
+   > “Artículo 8.- Los trabajos de exploración que se realicen fuera de los límites del Área de Contrato no califican como UTE, aún en los casos que los mismos sean llevados a cabo en beneficio de dos (2) o más áreas de contrato contiguas, excepto en los siguientes casos:
+   >   
+   > a) Cuando la perforación de un pozo exploratorio sea en una estructura común a dos (2) áreas de contrato contiguas con compromisos de UTE, será reconocida en los porcentajes de la cantidad de UTE ejecutada acordados por los titulares respectivos;
+   >   
+   > b) Cuando las líneas sísmicas registradas con la finalidad de focalizar la estructura que, como consecuencia de su diseño:
+   >   
+   > Se extiendan fuera del Área de Contrato, serán reconocidas en un cien por ciento (100%) de la cantidad de UTE ejecutada;
+   >   
+   > Se originen y concluyan fuera del Área de contrato, serán reconocidas en un veinte por ciento (20%) de la cantidad de UTE ejecutada.”
+2. Se modifica el Artículo 10 del Reglamento de Unidades de Trabajo para la Exploración, con el siguiente texto:
+   > “ARTÍCULO 10.- Las obligaciones mínimas de las UTE que debe asumir un Titular para las parcelas y fases en la que se divide el período de exploración deberán consignarse en el Contrato de Servicios Petroleros correspondiente.
+   >   
+   > En ningún caso las UTE mínimas comprometidas para las fases podrán ser menores que las establecidas en el Artículo 7 del presente Reglamento. Estas obligaciones de UTE mínimas son aplicables a la integridad del área del contrato.”
+3. Se modifica el Artículo 17 del Reglamento de Unidades de Trabajo para la Exploración, con el siguiente texto:
+   > “ARTÍCULO 17.- En los casos que el Titular incumpla con sus obligaciones contractuales de ejecución de las UTE mínimas comprometidas en cualquiera de las fases del período de Exploración, será pasible a una sanción económica correspondiente a las UTE no ejecutadas, equivalente al valor monetario actualizado, conforme a lo establecido en el Artículo 5 del presente Reglamento. Dicha sanción será ejecutada por YPFB y posteriormente el monto será transferido a una cuenta corriente fiscal del Tesoro General de la Nación.”
+
+---
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de junio del año dos mil dieciocho.
+  
+FDO. ALVARO MARCELO GARCIA LINERA, Alfredo Rada Vélez, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES, Javier Eduardo Zavaleta López, Mario Alberto Guillén Suárez MINISTRO DE ECONOMÍA Y FINANZAS PÚBLICAS E INTERINO DE PLANIFICACIÓN DEL DESARROLLO Y DE DESARROLLO RURAL Y TIERRAS, Luis Alberto Sanchez Fernandez, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Edmundo Rocabado Benavides, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACIÓN E INTERINO DE MEDIO AMBIENTE Y AGUA, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

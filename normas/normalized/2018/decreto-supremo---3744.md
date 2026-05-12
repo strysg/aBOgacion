@@ -1,0 +1,62 @@
+# Bolivia: Decreto Supremo Nº 3744, 12 de diciembre de 2018
+
+[Decreto Supremo Nº 3744](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo II del Artículo 99 de la [Constitución Política del Estado](#TODO-link), determina que el Estado garantizará el registro, protección, restauración, recuperación, revitalización, enriquecimiento, promoción y difusión de su patrimonio cultural, de acuerdo con la ley.
+* Que los numerales 11 y 25 del Parágrafo II del Artículo 298 del Texto Constitucional, establecen como competencias exclusivas del nivel central del Estado, las obras públicas de infraestructura de interés del nivel central del Estado; y la promoción de la cultura y conservación del patrimonio cultural, histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible de interés del nivel central del Estado.
+* Que el Parágrafo I del Artículo 337 de la [Constitución Política del Estado](#TODO-link), señala que el turismo es una actividad económica estratégica que deberá desarrollarse de manera sustentable para lo que tomará en cuenta la riqueza de las culturas y el respeto al medio ambiente.
+* Que el resultado 2 de la meta 2 “Combatir la pobreza social” del Pilar 1 “Erradicar la pobreza extrema” del Plan de Desarrollo Económico y Social 2016-2020 en el marco del Desarrollo Integral para Vivir Bien, aprobado por [Ley Nº 786](#TODO-link), de 9 de marzo de 2016, dispone que al 2020 se ha fortalecido la práctica y promoción de las múltiples expresiones culturales que constituyen el patrimonio material e inmaterial del Estado Plurinacional (arte, textil, pinturas, danzas, música, vestimenta, pensamiento, oralidad, memorias, y otras).
+* Que el numeral 6.1.3.“Complejos Turísticos” del Pilar 6 “Soberanía productiva con diversificación” del Plan de Desarrollo Económico y Social 2016-2020 en el marco del Desarrollo Integral para Vivir Bien, aprobado por [Ley Nº 786](#TODO-link), establece que en el sector de turismo los principales desafíos están orientados a aprovechar de mejor manera el potencial turístico del país para mejorar de forma significativa los aportes del turismo a los niveles de ingresos en diferentes ámbitos y al desarrollo integral, con énfasis en la generación y dinamización del empleo local.
+* Que el [Decreto Supremo Nº 3364](#TODO-link), de 18 de octubre de 2017, determina las obligaciones de las Entidades que intervengan en el proceso de transferencia de recursos externos de crédito o donación oficial.
+* Que el inciso f) del Artículo 3 del [Decreto Supremo Nº 1980](#TODO-link), de 23 de abril de 2014, modificado por los Decretos Supremos [Nº 3514](#TODO-link), de 21 de marzo de 2018 y [Nº 3626](#TODO-link) de 25 de julio de 2018, señala que la Empresa Estatal de Transporte por Cable “Mi Teleférico” tiene por giro y principal actividad, entre otras, construir, implementar y administrar el “Parque de las Culturas y de la Madre Tierra.”
+* Que los objetivos del “Programa de Gestión Turística del Patrimonio Cultural”, son: incrementar las divisas por turismo internacional, para coadyuvar al crecimiento económico del país a través de la diversificación de exportaciones; y aumentar la generación de empleo e ingresos por turismo, contribuyendo a la reducción de pobreza.
+* Que en este marco se ha gestionado ante el Banco Interamericano de Desarrollo - BID, la suscripción del Contrato de Préstamo N° 4643/BL-BO, por un monto de hasta $us26.000.000.- (VEINTISÉIS MILLONES 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el “Programa de Gestión Turística del Patrimonio Cultural”.
+* Que es necesario autorizar la suscripción del Contrato de Préstamo N° 4643/BL-BO con el BID, a objeto de materializar el financiamiento para la ejecución del citado Programa.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto:
+
+1. Declarar de interés del nivel central del Estado la ejecución del “Programa de Gestión Turística del Patrimonio Cultural”;
+2. Autorizar la suscripción del Contrato de Préstamo N° 4643/BL-BO con el Banco Interamericano de Desarrollo - BID;
+3. Disponer la transferencia de recursos externos a favor del Ministerio de Planificación del Desarrollo y de la Empresa Estatal de Transporte por Cable “Mi Teleférico”, en su calidad de Organismos Ejecutores.
+
+**Artículo 2°.- (Declaratoria de interés del nivel central del Estado)** Se declara de interés del nivel central del Estado la ejecución del “Programa de Gestión Turística del Patrimonio Cultural”, en el marco de lo establecido en los numerales 11 y 25 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link).
+
+**Artículo 3°.- (Autorización)** 
+
+1. Se autoriza a la Ministra de Planificación del Desarrollo, a suscribir con el BID, en nombre y representación del Estado Plurinacional de Bolivia, el Contrato de Préstamo N° 4643/BL-BO, por un monto de hasta $us26.000.000.- (VEINTISÉIS MILLONES 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el “Programa de Gestión Turística del Patrimonio Cultural”.
+2. Suscrito el Contrato de Préstamo N° 4643/BL-BO, deberá ser remitido a consideración y aprobación de la Asamblea Legislativa Plurinacional, en cumplimiento al numeral 10 del Parágrafo I del Artículo 158 de la [Constitución Política del Estado](#TODO-link).
+
+**Artículo 4°.- (Transferencia de recursos externos de crédito)** 
+
+1. Cumplida la formalidad prevista en el Parágrafo II del Artículo 3 del presente Decreto Supremo, se otorga en calidad de transferencia, los recursos del Contrato de Préstamo N° 4643/BL-BO, destinados a financiar la ejecución del “Programa de Gestión Turística del Patrimonio Cultural”, según el siguiente detalle:
+   1. Un monto de hasta $us14.032.000.- (CATORCE MILLONES TREINTA Y DOS mil 00/100 DÓLARES ESTADOUNIDENSES) a la Empresa Estatal de Transporte por Cable “Mi Teleférico”, para financiar la ejecución del Sub-componente 1 del mencionado Programa.
+   2. Un monto de hasta $us11.968.000.- (ONCE MILLONES novecientos SESENTA Y OCHO mil 00/100 DÓLARES ESTADOUNIDENSES) al Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación y Coordinación, para financiar la ejecución del Sub-componente 2 del referido Programa.
+2. El Ministerio de Planificación del Desarrollo y la Empresa Estatal de Transporte por Cable “Mi Teleférico”, en calidad de Organismos Ejecutores quedan sujetos a lo establecido en el [Decreto Supremo Nº 3364](#TODO-link), de 18 de octubre de 2017, para la administración de los recursos transferidos.
+     
+
+   # Disposiciones adicionales
+
+**Disposición Adicional Primera.-** Cualquier modificación de la asignación de recursos dispuesta en el Parágrafo I del Artículo 4 del presente Decreto Supremo, al Ministerio de Planificación del Desarrollo y a la Empresa Estatal de Transporte por Cable “Mi Teleférico”, será aprobada por Resolución Ministerial del Ministerio de Planificación del Desarrollo, debiendo enviar una copia de la misma al Ministerio de Economía y Finanzas Públicas.
+
+**Disposición Adicional Segunda.-** Se autoriza al Ministerio de Planificación del Desarrollo, a través del Viceministerio de Planificación y Coordinación, ejecutar el Sub-componente 2 del “Programa de Gestión Turística del Patrimonio Cultural”.
+
+# Disposiciones finales
+
+**Disposición Final Única.-** El repago de la deuda contraída mediante el Contrato de Préstamo N° 4643/BL-BO, en el monto establecido en el inciso a) del Parágrafo I del Artículo 4 del presente Decreto Supremo, a cargo del Tesoro General de la Nación - TGN, más todo costo que demande el servicio de la deuda, serán considerados como aporte de capital del Estado - TGN a favor de la Empresa Estatal de Transporte por Cable “Mi Teleférico”.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo; de Economía y Finanzas Públicas; y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los doce días del mes de diciembre del año dos mil dieciocho.
+  
+FDO. EVO MORALES AYMA, Alfredo Rada Vélez, Carlos Gustavo Romero Bonifaz, Javier Eduardo Zavaleta López MINISTRO DE DEFENSA E INTERINO DE RELACIONES EXTERIORES, Mariana Prado Noya MINISTRA DE PLANIFICACIÓN DEL DESARROLLO E INTERINA DE ENERGÍAS, Mario Alberto Guillén Suárez, Luis Alberto Sanchez Fernandez, Eugenio Rojas Apaza, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Rodolfo Edmundo Rocabado Benavides, Carlos Rene Ortuño Yañez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani MINISTRA DE CULTURAS Y TURISMO E INTERINA DE EDUCACIÓN, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

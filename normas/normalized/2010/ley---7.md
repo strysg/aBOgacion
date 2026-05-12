@@ -1,0 +1,339 @@
+# Bolivia: Ley de modificaciones al Sistema Normativo Penal, 18 de mayo de 2010
+
+Ley Nº 007
+  
+LEY DE 18 DE MAYO DE 2010
+  
+ÁLVARO MARCELO GARCIA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+  
+Por cuanto, la Asamblea Legislativa Plurinacional, ha sancionado la siguiente Ley:
+  
+LA ASAMBLEA LEGISLATIVA PLURINACIONAL,
+  
+DECRETA:
+  
+LEY DE MODIFICACIONES AL SISTEMA NORMATIVO PENAL
+
+**Artículo 1°.- (Modificaciones a la Ley Nº 1970, de 25 de Marzo de 1999, del Código de Procedimiento Penal)** Se modifican los Artículos 11,53,54,210,222,223,226,233,234,235,235 ter, 239,240,242,243,252,253,300,301,321,323,325,392 de la [Ley Nº 1970](#TODO-link) de 25 de marzo de 1999 (Ley del Código de Procedimiento Penal), los cuales quedarán redactados de la siguiente forma:
+> “Artículo 11.(Garantía de la Víctima). La víctima por sí sola o por intermedio de un abogado, sea particular o del Estado, podrá intervenir en el proceso penal aunque no se hubiera constituido en querellante.
+>   
+> Artículo 53.- (JUECES DE SENTENCIA) Los jueces de sentencia son competentes para conocer la sustanciación y resolución de:
+>   
+> a) Los juicios por delitos de acción privada;
+>   
+> b) Los juicios por delitos de acción pública, sancionados con pena no privativa de libertad o con pena privativa de libertad cuyo máximo legal sea de cuatro o menos años;
+>   
+> c) Los juicios por delitos de acción pública flagrantes, conforme al procedimiento inmediato previsto en este Código;
+>   
+> d) El procedimiento para la reparación del daño, cuando se haya dictado sentencia condenatoria; y
+>   
+> e) La Acción de Libertad, cuando sea planteada ante ellos.
+>   
+> Artículo 54.- (JUECES DE INSTRUCCIÓN) Los jueces de instrucción son competentes para:
+>   
+> a) El control de la investigación, conforme a las facultades y deberes previstos en este Código;
+>   
+> b) Emitir las resoluciones jurisdiccionales que correspondan durante la etapa preparatoria y de la aplicación de criterios de oportunidad;
+>   
+> c) La sustanciación y resolución del proceso abreviado;
+>   
+> d) Resolver la aplicación del procedimiento inmediato para delitos flagrantes;
+>   
+> e) Dirigir la audiencia de preparación de juicio y resolver sobre las cuestiones e incidentes planteados en la misma;
+>   
+> f) Decidir la suspensión del proceso a prueba;
+>   
+> g) Homologar la conciliación, siempre que sea procedente, cuando los sea presentada;
+>   
+> h) Decidir sobre las solicitudes de cooperación judicial internacional;
+>   
+> i) Conocer y resolver sobre la incautación de bienes y sus incidentes; y,
+>   
+> j) Conocer y resolver la Acción de Libertad, si no existieran jueces de sentencia en su asiento jurisdiccional, cuando sea planteada ante ellos.
+>   
+> Artículo 210.- (EXCUSA Y RECUSACIÓN) Los peritos podrán excusarse o ser recusados por los mismos motivos establecidos para los jueces, excepto por su participación en cualquier etapa del proceso. El juez o tribunal resolverá lo que corresponda, previa averiguación sumaria sobre el motivo invocado sin recurso ulterior.
+>   
+> Artículo 222.- (CARÁCTER) Las medidas cautelares de carácter personal, se aplicarán con criterio restrictivo y se ejecutarán de modo que perjudiquen lo menos posible a la persona y reputación de los afectados.
+>   
+> Las medidas cautelares de carácter real, serán las previstas en el Código de Procedimiento Civil, se impondrán únicamente en los casos expresamente indicados por este Código, así como el pago de las costas y multas.
+>   
+> Artículo 223.- (PRESENTACIÓN ESPONTÁNEA) La persona contra quien se haya iniciado un proceso, podrá presentarse personalmente acreditando su identidad ante el fiscal encargado de la investigación, pidiendo se reciba su declaración, que se mantenga su libertad o se manifieste sobre la aplicación de una medida cautelar.
+>   
+> Si el fiscal no se pronuncia dentro de las cuarenta y ocho horas, el imputado acudirá ante el juez de la instrucción para que resuelva sobre la procedencia de su libertad o de alguna de las medidas cautelares.
+>   
+> La presentación espontánea, por sí sola no desvirtúa los peligros procesales que motivan la aplicación de medidas cautelares.
+>   
+> Artículo 226.- (APREHENSIÓN POR LA FISCALÍA) El fiscal podrá ordenar la aprehensión del imputado, cuando sea necesaria su presencia y existan suficientes indicios de que es autor o partícipe de un delito de acción pública sancionado con pena privativa de libertad, cuyo mínimo legal sea igual o superior a dos años y de que pueda ocultarse, fugarse o ausentarse del lugar u obstaculizar la averiguación de la verdad, excepto en los delitos previstos y sancionados por los Artículos 132 bis, 185,254,271 primer párrafo y 331 del Código Penal.
+>   
+> La persona aprehendida será puesta a disposición del juez, en el plazo de vienticuatro (24) horas, para que resuelva dentro del mismo plazo, sobre la aplicación de alguna de las medidas cautelares previstas en este Código o decrete su libertad por falta de indicios.
+>   
+> Artículo 233.- (REQUISITOS PARA LA DETENCIÓN PREVENTIVA) Realizada la imputación formal, el juez podrá ordenar la detención preventiva del imputado, a pedido fundamentado del fiscal o de la víctima aunque no se hubiera constituido en querellante, cuando concurran los siguientes requisitos:
+>   
+> 1. La existencia de elementos de convicción suficientes para sostener que el imputado es, con probabilidad, autor o partícipe de un hecho punible.
+>   
+> 2. La existencia de elementos de convicción suficientes de que el imputado no se someterá al proceso u obstaculizará la averiguación de la verdad.
+>   
+> Artículo 234.- (PELIGRO DE FUGA) Por peligro de fuga se entiende a toda circunstancia que permita sostener fundadamente que el imputado no se someterá al proceso buscando evadir la acción de la justicia.
+>   
+> 1. Para decidir acerca de su concurrencia, se realizará una evaluación integral de las circunstancias existentes, teniendo especialmente en cuenta las siguientes:
+>   
+> 2. Que el imputado no tenga domicilio o residencia habitual, ni familia, negocios o trabajo asentados en el país;
+>   
+> 3. Las facilidades para abandonar el país o permanecer oculto;
+>   
+> 4. La evidencia de que el imputado esta realizando actos preparatorios de fuga;
+>   
+> 5. El comportamiento del imputado durante el proceso o en otro anterior, en la medida que indique su voluntad de no someterse al mismo;
+>   
+> 6. La actitud que el imputado adopta voluntariamente respecto a la importancia del daño resarcible;
+>   
+> 7. El haber sido imputado por la comisión de otro hecho delictivo doloso o haber recibido condena privativa de libertad en primera instancia;
+>   
+> 8. Habérsele aplicado alguna salida alternativa por delito doloso;
+>   
+> 9. La existencia de actividad delictiva reiterada o anterior;
+>   
+> 10. El pertenecer a asociaciones delictivas u organizaciones criminales;
+>   
+> 11. Peligro efectivo para la sociedad o para la víctima o el denunciante; y
+>   
+> 12. Cualquier otra circunstancia debidamente acreditada, que permita sostener fundadamente que el imputado se encuentra en riesgo de fuga.
+>   
+> Artículo 235.- (PELIGRO DE OBSTACULIZACIÓN) Por peligro de obstaculización se entiende a toda circunstancia que permita sostener fundamentadamente, que el imputado con su comportamiento entorpecerá la averiguación de la verdad. Para decidir acerca de su concurrencia se realizará una evaluación integral de las circunstancias existentes, teniendo especialmente en cuenta las siguientes:
+>   
+> 1. Que el imputado destruya, modifique, oculte, suprima, y/o falsifique, elementos de prueba;
+>   
+> 2. Que el imputado influya negativamente sobre los partícipes, testigos o peritos, a objeto de que informen falsamente o se comporten de manera reticente;
+>   
+> 3. Que el imputado influya ilegal o ilegítimamente en magistrados del Tribunal Supremo, magistrados del Tribunal Constitucional Plurinacional, vocales, jueces técnicos, jueces ciudadanos, fiscales y/o en los funcionarios y empleados del sistema de administración de justicia.
+>   
+> 4. Que el imputado induzca a otros a realizar las acciones descritas en los numerales 1,2 y 3 del presente Artículo.
+>   
+> 5. Cualquier otra circunstancia debidamente acreditada que permita sostener fundadamente que el imputado, directa o indirectamente, obstaculizará la averiguación de la verdad.
+>   
+> Artículo 235terº (RESOLUCIÓN). El juez atendiendo los argumentos y valorando los elementos probatorios ofrecidos por las partes, resolverá fundadamente disponiendo:
+>   
+> 1. La improcedencia de la solicitud;
+>   
+> 2. La aplicación de la medida o medidas solicitadas;
+>   
+> 3. La aplicación de una medida o medidas menos graves que la solicitada; o
+>   
+> 4. La aplicación de una medida o medidas más graves que la solicitada e incluso la detención preventiva.
+>   
+> Artículo 239.- (CESACIÓN DE LA DETENCIÓN PREVENTIVA) La detención preventiva cesará:
+>   
+> 1. Cuando nuevos elementos de juicio demuestren que no concurren los motivos que la fundaron o tornen conveniente que sea sustituida por otra medida;
+>   
+> 2. Cuando su duración exceda el mínimo legal de la pena establecida para el delito más grave que se juzga; y
+>   
+> 3. Cuando su duración exceda de dieciocho (18) meses sin que se haya dictado acusación o de treinta y seis (36) meses sin que se hubiera dictado sentencia.
+>   
+> 4. Vencidos los plazos previstos en los numerales 2) y 3), el juez o tribunal aplicará las medidas cautelares que correspondan previstas en el Artículo 240 de este Código, siempre que la demora no sea atribuible a los actos dilatorios del imputado.
+>   
+> Artículo 240.- (MEDIDAS SUSTITUTIVAS A LA DETENCIÓN PREVENTIVA) Cuando sea improcedente la detención preventiva y exista peligro de fuga u obstaculización del procedimiento, el juez o tribunal, mediante resolución fundamentada, podrá disponer la aplicación de una o más de las siguientes medidas sustitutivas:
+>   
+> 1. La detención domiciliaria, en su propio domicilio o en el de otra persona, sin vigilancia alguna o con la que el tribunal disponga.
+>   
+> Si el imputado no puede proveer a sus necesidades económicas o a las de su familia o si se encuentra en situación de indigencia, el juez podrá autorizar que se ausente durante la jornada laboral;
+>   
+> 2. Obligación de presentarse periódicamente ante el juez, tribunal o autoridad que se designe;
+>   
+> 3. Prohibición de salir del país, de la localidad en la cual reside o del ámbito territorial que fije el juez o tribunal, sin su autorización, ordenando el arraigo a las autoridades competentes;
+>   
+> 4. Prohibición de concurrir a determinados lugares;
+>   
+> 5. Prohibición de comunicarse con personas determinadas, siempre que no se afecte su derecho de defensa; y
+>   
+> 6. Fianza juratoria, personal o económica. La fianza económica podrá ser prestada por el imputado o por otra persona mediante depósito de dinero, valores, constitución de prenda o hipoteca.
+>   
+> Al resolver la aplicación de las medidas enumeradas anteriormente, el juez o tribunal determinará las condiciones y reglas que deberá cumplir el imputado, con la expresa advertencia de que la comisión de un nuevo delito o el incumplimiento de las reglas impuestas, dará lugar a la revocatoria de la medida y su sustitución por otra más grave, incluso la detención preventiva cuando ésta sea procedente, pudiendo la víctima hacer uso de la palabra.
+>   
+> Artículo 242.- (FIANZA JURATORIA) La fianza juratoria procederá cuando sea previsible que el imputado será beneficiado con la suspensión condicional de la pena, el perdón judicial o cuando demuestre estado de pobreza que el imposibilite constituir fianza real o personal.
+>   
+> 1. El imputado beneficiado con esta medida deberá cumplir las siguientes obligaciones:
+>   
+> 2. Comparecer ante el fiscal o la autoridad judicial las veces que sea requerido;
+>   
+> 3. Concurrir a toda actuación procesal que corresponda; y
+>   
+> 4. No cambiar el domicilio señalado a este efecto, para lo cual el imputado está obligado a presentar periódicamente el certificado de registro domiciliario expedido por autoridad competente, ni ausentarse del país sin previa autorización del juez o tribunal de la causa, quien dispondrá el arraigo correspondiente.
+>   
+> Artículo 243.- (FIANZA PERSONAL) La fianza personal consiste en la obligación que asumen dos o más personas solventes con patrimonios independientes, de presentar al imputado ante el juez que conoce el proceso las veces que sea requerido.
+>   
+> 1. En caso de incomparecencia del imputado, el fiador pagará la suma que a este efecto determine el juez, la que será suficiente para satisfacer los gastos de captura y las costas procesales.
+>   
+> 2. Cuando existan varios fiadores, asumirán la obligación solidariamente.
+>   
+> 3. Los fiadores no podrán presentar fianza personal a ningún otro imputado, mientras dure la fianza ofrecida y aceptada.
+>   
+> 4. El juez, a petición del fiador, podrá aceptar su sustitución.
+>   
+> Artículo 252.- (MEDIDAS CAUTELARES REALES) Sin perjuicio de la hipoteca legal establecida por el Artículo 90 del Código Penal, las medidas cautelares de carácter real serán dispuestas por el juez del proceso a petición de parte, para garantizar la reparación del daño y los perjuicios, así como el pago de costas o multas, a cuyo efecto se podrá solicitar el embargo de la fianza siempre que se trate de bienes propios del imputado.
+>   
+> El trámite se regirá por el Código de Procedimiento Civil, sin exigir contracautela a la víctima en ningún caso.
+>   
+> La anotación preventiva de los bienes propios del imputado puede ser dispuesta directamente por el fiscal desde el primer momento de la investigación, a través de resolución fundamentada, la que deberá ser informada al juez que ejerce control jurisdiccional en el plazo de vienticuatro (24) horas de haber sido efectivizada, debiendo el juez ratificar, modificar o revocar la medida en el plazo de tres (3) días de comunicada la misma.
+>   
+> Artículo 253.- (SOLICITUD DE INCAUTACIÓN) La incautación se aplicará sobre el patrimonio, los medios e instrumentos para la comisión o financiamiento del delito, que pertenecieren a los imputados o posibles instigadores y cómplices de las conductas calificadas por el fiscal.
+>   
+> En conocimiento del hecho por cualesquiera de las formas de inicio de la investigación penal, el fiscal dentro del plazo de las diligencias preliminares por la supuesta comisión del delito o ante la flagrancia prevista en el Artículo 230 de la [Ley Nº 1970](#TODO-link), requerirá ante el juez de instrucción, la incautación del patrimonio, medios e instrumentos que pertenecieran a los imputados, posibles instigadores y cómplices de las conductas calificadas como delito.
+>   
+> El fiscal deberá requerir ante el juez de instrucción, la retensión de fondos en cuentas bancarias y/o entidades financieras nacionales y extranjeras que pertenezcan a los imputados, posibles instigadores y cómplices, así como solicitar un informe de rendimiento bancario financiero que estos hayan realizado en los últimos doce meses.
+>   
+> Los bienes muebles e inmuebles quedarán bajo custodia de la Dirección de Registro, Control y Administración de Bienes Incautados - DIRCABI.
+>   
+> En el caso de encontrarse sustancias controladas en avionetas, lanchas y vehículos automotores, se procederá a la confiscación de aquellos bienes y su entrega inmediata a la Dirección de Registro, Control y Administración de Bienes Incautados - DIRCABI, entidad que luego del registro e informe técnico pericial, procederá a la entrega definitiva a las Fuerzas Armadas en el caso de avionetas y lanchas, y al Ministerio Público u otras instituciones públicas en el caso de vehículos automotores para que queden bajo su administración y custodia.
+>   
+> Artículo 300.- (TÉRMINO DE LA INVESTIGACIÓN PRELIMINAR) Las investigaciones preliminares efectuadas por la Policía, deberán concluir en el plazo máximo de veinte (20) días de iniciada la prevención. Dentro de las vienticuatro (24) horas siguientes, la Policía remitirá a la Fiscalía los antecedentes y objetos secuestrados, salvo que el fiscal disponga en cualquier momento su remisión.
+>   
+> Artículo 301.- (ESTUDIO DE LAS ACTUACIONES POLICIALES) Recibidas las actuaciones policiales, el fiscal analizará su contenido para:
+>   
+> 1. Imputar formalmente el delito atribuido, si se encuentran reunidos los requisitos legales.
+>   
+> 2. Ordenar la complementación de las diligencias policiales, fijando un plazo razonable que no excederá de noventa (90) días, salvo investigaciones complejas siendo obligatoria la comunicación de la prórroga al juez de instrucción.
+>   
+> 3. Disponer el rechazo de la denuncia, la querella o las actuaciones policiales y, en consecuencia su archivo; y
+>   
+> 4. Solicitar al juez de instrucción la suspensión condicional del proceso, la aplicación de un criterio de oportunidad, la sustanciación del procedimiento abreviado o la conciliación.
+>   
+> El plazo establecido en el Artículo 134 del presente Código, comenzará a correr desde la última notificación con la imputación al o los imputados.
+>   
+> Artículo 321.- (EFECTOS DE LA EXCUSA Y RECUSACIÓN) Producida la excusa o promovida la recusación, el juez no podrá realizar en el proceso ningún acto, bajo sanción de nulidad. Aceptada la excusa o la recusación, la separación del juez será definitiva aunque posteriormente desaparezcan las causales que las determinaron.
+>   
+> Las excusas y recusaciones deberán ser rechazadas in limine cuando:
+>   
+> 1. No sea causal sobreviniente;
+>   
+> 2. Sea manifiestamente improcedente;
+>   
+> 3. Se presente sin prueba en los casos que sea necesario; o
+>   
+> 4. Habiendo sido rechazada, sea reiterada en los mismos términos.
+>   
+> Artículo 323.- (ACTOS CONCLUSIVOS) Cuando el fiscal concluya la investigación:
+>   
+> 1. Presentará ante el juez de instrucción la acusación si estima que la investigación proporciona fundamento para el enjuiciamiento público del imputado;
+>   
+> 2. Requerirá ante el juez de instrucción, la suspensión condicional del proceso, la aplicación del procedimiento abreviado o de un criterio de oportunidad o que se promueva la conciliación;
+>   
+> 3. Decretará de manera fundamentada el sobreseimiento, cuando resulte evidente que el hecho no existió, que no constituye delito o que el imputado no participó en él, y cuando estime que los elementos de prueba son insuficientes para fundamentar la acusación.
+>   
+> 4. En los casos previstos en los numerales 1) y 2), remitirá al juez o tribunal las actuaciones y evidencias.
+>   
+> Artículo 325.- (AUDIENCIA CONCLUSIVA) Presentado el requerimiento conclusivo en el caso de los numerales 1) y 2) del Artículo 323 de este Código, el juez, dentro de las vienticuatro (24) horas siguientes, convocará a las partes a una audiencia oral y pública que deberá realizarse en un plazo no menor de seis (6) ni mayor de veinte (20) días, computables a partir de la notificación con la convocatoria.
+>   
+> Notificada la convocatoria, las partes tendrán un plazo común de cinco (5) días para examinar el requerimiento conclusivo, las actuaciones y evidencias reunidas en la investigación y para ofrecer los medios de prueba necesarios.
+>   
+> En la audiencia las partes podrán:
+>   
+> 1. Observar la acusación fiscal o particular por defectos formales, requiriendo su corrección;
+>   
+> 2. Deducir excepciones e incidentes, cuando no hayan sido planteadas con anterioridad o se funden en hechos nuevos;
+>   
+> 3. Pedir la resolución de excepciones e incidentes pendientes;
+>   
+> 4. Plantear incidentes de exclusión probatoria u observaciones a la admisibilidad de la prueba, a cuyo efecto las partes deberán presentar la prueba documental y material ofrecida en la acusación;
+>   
+> 5. Proponer los hechos sobre los que no existe controversia y que el juez dará por acreditados, obviando la actuación probatoria en el juicio. Asimismo, podrán proponer acuerdos acerca de los medios de prueba que serán necesarios para que determinados hechos se estimen probados. El juez de instrucción, sin embargo, exponiendo los motivos que lo justifiquen, podrá desvincularse de esos acuerdos.
+>   
+> La audiencia será dirigida por el juez de instrucción y durante su realización no se admitirá la presentación ni lectura de escritos. Instalada la audiencia, el juez de instrucción otorgará la palabra por un tiempo breve y por su orden al fiscal, al acusador particular y a la defensa, los que debatirán sobre la procedencia o admisibilidad de las cuestiones planteadas y la pertinencia de la prueba ofrecida.
+>   
+> El fiscal en la misma audiencia, podrá aclarar o corregir la acusación. Si la corrección requiere mayor análisis del Ministerio Público, el juez dispondrá la devolución de la acusación y suspenderá la audiencia por cinco (5) días para su nuevo requerimiento. Si no existen más observaciones, se tendrá por saneada.
+>   
+> Artículo 392.- (JUZGAMIENTO DE JUECES) Los jueces serán juzgados de conformidad al procedimiento común. Sólo serán suspendidos de su cargo por el Consejo de la Judicatura, cuando sean formalmente imputados ante el juez de instrucción.”
+
+**Artículo 2°.- (Procedimiento Inmediato para Delitos Flagrantes)** Se agrega el Título V al Libro Segundo “Procedimientos Especiales y Modificaciones al Procedimiento Común”, de la Segunda Parte “Procedimientos” de la [Ley Nº 1970](#TODO-link) de 25 de marzo de 1999, del Código de Procedimiento Penal, con sus modificaciones posteriores, quedando redactado con el siguiente texto:
+> “TÍTULO V
+>   
+> PROCEDIMIENTO INMEDIATO PARA DELITOS FLAGRANTES
+>   
+> Artículo 393bisº (PROCEDENCIA). En la resolución de imputación formal, el fiscal podrá solicitar al juez de instrucción la aplicación del procedimiento inmediato para delitos flagrantes conforme a las normas del presente Título, cuando el imputado sea sorprendido o aprehendido en la comisión de un delito en flagrancia.
+>   
+> Si se trata de una causa seguida contra varios imputados, sólo será posible si todos se encuentran en la situación prevista en el párrafo anterior y estén implicados en el mismo hecho.
+>   
+> Los delitos conexos en los que estén involucrados otros imputados no se acumularán al procedimiento inmediato por flagrancia.
+>   
+> Artículo 393terº (AUDIENCIA). En audiencia oral, el juez de instrucción escuchará al fiscal, al imputado y su defensor, a la víctima o al querellante, verificará el cumplimiento de las condiciones de procedencia previstas en el Artículo precedente y resolverá sobre la aplicación del procedimiento.
+>   
+> Si el juez acepta la aplicación del procedimiento inmediato por flagrancia, en la misma audiencia el fiscal podrá:
+>   
+> 1. Solicitar la aplicación de una salida alternativa, incluyendo el procedimiento abreviado cuando concurran los requisitos previstos en este Código;
+>   
+> 2. Si requiere realizar actos de investigación o de recuperación de evidencia complementarios, solicitará al juez el plazo que considere necesario, que no podrá exceder de cuarenta y cinco (45) días. El juez resolverá sobre el pedido del fiscal, previa intervención de la víctima y de la defensa;
+>   
+> 3. Si considera que cuenta con suficientes elementos de convicción, presentará la acusación y ofrecerá la prueba en la misma audiencia. El querellante podrá adherirse a la acusación del fiscal o acusar particularmente en la misma audiencia y ofrecerá su prueba de cargo. La acusación pública, y en su caso la acusación particular, se pondrán en conocimiento del imputado en la misma audiencia, para que en el plazo máximo de cinco (5) días ofrezca su prueba de descargo. Vencido este plazo, inmediatamente el juez de instrucción señalará día y hora de audiencia de preparación de juicio, misma que se realizará dentro de los tres (3) días siguientes. No obstante, a pedido fundamentado de la defensa, el juez podrá ampliar el plazo para la presentación de la prueba de descargo por el término máximo de cuarenta y cinco (45) días.
+>   
+> 4. Solicitar la detención preventiva del imputado, cuando concurra alguno de los requisitos establecidos en el Artículo 233 del presente Código, para garantizar su presencia en el juicio. La solicitud no podrá ser denegada por el juez de instrucción, salvo los casos de improcedencia de la detención preventiva.
+>   
+> 5. Las resoluciones que el juez dictare respecto a los numerales 2 y 3 en conformidad a lo dispuesto en este Artículo, no serán susceptibles de recurso alguno.
+>   
+> Artículo 393quaterº (AUDIENCIA DE PREPARACIÓN DE JUICIO INMEDIATO). En la audiencia de preparación de juicio, las partes podrán:
+>   
+> 1. Observar la acusación fiscal o particular por defectos formales, requiriendo su corrección;
+>   
+> 2. Deducir excepciones y otros medios de defensa, cuando no hayan sido planteadas con anterioridad o se funden en hechos nuevos;
+>   
+> 3. Plantear incidentes de exclusión probatoria u observaciones a la admisibilidad de la prueba, a cuyo efecto las partes deberán presentar la prueba documental y material ofrecida en la acusación;
+>   
+> 4. Proponer los hechos sobre los que no existe controversia y que el juez dará por acreditados, obviando la actuación probatoria en el juicio. Asimismo, podrán proponer acuerdos acerca de los medios de prueba que serán necesarios para que determinados hechos se estimen probados. El juez de instrucción, sin embargo, exponiendo los motivos que lo justifiquen, podrá desvincularse de esos acuerdos;
+>   
+> 5. Plantear cualquier otra cuestión o incidente que tienda a preparar mejor el juicio.
+>   
+> 6. La audiencia será dirigida por el juez de instrucción y durante su realización no se admitirá la presentación ni lectura de escritos. Instalada la audiencia, el juez de instrucción otorgará la palabra por un tiempo breve y por su orden al fiscal, al acusador particular y a la defensa, los que debatirán sobre la procedencia o admisibilidad de las cuestiones planteadas y la pertinencia de la prueba ofrecida. El fiscal podrá en la misma audiencia, con cargo a presentar el escrito respectivo en el plazo máximo de vienticuatro (24) horas siguientes a la audiencia, aclarar o corregir la acusación en lo que no sea sustancial; el juez en el mismo acto correrá traslado a los demás sujetos procesales. Si no existen más observaciones, se tendrá por saneada.
+>   
+> 7. Finalizada la audiencia, el juez de instrucción resolverá inmediatamente todas las cuestiones planteadas, salvo que por lo avanzado de la hora o lo complejo de los asuntos por resolver difiera la fundamentación de la decisión hasta por cuarenta y ocho (48) horas improrrogables. Las decisiones sobre la admisibilidad de prueba y las exclusiones probatorias no son recurribles.
+>   
+> 8. En la misma resolución sobre las cuestiones planteadas, el juez de instrucción dictará auto de apertura de juicio, disponiendo la remisión de la acusación pública y particular, el escrito de ofrecimiento de la defensa y las pruebas documentales y materiales ofrecidas al juez de sentencia.
+>   
+> Artículo 393quinquerº (JUICIO INMEDIATO). Radicada la causa, el juez de sentencia señalará día y hora de audiencia de sustanciación del juicio, que se realizará en un plazo no mayor a cinco (5) días.
+>   
+> El día y hora de audiencia, verificada la presencia de las partes, el juez concederá la palabra a la Fiscalía para que realice la fundamentación de su acusación; posteriormente, dará la palabra al acusador particular para que fundamente su acusación y a la victima si lo solicita; luego al imputado a los efectos de saber si hará uso en ese momento de su defensa material y finalmente otorgará la palabra a la defensa técnica para que presente su caso. No se dará lectura a las acusaciones ni al ofrecimiento de prueba de la defensa.
+>   
+> Abierto el debate, se recibirá la prueba del Ministerio Público, luego la prueba de la acusación particular y finalmente la prueba de la defensa, en el orden en que cada parte considere conveniente para su presentación. Si el imputado decide declarar como parte de la prueba de la defensa, éste será tratado de acuerdo a las reglas de declaración de testigos en juicio oral.
+>   
+> Finalizada la producción de la prueba, cada parte, comenzando por el Ministerio Público, tendrá la oportunidad de realizar su alegato en conclusiones, dando en última instancia la palabra a la víctima y al imputado, en ese orden, a los efectos de que puedan realizar su manifestación final.
+>   
+> En todo lo demás serán aplicables las reglas previstas para el juicio ordinario, conforme a lo señalado en este Código.
+>   
+> Artículo 393sexterº (SENTENCIA). Finalizados los alegatos de las partes, el juez de sentencia procederá a dictar sentencia inmediatamente, conforme a lo previsto en los Artículos 361 y siguientes de este Código, sin embargo, no se podrá diferir la redacción de los fundamentos, debiendo darse lectura íntegra de la misma.”
+
+**Artículo 3°.- (Modificaciones a la Ley Nº 1768 de 10 de marzo de 1997, de Modificaciones al Código Penal)** Se modifican los Artículos 174 y 177 bis de la [Ley Nº 1768](#TODO-link) de 10 de marzo de 1997, de Modificaciones al Código Penal, con sus reformas posteriores, quedando redactados con el siguiente texto:
+> “Artículo 174.(CONSORCIO DE JUECES, FISCALES, POLICÍAS Y ABOGADOS). El juez o fiscal que concertare la formación de consorcios con uno o varios abogados o policías, o formare parte de ellos, con el objeto de procurarse ventajas económicas ilícitas en detrimento de la sana administración de justicia, será sancionado con privación de libertad de cinco a diez años.
+>   
+> Idéntica sanción será impuesta al o los abogados que con igual finalidad y efecto, concertaren dichos consorcios con uno o varios jueces, fiscales o policías u otros abogados o formaren también parte de ellos.
+>   
+> Artículo 177bisº (RETARDO DE JUSTICIA). El funcionario judicial o administrativo culpable de retardo malicioso, será sancionado con la pena prevista para el delito de Negativa o Retardo de Justicia. Se entenderá por malicioso, el retardo provocado para conseguir cualquier finalidad ilegítima.”
+
+**Artículo 4°.- (Modificación a la Ley Nº 2298 de 20 de diciembre de 2001, de Ejecución Penal y Supervisión)** Se adiciona a la parte final del Artículo 48 de la [Ley Nº 2298](#TODO-link) de 20 de diciembre de 2001, de Ejecución Penal y Supervisión, el siguiente texto:
+> “El Director General de Régimen Penitenciario, excepcionalmente, podrá disponer el traslado inmediato de una privada o privado de libertad a otro recinto penitenciario, cuando exista riesgo inminente de su vida o cuando su conducta ponga en riesgo la vida y seguridad de los otros privados de libertad.
+>   
+> El Director General de Régimen Penitenciario, en caso de disponer el traslado de un privado de libertad a otro recinto, ya sea detenido preventivo o de ejecución penal o sentenciado, deberá poner en conocimiento del juez de la causa y del juez de ejecución penal según corresponda en el plazo máximo de cuarenta y ocho (48) horas, debiendo adjuntar un informe fundamentado que sustente la decisión.
+>   
+> El juez de Ejecución Penal o en su caso, el juez de la causa, previa valoración de los antecedentes enviados por el Director General de Régimen Penitenciario, se pronunciará en el plazo máximo de cinco (5) días ratificando o revocando el traslado.
+>   
+> En caso de ratificarse el traslado, se deberá enviar el cuaderno de investigaciones o los actuados radicados en el Juzgado de Ejecución Penal, con la finalidad de garantizar el derecho a la defensa del privado de libertad.”
+
+# Disposición final
+
+**Artículo final Único.-** La autoridad jurisdiccional o administrativa que tenga que aplicar una norma del ordenamiento jurídico boliviano, deberá hacerlo, en todos los casos, con sujeción a la [Constitución Política del Estado](#TODO-link) tomando en consideración los principios, valores y fines que sustentan al Estado, siéndole vinculante la jurisprudencia constitucional, solo en aquello que no contradiga dichos postulados de la norma suprema.
+
+# Disposiciones abrogatorias y derogatorias
+
+**Artículo abrogatorio Único.-** Se abrogan todas las disposiciones contrarias a la presente Ley.
+
+---
+
+Remítase al Órgano Ejecutivo, para fines constitucionales.
+  
+Es dado en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los diecisiete días del mes de mayo de dos mil diez años.
+  
+Fdo. René Martínez Callahuanca, Héctor Enrique Arce Zaconeta, Andrés Villca Daza, Clementina Garnica Cruz, Angel David Cortés Villegas, Juan Luís Gantier Zelada.
+  
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
+  
+Palacio de Gobierno de la ciudad de La Paz, a los dieciocho días del mes de mayo de dos mil diez años.
+  
+Fdo. ÁLVARO MARCELO GARCIA LINERA, Oscar Coca Antezana, Nilda Copa Condori, Nardy Suxo Iturri.

@@ -1,0 +1,72 @@
+# Bolivia: Decreto Supremo Nº 1494, 18 de febrero de 2013
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 76 de la [Constitución Política del Estado](#TODO-link), establece que el Estado garantiza el acceso a un sistema de transporte integral en sus diversas modalidades. La ley determinará que el sistema de transporte sea eficiente y eficaz, y que genere beneficios a los usuarios y a los proveedores.
+* Que el numeral 14 del Parágrafo I del Artículo 298 del Texto Constitucional, dispone que es competencia privativa del nivel central del Estado el control del espacio y tránsito aéreo en todo el territorio nacional. Construcción, mantenimiento y administración de aeropuertos internacionales y de tráfico interdepartamental.
+* Que el Artículo 6 de la [Ley Nº 165](#TODO-link), de 16 de agosto de 2011, General de Transporte, determina que la actividad de transporte se desenvolverá bajo los siguientes principios: accesibilidad, calidad, continuidad, eficacia, eficiencia, participación y control social, seguridad, sostenibilidad, transparencia y universalidad.
+* Que el Artículo 13 de la [Ley Nº 165](#TODO-link), dispone que se deberá promover la integralidad del Sistema de Transporte Integral - STI, en lo referido a la infraestructura, servicios y logística, orientados a garantizar la equidad, calidad y seguridad del transporte de personas y carga en todo el territorio nacional.
+* Que el Artículo 67 de la [Ley Nº 165](#TODO-link), declara de necesidad y utilidad pública a las instalaciones aeroportuarias destinadas al servicio público, debiendo gozar prioritariamente de todos los privilegios que las leyes conceden para ese caso, contando con preferencias para la adquisición y el acceso a los componentes y materiales necesarios para la construcción y mantenimiento de la infraestructura.
+* Que el Artículo 134 de la [Ley Nº 165](#TODO-link), establece que la modalidad de transporte aéreo constituye una serie de actividades destinadas a trasladar en aeronaves a pasajeros y carga de un aeropuerto o aeródromo a otro, en la que se incluye infraestructura, equipamiento y servicios, considerando entre otros la equidad y el acceso de una mayor población a los servicios de transporte aéreo.
+* Que el inciso d) del Artículo 135 de la [Ley Nº 165](#TODO-link), determina entre otros como políticas del transporte aéreo, el impulso a la modernización de infraestructuras, equipamiento aeronáutico para lo que se contará con planes de inversión y sus evaluaciones que garanticen un adecuado mantenimiento, conservación, renovación, implementación y construcciones, en las que se incluyan medidas específicas para actualización tecnológica a fin de mejorar la seguridad operacional y protección del medio ambiente.
+* Que el Artículo 143 de la [Ley Nº 165](#TODO-link), dispone que la entidad competente del nivel central o de las entidades territoriales autónomas, serán las encargadas de la explotación del servicio público aeroportuario por cuenta del Estado en la red aeroportuaria nacional de acuerdo a normativa específica.
+* Que de acuerdo a las políticas de transporte aéreo, el Estado debe asegurar que las terminales aeroportuarias cuenten con infraestructura, instalaciones, equipo, señalización, servicios y sistemas de organización adecuados y suficientes para que la operación se lleve a cabo sobre bases de seguridad, eficiencia y calidad, además de que otorguen una adecuada atención a las personas con capacidades diferentes, enfermas, adultos mayores, mujeres embarazadas y menores.
+* Que mediante [Decreto Supremo Nº 24315](#TODO-link), de 14 de junio de 1996, en el marco de la capitalización, se dispuso que los Servicios Públicos Aeroportuarios puedan ser otorgados en concesión a personas individuales o colectivas nacionales o extranjeras mediante licitación pública, habiéndose firmado, el 28 de febrero de 1997, el Contrato de Concesión para la administración, operación, mantenimiento, explotación económica y expansión de los aeropuertos “Aeropuerto Internacional El Alto” del Departamento de La Paz, “Jorge Wilstermann” del Departamento de Cochabamba y “Viru Viru” del Departamento de Santa Cruz, entre Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea - AASANA y la empresa Airport Group International A. G. I.(el Concesionario).
+* Que de acuerdo al numeral 2.5 del Artículo 2 de Transferencia a la Compañía de Aeropuertos, se establece que “En la fecha de inicio, todos los derechos y privilegios conferidos al Concesionario por este Contrato serán transferidos ipso jure a la Compañía de Aeropuertos, (...). A partir de ese momento la Compañía de Aeropuertos tendrá el derecho y privilegio exclusivo, así como la obligación de ejecutar la administración, operación, mantenimiento, explotación económica y expansión de los aeropuertos (...)”.
+* Que en el Artículo 1 del Contrato se define Compañía de Aeropuertos como la Sociedad Anónima que será constituida en Bolivia por el Concesionario, que se denominará Servicios de Aeropuertos Bolivianos Sociedad Anónima - SABSA.
+* Que la empresa SABSA de acuerdo a lo establecido en el contrato de concesión, formaba parte de la compañía Airport Group International, grupo que a su vez estaba encabezado por la sociedad Airport Group International Holdings LLC - AGIH, la cual fue adquirida por la corporación TBI en fecha 20 de septiembre de 1999, consecuentemente SABSA forma parte del Grupo TBI plc. En fecha 31 de diciembre de 2004, el paquete accionario del grupo TBI plc fue adquirido por Airport Concessions & Development Limited - ACDL, sociedad que se encuentra encabezada actualmente por Abertis Sociedad Anónima.
+* Que de las inspecciones administrativas realizadas, se advirtió que los vehículos bomberos cumplieron sobradamente su vida útil y son susceptibles de daño en cualquier momento, lo cual puede hacer que los aeropuertos en concesión pierdan su categoría de aeropuertos internacionales. Asimismo, la pista del aeropuerto internacional de El Alto no ofrece garantía alguna para el despegue y aterrizaje de aeronaves debido a las condiciones de las losas de pavimento que han sobrepasado su vida útil presentando serios asentamientos diferenciales y pérdida de sustento debido a la erosión del suelo que las soporta.
+* Que SABSA no cumplió con las expansiones requeridas en los aeropuertos otorgados en concesión de acuerdo al Artículo 18 del Contrato de Concesión, principalmente en lo que corresponde a mantener el Nivel B de la IATA tal como lo especifica dicho Artículo, ocasionando serias demoras y perjuicios a los usuarios y pasajeros de las terminales aeroportuarias.
+* Que el Estado Boliviano no recibe ningún beneficio económico de la Concesión en tanto y cuanto SABSA no realiza inversiones de importancia en los aeropuertos concesionados y obtiene para sí todos los resultados de cada ejercicio anual sin descontar inversión alguna.
+* Que el Estado por mandato constitucional debe recuperar la administración y el mantenimiento de los citados aeropuertos internacionales con la finalidad de promover una adecuada inversión en dicho sector, en búsqueda de una mejor prestación de servicios que otorguen al pueblo boliviano un mayor beneficio en esta modalidad de transporte que se constituye en una necesidad.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto nacionalizar a favor del Estado Plurinacional de Bolivia, representado por el Ministerio de Obras Públicas, Servicios y Vivienda, el paquete accionario que posee la compañía TBI Overseas Bolivia, perteneciente a la sociedad Airport Concessions & Development Limited - ACDL encabezado por Abertis S. A. y las acciones en propiedad de terceros provenientes de esta sociedad.
+
+**Artículo 2°.- (Nacionalización)** 
+
+1. Se nacionalizan las sesenta y seis mil trescientas setenta y cuatro (66.374) acciones que conforman el paquete accionario que posee TBI Overseas Bolivia, perteneciente a la sociedad ACDL, encabezada por Abertis S. A., salvo las tres (3) acciones que pertenecen a personas individuales, debiéndose transferir y registrar las acciones en favor del Estado Plurinacional de Bolivia bajo la titularidad del Ministerio de Obras Públicas, Servicios y Vivienda.
+2. En caso de que las acciones de TBI Overseas Bolivia señaladas en el Parágrafo precedente hubieran sido objeto de transferencia a terceros, se las nacionalizan en su totalidad.
+3. Se instruye al Ministerio de Obras Públicas, Servicios y Vivienda, pagar el monto correspondiente a la totalidad del paquete accionario de TBI Overseas Bolivia, perteneciente a la sociedad ACDL encabezada por Abertis S. A. en la empresa Servicios de Aeropuertos Bolivianos Sociedad Anónima - SABSA, y/o a los terceros señalados en el Parágrafo precedente, cuyo valor será establecido como resultado de un proceso de valuación a ser realizado por una empresa independiente contratada por el Ministerio de Obras Públicas, Servicios y Vivienda en el plazo de ciento ochenta (180) días hábiles, a partir de la publicación del presente Decreto Supremo.
+4. El presente Decreto Supremo se constituye en documento suficiente para acreditar la titularidad de las acciones del Ministerio de Obras Públicas, Servicios y Vivienda en la empresa nacionalizada SABSA.
+5. El pago del mencionado valor será efectivizado en territorio del Estado Plurinacional de Bolivia, deduciendo del mismo los montos que correspondieren a los conceptos señalados en el Artículo 5 del presente Decreto Supremo.
+
+**Artículo 3°.- (Control y administración)** 
+
+1. Se instruye al Ministro de Obras Públicas, Servicios y Vivienda realizar todas las acciones, medidas societarias y administrativas para asumir el control, administración, dirección y operación de la Empresa nacionalizada SABSA, asumiendo el control del paquete accionario que posee TBI Overseas Bolivia, perteneciente a la sociedad ACDL, encabezada por Abertis S. A. y/o terceros señalados en el Parágrafo II del Artículo precedente, con la finalidad de dar cumplimiento al presente Decreto Supremo.
+2. Los contratos suscritos por SABSA en virtud de los cuales ciertos servicios son otorgados a terceros continuarán vigentes y serán analizados caso por caso y en su caso ratificados o dejados sin efecto, previa emisión de informes técnicos y legales.
+3. Asimismo, continuarán vigentes los contratos de prestación de servicios o de consultoría suscritos con profesionales o empresas, siempre y cuando no existan incompatibilidades legales.
+
+**Artículo 4°.- (Continuidad del servicio)** 
+
+1. Se garantiza la continuidad de la prestación de los servicios aeroportuarios por parte de la empresa nacionalizada SABSA, siendo responsabilidad de la Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea - AASANA y de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, la Dirección General de Aeronáutica Civil - DGAC velar por el cumplimiento de lo dispuesto en el presente Decreto Supremo, en el marco de sus competencias.
+2. En resguardo del interés público, el Ministro de Obras Públicas, Servicios y Vivienda contará con el apoyo de la fuerza pública para garantizar la continuidad de la prestación de los servicios aeroportuarios del “Aeropuerto Internacional El Alto” del Departamento de La Paz, “Jorge Wilstermann” del Departamento de Cochabamba y “Viru Viru” del Departamento de Santa Cruz.
+3. Las personas que por acción u omisión impidan o perturben el normal desenvolvimiento de los servicios aeroportuarios señalados en el presente Decreto Supremo en referencia a la empresa nacionalizada o las que incurran en actos que denoten perjuicio o detrimento a su desenvolvimiento serán denunciadas ante el Ministerio Público y procesadas de conformidad con lo dispuesto por el Código Penal y normativa aplicable.
+
+**Artículo 5°.- (Pasivos)** Los pasivos financieros, tributarios, laborales, comerciales, regulatorios, ambientales y sociales de la empresa SABSA, tanto exigibles como contingentes, serán deducidos del monto de las acciones a tiempo de efectuar el pago señalado en el Artículo 2 del presente Decreto Supremo.
+
+**Artículo 6°.- (Situación laboral)** 
+
+1. Se garantiza la continuidad laboral, derechos y beneficios sociales de los trabajadores de la empresa nacionalizada SABSA, con relación a su antigüedad, de conformidad al [Decreto Supremo Nº 28699](#TODO-link), de 1 de mayo de 2006, y a la legislación laboral y social vigente en el Estado Plurinacional de Bolivia.
+2. Se exceptúan de la continuidad laboral dispuesta en el Parágrafo precedente a los funcionarios ejecutivos, directivos y personal de confianza de la empresa SABSA.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el Despacho de Obras Públicas, Servicios y Vivienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Departamento de Cochabamba, a los dieciocho días del mes de febrero del año dos mil trece.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL E INTERINA DE ECONOMÍA Y FINANZAS PÚBLICAS Y DE MEDIO AMBIENTE Y AGUA, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo MINISTRO DE SALUD Y DEPORTES E INTERINO DE DESARROLLO RURAL Y TIERRAS, Roberto Iván Aguilar Gómez, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

@@ -1,0 +1,23 @@
+# Bolivia: Decreto Supremo Nº 24396, 31 de octubre de 1996
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el Excmo. señor Presidente Constitucional de la República, Lic. Gonzalo Sánchez de Lozada, en uso de sus específicas atribuciones de conducción de las relaciones exteriores, establecidas en el artículo 96 inciso 3 de la [Constitución Política del Estado](#TODO-link), debe viajar al Imperio del Japón, para sostener entrevistas con Sus Majestades Reales, el Primer Ministro Hashimoto, los Presidentes de las dos cámaras congresales y otras personalidades representativas, con la finalidad de fortalecer e incrementar la cooperación internacional, del 2 al 8 de noviembre del año en curso. Posteriormente se trasladará a la ciudad de Santiago, República de Chile, para participar en la VI Cumbre Iberoamericana, cuyo tema central será “Gobernabilidad y Democracia”, del 9 al 12 de noviembre de 1996.
+* Que el Honorable Congreso Nacional, en su sesión ordinaria de 10 de octubre de 1996, por R. C. N° 002/96-97, ha autorizado a S. E., el señor Presidente Constitucional de la República, para ausentarse al Reino del Japón y a la República de Chile, de conformidad con el artículo 95 de la [Constitución Política del Estado](#TODO-link).
+* Que en observancia del artículo 93 de la [Constitución Política del Estado](#TODO-link), corresponde al Vicepresidente reemplazar al Presidente en casos de ausencia temporal.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se encomienda el ejercicio de la Presidencia de la República, al señor Vicepresidente Dn. VICTOR HUGO CARDENAS CONDE, mientras dure la ausencia temporal del señor Presidente Constitucional de la República, Lic. GONZALO SANCHEZ DE LOZADA.
+
+---
+
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta y uno días del mes de octubre de mil novecientos noventa y seis años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar Quiroga, Carlos Sánchez Berzaín, Jorge Otasevic Toledo, José Guillermo Justiniano Sandoval, René Oswaldo Blattmann Bauer, Fernando Candía Castillo, Freddy Teodovich Ortíz, Moisés Jarmúsz Levy, Reynaldo Peters Arzabe, Guillermo Richter Ascimani, Alfonso Revollo Thenier, Jaime Villalobos Sanjinés.

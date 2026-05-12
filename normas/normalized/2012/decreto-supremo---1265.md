@@ -1,0 +1,41 @@
+# Bolivia: Decreto Supremo Nº 1265, 20 de junio de 2012
+
+DECRETO SUPREMO N°1265
+  
+ÁLVARO MARCELO GARCÍA LINERA
+  
+PRESIDENTE EN EJERCICIO DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 22 de la [Ley N° 1141](#TODO-link), de 23 de febrero de 1990, ha creado un impuesto sobre todo viaje de salida al exterior del país de personas individuales residentes en Bolivia, por vía aérea, con excepción de diplomáticos y personas con ese status.
+* Que el Artículo 5 de la [Ley N° 1731](#TODO-link), de 25 de noviembre de 1996, incorpora al texto de la [Ley N° 843](#TODO-link), de 20 de mayo de 1986, como Título XII, el Artículo 106 sobre el Impuesto a las Salidas Aéreas al Exterior.
+* Que el [Decreto Supremo N° 22556](#TODO-link), de 26 de julio de 1990, reglamenta la aplicación del Impuesto a las Salidas Aéreas al Exterior.
+* Que es necesario establecer mecanismos que simplifiquen el pago del Impuesto a las Salidas Aéreas al Exterior por parte de los sujetos pasivos y optimizar la recaudación del mismo, para lo cual se debe modificar el [Decreto Supremo N° 22556](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se modifican los Artículos 3 y 4 del [Decreto Supremo N° 22556](#TODO-link), de 26 de julio de 1990, con el siguiente texto:
+  
+“ARTICÚLO 3.- PERCEPCIÓN DEL IMPUESTO.
+
+1. El Impuesto a las Salidas Aéreas al Exterior - ISAE, estará incluido en el boleto o billete aéreo, detallándose el impuesto de forma separada.
+2. Se designa agentes de percepción del ISAE, a las líneas aéreas que operan en el país y realizan vuelos internacionales desde Bolivia al exterior.
+3. El agente de percepción empozará mensualmente al Fisco el impuesto percibido en la forma, plazos y lugares que reglamentariamente establezca la Administración Tributaria.
+     
+   Artículo 4º CONTROL Y VERIFICACIÓN. Las líneas aéreas son las responsables de controlar el pago del ISAE. Cuando se presenten exenciones, la línea aérea verificará y expresará su conformidad con la leyenda “EXENTO”. Para este efecto, la Administración Tributaria mediante norma administrativa establecerá las condiciones y requisitos para la verificación de la exención.”
+     
+
+   # Disposiciones finales
+
+**Artículo final Único.-** El presente Decreto Supremo entrará en vigencia una vez que la Administración Tributaria emita la correspondiente reglamentación, con las disposiciones que sean necesarias para su aplicación.
+
+---
+
+El señor Ministro de Estado en el Despacho de Economía y Finanzas Públicas, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinte días del mes de junio del año dos mil doce.
+  
+Fdo. ÁLVARO MARCELO GARCÍA LINERA, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE RELACIONES EXTERIORES Y TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCION, Rubén Aldo Saavedra Soto, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco MINISTRO DE HIDROCARBUROS Y ENERGIA E INTERINO DE DESARROLLO RURAL Y TIERRAS, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros MINISTRA DE JUSTICIA E INTERINA DE MEDIO AMBIENTE Y AGUA, Daniel Santalla Torrez MINISTRO DE TRABAJO, EMPLEO Y P. S. E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Juan Carlos Calvimontes Camargo, Roberto Iván Aguilar Gómez MINISTRO DE EDUCACION E INTERINO DE CULTURAS, Claudia Stacy Peña Claros, Amanda Dávila Torres.

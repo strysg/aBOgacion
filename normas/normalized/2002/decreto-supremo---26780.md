@@ -1,0 +1,104 @@
+# Bolivia: Decreto Supremo Nº 26780, 2 de septiembre de 2002
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley de Organización del Poder Ejecutivo](#TODO-link) Nº 1788 - LOPE de 16 de septiembre de 1997, establece las normas que rigen la organización y funcionamiento del Poder Ejecutivo, determinando su estructura y competencias.
+* Que el [Decreto Supremo Nº 26772](#TODO-link) de 15 de agosto de 2002, establece la nueva reglamentación de la LOPE, en el marco de la actual política del Gobierno Nacional.
+* Que para una implementación adecuada del mencionado Decreto Supremo, es necesario establecer los mecanismos correspondientes, que permitan la transferencia de recursos a los Ministerios sin Cartera.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposicion general
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer los mecanismos de las transferencias, tanto de activos como de pasivos, a los Ministerios sin Cartera reglamentados por el [Decreto Supremo Nº 26772](#TODO-link) y realizar ajustes a la mencionada reglamentación.
+
+## Capítulo II Ministerio Sin Cartera Responsable de Hidrocarburos
+
+**Artículo 2°.- (Transferencia)** 
+
+1. El Ministerio sin Cartera Responsable de Hidrocarburos, estará constituido sobre la base de la Dirección General de Hidrocarburos incluyendo sus Unidades y demás áreas funcionales del ex Viceministerio de Energía e Hidrocarburos, por lo que el Ministerio de Desarrollo Económico procederá a la transferencia de todo ese segmento a favor del Ministerio sin Cartera.
+2. La transferencia también incluirá todos los recursos financieros destinados al funcionamiento de la Dirección General de Hidrocarburos, que se hallen registrados en el Presupuesto de la gestión 2002, en todas sus partidas presupuestarias. Asimismo considerará:
+   1. activos fijos e intangibles,
+   2. programas y proyectos bajo tuición que correspondan al segmento de hidrocarburos,
+   3. recursos humanos, los mismos que serán evaluados previamente para su respectiva incorporación al mismo.
+
+**Artículo 3°.- (Recursos financieros)** 
+
+1. El Ministerio sin Cartera Responsable de Hidrocarburos, sobre la base de un estudio económico - financiero podrá presentar su requerimiento presupuestario para su funcionamiento y el cumplimiento de sus funciones y competencias asignadas en el [Decreto Supremo Nº 26772](#TODO-link), debiendo también considerar los traspasos presupuestarios contemplados en el artículo anterior del presente Decreto Supremo.
+2. El Consejo Nacional de Política Económica - CONAPE, según disponibilidades existentes en el Tesoro General de la Nación podrá aprobar dicho requerimiento presupuestario según las transferencias y mecanismos establecidos en la Ley Financial.
+3. Se autoriza al Ministerio de Hacienda, realizar las transferencias presupuestarias correspondientes en el marco de lo establecido en el presente Decreto Supremo y la normativa vigente.
+
+**Artículo 4°.- (Tuicion)** El Ministerio sin Cartera Responsable de Hidrocarburos ejerce tuición sobre Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, por lo que no corresponde la tuición mencionada del Ministerio de Desarrollo Económico en el Artículo 77 del [Decreto Supremo Nº 26772](#TODO-link).
+
+## Capítulo III Ministerio Sin Cartera Responsable de Desarrollo Municipal
+
+**Artículo 5°.- (Transferencia)** 
+
+1. El Ministerio sin Cartera Responsable de Desarrollo Municipal estará constituido sobre la base del ex - Viceministerio de Planificación Estratégica y Participación Popular, de todo el segmento que el corresponde administrar según lo dispuesto en el Artículo 58 del [Decreto Supremo Nº 26772](#TODO-link), incluyendo sus Unidades y demás áreas funcionales por lo que el Ministerio de Desarrollo Sostenible y Planificación procederá a la transferencia de todo ese segmento a favor del Ministerio sin Cartera.
+2. La transferencia también incluirá todos los recursos financieros destinados al funcionamiento del segmento de Participación Popular, que se hallen registrados en el Presupuesto de la gestión 2002, en todas sus partidas presupuestarias. Asimismo considerará:
+   1. activos fijos e intangibles,
+   2. programas y proyectos bajo tuición que correspondan al segmento de la Participación Popular,
+   3. recursos humanos, los mismos que serán evaluados previamente para su respectiva incorporación al mismo.
+
+**Artículo 6°.- (Recursos financieros)** 
+
+1. El Ministerio sin Cartera Responsable de Desarrollo Municipal, sobre la base de un estudio económico - financiero, podrá presentar su requerimiento presupuestario para su funcionamiento y el cumplimiento de sus funciones y competencias asignadas en el [Decreto Supremo Nº 26772](#TODO-link), debiendo también considerar los traspasos presupuestarios contemplados en el artículo anterior del presente Decreto Supremo.
+2. El Consejo Nacional de Política Económica - CONAPE, según disponibilidades existentes en el Tesoro General de la Nación podrá aprobar dicho requerimiento presupuestario según las transferencias y mecanismos establecidos en la Ley Financial.
+3. Se autoriza al Ministerio de Hacienda, realizar las transferencias presupuestarias correspondientes en el marco de lo establecido en el presente Decreto Supremo y la normativa vigente.
+
+## Capítulo IV Ministerio Sin Cartera Responsable de Asuntos Campesinos e Indigenas, Genero y Generacionales
+
+**Artículo 7°.- (Transferencia)** 
+
+1. El Ministerio sin Cartera Responsable de Asuntos Campesinos e Indígenas, Género y Generacionales estará constituido sobre la base del:
+     
+   Ex Ministerio sin Cartera Responsable de Asuntos Campesinos, Pueblos Indígenas y Originarios.
+     
+   Ex - Viceministerio de Asuntos de Género, Generacionales y Familia, incluyendo sus Direcciones Generales, Unidades y demás áreas funcionales, por lo que el Ministerio de Desarrollo Sostenible y Planificación procederá a la transferencia de todo ese segmento a favor del Ministerio sin Cartera.
+2. La transferencia también incluirá todos los recursos financieros destinados al funcionamiento del ex Ministerio sin Cartera Responsable de Asuntos Campesinos, Pueblos Indígenas y Originarios y del ex - Viceministerio de Asuntos de Género, Generacionales y Familia, que se hallen registrados en el Presupuesto de la gestión 2002, en todas sus partidas presupuestarias. Asimismo considerará:
+   1. activos fijos e intangibles,
+   2. programas y proyectos bajo tuición que correspondan al segmento de los asuntos campesinos e indígenas, género y generacionales,
+   3. recursos humanos, los mismos que serán evaluados previamente para su respectiva incorporación al mismo.
+
+**Artículo 8°.- (Recursos financieros)** 
+
+1. El Ministerio sin Cartera Responsable de Asuntos Campesinos e Indígenas, Género y Generacionales, sobre la base de un estudio económico - financiero podrá presentar su requerimiento presupuestario para su funcionamiento y el cumplimiento de sus funciones y competencias asignadas en el [Decreto Supremo Nº 26772](#TODO-link), debiendo también considerar los traspasos presupuestarios contemplados en el artículo anterior del presente Decreto Supremo.
+2. El Consejo Nacional de Política Económica - CONAPE, según disponibilidades existentes en el Tesoro General de la Nación podrá aprobar dicho requerimiento presupuestario según los transferencias y mecanismos establecidos en la Ley Financial.
+3. Se autoriza al Ministerio de Hacienda, realizar las transferencias presupuestarias correspondientes en el marco de lo establecido en el presente Decreto Supremo y la normativa vigente.
+
+**Artículo 9°.- (Viceministerio de la Mujer)** 
+
+1. Se incluye en el inciso i) al Artículo 62 del [Decreto Supremo Nº 26772](#TODO-link) que se refiere a las funciones del Viceministro de la Mujer, la siguiente redacción:
+   > “i) Coordinar en forma transversal la temática de la Tercera Edad, de la Mujer, de la Juventud, niños, niñas y adolescentes con los respectivos Viceministros que atienden dicha temática.”
+
+## Capítulo V Ministerio Sin Cartera Responsable de Servicios Financieros
+
+**Artículo 10°.- (Transferencia)** 
+
+1. El Ministerio sin Cartera Responsable de Servicios Financieros estará constituido sobre la base del ex Viceministerio de Asuntos Financieros, incluyendo sus Direcciones, Unidades y demás áreas funcionales, además de la Dirección de Pensiones, por lo que el Ministerio de Hacienda procederá a la transferencia de todo ese segmento a favor del Ministerio sin Cartera.
+2. La transferencia también incluirá todos los recursos financieros destinados al funcionamiento del ex Viceministerio de Asuntos Financieros y de la Dirección de Pensiones, que se hallen registrados en el Presupuesto de la gestión 2002, en todas sus partidas presupuestarias. Asimismo considerará:
+   1. activos fijos e intangibles,
+   2. programas y proyectos bajo tuición que correspondan al segmento del ex Viceministerio de Asuntos Financieros y de la Dirección de Pensiones,
+   3. recursos humanos, los mismos que serán evaluados previamente para su respectiva incorporación al mismo.
+
+**Artículo 11°.- (Recursos financieros)** 
+
+1. El Ministerio sin Cartera Responsable de Servicios Financieros, sobre la base de un estudio económico - financiero podrá presentar su requerimiento presupuestario para su funcionamiento y el cumplimiento de sus funciones y competencias asignadas en el [Decreto Supremo Nº 26772](#TODO-link), debiendo también considerar los traspasos presupuestarios contemplados en el artículo anterior del presente Decreto Supremo.
+2. El Consejo Nacional de Política Económica - CONAPE, según disponibilidades existentes en el Tesoro General de la Nación podrá aprobar dicho requerimiento presupuestario según las transferencias y mecanismos establecidos en la Ley Financial.
+3. Se autoriza al Ministerio de Hacienda, realizar las transferencias presupuestarias correspondientes en el marco de lo establecido en el presente Decreto Supremo y la normativa vigente.
+
+**Artículo 12°.- (Abrogaciones y derogaciones)** Se abrogan y derogan todas las disposiciones legales contrarias al presente Decreto Supremo.
+
+---
+
+Los Ministros de Estado en los Despachos de Relaciones Exteriores y Culto, Presidencia, Gobierno, Defensa Nacional, Hacienda, Justicia y Derechos Humanos, Desarrollo Económico, Educación, Cultura y Deportes, Salud y Previsión Social, Trabajo y Microempresa, Agricultura, Ganadería y Desarrollo Rural, Desarrollo Sostenible y Planificación, Comercio Exterior e Inversión, Vivienda y Servicios Básicos, sin Cartera Responsable de Hidrocarburos, sin Cartera Responsable de Desarrollo Municipal, sin Cartera Responsable de Servicios Financieros, sin Cartera Responsable de Asuntos Campesinos e Indígenas, Género y Generacionales, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dos días del mes de septiembre del año dos mil dos.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Carlos Saavedra Bruno, Carlos Sánchez Berzain, Alberto Gasser Vargas, Freddy Teodovich Ortiz, Gina Luz Méndez Hurtado, José Guillermo Justiniano Sandoval, Javier Comboni Salinas, Oscar Farfán Mealla, Arturo Liebers Baldivieso, Juan Carlos Virreira Méndez, Fernando Illanes de la Riva, Isaac Maidana Quisbert, Javier Torres Goitia Caballero, Jaime Navarro Tardio, Hernán Paredes Muñoz, Javier Suárez Ramírez, Silvia Amparo Velarde Olmos.

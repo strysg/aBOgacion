@@ -1,0 +1,43 @@
+# Bolivia: Decreto Supremo Nº 26381, 30 de octubre de 2001
+
+ENRIQUE TORO TEJADA
+  
+PRESIDENTE INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que por decretos supremos [Nº 25574](#TODO-link) de 5 de noviembre de 1999 y [Nº 25970](#TODO-link) de 1 de noviembre de 2000, se autorizó a los Gobiernos Municipales la utilización de saldos no comprendidos de los Fondos Locales Compensatorios de Salud, habiendo sido ampliado excepcionalmente esta autorización hasta el 31 de diciembre de 2.000.
+* Que durante la vigencia de estas disposiciones administrativas y aplicación del Seguro Básico de Salud se acumularon saldos en las cuentas de los Fondos Locales Compensatorios de Salud de los Gobiernos Municipales.
+* Que es necesario utilizar los saldos del Seguro Básico de Salud, para que a los Gobiernos Municipales los permita mejorar la capacidad resolutiva de los servicios de salud y por tanto mejorar la calidad de atenciones a favor de los usuarios y la población en general.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Autorizacion)** Se autoriza a los Gobiernos Municipales la utilización de los saldos no comprometidos de los Fondos Locales Compensatorios de Salud al final de cada gestión.
+
+**Artículo 2°.- (Gastos autorizados)** El Ministerio de Salud y Previsión Social normará anualmente mediante Resolución Ministerial, la utilización de los saldos de los Fondos Locales compensatorios de Salud.
+
+**Artículo 3°.- (Requisitos para la utilizacion)** Para la utilización de los Saldos no comprometidos de los Fondos Locales Compensatorios de Salud se deberá cumplir con todos los requisitos detallados a continuación:
+  
+Establecer el saldo en la cuenta del Fondo Local Compensatorio de Salud al Final de la gestión anterior.
+  
+Haber pagado todas las obligaciones por concepto del Seguro Básico de Salud, incluyendo los pagos intermunicipales a la fecha de emisión del certificado correspondiente (incisos c y d).
+  
+Para los municipios del área rural, el Director de Distrito de Salud correspondiente con el visto bueno del responsable de la Unidad Departamental del Seguro Básico de Salud deberá emitir un certificado indicando que el municipio no tiene obligaciones económicas pendientes con los establecimientos de salud, a la fecha de emisión.
+  
+Para los municipios capitales de departamento y el municipio de El Alto, el responsable de la Unidad Departamental del Seguro Básico de Salud correspondiente deberá emitir un certificado indicando que a la fecha de emisión el municipio con los establecimientos de salud.
+  
+Los certificados mencionados en los incisos c) o d) deberán formar parte de la documentación de respaldo.
+  
+Para fines de control, toda la información de inversión en salud realizada con los saldos del Fondo Local Compensatorio de Salud deberá ser remitida oportunamente al distrito de salud para su introducción al sistema de control del Seguro Básico de Salud.
+
+**Artículo 4°.- (Derogatoria y abrogatoria)** Se derogan y abrogan todas las disposiciones contrarias al presente decreto supremo.
+
+---
+
+Los Señores Ministros de Estado en las Carteras de Salud y Previsión Social y de Hacienda quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de octubre del año dos mil uno.
+  
+Fdo. ENRIQUE TORO TEJADA PRESIDENTE INTERINO DE LA REPUBLICA, Alberto Zelada Castedo MINISTRO INTERINO DE RR. EE. Y CULTO, José Luís Lupo Flores, Leopoldo Fernández Ferreira, Oscar Guilarte Lujan, Eduardo Antelo Callisperis MINISTRO INTERINO DE HACIENDA, Mario Serrate Ruíz, José Abel Martínez Mrden MINISTRO INTERINO DE DESARROLLO ECONOMICO, Amalia Anaya Jaldín, Enrique Paz Argandoña, Jorge Pacheco Franco, Walter Núñez Rodríguez, Ramiro Cavero Uriona, José Rivera Eterovíc MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION, Xavier Nogales Iturri, Hernán Terrazas Ergueta MINISTRO INTERINO SIN CARTERA RESPONSABLE DE LA INFORMACION GUBERNAMENTAL, Wigberto Rivero Pinto.

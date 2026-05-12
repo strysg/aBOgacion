@@ -1,0 +1,77 @@
+# Bolivia: Reglamento para determinar la existencia o no de Reservorios Compartidos entre dos o más departamentos, así como la determinación y aplicación del Factor de Distribución, 22 de agosto de 2012
+
+MINISTRO DE HIDROCARBUROS Y ENERGIA
+  
+TEXTO ORDENADO
+  
+“REGLAMENTO PARA DETERMINAR LA EXISTENCIA O NO DE RESERVORIOS COMPARTIDOS ENTRE DOS O MÁS DEPARTAMENTOS, ASÍ COMO LA DETERMINACIÓN Y APLICACIÓN DEL FACTOR DE DISTRIBUCIÓN”
+  
+Aprobado por Resolución Ministerial Nº 497-11 de fecha 16 de diciembre de 2011 y modificado por la Resolución Ministerial Nº 033-12 de fecha 03 de febrero de 2012.
+
+## Capítulo I Aspectos generales
+
+**Artículo 1°.- (Objeto)** El presente Reglamento tiene por objeto establecer los procedimientos necesarios para realizar los estudios que establezcan la existencia o no de Reservorios Compartidos entre dos o más Departamentos y cuando corresponda, la aplicación de los procedimientos para la determinación y aplicación del Factor de Distribución.
+
+**Artículo 2°.- (Ámbito de aplicación)** El presente Reglamento es de aplicación obligatoria en todo el territorio nacional, para YPFB y los departamentos, cuando existan indicios de Reservorios Compartidos, según la información técnica oficial, histórica y actualizada de YPFB.
+
+**Artículo 3°.- (Definiciones)** Se establecen las siguientes definiciones para los efectos del presente Reglamento:
+  
+Área del Contrato.- Es la superficie y el subsuelo correspondiente, en los cuales se lleva a cabo operaciones petroleras en el marco de los Contratos Petroleros suscritos, cuya ubicación, delimitación y especificaciones están previstas en un Contrato y las Leyes Aplicables.
+  
+Campo.- Área del suelo debajo del cual existe uno o más reservorios de hidrocarburos, en una o más formaciones en la misma estructura o entidad geológica.
+  
+Departamento.- Es la unidad territorial del Estado Plurinacional de Bolivia.
+  
+Estudio de Extensión y Conectividad.- Es el análisis técnico de la conectividad y continuidad estructural e hidráulica del reservorio para determinar la relación de volúmenes existentes en toda la estructura geológica del área, en base a toda la información técnica oficial histórica disponible proporcionada por YPFB.
+  
+Estudio de Georeferenciación.- Es el análisis técnico que permite identificar las coordenadas de un polígono que encierra el área de estudio, donde se utilizará la cartografía oficial existente en el Estado Plurinacional de Bolivia.
+  
+Factor de Distribución.- Es el porcentaje de volumen de hidrocarburos que tiene cada Departamento en uno o más reservorios compartidos, que se determinará en base a los hidrocarburos originales in-situ (volúmenes probados) contenidos en la parte que ocupa el reservorio en el territorio de cada departamento participante. Este Factor de Distribución podrá ser revisado por YPFB de acuerdo a lo establecido en el presente Reglamento. El Factor de Distribución para cada Departamento, es el cociente entre el volumen de hidrocarburos original in situ probado correspondiente al Departamento y el volumen total de hidrocarburos original in situ probado para el reservorio compartido. Conforme al sistema internacionalmente aceptado SPE-PRMS (Society of Petroleum Engineers - Petroleum Resources Management System).
+  
+Hidrocarburos original in-situ.- Es el depósito existente de hidrocarburos que se estiman existen originalmente en el o los Reservorio(s).
+  
+Reservorio Compartido.- Es un reservorio que se extiende más allá de los límites de uno o más Departamentos, con continuidad estructural, estratigráfica y dinámica, que debe ser desarrollado de forma racional y que la producción será compartida en proporción al factor de Distribución.
+  
+Reservorio de Hidrocarburos.- Es uno o varios estratos bajo la superficie que contiene una acumulación de hidrocarburos que este(n) produciendo o sean capaces de producir hidrocarburos, con un sistema común de presión en toda su extensión, en los cuales los hidrocarburos estén rodeados por roca impermeable y/o agua subyacente.
+
+## Capítulo II Contratación y estudios
+
+**Artículo 4°.- (Contratación)** YPFB en el marco de sus atribuciones constitucionales, contratará una empresa de reconocido prestigio internacional a fin de efectuar los estudios necesarios para determinar la existencia o no, de Reservorios Compartidos en dos o más Departamentos. La información técnica oficial, histórica y actualizada requerida para realizar dichos estudios deberá ser proporcionada por YPFB.
+
+**Artículo 5°.- (Estudios)** 
+
+1. YPFB incorporará en el Documento Base de Contratación la realización de:
+     
+   Estudio de Extensión y Conectividad.
+     
+   Estudio de Georeferenciación.
+     
+   Cálculo del Factor de Distribución para cada Departamento.
+2. YPFB en caso de ser necesario podrá requerir estudios complementarios a la empresa de reconocido prestigio internacional.
+
+**Artículo 6°.- (Estudio de extensión y conectividad)** La empresa de reconocido prestigio internacional determinará la extensión y conectividad de el o los Reservorios de un determinado Campo, conforme a las prácticas prudentes y racionales de la industria.
+
+**Artículo 7°.- (Estudio de georeferenciación)** En caso de que el estudio previsto en el Artículo 6 determine la extensión y conectividad, la empresa contratada deberá efectuar la Georeferenciación del área y tomar en cuenta los límites geográficos departamentales proporcionados por la entidad competente que abarca(n) el o los Reservorios que estén dentro de un Área de Contrato, Área Reservada a favor de YPFB y/o Área Libre.
+
+**Artículo 8°.- (Factor de distribución para cada departamento)** Con los Estudios de Extensión y Conectividad, y Georeferenciación que determinen la existencia de el o los Reservorios Compartidos, la empresa de reconocido prestigio internacional establecerá el Factor de Distribución, correspondiente para cada Departamento.
+
+**Artículo 9°.- (Control y monitoreo de los estudios)** 
+
+1. Los Departamentos involucrados que así lo consideren necesario, a través de sus Gobernaciones, podrán realizar el control y monitoreo a la ejecución del estudio contratado por YPFB, para cuyo efecto tendrán acceso irrestricto a toda la información concerniente al estudio y a recibir informes escritos por parte de la empresa contratada respecto al avance del mismo. En caso de existir observaciones técnicas fundamentadas de los Departamentos involucrados, las mismas serán remitidas a YPFB, instancia que obligatoriamente pondrá a conocimiento de la empresa encargada del estudio para su análisis, contrastación y pronunciamiento, debiendo absolver las observaciones realizadas por el o los Departamentos involucrados. Sobre las observaciones y el pronunciamiento de la empresa, YPFB emitirá pronunciamiento técnico oficial de manera escrita, previo a la aprobación del Informe Final.
+2. Los departamentos quedan facultados para realizar el Control y Monitoreo de los estudios a través de personas naturales o jurídicas entendidas en la materia, debida y previamente acreditadas ante YPFB.
+
+**Artículo 10°.- (Cumplimiento y aplicación de resultados de los estudios)** Una vez aprobados por YPFB los Informes de los estudios realizados, conforme a lo establecido en el Artículo 9, estos serán de carácter definitivo y obligatorio para los Departamentos involucrados y de cumplimiento y aplicación obligatoria por parte de YPFB, para la emisión de la certificación de la producción de hidrocarburos fiscalizada.
+
+**Artículo 11°.- (Actualización del factor de distribución)** Conforme a los nuevos datos obtenidos durante el Desarrollo del Campo y previa evaluación técnica, YPFB contratará una empresa que se encargue de actualizar el Factor de Distribución.
+
+## Capítulo III Regalías en reservorios compartidos
+
+**Artículo 12°.- (Aplicación de procedimiento)** En caso de que se determine que uno o más reservorios sean compartidos, entre dos o más Departamentos, a éstos se aplicará el procedimiento establecido en el Reglamento de Liquidación de Regalías y Participación al TGN por la Producción de Hidrocarburos, aprobado por [Decreto Supremo Nº 28222](#TODO-link) del 27 de junio de 2005 y sus modificaciones.
+
+**Artículo 13°.- (Certificación y distribución de la producción fiscalizada)** YPFB o la instancia correspondiente de fiscalización, deberá emitir la certificación de la producción de hidrocarburos fiscalizada, la misma que aplicará el Factor de Distribución correspondiente a cada Departamento.
+
+**Artículo 14°.- (Calculo de regalías)** El cálculo de regalías será en base al factor de distribución de los departamentos, independientemente de la ubicación de los pozos productores y del punto de fiscalización
+
+---
+
+Reglamento Anexo a la [Resolución Ministerial Nº 222-12](#TODO-link) de agosto 22 de 2012.

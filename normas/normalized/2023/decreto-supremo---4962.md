@@ -1,0 +1,64 @@
+# Bolivia: Decreto Supremo Nº 4962, 14 de junio de 2023
+
+Decreto Supremo Nº 4962
+  
+LUIS ALBERTO ARCE CATACORA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 330 de la [Constitución Política del Estado](#TODO-link) determina que el Estado regulará el sistema financiero con criterios de igualdad de oportunidades, solidaridad, distribución y redistribución equitativa.
+* Que el Artículo 405 del Texto Constitucional establece que el desarrollo rural integral sustentable es parte fundamental de las políticas económicas del Estado, que priorizará sus acciones para el fomento de todos los emprendimientos económicos comunitarios y del conjunto de los actores rurales, con énfasis en la seguridad y en la soberanía alimentaria.
+* Que el Parágrafo I del Artículo 4 de la [Ley Nº 393](#TODO-link), de 21 de agosto de 2013, de Servicios Financieros, dispone que los servicios financieros deben cumplir la función social de contribuir al logro de los objetivos de desarrollo integral para el vivir bien, eliminar la pobreza y la exclusión social y económica de la población.
+* Que el Parágrafo I del Artículo 13 de la [Ley Nº 1267](#TODO-link), de 20 de diciembre de 2019, del Presupuesto General del Estado Gestión 2020, vigente por el inciso w) de la Disposición Final Octava de la [Ley Nº 1493](#TODO-link), de 17 de diciembre de 2022, del Presupuesto General del Estado - Gestión 2023, señala que con el objeto de apoyar nuevos emprendimientos productivos, fomento a la producción, infraestructura, exportaciones, atender situaciones de encarecimiento de precios, desabastecimiento, inseguridad alimentaria y apoyo al sector educación, salud y medio ambiente, se autoriza al Órgano Ejecutivo, constituir fideicomisos con instituciones financieras autorizadas, los cuales deben ser aprobados mediante Decreto Supremo.
+* Que el Artículo 22 del [Decreto Supremo Nº 4848](#TODO-link), de 28 de diciembre de 2022, establece los aspectos generales de los fideicomisos y la recuperación de recursos de fideicomisos constituidos con recursos públicos.
+* Que ante la necesidad de establecer acciones inmediatas para coadyuvar a los productores de gallinas de postura comercial afectados por la Influenza Aviar de Alta Patogenicidad en el Departamento de Cochabamba, es necesario constituir un fideicomiso.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar al Ministerio de Desarrollo Rural y Tierras a constituir un fideicomiso, para coadyuvar a los productores de gallinas de postura comercial afectados por la Influenza Aviar de Alta Patogenicidad en el Departamento de Cochabamba.
+
+**Artículo 2°.- (Fideicomiso)** Se autoriza al Ministerio de Desarrollo Rural y Tierras, en calidad de fideicomitente, suscribir un contrato de fideicomiso con el Banco de Desarrollo Productivo - Sociedad Anónima Mixta - BDP - S. A. M., en calidad de fiduciario, mediante la transmisión temporal y no definitiva de recursos, por un monto de hasta Bs22.000.000.- (VEINTIDÓS MILLONES 00/100 BOLIVIANOS), para la otorgación de financiamiento a los productores de gallinas de postura comercial afectados por la Influenza Aviar de Alta Patogenicidad en el Departamento de Cochabamba.
+
+**Artículo 3°.- (Fuente de recursos)** Para la constitución del fideicomiso, se autoriza al Ministerio de Economía y Finanzas Públicas, a transmitir recursos del Tesoro General de la Nación - TGN al Ministerio de Desarrollo Rural y Tierras, hasta el monto establecido en el Artículo 2 del presente Decreto Supremo, de acuerdo a disponibilidad del TGN.
+
+**Artículo 4°.- (Finalidad)** La finalidad del fideicomiso es otorgar financiamiento para capital de operación a los productores de gallinas de postura comercial afectados por la Influenza Aviar de Alta Patogenicidad, del Departamento de Cochabamba, para la reposición de su producción.
+
+**Artículo 5°.- (Beneficiarios)** Serán beneficiarios de los créditos otorgados por el fideicomiso los productores de gallinas de postura comercial afectados por la Influenza Aviar de Alta Patogenicidad en el Departamento de Cochabamba. Estos productores serán responsables directos por el uso adecuado de los recursos para el cumplimiento de la finalidad del fideicomiso, así como del reembolso de los mismos.
+
+**Artículo 6°.- (Plazo del fideicomiso)** El plazo de vigencia del fideicomiso será de ocho (8) años computables a partir de la fecha de suscripción del respectivo contrato de fideicomiso.
+
+**Artículo 7°.- (Restitución de los recursos)** 
+
+1. La forma y condiciones de restitución de los recursos del fideicomiso serán establecidas en el contrato de fideicomiso.
+2. Los recursos económicos para la restitución del fideicomiso provendrán del repago de los créditos otorgados por el fideicomiso.
+3. Los recursos del fideicomiso, incluyendo los ingresos que se pudieran generar, deberán ser restituidos por el fiduciario al fideicomitente al cumplimiento del plazo del fideicomiso para su restitución inmediata al TGN.
+4. El Fideicomitente podrá instruir la restitución anticipada de recursos al TGN, siempre y cuando no hayan sido colocados.V. Los recursos fideicomitidos serán reembolsados por el Ministerio de Desarrollo Rural y Tierras al TGN, al cumplimiento del plazo del fideicomiso. En caso de incumplimiento, se faculta al Ministerio de Economía y Finanzas Públicas a debitar de cualquiera de las cuentas del fideicomitente el saldo pendiente de restitución.
+
+**Artículo 8°.- (Aspectos administrativos y operativos)** 
+
+1. Las condiciones y aspectos administrativos y operativos del fideicomiso, incluyendo costos y gastos del fideicomiso y la remuneración del fiduciario, serán establecidos en el contrato de fideicomiso y sus reglamentos.
+2. Las condiciones para la otorgación de los créditos serán establecidas en el contrato de fideicomiso y sus reglamentos.
+3. Los costos operativos y administrativos del fideicomiso se realizarán con cargo a los rendimientos e ingresos financieros que genere el mismo.
+4. Se autoriza al fiduciario a invertir los recursos del fideicomiso, en tanto no sean otorgados en crédito, conforme a disposiciones establecidas en el contrato de fideicomiso y sus reglamentos.
+
+**Artículo 9°.- (Seguimiento y control)** El seguimiento y control del logro de la finalidad del fideicomiso estará a cargo del Ministerio de Desarrollo Rural y Tierras, en su calidad de fideicomitente.
+
+# Disposiciones transitorias
+
+**Disposición Transitoria Única.-** El contrato de fideicomiso deberá ser suscrito entre el Ministerio de Desarrollo Rural y Tierras en calidad de fideicomitente y el BDP - S. A. M. como fiduciario, en un plazo de hasta treinta (30) días hábiles, computables a partir de la publicación del presente Decreto Supremo.
+
+# Disposiciones finales
+
+**Disposición Final Única.-** Se autoriza al Ministerio de Economía y Finanzas Públicas y al Ministerio de Desarrollo Rural y Tierras efectuar las modificaciones presupuestarias que correspondan en el marco de la normativa vigente, para el cumplimiento del presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Desarrollo Rural y Tierras, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los catorce días del mes de junio del año dos mil veintitrés.
+  
+FDO. LUIS ALBERTO ARCE CATACORA, Rogelio Mayta Mayta, Maria Nela Prada Tejada, Carlos Eduardo Del Castillo Del Carpio, Edmundo Novillo Aguilar, Sergio Armando Cusicanqui Loayza, Marcelo Alejandro Montenegro Gómez García, Franklin Molina Ortiz, Néstor Huanca Chura, Edgar Montaño Rojas, Marcelino Quispe López, Iván Manolo Lima Magne, María Renee Castro Cusicanqui, Rubén Alejandro Méndez Estrada, Edgar Pary Chambi, Remmy Rubén Gonzales Atila, Sabina Orellana Cruz MINISTRA DE CULTURAS, DESCOLONIZACIÓN Y DESPATRIARCALIZACIÓN E INTERINA DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL.

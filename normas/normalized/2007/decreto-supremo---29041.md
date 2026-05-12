@@ -1,0 +1,25 @@
+# Bolivia: Decreto Supremo Nº 29041, 28 de febrero de 2007
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que el [Decreto Supremo Nº 29024](#TODO-link) de 7 de febrero de 2007 complementa el [Decreto Supremo Nº 29013](#TODO-link) de 18 de enero de 2007 y autoriza al Ministerio de Hacienda efectuar las modificaciones presupuestarias hasta un monto de Bs43.000.000.- (Cuarenta y Tres Millones 00/100 Bolivianos) necesarias para la atención de desastres causados por el fenómeno del Niño, que el sean solicitadas por la Prefectura del Departamento de Tarija para los Municipios de Cercado, San Lorenzo, Yunchara, Padcaya, Uriondo, Entre Ríos, Yacuiba y Caraparí del Departamento Tarija.
+* Que la Resolución de Consejo Departamental No.002/2007 de 19 de enero de 2007, instruye a la Prefectura del Departamento de Tarija gestionar ante el Gobierno Nacional la asignación de los recursos económicos necesarios para la atención de los desastres causados por los fenómenos naturales en las seis (6) Provincias del Departamento; asimismo, las autoridades representativas elegidas democráticamente por el pueblo de Tarija, expresan la necesidad de ampliar el [Decreto Supremo Nº 29024](#TODO-link) incluyendo a los Municipios de Bermejo, El Puente y Villamontes, por los desastres hidrometeorológicos y climáticos que afectan la producción agrícola, obstaculizan las carreteras y privan de las condiciones mínimas de subsistencia de sus pobladores.
+* Que como consecuencia de los desastres naturales ocurridos a finales de enero del presente año en los Municipios de Bermejo, El Puente y Villamontes siendo parte del Departamento de Tarija, se hace necesario emitir el presente Decreto Supremo.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** El presente Decreto Supremo tiene por objeto complementar el [Decreto Supremo Nº 29024](#TODO-link) de 7 de febrero de 2007, incluyendo en el Artículo 1 a los Municipios de Bermejo, El Puente y Villamontes del Departamento de Tarija, a los mismos efectos señalados en el referido Decreto Supremo.
+
+---
+
+Los Señores Ministros de Estado, en los Despachos de la Presidencia y Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiocho días del mes de febrero del año dos mil siete.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker San Miguel Rodríguez, Celima Torrico Rojas, Gabriel Loza Tellería, Luis Alberto Arce Catacora, Abel Mamani Marca, Celinda Sosa Lunda, Jerges Mercado Suárez MINISTRO DE OO. PP. SERVICIOS Y VIVIENDA É INTERINO DE HIDROCARBUROS Y ENERGIA, Susana Rivero Guzmán, José Guillermo Dalence Salinas, Walter Juvenal Delgadillo Terceros MINISTRO DE TRABAJO É INTERINO DE SALUD Y DEPORTES, Victor Cáceres Rodríguez.

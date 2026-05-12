@@ -1,0 +1,33 @@
+# Bolivia: Decreto Supremo Nº 3107, 9 de marzo de 2017
+
+[Decreto Supremo Nº 3107](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 360 de la [Constitución Política del Estado](#TODO-link), determina que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética. Asimismo, el Parágrafo I del Artículo 385 del Texto Constitucional, establece que las áreas protegidas constituyen un bien común y forman parte del patrimonio natural y cultural del país; cumplen funciones ambientales, culturales, sociales y económicas para el desarrollo sustentable.
+* Que el Artículo 34 de la [Ley Nº 3058](#TODO-link), de 17 de mayo de 2005, de Hidrocarburos, dispone que se reservarán áreas de interés hidrocarburífero tanto en Zonas Tradicionales como No Tradicionales a favor de Yacimientos Petrolíferos Fiscales Bolivianos - YPFB, para que desarrolle actividades de Exploración y Explotación por si o en asociación. Estas áreas serán otorgadas y concedidas a YPFB con prioridad y serán adjudicadas de manera directa.
+* Que el Artículo 3 del Reglamento para la Delimitación de Áreas, aprobado por [Decreto Supremo Nº 28366](#TODO-link), de 21 de septiembre de 2005, señala que el área original de cada Contrato Petrolero para la Exploración y Explotación de Hidrocarburos consistirá en un máximo de cuarenta (40) parcelas en la zona tradicional.
+* Que el Artículo 2 del [Decreto Supremo Nº 29130](#TODO-link), de 13 de mayo de 2007, Reglamento de Áreas Reservadas a favor de YPFB, determina que de conformidad a lo establecido en el Artículo 34 de la [Ley Nº 3058](#TODO-link), se reservan veintiún (21) áreas de interés hidrocarburífero a favor de YPFB (Áreas Reservadas), que se encuentran en Zonas Tradicionales y No Tradicionales y están definidas por sus vértices en coordenadas de la Proyección Universal y Transversal de Mercator (UTM, PSAD-56), modificado por los Decretos Supremos [Nº 29226](#TODO-link), de 9 de agosto de 2007, [Nº 0676](#TODO-link), de 20 de octubre de 2010, [Nº 1203](#TODO-link), de 18 de abril de 2012 y [Nº 2549](#TODO-link), de 14 de octubre de 2015.
+* Que el Parágrafo I del Artículo 20 del [Decreto Supremo Nº 2830](#TODO-link), de 6 de julio de 2016, que reglamenta la [Ley Nº 767](#TODO-link), de 11 de diciembre de 2015, de Promoción para la Inversión en Exploración y Explotación Hidrocarburífera, establece que para los fines señalados en el Artículo 34 de la [Ley Nº 3058](#TODO-link) y sus normas reglamentarias, tomando en cuenta las características geológicas del Subandino Sur, el incremento cualitativo y cuantitativo de la información y conocimiento geológico, los importantes descubrimientos comerciales de hidrocarburos realizados en cercanías a Campos con estadísticas de producción comercial de hidrocarburos que cuentan con infraestructura, y la existencia de Contratos de Servicios Petroleros que confirman el interés existente sobre los recursos prospectivos estimados, se amplía la Zona Tradicional a 63.753,94 Km2 (sesenta y tres mil novecientos cincuenta y tres 94/100 kilómetros cuadrados), definida por doscientos cuarenta (240) vértices en coordenadas de Proyección Universal y Transversal de Mercator UTM detalladas en Anexo. Todas las Áreas no comprendidas dentro de la Zona Tradicional integran por definición la Zona No Tradicional con 471.246,06 Km2 (cuatrocientos setenta y un mil doscientos cuarenta y seis 06/100 kilómetros cuadrados).
+* Que el Área San Telmo, incorporada a la Zona Tradicional, mediante el Parágrafo I del Artículo 20 del [Decreto Supremo Nº 2830](#TODO-link), debe adecuarse a lo establecido en el Reglamento para la Delimitación de Áreas, lo cual involucra el incremento de noventa y nueve (99) a cien (100) áreas de interés hidrocarburífero a favor de YPFB conforme a nuevo Anexo, por lo que corresponde modificar el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 29130](#TODO-link) y sus modificaciones.
+* Que como consecuencia de la emisión del [Decreto Supremo Nº 2830](#TODO-link) que dispone la ampliación de la zona tradicional, el área San Telmo con una superficie de 63.753,94 km.2 (sesenta y tres mil novecientos cincuenta y tres 94/100 kilómetros cuadrados), queda incorporada en dicha zona, por lo tanto a objeto de dar cumplimiento al Artículo 34 de la [Ley Nº 3058](#TODO-link) y el Artículo 3 del Reglamento para la Delimitación de Áreas aprobado mediante [Decreto Supremo Nº 28366](#TODO-link), es necesario dividir el Área San Telmo en dos Áreas Norte y Sur sin que estas superen el límite máximo de cuarenta (40) parcelas.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se modifica el Parágrafo I del Artículo 2 del [Decreto Supremo Nº 29130](#TODO-link), de 13 de mayo de 2007, modificado por los Decretos Supremos [Nº 29226](#TODO-link), de 9 de agosto de 2007, [Nº 0676](#TODO-link), de 20 de octubre de 2010, [Nº 1203](#TODO-link), de 18 de abril de 2012 y [Nº 2549](#TODO-link), de 14 de octubre de 2015, con el siguiente texto:
+> “I. De conformidad a lo establecido en los Artículos 34 y 35 de la [Ley Nº 3058](#TODO-link), de 17 de mayo de 2005, de Hidrocarburos, se reservan cien (100) áreas de interés hidrocarburífero a favor de YPFB, en calidad de Áreas Reservadas, que se encuentran en Zonas Tradicionales y Zonas No Tradicionales, y están definidas por sus vértices en coordenadas de la Proyección Universal y Transversal de Mercator (UTM, PSAD-56), detalladas en el Anexo del presente Decreto Supremo.
+>   
+> Las Áreas Reservadas a favor de YPFB, se otorgan, conceden y adjudican a la indicada empresa estatal a objeto de su exploración y explotación por sí misma, asociada con personas de derecho público, en sociedades o bajo el régimen de prestación de servicios.”
+
+---
+
+El señor Ministro de Estado en el Despacho de Hidrocarburos, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de marzo del año dos mil diecisiete.
+  
+Fdo. EVO MORALES AYMA, Fernando Huanacuni Mamani, René Martínez Callahuanca, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Mariana Prado Noya, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernández MINISTRO DE HIDROCARBUROS E INTERINO DE MINERÍA Y METALURGIA, Rafael Alarcón Orihuela, Eugenio Rojas Apaza, Milton Claros Hinojosa, Héctor Enrique Arce Zaconeta, Héctor Andrés Hinojosa Rodríguez, Ariana Campero Nava, Carlos Rene Ortuño Yañez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Wilma Alanoca Mamani, Gisela Karina López Rivas, Tito Rolando Montaño Rivera.

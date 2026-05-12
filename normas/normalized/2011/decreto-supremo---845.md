@@ -1,0 +1,32 @@
+# Bolivia: Decreto Supremo Nº 845, 13 de abril de 2011
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el numeral 9 del Parágrafo II del Artículo 298 de la [Constitución Política del Estado](#TODO-link), establece que son competencias exclusivas del nivel central del Estado la planificación, diseño, construcción, conservación y administración de carreteras de la Red Fundamental.
+* Que el Capítulo IV “Bolivia Productiva” del Plan Nacional de Desarrollo - PND aprobado por [Decreto Supremo Nº 29272](#TODO-link), de 12 de septiembre de 2007, tiene como propuesta de cambio, mejorar e integrar el sistema de transporte nacional, en todas sus modalidades (caminera, ferroviaria, aeronáutica y fluvial lacustre) como componente significativo del desarrollo y la ampliación de mercados para la producción boliviana, contribuyendo a los esfuerzos integrales que permitirán a Bolivia salir efectivamente del subdesarrollo económico y social en que se encuentra.
+* Que el PND establece que bajo la estrategia “Desarrollo y Mantenimiento Vial” se aplicarán los programas de Integración Norte, Este y Oeste así como del Sur del país, apoyando a la expansión de las posibilidades productivas y comerciales de cada región. En el caso de la integración del Sur se resalta la importancia del potencial minero, vitivinícola, hidrocarburífero y de turismo de la región; asimismo la importancia económica de concluir el corredor bioceánico oeste-este.
+* Que el Gobierno del Estado Plurinacional de Bolivia ha gestionado ante la Corporación Andina de Fomento - CAF, un préstamo por hasta $us104.300.000.- (CIENTO CUATRO MILLONES TRESCIENTOS mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el “Proyecto Carretera Uyuni - Huancarani - Cruce Condo K”, misma que se encuentra entre los Departamentos de Oruro y Potosí.
+* Que es necesario aprobar las condiciones del Contrato de Préstamo y autorizar su suscripción con la CAF, a objeto de materializar el financiamiento para la ejecución de la “Carretera Uyuni - Huancarani - Cruce Condo K”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** 
+
+1. Se autoriza a la Ministra de Planificación del Desarrollo, a suscribir con la Corporación Andina de Fomento - CAF, en nombre y representación del Estado Plurinacional de Bolivia, el Contrato de Préstamo por un monto de hasta $us104.300.000.- (CIENTO CUATRO MILLONES TRESCIENTOS mil 00/100 DÓLARES ESTADOUNIDENSES), destinados a financiar el “Proyecto Carretera Uyuni - Huancarani - Cruce Condo K”.
+2. Una vez suscrito el Contrato de Préstamo deberá ser remitido a consideración de la Asamblea Legislativa Plurinacional, en cumplimiento a lo dispuesto en la [Constitución Política del Estado](#TODO-link).
+3. Se autoriza al Ministerio de Economía y Finanzas Públicas la suscripción del respectivo Convenio Subsidiario para la transferencia de recursos externos y ejecución del Contrato de Préstamo con la Administradora Boliviana de Carreteras - ABC, en su condición de Organismo Ejecutor, a solicitud del Ministerio de Planificación del Desarrollo, a través del Viceministerio de Inversión Pública y Financiamiento Externo.
+4. Para la asignación de recursos de este crédito, los mismos deberán incorporar una contraparte de los Gobiernos Departamentales. En estos casos se autoriza al Ministerio de Economía y Finanzas Públicas incluir en los convenios subsidiarios correspondientes el débito automático de esta contrapartida.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de abril del año dos mil once.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Oscar Coca Antezana, Sacha Sergio Llorentty Soliz, María Cecilia Chacón Rendón, Elba Viviana Caro Hinojosa, Luís Alberto Arce Catacora, José Luís Gutiérrez Pérez, Ana Teresa Morales Olivera, Walter Juvenal Delgadillo Terceros, José Antonio Pimentel Castillo, Nilda Copa Condori, Félix Rojas Gutiérrez, Nila Heredia Miranda, Julieta Mabel Monje Villa, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Carlos Romero Bonifaz, Nardy Suxo Iturry, Elizabeth Cristina Salguero Carrillo, Iván Jorge Canelas Alurralde.

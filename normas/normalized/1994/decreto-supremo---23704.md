@@ -1,0 +1,30 @@
+# Bolivia: Decreto Supremo Nº 23704, 6 de enero de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que Yacimientos Petrolíferos Fiscales Bolivianos en 26 de abril de 1978, suscribió un contrato de operaciones petrolíferas con las empresas Tesoro Bolivia Petroleum Company, Zapata Exploration Company y Canadian Superior Oil, denominado Grupo Tesoro, para efectuar trabajos en el Bloque XX, aprobado por [Decreto Supremo Nº 15421](#TODO-link) de 24 de abril de 1978, habiendo subrogado Canadian Superior mil el total de sus acciones en favor de Tesoro Bolivia Petroleum Co., aprobado por [Decreto Supremo Nº 23119](#TODO-link) de 29 de abril de 1992.
+* Que en 15 de mayo de 1988, se suscribió un Convenio modificatorio y aclaratorio, entre el Supremo Gobierno, YPFB y el Grupo Tesoro, aprobado por [Decreto Supremo Nº 21968](#TODO-link) de 5 de julio de 1988, que establece bases y cronogramas de pago por parte del Tesoro General de la Nación al Grupo Tesoro por concepto de facturas de gas y petróleo, de inversiones y programa de trabajo por parte de la contratista.
+* Que el Directorio de YPFB mediante resolución 38/89 de 1 de junio de 1989, resolvió aprobar la solicitud de ampliación de plazo para la designación de parcelas inactivas formulada por el Grupo Tesoro, por un año, para el Bloque XX, al amparo de la subcláusula 16.1 del contrato de operación, que estipula fuerza mayor y de la subcláusula 8.1 del Convenio Modificatorio y Aclaratorio de 15 de mayo de 1988, por falta de pago oportuno al Grupo Tesoro.
+* Que el Directorio de YPFB mediante Resolución 99/91 de 20 de noviembre de 1991 y la Junta Directiva Estatal de la empresa fiscal de hidrocarburos, en reunión extraordinaria de 17 de diciembre de 1991, resolvieron aprobar una nueva solicitud del Grupo Tesoro de ampliación de plazo para la designación de parcelas inactivas del referido Bloque XX, por el plazo de un año, del 15 de enero de 1992 al 15 de enero de 1993, de conformidad con lo estipulado en la subcláusula 8.3 del Convenio Modificatorio y Aclaratorio de 15 de mayo de 1988, por falta de pago oportuno de las sumas adeudadas al Grupo Tesoro.
+* Que con anticipación al vencimiento del plazo mencionado en el anterior párrafo, a solicitud del Grupo Tesoro, YPFB y éste, acuerdan modificar los términos del Convenio Modificatorio y Aclaratorio de 15 de mayo de 1988, en la cláusula octava, subcláusula 8.1 Incisos a, b, c y d, determinando un nuevo cronograma para la designación de parcelas inactivas y programa de perforación de pozos respaldado por la contratista con la presentación de boletas de garantía, a ser cobradas por YPFB en caso de incumplimiento, regularizando la situación contractual entre la empresa fiscal de hidrocarburos y el Grupo Tesoro.
+* Que el Directorio de YPFB aprobó estas modificaciones, mediante Resolución 57/93 de 21 de julio de 1993 y la Junta Directiva Estatal con Resolución 10/93 de 21 de julio de 1993, debiendo ser aprobado por decreto supremo para su validez legal.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se aprueba el proyecto de Acuerdo Modificatorio y Ampliatorio a suscribirse entre Yacimientos Petrolíferos Fiscales Bolivianos y el Grupo Tesoro, para la designación de parcelas inactivas y el programa de perforación de pozos a efectuarse en el Bloque XX ubicado en el departamento de Tarija, en todos los términos y condiciones contenidos en el mismo, manteniéndose vigentes las condiciones contractuales del Contrato de Operación Petrolífera de 26 de abril de 1978 y Convenio Modificatorio y Aclaratorio de 15 de marzo de 1988, en la parte que no hayan sido expresamente modificados por el mencionado Acuerdo.
+
+**Artículo 2°.-** Se autoriza a los personeros legales de YPFB a suscribir el proyecto de Acuerdo Modificatorio y Ampliatorio con los personeros legales del Grupo Tesoro, con intervención del Fiscal en materia administrativa y protocolización por ante la Notaría de Minas y Petróleo.
+
+---
+
+Los señores Ministros de Estado en sus respectivos despachos quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los seis días del mes de enero de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Araníbar Quiroga, Carlos Sánchez Berzain, MIN. DE LA PRESIDENCIA Y SUPLENTE DE GOBIERNO, Antonio Céspedes Toro, Carlos Morales Guillén, Fernando Illanes de la Riva, Fernando Romero Moreno, José G. Justiniano Sandoval, Reynaldo Peters Arzabe, Herman Antelo Laughlin.

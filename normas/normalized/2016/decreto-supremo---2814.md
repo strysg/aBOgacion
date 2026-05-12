@@ -1,0 +1,45 @@
+# Bolivia: Decreto Supremo Nº 2814, 22 de junio de 2016
+
+[Decreto Supremo Nº 2814](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo VI del Artículo 370 de la [Constitución Política del Estado](#TODO-link), determina que el Estado, a través de sus entidades autárquicas, promoverá y desarrollará políticas de administración, prospección, exploración, explotación, industrialización, comercialización, evaluación e información técnica, geológica y científica de los recursos naturales no renovables para el desarrollo minero.
+* Que el Artículo 61 de la [Ley Nº 535](#TODO-link), de 28 de mayo de 2014, de Minería y Metalurgia, establece que la Corporación Minera de Bolivia - COMIBOL, en calidad de empresa pública estratégica corporativa, de carácter público, con personería jurídica propia, patrimonio propio, autonomía técnica, administrativa, jurídica y económica, es la responsable de dirigir y administrar la industria minera estatal ejerciendo en nombre del Estado y el pueblo boliviano, el derecho de realizar las actividades de prospección, exploración y explotación, concentración, fundición, refinación, comercialización e industrialización de minerales, metales, piedras preciosas y semipreciosas existentes en las áreas mineras bajo su administración y las de sus empresas filiales y subsidiarias.
+* Que el Parágrafo I del Artículo 68 de la [Ley Nº 535](#TODO-link), dispone que la COMIBOL, por disposición del [Decreto Supremo Nº 28901](#TODO-link), de 31 de octubre de 2006, elevado al rango de [Ley Nº 3719](#TODO-link), de 31 de julio del 2007, asume el dominio total del cerro Pozoconi así como la dirección y administración directa sobre los yacimientos nacionalizados del Centro Minero Huanuni.
+* Que el Parágrafo II del Artículo 68 de la [Ley Nº 535](#TODO-link), señala que la Empresa Minera Huanuni - EMH, es una empresa estatal filial de COMIBOL de carácter público, responsable de realizar actividades de la cadena productiva minera e industrialización de minerales del Centro Minero Huanuni, con base en los lineamientos generales emitidos por el Consejo Superior Estratégico de las Empresas Públicas - COSEEP y su dinámica empresarial.
+* Que la Empresa Minera Huanuni, dependiente de la COMIBOL, cumple las condiciones de endeudamiento establecidas en el Parágrafo IV del Artículo 17 de la [Ley Nº 317](#TODO-link), de 11 de diciembre de 2012, del Presupuesto General del Estado - Gestión 2013, vigente por disposición del inciso j) de la Disposición Final Segunda de la [Ley Nº 769](#TODO-link), de 17 de diciembre de 2015, del Presupuesto General del Estado Gestión 2016.
+* Que la [Ley Nº 232](#TODO-link), de 9 de abril de 2012, modificada por la Disposición Adicional Segunda de la [Ley Nº 550](#TODO-link), de 21 de julio de 2014, crea el “Fondo para la Revolución Industrial Productiva” - FINPRO, y establece los mecanismos de financiamiento y asignación de sus recursos para la implementación de emprendimientos productivos orientados a la transformación de la matriz productiva, industrialización de materias primas, plantas de concentración y fundición de minerales, fortalecimiento de la capacidad extractiva minera, plantas de producción de textiles, plantas de industrialización de alimentos en el marco de la política de seguridad y soberanía alimentaria, y otros proyectos productivos.
+* Que el Parágrafo I del Artículo 5 del [Decreto Supremo Nº 1861](#TODO-link), de 8 de enero de 2014, que reglamenta la aplicación de la [Ley Nº 455](#TODO-link), de 11 de diciembre de 2013, del Presupuesto General del Estado - Gestión 2014, dispone que para la contratación de deuda pública interna y/o crédito externo se deberá contar con la autorización del Directorio o la Máxima instancia resolutiva de cada empresa pública y el cumplimiento de al menos una de las siguientes condiciones: a) contraer endeudamiento hasta una vez su patrimonio; b) demostrar que su flujo de caja futuro es positivo; c) demostrar que se generarán indicadores de liquidez y endeudamiento favorables.
+* Que el Parágrafo I del Artículo 5 del [Decreto Supremo Nº 2644](#TODO-link), de 30 de diciembre de 2015, establece que para la contratación de deuda pública interna y/o crédito externo se deberá contar con la autorización del Directorio o de la Máxima Instancia Resolutiva de cada empresa pública y el cumplimiento de al menos una de las condiciones establecidas para tal efecto.
+* Que mediante Resolución Ministerial N° 146/2016, de 20 de junio de 2016, el Ministerio de Minería y Metalurgia confirma la validez del “Proyecto de Desarrollo, Preparación, Mecanización de Labores Mineras e Infraestructura Operativa - Empresa Minera Huanuni”, a efecto de solicitar su financiamiento al FINPRO.
+* Que una vez cumplidos los requisitos exigidos, el “Proyecto de Desarrollo, Preparación, Mecanización de Labores Mineras e Infraestructura Operativa - Empresa Minera Huanuni”, presentado por el Ministerio de Minería y Metalurgia, ha sido homologado mediante la Resolución de Comité de Homologación de Proyectos del FINPRO Nº 034, de 20 de junio de 2016.
+* Que la Empresa Minera Huanuni, filial de la COMIBOL, como parte de la industria minera Estatal, requiere impulsar su productividad para la contribución y generación de excedentes promoviendo el desarrollo de la actividad minera que ejerce, a través del diseño de proyectos que tiendan a captar inversiones siendo de esta forma necesaria la asignación de recursos por parte del FINPRO.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto autorizar la asignación de recursos económicos provenientes del “Fondo para la Revolución Industrial Productiva” - FINPRO estableciendo las condiciones del préstamo a favor de la Empresa Minera Huanuni dependiente de la Corporación Minera de Bolivia - COMIBOL, para el “Proyecto de Desarrollo, Preparación, Mecanización de Labores Mineras e Infraestructura Operativa - Empresa Minera Huanuni”.
+
+**Artículo 2°.- (Autorización)** En el marco de lo dispuesto por la [Ley Nº 232](#TODO-link), de 9 de abril de 2012, se autoriza al Banco de Desarrollo Productivo - Sociedad Anónima Mixta - BDP S. A. M., suscribir un contrato de préstamo con la Empresa Minera Huanuni, por un monto de hasta Bs252.679.669,94 (DOSCIENTOS CINCUENTA Y DOS MILLONES SEISCIENTOS SETENTA Y NUEVE mil SEISCIENTOS SESENTA Y NUEVE 94/100 BOLIVIANOS), con recursos del FINPRO, para la ejecución del “Proyecto de Desarrollo, Preparación, Mecanización de Labores Mineras e Infraestructura Operativa - Empresa Minera Huanuni”.
+
+**Artículo 3°.- (Plazo, tasa de interés y forma de pago)** El Contrato de préstamo establecerá las siguientes condiciones: I. Deberá establecer un plazo de diez (10) años, con dos (2) años de gracia a capital. II. Se fija una tasa de interés anual del uno por ciento (1%) III. La forma de pago del crédito será realizada anualmente.
+
+**Artículo 4°.- (Garantías)** 
+
+1. En el marco del Artículo 5 de la [Ley Nº 232](#TODO-link), el Ministerio de Economía y Finanzas Públicas, a través del Tesoro General de la Nación - TGN, emitirá Bonos del Tesoro para garantizar la operación de financiamiento señalado en el Artículo 2 del presente Decreto Supremo.
+2. En caso que los Bonos del Tesoro señalados en el Parágrafo anterior sean efectivizados, el Ministerio de Economía y Finanzas Públicas, debitará automáticamente los importes que correspondan, de las cuentas que mantiene la Empresa Minera Huanuni en el Banco Central de Bolivia - BCB y cuentas corrientes fiscales en el sistema financiero nacional, o en su caso se aplicarán otras medidas para la recuperación de la garantía en el marco de la normativa vigente.
+
+**Artículo 5°.- (Evaluación, seguimiento y control)** El Ministerio de Minería y Metalurgia, será el encargado de realizar la evaluación, seguimiento físico-financiero y el control de los recursos del financiamiento otorgado por el FINPRO en favor de la Empresa Minera Huanuni.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Minería y Metalurgia, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en la ciudad de La Paz, a los veintidós días del mes de junio del año dos mil dieciséis .
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sánchez Fernandez, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Félix Cesar Navarro Miranda, Virginia Velasco Condori, José Gonzalo Trigoso Agudo MINISTRO DE TRABAJO, EMPLEO, Y PREVISIÓN SOCIAL E INTERINO DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCIÓN, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Núñez del Prado MINISTRO DE AUTONOMÍAS E INTERINO DE DEFENSA, Marko Marcelo Machicao Bankovic MINISTRO DE CULTURAS Y TURISMO E INTERINO DE DEPORTES, Marianela Paco Duran.

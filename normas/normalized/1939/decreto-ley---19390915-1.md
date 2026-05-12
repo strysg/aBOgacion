@@ -1,0 +1,46 @@
+
+
+# Bolivia: Decreto Ley de 15 de septiembre de 1939
+
+GRAL. CARLOS QUINTANILLA
+  
+Presidente Provisorio de la República
+
+Considerando:
+
+* Que los fondos arbitrales para las obras sanitarias de Tarija, mediante empréstitos autorizados por leyes de 1° de octubre de 1934 y 4 de septiembre de 1937, han resuelto insuficientes para concluir las obras de captación y distribución de aguas potables, siendo necesario obtener nuevos recursos para ello, así como para iniciar los trabajos de alcantarillado;
+* Que los impuestos y recursos creados por [ley de 1° de octubre de 1934](#TODO-link), y parte de los que fija el artículo 4° de la [ley de 12 de noviembre de 1938](#TODO-link), son suficientes para atender el servicio de intereses y amortización de los empréstitos anteriores colocados en el Banco Central de Bolivia, mediante contratos en la Notaría de Hacienda, en esta ciudad, en fechas 7 de febrero de 1935 y 27 de octubre de 1937, con más la ampliación que autoriza el presente Decreto Ley;
+* Con el dictamen afirmativo del Consejo de Ministros;
+
+DECRETA:
+
+**Artículo 1°.-** Se amplía a dos millones de bolivianos (Bs.2.000.000.-) más la autorización concedida al Poder Ejecutivo por leyes de 1°.de octubre de 1934 y 4 de septiembre de 1937, para colocar en el Banco Central de Bolivia, empréstitos para las obras sanitarias de Tarija.
+
+**Artículo 2°.-** Los Bs. 2.000.000.- de la ampliación de los empréstitos, se destinan a la continuación de las obras de captación y distribución de aguas potables de la ciudad de Tarija y a la iniciación del trabajo de alcantarillado de la misma.
+
+**Artículo 3°.-** Quedan afectados y garantizan el servicio de intereses y amortización de los empréstitos anteriores y el de la ampliación autorizada por este Decreto Ley, los siguientes recursos e impuestos:
+
+1. Con todos los recursos e impuestos que detalla el artículo 3° de la Ley de 1°. De octubre de 1934;
+2. Con los impuestos y recursos creados por el artículo 4° del Decreto Ley de 12 de noviembre de 1938, que son:
+   1. El recargo de Bs.2.- sobre quintal español de café que se interne al Departamento de Tarija;
+   2. El recargo de Bs. 8.- por carga de coca internada al mismo Departamento;
+   3. El recargo de bs.2.- por cesto de ají internado al mismo Departamento;
+   4. El impuesto de Bs. 0.10 por botella de chicha elaborada o vendida en la ciudad de Tarija;
+   5. Los impuestos de Bs. 0.20 por botella de vino y Bs.0.30 por botella de alcohol que se interne al Departamento;
+   6. La suma fija de Bs. 100.000.- anuales del rendimiento del impuesto de la corambre correspondiente al Concejo Municipal de Tarija.
+
+**Artículo 4°.-** Todos los recursos e impuestos que garantizas el servicio de intereses y amortización de los empréstitos, no podrán ser revocados modificados ni alterados hasta que no sean totalmente pagados los empréstitos, declarándose expresamente vigentes las disposiciones de las leyes de 1°. de octubre de 1934 y 12 de noviembre de 1938, en cuanto a las seguridades y derechos que otorgan al banco en que se coloquen los empréstitos y exención de pago de impuestos.
+
+**Artículo 5°.-** Se autoriza al banco Central de Bolivia para otorgar la ampliación de los empréstitos anteriores por Bs. 2.000.000.- más, con el interés del seis por ciento al año y la amortización inicial acumulativa del cuatro por ciento también al año, en los mismos términos y condiciones de los contratos anteriores.
+
+**Artículo 6°.-** Se nombra al banco central de Bolivia, Fideicomisario y agente Fiscal de los empréstitos, pagádole al Banco por concepto de administración, el uno por mil anual sobre el monto original de todos los empréstitos, con más el reintegro de los gastos en que incurra, que se descontarán de las recaudaciones de los impuestos afectados a los empréstitos.
+
+**Artículo 7°.-** La administración e inversión de los fondos de este empréstitos se hará por el Comité de Obras sanitarias de Tarija, de acuerdo con el Decreto Supremo de 18 de febrero de 1935.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Hacienda y Estadística y de Obras Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Ley.
+  
+Dado en el Palacio de Gobierno de la ciudad de La Paz, a los quince días del mes de septiembre de mil novecientos treinta y nueve años.
+  
+Gral. C. Quintanilla. F. Pou Mont. B. Navajas Trigo. R. Terrazas. J. E. Anze. F. M. Rivera. A. Mollinedo. A. Ayoroa.

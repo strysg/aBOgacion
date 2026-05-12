@@ -1,0 +1,66 @@
+# Bolivia: Resolución Ministerial de 23 de agosto de 2019
+
+RESOLUCIÓN MINISTERIAL Nº 162
+  
+La Paz, 26 de julio de 2019
+
+VISTOS Y CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 20 de la [Constitución Política del Estado](#TODO-link), señala que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+* Que el Parágrafo II del Artículo 20 de la norma constitucional, establece que es responsabilidad del Estado, en todos los niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el servicio mediante contratos con la empresa privada. La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social.
+* Que el Numeral 1 del Artículo 5 de la [Ley Nº 164](#TODO-link) de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de la Información y Comunicación, establece que el Estado en todos sus niveles de gobierno, promoverá el derecho al acceso universal a las telecomunicaciones y tecnologías de información y comunicación, así como el servicio postal, para todas y todos los habitantes del Estado Plurinacional de Bolivia.
+* Que el Parágrafo I del Artículo 72 de la misma disposición normativa, señala que el Estado en todos sus niveles, fomentará el acceso, uso y apropiación social de las tecnologías de información y comunicación, el despliegue y uso de infraestructura, el desarrollo de contenidos y aplicaciones, la protección de las usuarias y usuarios, la seguridad informática y de redes, como mecanismos de democratización de oportunidades para todos los sectores de la sociedad y especialmente para aquellos con menores ingresos y con necesidades especiales.
+* Que la Disposición Final Séptima del [Decreto Supremo Nº 1391](#TODO-link) de 24 de octubre de 2012, Reglamento General a la [Ley Nº 164](#TODO-link), establece que para expandir la infraestructura de internet de banda ancha, el Ministerio de Obras Públicas, Servicios y Vivienda, a través del Viceministerio de Telecomunicaciones, elaborará el Plan Nacional de Banda Ancha, que contemple, entre otros, conexiones para salida internacional e integración regional, así como conexiones de las ciudades capitales y ciudades intermedias.
+* Que el Resuelve Primero de la Resolución Ministerial Nº 034 de 1 de febrero de 2017, se aprueba el Plan Nacional de Banda Ancha.
+* Que el Resuelve Segundo de la Resolución Ministerial Nº 081 de 15 de marzo de 2017, publicada el 27 de marzo de 2017, se complementa el segundo párrafo del apartado Oferta del Servicio de Acceso a Internet del Punto 10 “Red Troncal Boliviana” del Plan Nacional de Banda Ancha, aprobado mediante Resolución Ministerial Nº 034/2017.
+* Que la Resolución Ministerial N° 047-A de 26 de enero de 2018, se amplía el plazo para elaborar una normativa para el despliegue de redes de telecomunicaciones en redes de electricidad de media tensión, en 18 meses, hasta el 27 de julio de 2019, computables a partir del 27 de enero de 2018.
+* Que mediante Informe Técnico MOPSV/VMTEL/DGT Nº 0120/2019 de 18 de julio de 2019, la Dirección General de Telecomunicaciones del Viceministerio de Telecomunicaciones del Ministerio de Obras Públicas, Servicios y Vivienda, concluye que la propuesta de Reglamento de Despliegue de Cableado de Redes Públicas y Privadas en Postes tiene por objeto normar el despliegue de redes cableadas de telecomunicaciones en postes de redes de telecomunicaciones y de redes distribución de energía eléctrica es viable técnicamente.
+* Que por Informe Jurídico MOPSV/DGAJ Nº 396/2019, se recomienda emitir la correspondiente Resolución Ministerial, que apruebe el Reglamento de Despliegue de Cableado de Redes Públicas y Privadas en Postes en sus ocho artículos.
+* Que el Numeral 22), Parágrafo I del Artículo 14 del [Decreto Supremo Nº 29894](#TODO-link) de 7 de febrero de 2009 de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional, señala que entre las atribuciones de las Ministras y Ministros del Órgano Ejecutivo, se encuentra la de emitir Resoluciones Ministeriales.
+
+POR TANTO:
+
+El Ministro de Obras Públicas, Servicios y Vivienda, en ejercicio de sus atribuciones, conforme el numeral 22) del parágrafo I del artículo 14 del [Decreto Supremo Nº 29894](#TODO-link) de 07 de febrero de 2009, de la Estructura Organizativa del Órgano Ejecutivo del Estado Plurinacional.
+
+RESUELVE:
+
+**Primero .-** Aprobar el Reglamento de Despliegue de Cableado de Redes Públicas y Privadas en Postes en sus ocho artículos, que en anexo forma parte indivisible de la presente Resolución Ministerial.
+
+**Segundo .-** La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, en un plazo máximo de:
+
+1. Cinco (5) meses a partir de la publicación de la presente Resolución, emitirá el instructivo de identificación de redes alámbricas.
+2. Ocho (8) meses a partir de la publicación del instructivo de identificación de redes alámbricas, creará la base de datos del registro de redes alámbricas a nivel nacional.
+
+**Tercero .-** Encargar el cumplimiento de la presente Resolución Ministerial, así como su publicación al Viceministerio de Telecomunicaciones y a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+
+---
+
+Regístrese, comuníquese y archívese.
+
+# Anexo Reglamento de despliegue de cableado de redes públicas y privadas en postes
+
+RESOLUCIÓN MINISTERIAL Nº 162
+REGLAMENTO DE DESPLIEGUE DE CABLEADO DE REDES PÚBLICAS Y PRIVADAS EN POSTES
+Artículo 1° (Objeto) El presente Reglamento tiene por objeto establecer los mecanismos y condiciones para el despliegue y ordenamiento de redes de telecomunicaciones en postes de redes de telecomunicaciones y redes de distribución de energía eléctrica.
+Artículo 2° (Ámbito de aplicación) Las disposiciones contenidas en el presente Reglamento son aplicables a todos los operadores que cuenten con redes públicas o privadas que hagan o planifiquen el uso de postes para el despliegue de sus redes.
+Artículo 3° (Despliege de redes alámbricas) El despliegue de cableado para redes externas de Telecomunicaciones, solo podrá ser realizado por operadores que cuenten con licencia otorgada por la ATT.
+Artículo 4° (Definiciones) A los fines del presente reglamento, se adoptan las siguientes definiciones:
+a) Redes Externas de Telecomunicaciones: Son las redes de telecomunicaciones constituidas principalmente por elementos activos y pasivos que son instalados en la intemperie que pueden ser propios o de terceros y se clasifican en:
+1) Aéreos, haciendo uso de postes o torres o
+2) Subterráneos, haciendo uso de cámaras o ductos.
+b) Infraestructura en desuso.- Es todo elemento activo o pasivo que forma parte de la red externa de telecomunicaciones del operador, red pública o red privada, que se encuentre sin uso, no operativo, desconectado o destruido.
+Artículo 5° (Identificación de redes alámbricas)
+I. La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, emitirá el instructivo de identificación de redes alámbricas, que establezca lo siguiente:
+a) El cronograma para que los operadores identifiquen sus respectivas redes alámbricas.
+b) El método de codificación de cables para la identificación de redes alámbricas.
+c) Establecer que otros elementos importantes de la red alámbrica deben ser identificados, como ser elementos activos (amplificadores, nodos ópticos, otros.) y pasivos (cajas de distribución, armarios de distribución, cableado, entre otros.)
+d) El plazo para que los operadores retiren el cableado en desuso de sus redes.
+e) En el caso de redes públicas se deber precautelar la continuidad de los servicios.
+Artículo 6° (Retiro de cables no identificados) Posterior a los plazos establecidos por la ATT para la identificación y retiro de cables, los dueños de los postes podrán retirar todo cable que no cuente con la identificación correspondiente de un operador legalmente constituido ante la ATT.
+Artículo 7° (Nuevos tendidos de cable)
+I. El despliegue de redes alámbricas por ductos subterráneos serán priorizados por los operadores.
+II. Los nuevos tendidos de cableado deberán ser implementados de acuerdo a instructivo establecido por la ATT.
+III. Los operadores deberán realizar nuevos tendidos de cables considerando la reducción de cableado y utilización de nuevas tecnologías que permitan una menor carga a los postes.
+Artículo 8° (Registro de redes alámbricas) I. La ATT creará y mantendrá actualizada la base de datos del registro de redes alámbricas a nivel nacional.
+II. La información del citado registro tendrá la condición de carácter reservado.
+III. De manera periódica se remitirá al Viceministerio de Telecomunicaciones información estadística generada por este registro.

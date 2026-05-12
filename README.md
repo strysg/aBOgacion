@@ -31,10 +31,29 @@ normas
 ...
 ```
 
+## Obtener datos
+
+```
+# Activar entorno virtual, luego:
+# lexivox
+cd src/scraper/lexivox
+python obtener_metadata.py
+python obtener_normas.py
+
+# gaceta
+cd <ruta raiz del proyecto>
+python obtener_gaceta.py
+```
+
+Todo se guardara en `normas/raw`
+
+### normalizar archivos markdown
+
+Se debería ejecutar el notebook jupyter: [src/data-handlers/normalize.ipynb](src/data-handlers/normalize.ipynb). Va a guardar las normativas en `normas/normalized`
+
 ## Visor
 
 Construido con node.js para generar un sitio estático con búsqueda de flexsearch.
-
 
 Construir
 ```

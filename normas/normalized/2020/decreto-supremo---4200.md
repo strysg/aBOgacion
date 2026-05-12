@@ -1,0 +1,155 @@
+# Bolivia: Decreto Supremo Nº 4200, 25 de marzo de 2020
+
+[Decreto Supremo Nº 4200](#TODO-link)  
+JEANINE ÁÑEZ CHÁVEZ
+  
+PRESIDENTA CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 35 de la [Constitución Política del Estado](#TODO-link), establece que el Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud.
+* Que el Artículo 37 del Texto Constitucional, dispone que el Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
+* Que el numeral 16 del Artículo 172 de la [Constitución Política del Estado](#TODO-link), señala que es atribución de la Presidenta o del Presidente del Estado, entre otros, preservar la seguridad y la defensa del Estado.
+* Que el numeral 1 del Artículo 5 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, señala que el principio de subsidiariedad, es la toma de decisiones y provisión de los servicios públicos debe realizarse desde el gobierno más cercano a la población, excepto por razones de eficiencia y escala se justifique proveerlos de otra manera.
+* Que el [Decreto Supremo Nº 4196](#TODO-link), de 17 de marzo de 2020, declara emergencia sanitaria nacional y cuarentena en todo el territorio del Estado Plurinacional de Bolivia, contra el brote del Coronavirus (COVID-19).
+* Que el [Decreto Supremo Nº 4199](#TODO-link), de 21 de marzo de 2020, en resguardo estricto al derecho fundamental a la vida y a la salud de las bolivianas y bolivianos, declara Cuarentena Total en todo el territorio del Estado Plurinacional de Bolivia, contra el contagio y propagación del Coronavirus (COVID-19), con suspensión de actividades públicas y privadas en atención a la declaración de emergencia sanitaria nacional.
+* Que el Órgano Ejecutivo del nivel central del Estado, a través de sus distintas Carteras de Estado, ha realizado los mayores esfuerzos mediante la información, diálogo, acciones, medidas y concientización contra el contagio y propagación del Coronavirus (COVID-19). Sin embargo, grupos de personas han omitido cumplir la Constitución, la Ley, los Decretos Supremos, poniendo en riesgo la salud de las bolivianas y los bolivianos, provocando la destrucción de bienes del Estado, bloqueo de carreteras, y alteración del orden público, generando incertidumbre y zozobra en la población cuyas consecuencias podrían desencadenar un contagio y propagación mayor de la enfermedad.
+* Que en el marco de lo dispuesto por la [Constitución Política del Estado](#TODO-link); y, en resguardo estricto del derecho fundamental de la vida y la salud de las bolivianas y bolivianos, así como restablecer la paz interior en todo el territorio nacional, con la finalidad de evitar el contagio y propagación del Coronavirus (COVID-19) y garantizar la seguridad y tranquilidad de los ciudadanos, es necesario emitir el presente Decreto Supremo.
+
+EL CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto reforzar y fortalecer las medidas en contra del contagio y propagación del Coronavirus (COVID-19) en todo el territorio del Estado Plurinacional de Bolivia.
+
+**Artículo 2°.- (Nuevas medidas y vigencia)** 
+
+1. En el marco de la declaratoria de emergencia sanitaria y cuarentena total se refuerza y fortalece las medidas en contra del contagio y propagación del Coronavirus (COVID-19) en todo el territorio del Estado Plurinacional de Bolivia, a partir de las cero (0) horas del día jueves 26 de marzo de 2020 hasta el día miércoles 15 de abril de 2020 con suspensión de actividades públicas y privadas.
+2. Por la naturaleza de sus funciones y actividades que desarrollarán durante la cuarentena total, se exceptúa de lo establecido en el Parágrafo I del presente Artículo, al personal debidamente acreditado de:
+   1. Servicios de salud del sector público y privado;
+   2. Fuerzas Armadas;
+   3. Policía Boliviana;
+   4. Instituciones, empresas de servicios públicos e industrias públicas y privadas;
+   5. Entidades financieras bancarias y entidades financieras no bancarias, públicas, privadas o mixtas.
+   6. Entidades públicas, instituciones privadas y particulares que brindan atención y ciudado a población vulnerable, debiendo establecer prioridades y la asignación del personal estrictamente necesario.
+3. Se exceptúa de lo establecido en el Parágrafo I del presente Artículo:
+   1. Los medios de transporte autorizados para atender emergencias que se puedan presentar, previa autorización de la entidad competente;
+   2. Los medios de transporte para el traslado del personal de los servicios de salud del sector público y privado, Fuerzas Armadas, Policía Boliviana, medios de comunicación y otros que por la naturaleza de servicio estratégico incluido aquellas dedicadas al abastecimiento de artículos de primera necesidad, farmacéuticos y que brindan atención y ciudado a la población vulnerable que deban desarrollar actividades.
+4. Excepcionalmente, podrán circular durante la cuarentena total en el horario de 06: 00 de la mañana a 13: 00 horas personas que trabajan en tiendas de barrio, mercados, supermercados y centros de abastecimiento de artículos de primera necesidad; para lo cual deberán prever el personal mínimo para la atención a los proveedores.
+5. Excepcionalmente, podrán circular durante la cuarentena total personas que necesiten atención médica y que se encuentren en situación de caso fortuito o fuerza mayor.
+
+**Artículo 3°.- (Defensa de la vida y salud)** Las Fuerzas Armadas y la Policía Boliviana en cumplimiento de sus atribuciones constitucionales en los casos que sean necesarios aplicarán medidas coercitivas para asegurar el mantenimiento del orden público, el Estado de Derecho, la paz social y fundamentalmente la defensa de la vida y la salud de los estantes y habitantes del Estado Plurinacional de Bolivia, en el marco de lo dispuesto por la [Constitución Política del Estado](#TODO-link).
+
+**Artículo 4°.- (Medidas)** Se establecen las siguientes medidas en todo el territorio del Estado Plurinacional de Bolivia:
+
+1. Queda prohibida la circulación de vehículos motorizados públicos y privados salvo los medios de transporte para el traslado de las Fuerzas Armadas, la Policía Boliviana y servicios de salud público y privado y otros que por naturaleza estratégica estén dedicadas a la prestación de servicios básicos y al abastecimiento de artículos de primera necesidad;
+2. Queda terminantemente prohibido portar todo tipo de armas de fuego, armas blancas y cualquier material explosivo que pudiera atentar contra la integridad de las personas o los bienes públicos o privados;
+3. Queda prohibida la organización de reuniones sociales, políticas, mítines, manifestaciones, huelgas y bloqueos de calles, caminos urbanos, rurales y vecinales.
+
+**Artículo 5°.- (Circulación)** 
+
+1. Los estantes y habitantes del Estado Plurinacional de Bolivia, deberán permanecer en sus domicilios o en la residencia en la que se encuentren; solo podrán realizar desplazamientos mínimos e indispensables una persona por familia cuya edad este comprendida entre los dieciocho (18) y sesenta y cinco (65) años, en el horario de 07: 00 de la mañana a 12: 00 del mediodía, a fin de abastecerse de productos e insumos necesarios en las cercanías de su domicilio o residencia, según la terminación del último dígito de su Cédula de Identidad - C. de acuerdo con el siguiente detalle:
+   1. Lunes, las personas cuya numeración de C. I. termina en 1 y 2;
+   2. Martes, las personas cuya numeración de C. I. termina en 3 y 4;
+   3. Miércoles, las personas cuya numeración de C. I. termina en 5 y 6;
+   4. Jueves, las personas cuya numeración de C. I. termina en 7 y 8;
+   5. Viernes, las personas cuya numeración de C. I. termina en 9 y 0.
+2. Para la aplicación del Parágrafo precedente, las personas con identificación alfanumérica deben considerar el último dígito numérico contiguo.
+3. Las Fuerzas Armadas y la Policía Boliviana mediante medios de comunicación gratuitos solidarios, colaborarán con las personas mayores de sesenta y cinco (65) años en estado de necesidad y/o indefensión para brindarles asistencia a objeto que puedan abastecerse de productos e insumos necesarios.
+4. De manera excepcional, para los estantes y habitantes del Estado Plurinacional de Bolivia, se amplía la vigencia de las C. I. vencidas a partir de noviembre de 2019 hasta junio de 2020.
+5. Las personas que incumplan lo dispuesto en el Parágrafo I del presente Artículo referente al día y terminación del último dígito de su C. I. serán pasibles a una multa pecuniaria por el monto de Bs1000.- (UN mil 00/100 BOLIVIANOS).
+
+**Artículo 6°.- (Horario de apertura y atención)** 
+
+1. En el marco de la emergencia sanitaria nacional y cuarentena total y el presente Decreto Supremo se establece el horario de 08: 00 a 12: 00 horas para la apertura y atención al público de entidades financieras bancarias y entidades financieras no bancarias, públicas, privadas o mixtas y, tiendas de barrio, mercados, supermercados y centros de abastecimiento de artículos de primera necesidad.
+2. Se exceptúa de lo establecido en el Parágrafo precedente a los establecimientos farmacéuticos y de salud, incluidos consultorios privados, postas sanitarias y otros de salud de los diferentes niveles.
+
+**Artículo 7°.- (Producción y abastecimiento)** 
+
+1. Las empresas públicas y privadas, personas dedicadas a la producción de alimentos, la provisión de insumos para ésta, así como, a la elaboración de productos de higiene y medicamentos, deberán desarrollar sus actividades ininterrumpidamente o de acuerdo a la modalidad aplicable a su actividad, a fin de garantizar la cadena productiva y de abastecimiento.
+2. Las empresas públicas y privadas, personas dedicadas a las actividades de abastecimiento o productores de artículos de primera necesidad, deberán desarrollar sus actividades de lunes a domingo las vienticuatro (24) horas del día, a fin de garantizar el abastecimiento de productos a toda la población. El abastecimiento con sus proveedores deberá ser en horario de 14: 00 a 05: 00 horas, de acuerdo a la modalidad aplicable a su actividad.
+3. Las empresas públicas, privadas y personas dedicadas a las actividades de abastecimiento de artículos de primera necesidad, deben proporcionar los medios de transporte y las autorizaciones correspondientes para el desplazamiento de su personal.
+4. Las empresas que prestan servicios de abastecimiento de gasolina, gas, diésel y otros carburantes, deberán desarrollar sus actividades de forma ininterrumpida.
+
+**Artículo 8°.- (Medios de pago)** 
+
+1. El Banco Central de Bolivia - BCB, en coordinación con la Autoridad de Supervisión del Sistema Financiero - ASFI y con las Entidades de Intermediación Financiera y de Servicios Complementarios, dispondrán de los mecanismos necesarios para garantizar la circulación de la moneda nacional en todo el territorio del Estado.
+2. Las Autoridades del Órgano Ejecutivo facilitarán la circulación de vehículos de las Empresas Transportadoras de material monetario y valores, para garantizar el permanente abastecimiento de efectivo en las Entidades de Intermediación Financiera, así como en los cajeros automáticos.
+3. El BCB y las Entidades de Intermediación Financiera facilitarán el uso masivo de medios de pago electrónicos para la compra de bienes y servicios. al efecto se dispone la validez de la firma electrónica en transacciones financieras, sin restricciones para la celebración de contratos financieros y de compras vía remota, mediante el uso de claves de seguridad y contraseñas con las medidas de seguridad dispuestas por las Entidades de Intermediación Financiera.
+4. La ASFI en coordinación con el BCB y las Entidades de Intermediación Financiera, deben garantizar en todo el territorio nacional que los cajeros automáticos cuenten con efectivo.
+5. Para el cumplimiento del Parágrafo precedente, la provisión de efectivo en los cajeros automáticos se realizará ininterrumpidamente o de acuerdo a la modalidad aplicable a su actividad.
+6. El BCB y la ASFI emitirán los reglamentos que sean necesarios para el cumplimiento de lo dispuesto en el presente Artículo.
+
+**Artículo 9°.- (Deber de colaboración)** 
+
+1. En el marco de la emergencia sanitaria nacional y el presente Decreto Supremo, todas las instituciones y entidades públicas y las personas privadas naturales y jurídicas en coordinación con las distintas Carteras de Estado del Órgano Ejecutivo y las Entidades Territoriales Autónomas, deberán prestar su máxima colaboración temporalmente para disponer y utilizar los bienes y servicios necesarios que garanticen la lucha contra el contagio y propagación del Coronavirus (COVID-19).
+2. El nivel central del Estado y las Entidades Territoriales Autónomas, en el marco de sus atribuciones, competencias y responsabilidades, garantizarán la compensación razonable por la utilización de los bienes y servicios prestados por personas privadas naturales y jurídicas.
+
+**Artículo 10°.- (Pago y reducción temporal de tarifas eléctricas y de agua potable)** 
+
+1. El gobierno nacional pagará las facturas de energía eléctrica de la categoría domiciliaria del país que consuman hasta Bs120.- (CIENTO VEINTE 00/100 BOLIVIANOS) correspondientes a los meses de abril, mayo y junio de 2020. Asimismo, el gobierno nacional pagará el cincuenta por ciento (50%) del consumo de agua de la categoría domiciliaria, de los meses de abril mayo y junio como consecuencia de la declaratoria de emergencia sanitaria nacional y cuarentena total por el Coronavirus (COVID-19).
+2. Para la aplicación del Parágrafo precedente, la Autoridad de Fiscalización de Electricidad y Tecnología Nuclear - AETN diseñará e implementará el procedimiento para las empresas distribuidoras de electricidad del país, y la Autoridad de Fiscalización y Control Social de Agua Potable y Saneamiento Básico - AAPS, diseñará e implementará el procedimiento, según corresponda.
+
+**Artículo 11°.- (Canasta familiar)** Se otorga una Canasta Familiar a los hogares bolivianos con menores ingresos a ser distribuida en todo el territorio boliviano, de acuerdo a reglamentación que será emitida por el Ministerio de Desarrollo Productivo y Economía Plural y el Ministerio de Economía y Finanzas Públicas.
+
+**Artículo 12°.- (Rectoría de salud)** 
+
+1. En el marco de la emergencia sanitaria nacional y cuarentena total, y de acuerdo a la competencia establecida en el numeral 17 del Parágrafo II del Artículo 298 y la competencia concurrente dispuesta por el numeral 2 del Parágrafo II del Artículo 299 de la [Constitución Política del Estado](#TODO-link), el nivel central del Estado tiene la competencia de elaborar la política nacional de salud y las normas nacionales que regulen el funcionamiento de todos los sectores, ámbitos y prácticas relacionadas con la salud. Asimismo, el nivel central del Estado se constituye en el Órgano Rector del sistema de salud.
+2. En el marco de la emergencia sanitaria nacional y cuarentena total, las Entidades Territoriales Autónomas en el marco de sus competencias deberán ejercer la rectoría en salud en sus jurisdicciones conforme a los lineamientos y políticas emitidas por el nivel central del Estado.
+3. En caso de incumplimiento por las Entidades Territoriales Autónomas de lo señalado en el Parágrafo precedente, los Servicios Departamentales de Salud - SEDES de manera excepcional y temporal pasarán a dependencia técnica, administrativa y de gestión, al Ministerio de Salud, para lo cual se autoriza al Ministerio de Economía y Finanzas Públicas, realizar las modificaciones presupuestarias correspondientes.
+4. Las Máximas Autoridades Ejecutivas de los SEDES que incumplan lo señalado en el Parágrafo II del presente Artículo serán sujetos de denuncia penal correspondiente ante el Ministerio Público por la comisión de delitos contra la salud pública.
+
+**Artículo 13°.- (Incumplimiento y sanción)** 
+
+1. Las personas que incumplan lo dispuesto por el presente Decreto Supremo, serán sujeto de arresto de ocho (8) horas más la imposición de una multa pecuniaria por el monto de Bs1.000.- (UN mil 00/100 BOLIVIANOS) sin perjuicio de denuncia penal correspondiente ante el Ministerio Público por la comisión de delitos contra la salud pública.
+2. Las personas que inciten el incumplimiento del presente Decreto Supremo o desinformen o generen incertidumbre a la población, serán sujeto de denuncia penal por la comisión de delitos contra la salud pública.
+3. Los establecimientos privados que incumplan lo dispuesto por el presente Decreto Supremo serán sancionados con la clausura definitiva.
+4. Los conductores de los vehículos que incumplan con lo señalado en el presente Decreto Supremo y que no cuenten con autorización para la circulación, serán pasibles al secuestro de sus vehículos hasta la conclusión de la cuarentena total y sujeto de arresto de ocho (8) horas, sin perjuicio de denuncia penal correspondiente ante el Ministerio Público por la comisión de delitos contra la salud pública. Adicionalmente, los conductores de los vehículos serán pasibles a una multa pecuniaria de Bs1.500.- (UN mil QUINIENTOS 00/100 BOLIVIANOS) en el caso de los vehículos de dos (2) ruedas y, una multa pecuniaria de Bs2.000.- (DOS mil 00/100 BOLIVIANOS), en el caso de vehículos de más de dos (2) ruedas.
+5. Las personas que cometan delitos contra la salud pública serán pasibles a la privación de libertad de uno (1) a diez (10) años, conforme lo dispuesto por el Código Penal.
+     
+
+   # Disposiciones adicionales
+
+**Disposición Adicional Primera.-** En el marco del [Decreto Supremo Nº 4197](#TODO-link), de 18 de marzo de 2020, que declara emergencia sanitaria nacional, el [Decreto Supremo Nº 4199](#TODO-link), de 21 de marzo de 2020, que declara cuarentena total, el presente Decreto Supremo y demás normativa conexa, las Entidades Territoriales Autónomas en aplicación de sus atribuciones, competencias y responsabilidades, dictarán los Autos de Buen Gobierno y emitirán la normativa necesaria para evitar la propagación y contagio del Coronavirus (COVID-19).
+
+**Disposición Adicional Segunda.-** 
+
+1. En el marco del [Decreto Supremo Nº 4197](#TODO-link), que declara emergencia sanitaria nacional, el [Decreto Supremo Nº 4199](#TODO-link), que declara cuarentena total, el presente Decreto Supremo y demás normativa conexa y, considerando el principio de subsidiariedad establecido en numeral 12 del Artículo 5 de la [Ley Nº 031](#TODO-link), de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, las Entidades Territoriales Autónomas de manera excepcional tienen la obligación de auxiliar, dotar de carburantes, alimentos, transporte, y otros inherentes a las necesidades de los miembros de las Fuerzas Armadas, la Policía Boliviana y servicios de salud, previa solicitud de los Ministerios de Defensa, Gobierno y/o Salud que se encuentren desplazados en su jurisdicción a fin de asegurar el mantenimiento del orden público, la paz social, el derecho a la vida y la salud.
+2. Para el cumplimiento del Parágrafo precedente las Máximas Autoridades Ejecutivas de las Entidades Territoriales Autónomas deberán:
+   1. Coordinar con los Ministerios de Defensa, Gobierno y/o Salud;
+   2. Realizar las modificaciones presupuestarias correspondientes.
+        
+
+      # Disposiciones transitorias
+
+**Disposición Transitoria Primera.-** 
+
+1. Ante la emergencia sanitaria nacional y cuarentena total se autoriza, a la Gestora Pública de la Seguridad Social de Largo Plazo, al Servicio Nacional del Sistema de Reparto - SENASIR y las Administradoras de Fondos de Pensiones - AFP’s, brindar ciudado a la población vulnerable para lo cual debe aplicar el siguiente procedimiento transitorio para el pago de la Renta Dignidad y Jubilaciones.
+2. Los pagos habilitados y autorizados en la Base de Datos de la Renta Dignidad y los jubilados podrán de manera excepcional ser cobrados en las Entidades Financieras autorizadas por la ASFI por un familiar del beneficiario, en la forma que se establece a continuación:
+   1. El Beneficiario de Renta Dignidad y/o el jubilado, deberá autorizar a un familiar para el cobro del beneficio en su representación, mediante nota impresa o escrita a mano, firmada o autorizada con su huella dactilar, misma que se constituye en declaración jurada;
+   2. Los familiares que podrán ser autorizados para dicho cobro son: cónyuge o conviviente, la hija o el hijo, la nieta o el nieto, la sobrina o sobrino, mismos que deben estar comprendidos entre los dieciocho (18) y sesenta y cinco (65) años del beneficiario de Renta Dignidad y/o jubilación;
+   3. Para el cobro de la Renta Dignidad y/o jubilación de manera excepcional, el familiar detallado en el inciso precedente, deberá necesariamente presentar:
+      1. Cédula de Identidad del Beneficiario de Renta Dignidad y/o del jubilado en original;
+      2. Cédula de Identidad en original de la persona que cobra este beneficio en representación del Beneficiario;
+      3. Nota de autorización original de acuerdo a la forma prevista en el inciso a) del presente Parágrafo.
+   4. La nota original deberá ser entregada al cajero autorizado al momento del cobro.
+3. La Gestora Pública de la Seguridad Social de Largo Plazo, el SENASIR y las AFP’s, en coordinación con la Autoridad de Fiscalización y Control de Pensiones y Seguros - APS, dispondrán el procedimiento para la verificación y regularización de registros de los cobros y documentación presentada.
+4. En caso de que la Gestora Pública de la Seguridad Social de Largo Plazo, el SENASIR y las AFP’s reciban denuncias del beneficiario de la Renta Dignidad y/o el jubilado advierta indicios de falsificación de la huella digital o de la firma por parte de la cónyuge o conviviente, hija o el hijo, la nieta o el nieto, la sobrina o sobrino, que cobre la Renta Dignidad y/o jubilación del beneficiario será sujeto de denuncia ante el Ministerio Público.
+
+**Disposición Transitoria Segunda.-** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a través del Tesoro General de la Nación - TGN, realizar en la gestión 2020 la asignación presupuestaria de recursos adicionales a favor del Ministerio de Desarrollo Productivo y Economía Plural, para el cumplimiento del Artículo 11 del presente Decreto Supremo.
+2. A efectos de la otorgación de la Canasta Familiar, se autoriza al Ministerio de Desarrollo Productivo y Economía Plural realizar transferencias público-privadas a favor de los beneficiarios de la Canasta Familiar, cuya reglamentación deberá ser aprobada por el Ministerio de Desarrollo Productivo y Economía Plural y el Ministerio de Economía y Finanzas Públicas.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+**Disposiciones Derogatorias.-** Se deroga el Artículo 3 del [Decreto Supremo Nº 4197](#TODO-link), de 18 de marzo de 2020.
+
+---
+
+Los señores Ministros de Estado en sus respectivos Despachos, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veinticinco días del mes de marzo del año dos mil veinte.
+  
+FDO. JEANINE ÁÑEZ CHÁVEZ, Karen Longaric Rodríguez, Yerko M. Núñez Negrette, Arturo Carlos Murillo Prijic, Luis Fernando López Julio, Carlos Melchor Díaz Villavicencio, José Luis Parada Rivero, Víctor Hugo Zamora Castedo, Álvaro Rodrigo Guzmán Collao, Wilfredo Rojo Parada, Iván Arias Durán, Carlos Fernando Huallpa Sunagua, Álvaro Eduardo Coímbra Cornejo, Oscar Bruno Mercado Céspedes, Aníbal Cruz Senzano, María Elva Pinckert de Paz, Víctor Hugo Cárdenas Conde, Beatriz Eliane Capobianco Sandoval, Martha Yujra Apaza, María Isabel Fernández Suarez, Milton Navarro Mamani.

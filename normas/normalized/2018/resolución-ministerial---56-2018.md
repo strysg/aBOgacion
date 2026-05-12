@@ -1,0 +1,40 @@
+# Bolivia: Resolución Ministerial Nº 56-2018, 25 de julio de 2018
+
+RESOLUCIÓN MINISTERIAL N° 056-18
+  
+La Paz, 06 de junio de 2018
+
+CONSIDERANDO:
+
+* Que los numerales 2, 3 y 4 de Parágrafo I del Artículo 175 de la CPE, establecen como atribuciones de las y los Ministros de Estado: el proponer y dirigir las políticas gubernamentales en su sector; la gestión de la Administración Pública en el ramo correspondiente; y dictar normas administrativas en el ámbito de su competencia.
+* Que el Artículo 356 de la [Constitución Política del Estado](#TODO-link) - CPE establece que las actividades de exploración, explotación, refinación, industrialización, transporte y comercialización de los recursos naturales no renovables tendrán el carácter de necesidad estatal y utilidad pública.
+* Que el Artículo 360 de la [Constitución Política del Estado](#TODO-link) - CPE dispone que el Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética.
+* Que el Parágrafo I del Artículo 362 de la [Constitución Política del Estado](#TODO-link) - CPE, autoriza a Yacimientos Petrolíferos Fiscales Bolivianos - YPFB suscribir contratos, bajo el régimen de prestación de servicios, con empresas públicas, mixtas o privadas, bolivianas o extranjeras, para que dichas empresas, a su nombre y en su representación, realicen determinadas actividades de la cadena productiva a cambio de una retribución o pago por sus servicios.
+* Que el Artículo 366 de la [Constitución Política del Estado](#TODO-link), establece que todas las empresas extranjeras que realicen actividades en la cadena productiva hidrocarburífera en nombre y representación del Estado, estarán sometidas a la soberanía del Estado, a la dependencia de las leyes y de las autoridades del Estado.
+* Que la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005, de Hidrocarburos 3058 define a las Unidades de Trabajo como las obligaciones de trabajo expresadas en números, para las actividades exploratorias (geofísica, magnetometría, gravimetría, perforación de pozos exploratorios y otras actividades exploratorias), que deberán ser ejecutadas por el Titular en las diferentes fases de Exploración.
+* Que los incisos b) y c) del Artículo 21 de la [Ley Nº 3058](#TODO-link), disponen que el Ministerio de Hidrocarburos, tiene como atribuciones las siguientes: Normar en el marco de su competencia, para la adecuada aplicación de la presente Ley y la ejecución de la Política Nacional de Hidrocarburos; y Supervisar el cumplimiento de disposiciones legales y normas en materia de hidrocarburos.
+* Que el Inciso a) del Artículo 35 de la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005, de Hidrocarburos dispone que las Unidades de Trabajo para la primera fase obligatoria del periodo de Exploración, en adición al número mínimo de Unidades determinadas mediante Decreto Reglamentario.
+* Que los Artículos 36 y 37 de la [Ley Nº 3058](#TODO-link) establecen que el mínimo de Unidades de Trabajo para cada fase será determinado mediante Decreto Supremo Reglamentario.
+* Que los Incisos d) y f) del Artículo 67 de la Ley de Hidrocarburos, establecen como una de las Cláusulas Obligatorias de los Contratos Petroleros, la Garantía de cumplimiento de contrato, en caso de empresas subsidiarias o vinculadas la garantía será otorgada por la Casa Matriz y la Garantía bancaria de cumplimiento de Unidades de Trabajo para Exploración (UTE); así como, la Cantidad de Unidades de Trabajo para Exploración (UTE) comprometidas y su equivalencia en dinero.
+* Que la Cláusula 6 de los Contratos Servicios Petroleros - CSP, suscritos por YPFB y los Titulares, estipula las obligaciones relativas a las UTE’s que deben ser incluidas en los Programas de Trabajo y Presupuesto anuales para la realización de Operaciones de Exploración, siendo su ejecución una condicionante para el cambio de Fase dentro del Periodo de Exploración. Asimismo las Obligaciones de UTE para la Fase 1 se encuentran establecidas en el Anexo E de los CSP.
+* Que el [Decreto Supremo Nº 28393](#TODO-link) de 6 de octubre de 2005 aprueba el Reglamento de Unidades de Trabajo para la Exploración, mismo que tiene como finalidad establecer los mecanismos para la aplicación del sistema de Unidades de Trabajo para la Exploración - UTE en los Contratos Petroleros, en el marco de lo dispuesto por la [Ley Nº 3058](#TODO-link) de 17 de Mayo de 2005.
+* Que el Artículo 4 del Reglamento de Unidades de Trabajo para la Exploración establece que, de acuerdo a lo establecido en los incisos d) y f) del Artículo 67 de la Ley de Hidrocarburos, la UTE es valorizada a objeto de establecer la garantía bancaria de cumplimiento de contrato. Dicha valorización, asciende a Cinco mil 00/100 Dólares de los Estados Unidos de América ($us 5.000.00) por UTE.
+* Que el Artículo 5 del Reglamento de Unidades de Trabajo para la Exploración dispone que el valor de la UTE deberá ser reajustado anualmente por el Ministerio de Hidrocarburos mediante Resolución Ministerial. Asimismo, que el incremento o decremento se efectuará con base en el promedio del Índice de Precios al Consumidor de los Estados Unidos de América correspondiente a los doce (12) meses anteriores, publicado en el International Financial Statistics - IFS por el Fondo Monetario Internacional.
+* Que los numerales 2) y 22) del Parágrafo I del Artículo 14 del [Decreto Supremo Nº 29894](#TODO-link), 7 de febrero de 2009, Estructura Organizativa del Órgano establecen que, entre las atribuciones de las y los Ministro de Estado, se encuentran las de: Proponer y dirigir las políticas gubernamentales en su sector; y emitir resoluciones ministeriales, así como bi-ministeriales y multi-ministeriales en coordinación con los Ministros que correspondan, en el marco de sus competencias.
+* Que el Informe Técnico MH-VMEEH-DGEEH-UPNEEH-INF-0019/2018 de 05 de junio de 2018, elaborado por el Viceministerio de Exploración y Explotación de Hidrocarburos concluye que, con la finalidad de dar cumplimiento a lo establecido en el Artículo 5 del Reglamento de Unidades de Trabajo para la Exploración, aprobado por el [Decreto Supremo Nº 28393](#TODO-link) de 06 de octubre de 2005, el valor ajustado de la Unidad de Trabajo de Exploración para la gestión 2018 asciende a $us.6.455,10.- (SEIS mil CUATROCIENTOS CINCUENTA Y CINCO 10/100 Dólares de los Estados Unidos de América) por UTE.
+* Que el Informe Jurídico MH-DGAJ-UAJ-INF-0042/2018 de 05 de junio de 2018, elaborado por Dirección General de Asuntos Jurídicos concluye que el Ministerio de Hidrocarburos debe reajustar anualmente el valor de las Unidades de Trabajo para la Exploración, de conformidad con lo establecido en la [Ley Nº 3058](#TODO-link) de Hidrocarburo, el Artículo 5 del Reglamento de Unidades de Trabajo, aprobado por el [Decreto Supremo Nº 28393](#TODO-link) y en pleno ejercicio de las atribuciones y competencias asignadas por la normativa vigente.
+* Que es pertinente realizar un reajuste al valor monetaria de la Unidad de Trabajo para Exploración - UTE, tomando como base el último incremento del Índice de Precios al Consumidor de los Estados Unidos de América, de acuerdo a lo establecido en la normativa vigente.
+
+POR TANTO:
+
+El Ministro de Hidrocarburos en ejercicio de las atribuciones conferidas por Ley y disposiciones conexas;
+
+RESUELVE:
+
+**Artículo Único.-** Ajustar la valorización de las Unidades de Trabajo para la Exploración - UTE que asciende a $us.6.455,10.- (SEIS mil CUATROCIENTOS CINCUENTA Y CINCO 10/100 Dólares de los Estados Unidos de América) por UTE; en el marco de la [Ley Nº 3058](#TODO-link) de 17 de mayo de 2005 y conforme a lo dispuesto en el Artículo 5 del Reglamento de Unidades de Trabajo aprobado por el [Decreto Supremo Nº 28393](#TODO-link) de 6 de octubre de 2005.
+
+---
+
+Regístrese, comuníquese y archívese.
+  
+FDO. Luis Alberto Sánchez Fernández MINISTRO DE HIDROCARBUROS

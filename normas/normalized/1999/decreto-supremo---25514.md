@@ -1,0 +1,203 @@
+# Bolivia: Decreto Supremo Nº 25514, 17 de septiembre de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la Ley del Mercado de Valores Nº.1834 de fecha 31 de marzo de 1998, faculta al Poder Ejecutivo reglamentarla, para adecuar su aplicación a las necesidades de las entidades que operan en el mercado.
+* Que conforme lo previsto en el artículo 85º de la Ley del Mercado de Valores, es necesario reglamentar mediante norma especial el proceso de titularización y los participantes que intervienen en dicho proceso, cuyas normas generales están contendidas en el Capítulo único, Título VIII de la Ley Número 1834.
+* Que en desarrollo del citado artículo 85 y de acuerdo con lo dispuesto en el numeral 9 del artículo 15º de la Ley del Mercado de Valores, la Superintendencia de Pensiones, Valores y Seguros, en el marco de la [Ley Nº 1834](#TODO-link) ha propuesto las normas complementarias reglamentarias para regular el proceso de titularización.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+## Capítulo I Disposiciones generales
+
+**Artículo 1°.- (Objeto)** El presente Decreto tiene por objeto establecer las normas generales que regulan la organización y actividades de las Sociedades de Titularización y el proceso de titularización, de acuerdo al Capítulo Único, Título VIII de la [Ley Nº 1834](#TODO-link) de 31 de marzo de 1998, en adelante Ley del Mercado de Valores.
+
+**Artículo 2°.- (Definiciones)** Para los efectos del presente Decreto se establecen las siguientes definiciones, además de las previstas por la Ley del Mercado de Valores:
+
+1. Cesión de bienes o activos.- Acto jurídico por el que, una o varias personas individuales o colectivas, transfieren en forma absoluta el derecho de dominio sobre uno o más bienes o activos, presentes o futuros, a un patrimonio autónomo con la única finalidad de que se emitan a su cargo valores a través de un proceso de titularización.
+2. Constitución de Patrimonio Autónomo.- Transferencia efectuada mediante la cesión de bienes o activos, en virtud de contrato suscrito entre el cedente y la sociedad de titularización, o por acto unilateral realizado por la Sociedad de Titularización.
+3. Derecho de dominio.- Es el derecho absoluto, en términos jurídicos y contables, ejercido por la Sociedad de Titularización, sobre los bienes o activos que conforman el patrimonio autónomo para titularización y que, salvo acuerdo expreso en contrario, incluye las garantías y accesorios que lo respaldan. El derecho de dominio, se asimilará a un derecho real.
+4. Patrimonio Autónomo para titularización.- Es el constituido con los bienes o activos cedidos por una o más personas individuales o colectivas y afectados para el propósito de que, a cargo del patrimonio autónomo, se emitan valores.
+5. Titularización.- Proceso por el cual, bienes o activos con características comunes, que generen flujos de caja son agrupados para ser cedidos a un patrimonio autónomo administrado por una Sociedad de Titularización, que sirve de respaldo a la emisión de valores de oferta pública.
+6. Sociedades de Titularización.- Sociedades anónimas de objeto social exclusivo, encargadas de representar y administrar patrimonios autónomos para titularización.
+7. Superintendencia.- Superintendencia de Pensiones, Valores y Seguros que forma parte del Sistema de Regulación Financiera.
+
+## Capítulo II Procesos de titularización
+
+**Artículo 3°.- (Cesión de Bienes o Activos)** A los efectos de la titularización a la que se refiere el artículo 76º de la Ley del Mercado de Valores y en aplicación del artículo 82º de la misma, la cesión de bienes o activos al patrimonio autónomo, comprende la transferencia absoluta del dominio sobre dichos bienes o activos y, salvo pacto en contrario, también la de sus garantías y todos sus accesorios.
+  
+El patrimonio autónomo para titularización no forma parte de la garantía general de los acreedores de los cedentes de los bienes o activos, ni de la Sociedad de Titularización, respondiendo únicamente por las obligaciones derivadas de la emisión de valores efectuada dentro del proceso de titularización.
+  
+Para la libre enajenación, los bienes o activos objeto del patrimonio autónomo deberán ser inscritos en los registros correspondientes de acuerdo a las normas legales vigentes, siendo suficiente para efectos de la titularización la inscripción del contrato o del instrumento que acredite el acto unilateral de cesión.
+  
+En caso de que la cesión de cartera incluya garantías hipotecarias, el Registro de Derechos Reales deberá inscribir el contrato o el instrumento que acredite el acto unilateral de cesión, efectuando la correspondiente anotación en las partidas de los inmuebles afectados.
+
+**Artículo 4°.- (Constitución de Patrimonios Autónomos)** La constitución de patrimonios autónomos para titularización, podrá ser efectuada por:
+
+1. Personas individuales o colectivas, no vinculadas a la Sociedad de Titularización.
+2. Por la propia Sociedad de Titularización.
+
+**Artículo 5°.- (Vía jurídica)** La constitución del patrimonio autónomo, destinado a un proceso de titularización, debe realizarse a partir de:
+
+1. Contrato de cesión irrevocable de bienes o activos, en el caso de las personas comprendidas en el inciso del artículo 4º del presente Decreto Supremo.
+2. Declaración unilateral de cesión irrevocable de bienes o activos, en el caso señalado por el inciso del artículo 4º del presente Decreto Supremo.
+
+**Artículo 6°.- (Valuación de Patrimonios Autónomos)** La Sociedad de Titularización u otra entidad especializada contratada por ésta para tal efecto, procederá a la valuación del patrimonio autónomo para titularización.
+  
+Dicha valuación deberá ser puesta en conocimiento de la Superintendencia, pudiendo ésta requerir complementaciones o ampliaciones a la misma, sin que esto signifique que la Superintendencia asuma responsabilidad sobre la valuación realizada conforme a lo previsto por el presente artículo.
+
+**Artículo 7°.- (Condición de originador)** Cuando el patrimonio autónomo para titularización haya sido constituido mediante contrato celebrado por personas individuales o colectivas no vinculadas a la Sociedad de Titularización, el cedente es originador, de acuerdo al artículo 77º de la Ley del Mercado de Valores.
+  
+Cuando el patrimonio autónomo, sea constituido con bienes o activos de propiedad de la Sociedad de Titularización, en virtud del acto unilateral que dio lugar al patrimonio autónomo, ésta no adquiere la condición de originador al que se refiere el artículo 77º de la Ley del Mercado de Valores.
+  
+A los efectos de los artículos 81º y 102º de la Ley del Mercado de Valores, se considerará como vinculación, la propiedad accionaria igual o mayor al veinte por ciento (20%) del capital social, ya sea de la Sociedad de Titularización o del originador. En caso de constitución de patrimonio autónomo por acto unilateral con la compraventa de bienes o activos, no se aplicará la norma sobre vinculación.
+
+**Artículo 8°.- (Bienes o activos para titularización)** Se podrán realizar procesos de titularización a partir de cualesquiera de los bienes o activos señalados por el artículo 79º de la Ley del Mercado de Valores, siempre que dichos bienes o activos, hayan sido autorizados en forma genérica, mediante Resolución de la Superintendencia aprobada por el Comité de Normas Financieras de Prudencia, en adelante CONFIP.
+  
+Cuando una entidad de intermediación financiera participe en un proceso de titularización, ésta deberá contar con la conformidad previa de la Superintendencia de Bancos y Entidades Financieras, la que en ejercicio de sus atribuciones, impartirá a las entidades que se hallan bajo su supervisión, las instrucciones de carácter general para la aplicación de los procedimientos y prácticas destinadas a su participación en procesos de titularización.
+
+**Artículo 9°.- (Emisión de valores de titularización)** De conformidad con el artículo 76º de la Ley del Mercado de Valores, los valores emitidos a partir de un proceso de titularización serán de oferta pública con sujeción a la presente disposición legal y demás normas legales aplicables.
+
+**Artículo 10°.- (Valores a emitirse)** Dentro del marco señalado por el artículo 83º de la Ley del Mercado de Valores, los valores que se emitan como resultado de procesos de titularización podrán ser:
+
+1. Valores de participación.- Los que representan derechos de participación sobre el patrimonio autónomo. El valor de participación no tiene rendimiento fijo sino, que será el resultado de las utilidades o pérdidas que genere el patrimonio autónomo.
+2. Valores de contenido crediticio.- Los que incorporan el derecho a percibir el pago del capital y de los rendimientos financieros, en los términos y condiciones señalados en el valor respectivo.
+3. Valores mixtos.- Son aquellos que resultan de una combinación de los dos tipos de valores descritos anteriormente, en las condiciones establecidas en los mismos.
+     
+   Las características particulares de los valores y las modalidades señaladas en los incisos anteriores, deben ser claramente identificadas.
+
+**Artículo 11°.- (Mecanismos de cobertura de riesgos)** La cobertura de riesgos de un patrimonio autónomo podrá contar con mecanismos externos e internos de cobertura, los cuales deberán estar claramente identificados en el proceso de titularización.
+
+**Artículo 12°.- (Plazo de redención)** El plazo máximo de redención de los valores resultantes de un proceso de titularización no podrá superar el plazo establecido en el contrato irrevocable de cesión de bienes o activos o el establecido en la declaración escrita que acredite el acto unilateral de cesión. Asimismo, el plazo mínimo de redención de estos valores no podrá ser inferior a un (1) año calendario.
+
+**Artículo 13°.- (Participantes)** De acuerdo a las características de los procesos de titularización, los participantes podrán ser los siguientes:
+
+1. Originador.- Se considera como originador a una o más personas individuales o colectivas, nacionales o extranjeras, sin vinculación con la Sociedad de Titularización de acuerdo al artículo 7º del presente Decreto Supremo, que procede a la cesión de los bienes o activos al patrimonio autónomo.
+     
+   Cuando la Sociedad de Titularización ceda los activos o bienes para constituir el patrimonio autónomo por acto unilateral, ésta no adquiere la condición de originador, en concordancia con lo establecido en el artículo 7º del presente Decreto Supremo.
+2. Sociedad de Titularización.- Es la sociedad anónima de objeto exclusivo autorizada por la Superintendencia, que administra y representa al patrimonio autónomo, ejerciendo asimismo el derecho de dominio sobre los bienes o activos que lo conforman. La Sociedad de Titularización sirve de vehículo para la emisión de valores en los términos previstos en la Ley del Mercado de Valores y el presente Decreto Supremo.
+3. Administradora de bienes o activos.- Es la persona individual o colectiva encargada de cumplir las funciones de conservación, custodia y administración de los bienes o activos que conforman el patrimonio autónomo para titularización.
+     
+   Las actividades de la administración, serán ejercidas por la Sociedad de Titularización, pudiendo delegarse las mismas al originador o a una entidad diferente. Esta delegación no exime de responsabilidad a la Sociedad de Titularización en la realización diligente de los actos necesarios para la consecución de la finalidad del proceso de titularización.
+4. Colocadora.- Es la entidad encargada de la colocación de los valores resultantes de un proceso de titularización en el mercado primario.
+5. Estructurador.- Es el encargado de agrupar bienes o activos con características comunes, para efectos de la constitución de los patrimonios autónomos para titularización. La actividad de estructuración podrá ser realizada por la sociedad de Titularización, por el originador o por otra entidad especializada contratada para tal efecto.
+6. Inversionistas.- Son los tenedores de los valores emitidos por la Sociedad de Titularización por cuenta del patrimonio autónomo.
+7. Representante Común de Tenedores de Valores.- Es quien actúa en representación de los tenedores de valores, emitidos dentro de un proceso de titularización.
+     
+   Será obligatorio el nombramiento y existencia del representante común de tenedores de valores, el mismo que será designado de acuerdo a reglamento que emita la Superintendencia y consignado en el prospecto de la emisión.
+8. Entidad Calificadora de Riesgo.- Es la que otorga la calificación de riesgo a los valores emitidos a través de un proceso de titularización, de conformidad a lo establecido en el Reglamento de Entidades Calificadoras de Riesgo.
+9. Garante.- Es la persona individual o colectiva que otorga garantías adicionales al proceso de titularización.
+
+## Capítulo III Efectos de la cesión de los bienes o activos
+
+**Artículo 14°.- (Efectos de la cesión)** La cesión de bienes o activos para la constitución de patrimonios autónomos para titularización tendrá la eficacia que señala el artículo 519º del Código Civil, ya sea que dicha cesión se realice mediante contratos irrevocables o actos unilaterales de contenido patrimonial al que se refiere el numeral II del artículo 451o del Código Civil como obligación por promesa unilateral, en concordancia con las previsiones de los artículos 955º y 956º de la citada norma.
+
+**Artículo 15°.- (Irrevocabilidad)** La cesión de bienes o activos sujeta a la condición de emisión y colocación de valores de titularización es irrevocable, siendo nula cualquier cláusula del contrato de cesión o de la declaración unilateral de cesión que reserve esta facultad en favor del cedente de los bienes o activos para la constitución del patrimonio autónomo para titularización.
+  
+Unicamente cuando no se cumpla la condición de emisión de valores de titularización, los bienes o activos serán restituidos al cedente, en los términos previstos en el correspondiente instrumento.
+
+**Artículo 16°.- (Solemnidad de la cesión)** El contrato irrevocable de cesión de bienes o activos o el acto unilateral de cesión para la Titularización, deben constar en Escritura Pública.
+
+**Artículo 17°.- (Central de riesgos)** Los deudores del sistema de intermediación financiera cuyos créditos hubieran sido objeto de cesión para la formación de patrimonios autónomos para titularización, permanecerán en la central de riesgos a cargo de la Superintendencia de Bancos y Entidades Financieras, hasta la extinción de su obligación.
+
+## Capítulo IV Sociedades de titularización
+
+**Artículo 18°.- (Actividad)** Las Sociedades de Titularización podrán tener a su cargo la administración de uno o más patrimonios autónomos para titularización. los corresponderá la representación legal y defensa de los intereses de los patrimonios autónomos que administren.
+
+**Artículo 19°.- (Impedimentos)** No podrán ser directores, administradores, apoderados o representantes legales de una Sociedad de Titularización:
+
+1. Los inhabilitados para ejercer el comercio.
+2. Los que tengan auto de procesamiento o sentencia condenatoria por la comisión de delitos comunes.
+3. Los deudores en mora al sistema de intermediación financiera que tengan crédito en ejecución o créditos castigados.
+4. Los que hubieran sido declarados, conforme a procedimientos legales, culpables de delitos económicos contra el orden financiero o en la administración de entidades financieras.
+5. Los responsables de quiebras, por culpa o dolo, en sociedades en general y que hubieran ocasionado la intervención de entidades del sistema financiero.
+6. Los que hubieran sido inhabilitados para ser titulares de cuentas corrientes.
+7. Los Representantes Nacionales, los Concejales Municipales, los alcaldes Municipales, los Oficiales Mayores, los Prefectos de Departamento, los Magistrados y Jueces y los servidores públicos en general con facultades de decisión y representación.
+8. Los directores o administradores de las entidades financieras del Estado, incluyendo el Banco Central de Bolivia.
+9. Quienes tengan conflicto de interés de acuerdo a lo señalado en el artículo 103º de la Ley del Mercado de Valores.
+
+**Artículo 20°.- (Capital social mínimo)** Las Sociedades de Titularización deberán acreditar un capital social mínimo íntegramente suscrito y pagado en Bolivianos, equivalente a 200.000 DEG’s (Doscientos mil Derechos Especiales de Giro). Los aportes de capital deberán hacerse en efectivo.
+  
+Si el capital social o el patrimonio neto de una Sociedad de Titularización se redujere a una cantidad inferior al mínimo establecido, la sociedad estará obligada a adecuarlo dentro del plazo máximo de sesenta (60) días calendario, computables a partir de la generación del hecho.
+  
+Con el objeto de acreditar la adecuación del capital social requerido, se deberá remitir a la Superintendencia dentro del plazo previsto por el párrafo anterior, original o copia legalizada del Testimonio de la Escritura Pública de aumento de capital, debidamente inscrito en el Servicio Nacional de Registro de Comercio (SENAREC).
+  
+El incumplimiento de esta obligación será causal suficiente para que la Superintendencia proceda a cancelar la autorización de funcionamiento y la inscripción en el Registro del Mercado de Valores de la Sociedad de Titularización, y disponer la intervención de la misma, conforme a las normas legales aplicables.
+
+**Artículo 21°.- (Transferencia voluntaria)** La Sociedad de Titularización podrá, previa aprobación de la Superintendencia, transferir voluntariamente los patrimonios autónomos que administra a otra Sociedad de Titularización. Para la correspondiente aprobación por parte de la Superintendencia, la Sociedad de Titularización que transfiere, deberá contar con la previa autorización de la Asamblea General de Tenedores de Valores.
+
+**Artículo 22°.- (Solvencia patrimonial)** Cuando las sociedades de titularización, generen patrimonios autónomos mediante acto unilateral, a partir de bienes o activos adquiridos, éstas deberán mantener en todo momento un coeficiente de adecuación patrimonial de por lo menos el diez por ciento (10%) con relación a los bienes o activos adquiridos, ponderados según riesgo. Dicha ponderación se establecerá mediante reglamento especial aprobado por el CONFIP.
+
+## Capítulo V Liquidación
+
+**Artículo 23°.- (Liquidación del Patrimonio Autónomo)** Procederá la liquidación del o de los patrimonios autónomos para titularización por cualquiera de las siguientes causales:
+
+1. Disolución y liquidación voluntaria de la Sociedad de Titularización en su condición de administrador del patrimonio autónomo, si no hubiese sido posible la transferencia del patrimonio autónomo a otra Sociedad de Titularización
+2. Cuando por intervención a la Sociedad de Titularización, la Superintendencia disponga la cancelación de la autorización y registro de la misma, si no hubiese sido posible la transferencia del patrimonio autónomo a otra Socieda de Titularización.
+3. Cuando la Asamblea General de Tenedores de Valores lo acuerde.
+4. Destrucción de los bienes o activos cedidos al patrimonio autónomo, cuando la misma afecte significativamente al patrimonio autónomo, de acuerdo a criterio de la Superintendencia.
+5. Otras causales dispuestas por la Superintendencia.
+
+**Artículo 24°.- (Autorización para liquidación voluntaria)** La liquidación voluntaria de un patrimonio autónomo para titularización, por las causales señaladas en la presente norma procederá únicamente con la previa aprobación de la Superintendencia, pronunciada mediante Resolución Administrativa motivada, sin cuyo requisito cualquier acto preparatorio para la liquidación o de realización de la misma, será nulo de pleno derecho, bajo la responsabilidad civil y penal del administrador del patrimonio autónomo para titularización.
+
+**Artículo 25°.- (Disolución y liquidación voluntaria)** La disolución y liquidación voluntaria de una Sociedad de Titularización, así como su respectivo procedimiento, se regula por las normas del Código de Comercio, en concordancia con la Ley del Mercado de Valores y sus disposiciones reglamentarias, previa autorización de la Superintendencia.
+
+## Capítulo VI Infracciones, sanciones e intervención
+
+**Artículo 26°.- (Infracción y Sanciones)** El incumplimiento a las disposiciones de la Ley del Mercado de Valores y sus reglamentos por parte de los participantes que intervienen en el proceso de titularización, se sancionará conforme a las normas legales pertinentes.
+
+**Artículo 27°.- (Intervención y liquidación forzosa)** La Superintendencia podrá disponer la intervención y liquidación forzosa de una Sociedad de Titularización, por cualquiera de las siguientes causales:
+
+1. En el caso de que la Sociedad de Titularización no estuviese en condiciones de seguir administrando patrimonios autónomos a su cargo.
+2. Utilización indebida de los bienes o activos que conforman el patrimonio autónomo, así como de sus garantías y demás accesorios, en forma distinta a lo establecido por el contrato o la declaración unilateral de cesión de bienes o activos.
+3. Utilización de los recursos generados por los bienes o activos que forman el patrimonio autónomo, en forma distinta a lo establecido por el contrato o la declaración unilateral de cesión de bienes o activos.
+4. Otras que por causa atribuible a la Sociedad de titularización perjudiquen los intereses de los tenedores y aquellas que disponga la Superintendencia mediante Resolución fundada.
+5. Incumplimiento del coeficiente de adecuación patrimonial mínimo establecido en el artículo 22º del presente Decreto Supremo, cuando corresponda.
+
+## Capítulo VII Otras disposiciones
+
+**Artículo 28°.- (Tratamiento Tributario)** Los procesos de titularización se sujetarán al siguiente tratamiento tributario:
+
+1. Para la exención del Impuesto a las Transacciones y del Impuesto al Valor Agregado, a que se refiere el artículo 86º de la Ley del Mercado de Valores, se entiende por inicio del proceso de titularización, el contrato de cesión de bienes o activos o la transferencia, por cualquier título, de los bienes o activos en favor de la Sociedad de Titularización, para su posterior cesión al patrimonio autónomo por acto unilateral, con el propósito exclusivo de emitir valores dentro del proceso de titularización.
+     
+   Se entenderá como finalización del proceso de titularización, la extinción del patrimonio autónomo.
+2. En cumplimiento a lo dispuesto en el artículo 86º de la Ley del Mercado de Valores, están exentos del pago de Tasas o derechos de registro, la inscripción de los bienes o activos cedidos para la constitución del patrimonio autónomo de titularización, ya sea en el Registro de Derechos Reales, cuando corresponda, así como en otros registros.
+     
+   La exención de los tributos señalados, así como de las tasas o derechos de registro, para su aplicación no requieren de reconocimiento o formalización expresa del Servicio Nacional de Impuestos Internos, de Derechos Reales u otros registros.
+
+**Artículo 29°.- (Ejecución de garantías)** La ejecución coactiva civil de garantías reales sobre créditos hipotecarios y prendarios, que hubieran sido cedidos para la constitución del patrimonio autónomo para titularización, será demandada por la Sociedad de Titularización en
+  
+representación del patrimonio autónomo, sujetándose a las disposiciones contenidas en el Título II, Capítulo Único de la Ley de Abreviación Procesal Civil y de Asistencia Familiar No.1760 promulgada en fecha 28 de febrero de 1997 y al Código de Procedimiento Civil.
+  
+La forma de ejecutar la sentencia se sujetará a las previsiones del artículo 33 de la [Ley Nº 1760](#TODO-link), de acuerdo al siguiente procedimiento:
+
+1. Dictada la sentencia y verificado el acto de remate, el mandamiento para desapoderar al que se refiere el numeral II del artículo 520º de l Procedimiento Civil, modificado por el artículo 33º de la [Ley Nº 1760](#TODO-link), ordenará la desocupación del inmueble, intimando la entrega del mismo en el plazo de diez (10) días, bajo apercibimiento de lanzamiento por la fuerza pública.
+2. En el caso en que no se entregue el inmueble de acuerdo al numeral anterior, se procederá al lanzamiento facultad de allanamiento de acuerdo al artículo 635º del Código de Procedimiento Civil. El lanzamiento se sujetará a las previsiones del artículo 636º del Código de Procedimiento Civíl
+
+**Artículo 30°.- (Facultades de NAFIBO SAM)** La Nacional Financiera Boliviana Sociedad Anónima de Economía Mixta, en adelante NAFIBO S.A. M., autorizada por Ley como Sociedad de Titularización podrá realizar todos los actos jurídicos y actividades que la Ley de Mercado de Valores y el presente Decreto Supremo establecen para las Sociedades de Titularización . Para tal efecto NAFIBO S.A. M., como Sociedad de economía mixta que se encuentra dentro del campo del derecho privado, de acuerdo a las previsiones del artículo 27.- la norma de supervisión del artículo 29 y la disposición sobre régimen administrativo contenida en el artículo 33º del [Decreto Supremo Nº 25338](#TODO-link) de 29 de marzo de 1999, podrá comprar bienes o activos para ser titularizados o contratar los servicios que requiera para viabilizar los procesos de titularización.
+  
+En el caso, de que NAFIBO S.A. M. incurra en alguna de las causales establecidas en el artículo 27 del presente decreto supremo, la Superintendencia podrá disponer la suspensión forzosa de sus actividades como Sociedad de Titularización, debiendo proceder a la transferencia a otra sociedad de titularización, del o de los patrimonios autónomos para titularización a su cargo
+
+**Artículo 31°.- (Obligaciones de NAFIBO SAM)** NAFIBO S.A. M. autorizada por Ley para realizar actividades como Sociedad de Titularización, está exenta de los requisitos de constitución establecidos en el presente Reglamento.
+  
+Respecto a sus actividades como Sociedad de Titularización, está obligada a inscribirse en el Registro del Mercado de Valores, debiendo remitir todos los documentos requeridos por la Superintendencia. Asimismo, NAFIBO S.A. M. deberá dar cumplimiento a todas las obligaciones de información previstas por las normas vigentes.
+
+**Artículo 32°.- (Facultad de reglamentación)** Conforme con lo previsto en los artículos 15º y 85º de la Ley del Mercado de Valores, facúltase a la Superintendencia de Pensiones, Valores y Seguros, dentro del marco de dicha Ley y del presente Decreto Supremo, la reglamentación de los aspectos relacionados con los procesos de titularización previa aprobación del CONFIP, cuando corresponda.
+
+## Disposiciones finales
+
+**Artículo final Único.- (Abrogaciones y Derogaciones)** Quedan derogadas todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+El señor Ministro de Estado en el despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez y siete días del mes de septiembre de mil novecientos noventa y nueve años.
+  
+FDO. HUGO BANZER SUAREZ, Jorge Soruco Villanueva Ministro Interino de RR.EE. Y Culto,Franz Ondarza Linares, Walter Guiteras Denis, Jorge Crespo Velasco, Herbert Müller Costas , Juan Antonio Chahín Lupo, José Luis Lupo Flores, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Luis Vazquez Villamor, Oswaldo Antezana Vaca Diez, José Antonio Barriga Arroyo Ministro Interino de Desarrollo Sostenible y Planificación, Adhemar Guzmán Ballivian Ministro Interino de Comercio Exterior e Inversión, Rubén Poma Rojas, Jorge Landivar Roca.

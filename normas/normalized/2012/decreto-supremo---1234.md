@@ -1,0 +1,29 @@
+# Bolivia: Decreto Supremo Nº 1234, 16 de mayo de 2012
+
+DECRETO SUPREMO N° 1234
+  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Artículo 2 del [Decreto Supremo N° 0423](#TODO-link), de 10 de febrero de 2010, dispone la creación de la Agencia Boliviana Espacial - ABE, como institución pública descentralizada de derecho público, con personería jurídica propia, autonomía de gestión administrativa, financiera, legal y técnica, y patrimonio propio, bajo tuición del Ministerio de Obras Públicas, Servicios y Vivienda.
+* Que el Parágrafo II del Artículo Único del [Decreto Supremo N° 0599](#TODO-link), de 18 de agosto de 2010, determina que la ABE, tiene la calidad de Empresa Pública Nacional Estratégica.
+* Que el Artículo 30 de la [Ley N° 062](#TODO-link), de 28 de noviembre de 2010, del Presupuesto General del Estado - Gestión 2011, vigente por el inciso c) de la Disposición Final Tercera de la [Ley N° 211](#TODO-link), de 23 de diciembre de 2011, del Presupuesto General del Estado Gestión - 2012, establece que en los casos que no correspondan a contraparte nacional, la inscripción y/o incremento de presupuesto en las partidas 25200 “Estudios, Investigaciones, Auditorías Externas y Revalorizaciones”, 25800 “Estudios e Investigaciones para Proyectos de Inversión No Capitalizables” y Subgrupo 46000 “Estudios y Proyectos para Inversión” deberá aprobarse mediante Decreto Supremo específico.
+* Que la Resolución Normativa de Directorio del Servicio de Impuestos Nacionales N° 10-0026-11, de 22 de septiembre de 2011, emitida por el Servicio de Impuestos Nacionales, categoriza a la ABE dentro del Grupo de Grandes Contribuyentes - GRACO.
+* Que en función a la categorización establecida por el Servicio de Impuestos Nacionales, la ABE debe presentar los Estados Financieros de la gestión 2011 con Dictamen de Auditoria Externa, a efectos de cumplir los deberes formales dispuestos para Grandes Contribuyentes, para lo cual requiere incrementar la subpartida 25230 “Auditorías Externas”.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo Único.-** Se autoriza a la Agencia Boliviana Espacial - ABE incrementar la subpartida 25230 “Auditorías Externas” en Bs. 18.000.- (DIECIOCHO mil 00/100 BOLIVIANOS), financiada con Fuente41 “Transferencias TGN”, a través de un traspaso presupuestario intrainstitucional afectando la partida 25300 “Comisiones y Gastos Bancarios”, para la contratación de una empresa especializada que realice la auditoria externa a los Estados Financieros de la gestión 2011 de la ABE.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas, y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes de mayo del año dos mil doce.
+  
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Carlos Gustavo Romero Bonifaz MINISTRO DE GOBIERNO E INTERINO DE DEFENSA, Elba Viviana Caro Hinojosa, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera MINISTRA DE DES. PRODUCTIVO Y ECONOMÍA PLURAL E INTERINA DE ECONOMÍA Y FINANZAS PUBLICAS, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Felipe Quispe Quenta, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.

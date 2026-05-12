@@ -1,0 +1,35 @@
+# Bolivia: Decreto Supremo Nº 29786, 12 de noviembre de 2008
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que la [Ley Nº 1732](#TODO-link) de 29 de noviembre de 1996, de Pensiones, dispone que los Entes Gestores de cualquier naturaleza que de manera exclusiva, administren los regímenes de vejez, jubilación, invalidez, muerte, riesgos profesionales de largo plazo y seguros especiales de la seguridad social boliviana, mantendrán su personalidad jurídica sólo a los efectos de su liquidación.
+* Que el [Decreto Supremo Nº 25052](#TODO-link) de 23 de mayo de 1998, establece que los activos fijos, valores, acciones y otros títulos, valores, así como los pasivos de los entes gestores señalados en el Artículo 56 de la [Ley Nº 1732](#TODO-link), serán administrados y liquidados por liquidadores designados por el ex Ministerio de Comercio Exterior e Inversión. Los bienes mencionados serán objeto de disposición y transferencia a cargo de la Unidad de Reordenamiento.
+* Que el [Decreto Supremo Nº 26035](#TODO-link) de 22 de diciembre de 2000, dispone que los bienes de los ex Entes Gestores de la Seguridad Social, deberán ser transferidos y dispuestos, conforme al procedimiento establecido en las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+* Que la [Ley Nº 2446](#TODO-link) de 19 de marzo de 2003, de Organización del Poder Ejecutivo, abrogado por [Ley Nº 3351](#TODO-link) de 21 de febrero de 2006, suprime la Unidad de Reordenamiento, establecida por el Artículo 55 de la [Ley Nº 1732](#TODO-link), y dispone que el Reglamento de esa Ley determinará la asignación de las competencias de esa Unidad a los ex Ministros de Hacienda y Desarrollo Económico.
+* Que el Parágrafo II de la Disposición Única de las Disposiciones Finales del [Decreto Supremo Nº 26973](#TODO-link) de 27 de marzo de 2003, que reglamenta la [Ley Nº 2446](#TODO-link), dispone que la Liquidación de los Entes Gestores señalados en los Artículos 55 y 56 de la [Ley Nº 1732](#TODO-link), será ejecutada por el Ministerio de Hacienda, a través del Programa 14 del Presupuesto Operativo 2003 de la ex Unidad de Reordenamiento.
+* Que el Artículo 29 del [Decreto Supremo Nº 28565](#TODO-link) de 22 de diciembre de 2005, establece que la Dirección de Liquidación de los Entes Gestores de la Seguridad Social, se constituye en un Área Organizacional del Servicio Nacional de Patrimonio del Estado - SENAPE, con competencia para administrar, supervisar y controlar los procesos de liquidación de los ex Entes Gestores de la Seguridad Social dispuesta por la [Ley Nº 1732](#TODO-link).
+* Que el [Decreto Supremo Nº 28528](#TODO-link) de 16 de diciembre del 2005, instruye el cierre definitivo de los veintisiete (27) Entes Gestores de la Seguridad Social, y autoriza la baja de activos, disposición de bienes, recuperación de acreencias, atención de procesos judiciales y administrativos, y elaboración de reglamento de recepción y disposición de los bienes citados.
+* Que la Sección III del Capítulo III del Título IV del [Decreto Supremo Nº 29190](#TODO-link) de 11 de julio de 2007, Normas Básicas del Sistema de Administración de Bienes y Servicios, establece la forma de disposición de bienes mediante enajenación a título oneroso, entendiéndose por esta a la transferencia definitiva del derecho propietario de un bien de uso institucional de propiedad de la entidad, recibiendo a cambio una contraprestación económica; la cual podrá darse mediante transferencia onerosa entre entidades públicas o remate.
+* Que las disposiciones normativas precedentes autorizan la transferencia onerosa de bienes de los ex Entes Gestores de la Seguridad Social, mediante la modalidad y procedimiento de disposición definitiva de las Normas Básicas del Sistema de Administración de Bienes y Servicios, las cuales no contemplan la transferencia onerosa directa a favor de Entidades particulares.
+* Que habiendo transcurrido aproximadamente once (11) años desde la Liquidación de los ex Entes Gestores de la Seguridad Social, sin que se hubieran dispuesto la totalidad de sus bienes muebles y dado el prolongado periodo de almacenaje, a la fecha se encuentran en deterioro, obsoletos y sin vida útil.
+* Que a efecto de evitar perdidas, mayores gastos por su almacenamiento, y existiendo una cantidad razonable de solicitudes de Entidades Privadas de adquirir a título oneroso los bienes muebles de los ex Entes Gestores de la Seguridad Social, se ve la necesidad de contar con una disposición legal que permita la transferencia a título oneroso a favor de entidades privadas, con la finalidad de generar recursos directos que cubran las obligaciones emergentes del proceso de Liquidación de los Entes Gestores señalados, sin que signifique un gasto adicional para el Estado, como en el remate, cuyo procedimiento implica mayores gastos que no siempre son cubiertos con los recursos recuperados.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Transferencia onerosa de bienes muebles)** Se autoriza al Ministerio de Hacienda, para que a través del Servicio Nacional de Patrimonio del Estado - SENAPE, transfiera a título oneroso los bienes muebles de los ex Entes Gestores de la Seguridad Social, a favor de Mutualidades, Fundaciones, Unidades Educativas, Asociaciones Civiles, y otras Entidades Particulares sin fines de lucro, que tengan como función la ayuda, ciudado y atención de personas discapacitadas, niños abandonados y personas de la tercera edad. Transferencia que deberá ser aprobada mediante Resolución Ministerial.
+
+**Artículo 2°.- (Clasificación y revalorización)** Los bienes muebles de los ex Entes Gestores de la Seguridad Social, para su disposición a solicitud expresa de las Entidades Privadas del Artículo precedente, deberán ser revalorizados y clasificados de acuerdo a las Normas Básicas del Sistema de Administración de Bienes y Servicios.
+
+---
+
+El señor Ministro de Estado, en el Despacho de Hacienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los doce días del mes de noviembre del año dos mil ocho.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Alfredo Octavio Rada Vélez, Walker Sixto San Miguel Rodríguez, Celima Torrico Rojas, Carlos Villegas Quiroga, Luis Alberto Arce Catacora, René Gonzalo Orellana Halkyer, Susana Rivero Guzmán, Oscar Coca Antezana MINISTRO DE OO. PP. SERVICIOS Y VIVIENDA E INTERINO DE HIDROCARBUROS Y ENERGIA, Luís Alberto Echazú Alvarado, Walter J. Delgadillo Terceros, Roberto I. Aguilar Gómez, Jorge Ramiro Tapia Sainz, Héctor E. Arce Zaconeta.

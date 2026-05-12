@@ -1,0 +1,45 @@
+# Bolivia: Decreto Supremo Nº 2699, 9 de marzo de 2016
+
+[Decreto Supremo Nº 2699](#TODO-link)  
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que la Disposición Adicional Única de la [Ley Nº 571](#TODO-link), de 8 de septiembre de 2014, autoriza a la Empresa de Correos de Bolivia - ECOBOL a transferir a título oneroso, bienes inmuebles de su propiedad, a favor del Ministerio de Economía y Finanzas Públicas.
+* Que el [Decreto Supremo Nº 2140](#TODO-link), de 9 de octubre de 2014, reglamenta la Disposición Adicional Única de la [Ley Nº 571](#TODO-link), estableciendo como forma de pago que el Ministerio de Economía y Finanzas Públicas otorgará a ECOBOL, en calidad de arras el ochenta y dos por ciento (82 %) del precio del total de los bienes inmuebles transferidos.
+* Que ECOBOL como operador público de servicio postal, fue intervenido en mérito a lo encomendado por el [Decreto Supremo Nº 2441](#TODO-link), de 8 de julio de 2015.
+* Que por efectos de la intervención no fue posible cumplir con las condiciones establecidas en el [Decreto Supremo Nº 2140](#TODO-link), por lo que es necesario contar con una norma que permita establecer nuevos parámetros que regulen y concluyan con la transferencia de los inmuebles de ECOBOL a favor del Ministerio de Economía y Finanzas Públicas.
+* Que habiéndose desembolsado a ECOBOL el ochenta y dos por ciento (82%) del precio total de los bienes inmuebles a transferir a favor del Ministerio de Economía y Finanzas Públicas y sin que hasta la fecha se haya efectivizado ninguna transferencia, en resguardo de los intereses del Estado se requiere complementar el [Decreto Supremo Nº 2140](#TODO-link).
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto complementar el [Decreto Supremo Nº 2140](#TODO-link), de 9 de octubre de 2014, estableciendo nuevos mecanismos para la conclusión de la transferencia de los inmuebles de la Empresa de Correos de Bolivia - ECOBOL, en el marco de lo señalado en la Disposición Adicional Única de la [Ley Nº 571](#TODO-link), de 8 de septiembre de 2014.
+
+**Artículo 2°.- (Registro)** 
+
+1. En el marco de la [Ley Nº 571](#TODO-link), de 8 de septiembre de 2014, se autoriza al Ministerio de Economía y Finanzas Públicas unilateralmente a realizar los trámites necesarios para el perfeccionamiento del Derecho Propietario, con la documentación que se cuente, ante las oficinas de Derechos Reales a nombre de esa Cartera de Estado de los bienes inmuebles detallados a continuación:
+     
+   Inmueble ubicado entre las calles Bruno Racua y Germán Busch, zona central de la ciudad de Cobija - Pando, conforme a la Escritura Pública 140/94, suscrita ante la Notaría de Hacienda del Distrito; Inmueble ubicado entre la calle Manuel Limpias y la Avenida Cipriano Barace de la ciudad de Trinidad - Beni, conforme a la Escritura Pública 499/2001, suscrita ante la Notaría de Gobierno del Distrito; Inmueble ubicado en la esquina Nor - Este de la plaza principal 6 de Agosto de la Localidad de Sacaba - Cochabamba, conforme al Testimonio de la Sentencia de Usucapión dictada por el Juez Tercero en lo Civil de Cochabamba, de 29 de julio de 1993; Inmueble ubicado entre las calles Ayacucho y Baptista de la ciudad de Cochabamba - Cochabamba, conforme a la Escritura Pública 120/2000, suscrita ante la Notaría de Gobierno del Distrito; Inmueble ubicado entre las calles Mariscal Sucre Nº 397 y Virginio Lema de la ciudad de Tarija - Tarija, conforme a la Escritura Pública 446/1995, suscrita ante Notaría de Gobierno del Distrito; Inmueble ubicado sobre la calle Junín Nº 146 al 166 a media cuadra de la plaza principal de la ciudad de Santa Cruz - Santa Cruz de la Sierra, conforme a la Escritura Pública 443/1995, suscrita ante Notaría de Gobierno del Distrito; Inmueble ubicado en la calle Lanza casi equina Chuquisaca de la ciudad de Potosí - Potosí, conforme a la Escritura Pública 9/93, suscrita ante la Notaría Nº 7 del Distrito; Inmueble ubicado en la calle Presidente Montes entre Junín y Adolfo Mier de la ciudad de Oruro - Oruro, conforme a la Escritura Pública 445/1995, suscrita ante la Notaría de Gobierno del Distrito; Inmueble ubicado entre las calles Ayacucho y Junín de la ciudad de Sucre - Chuquisaca, conforme a la Escritura Pública 444/1995, suscrita ante Notaría de Gobierno del Distrito; Inmueble ubicado en la calle Oruro Nº 155 de la ciudad de La Paz - La Paz, conforme a la Escritura Pública 121/2000, suscrita ante Notaría de Gobierno del Distrito.II. El presente Decreto Supremo se constituye en instrumento jurídico suficiente, para la inscripción del derecho propietario de los bienes inmuebles señalados en el Parágrafo precedente en Derechos Reales y demás registros ante otras instancias.
+
+**Artículo 3°.- (Ejecución de saldo)** 
+
+1. Se autoriza al Ministerio de Economía y Finanzas Públicas a ejecutar el saldo establecido en el Parágrafo II del Artículo 3 del [Decreto Supremo Nº 2140](#TODO-link), que constituye el dieciocho por ciento (18%) del precio total de la transferencia de los inmuebles, para el pago de las deudas por impuestos municipales a la propiedad de bienes inmuebles y para concluir con los trámites de saneamiento técnico y legal de los inmuebles.
+2. Concluidos los trámites de saneamiento técnico y legal de los inmuebles señalados en el Parágrafo I del Artículo 2 del presente Decreto Supremo, el importe remanente será transferido por el Ministerio de Economía y Finanzas Públicas a ECOBOL en un plazo no mayor a los treinta (30) días calendario, para el cumplimiento de sus obligaciones sociales.
+     
+
+   # Disposiciones abrogatorias y derogatorias
+
+     
+   Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en los Despachos de Economía y Finanzas Públicas; y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los nueve días del mes de marzo del año dos mil dieciséis .
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Reymi Luis Ferreira Justiniano, Rene Gonzalo Orellana Halkyer, Luis Alberto Arce Catacora, Luis Alberto Sanchez Fernandez MINISTRO DE HIDROCARBUROS Y ENERGÍA E INTERINO DE MINERÍA Y METALURGIA, Ana Veronica Ramos Morales, Milton Claros Hinojosa, Virginia Velasco Condori, José Gonzalo Trigoso Agudo MINISTRO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL E INTERINO DE TRANSPARENCIA INSTITUCIONAL Y LUCHA CONTRA LA CORRUPCIÓN, Ariana Campero Nava, María Alexandra Moreira Lopez, Roberto Iván Aguilar Gómez, Cesar Hugo Cocarico Yana, Hugo José Siles Nuñez del Prado, Marko Marcelo Machicao Bankovic, Marianela Paco Duran, Tito Rolando Montaño Rivera.

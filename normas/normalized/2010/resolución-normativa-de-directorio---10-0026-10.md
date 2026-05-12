@@ -1,0 +1,31 @@
+# Bolivia: Resolución Normativa de Directorio de 22 de noviembre de 2010
+
+PRÓRROGA DE VENCIMIENTO PARA EL PAGO DE OBLIGACIONES TRIBUTARIAS GERENCIA DISTRITAL YACUIBA
+  
+RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10.0026.10
+  
+La Paz, 22 Noviembre 2010
+
+VISTOS Y CONSIDERANDO:
+
+* Que conforme a lo dispuesto por el parágrafo III del Artículo 53 concordante con el numeral 7 del Artículo 66 de la [Ley Nº 2492](#TODO-link) de 2 de agosto de 2003, Código Tributario Boliviano, la Administración Tributaria podrá disponer fundadamente prórrogas de oficio para el pago de los Tributos.
+* Que el Honorable Consejo Municipal de la Primera Sección de la Provincia “Gran Chaco” declara día de reconocimiento y regocijo general, con suspensión de actividades públicas y privadas en toda la Primera Sección Municipal de la Región Autónoma del Gran Chaco, la fecha 22 de noviembre de todos los años, situación que afecta la atención de actividades en la Red Bancaria, así como el cumplimiento de las obligaciones tributarias por el periodo fiscal octubre/2010 de los sujetos pasivos y terceros responsables registrados en jurisdicción de la Gerencia Distrital de Yacuiba, cuyo vencimiento se produce el día 22 de noviembre de 2010, siendo necesario prorrogar el plazo señalado para la presentación de declaraciones juradas y el pago de obligaciones tributarias.
+* Que de conformidad al inciso p) del Artículo 19 del [Decreto Supremo Nº 26462](#TODO-link) de 22 de diciembre de 2001, excepcionalmente y cuando las circunstancias lo justifiquen, el Presidente Ejecutivo del SIN puede ejecutar acciones que son de competencia del Directorio; en este entendido, el inciso a) del numeral 1 de la Resolución Administrativa de Directorio No 09-0011-02 de 28 de agosto de 2002 autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de Directorio cuando la urgencia del acto así lo imponga.
+
+# POR TANTO:
+
+El Presidente Ejecutivo a.i. del Servicio de Impuestos Nacionales, a nombre del Directorio de la Institución, en uso de las facultades conferidas por el Artículo 64 de la [Ley Nº 2492](#TODO-link) de 2 de agosto de 2003, Código Tributario Boliviano, inciso p) del Artículo 19 del [Decreto Supremo Nº 26462](#TODO-link) de 22 de diciembre de 2001 y en cumplimiento de lo dispuesto en el inciso a) del numeral 1 de la Resolución Administrativa de Directorio No 09-0011-02 de 28 de agosto de 2002,
+
+RESUELVE:
+
+**Artículo Único.-** Prorrogar hasta el día martes 23 de noviembre de 2010, el plazo para la presentación de declaraciones juradas y/o pago de impuestos correspondientes al período fiscal octubre/2010, de los sujetos pasivos o terceros responsables registrados en jurisdicción de la Gerencia Distrital de Yacuiba, cuyos Números de Identificación Tributaria (NITs) terminen con los dígitos 7 (siete), 8 (ocho) y 9 (nueve).
+
+---
+
+Regístrese, hágase saber y cúmplase.
+  
+Roberto Ugarte Quispaya
+  
+PRESIDENTE EJECUTIVO a.i.
+  
+SERVICIO DE IMPUESTOS NACIONALES

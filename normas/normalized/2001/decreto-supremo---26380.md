@@ -1,0 +1,95 @@
+# Bolivia: Decreto Supremo Nº 26380, 30 de octubre de 2001
+
+ENRIQUE TORO TEJADA
+  
+PRESIDENTE INTERINO DE LA REPUBLICA
+
+CONSIDERANDO:
+
+* Que mediante Leyes Nros.2064 y 2152 de 3 de abril y 23 de noviembre de 2000 respectivamente, el Estado Boliviano ha dispuesto una serie de medidas de política económica con el objetivo de reactivar la economía nacional e incentivar las inversiones que incrementen la producción en todos los sectores, en procura de alcanzar mayores niveles de desarrollo económico y social.
+* Que para lograr una efectiva aplicación de la política económica definida por el Poder Ejecutivo, en fecha 16 de marzo de 2001, se ha dictado el [Decreto Supremo Nº 26110](#TODO-link), mediante el cual se dispone que las importaciones de Plantas Industriales Llave en Mano no producidas en la Comunidad Andina, estarán sujetas al diferimiento de pago del Gravamen Arancelario al cero por ciento (0%).
+* Que el Consejo Nacional de Política Económica ha considerado conveniente la sustitución del [Decreto Supremo Nº 26110](#TODO-link), precisando las definiciones y alcances del mismo y mejorando su procedimiento de aplicación, en beneficio de los agentes económicos.
+* Que el Artículo 4 de la Decisión 370 de la Comisión de la Comunidad Andina permite que cualquier País Miembro pueda diferir la aplicación del Arancel Externo Común para los bienes de capital no producidos en la sub - regional, a un nivel de cero por ciento (0%), previa información entre las partes.
+* Que el [Decreto Supremo Nº 25870](#TODO-link) de 18 de agosto de 2000, en su Artículo 116 establece que “cuando las unidades, elementos o componentes que constituyen una unidad funcional, lleguen al territorio aduanero nacional en diferentes envíos y amparados en uno a mas manifiestos internacionales de carga para someterse al régimen aduanero de importación, deberá declararse cada envío por la subpartida arancelaria que para la unidad funcional se establezca en el arancel aduanero de importaciones.. .”
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se difiere el pago del gravamen arancelario al cero por ciento (0%) a la importación de Plantas Industriales no producidas en la sub - región andina y a aquellas que, aunque sean producidas en la Comunidad Andina, no satisfacen las especificaciones técnicas requeridas por el solicitante.
+  
+No están comprendidos dentro del alcance del presente Decreto Supremo las máquinas o aparatos que tengan funciones auxiliares y no contribuyan a la función del conjunto. Las materias primas, insumos y repuestos están excluidos del alcance de la presente Norma Legal.
+
+**Artículo 2°.-** Definiciones: Sólo para los efectos del presente Decreto Supremo se definen como:
+  
+Planta Industrial: al conjunto integrado por bienes de capital que realizan todo el proceso industrial necesario para la producción de uno o varios productos.
+  
+Bienes de Capital: son maquinaria y aparatos o equipos utilizados para la producción de bienes y que intervienen en varios ciclos productivos.
+  
+Unidades Funcionales: son máquinas o combinación de máquinas constituidas por elementos individualizados diseñados para realizar conjuntamente una función netamente definida. Dichos elementos podrán estar separados o unidos entre sí por conductos (de aire, de gas comprimido, de aceite, etc.), dispositivos de transmisión, cables eléctricos o de otro modo, y esto no se opone a la clasificación del conjunto en la partida correspondiente a la función principal que realice.
+
+**Artículo 3°.-** Para fines aduaneros la Planta Industrial, en los términos establecidos por el Artículo 2 del presente Decreto Supremo, será entendida como Unidad Funcional y se clasificará en la sub - partida arancelaria correspondiente a la función principal que realice.
+
+**Artículo 4°.-** La solicitud de importación de las Plantas Industriales, definidas en el Artículo 2 de la presente norma, solo podrá efectuarse por empresas industriales legalmente establecidas en el país. Esta solicitud estará dirigida al Viceministerio de Industria y Comercio Interno del Ministerio de Desarrollo Económico, acompañando los siguientes documentos, en doble ejemplar:
+  
+Certificado de Registro Único de Contribuyentes.
+  
+Certificado o matrícula de inscripción en el Servicio Nacional de Registro de Comercio (SENAREC).
+  
+Presentación de un perfil de proyecto, que incluya su localización, planos, cronograma previsto para su importación (que no deberá exceder de un año calendario), cronograma de puesta en marcha, descripción del proceso de producción y cuantificación de la producción prevista.
+  
+Nómina con las descripciones, subpartidas arancelarias, cantidades y especificaciones técnicas de los bienes a importarse como partes integrantes de la Planta Industrial; país(es) de origen y proveedor (es) potencial (es).
+  
+Presentación de certificado que identifique la subpartida arancelaria de la Planta Industrial por su función principal. La clasificación de las subpartidas arancelarias, señaladas en los incisos d) y e), deberá estar a cargo de un Despachante de Aduana.
+  
+Facturas pro - forma o cotizaciones de los bienes a importarse que integren la Planta Industrial.
+
+**Artículo 5°.-** El Viceministerio de Industria y Comercio Interno cumplirá con las siguientes funciones:
+  
+Establecer que los bienes a ser importados, sean parte integrante de la Planta Industrial, conforme al proyecto presentado por la empresa solicitante.
+  
+Evaluar que las cantidades de los bienes a importarse, guarden relación técnica entre sí.
+  
+Solicitar al Viceministerio de Política Tributaria del Ministerio de Hacienda, la verificación de la correcta clasificación arancelaria de la Planta Industrial.
+  
+Solicitar al Viceministerio de Exportaciones del Ministerio de Comercio Exterior e Inversión la revisión del cumplimiento correcto del Acuerdo de Cartagena, verificando que la Planta Industrial a ser importada no se produce en Países Miembros de la Comunidad Andina, con las especificaciones técnicas requeridas por la empresa industrial solicitante.
+  
+De considerar necesario, podrá consultar con la Cámara Nacional de Industrias en temas relacionados a la evaluación técnica de la Planta Industrial.
+  
+Verificado el cumplimiento de los requisitos señalados en el artículo 4° del presente Decreto Supremo y de ser procedente la importación de la Planta Industrial, remitirá un informe técnico al Viceministerio de Coordinación Sectorial, en un plazo no mayor a cuarenta y cinco (45) días calendario computables a partir de la recepción de dicha solicitud.
+
+**Artículo 6°.-** El Viceministerio de Coordinación Sectorial del Ministerio de Desarrollo Económico cumplirá con las siguientes funciones:
+  
+Elaborar el informe legal correspondiente y el Proyecto de Resolución Bi - Ministerial que autorice la importación definitiva de la Planta Industrial en un plazo no mayor a diez (10) días calendario.
+  
+Presentar la Resolución Bi - Ministerial a consideración de los Ministros de Desarrollo Económico y de Comercio Exterior e Inversión, para su respectiva aprobación.
+  
+Remitir la Resolución Bi - Ministerial, que tendrá una vigencia de un (1) año calendario, en la misma fecha de su aprobación al Viceministerio de Política Tributaria.
+
+**Artículo 7°.-** El Viceministerio de Política Tributaria efectuará la revisión de los documentos que respaldan la importación y procederá en un plazo máximo de quince (15) días calendario de recibida la Resolución Bi - Ministerial, a la emisión de la resolución administrativa que autorice el despacho aduanero para cada importación de los bienes que integran la planta industrial, con diferimiento del pago del gravamen arancelario al cero por ciento (0%), y con el cumplimiento de los requisitos y formalidades aduaneras de conformidad con lo dispuesto en el Decreto Reglamentario de la Ley General de Aduanas.
+
+**Artículo 8°.-** El despacho aduanero de la Unidad Funcional bajo el régimen aduanero de importación para el consumo, se efectuará:
+  
+En cualquiera de las modalidades previstas en el Reglamento de la Ley General de Aduanas y a través de una misma administración aduanera.
+  
+En envíos totales o parciales, amparados en una o más facturas comerciales, destinados a un mismo consignatario, transportados en uno o varios medios y unidades de transporte, que correspondan a distintas subpartidas arancelarias y que procedan de uno o diferentes países.
+
+**Artículo 9°.-** De verificarse que el uso o destino, total o parcial, de los bienes que integran la Planta Industrial, importados con diferimiento del pago arancelario, por parte de las empresas industriales beneficiarias, sea distinto al establecido en el perfil de proyecto aprobado por el Viceministerio de Industria y Comercio Interno, se suspenderán automáticamente todos los beneficios contemplados en el presente Decreto Supremo, debiendo la empresa pagar el valor del Gravamen Arancelario diferido.
+  
+Asimismo, los importadores de las Plantas Industriales se sujetarán a las sanciones establecidas en la Ley General de Aduanas, el Código Tributario y otras normas legales en vigencia.
+
+**Artículo 10°.-** En un plazo no mayor a diez (10) días a partir de la publicación del presente Decreto Supremo, mediante Resolución Ministerial emitida por el Ministerio de Desarrollo Económico, deberá entrar en vigencia el reglamento sobre el procedimiento para el trámite de solicitud de importación de Plantas Industriales.
+
+**Artículo 11°.-** El presente Decreto Supremo tendrá una vigencia de dieciocho (18) meses a partir de la fecha de su promulgación, periodo que contempla todos los trámites necesarios para acogerse a los beneficios de la presente norma legal.
+
+**Artículo 12°.- (Transitorio)** Las solicitudes presentadas al Viceministerio de Industria y Comercio Interno con anterioridad a la vigencia del presente Decreto Supremo, se tramitarán de conformidad con lo señalado en la presente disposición legal.
+  
+Queda abrogado el [Decreto Supremo Nº 26110](#TODO-link) y todas las disposiciones legales que sean contrarias al presente Decreto Supremo.
+
+---
+
+Los señores Ministros de Estado en las Carteras de Desarrollo Económico, Comercio Exterior e Inversión y de Hacienda, quedan encargados de la ejecución y cumplimiento del presente Decreto.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los treinta días del mes de octubre del año dos mil uno.
+  
+Fdo. ENRIQUE TORO TEJADA, PRESIDENTE INTERINO DE LA REPUBLICA, Alberto Zelada Castedo MINISTRO INTERINO DE RR. EE. Y CULTO, José Luís Lupo Flores, Leopoldo Fernández Ferreira, Oscar Guilarte Lujan, Eduardo Antelo Callisperis MINISTRO INTERINO DE HACIENDA, Mario Serrate Ruíz, José Abel Martínez Mrden MINISTRO INTERINO DE DESARROLLO ECONOMICO, Amalia Anaya Jaldín, Enrique Paz Argandoña, Jorge Pacheco Franco, Walter Núñez Rodríguez, Ramiro Cavero Uriona, José Rivera Eterovíc MINISTRO INTERINO DE COMERCIO EXTERIOR E INVERSION, Xavier Nogales Iturri, Hernán Terrazas Ergueta MINISTRO INTERINO SIN CARTERA RESPONSABLE DE LA INFORMACION GUBERNAMENTAL, Wigberto Rivero Pinto.

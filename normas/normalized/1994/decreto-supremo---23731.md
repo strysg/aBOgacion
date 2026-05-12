@@ -1,0 +1,31 @@
+# Bolivia: Decreto Supremo Nº 23731, 22 de febrero de 1994
+
+GONZALO SANCHEZ DE LOZADA
+  
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que se dictó el [Decreto Supremo Nº 23678](#TODO-link), en 19 de noviembre de 1993, por el que se autorizó a los abogados Gibson, Dunn & Crutcher, contratados en los Estados Unidos de América, negociar con la empresa Gulf Coast Transit Co. en el juicio que tiene iniciado contra la República de Bolivia en la ciudad de Washington D. C.;
+* Que el banco Central de Bolivia efectuó, en 17 de diciembre de 1993, una transferencia de $us 75.000.- en favor de Gisbon, Dunn & Crutcher, por cuenta del Tesoro General de la Nación, monto que en el proceso de negociación no aceptado por la Gulf Coast Transit Co.;
+* Que el coste de intentar revertir el fallo de primera instancia emitido en contra de la República de Bolivia, en la Corte de Distrito de Washington D. C., superaría el monto a pagar como emergencia del fallo;
+* Que los abogados y la Embajada de Bolivia han informado que Gulf Coast Transit Co. transigirá su demanda por $us 137.000.-, monto que incluye $us.12.000.- por honorarios de Gibson Dunn & Crutcher;
+* Que corresponde emitir el decreto supremo complementario, a fin de concluir el mencionado proceso legal contra el Gobierno de Bolivia, en los términos recomendados por la firma de abogados.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Se complementa el [Decreto Supremo Nº 23678](#TODO-link) de 19 de noviembre de 1993, autorizando a. la firma Gibson, Dunn & Crutcher a transigir con la empresa Gulf Coast Transit Co. con el pago de $us.125.000.-
+
+**Artículo 2°.-** Se autoriza al Banco Central de Bolivia transferir la suma adicional de $us 62.000.- a la cuenta de la firma. Gibson Dunn & Crutcher con cargo al Tesoro General de la Nación, monto del que corresponde hasta la cantidad de $us.12.000.- a los honorarios de Gibson, Dunn & Crutcher, quienes deben rendir cuentas presentando los descargos correspondientes.
+
+**Artículo 3°.-** El Embajador de Bolivia ante el gobierno de los Estados Unidos de América, suscribirá a nombre del Gobierno boliviano los respéctivos documentos transaccionales.
+
+---
+
+Los señores Ministros de Estado en los despachos de Hacienda y Desarrollo Económico asi como de Relaciones Exteriores y Culto, quedan encargados de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en Palacio de Gobierno de la ciudad de La Paz, a los veintidós días del mes de febrero de mil novecientos noventa y cuatro años.
+  
+Fdo. GONZALO SANCHEZ DE LOZADA, Antonio Aranibar. Quiroga, Germán Quiroga Gómez, Antonio Céspedes Toro, Carlos Sánchez Berzaín, Carlos Morales Guillén, Fernando Illanes de la Riva, Fernando Romero Moreno, José G. Justiniano Sandóval, Reynaldo Peters Arzabe, Herman Antelo Laughlin.

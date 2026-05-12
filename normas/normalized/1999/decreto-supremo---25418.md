@@ -1,0 +1,38 @@
+# Bolivia: Decreto Supremo Nº 25418, 11 de junio de 1999
+
+HUGO BANZER SUAREZ
+  
+PRESIDENTE DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+* Que el Programa de Desarrollo Integral en la Zona Andina y el Valle Alto de Tarija “PRODIZAVAT” fue creado mediante convenio de financiamiento ALA 92/34, suscrito por el Gobierno de Bolivia con la Comunidad Económica Europea, y constituye uno de los programas de cooperación más importantes que la Comisión Europea apoya en Bolivia;
+* Que se encuentran, entre las actividades principales de Prodizavat, la construcción de infraestructura rural caminera, canales de riego, fortalecimiento de las asociaciones de productores, comercialización de productos agrícolas y el microcrédito en las zonas occidentales y septentrionales del departamento de Tarija;
+* Que Prodizavat mantenía depósitos en cuentas corrientes y depósitos a plazo fijo en el Banco Interamericano de Desarrollo S.A.(BIDESA), actualmente en liquidación;
+* Que Prodizavat se vio afectado, a consecuencia de la liquidación forzosa del Bidesa dispuesta por la Superintendencia de Bancos y Entidades Financieras, mediante resolución 143/97 de 12 de diciembre de 1997, con la inmovilización de sus recursos por la suma de US$.2.043.403.27 y Bs8.610, 99 provenientes íntegramente de la cooperación europea, suma compuesta por US$.1.000.000 en D. P. F.10266, US$.500.000 en D. P. F.10267, US$.543.403, 27 saldo en cuenta corriente M/E 12996-901-6 y Bs8.610, 99 saldo en cuenta corriente M/N 12996-801-0;
+* Que el Prodizavat recuperó, en cumplimiento de las resoluciones de directorio 170/97 y 179/97 del Banco Central de Bolivia Bs8.610, 99 de la cuenta corriente M/N 12996-801-0 y US$.3.405, 38 de la cuenta corriente M/E 12996-901-6, montos subrogados por el Banco Central de Bolivia, quedando un saldo total consolidado de US$.2.039.997, 89;
+* Que Prodizavat realizó los correspondientes trámites para la efectivización de cuatro certificados de devolución de depósitos, (CDD's) emitidos por el Banco Central de Bolivia mediante resolución de directorio 20 de 3 de marzo de 1998, por un monto total de US$.1.017.507, 91; y la Comisión Calificadora y el Embajador Jefe de la delegación de la Comisión Europea adjudicaron a través de una invitación pública nacional, la venta de los CDD's, por un total de US$.708.098, 41, resultando una diferencia de US$.309.409, 50 del valor total de los CDD's, que sumados a los recursos pendientes por recuperar de la liquidación del Banco Bidesa hacen un saldo total neto de US$.1.331.899, 48 requeridos por Prodizavat para el cumplimiento de sus actividades;
+* Que es necesario que el Tesoro General de la Nación asuma la obligación de reponer los recursos comprometidos por Prodizavat, subrogándose los derechos de recuperación en la liquidación del exBanco Bidesa, con el fin de evitar la paralización del proyecto y para mantener las buenas relaciones de cooperación existentes entre nuestro país y la Comunidad Económica Europea, en función de los convenios suscritos con este organismo;
+* Que corresponde a la Prefectura del departamento de Tarija, en aplicación del artículo 24 de la [Ley Nº 1654](#TODO-link) de Descentralización Administrativa asumir la responsabilidad de la ejecución del Programa de Desarrollo Integral en la Zona Andina y el Valle Alto de Tarija Prodizavat, siendo necesario establecer y determinar el daño económico provocado al Estado y las consiguientes responsabilidades en la administración de los recursos del PRODIZAVAT.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.-** Autorizar al Tesoro General de la Nación transferir a la Prefectura del departamento de Tarija, para el Programa de Desarrollo Integral en la Zona Andina y el Valle Alto de Tarija “PRODIZAVAT” el monto total de UN MILLON TRESCIENTOS treinta y uno mil novecientos NOVENTA Y NUEVE 48/100 DOLARES AMERICANOS (US$.1.331.899.48), correspondiente a los recursos de PRODIZAVAT pendientes de recuperación de la liquidación del Banco BIDESA y del costo de monetización de los CDD's emitidos por el Banco Central de Bolivia, con cargo al grupo 70000 “Transferencias” del presupuesto aprobado 1999 del Ministerio de Hacienda.
+
+**Artículo 2°.-** El Programa de Desarrollo Integral en la Zona Andina y el Valle Alto de Tarija “PRODIZAVAT” transferirá la totalidad de sus derechos en la liquidación del Banco BIDESA, en favor del Tesoro General de la Nación, a tiempo de beneficiarse con la transferencia de recursos dispuesta.
+
+**Artículo 3°.-** El Tesoro General de la Nación efectuará la transferencia por el monto señalado a una cuenta fiscal abierta en el Banco Central de Bolivia, a nombre de la Prefectura del departamento de Tarija, destinada exclusivamente al PRODIZAVAT. La Prefectura del departamento de Tarija es responsable de la ejecución de estos recursos y del PRODIZAVAT.
+
+**Artículo 4°.-** El Tesoro General de la Nación se subrogará los derechos derivados y emergentes de los recursos económicos del PRODIZAVAT, pendientes de recuperación de la liquidación del Banco BIDESA, sobre el monto que se determine como daño económico causado al Estado, resultante de la evaluación de la administración realizada que dio lugar a la dictación de la presente norma.
+
+**Artículo 5°.-** Se encomienda al Prefecto del departamento de Tarija realizar las acciones que correspondan, para establecer y determinar el daño económico ocasionado al Estado, y seguir eficientemente las acciones legales necesarias que determinen y materialicen las responsabilidades que correspondan.
+
+---
+
+El señor Ministro de Estado en el despacho de Hacienda queda encargado de la ejecución y cumplimiento del presente decreto supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los once días del mes de junio de mil novecientos noventa y nueve años.
+  
+Fdo. HUGO BANZER SUAREZ, Javier Murillo de la Rocha, Carlos Iturralde Ballivián, Guido Náyar Parada, Fernando Kieffer Guzmán, Herbert Müller Costas, Ana María Cortéz de Soriano, Jorge Pacheco Franco, Tito Hoz de Vila Quiroga, Guillermo Cuentas Yañez, Adolfo Soliz Antezana, Oswaldo Antezana Vaca Diez, Erick Reyes Villa Bacigalupi, Jorge Crespo Velasco, Amparo Ballivián Valdés.

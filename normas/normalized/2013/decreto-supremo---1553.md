@@ -1,0 +1,73 @@
+# Bolivia: Decreto Supremo Nº 1553, 8 de abril de 2013
+
+EVO MORALES AYMA
+  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+
+CONSIDERANDO:
+
+* Que el Parágrafo I del Artículo 257 de la [Constitución Política del Estado](#TODO-link), en concordancia con el Artículo 410, determina que los tratados internacionales ratificados forman parte del ordenamiento jurídico interno con rango de ley.
+* Que la [Ley de 9 de octubre de 1945](#TODO-link) aprueba la Carta de las Naciones Unidas, suscrita en la ciudad de San Francisco de California el día 26 de junio de 1945, por los representantes de las cincuenta (50) potencias aliadas, la cual establece obligaciones jurídicamente vinculantes para los Estados miembros que incluyen ejecutar las decisiones adoptadas por el Consejo de Seguridad con arreglo a los Artículos 24, 25, y 48 de la Carta de las Naciones Unidas.
+* Que la [Ley Nº 1430](#TODO-link), de 11 de febrero de 1993, aprueba y ratifica la Convención Americana sobre Derechos Humanos, “Pacto de San José de Costa Rica”, suscrita en San José, Costa Rica, el 22 de noviembre de 1969.
+* Que la [Ley Nº 262](#TODO-link), de 30 de julio de 2012, Régimen de Congelamiento de Fondos y otros Activos de Personas Vinculadas con Acciones de Terrorismo y Financiamiento del Terrorismo, establece el régimen para el congelamiento de fondos y otros activos, por una parte, de personas vinculadas con acciones de terrorismo y financiamiento del terrorismo, consignadas en las listas públicas de Naciones Unidas o en los requerimientos de países en el marco de la cooperación internacional.
+* Que la [Resolución N° 1267](#TODO-link), de 15 de octubre de 1999, del Consejo de Seguridad de las Naciones Unidas, dispone que los Estados deben congelar los fondos y demás activos propiedad de los talibanes, exceptuando los que pueda autorizar el Comité del Consejo de Seguridad de las Naciones Unidas por razones de necesidad humanitaria.
+* Que el inciso c) de la Resolución N° 1373, de 28 de septiembre de 2001, del Consejo de Seguridad de las Naciones Unidas, decide que todos los Estados congelen sin dilación los fondos y demás activos financieros o recursos económicos de las personas que cometan, o intenten cometer actos de terrorismo, o participen en ellos o faciliten su comisión.
+* Que es necesario emitir la normativa legal correspondiente para que el régimen de congelamiento de fondos y otros activos de personas vinculadas con acciones de terrorismo y financiamiento del terrorismo, consignadas en las listas del Consejo de Seguridad de las Naciones Unidas y en requerimientos de países cursados en el marco de la cooperación internacional, prevean dentro su proceso, la liberación de fondos y otros activos que fueran necesarios para la subsistencia de la persona.
+
+EN CONSEJO DE MINISTROS,
+
+DECRETA:
+
+**Artículo 1°.- (Objeto)** El presente Decreto Supremo tiene por objeto establecer procedimientos complementarios relacionados con el régimen de congelamiento de fondos y otros activos establecido en la [Ley Nº 262](#TODO-link), de 30 de julio de 2012, Régimen de Congelamiento de Fondos y otros Activos de Personas Vinculadas con Acciones de Terrorismo y Financiamiento del Terrorismo, a efectos de procesar el levantamiento de la medida en casos de desafectación de las personas o por razones de necesidad humanitaria para permitirles a las personas alcanzadas por la medida de congelamiento, sufragar sus gastos básicos o extraordinarios.
+
+**Artículo 2°.- (Descongelamiento de fondos y otros activos de personas consignadas en listas públicas del Consejo de Seguridad de las Naciones Unidas y en requerimientos de paises)** El descongelamiento de fondos y otros activos de personas consignadas en listas públicas del Consejo de Seguridad de las Naciones Unidas, procederá en los siguientes casos de acuerdo al procedimiento que se establece en el presente Decreto Supremo:
+
+1. Cuando el Consejo de Seguridad de las Naciones Unidas haya resuelto y comunicado la exclusión de una persona consignada en las listas públicas que administra;
+2. Cuando la persona designada en listas públicas del Consejo de Seguridad de las Naciones Unidas presenta requerimiento de descongelamiento de fondos y otros activos con documentación que respalde su solicitud;
+3. Cuando un país respecto del congelamiento de fondos y otros activos que antes hubiera requerido y se hubiera ejecutado en el marco de la cooperación judicial y administrativa internacional, utilizando la misma vía, solicite el descongelamiento.
+
+**Artículo 3°.- (Procedimiento para descongelamiento de fondos y otros activos de personas designadas en listas públicas del Consejo de Seguridad de las Naciones Unidas)** 
+
+1. Cuando el Ministerio de Relaciones Exteriores tome conocimiento por cualquier medio oficial de la exclusión de alguna(s) persona(s) de las listas públicas del Consejo de Seguridad de las Naciones Unidas, transmitirá inmediatamente dicha información a la Unidad de Investigaciones Financieras - UIF.
+2. La UIF, ante la comunicación del Ministerio de Relaciones Exteriores sobre la exclusión de alguna(s) persona(s) de las listas públicas de Consejo de Seguridad de las Naciones Unidas, emitirá una Resolución Administrativa disponiendo de manera expresa el descongelamiento de los fondos y otros activos de la(s) persona(s) excluida(s).
+3. La UIF, remitirá la Resolución Administrativa de descongelamiento a los sujetos obligados del sistema financiero nacional y a los registros públicos correspondientes, quienes estarán obligados a su cumplimiento. La UIF de manera simultánea también remitirá dicha Resolución Administrativa al Juez de Instrucción en lo Penal Cautelar de Turno del lugar sede de funciones de la UIF, quien cumplirá con la función de ratificar la medida de descongelamiento realizando solamente la acción de verificar la exclusión de la(s) persona(s) antes afectada(s) de las listas públicas del Consejo de Seguridad de las Naciones Unidas.
+4. Cumplidas las acciones establecidas en el Parágrafo precedente, la UIF deberá comunicar al Ministerio de Relaciones Exteriores el cumplimiento de la acción de descongelamiento remitiendo la Resolución Administrativa que dispone el descongelamiento.
+5. El Ministerio de Relaciones Exteriores, puesto en conocimiento de la ejecución de un proceso de descongelamiento, deberá hacer conocer dicha medida al Consejo de Seguridad de las Naciones Unidas.
+
+**Artículo 4°.- (Procedimiento para descongelamiento de fondos y otros activos a petición de parte)** Cuando la persona designada en listas públicas del Consejo de Seguridad de las Naciones Unidas se encontrara afectada por la medida de congelamiento de fondos y otros activos, y dicha persona presentara un requerimiento de descongelamiento, el procesamiento del mismo deberá seguir el siguiente procedimiento:
+
+1. El requerimiento de descongelamiento deberá ser presentado ante la UIF debidamente fundamentado y respaldado documentalmente, entidad que deberá trasladar el requerimiento al Ministerio de Relaciones Exteriores para que por esta vía se canalice el mismo al Consejo de Seguridad de las Naciones Unidas;
+2. En caso que el Consejo de Seguridad de las Naciones Unidas se pronunciara a favor del peticionario sobre el requerimiento de descongelamiento, y comunicara con tal determinación al Ministerio de Relaciones Exteriores, ésta entidad transmitirá a la UIF dicha decisión. La UIF con tal comunicación seguirá el procedimiento establecido en el Artículo precedente del presente Decreto Supremo.
+
+**Artículo 5°.- (Procedimiento para descongelamiento de fondos y otros activos a solicitud de un pais)** Cuando la persona cuyos fondos y otros activos se encontraran congelados por el requerimiento de un país efectuado en el marco de la cooperación judicial y administrativa internacional, y dicha persona presentara un requerimiento de descongelamiento, el procesamiento del mismo deberá seguir el siguiente procedimiento:
+
+1. El requerimiento de descongelamiento deberá ser presentado ante la UIF debidamente fundamentado y respaldado documentalmente, entidad que deberá trasladar el requerimiento al Ministerio de Relaciones Exteriores para que por esta vía se canalice el mismo al país ante cuyo requerimiento anterior se ejecutó la medida de congelamiento;
+2. En caso que el país se pronunciara a favor del peticionario sobre el requerimiento de descongelamiento, y comunicara con tal determinación al Ministerio de Relaciones Exteriores, ésta entidad transmitirá dicha decisión a la UIF y al Juez de Instrucción en lo Penal Cautelar de Turno del lugar sede de funciones de la UIF, para su tratamiento en el marco de la cooperación judicial administrativa internacional establecida por el Código de Procedimiento Penal;
+3. La UIF ante la comunicación del Ministerio de Relaciones Exteriores emitirá una Resolución Administrativa disponiendo de manera expresa el descongelamiento de los fondos y otros activos de la persona peticionaria; Resolución Administrativa que comunicará a los sujetos obligados del sistema financiero nacional y a los registros públicos correspondientes, quienes estarán obligados a su cumplimiento;
+4. El Juez de Instrucción en lo Penal Cautelar de Turno en conocimiento del requerimiento de descongelamiento, ratificará la Resolución de descongelamiento emitida por la UIF, transmitiendo dicha diligencia al Ministerio de Relaciones Exteriores, entidad que comunicará al país el cumplimiento de su solicitud de descongelamiento.
+
+**Artículo 6°.- (Fondos necesarios para sufragar gastos básicos y extraordinarios)** 
+
+1. El afectado por la medida de congelamiento de fondos y otros activos podrá solicitar al Juez de Instrucción en lo Penal Cautelar de Turno el descongelamiento de fondos necesarios para sufragar gastos básicos debidamente justificados.
+   1. Cuando el Juez de Instrucción en lo Penal Cautelar de Turno determine que parte de dichos fondos son necesarios para sufragar gastos básicos razonables, incluido el pago de alimentos, alquileres, asistencia o pensión familiar, créditos, medicamentos y tratamientos médicos, impuestos, primas de seguros y gastos de agua y electricidad, o exclusivamente para pagar honorarios profesionales razonables y el reembolso de gastos asociados con la prestación de servicios jurídicos o tasas o cargos por servicios de mantenimiento de fondos congelados u otros activos financieros o recursos económicos, dicha autoridad judicial deberá seguir el siguiente procedimiento a efectos de liberar fondos y otros activos congelados que fueran necesarios para la subsistencia del afectado:
+   2. Emitir la orden judicial la cual deberá ser comunicada a la UIF para que ésta instancia remita inmediatamente al Ministerio de Relaciones Exteriores, entidad que por los mecanismos correspondientes pondrá en conocimiento al Comité del Consejo de Seguridad de las Naciones Unidas de la intención de autorizar, por razones humanitarias la liberación de los fondos y otros activos para cubrir los gastos antes señalados;
+   3. En ausencia de una decisión negativa del Comité del Consejo Seguridad de las Naciones Unidas, luego de transcurridas cuarenta y ocho (48) horas de la solicitud de autorización cursada al Comité del Consejo de Seguridad de las Naciones Unidas, el Juez de Instrucción en lo Penal Cautelar de Turno proseguirá disponiendo del Comité del Consejo de Seguridad de las Naciones Unidas para cubrir los gastos básicos de subsistencia. De recibir la negativa del Comité del Consejo de Seguridad, el trámite se dejará sin efecto.
+2. En caso que los fondos, activos o recursos, sirvan para cubrir gastos extraordinarios del afectado por la medida de congelamiento de fondos, se deberá seguir el siguiente procedimiento:
+   1. La orden judicial deberá ser comunicada a la UIF para que ésta instancia inmediatamente remita al Ministerio de Relaciones Exteriores, quien por los mecanismos correspondientes pondrá en conocimiento al Comité del Consejo de Seguridad de las Naciones Unidas la intención de autorizar la liberación de los fondos y otros activos para cubrir gastos extraordinarios no enunciados en el Parágrafo I del presente Artículo;
+   2. Con la aprobación del Comité del Consejo de Seguridad de las Naciones Unidas, el Juez de Instrucción en lo Penal Cautelar de Turno autorizará al afectado por la medida de congelamiento de fondos, el acceso a esos fondos, activos o recursos en la medida en que haya sido determinado por el Comité del Consejo de Seguridad de las Naciones Unidas.
+        
+
+      # Disposiciones adicionales
+
+**Artículo adicional Único.-** Se incorporan los numerales 14 y 15 en el Artículo 18 del Reglamento de la Unidad de Investigaciones Financieras, aprobado por [Decreto Supremo Nº 24771](#TODO-link), de 31 de julio de 1997, con el siguiente texto:
+> “14.- Coordinar, promover y ejecutar en el marco de la cooperación más amplia, con Unidades de Inteligencia Financiera y autoridades competentes de otros países que ejerzan competencias análogas, el intercambio de información relativa a la Legitimación de Ganancias Ilícitas y al Financiamiento del Terrorismo, tendentes a viabilizar acciones rápidas y eficientes, de conformidad con acuerdos previamente suscritos u otros instrumentos o modalidades en base al principio de reciprocidad.
+>   
+> 15.- Aplicar y supervisar el régimen de congelamiento y descongelamiento de activos.”
+
+---
+
+Los señores Ministros de Estado en los Despachos de Relaciones Exteriores, y de Economía y Finanzas Públicas, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+  
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los diez días del mes de abril del año dos mil trece.
+  
+Fdo. EVO MORALES AYMA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, José Antonio Zamora Gutiérrez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo MINISTRO DE CULTURAS Y TURISMO E INTERINO DE EDUCACIÓN, Amanda Dávila Torres.
