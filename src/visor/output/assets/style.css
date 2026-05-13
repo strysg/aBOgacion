@@ -1,5 +1,5 @@
 body {
-    font-family: system-ui, -apple-system, sans-serif; margin: 0; padding: 2rem; background: #f9fafb;
+    font-family: system-ui, -apple-system, sans-serif; margin: 0; padding: 1rem; background: #f9fafb;
 }
 tr { border-bottom: 1px solid #ddd; }
 th { border-bottom: 1px solid #bbb; }
@@ -7,17 +7,22 @@ td { border-bottom: 1px solid #ddd; border-right: 1px solid #ddd; }
 .container {
     display: flex;
     gap: 20 px;
-    /* max-width: 1200px; */
-    /* margin: 0 auto; */
+    flex-wrap: wrap;
 }
-h1 { color: #1e3a8a; }
+h1 { color: #1e3a8a; font-size: 1.5rem; }
 .column {
   flex: 1; /* Makes columns equal width */
-  padding: 10px;
+  padding: 5px;
   background-color: #f4f4f4;
 }
-.search-bar { background: white; paddinxg: 1.5rem; border-radius: 1rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 2rem; }
-#searchInput { width: 100%; padding: 0.75rem; font-size: 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; margin-bottom: 1rem; }
+/* On screens smaller than 800px, stack columns vertically */
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+}
+.search-bar { background: white; padding: 1.5rem; border-radius: 1rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 1.5rem; }
+#searchInput { width: 95%; padding: 0.75rem; font-size: 1rem; border: 2px solid #d1d5db; border-radius: 0.5rem; margin-bottom: 1rem; }
 .filters { display: flex; gap: 1rem; }
 select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; background: white; }
 .results { display: grid; gap: 1rem; }
@@ -44,6 +49,7 @@ select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; back
   background: #f2f1f4;
   padding: 1rem;
   border-radius: 1rem;
+  font-size: 1.05rem;
 }
 
 /* Right column – metadata (15% width, fixed position at right) */
@@ -83,12 +89,13 @@ select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; back
 }
 
 .indice li {
-  flex: 0 0 50%; /* Each item takes up 1/5 of the width */
+  flex: 0 0 33%; /* Each item takes up 1/5 of the width */
   box-sizing: border-box;
 }
 
 .footer {
-    background: #c2c9e3;
     padding: 0.3rem; font-family: serif;
     border-radius: 9px; padding: 1rem;
+    border-style: solid; border-color: #aeebc2;
+    border-width: 1px;
 }
