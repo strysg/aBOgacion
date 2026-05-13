@@ -114,7 +114,9 @@ async function build() {
         if (!fs.existsSync(yearPath)) {
             fs.mkdirSync(yearPath, { recursive: true });
         }
-        const outputHtmlPath = path.join(yearPath, `${fileMetadata['nombre']}.html`);
+        const cleanName = fileMetadata['nombre'].replaceAll('---', ' ').trim();
+
+        const outputHtmlPath = path.join(yearPath, `${cleanName}.html`);
         const fullhtml = ejs.render(normasTemplate, {
             ...fileMetadata,
             siteTitle: SITE_TITLE,
@@ -126,11 +128,11 @@ async function build() {
         // console.log(`Archivo ${outputHtmlPath} guardado.`);
         allDocs.push({
             id: count,
-            title: fileMetadata.nombre,           // e.g. "Resolución Suprema N° 32206"
+            title: cleanName,           // e.g. "Resolución Suprema N° 32206"
             type: fileMetadata.tipoNorma,         // e.g. "Resolución Suprema"
             year: fileMetadata.year,
             p: textPreview,
-            url: `${fileMetadata.year}/${fileMetadata.nombre}.html`  // include .html
+            url: `${fileMetadata.year}/${cleanName}.html`  // include .html
         });
         count ++;
         if (count % 500 === 0) console.log(`📄 Procesados ${count} archivos (omitidos: ${skipped})...`);

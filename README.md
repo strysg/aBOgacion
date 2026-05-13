@@ -5,6 +5,7 @@ Proyecto de experimentación, desde leyes hasta reglamentaciones.
 Datos obtenidos de:
 
 - [lexivox.org](https://www.lexivox.org) (la mayor parte de la normativa)
+- [http://www.gacetaoficialdebolivia.gob.bo/](http://www.gacetaoficialdebolivia.gob.bo/) (las últimas normas)
 
 Licencia GPL v3 para el software.
 
@@ -14,7 +15,7 @@ Requisitos:
 
 ## Datos
 
-Guardados en formato markdown en [normas/](normas/)
+Los datos ya están listos y guardados en formato markdown en [normas/](normas/)
 
 ```
 normas
@@ -31,7 +32,9 @@ normas
 ...
 ```
 
-## Obtener datos
+### Obtención de datos (desde cero)
+
+> No es necesario que hagas este paso a menos que necesites experimentar y volver a descargar todo nuevamente (toma mucho tiempo)
 
 ```
 # Activar entorno virtual, luego:
@@ -45,9 +48,9 @@ cd <ruta raiz del proyecto>
 python obtener_gaceta.py
 ```
 
-Todo se guardara en `normas/raw`
+Todo se guardará en `normas/raw`
 
-### normalizar archivos markdown
+### Normalizar archivos markdown
 
 Se debería ejecutar el notebook jupyter: [src/data-handlers/normalize.ipynb](src/data-handlers/normalize.ipynb). Va a guardar las normativas en `normas/normalized`
 

@@ -1,4 +1,7 @@
-// Static client-side search for Bolivian norms
+/**
+   This is part of aBOgacion
+   Copyright Rodrigo Garcia 2026
+ */
 let store = null;
 let searchIndex = null;
 
@@ -91,6 +94,13 @@ async function search() {
     
     // Apply year and type filters
     results = results.filter(r => (!year || r.year === year) && (!type || r.type === type));
+
+    // ✅ Sort by year descending (most recent first)
+    results.sort((a, b) => {
+        const yearA = parseInt(a.year, 10);
+        const yearB = parseInt(b.year, 10);
+        return yearB - yearA;
+    });
     
     const container = document.getElementById('results');
     if (results.length === 0) {
@@ -101,7 +111,7 @@ async function search() {
         <div class="result-card">
             <div class="result-title"><a href="${r.url}">${escapeHtml(r.title)}</a></div>
             <div class="result-meta">
-                <span>${escapeHtml(r.type)}</span> · <span>${escapeHtml(r.year)}</span>
+                <code>${escapeHtml(r.type)}</code> · <strong>${escapeHtml(r.year)}</strong>
             </div>
             <div class="result-preview">${escapeHtml(r.p)}…</div>
         </div>
@@ -109,9 +119,6 @@ async function search() {
 
         container.innerHTML = `<span>Encontradas <strong>${results.length}</strong> coincidencias. ${htmlResults}`;
     }
-
-    
-
 }
 
 function escapeHtml(str) {

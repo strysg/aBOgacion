@@ -16,7 +16,7 @@ h1 { color: #1e3a8a; }
   padding: 10px;
   background-color: #f4f4f4;
 }
-.search-bar { background: white; padding: 1.5rem; border-radius: 1rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 2rem; }
+.search-bar { background: white; paddinxg: 1.5rem; border-radius: 1rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 2rem; }
 #searchInput { width: 100%; padding: 0.75rem; font-size: 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; margin-bottom: 1rem; }
 .filters { display: flex; gap: 1rem; }
 select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; background: white; }
@@ -31,7 +31,7 @@ select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; back
   display: flex;
   flex-wrap: wrap;          /* allows stacking on small screens */
   gap: 1rem;             /* space between columns */
-  max-width: 1200px;
+  max-width: 1290px;
   margin: 0 auto;
   padding: 1rem;
 }
@@ -85,4 +85,10 @@ select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; back
 .indice li {
   flex: 0 0 50%; /* Each item takes up 1/5 of the width */
   box-sizing: border-box;
+}
+
+.footer {
+    background: #c2c9e3;
+    padding: 0.3rem; font-family: serif;
+    border-radius: 9px; padding: 1rem;
 }

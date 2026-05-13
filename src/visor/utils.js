@@ -183,7 +183,7 @@ async function loadMarkdownFilesFromMetadata (metadataFiles = []) {
 
         if (match) {
             newMetadata.push({
-                nombre: metadata.title,
+                nombre: metadata.title.replaceAll('---', ' ').trim(),
                 tipoNorma: metadata.normType,
                 year: metadata.year,
                 fecha: match.fecha || '',
