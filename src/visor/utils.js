@@ -13,8 +13,13 @@ const INPUT_DIR = '../../normas/normalized';
 const OUTPUT_DIR = './output';
 const SITE_TITLE = 'Visor de normas Bolivianas';
 
+const METADATA_FILE = '../../normas/metadatos.json';
+
 const LEXIVOX_SEPARATOR = '---';
 const GACETA_SEPARATOR = '-n°-';
+
+const FUENTE_LEXIVOX = 'lexivox.org';
+const FUENTE_GACETA = 'gaceta oficial';
 
 /**
  * Obtiene metadatos de un archivo descargado desde lexivox
@@ -59,10 +64,10 @@ function parseFile(filePath) {
     let metadata;
     if (fileName.indexOf(LEXIVOX_SEPARATOR) !== -1) {
         metadata = parseLexivoxFile(fileName);
-        metadata['fuente'] = 'lexivox.org';
+        metadata['fuente'] = FUENTE_LEXIVOX;
     } else if (fileName.indexOf(GACETA_SEPARATOR) !== -1) {
         metadata = parseGacetaFile(fileName);
-        metadata['fuente'] = 'gaceta oficial de Bolivia';
+        metadata['fuente'] = FUENTE_GACETA;
     } else {
         // FALLBACK for unknown formats
         metadata = {
@@ -131,91 +136,87 @@ async function findMetadataFiles(baseDir = '../../normas') {
 }
 
 /**
- * Escanea las normas en la carpeta normas/ y dados los archivos de metadata,
- * construye un nuevo conjunto de metadatos con información adicional para ser
- * leída y generar contenido en HTML por cada norma y que esta sea indexable
- * @param metadataFiles (array[string]) - Array de rutas con los archivos de metadata a tomar en cuenta
- * @returns array[obj] - Array de metadata con objetos con el siguiente formato de ejemplo:
- * {
-        "nombre": "Decreto Presidencial N° 5486",
-        "nroEnGaceta": "1964NEC",
-        "fecha": "2025-11-09",     -- puede ser ""
-        "MM/AAAA": "11/2025",
-        "mesAnio": "noviembre/2025",
-        "tipoNorma": "Decreto Presidencial",
-        "enlaceNorma": "http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/280962",
-        "archivoNorma": "normas/2025/decreto-presidencial---5486.md,
-        "fuente": "gaceta oficial de Bolivia",
-        "estado": "vigente"
- * }
- *
+ * Dado el contenido de una normativa, busca el nombre en los titulares de este.
+ * La búsqueda varía según la fuente pues el formato de cada una es diferente.
+ * @param {string} contenido - Cadena en markdown
+ * @param {string} fuente - Fuente desde donde se extrajo el contenido
+ * @returns {string}
  */
-async function loadMarkdownFilesFromMetadata (metadataFiles = []) {
-    const newMetadata = [];
+function obtenerNombreDesdeContenido(contenido, fuente) {
+   // Dividir el contenido en líneas
+    const lines = contenido.split(/\r?\n/);
+    let normName = '';
+    if (fuente === FUENTE_GACETA) {
+        /*
+         **TEXTO DE CONSULTA**    
+         Gaceta Oficial del Estado Plurinacional de Bolivia   
+         Derechos Reservados © 2026
 
-    // Load all metadata JSON files into an array of objects
-    let allMetadataRecords = [];
-    for (const metadataFile of metadataFiles) {
-        const content = await fs.readFile(path.join(__dirname, metadataFile), 'utf-8');
-        const records = JSON.parse(content);
-        allMetadataRecords.push(...records);
+         ---
+
+         **DECRETO PRESIDENCIAL N° 5522**  
+         **RODRIGO PAZ PEREIRA**  
+         **PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**           
+
+         Retorna: decreto-presidencial-5522
+        */
+        
+        // Encontrar el índice del separador "---"
+        let separatorIndex = -1;
+        for (let i = 0; i < lines.length; i++) {
+            if (lines[i].trim() === "---") {
+                separatorIndex = i;
+                break;
+            }
+        }
+        
+        if (separatorIndex === -1) return "";
+        
+        // Patrón para identificar "TIPO N° NÚMERO" (con N° o Nº)
+        const pattern = /^([A-Z\s]+N[°º]\s*\d+)/;
+        
+        // Recorrer las líneas después del separador
+        for (let i = separatorIndex + 1; i < lines.length; i++) {
+            // Eliminar marcadores de negrita (**) y espacios
+            let cleaned = lines[i].replace(/\*\*/g, '').trim();
+            if (!cleaned) continue;
+            
+            const match = cleaned.match(pattern);
+            if (match) {
+                normName = match[1];
+                // Normalizar: minúsculas y espacios por guiones
+                normName = normName.toLowerCase().replace(/\s+/g, '-').trim();
+                break;
+            }
+        }
     }
+    if (fuente === FUENTE_LEXIVOX) {
+        /*
+          Ejemplo:
+          # Bolivia: Decreto Supremo Nº 29760, 24 de octubre de 2008
 
-    // Get all markdown files from the input directory
-    const mdFiles = await scanMarkdownFiles();
-
-    let count = 0;
-    let fallidosCount = 0;
-    for (const mdFilepath of mdFiles) {
-        const fullPath = path.join(INPUT_DIR, mdFilepath);
-        const metadata = parseFile(fullPath); // returns { title, normType, year, filename, fuente? }
-
-        let match = null;
-        for (const record of allMetadataRecords) { 
-            const titleMatch = record.nombre.split(' ').at(-1) === metadata.title.split(' ').at(-1);
-            const typeYearMatch = record.tipoNorma.toLowerCase() === metadata.normType.replaceAll('-', ' ').toLowerCase() &&
-                  record['MM/AAAA'].split('/')[1] === metadata.year;
-            if (titleMatch || typeYearMatch) {
-                match = record;
+          Retorna: decreto-supremo-29760
+        */
+        let lineNumber = 0;
+        // hasta las 50 primeras lineas buscando el titular
+        for (let i = 0; i < 50; i++) {
+            if (lines[i].indexOf('# Bolivia:') !== -1) {
+                lineNumber = i;
                 break;
             }
         }
 
-        if (match) {
-            newMetadata.push({
-                nombre: metadata.title.replaceAll('---', ' ').trim(),
-                tipoNorma: metadata.normType,
-                year: metadata.year,
-                fecha: match.fecha || '',
-                mesAnio: match.mesAnio || '',
-                enlaceNorma: match.enlaceNorma || '',
-                archivoNorma: mdFilepath,
-                nroEnGaceta: match.nroEnGaceta || '',
-                'MM/AAAA': match['MM/AAAA'] || '',
-                fuente: match.fuente || metadata.fuente || 'desconocido',
-                estado: match.noVigente ? 'no vigente' : 'vigente'
-            });
-        } else {
-            console.log(`No se encontró metadata para: ${mdFilepath}`);
-	    console.log(metadata);
-            // Optionally still include with minimal info
-            newMetadata.push({
-                nombre: metadata.title,
-                tipoNorma: metadata.normType,
-                year: metadata.year,
-                fecha: '',
-                archivoNorma: mdFilepath,
-                nroEnGaceta: '',
-                mesAnio: '',
-                enlaceNorma: '',
-                fuente: metadata.fuente || 'gaceta oficial',
-                estado: 'vigente'
-            });
-            fallidosCount++;
+        normName = lines[lineNumber].split("# Bolivia: ")[1].trim();
+        if (normName.split(',').length > 1) {
+            normName = normName.split(',')[0].trim();
         }
-        if (++count %200 === 0) console.log(`Procesados archivos ${count}, no encontrados: ${fallidosCount}`);
+
     }
-    return newMetadata;
+    // limpiando espacios en blanco adicionales o guiones
+    normName = normName.toLowerCase().replace(/n[°º]/g, ' ');
+    normName = normName.replace(/\s/g, '-');
+    normName = normName.replace(/-{2,}/g, '-');
+    return normName.trim();
 }
 
 module.exports = {
@@ -225,6 +226,5 @@ module.exports = {
     cleanAllHtmlsAndJson,
     scanMarkdownFiles,
     findMetadataFiles,
-    loadMarkdownFilesFromMetadata
 };
 

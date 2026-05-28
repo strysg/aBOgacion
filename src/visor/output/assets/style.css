@@ -32,6 +32,7 @@ select { padding: 0.5rem; border-radius: 0.5rem; border: 1px solid #d1d5db; back
 .result-title a { text-decoration: none; color: #1e3a8a; }
 .result-meta { display: flex; gap: 1rem; font-size: 0.85rem; color: #6b7280; margin-bottom: 0.5rem; }
 .result-preview { color: #4b5563; font-size: 0.9rem; }
+.result-preview a { color: #4b5563; font-size: 0.9rem; text-decoration: none}
 .norm-container {
   display: flex;
   flex-wrap: wrap;          /* allows stacking on small screens */

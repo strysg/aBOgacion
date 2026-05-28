@@ -109,11 +109,12 @@ async function search() {
     } else {
         const htmlResults = results.map(r => `
         <div class="result-card">
-            <div class="result-title"><a href="${r.url}">${escapeHtml(r.title)}</a></div>
+            <div class="result-title"><a href="${r.url}">${titleForDisplay(r.title)}</a></div>
             <div class="result-meta">
                 <code>${escapeHtml(r.type)}</code> · <strong>${escapeHtml(r.year)}</strong>
+                <i>(${r.estado})</i>
             </div>
-            <div class="result-preview">${escapeHtml(r.p)}…</div>
+            <div class="result-preview"> <a href="${r.url}">${escapeHtml(r.p)}…</a></div>
         </div>
        `).join('');
 
@@ -129,6 +130,11 @@ function escapeHtml(str) {
         if (m === '>') return '&gt;';
         return m;
     });
+}
+
+function titleForDisplay(title) {
+    title = title.replace(/-/g, ' ');
+    return title.charAt(0).toUpperCase() + title.slice(1);
 }
 
 // Start everything once the DOM is ready

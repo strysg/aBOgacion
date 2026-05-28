@@ -70,8 +70,12 @@ def obtener_nombre_desde_contenido(contenido: str, fuente: str) -> str:
     
     # Limpieza final común (replicando la lógica JS)
     if norm_name:
-        # Reemplazar 'n°' o 'nº' por espacio
-        norm_name = re.sub(r'n[°º]', ' ', norm_name.lower())
+        # limitando tamaño del nombre para normas con nombre muy extenso
+        norm_name = norm_name[:235]
+        # Reemplazar todos los / por -
+        norm_name = re.sub(r'\/', '-', norm_name)
+        # Reemplazar 'n°' o 'nº' y otros caracteres por espacio
+        norm_name = re.sub(r'n[°º“]', ' ', norm_name.lower())
         # Reemplazar espacios por guiones
         norm_name = norm_name.replace(' ', '-')
         # Colapsar guiones múltiples a uno solo

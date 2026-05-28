@@ -9,7 +9,7 @@ const ejs = require('ejs');
 const { marked } = require('marked');
 const FlexSearch = require('flexsearch');
 const { glob } = require('glob');
-const { cleanAllHtmlsAndJson, findMetadataFiles, loadMarkdownFilesFromMetadata } = require('./utils.js');
+const { cleanAllHtmlsAndJson, findMetadataFiles } = require('./utils.js');
 
 // ----- CLI argument parsing -----
 const args = process.argv.slice(2);
@@ -17,20 +17,16 @@ let action = null; // e.g., 'all', 'skip-clean', etc.
 
 for (let i = 0; i < args.length; i++) {
     switch (args[i]) {
-        case '-f':
-            action = 'fast';
-            break;
         case '--help':
             console.log(`
-Usage: node build.js [options]
+Usage: node build.js
 
 Options:
-  -f <action>   Para construir sin volver a generar el archivo output/metadata.json.
-                Sin esta opción
-                se vuelve a buscar todos los archivos markdown en /normas/ y se los intentan encontrar 
-                en los archivos de metada (/normas/*.metadata.json para asegurar se actualice todo.
-                Possible actions: "force" (delete everything), "append" (keep existing, only add new)
-  --help        Show this help message
+  --help        Muestra esta ayuda. Sin opciones construye todas las normas usando el archivo
+                /normas/metadatos.json y los archivos markdown /normas/normalized/* para
+                crear archivos html. Se sobre entiende previamente se han descargado todos
+                los archivos de normativas, construido los metadatos y las normativas en
+                markdown han sido normalizadas.
             `);
             process.exit(0);
         default:
@@ -38,16 +34,12 @@ Options:
     }
 }
 
-// Example: if action === 'force', we will use the aggressive cleaner
-const FAST_BUILD = (action === 'fast');
-
 // ------ Configuration --------
 const INPUT_DIR = '../../normas/normalized';
 const OUTPUT_DIR = './output';
 const SITE_TITLE = 'Visor de normas Bolivianas';
 
-const LEXIVOX_SEPARATOR = '---';
-const GACETA_SEPARATOR = '-n°-';
+const METADATA_FILE = '../../normas/metadatos.json';
 
 // Search index (FlexSearch)
 const index = new FlexSearch.Document({
@@ -70,92 +62,84 @@ async function build() {
     const normasTemplate = await fs.readFile(path.join(__dirname, 'templateNorma.ejs'), 'utf-8');
     const mainTemplate = await fs.readFile(path.join(__dirname, 'templateMain.ejs'), 'utf-8');
 
-    let files = [];
-    if (FAST_BUILD) {
-        console.log('⏩ Construcción rápida (evitando actualización de metadata)');
-        files = JSON.parse(await fs.readFile(path.join(OUTPUT_DIR, 'metadata.json'), 'utf-8'));
-    } else {
-        console.log('🔨 Iniciando construcción completa (actualizando metadata)');
-        const metadataFiles = await findMetadataFiles();
-        files = await loadMarkdownFilesFromMetadata(metadataFiles);
-        // guardando la metadata cargado de documentos json y archivos markdown
-        // util cuando se quiere evitar la función loadmarkdownfilesfrommetadata
-        await fs.writeFile(path.join(OUTPUT_DIR, 'metadata.json'), JSON.stringify(files));
-    }
-
+    const allMetadata = JSON.parse(await fs.readFile(METADATA_FILE), 'utf-8');
 
     let count = 0;
     let skipped = 0;
     let skippedList = [];
     let allDocs = [];
-
     const years = {};
-    
-    for (const fileMetadata of files) {
-        const fullPath = path.join(INPUT_DIR, fileMetadata.archivoNorma);
-
-        const rawMarkdown = await fs.readFile(fullPath, 'utf-8');
-        // markdown a HTML
+    for (const metadata of allMetadata) {
+        // en el archivo de metadata se tiene tambien la ruta del archivo en "archivoNorma", ejemplo: "normas/raw/2020/ley---1344.md",
+        // con esto se re escribe como "../../normas/normalized/2020/ley---1344.md"
+        const fullPath = path.join(INPUT_DIR, metadata.archivoNorma.split('/').at(-2), metadata.archivoNorma.split('/').at(-1));
+        let markdown;
+        try {
+            markdown = await fs.readFile(fullPath, 'utf-8');
+        } catch (err) {
+            console.warn(`⚠️ no se ha encontrado el archivo ${fullPath}. Saltando`);
+            console.warn(err);
+            continue;
+        }
         let htmlContent;
         try {
-            htmlContent = await marked.parse(rawMarkdown);
+            htmlContent = await marked.parse(markdown);            
         } catch (err) {
             console.error(`❌ Error al parsear ${fullPath}: ${err.message}`);
             skipped++;
             skippedList.push(fullPath);
             htmlContent = `<div class="error">⚠️ No se pudo procesar este documento. <br><small>${err.message}</small></div>
-                           <pre>${rawMarkdown.slice(0, 1000)}</pre>`;
+                           <pre>${markdown.slice(0, 1000)}</pre>`;
         }
 
-        const textPreview = rawMarkdown.replace(/[#*`>\[\]()]/g, '').slice(0, 290);
+        // 290 primeros caracteres sin espacios en blanco adicionales
+        const textPreview = markdown.replace(/[#*`>\[\]()]/g, '').slice(0, 290).replace(/\s+/g, ' ').
+              replace(/\-+/, '').trim();
 
-        // generar html
-        const yearPath = path.join(OUTPUT_DIR, fileMetadata.year);
+        // generar Html
+        const year = metadata['MM/AAAA'].split('/')[1];
+        const yearPath = path.join(OUTPUT_DIR, year);
         if (!fs.existsSync(yearPath)) {
             fs.mkdirSync(yearPath, { recursive: true });
         }
-        const cleanName = fileMetadata['nombre'].replaceAll('---', ' ').trim();
+        const cleanName = metadata['nombre'].replaceAll('---', ' ').trim();
 
-        const outputHtmlPath = path.join(yearPath, `${cleanName}.html`);
-        const fullhtml = ejs.render(normasTemplate, {
-            ...fileMetadata,
+        const outputHtmlPath = path.join(yearPath, `${metadata.nombre}.html`);
+        const fullHtlm = ejs.render(normasTemplate, {
+            id: count,
+            ...metadata,
+            year,
             siteTitle: SITE_TITLE,
-            htmlContent: htmlContent
-            // TODO agregar mas metadatos como la fuente, la url en la gaceta o lexivox
+            htmlContent
         });
 
-        fs.writeFileSync(outputHtmlPath, fullhtml);
-        // console.log(`Archivo ${outputHtmlPath} guardado.`);
+        try {
+            await fs.writeFile(outputHtmlPath, fullHtlm);
+        } catch (error) {
+            console.warn(`⚠️ No se pudo guardar el documento ${outputHtmlPath}`);
+            console.warn(error);
+        }
+        
         allDocs.push({
             id: count,
-            title: cleanName,           // e.g. "Resolución Suprema N° 32206"
-            type: fileMetadata.tipoNorma,         // e.g. "Resolución Suprema"
-            year: fileMetadata.year,
+            title: cleanName,
+            type: metadata.tipoNorma,
+            year,
+            estado: metadata.estado,
             p: textPreview,
-            url: `${fileMetadata.year}/${cleanName}.html`  // include .html
+            url: `${year}/${cleanName}.html`
         });
-        count ++;
-        if (count % 500 === 0) console.log(`📄 Procesados ${count} archivos (omitidos: ${skipped})...`);
+        count++;
+        if (count%500 == 0) console.log(`📄 Procesados ${count} archivos (omitidos: ${skipped})...`);
 
-        if (years[fileMetadata['year']] === undefined) {
-            years[fileMetadata['year']] = 1;
-        } else {
-            years[fileMetadata['year']] = years[fileMetadata['year']] + 1;
-        }
+        if (!years[year]) years[year] = 0;
+        years[year] += 1;
     }
 
-    // guardando la metadata de todos los documentos
+    // guardando la metadata para ser consumido en el navegador
     await fs.writeFile(path.join(OUTPUT_DIR, 'assets', 'docs.json'), JSON.stringify(allDocs));
-
     console.log(`✅ Procesamiento completado. ${skipped} archivos omitidos.`);
     skippedList.forEach(omitido => { console.log(`Omitido: ${omitido}`); });
-
-    // Constuir la serialización del índice de búsqueda
-    // const indexState = index.export();
-    // await fs.writeFile(path.join(OUTPUT_DIR, 'assets', 'index.json'), JSON.stringify(indexState));
-
-    //const years = ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012'];
-
 
     // TODO: incluir indice por años y otros datos generales en página principal
     const mainHtml = ejs.render(mainTemplate, { title: SITE_TITLE, years });

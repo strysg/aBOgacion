@@ -315,6 +315,7 @@ async def unificar_metadatos():
 
     nueva_metadata = []
     normas_guardadas = []
+    procesados = 0
     for i, norma in enumerate(normas):
         url = norma['enlaceNorma']
         anio = norma['MM/AAAA'].split('/')[-1]        
@@ -350,7 +351,8 @@ async def unificar_metadatos():
             'mesAnio': norma['mesAnio'],
             'fecha': norma['mesAnio'],
             'tipoNorma': norma['tipoNorma'],
-            'archivoNorma': ruta_archivo.replace("°", "").replace("º", ""),
+            #'archivoNorma': ruta_archivo.replace("°", "").replace("º", ""),
+            'archivoNorma': ruta_archivo,
             'fuente': fuente,
             'nroEnGaceta': norma.get('nroEnGaceta', '').strip(),
             'estado': 'no vigente' if es_abrogada else 'vigente'
@@ -365,11 +367,12 @@ async def unificar_metadatos():
         
         nueva_metadata.append(metadata)
         normas_guardadas.append((nombre, metadata['MM/AAAA']))
+        procesados += 1
         if i%100 == 0:
-            print(f'Procesados {i}. Ùltimo: {metadata}')
+            print(f'Procesados {procesados}. Totales: {i}. Ùltimo:\n{metadata}')
     
 
     # Open file and write the list as JSON
     with open("normas/metadatos.json", "w", encoding="utf-8") as file:
-        json.dump(nueva_metadata, file, indent=2)
-        print(f'Escritos {len(nueva_metadata)} registros')
+        json.dump(nueva_metadata, file, indent=2, ensure_ascii=False)
+        print(f'Escritos {len(nueva_metadata)} registros. Totales encontrados: {procesados}')
