@@ -21,8 +21,10 @@ from pathlib import Path
 from datetime import datetime
 from playwright.async_api import async_playwright
 from src.scraper.common.selectors import get_selector_value, get_locator, get_all_elements_from_locator
+from src.scraper.common.utils import obtener_nombre_desde_contenido, FUENTE_GACETA, FUENTE_LEXIVOX, ARCHIVO_ABROGADAS
 from src.common.custom_logger import CustomLogger
 from src.common.time import random_sleep, today_yyyymmdd, age_in_days, datetime_from_yyyymmdd, mes_from_number
+
 
 
 LOGGER = CustomLogger('gaceta - metadata ')
@@ -216,7 +218,6 @@ async def obtener_metadata(desde_fecha, hasta_fecha):
         print(f'Terminado, obtenidos en total: {len(metadata)}. Páginas: {pagina}')
 
 
-
 async def obtener_normas_desde_metadata(archivo=None):
     """Obtiene las normas desde una lista de metadatos, las convierte en markdown
     y las guarda en el directorio correspondiente.
@@ -281,4 +282,94 @@ async def obtener_normas_desde_metadata(archivo=None):
             
         except Exception as e:
             print(f"Error procesando {url}: {e}")
+
+
+async def unificar_metadatos():
+    """Lee todos los archivos de metadatos y archivos descargados para crear un nuevo archivo
+    de metadatos unificado y completo.
+    """
+    ruta_dir = Path('normas/')
+    if not ruta_dir.is_dir():
+        print(f"El directorio no existe.")
+        return None
+
+    # Patrón para validar y extraer la fecha del nombre
+
+    archivos_validos = []
+    for archivo in ruta_dir.glob("*metadata.json"):
+        archivos_validos.append(archivo)
+
+    if not archivos_validos:
+        print("No se encontraron archivos con el formato esperado.")
+        return None
+
+    normas = []
+    for archivo in archivos_validos:
+        with open(archivo, 'r', encoding='utf-8') as f:
+            _normas = json.load(f)
+            normas.extend(_normas)
+
+    abrogadas = []
+    with open(ARCHIVO_ABROGADAS, 'r', encoding='utf-8') as f:
+        abrogadas = json.load(f)
+
+    nueva_metadata = []
+    normas_guardadas = []
+    for i, norma in enumerate(normas):
+        url = norma['enlaceNorma']
+        anio = norma['MM/AAAA'].split('/')[-1]        
+        nombre_base = limpiar_nombre(norma['nombre'])
+
+        # Buscar carpeta, sino existe crearla
+        ruta_carpeta = os.path.join("normas", "raw", anio)
+        if not os.path.exists(ruta_carpeta):
+            os.makedirs(ruta_carpeta)
+
+        ruta_archivo = os.path.join(ruta_carpeta, f"{nombre_base}.md")            
         
+        contenido_md = ''
+        try:
+            with open(ruta_archivo, 'r', encoding='utf-8') as f_md:
+                contenido_md = f_md.read()
+        except Exception as e:
+            print(f"Error leyendo {ruta_archivo}: {e}")
+
+        # determinando fuente del archivo (desde su nombre)
+        fuente = FUENTE_GACETA
+        if ruta_archivo.find("---") != -1:
+            fuente = FUENTE_LEXIVOX
+
+        nombre = obtener_nombre_desde_contenido(contenido_md, fuente)
+        
+        es_abrogada = next((item for item in abrogadas if item['nombre'] == nombre), False)
+
+        metadata = {
+            'enlaceNorma': url,
+            'MM/AAAA': norma['MM/AAAA'],
+            'nombre': nombre,
+            'mesAnio': norma['mesAnio'],
+            'fecha': norma['mesAnio'],
+            'tipoNorma': norma['tipoNorma'],
+            'archivoNorma': ruta_archivo.replace("°", "").replace("º", ""),
+            'fuente': fuente,
+            'nroEnGaceta': norma.get('nroEnGaceta', '').strip(),
+            'estado': 'no vigente' if es_abrogada else 'vigente'
+        }
+
+        # verificando duplicados
+        if next((item for item in normas_guardadas if item[0] == nombre), None) is not None and \
+           next((item for item in normas_guardadas if item[1] == metadata['MM/AAAA']), None) is not None:
+            encontrado = next((item for item in nueva_metadata if item['nombre'] == nombre), None)
+            print(f'*** Ya existe {nombre} {metadata["MM/AAAA"]}\n{metadata}\nEncontrado:\n{encontrado}')
+            continue
+        
+        nueva_metadata.append(metadata)
+        normas_guardadas.append((nombre, metadata['MM/AAAA']))
+        if i%100 == 0:
+            print(f'Procesados {i}. Ùltimo: {metadata}')
+    
+
+    # Open file and write the list as JSON
+    with open("normas/metadatos.json", "w", encoding="utf-8") as file:
+        json.dump(nueva_metadata, file, indent=2)
+        print(f'Escritos {len(nueva_metadata)} registros')

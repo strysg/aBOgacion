@@ -46,6 +46,9 @@ python obtener_normas.py
 # gaceta
 cd <ruta raiz del proyecto>
 python obtener_gaceta.py
+
+# Unificar todos los archivos de metadatos
+python construir_metadata.py
 ```
 
 Todo se guardará en `normas/raw`
